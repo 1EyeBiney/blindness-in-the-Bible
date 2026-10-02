@@ -90,9 +90,9 @@ Faith acted on before sight arrives.
   reliable source, not memory.
 - The Berean text is public domain (dedicated 30 April 2023; terms read on
   berean.bible, 2 October 2026). The publisher asks that copies which differ
-  from the official text not carry the Berean name. The copy in Accessible
-  Bible has quotation marks removed, so the site says so. Switching to the
-  official text is an open decision.
+  from the official text not carry the Berean name. Brian's decision,
+  2 October 2026: use the publisher's official text, word for word, and
+  attribute it. It is kept at data/raw/berean/bsb.txt.
 
 ## Working rules carried over from Gridiron Greatness
 

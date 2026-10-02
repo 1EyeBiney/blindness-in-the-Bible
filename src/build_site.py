@@ -112,8 +112,8 @@ def page(title: str, body: str, current: str, root: str = "") -> str:
 {body}
 </div></main>
 <footer><div class="wrap">
-<p>Scripture is from the Berean Standard Bible, which is in the public domain. The copy used here was prepared for
-the Accessible Bible project and has quotation marks removed.</p>
+<p>Scripture quotations are from the Holy Bible, Berean Standard Bible, BSB, which has been dedicated to the public
+domain. The text is used exactly as published at <a href="https://berean.bible">berean.bible</a>.</p>
 <p>Not By Sight is a work in progress by Brian Clark.</p>
 </div></footer>
 </body>
@@ -219,9 +219,10 @@ come later.</li>
 </ul>
 
 <h2>The text</h2>
-<p>Scripture is quoted from the Berean Standard Bible, dedicated to the public domain on April 30, 2023. The copy used
-here was prepared for the <a href="https://www.accessible-bible.org">Accessible Bible</a> project and has quotation
-marks removed, so it differs in punctuation from the official text.</p>
+<p>Scripture is quoted from the Holy Bible, Berean Standard Bible, BSB, produced in cooperation with Bible Hub,
+Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. It was dedicated to the public domain on
+April 30, 2023. The official text is used word for word, as published at
+<a href="https://berean.bible">berean.bible</a>.</p>
 
 <h2>Made with help</h2>
 <p>The research and the site are built by Brian Clark working with Claude, an AI model made by Anthropic. Brian

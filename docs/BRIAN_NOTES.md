@@ -19,6 +19,21 @@ Christian. I do think that God has a deep care for the blind. I truly
 believe that we "walk by faith and not by sight", so that saying has a lot
 of meaning for me.
 
+**Asked:** Of the blind people in Scripture who were never healed (Isaac,
+Jacob, Eli, Ahijah, Samson, Zedekiah), is there one whose story speaks to
+you most?
+
+**Brian:** I don't know that any blind characters in the Bible really speak
+to me like that. I did not lose my vision to old age and was born with good
+eyesight.
+
+*Note for the studies:* this is itself worth writing about. Brian was born
+sighted and lost his sight later, not in old age (he has not said when or
+how). Scripture's blind people are mostly born blind, blind in old age, or
+blinded by enemies or by God for a time. Two partial parallels to sight lost
+after having it: Bartimaeus, who asks to "see again" (Mark 10:51), and Saul
+on the Damascus road, whose sight returned after three days.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)

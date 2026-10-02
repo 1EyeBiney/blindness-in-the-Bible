@@ -33,6 +33,14 @@ def test_every_row_is_fully_classified():
         assert not x["text"].startswith("-") and " ," not in x["text"] and " ." not in x["text"]
 
 
+def test_text_is_the_official_berean_text_word_for_word():
+    src = ROOT / "data" / "raw" / "berean" / "bsb.txt"
+    official = dict(line.rstrip("\r").split("\t", 1) for line in src.read_text(encoding="utf-8-sig").split("\n")
+                    if "\t" in line)
+    for x in rows():
+        assert official[x["reference"]].strip() == x["text"], x["reference"]
+
+
 def test_blindfold_verses_are_set_aside():
     other = [x for x in rows() if x["kind"] == "other"]
     assert len(other) == 3 and all("blindfold" in x["text"].lower() for x in other)

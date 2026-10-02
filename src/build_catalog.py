@@ -15,20 +15,19 @@ text. Brian reviews it; `confidence` marks the calls most open to dispute.
 
 Run from the project folder:
     python src/build_catalog.py
-Reads the verse text from the Accessible Bible project (see BSB_PATH) and
-writes data/catalog.csv. The site builds from that committed file, so the
-Bible text does not need to be present to build the site.
+Reads the official Berean Standard Bible text (data/raw/berean/bsb.txt, see
+SOURCE.md beside it) and writes data/catalog.csv. The site builds from that
+committed file.
 """
 from __future__ import annotations
 
 import csv
-import json
 import os
 import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-BSB_PATH = Path(os.environ.get("BSB_PATH", r"C:\nbs\abible\translations\bsb2.json"))
+BSB_PATH = Path(os.environ.get("BSB_PATH", ROOT / "data" / "raw" / "berean" / "bsb.txt"))
 OUT = ROOT / "data" / "catalog.csv"
 
 # kind: the broad group. sub: the narrower one. who: the person or group.
@@ -203,22 +202,25 @@ DESCRIBED_VERSES = [
 ]
 
 
-def ref_from(v: dict) -> str:
-    return f'{v["book_name"]} {v["chapter"]}:{v["verse"]}'
-
-
-def tidy(text: str) -> str:
-    """Remove spacing left behind where the source file dropped markup.
-    Words are not changed."""
-    text = re.sub(r"span$", "", text.strip())
-    text = re.sub(r"^-\s*", "", text)
-    text = re.sub(r"\s+([,.;:!?])", r"\1", text)
-    text = re.sub(r"\s+-\s*(?=[,.;:!?]|$)", "", text)
-    return re.sub(r"\s{2,}", " ", text).strip()
+def load_bsb() -> list[dict]:
+    """The official Berean Standard Bible text, one verse per line as
+    "Book C:V<TAB>text", from bereanbible.com/bsb.txt (public domain).
+    The words and punctuation are used exactly as published."""
+    verses = []
+    for line in BSB_PATH.read_text(encoding="utf-8-sig").split("\n"):
+        m = re.match(r"^((?:[1-3] )?[A-Za-z ]+?) (\d+):(\d+)\t(.*)$", line.rstrip("\r"))
+        if not m:
+            continue
+        book, ch, vs, text = m.group(1), int(m.group(2)), int(m.group(3)), m.group(4).strip()
+        verses.append({"id": f"{book.lower().replace(' ', '')}_{ch}_{vs}", "book_name": book, "chapter": ch,
+                       "verse": vs, "text": text, "reference": f"{book} {ch}:{vs}",
+                       "testament": "OT" if len({v["book_name"] for v in verses} | {book}) <= 39 else "NT"})
+    return verses
 
 
 def build() -> list[dict]:
-    verses = {v["id"]: v for v in json.loads(BSB_PATH.read_text(encoding="utf-8"))}
+    all_verses = load_bsb()
+    verses = {v["id"]: v for v in all_verses}
     order = {vid: i for i, vid in enumerate(verses)}
     rows = []
     for found_by, items in (("word", WORD_VERSES), ("described", DESCRIBED_VERSES)):
@@ -226,18 +228,17 @@ def build() -> list[dict]:
             v = verses[vid]
             assert kind in KINDS and sub in SUBS, (vid, kind, sub)
             rows.append({
-                "order": order[vid], "id": vid, "reference": ref_from(v), "testament": v["testament"],
+                "order": order[vid], "id": vid, "reference": v["reference"], "testament": v["testament"],
                 "book": v["book_name"], "chapter": v["chapter"], "verse": v["verse"],
                 "found_by": found_by, "kind": kind, "sub": sub, "who": who, "confidence": conf,
-                "note": note, "text": tidy(v["text"]),
+                "note": note, "text": v["text"],
             })
     rows.sort(key=lambda r: r["order"])
     return rows
 
 
 def word_search_ids() -> list[str]:
-    return [v["id"] for v in json.loads(BSB_PATH.read_text(encoding="utf-8"))
-            if re.search(r"\bblind", v["text"], re.I)]
+    return [v["id"] for v in load_bsb() if re.search(r"\bblind", v["text"], re.I)]
 
 
 def main() -> None:
