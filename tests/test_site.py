@@ -48,8 +48,8 @@ def test_blindfold_verses_are_set_aside():
 
 def test_site_builds_and_is_accessible(tmp_path):
     build_site.render_all(tmp_path)
-    pages = sorted(tmp_path.glob("*.html"))
-    assert [p.name for p in pages] == ["about.html", "catalog.html", "index.html"]
+    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "catalog.html", "index.html"]
+    pages = sorted(tmp_path.rglob("*.html"))
     for p in pages:
         h = p.read_text(encoding="utf-8")
         assert '<html lang="en">' in h and h.count("<h1>") == 1, p.name
@@ -59,10 +59,49 @@ def test_site_builds_and_is_accessible(tmp_path):
         for href in re.findall(r'href="([^"#]+)"', h):
             if href.startswith("http"):
                 continue
-            assert (tmp_path / href).exists(), f"{p.name}: broken link {href}"
+            assert (p.parent / href).resolve().exists(), f"{p.name}: broken link {href}"
         # headings do not skip levels
         levels = [int(x) for x in re.findall(r"<h([1-6])", h)]
         assert all(b - a <= 1 for a, b in zip(levels, levels[1:])), p.name
     cat = (tmp_path / "catalog.html").read_text(encoding="utf-8")
     assert cat.count("<table>") == cat.count("<caption>") and 'scope="col"' in cat and 'scope="row"' in cat
     assert cat.count('<th scope="row">') == len(rows())
+
+
+def test_stories_quote_real_passages_and_cover_the_physical_catalog(tmp_path):
+    import stories as st
+    bible = build_site.load_bible()
+    slugs = [x["slug"] for x in st.STORIES]
+    assert len(slugs) == len(set(slugs))
+    groups = {k for k, _, _ in st.GROUPS}
+    for x in st.STORIES:
+        assert x["group"] in groups and x["outcome"] in st.OUTCOMES, x["slug"]
+        for book, ch, a, z in x["passages"]:
+            assert (book, ch, a) in bible and (book, ch, z) in bible, (x["slug"], book, ch, a, z)
+        for part in ("around", "happens", "shoes"):
+            assert len(x[part]) > 80, (x["slug"], part)
+    # every verse about a blind person or group in a narrative belongs to a story
+    in_story = build_site.story_for_verses()
+    loose = [r["reference"] for r in rows()
+             if r["kind"] == "physical" and r["sub"] not in ("possible", "god_makes") and r["reference"] not in in_story]
+    # three verses stand outside any story: Moses's undimmed eyes (a contrast), and two later
+    # remarks in John that look back on the man born blind
+    assert loose == ["Deuteronomy 34:7", "John 10:21", "John 11:37"], loose
+    build_site.render_all(tmp_path)
+    for x in st.STORIES:
+        h = (tmp_path / "stories" / f"{x['slug']}.html").read_text(encoding="utf-8")
+        assert x["title"] in h.replace("&#x27;", "'") and "In their shoes" in h and 'class="verse"' in h
+
+
+def test_story_claims_that_rest_on_a_word_in_the_text():
+    bible = build_site.load_bible()
+    assert "see again" in bible[("Mark", 10, 51)] and "see again" in bible[("Luke", 18, 41)]
+    assert "trees walking" in bible[("Mark", 8, 24)]
+    assert "led him by the hand" in bible[("Acts", 9, 8)].replace("led him by the hand", "led him by the hand") or "by the hand" in bible[("Acts", 9, 8)]
+    assert "by the hand" in bible[("Acts", 13, 11)] and "by the hand" in bible[("Acts", 22, 11)]
+    assert "for my two eyes" in bible[("Judges", 16, 28)]
+    assert "I know, my son, I know" in bible[("Genesis", 48, 19)]
+    assert "sound of her feet" in bible[("1 Kings", 14, 6)]
+    assert "The blind and the lame will never enter the palace" in bible[("2 Samuel", 5, 8)]
+    assert "Sabbath" in bible[("John", 9, 14)] and "Brother Saul" in bible[("Acts", 9, 17)]
+    assert "Having eyes, do you not see?" in bible[("Mark", 8, 18)]

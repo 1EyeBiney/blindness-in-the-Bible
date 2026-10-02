@@ -11,10 +11,12 @@ from __future__ import annotations
 import csv
 import html
 import shutil
+import sys
 from collections import Counter, OrderedDict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 DATA = ROOT / "data" / "catalog.csv"
 OUT = ROOT / "site"
 
@@ -73,6 +75,7 @@ h1 { font-size: 2rem; line-height: 1.25; }
 h2 { font-size: 1.5rem; margin-top: 2.5rem; border-top: 1px solid var(--rule); padding-top: 1rem; }
 h3 { font-size: 1.2rem; }
 .lede { font-size: 1.25rem; }
+p.verse { margin: .5rem 0; }
 blockquote { margin: 1rem 0; padding: .25rem 1rem; border-left: 4px solid var(--rule); }
 .table-scroll { overflow-x: auto; }
 table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
@@ -88,7 +91,8 @@ def e(s) -> str:
 
 
 def page(title: str, body: str, current: str, root: str = "") -> str:
-    nav = [("index.html", "Home"), ("catalog.html", "The catalog"), ("about.html", "About")]
+    nav = [("index.html", "Home"), ("stories/index.html", "The stories"), ("catalog.html", "The catalog"),
+           ("about.html", "About")]
     links = "".join(
         f'<li><a href="{root}{href}"{" aria-current=\"page\"" if href == current else ""}>{e(label)}</a></li>'
         for href, label in nav)
@@ -125,10 +129,44 @@ def load() -> list[dict]:
     return list(csv.DictReader(open(DATA, encoding="utf-8")))
 
 
+def load_bible() -> dict:
+    """(book, chapter, verse) -> text, from the official Berean file."""
+    import re
+    out = {}
+    src = ROOT / "data" / "raw" / "berean" / "bsb.txt"
+    for line in src.read_text(encoding="utf-8-sig").split("\n"):
+        m = re.match(r"^((?:[1-3] )?[A-Za-z ]+?) (\d+):(\d+)\t(.*)$", line.rstrip("\r"))
+        if m:
+            out[(m.group(1), int(m.group(2)), int(m.group(3)))] = m.group(4).strip()
+    return out
+
+
+def passage_label(p) -> str:
+    book, ch, a, z = p
+    return f"{book} {ch}:{a}-{z}" if z > a else f"{book} {ch}:{a}"
+
+
+def story_for_verses() -> dict:
+    """reference -> story, for every verse inside a story's passages."""
+    import stories as st
+    out = {}
+    for story in st.STORIES:
+        for book, ch, a, z in story["passages"]:
+            for v in range(a, z + 1):
+                out.setdefault(f"{book} {ch}:{v}", story)
+    return out
+
+
 def table(rows: list[dict], caption: str) -> str:
-    head = "".join(f'<th scope="col">{h}</th>' for h in ("Reference", "Text", "Who", "How found", "How sure", "Note"))
+    in_story = story_for_verses()
+    head = "".join(f'<th scope="col">{h}</th>' for h in ("Reference", "Text", "Who", "Story", "How found", "How sure", "Note"))
+
+    def story_cell(r):
+        st_ = in_story.get(r["reference"])
+        return f'<a href="stories/{st_["slug"]}.html">{e(st_["title"])}</a>' if st_ else ""
     body = "".join(
         f'<tr><th scope="row">{e(r["reference"])}</th><td>{e(r["text"])}</td><td>{e(r["who"])}</td>'
+        f'<td>{story_cell(r)}</td>'
         f'<td>{e(FOUND[r["found_by"]])}</td><td>{e(CONF[r["confidence"]])}</td><td>{e(r["note"])}</td></tr>'
         for r in rows)
     return (f'<div class="table-scroll"><table><caption>{e(caption)}</caption>'
@@ -164,6 +202,56 @@ def catalog_page(rows: list[dict]) -> str:
     return "\n".join(parts)
 
 
+def stories_index() -> str:
+    import stories as st
+    parts = ["<h1>The stories</h1>",
+             f'<p class="lede">The verses in the catalog are not scattered sayings. Most belong to a story: a person, '
+             f"a place, something that led up to the moment and something that came after. Here are "
+             f"{len(st.STORIES)} of them, each with the full passage.</p>",
+             "<p>Every story has three parts besides the passage itself: what led up to it, what happens, and what "
+             "the text lets us notice from the blind person's side. That last part is an invitation to stand where "
+             "they stood.</p>"]
+    for key, title, intro in st.GROUPS:
+        group = [x for x in st.STORIES if x["group"] == key]
+        parts.append(f"<h2>{e(title)}</h2><p>{e(intro)}</p><ul>")
+        for x in group:
+            refs = "; ".join(passage_label(p) for p in x["passages"])
+            parts.append(f'<li><a href="{x["slug"]}.html">{e(x["title"])}</a>. {e(refs)}. '
+                         f'{e(st.OUTCOMES[x["outcome"]])}.</li>')
+        parts.append("</ul>")
+    return "\n".join(parts)
+
+
+def story_page(story: dict, bible: dict, order: list[dict]) -> str:
+    import stories as st
+    i = order.index(story)
+    prev_, next_ = (order[i - 1] if i > 0 else None), (order[i + 1] if i + 1 < len(order) else None)
+    group_title = next(t for k, t, _ in st.GROUPS if k == story["group"])
+    parts = ['<p><a href="index.html">All the stories</a></p>',
+             f"<h1>{e(story['title'])}</h1>",
+             f'<p class="lede">{e(group_title)}. {e(st.OUTCOMES[story["outcome"]])}. '
+             f'{e("; ".join(passage_label(p) for p in story["passages"]))}.</p>',
+             f"<h2>What led up to it</h2><p>{e(story['around'])}</p>",
+             f"<h2>What happens</h2><p>{e(story['happens'])}</p>",
+             f"<h2>In their shoes</h2><p>{e(story['shoes'])}</p>",
+             "<h2>The passage</h2>"]
+    for p in story["passages"]:
+        book, ch, a, z = p
+        parts.append(f"<h3>{e(passage_label(p))}</h3>")
+        for v in range(a, z + 1):
+            text = bible.get((book, ch, v))
+            if text:
+                parts.append(f'<p class="verse"><b>{v}</b> {e(text)}</p>')
+    nav = []
+    if prev_:
+        nav.append(f'Previous: <a href="{prev_["slug"]}.html">{e(prev_["title"])}</a>')
+    if next_:
+        nav.append(f'Next: <a href="{next_["slug"]}.html">{e(next_["title"])}</a>')
+    parts.append("<h2>More stories</h2><ul>" + "".join(f"<li>{n}</li>" for n in nav) +
+                 '<li><a href="index.html">All the stories</a></li></ul>')
+    return "\n".join(parts)
+
+
 def index_page(rows: list[dict]) -> str:
     counts = Counter(r["kind"] for r in rows)
     n_word = sum(r["found_by"] == "word" for r in rows)
@@ -174,8 +262,9 @@ def index_page(rows: list[dict]) -> str:
 their families, and the church.</p>
 
 <h2>Where this stands</h2>
-<p>This site has just begun. The first piece of work is done in draft: a <a href="catalog.html">catalog</a> of every
-passage that speaks of blindness. The studies will be built on it.</p>
+<p>This site has just begun. Two pieces of work are done in draft. The <a href="stories/index.html">stories</a>
+gather the verses into the passages they belong to, with what led up to each and what it was like to be there.
+The <a href="catalog.html">catalog</a> lists every verse that speaks of blindness.</p>
 <ul>
 <li>{n_word} verses in the Berean Standard Bible use the word blind in some form.</li>
 <li>{len(rows) - n_word} more describe blindness or lost sight without using the word.</li>
@@ -186,8 +275,9 @@ passage that speaks of blindness. The studies will be built on it.</p>
 
 <h2>What is planned</h2>
 <ol>
-<li>The catalog: every passage, sorted and open to review.</li>
-<li>The people: every blind person in Scripture, who was healed, who was not, and what the text says of each.</li>
+<li>The catalog: every passage, sorted and open to review. Done in draft.</li>
+<li>The stories: every blind person in Scripture, who was healed, who was not, and what the text says of each.
+Done in draft.</li>
 <li>The healings: what the accounts share and where they differ.</li>
 <li>The law: how God commands His people to treat the blind.</li>
 </ol>
@@ -240,6 +330,15 @@ def render_all(out: Path = OUT) -> None:
     (out / "index.html").write_text(page("Home", index_page(rows), "index.html"), encoding="utf-8")
     (out / "catalog.html").write_text(page("The catalog", catalog_page(rows), "catalog.html"), encoding="utf-8")
     (out / "about.html").write_text(page("About", ABOUT, "about.html"), encoding="utf-8")
+    import stories as st
+    bible = load_bible()
+    (out / "stories").mkdir(exist_ok=True)
+    (out / "stories" / "index.html").write_text(
+        page("The stories", stories_index(), "stories/index.html", root="../"), encoding="utf-8")
+    order = [x for key, _, _ in st.GROUPS for x in st.STORIES if x["group"] == key]
+    for story in st.STORIES:
+        (out / "stories" / f"{story['slug']}.html").write_text(
+            page(story["title"], story_page(story, bible, order), "stories/index.html", root="../"), encoding="utf-8")
 
 
 if __name__ == "__main__":
