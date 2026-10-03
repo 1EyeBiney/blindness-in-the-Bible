@@ -1,0 +1,215 @@
+<!-- title: Hebrew Bible judges; revid: 1376869250; timestamp: 2026-09-26T18:18:32Z -->
+{{Short description|Authority in the early history of Israel}}
+{{Use Oxford spelling|date=August 2018}}
+{{Use dmy dates|date=August 2018}}
+{{Judges}}
+The '''judges''' (sing. {{langx|he|שופט|šōp̄ēṭ}}, pl. {{lang|he|שופטים}} {{Transliteration|he|ISO|šōp̄əṭīm}}) whose stories are recounted in the [[Hebrew Bible]], primarily in the [[Book of Judges]], were individuals who served as military, political, and spiritual leaders of the [[Twelve Tribes of Israel|tribes of Israel]] in times of crisis, in the period before the [[Kings of Israel and Judah|monarchy]] was established.
+
+==Role==
+[[File:Speculum Darmstadt 2505 31r Sangor.jpg|thumb|[[Shamgar]] slaughters 600 men with an [[ox goad]] in [[Judges 3:31]] as illustrated in a medieval German manuscript.]]
+
+A cyclical pattern is regularly recounted in the [[Book of Judges]] to show the need for the various judges: [[apostasy]] of the Israelite people, hardship brought on as [[divine retribution]], and crying out to [[Yahweh]], and rescue of the people by Yahweh.{{sfn |Boling|Nelson|2006}}<ref>{{Cite book |url=http://archive.org/details/harpercollinsstu00wayn |title=The HarperCollins study Bible : New Revised Standard Version, with the Apocryphal/Deuterocanonical books |date=1993 |publisher=New York, NY : HarperCollins |others=Internet Archive |isbn=978-0-06-065580-8 |pages=372 |language=English}}</ref> Consequently, God chooses a judge from a certain tribe of Israel who rescues the people from the divine retribution, usually enemies, and establishes justice.
+
+While ''judge'' is a literalistic translation of the term ''[[shophet]]'' used in the [[Masoretic Text]] (as well as by other [[Canaanite languages|Canaanitic-speaking]] societies), the position as described in [[Judges 12]]:7–15 is an unelected non-hereditary leadership rather than a position of legal pronouncements. [[Cyrus H. Gordon]] argued the shophetim may have come from among the hereditary leaders of the fighting, landed, and ruling aristocracy, like the [[Basileus|''basileis'']] or kings of [[Homer]].{{sfn|Gordon|1962|pp= 296–7}} Coogan says that they were most likely tribal or local leaders, contrary to the Deuteronomistic historian's portrayal of them as leaders of all of Israel,{{sfn|Coogan|2009|p=178}} but Malamat pointed out that in the text, their authority is described as being recognized by local groups or tribes beyond their own.{{sfn|Malamat|1971|p=129}} The term is sometimes rendered as "chieftain", although [[Robert Alter]] cautions that this misrepresents shophetim as a normal leadership structure.<ref>{{cite book|last=Alter|first=Robert|title=The Hebrew Bible}}</ref> The other words translated as ''judge'' are [[elohim]] and pelilim.
+
+==Historicity and timeline==
+{{Further|Book of Judges#Historicity}}
+[[File:Biblical judges.png|thumb|upright=1.35|Timeline of biblical judges (one interpretation)]]
+The biblical scholar [[Kenneth Kitchen]] argues that from the conquest of [[Canaan]] by [[Joshua]] until the formation of the [[Kingdom of Israel (united monarchy)|Kingdom of Israel and Judah]] ({{circa |1150–1025 BCE}}), the [[Twelve Tribes of Israel|Israelite tribes]] may have formed a loose confederation. No central government would have existed in this conception, but in times of crisis, the people would have been led by ''ad hoc'' chieftains known as shophetim.{{sfn|Kitchen|2003|pp=219–20}} However, some scholars are uncertain whether such a role existed in ancient Israel.{{sfn|Grabbe|2017|pp=118}} Others doubt about any historicity of the Book of Judges.{{sfnm |1a1=Brettler |1y=2002 |1p=107 |2a1=Davies |2y=2006 |2p=26 |3a1=Thompson |3y=2000 |3p=96}}
+
+{{blockquote|The book is generally too problematic to use as a historical source. [...] Two points relating to history, however, can be made about the book of Judges: first, the picture of a tribal society without a unified leadership engaging in uncoordinated local actions seems to fit the [[Israelite highland settlement|society of the hill country]] in [[Ancient Israel and Judah#Periods|IA I]] [Iron Age I], as evidenced by the archaeology&nbsp;... Secondly, perhaps the one exception to the historical ambiguity of the text is the [[Deborah#The_Song_of_Deborah|Song of Deborah]] in [[Judges 5]]. [citation omitted]{{sfn|Thompson|2000|p=96}}}}
+
+Working with the chronology in Judges, Payne points out that although the timescale of Judges is indicated by Jephthah's statement (Judges 11:26) that Israel had occupied the land for around 300 years, some of the judges overlapped one another. Claiming that Deborah's victory has been confirmed as taking place in 1216 from archaeology undertaken at [[Tel Hazor|Hazor]], he suggests that the period may have lasted from {{circa|1382}} to {{circa |1063}}.{{sfn|Payne|1996|pp=630–31}} [[Bill T. Arnold]] and [[Hugh G. M. Williamson]] wrote:
+
+{{blockquote |all the figures given in Judges (years of oppression, years the judges led Israel, years of peace achieved by the judges) are treated as consecutive, then the total duration of the events described in Judges is 410 years. If we accept a date of 1000 BCE for the beginning of David's reign over all Israel, which puts the beginning of Eli's leadership of Israel at about 1100 BCE, then the judges period would begin no later than 1510 BCE—impossible even for those who date the conquest to the fifteenth century BCE.{{sfn|Arnold|Williamson|2005|p=590}}}}
+
+==Mentioned judges==
+In the [[Hebrew Bible]], [[Moses]] is described as a shophet over the Israelites and appoints others to whom cases were delegated following the advice of [[Jethro (biblical figure)|Jethro]], his [[Midian]]ite father-in-law.<ref>Exodus 18:13–26.</ref> The [[Book of Judges]] mentions twelve leaders who are said to "judge" Israel: [[Othniel]], [[Ehud]], [[Shamgar]], [[Deborah]], [[Gideon]], [[Tola (biblical figure)|Tola]], [[Jair (biblical figure)|Jair]], [[Jephthah]], [[Ibzan]], [[Elon (Judges)|Elon]], [[Abdon (Judges)|Abdon]], and [[Samson]]. On the basis of the length of the biblical narrative referring to them, the six of them (Othniel, Ehud, Deborah, Gideon, Jephthah and Samson) are regarded as the major judges, with the rest being the minor judges. 
+
+The [[First Book of Samuel]] mentions [[Eli (Bible)|Eli]] and [[Samuel]], as well as Joel and Abiah (two sons of Samuel). The [[First Book of Chronicles]] mentions Kenaniah and his sons. The [[Second Book of Chronicles]] mentions [[Amariah]] and [[Zebadiah]] (son of Ishmael).
+
+The Book of Judges also recounts the story of [[Abimelech (Judges)|Abimelech]], an illegitimate son of Gideon, who was appointed as a judge-like leader by the citizens of the city of [[Shechem]].  He was later overthrown during a local conflict, and the classification of Abimelech as a judge is questionable.<ref>[[Judges 9]]:1–57.</ref>
+
+The biblical text does not generally describe these leaders as "a judge", but says that they "judged Israel", using the verb שָׁפַט (''š-f-t'').{{sfn|Hauser|1975}}{{page needed|date=August 2018}} Thus, Othniel "judged Israel forty years" ([[Judges 3]]:11), Tola "judged Israel twenty-three years" ([[Judges 10]]:2), and Jair judged Israel twenty-two years ([[Judges 10]]:3).
+
+According to the Book of Judges, Deborah ({{langx|he|דְּבוֹרָה|Dəḇorā|Bee|links=no}}) was a [[Prophets in Judaism|female prophet of the God of the Israelites]], the fourth Judge of [[pre-monarchic period|pre-monarchic Israel]] and the only female judge mentioned in the Bible.
+
+==See also==
+{{Portal|Bible}}
+* [[Book of Mosiah#A new government|Judges in the Book of Mormon]]
+
+==References==
+{{reflist|22em}}
+
+===Bibliography===
+{{refbegin|35em|indent=yes}}
+* {{cite book |last1=Arnold |first1= Bill T. |last2= Williamson |first2= H.G.M. |author2-link= Hugh G. M. Williamson |year=2005 |title= Dictionary of the Old Testament: Historical Books |location= Downers Grove, [[Illinois|IL]]
+|publisher=InterVarsity Press
+|isbn=978-0-8308-1782-5
+}}
+* {{cite book
+|last1=Boling
+|first1=Robert G.
+|last2=Nelson
+|first2=Richard D.
+|author2-link=Richard D. Nelson
+|year=2006
+|chapter=Judges
+|editor1-last=Attridge
+|editor1-first=Harold W.
+|editor1-link=Harold W. Attridge
+|editor2-last=Meeks
+|editor2-first=Wayne A.
+|title=The HarperCollins Study Bible
+|edition=rev.
+|publisher=HarperCollins Publishers
+}}
+* {{cite book
+|last=Brettler
+|first=Marc Zvi
+|author-link=Marc Zvi Brettler
+|year=2002
+|title=The Book of Judges
+|location=London
+|publisher=Routledge
+|isbn=978-0-415-16216-6
+}}
+* {{cite book
+|last=Coogan
+|first=Michael D.
+|author-link=Michael Coogan
+|year=2009
+|title=A Brief Introduction to the Old Testament
+|location=New York
+|publisher=[[Oxford University Press]]
+|isbn=978-0-19-533272-8
+}}
+* {{cite book
+|last=Davies
+|first=Philip R.
+|author-link=Philip R. Davies
+|year=2006
+|orig-year=1992
+|title=In Search of "Ancient Israel": A Study in Biblical Origins
+|location=London
+|publisher=Continuum
+|isbn=978-1-85075-737-5
+}}
+* {{cite encyclopedia
+|last=Drum
+|first=Walter
+|year=1910
+|title=[[wikisource:Catholic Encyclopedia (1913)/Judges|Judges]]
+|editor1-last=Herbermann
+|editor1-first=Charles G.
+|editor1-link=Charles George Herbermann
+|editor2-last=Pace
+|editor2-first=Edward A.
+|editor2-link=Edward A. Pace
+|editor3-last=Pallen
+|editor3-first=Condé B.
+|editor3-link=Condé Benoist Pallen
+|editor4-last=Shahan
+|editor4-first=Thomas J.
+|editor4-link=Thomas Joseph Shahan
+|editor5-last=Wynne
+|editor5-first=John J.
+|encyclopedia=[[Catholic Encyclopedia]]
+|volume=8
+|location=New York
+|publisher=Encyclopedia Press
+|publication-date=1913
+|pages=547–549
+}}<br/ >This article incorporates text from this public-domain publication.
+* {{cite book
+|last=Gordon
+|first=Cyrus H.
+|author-link=Cyrus H. Gordon
+|year=1962
+|title=Greek and Hebrew Civilizations
+}}
+* {{cite book |last1=Grabbe |first1=Lester L. |title=Ancient Israel: What Do We Know and How Do We Know It?: Revised Edition |date=23 February 2017 |publisher=Bloomsbury Publishing |isbn=978-0-567-67044-1 |url=https://books.google.com/books?id=4lzyDQAAQBAJ |language=en}}
+* {{cite journal
+|last=Hauser
+|first=Alan J.
+|year=1975
+|title=The 'Minor Judges': A Re-Evaluation
+|journal=Journal of Biblical Literature
+|volume=94
+|issue=2
+|pages=190–200
+|doi=10.2307/3265729
+|jstor=3265729
+|issn=0021-9231
+}}
+* {{cite book
+|last=Kitchen
+|first=K.&nbsp;A.
+|author-link=Kenneth Kitchen
+|year=2003
+|title=On the Reliability of the Old Testament
+|location=Grand Rapids, Michigan
+|publisher=William B. Eerdmans Publishing Company
+|isbn=978-0-8028-4960-1
+}}
+* {{cite book
+|last=Malamat
+|first=A.
+|year=1971
+|editor-last=Mazor
+|editor-first=Benjamin
+|title=Judges
+|location=Givatayim, Israel
+|publisher=[[Rutgers University Press]]
+|pages=129–163
+}}
+* {{cite encyclopedia
+|last=Payne
+|first=J.&nbsp;P.
+|year=1996
+|title=Book of Judges
+|editor1-last=Marshall
+|editor1-first=I. Howard
+|editor1-link=I. Howard Marshall
+|editor2-last=Millard
+|editor2-first=A.&nbsp;R.
+|editor2-link=Alan Millard
+|editor3-last=Packer
+|editor3-first=J.&nbsp;I.
+|editor3-link=J. I. Packer
+|editor4-last=Wiseman
+|editor4-first=D.&nbsp;J.
+|editor4-link=Donald Wiseman
+|encyclopedia=New Bible Dictionary
+|edition=3rd
+|location=Leicester, England
+|publisher=Inter-Varsity Press
+|isbn=978-0-8308-1439-8
+}}
+* {{cite book
+|last=Thompson
+|first=Thomas L.
+|year=2000
+|title=Early History of the Israelite People: From the Written & Archaeological Sources
+|location=Leiden, Netherlands
+|publisher=Brill
+|isbn=978-90-04-11943-7
+}}
+{{refend}}
+
+==Further reading==
+{{Refbegin|35em|indent=yes}}
+* {{Cite encyclopedia
+|last=Wolf
+|first=C.&nbsp;U.
+|year=1962
+|title=Judge
+|encyclopedia=The Interpreter's Dictionary of the Bible
+|publisher=Abingdon Press
+}}
+{{Refend}}
+
+{{Book of Judges}}
+
+[[Category:Hebrew Bible judges| ]]
+[[Category:Titles of national or ethnic leadership|judges, Hebrew Bible]]

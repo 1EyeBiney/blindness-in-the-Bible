@@ -1,0 +1,55 @@
+<!-- title: Hittite laws; revid: 1348871310; timestamp: 2026-04-14T18:09:51Z -->
+{{Short description|Ancient law related to the Hittite Empire}}
+[[File:Hittite Cuneiform Tablet- Legal Deposition(?).jpg|thumb|A Hittite tablet found at Hattusa, believed to be a legal deposition.]]
+The '''Hittite laws''', also known as the '''Code of the Nesilim''', constitute an [[List of ancient legal codes|ancient legal code]] dating from {{circa|1650}} – 1500&nbsp;BCE.<ref>From: Oliver J. Thatcher, ed., The Library of Original Sources (Milwaukee: University Research Extension Co., 1901), Vol. III: The Roman World, pp. 9-11.</ref><ref name="fordham">{{cite web|url=https://www.fordham.edu/halsall/ancient/1650nesilim.html|title=halsall/ancient/1650nesilim|publisher=fordham.edu|accessdate=2015-04-21}}</ref><ref>{{Cite web|url=http://www.mariner.org/captivepassage/introduction/int003.html|title = The Mariners' Museum and Park}}</ref><ref name="google">{{cite book|title=Encyclopedia of Rape|author=Smith, M.D.|date=2004|publisher=Greenwood Press|isbn=9780313326875|url=https://books.google.com/books?id=tVeh3C8XGP4C|page=15|accessdate=2015-04-21}}</ref> They have been preserved on a number of [[Hittite language|Hittite]] [[cuneiform script|cuneiform]] tablets found at [[Hattusa]] ([[Catalogue des Textes Hittites|CTH]] 291–292, listing 200 laws). Copies have been found written in Old Hittite as well as in Middle and Late Hittite, indicating that they had validity throughout the duration of the [[Hittite Empire]] (ca. 1650–1100 BCE).
+
+The Hittite laws reflected the empire's social structure, sense of justice, and morality, addressing common outlawed actions such as assault, theft, murder, witchcraft, and divorce, among others. The code is particularly notable due to a number of its provisions, covering social issues that included the humane treatment of slaves. Although they were considered lesser than free men, the slaves under the code were allowed to choose whomever they wanted to marry, buy property, open businesses, and purchase their freedom.<ref name=":0">{{Cite news|url=http://www.ancientpages.com/2018/06/14/code-of-nesilim-ancient-laws-of-the-hittites/|title=Code Of Nesilim: Ancient Laws Of The Hittites {{!}} Ancient Pages|date=2018-06-14|work=Ancient Pages|access-date=2018-07-24|language=en-US}}</ref> In comparison with the [[Code of Hammurabi]] or the [[Middle Assyrian Laws]], the Code of Nesilim also provided less-severe punishments for the code's violations.<ref name=":0" />
+
+==Example==
+<blockquote>
+§189 If a man has sexual relations with his own mother, it is an unpermitted sexual pairing. If a man has sexual relations with (his) daughter, it is an unpermitted sexual pairing. If a man has sexual relations with (his) son, it is an unpermitted sexual pairing.<ref name="Hallo Younger Orton 1997 p. ">{{cite book | last=Hallo | first=William W. | last2=Younger | first2=K. Lawson | last3=Orton | first3=David E. | title=The Context of Scripture | publisher=Brill | publication-place=Leiden New York (N.Y.) Köln | date=1997 | isbn=90-04-09629-9 | page=299}}§</ref>
+</blockquote>
+
+== Origin and development ==
+While it is not known who exactly authored the legal document, some historians believe that its source was someone important or of high power in the Hittite society and this could even be a king.<ref name=":1">{{Cite news|url=https://allisonh12.wordpress.com/2009/09/30/primary-source-analysis-the-code-of-the-nesilim/|title=Primary Source Analysis (The Code of the Nesilim)|date=2009-10-01|work=Allison's Blog|access-date=2018-07-24|language=en-US}}</ref>
+
+Changes were apparently made to penalties at least twice: firstly, the ''kara – kinuna'' changes, which generally reduced the penalties found in a former, but apparently unpreserved, 'proto-edition'; and secondly, the 'Late Period' changes to penalties in the already-modified Old Hittite version.<ref name="Jauss">S. M. Jauss, ''Kasuistik – Systematik – Reflexion über Recht'', in Journal for Ancient Near Eastern and Biblical Law 21, 2015, 185 pp.</ref>
+
+The Hittite laws were kept in use for some 500 years, and many copies show that, other than changes in grammar, what might be called the 'original edition' with its apparent disorder, was copied slavishly; no attempt was made to 'tidy up' by placing even obvious afterthoughts in a more appropriate position.{{citation needed|date=December 2021}} Like the [[Code of Hammurabi]], the Hittite laws resemble many of the laws found in the [[Hebrew Bible]]; for example, Scholz (2021) stated that the Hittite rape law §197 was reminiscent of [[Rape in the Hebrew Bible#Deuteronomy 22|Deuteronomy 22:29]].<ref name="Scholz 2021"/>
+
+== Corpus ==
+The laws are formulated as case laws; they start with a condition, and a ruling follows, e.g. ''"If anyone tears off the ear of a male or female slave, he shall pay 3 [[shekel]]s of silver".'' The laws show an aversion to the [[death penalty]]; the usual penalty for serious offenses being enslavement to forced labour.{{citation needed|date=December 2021}} They are preserved on two separate tablets, each with approximately 200 clauses, the first categorised as being 'of a man'; the second 'of a vine'; a third set may have existed.{{citation needed|date=December 2021}}
+
+The laws may be categorised into eight groups of similar clauses. These are separated for the most part by two types of seemingly orphaned clauses: Sacral or incantatory clauses, and afterthoughts. This corpus and the classification scheme are based on Dewhirst (2004).<ref>Howard Dewhirst (2004), Master of Arts dissertation on Hittite law, supervised by Dr [[Trevor R. Bryce]], University of Queensland.</ref>
+* I Aggression and [[assault]]: Clauses 1 - 24
+* II [[Marital relationship]]s: Clauses 26 - 38
+* III Obligations and service - TUKUL: Clauses 39 - 56
+* IV Assaults on property and [[theft]]: Clauses 57 - 144
+* V Contracts and prices: Clauses 145 - 161
+* VI Sacral matters: Clauses 162 - 173
+* VII [[Contract]]s and [[tariff]]s: Clauses 176 - 186
+* VIII [[Sexual relationship]]s: Clauses 187 - 200
+** §187, §188, §199 and §200 criminalise [[bestiality]] (except with horses and mules).<ref name="PeakeAdEx2219">''[[Peake's commentary on the Bible]]'', Revised Edition (1962), ad {{bibleverse||Exodus|22:19|}}</ref><ref name="Scholz 2021">{{Cite book |last=Scholz |first=Susanne |date=2021 |title=Sacred Witness. Rape in the Hebrew Bible |url=https://www.bol.com/nl/p/sacred-witness/9300000031495453/ |location= |publisher=Fortress Press |pages=154–157 |isbn=9781506482033}} (E-book edition)</ref> The death penalty was a common punishment among sexual crimes.{{citation needed|date=December 2021}}
+** §190 and §191 stipulate that if a man and a woman 'came together sexually willingly', and '[had] intercourse', 'there shall be no punishment'. These are some of the oldest examples of [[sexual consent in law]].<ref name="Duque">{{Cite journal |last=Duque |first=María Alejandra Gómez |date=2021 |title=Towards a legal reform of rape laws under international human rights law |url=https://www.law.georgetown.edu/gender-journal/wp-content/uploads/sites/20/2021/08/towards-a-legal-reform.pdf |journal=The Georgetown Journal of Gender and the Law |publisher=Georgetown University |volume=22 |issue= |pages=489–491 |doi= |access-date=20 December 2021 |quote=Surprisingly, this Code used the term "willingly" to determine if punishment was warranted for sexual intercourse between men and women.}}</ref>
+
+==See also==
+{{Portal|Law|Asia}}
+*[[Hittite inscriptions]]
+*[[Code of Hammurabi]]
+*[[List of ancient legal codes]]
+*[[List of artifacts significant to the Bible]]
+
+==External links==
+* [https://sourcebooks.fordham.edu/ancient/1650nesilim.asp The Code of the Nesilim, c. 1650-1500 BCE (Excerpts)]
+
+==Literature==
+* E. Neu, [[StBoT]] 26 (1983)
+* Harry Angier Hoffner Jr., ''The Laws of the Hittites: a Critical Edition'' (DMOA 23) – Leiden, New York, Köln 1997
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Hittite Laws}}
+[[Category:Hittite texts|Laws]]
+[[Category:Legal codes]]
+[[Category:Ancient Near East law]]

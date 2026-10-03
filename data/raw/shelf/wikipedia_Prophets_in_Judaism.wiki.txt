@@ -1,0 +1,105 @@
+<!-- title: Prophets in Judaism; revid: 1375547115; timestamp: 2026-09-18T13:27:51Z -->
+{{Short description|Prophets according to Biblical and rabbinical tradition}}
+{{for|a more general definition|Prophet}}{{Jews and Judaism sidebar}}
+The [[Talmud]] names 55 prophets (48 male and 7 female) of [[Judaism]] and [[Ancient Israel|Israel]] ({{langx|he|נְבִיאִים}} ''Nəvīʾīm'', [[Tiberian Hebrew|Tiberian:]] ''Năḇīʾīm,'' "Prophets", literally "spokesmen").<ref>{{Cite book |last=Khan |first=Geoffrey |title=The Tiberian Pronunciation Tradition of Biblical Hebrew, Volume 1. |publisher=Open Book Publishers |year=2020 |isbn=978-1783746767}}</ref><ref name=WDT14a>{{cite web|title=Megillah 14a, the William Davidson Talmud (Koren - Steinsaltz)|publisher=Sefaria|year=2023|url=https://www.sefaria.org/Megillah.14a.4?lang=bi|access-date=26 October 2023}}</ref><ref name=stone1>{{cite book|last1=Scherman|first1=Nosson|title=The Stone Edition Tanach|publisher=Mesorah Publications, Limited|page=2038}}</ref> Some texts suggest a large number of lost prophets, or name up to seven prophets outside Israel. In Jewish tradition it is believed that [[Malachi]] was the final prophet and that the period of prophecy, {{translit|he|[[Prophecy#Judaism|Nevuah]]}}, ended with [[Haggai]], [[Zechariah (Hebrew prophet)|Zechariah]] and [[Malachi]] (mid-5th century BCE) at which time the "[[Shechinah]] departed from Israel".<ref>{{cite book|url=https://books.google.com/books?id=GsDNhImlaXgC&pg=PA167|title=A Dictionary of the Jewish-Christian Dialogue|publisher=Paulist Press|year=1995|page=167|editor-first1=Leon|editor-last1=Klenicki|editor-first2=Geoffrey|editor-last2=Wigoder}}</ref><ref>''[https://books.google.com/books?id=um8RAQAAIAAJ Light of Prophecy]'' Union of Orthodox Jewish Congregations of America/National Conference of Synagogue Youth (1990), p6.</ref> 
+
+== Rabbinic tradition ==
+[[File:Frontispiece to the Book of Prophets LACMA M.64.3.11.jpg|thumb|Frontispiece to the Book of Prophets, 17th-century [[Luther Bible]], depicting the Jewish prophets.]] 
+According to the [[Talmud]], there were 48 prophets and 7 prophetesses who prophesied to Israel.<ref name=WDT14a/><ref name=stone1/>
+
+===The 46 prophets to Israel ===
+46 according to Rashi, commentary on Tractate Megillah 14a.
+{{div col|colwidth=12em}}
+* [[Abraham]]
+* [[Isaac]]
+* [[Jacob]]
+* [[Moses]]
+* [[Aaron]]
+* [[Joshua]]
+* [[Phinehas]]
+* [[Eli (biblical figure)|Eli]]
+* [[Elkanah]]
+* [[Samuel]]
+* [[Gad (prophet)|Gad]]
+* [[Nathan (prophet)|Natan]]
+* [[David]]
+* [[Ahijah the Shilonite]]
+* [[Solomon]]
+* [[Iddo (prophet)|Iddo]]
+* [[Obadiah]]
+* [[Jehu (prophet)|Jehu]]
+* [[Azariah (prophet)|Azariah]]
+* [[Jahaziel]]
+* [[Eliezer]]
+* [[Elijah]]
+* [[Elisha]]
+* [[Micaiah]]
+* [[Jonah]]
+* [[Amos (prophet)|Amos]]
+* [[Hosea]]
+* [[Amoz]]
+* [[Isaiah]]
+* [[Micah (prophet)|Micah]]
+* [[Joel (prophet)|Joel]]
+* [[Zephaniah]]
+* [[Nahum]]
+* [[Habakkuk]]
+* [[Uriah (prophet)|Urijah]]
+* [[Jeremiah]]
+* [[Ezekiel]]
+* [[Daniel (biblical figure)|Daniel]] 
+* [[Mehseiah]]
+* [[Neriah]]
+* [[Baruch ben Neriah]]
+* [[Seraiah]]
+* [[Haggai]]
+* [[Zechariah (Hebrew prophet)|Zechariah]]
+* [[Mordecai|Mordechai Bilshan]]
+* [[Malachi]]
+{{div col end}}
+
+===The 7 prophetesses to Israel===
+{{multiple image
+| perrow            = 2
+| total_width       = 500
+| image1            = Matteo giovannetti, profeti della grande udienza, 1353, 04.jpg
+| caption1          = [[Job (Bible)|Job]], [[Solomon]], [[David]], [[Hosea]], [[Amos (prophet)|Amos]]
+| image2            = Matteo giovannetti, profeti della grande udienza, 1353, 08.jpg
+| caption2          = [[Ezekiel]], [[Jeremiah]], [[Isaiah]], [[Moses]]<br>[[Obadiah]], [[Micah (prophet)|Micah]], [[Nahum]]
+| footer            = The Old Testament prophets painted by [[Matteo Giovanetti]], 1353.
+}}
+{{div col|colwidth=12em}}
+* [[Sarah]]
+* [[Miriam]]
+* [[Deborah]]
+* [[Hannah (biblical figure)|Hannah]]
+* [[Abigail]]
+* [[Huldah]]
+* [[Esther]]
+{{div col end}}
+
+=== Additional prophets ===
+Although the [[Talmud]] states that only “48 prophets and 7 prophetesses prophesied to Israel”,<ref>[[Megillah (Talmud)|Talmud, Tractate Megillah]] 14a</ref> it does not mean that there were only 55 prophets. The Talmud challenges this with other examples, and concludes by citing a [[Baraita]] tradition that the number of prophets in the era of prophecy was double the number of Israelites who left Egypt (600,000 males). The 55 prophets are recorded, because they made prophecies that have eternal relevance for future generations and not just for their own generation, or own ecstatic encounter with God.<ref>[https://www.chabad.org/library/article_cdo/aid/1735365/jewish/Why-Isnt-the-Book-of-Daniel-Part-of-the-Prophets.htm#footnote2a1735365 Why Isn't the Book of Daniel Part of the Prophets? from Chabad.org, footnote 2]</ref><ref>[https://www.sefaria.org/Megillah.14a?lang=bi Talmud Megilla 14a]</ref> Hebrew scripture makes references to groups of such ecstatic prophets, for example in [[1 Samuel]]:
+
+{{quote|And when they came thither to the hill, behold, a band of prophets met [Saul]; and the spirit of God came mightily upon him, and he prophesied among them. And it came to pass, when all that knew him beforetime saw that, behold, he prophesied with the prophets, then the people said one to another: ‘What is this that is come unto the son of [[Kish (Bible)|Kish]]? Is Saul also among the prophets?’ And one of the same place answered and said: ‘And who is their father?’ Therefore it became a proverb: ‘Is Saul also among the prophets?’ And when he had made an end of prophesying, he came to the high place.<ref>[https://biblehub.com/jps/1_samuel/10.htm 1 Samuel 10-13]</ref>}}
+
+On one occasion during [[the Exodus]] journey, "the spirit which was upon Moses" was passed to seventy elders, who were also able to prophecy for one time only, but mostly they could not prophecy again.<ref>{{bibleverse|Numbers|11:25}}</ref> When [[Eldad and Medad]] continued to prophecy, Moses expressed the hope that "all the {{LORD}}'s people" could be prophets.<ref>{{bibleverse|Numbers|11:26-29}}</ref>  
+
+==== Prophets to other nations ====
+The Talmud lists seven prophets to the nations of the world ([[Gentiles]], [[goyim]]): [[Balaam]], [[Beor (biblical figure)|Beor]], [[Job (biblical figure)|Job]], [[Eliphaz (Job)|Eliphaz]], [[Bildad]], [[Zophar]], and [[Elihu (Job)|Elihu]].<ref>[[Bava Batra]] 15b</ref>
+
+==See also==
+{{columnslist|colwidth=30em|
+* [[False prophet]]
+* [[Inés Esteban]]
+* [[Nathan of Gaza]]
+* [[Nevi'im]]
+* [[Table of prophets of Abrahamic religions]]
+}}
+
+==References==
+{{reflist}}
+
+[[Category:Prophets in Judaism| ]]
+
+[[de:Prophetie im Tanach]]

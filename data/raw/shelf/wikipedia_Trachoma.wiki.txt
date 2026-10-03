@@ -1,0 +1,235 @@
+<!-- title: Trachoma; revid: 1375532017; timestamp: 2026-09-18T10:39:50Z -->
+{{short description|Infectious disease that causes a roughening of the inner surface of the eyelids}}
+{{Other uses}}
+{{cs1 config|name-list-style=vanc}}
+{{use dmy dates|date=July 2018}}
+{{Infobox medical condition
+| name            = Trachoma
+| synonyms        = Granular conjunctivitis, blinding trachoma, Egyptian ophthalmia<ref>{{cite book|author1=Yann A. Meunier |author2=Michael Hole |author3=Takudzwa Shumba |author4=B. J. Swanner |title=Tropical diseases: a practical guide for medical practitioners and students|year=2014|publisher=Oxford University Press, USA|location=Oxford|isbn=978-0-19-999790-9|page=199|url=https://books.google.com/books?id=ZWcGAQAAQBAJ&pg=PT222|url-status=live|archive-url=https://web.archive.org/web/20170908222538/https://books.google.com/books?id=ZWcGAQAAQBAJ&pg=PT222|archive-date=2017-09-08}}</ref>
+| image           = Entropion and trichiasis secondary to trachoma A44-652-11.jpg
+| caption         = Surgical repair of [[Entropion|in-turned eyelid]] and [[trichiasis|eyelashes]] resulting from trachoma
+| field           = [[Infectious disease (medical specialty)|Infectious disease]]
+| symptoms        = Eye pain, blindness<ref name=WHO2013/>
+| complications   =
+| onset           =
+| duration        =
+| causes          = ''[[Chlamydia trachomatis]]'' spread between people<ref name=WHO2013/>
+| risks           = Crowded living conditions, not enough clean water and toilets<ref name=WHO2013/>
+| diagnosis       =
+| differential    =
+| prevention      = Mass treatment, improved sanitation<ref name=Evans2019/>
+| treatment       = Medications, surgery<ref name=WHO2013/>
+| medication      = [[Azithromycin]], [[tetracycline]]<ref name=Evans2019/>
+| prognosis       =
+| frequency       = 80 million<ref name=Fen2012/>
+| deaths          =
+}}
+<!-- Definition and symmptoms -->
+
+'''Trachoma''' is an infectious disease caused by the bacterium ''[[Chlamydia trachomatis]]''.<ref name=WHO2013/> The infection causes a [[Granulation tissue|roughening]] of the [[conjunctiva|inner surface of the eyelids]].<ref name=WHO2013/> This roughening can lead to eye pain, breakdown of the outer surface or [[cornea]] of the eyes, and eventual [[blindness]].<ref name=WHO2013/> Untreated, repeated trachoma infections can result in a form of permanent blindness when the [[Entropion|eyelids turn inward]].<ref name=WHO2013/>
+
+<!-- Cause -->
+The bacteria that cause the disease can be spread by both direct and indirect contact with an affected person's eyes or nose.<ref name=WHO2013/> Indirect contact includes through clothing or flies that have come into contact with an affected person's eyes or nose.<ref name=WHO2013/> Children spread the disease more often than adults.<ref name=WHO2013/> Poor sanitation, crowded living conditions, and insufficient clean water and toilets also increase the spread.<ref name=WHO2013/>
+
+<!-- Prevention and treatment -->
+Efforts to prevent the disease include improving access to clean water and treatment with [[antibiotic]]s to decrease the number of people infected with the bacterium.<ref name=WHO2013/> This may include treating, all at once, whole groups of people in whom the disease is known to be common.<ref name=Evans2019>{{Cite journal|last1=Evans|first1=Jennifer R.|last2=Solomon|first2=Anthony W.|last3=Kumar|first3=Rahul|last4=Perez|first4=Ángela|last5=Singh|first5=Balendra P.|last6=Srivastava|first6=Rajat Mohan|last7=Harding-Esch|first7=Emma|date=26 September 2019|title=Antibiotics for trachoma|journal=The Cochrane Database of Systematic Reviews|volume=9|issue=9 |article-number=CD001860|doi=10.1002/14651858.CD001860.pub4|issn=1469-493X|pmc=6760986|pmid=31554017}}</ref> Washing, by itself, is not enough to prevent disease, but may be useful with other measures.<ref name=Ejere2015>{{cite journal|last=Ejere|first=HO|author2=Alhassan, MB |author3=Rabiu, M |title=Face washing promotion for preventing active trachoma.|journal=Cochrane Database of Systematic Reviews |date=20 February 2015|issue=2|article-number=CD003659|pmid=25697765|doi=10.1002/14651858.CD003659.pub4|volume=2015 |pmc=4441394}}</ref> Treatment options include oral [[azithromycin]] and topical [[tetracycline]].<ref name=Evans2019 /> Azithromycin is preferred because it can be used as a single oral dose.<ref name=Mariotti2004>{{cite journal |author=Mariotti SP |title=New steps toward eliminating blinding trachoma |journal=New England Journal of Medicine |volume=351 |issue=19 |pages=2004–7 |date=November 2004 |pmid=15525727 |doi=10.1056/NEJMe048205 }}</ref> After scarring of the eyelid has occurred, surgery may be required to correct the position of the eyelashes and prevent blindness.<ref name=WHO2013/>
+
+<!-- Epidemiology -->
+Globally, about 80 million people have an active infection.<ref name=Fen2012>{{cite journal|last=Fenwick|first=A|title=The global burden of neglected tropical diseases.|journal=Public Health|date=Mar 2012|volume=126|issue=3|pages=233–6|pmid=22325616|doi=10.1016/j.puhe.2011.11.015}}</ref> In some areas, infections may be present in as many as 60–90% of children.<ref name=WHO2013/> Among adults it more commonly affects women than men, likely due to their closer contact with children.<ref name=WHO2013/> The disease is the cause of decreased vision in 2.2 million people, of whom 1.2 million are completely blind.<ref name=WHO2013/> Trachoma is a public health problem in 37 countries across Africa, Asia, the Middle East, and Central and South America.<ref name="WHO-trachoma-factsheet" /> There are 103 million people at risk,<ref name="WHO-trachoma-factsheet" /> down from 228.9 million in 2013.<ref name=WHO2013>{{cite web|title=Blinding Trachoma Fact sheet N°382|url=https://www.who.int/mediacentre/factsheets/fs382/en/|work=World Health Organization|access-date=14 March 2014|date=November 2013|url-status=live|archive-url=https://web.archive.org/web/20140314061724/http://www.who.int/mediacentre/factsheets/fs382/en/|archive-date=14 March 2014}}</ref> It results in [[United States dollar|US$]]8 billion of economic losses a year.<ref name=WHO2013/> It belongs to a group of diseases known as [[neglected tropical diseases]].<ref name=Fen2012/>
+
+==Signs and symptoms==
+[[File:Ellis Island Public Health Service Physicians (7844875428).jpg|left|thumb|Ellis Island [[United States Public Health Service|Public Health Service]] physicians examining new immigrants for trachoma in 1910]]
+The bacterium has an incubation period of 10 days, after which the affected individual experiences symptoms of [[conjunctivitis]] or "pink eye".<ref>{{cite journal |last1= Foster |first1= Allen |last2= Mabey |first2= David C W |last3= Peeling |first3= Rosanna W |last4= Solomon |first4= Anthony W |date= 2004 |title= Diagnosis and Assessment of Trachoma |journal= [[Clinical Microbiology Reviews]] |volume= 17 |issue= 4 |pages= 982–1011 |doi= 10.1128/CMR.17.4.982-1011.2004 |pmid= 15489358 |pmc= 523557 }}</ref>  Blinding endemic trachoma results from multiple episodes of reinfection that maintains the intense inflammation in the conjunctiva. Without reinfection, the inflammation gradually subsides.<ref name=taylor/>
+
+The conjunctival inflammation is called "active trachoma" and is usually seen in children, especially those in preschool. It is characterized by white lumps in the undersurface of the upper eyelid (conjunctival follicles or [[Germinal center|lymphoid germinal centers]]) and by nonspecific inflammation and thickening, often associated with papillae. Follicles may also appear at the junction of the [[cornea]] and the [[sclera]] (limbal follicles). Active trachoma can often be irritating and have a watery discharge. Bacterial secondary infection may occur and cause a discharge of [[pus]].<ref>{{Cite web |title=Trachoma - including symptoms, treatment and prevention |url=https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/Conditions/Infectious+diseases/Trachoma/Trachoma+-+including+symptoms%2C+treatment+and+prevention |access-date=2022-10-26 |website=South Australia Health}}</ref>
+
+The later structural changes of trachoma are referred to as "cicatricial trachoma". These include scarring under the eyelid (tarsal conjunctiva) that distorts the eyelid with buckling of the lid (tarsus), so the lashes rub against the eye (trichiasis). This can lead to corneal opacities and scarring and then to blindness. Linear scars present in the [[sulcus subtarsalis]]<ref>{{Cite web |date=August 2021 |title=Trachoma diseases: Prevention and Control |url=https://www.heart-diseases.com/2021/08/trachoma-eye-diseases.html |access-date=2023-04-21 |website=Heart Diseases}}{{unreliable source?|date=April 2023}}</ref> are called [[Arlt's line]]s (named after [[Carl Ferdinand von Arlt]]). In addition, blood vessels and scar tissue can invade the upper cornea (pannus). Resolved limbal follicles may leave small gaps in the [[pannus]] (Herbert's pits).<ref>{{Cite journal|last=Feibel|first=Robert M.|date=2014-05-01|title=Herbert Herbert: His Corneal Pits and Scleral Slits|url=https://www.aaojournal.org/article/S0161-6420(13)01080-4/abstract|journal=Ophthalmology|language=English|volume=121|issue=5|pages=1142–1148|doi=10.1016/j.ophtha.2013.11.018|issn=0161-6420|pmid=24424250|url-access=subscription}}</ref>
+
+Most commonly, children with active trachoma do not present with symptoms, as the low-grade irritation and ocular discharge are just accepted as normal, but further symptoms may include:{{citation needed|date=March 2023}}
+* Eye [[mucopurulent discharge|discharge]]
+* Swollen eyelids
+* [[Trichiasis]] (misaligned eyelashes)
+* Swelling of [[lymph nodes]] in front of the ears
+* Sensitivity to bright lights
+* Increased heart rate
+* Further ear, nose, and throat complications.
+The most important complication to look out for is a [[corneal ulcer]], which is caused by intense rubbing of the affected eye, or trichiasis with a superimposed bacterial infection.
+
+== Cause ==
+Trachoma is caused by ''[[Chlamydia trachomatis]]'', serotypes (serovars) A, B, and C.<ref name= Mackern-Oberti2013>{{Cite journal | doi = 10.1016/j.jri.2013.05.002| title = Chlamydia trachomatis infection of the male genital tract: An update| journal = Journal of Reproductive Immunology| volume = 100| issue = 1| pages = 37–53| year = 2013| last1 = Mackern-Oberti | first1 = J. P. | last2 = Motrich | first2 = R. N. D. O. | last3 = Breser | first3 = M. A. L. | last4 = Sánchez | first4 = L. R. | last5 = Cuffini | first5 = C. | last6 = Rivero | first6 = V. E. | pmid=23870458| hdl = 11336/26316 | hdl-access = free }}</ref> It is spread by direct contact with eye, nose, and throat [[secretion]]s from affected individuals, or contact with [[Fomite (term)|fomites]]<ref name=Cecil /> (inanimate objects that carry infectious agents), such as towels and/or washcloths, that have had similar contact with these secretions. Flies can also be a route of mechanical transmission.<ref name=Cecil>{{cite book|last=Goldman|first=Lee|title=Goldman's Cecil Medicine|publisher=Elsevier Saunders|location=Philadelphia|isbn=978-1-4377-2788-3|year=2011|pages=e326-2|edition=24th}}</ref> Untreated, repeated trachoma infections result in [[entropion]] (the inward turning of the eyelids), which may result in blindness due to damage to the cornea. Children are most susceptible to infection due to their tendency to get dirty easily, but the blinding effects or more severe symptoms are often not felt until adulthood.<ref>{{cite journal |last1= Mabey |first1= David C W |last2= Solomon |first2= Anthony W |last3= Foster |first3= Allen |date= 2003 |title= Trachoma |url= http://41.63.34.241:8080/jspui/bitstream/123456789/460/1/trachoma_seminar.pdf |journal= [[The Lancet]] |volume= 362 |issue= 9379 |page= 227 |doi= 10.1016/S0140-6736(03)13914-1 |pmid= 12885486 |access-date= 2022-12-30}}</ref>
+
+Blinding endemic trachoma occurs in areas with poor personal and family hygiene. Many factors are indirectly linked to the presence of trachoma, including lack of water, absence of latrines or toilets, poverty, flies, proximity to cattle, and crowding.<ref name=taylor>{{cite book |author=Taylor, Hugh |title=Trachoma: A Blinding Scourge from the Bronze Age to the Twenty-first Century |publisher=Centre for Eye Research Australia |year=2008 |isbn=978-0-9757695-9-1 }}</ref><ref>{{cite journal |vauthors=Wright HR, Turner A, Taylor HR |s2cid=208790087 |title=Trachoma |journal=Lancet |volume=371 |issue=9628 |pages=1945–54 |date=June 2008 |pmid=18539226 |doi=10.1016/S0140-6736(08)60836-3 }}</ref> The final common pathway, though, seems to be the presence of dirty faces in children, facilitating the frequent exchange of infected ocular discharge from one child's face to another.  Most transmission of trachoma occurs within the family.<ref name=taylor/>
+
+==Diagnosis==
+
+===McCallan's classification===
+McCallan in 1908 divided the clinical course of trachoma into four stages:
+{| class="wikitable"
+|-
+! Stage 1 (incipient trachoma)
+! Stage 2 (established trachoma)
+! Stage 3 (cicatrising trachoma)
+! Stage 4 (healed trachoma)
+
+|-
+| Hyperaemia of the palpebral conjunctiva
+| Appearance of mature follicle & papillae
+| Scarring of the palpebral conjunctiva
+| Disease is cured or is not markable
+|-
+| Immature follicle
+| Progressive corneal pannus
+| Scars are easily visible as white bands
+| Sequelae to cicatrisation cause symptoms
+|}
+
+===WHO classification===
+The World Health Organization recommends a simplified grading system for trachoma.<ref>{{cite journal |vauthors=Thylefors B, Dawson CR, Jones BR, West SK, Taylor HR |title=A simple system for the assessment of trachoma and its complications |journal=Bulletin of the World Health Organization |volume=65 |issue=4 |pages=477–83 |year=1987 |pmid=3500800 |pmc=2491032}}</ref> The Simplified WHO Grading System is summarized below:
+
+Trachomatous inflammation, follicular (TF)—Five or more follicles of >0.5&nbsp;mm on the upper tarsal conjunctiva
+
+Trachomatous inflammation, intense (TI)—Papillary hypertrophy and inflammatory thickening of the upper tarsal conjunctiva, obscuring more than half the deep tarsal vessels
+
+Trachomatous scarring (TS)—Presence of scarring in the tarsal conjunctiva.
+
+Trachomatous trichiasis (TT)—At least one ingrown eyelash touching the globe, or evidence of epilation (eyelash removal)
+
+[[Corneal opacity]] (CO)—Corneal opacity blurring part of the pupil margin
+
+==Prevention==
+Although trachoma was eliminated from the [[developed world]] in the 20th and 21st centuries, this disease persists in many parts of the [[developing world]], particularly in communities without adequate access to water and sanitation.<ref>{{Cite journal|title = Effect of Water, Sanitation, and Hygiene on the Prevention of Trachoma: A Systematic Review and Meta-Analysis|last = Stocks|first = Meredith E.|date = 2014|journal = PLOS Medicine|doi = 10.1371/journal.pmed.1001605|pmid = 24586120|volume = 11|issue = 2|article-number = e1001605|pmc = 3934994 | doi-access=free }}</ref> It is grouped as a [[neglected tropical disease]] which is a target for preventive chemotherapy.<ref name="WHO2019">{{cite web |title=Preventive chemotherapy: tools for improving the quality of reported data and information: a field manual for implementation |url=https://www.who.int/publications/i/item/9789241516464 |website=www.who.int |access-date=11 October 2023 |language=en}}</ref>
+
+===Environmental measures===
+Environmental improvement: Modifications in water use, fly control, latrine use, health education, and proximity to domesticated animals have all been proposed to reduce transmission of ''C. trachomatis''.<ref>{{cite journal |last1= Abdou |first1= Amza |last2= Baarè |first2= Ibrahim |last3= Kadri |first3= Boubacar |last4= Moussa |first4= Fati |last5= Munoz |first5= Beatriz E. |last6= Nassirou |first6= Baido |last7= Opong |first7= Emmanuel |last8= Riverson |first8= Joseph |last9= West |first9= Sheila K. |date= 2009 |title= How much is not enough? A community randomized trial of a Water and Health Education programme for Trachoma and Ocular ''C. trachomatis'' infection in Niger |journal= Tropical Medicine and International Health |volume= 15 |issue= 1 |pages= 98–104 |doi= 10.1111/j.1365-3156.2009.02429.x |pmid= 20409284 |pmc= 2867063 }}</ref>{{additional citation needed|date=January 2023}} These changes pose numerous challenges for implementation. These environmental changes are likely to affect the transmission of ocular infection through a lack of facial cleanliness.<ref name=taylor/> Particular attention is required for environmental factors that limit clean faces.
+
+A systematic review examining the effectiveness of environmental sanitary measures on the prevalence of active trachoma in endemic areas showed that the use of insecticide spray resulted in significant reductions of trachoma and fly density in some studies.<ref name="Rabiu">{{cite journal |vauthors=Rabiu M, Alhassan MB, Ejere HO, Evans JR |title= Environmental sanitary interventions for preventing active trachoma |journal=Cochrane Database of Systematic Reviews |volume=2012 |issue= 2 |article-number= CD004003 |date=2012 |pmid= 22336798|doi= 10.1002/14651858.CD004003.PUB4|pmc=4422499}}</ref> Health education also resulted in reductions of active trachoma when implemented.<ref name=Rabiu/>  Improved water supply did not result in a reduction of trachoma incidence.<ref name=Rabiu/>
+
+===Antibiotics===
+WHO Guidelines recommend that a region receive community-based, mass antibiotic treatment when the prevalence of active trachoma among one- to nine-year-old children is greater than 10%. Subsequent annual treatment should be administered for three years, at which time the prevalence should be reassessed. Annual treatment should continue until the prevalence drops below 5%.<ref>{{cite web| last = Solomon| first = AW| author2 = Zondervan M| author3 = Kuper H| title = Trachoma control: a guide for programme managers.| publisher = World Health Organization| year = 2006| url =https://www.who.int/blindness/publications/tcm%20who_pbd_get_06_1.pdf| display-authors = etal| url-status = live| archive-url = https://web.archive.org/web/20080712163224/http://www.who.int/blindness/publications/tcm%20who_pbd_get_06_1.pdf| archive-date = 2008-07-12}}</ref> At lower prevalences, antibiotic treatment should be family-based.{{citation needed|date=May 2021}}
+
+==Management==
+
+===Antibiotics===
+[[Azithromycin]] (single oral dose of 20&nbsp;mg/kg) or topical [[tetracycline]] (1% eye ointment twice a day for six weeks). Azithromycin is preferred because it is used as a single oral dose. Although it is expensive, it is generally used as part of the international donation program organized by [[Pfizer]].<ref name=Mariotti2004/> Azithromycin can be used in children from the age of six months and in pregnancy.<ref name=taylor/> As a community-based antibiotic treatment, some evidence suggests that oral azithromycin was more effective than topical tetracycline, but no consistent evidence supported either oral or topical antibiotics as being more effective.<ref name=Evans2019 /> Antibiotic treatment reduces the risk of active trachoma in individuals infected with chlamydial trachomatis.<ref name=Evans2019 />
+
+===Surgery===
+For individuals with trichiasis, a bilamellar tarsal rotation procedure is warranted to direct the lashes away from the globe.<ref>Reacher M, Foster A, Huber J. "Trichiasis Surgery for Trachoma. The Bilamellar Tarsal Rotation Procedure." 1993; World Health Organization, Geneva: WHO/PBL/93.29.</ref> Evidence suggests that the use of a lid clamp and absorbable sutures would result in reduced lid contour abnormalities and granuloma formulation after surgery.<ref name="Burton2015">{{cite journal |vauthors=Burton M, Habtamu E, Ho D, Gower EW |title= Interventions for trachoma trichiasis |journal=Cochrane Database of Systematic Reviews |volume=11 |issue= 11 |article-number= CD004008 |date=2015 |pmid= 26568232 |doi= 10.1002/14651858.CD004008.pub3 |pmc=4661324}}</ref> Early intervention is beneficial as the rate of recurrence is higher in more advanced diseases.<ref>{{cite journal  |vauthors=Burton MJ, Kinteh F, Jallow O, et al |title=A randomised controlled trial of azithromycin following surgery for trachomatous trichiasis in the Gambia |journal=British Journal of Ophthalmology |volume=89 |issue=10|pages=1282–8 |date=October 2005 |pmid=16170117 |doi=10.1136/bjo.2004.062489 |pmc=1772881}}</ref>
+
+===Lifestyle measures===
+
+The WHO-recommended SAFE strategy includes:
+* Surgery to correct advanced stages of the disease
+* Antibiotics to treat active infection, using azithromycin
+* Facial cleanliness to reduce disease transmission
+* Environmental change to increase access to clean water and improve sanitation
+
+Children with visible nasal discharge, eye discharge, or flies on their faces are at least twice as likely to have active trachoma as children with clean faces.<ref name=taylor/> Intensive community-based health education programs to promote [[Face washing|face-washing]] can reduce the rates of active trachoma, especially intense trachoma. If an individual is already infected, washing one's face is encouraged, especially for a child,  to prevent reinfection.<ref>[http://mayoclinic.com/health/trachoma/DS00776/DSECTION=prevention Prevention-Trachoma] {{webarchive|url=https://web.archive.org/web/20090515083540/http://www.mayoclinic.com/health/trachoma/DS00776/DSECTION%3Dprevention |date=2009-05-15 }} 18 July 2008 – 24 March 2009</ref> Some evidence shows that washing the face combined with topical tetracycline might be more effective in reducing severe trachoma compared to topical tetracycline alone.<ref name=Ejere2015/> The same trial found no statistical benefit of eye washing alone or in combination with tetracycline eye drops in reducing follicular trachoma amongst children.<ref name=Ejere2015/>
+
+==Prognosis==
+If not treated properly with [[oral antibiotics]], the symptoms may escalate and cause blindness, which is the result of [[corneal ulcer|ulceration]] and consequent scarring of the [[cornea]].  Surgery may also be necessary to fix eyelid deformities.
+
+Without intervention, trachoma keeps families in a [[cycle of poverty]], as the disease and its long-term effects are passed from one generation to the next.
+
+==Epidemiology==
+[[Image:Trachoma DALYs per 100,000 people gradient world map (2021).svg|thumb|[[Disability-adjusted life year]] for trachoma per 100,000 inhabitants in 2021:
+{{Div col|small=yes|colwidth=10em}}
+{{legend|#e0e0e0|no data}}
+{{legend|#ffffcc|0}}
+{{legend|#ffeda0|0.01-0.5}}
+{{legend|#fed976|0.5-1}}
+{{legend|#feb24c|1-2}}
+{{legend|#fd8d3c|2-3}}
+{{legend|#fc4e2a|3-4}}
+{{legend|#e31a1c|4-5}}
+{{legend|#bd0026|5-20}}
+{{legend|#800026|more than 20}}
+{{Div col end}}]]
+As of 2011, about 21 million people were actively affected by trachoma, with around 2.2 million people being permanently blind or having severe visual impairment from trachoma.{{update inline|date=January 2023}} An additional 7.3 million people are reported to have [[trichiasis]].<ref>{{Cite journal |last1=Taylor |first1=Hugh R |last2=Burton |first2=Matthew J |last3=Haddad |first3=Danny |last4=West |first4=Sheila |author-link4=Sheila West |last5=Wright |first5=Heathcote |date=December 2014 |title=Trachoma |journal=The Lancet |volume=384 |issue=9960 |pages=2142–2152 |doi=10.1016/s0140-6736(13)62182-0 |issn=0140-6736 |pmid=25043452 |s2cid=208793607}}</ref> {{As of|2024|04|post=,}} 103 million individuals live in trachoma endemic areas and are at risk of trachoma-related blindness, and the disease is a public health problem in 37 countries.<ref name="WHO-trachoma-factsheet">{{cite web |url=https://www.who.int/news-room/fact-sheets/detail/trachoma |title=Trachoma |website=[[World Health Organization|WHO]] |date=2024-10-21 |access-date=2025-07-11}}</ref> Of these, Africa is considered the worst affected area, with over 85% of all known active cases of trachoma.<ref name=WHO2018Epi />  Within the continent, South Sudan and Ethiopia have the highest prevalence.<ref name=WHO2018Epi>{{Cite web|url=https://www.who.int/trachoma/epidemiology/en/|archive-url=https://web.archive.org/web/20150919122923/http://www.who.int/trachoma/epidemiology/en/|archive-date=19 September 2015|title=Epidemiological situation|website=World Health Organization|language=en-GB|access-date=2018-11-01}}</ref> In many of these communities, women are up to four times more likely than men to be blinded by the disease,<ref name="WHO-trachoma-factsheet" /> likely due to their roles as caregivers in the family.<ref>{{cite journal |last1= Courtright |first1= Paul |last2= West |first2= Sheila K. |date= 2004 |title= Contribution of Sex-linked Biology and Gender Roles to Disparities with Trachoma |journal= Emerging Infectious Diseases |volume= 10 |issue= 11 |pages= 2012–2016 |doi= 10.3201/eid1011.040353 |pmid= 15550216 |pmc= 3328994 }}</ref>
+
+===Elimination===
+In 1996, the WHO launched its Alliance for the Global Elimination of Trachoma by 2020,<ref name="ghana" /> and in 2006, the WHO officially set 2020 as the target to eliminate trachoma as a public health problem.<ref>{{cite web |url=https://www.who.int/mediacentre/news/notes/2006/np09/en/ |title=WHO &#124; Blinding trachoma: Progress towards global elimination by 2020 |date=2006-04-10 |access-date=2015-08-05 |archive-url=https://web.archive.org/web/20150708044824/http://www.who.int/mediacentre/news/notes/2006/np09/en/ |archive-date=2015-07-08 }}</ref> The International Coalition for Trachoma Control <!-- (ICTC) --> has produced maps and a strategic plan called 2020 INSight that lays out actions and milestones to achieve global elimination of blinding trachoma by  2020.<ref>{{cite web |url=http://www.trachomacoalition.org/node/713 |title=Global strategy lays out concrete action plan to eliminate blinding trachoma by 2020 |date=July 2011 |publisher=International Coalition for Trachoma Control |access-date=8 November 2014 |archive-url=https://web.archive.org/web/20141108172604/http://www.trachomacoalition.org/node/713 |archive-date=8 November 2014 }}</ref> The program recommends the SAFE protocol for blindness prevention: Surgery for trichiasis, Antibiotics to clear infection, Facial cleanliness, and Environmental improvement to reduce transmission.<ref name="ghana">{{cite web|url=http://www.afro.who.int/news/ghana-eliminates-trachoma-freeing-millions-suffering-and-blindness|title=Ghana eliminates trachoma, freeing millions from suffering and blindness|publisher=[[World Health Organization]]|date=13 June 2018|access-date=13 June 2018}}</ref> This includes sanitation infrastructure to reduce the open presence of human feces that can breed flies.<ref name="nyt">{{cite news |last1=McNeil |first1=Donald G. Jr. |title=Now in Sight: Success Against an Infection That Blinds |url=https://www.nytimes.com/2018/07/16/health/trachoma-blindness-nepal.html |access-date=2018-09-03 |work=[[The New York Times]] |date=16 July 2018}}</ref>
+
+{{As of|2026|04|29|post=,}} 30 countries have eliminated trachoma as a public health problem. The latest of which being Australia, previously the only remaining high-income country where trachoma remained endemic.<ref name=":0">{{Cite web |title=Australia becomes the 30th country to eliminate trachoma as a public health problem |url=https://www.who.int/news/item/29-04-2026-australia-becomes-the-30th-country-to-eliminate-trachoma-as-a-public-health-problem |access-date=2026-05-30 |website=www.who.int |language=en}}</ref> Eradication of the bacterium that causes the disease is seen as impractical; the WHO definition of "eliminated as a public health problem" means less than 5% of children have any symptoms, and less than 0.1% of adults have vision loss.<ref name="nyt" /> Having already donated more doses (about 700 million since 2002) of the drug than it has sold during the same period, the drug company Pfizer has agreed to donate azithromycin until 2025, if necessary, for the elimination of the disease.<ref name="nyt" /> The campaign unexpectedly found that the distribution of azithromycin to very poor children reduced their early death rate by up to 25%.<ref name="nyt" />
+
+== Trachoma in Sub-Saharan Africa ==
+Sub-Saharan Africa faces substantial burdens of endemic trachoma due to intersecting environmental, socioeconomic, and public-health vulnerabilities.
+
+=== Epidemiology ===
+The African Region is the most intensely affected globally. Africa contains fewer than half the world's population. However, it accounts for more than 85% of all known cases of active trachoma.<ref>{{Cite journal |last=Gebre |first=T. |date=2014-04-01 |title=Trachoma control & elimination in Africa |url=https://www.ijidonline.com/article/S1201-9712(14)00563-3/fulltext |journal=International Journal of Infectious Diseases |language=English |volume=21 |page=42 |doi=10.1016/j.ijid.2014.03.504 |issn=1201-9712|doi-access=free }}</ref> In 2024, an estimated 93 million people in the African Region were living in areas at risk for trachoma, representing approximately 90% of the global at-risk burden.<ref>{{Cite web |title=Burundi eliminates trachoma as a public health problem |url=https://www.who.int/news/item/11-07-2025-burundi-eliminates-trachoma-as-a-public-health-problem |access-date=2025-11-06 |website=www.who.int |language=en}}</ref>
+
+Surveys show that in many endemic districts of SSA, children aged 1–9 years have prevalence rates of active trachoma (TF or TI) ranging from 20-60 % or more.<ref>{{Cite web |date=2019-03-23 |title=Trachoma Fact Sheet |url=https://aho.org/fact-sheets/trachoma-fact-sheet/ |access-date=2025-11-06 |website=Africa Health Organisation |language=en-GB}}</ref> For example, in one community in Ethiopia, the prevalence among children aged 1–9 years was found to be as high as 40.1%.<ref>{{Cite journal |last1=Mengistu |first1=Kassahun |last2=Shegaze |first2=Mulugeta |last3=Woldemichael |first3=Kifle |last4=Gesesew |first4=Hailay |last5=Markos |first5=Yohannes |date=2016 |title=Prevalence and factors associated with trachoma among children aged 1-9 years in Zala district, Gamo Gofa Zone, Southern Ethiopia |journal=Clinical Ophthalmology |volume=10 |pages=1663–1670 |doi=10.2147/OPTH.S107619 |doi-access=free |issn=1177-5467 |pmc=5010175 |pmid=27621585}}</ref>
+
+=== Environmental, social, and One Health determinants ===
+A convergence of risk factors across human, animal, and environmental domains typifies trachoma in SSA.
+
+* Poor access to safe water and sanitation, high fly density (particularly ''[[Musca sorbens]]'' breeding in human faeces), and crowded living conditions increase transmission.<ref>{{Cite journal |last1=Ageed |first1=Ahmed |last2=Khan |first2=Maaz |date=January 2024 |title=Eliminating Trachoma in Africa: The Importance of Environmental Interventions |journal=Cureus |volume=16 |issue=1 |article-number=e52358 |doi=10.7759/cureus.52358 |doi-access=free |issn=2168-8184 |pmc=10792353 |pmid=38234389}}</ref>
+* Rural, remote, and impoverished communities bear the highest burden—factors such as limited health infrastructure, low educational attainment, and subsistence farming intensify risk.<ref>{{Cite journal |last1=Meng |first1=Yang |last2=Li |first2=Furong |last3=Zeng |first3=Shun |last4=Liang |first4=Chaoqun |last5=Chi |first5=Wei |date=May 2025 |title=Global, Regional, and National Burden of Trachoma: Cross-Country Inequalities, 1990-2021, with Projections to 2040 |journal=Ophthalmology and Therapy |volume=14 |issue=5 |pages=1065–1079 |doi=10.1007/s40123-025-01102-5 |issn=2193-8245 |pmc=12006610 |pmid=40153142}}</ref>
+* Environmental factors such as climatic variability, drought, or heavy rainfall may influence fly populations or sanitation breakdowns in rural SSA settings, linking broader ecosystem health with human disease.
+* Gender dynamics: Women and girls often carry a greater risk of trachoma and its sequelae due to caregiving roles, greater contact with children who are reservoirs of infection, and disparities in access to services.<ref>{{Cite web |title=Trachoma in Africa: What you need to know |url=https://www.datelinehealthafrica.org/trachoma-in-africa-what-you-need-to-know |access-date=2025-11-06 |website=www.datelinehealthafrica.org |language=en-US}}</ref>
+
+=== Prevention and control ===
+The internationally-endorsed SAFE approach (Surgery for trichiasis, Antibiotics to clear infection, Facial cleanliness and Environmental improvement) is central to trachoma programmes in SSA.<ref>{{Cite web |last=Control |first=International Coalition for Trachoma |title=SAFE strategy |url=https://www.trachomacoalition.org/about-trachoma/safe-strategy |access-date=2025-11-06 |website=International Coalition for Trachoma Control |language=en}}</ref>
+
+* '''Surgery (S):''' Surgical correction of trichiasis (in-turned eyelashes) is performed in many endemic SSA countries to prevent progression to blindness.
+* '''Antibiotics (A):''' Mass drug administration (MDA) of oral azithromycin is deployed in districts where childhood prevalence of active trachoma exceeds 10%. Reports indicate that millions in SSA have received antibiotic treatment under elimination programmes.<ref>{{Cite web |title=Trachoma |url=https://www.who.int/data/gho/data/themes/topics/trachoma |access-date=2025-11-06 |website=www.who.int |language=en}}</ref>
+* '''Facial cleanliness (F):''' Health-education campaigns in schools and communities promote face-washing and hygiene practices, aiming to reduce transmission via ocular discharge and fly exposure.
+* '''Environmental improvement (E):''' Investment in latrines, improved waste disposal, fly control, and access to clean water are crucial—especially in rural SSA where environmental risk factors are pronounced.
+
+=== Progress, challenges, and future ===
+Significant strides have been made in SSA. Several countries have achieved validation of elimination as a public-health problem (for example, Senegal in July 2025).<ref>{{Cite web |title=Senegal joins growing list of countries that have eliminated trachoma |url=https://www.who.int/news/item/15-07-2025-senegal-joins-growing-list-of-countries-that-have-eliminated-trachoma |access-date=2025-11-06 |website=www.who.int |language=en}}</ref> Nonetheless, a number of major challenges still persist. Persistent high-burden countries such as Ethiopia and South Sudan have remote geography, conflict, weak infrastructure, and resource constraints that slow progress. Under-reporting and data gaps exist in many endemic districts that lack up to date prevalence surveys, limiting evidence-based targeting.<ref>{{Cite journal |last1=Smith |first1=Jennifer L. |last2=Flueckiger |first2=Rebecca M. |last3=Hooper |first3=Pamela J. |last4=Polack |first4=Sarah |last5=Cromwell |first5=Elizabeth A. |last6=Palmer |first6=Stephanie L. |last7=Emerson |first7=Paul M. |last8=Mabey |first8=David C. W. |last9=Solomon |first9=Anthony W. |last10=Haddad |first10=Danny |last11=Brooker |first11=Simon J. |date=2013 |title=The geographical distribution and burden of trachoma in Africa |journal=PLOS Neglected Tropical Diseases |volume=7 |issue=8 |article-number=e2359 |doi=10.1371/journal.pntd.0002359 |doi-access=free |issn=1935-2735 |pmc=3738464 |pmid=23951378}}</ref> Integration of One Health is still uneven in these regions, where aligning human health, environmental health, and veterinary/environmental infrastructure remains a work in progress.<ref>{{Citation |last1=Fernandez Cerna |first1=Eduardo |chapter=Impact of the Implementation of Sustainable Development Goals on Neglected Tropical Diseases |date=2024-12-19 |title=Sustainable Development  |publisher=IntechOpen |isbn=978-1-83769-269-9 |last2=F. Funes |first2=Ivan |doi=10.5772/intechopen.112774 |doi-access=free }}</ref> Another challenge exists with the sustainability of programmes. Maintaining antibiotic supply chains, trained surgical teams, behaviour change, and environmental improvements over long periods is resource-intensive and often runs out of monetary support.<ref>{{Cite journal |last1=Hammou |first1=Jaouad |last2=Mohammadi |first2=Farzad |last3=Raisi |first3=Abdulatif Al |last4=Harbi |first4=Saleh Al |date=2019 |title=Sustaining trachoma elimination: lessons from North Africa and the Middle East |journal=Community Eye Health |volume=32 |issue=105 |page=23 |issn=0953-6833 |pmc=6688423 |pmid=31409954}}</ref> Looking ahead, the road to elimination of trachoma in SSA will require intensified cross-sectoral coordination, increased funding, community-driven hygiene, environmental improvements, and leveraging climate resilient infrastructure.
+
+==History==
+The disease is one of the earliest known eye afflictions, having been identified in Egypt as early as 15&nbsp;BCE.<ref name=taylor/>
+
+Its presence was also recorded in ancient China and Mesopotamia. Trachoma became a problem as people moved into crowded settlements or towns with poor hygiene. It became a particular problem in Europe in the 19th century. After the [[Egyptian Campaign]] (1798–1802) and the [[Napoleonic Wars]] (1798–1815), trachoma was rampant in the army barracks of Europe and spread to those living in towns as troops returned home. Stringent control measures were introduced, and by the early 20th century, trachoma was essentially controlled in Europe, although cases were reported until the 1950s.<ref name=taylor/> Today, most victims of trachoma live in underdeveloped and poverty-stricken countries in [[Africa]], the [[Middle East]], and [[Asia]].{{citation needed|date=May 2021}}
+
+In the United States, the Centers for Disease Control says, "No national or international surveillance [for trachoma] exists. Blindness due to trachoma has been eliminated from the United States. The last cases were found among Native American populations and in Appalachia, and those in the boxing, wrestling, and sawmill industries (prolonged exposure to combinations of sweat and sawdust often led to the disease). In the late 19th and early 20th centuries, trachoma was the main reason for an immigrant coming through Ellis Island to be deported."<ref name="YEW">{{cite journal|last=Yew|first=E|title=Medical inspection of immigrants at Ellis Island, 1891–1924 |journal=Bulletin of the New York Academy of Medicine|date=Jun 1980|volume=56|issue=5|pages=488–510|pmid=6991041|pmc=1805119}}</ref><ref>[https://www.cdc.gov/ncidod/dbmd/diseaseinfo/trachoma_t.htm Disease Listing, Trachoma, Technical Information | CDC Bacterial, Mycotic Diseases<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20060418135221/http://www.cdc.gov/ncidod/dbmd/diseaseinfo/trachoma_t.htm |date=2006-04-18 }}.</ref>
+
+In 1913, President Woodrow Wilson signed an act designating funds for the eradication of the disease.<ref>{{cite journal |vauthors=Allen SK, Semba RD |title=The trachoma menace in the United States, 1897–1960 |journal=Survey of Ophthalmology |volume=47 |issue=5 |pages=500–9 |year=2002 |pmid=12431697 |doi= 10.1016/S0039-6257(02)00340-5}}</ref><ref>{{cite journal |last=Leupp |first=Constance D. |date=August 1914 |title=Removing The Blinding Curse Of The Mountains: How Dr. McMullen, Of The Public Health Service Is Organizing The War Against Trachoma In The Appalachians |journal=[[World's Work|The World's Work: A History of Our Time]] |volume=XLIV |issue=2 |pages=426–430 |url=https://books.google.com/books?id=zegeQtMn9JsC&pg=PA426 |access-date=2009-08-04 }}</ref> Immigrants who attempted to enter the U.S. through [[Ellis Island]], New York, had to be checked for trachoma.<ref name="YEW"/> During this time, treatment for the disease was by topical application of [[copper sulfate]]. By the late 1930s, several [[ophthalmologist]]s reported success in treating trachoma with [[sulfonamide (medicine)|sulfonamide]] antibiotics.<ref>{{cite journal |author=Thygeson P |title=The Treatment of Trachoma with Sulfanilamide: A Report of 28 Cases |journal=Transactions of the American Ophthalmological Society |volume=37 |pages=395–403 |year=1939 |pmid=16693194 |pmc=1315791 }}</ref> In 1948, [[Vincent Tabone]] (who was later to become the [[President of Malta]]) was entrusted with the supervision of a campaign in Malta to treat trachoma using sulfonamide tablets and drops.<ref>[http://staff.um.edu.mt/csav1/history/ophthalmology.pdf Ophthalmology in Malta, C. Savona Ventura, University of Malta, 2003] {{webarchive|url=https://web.archive.org/web/20070701021929/http://staff.um.edu.mt/csav1/history/ophthalmology.pdf |date=2007-07-01 }}.</ref>
+
+Due to improved sanitation and overall living conditions, trachoma virtually disappeared from the industrialized world by the 1950s, though it continues to plague the developing world to this day. Epidemiological studies were conducted in 1956–1963 by the Trachoma Control Pilot Project in India under the [[Indian Council of Medical Research|Indian Council for Medical Research.]]<ref>Gupta, UC and Preobragenski, W (1964), Trachoma in India—Endemicity and Epidemiological study, [[Indian Journal of Ophthalmology]], Volume 12, issue 2, pages 39–49.</ref> This potentially blinding disease remains endemic in the poorest regions of Africa, Asia, and the Middle East and in some parts of Latin America. Currently,{{when|date=July 2022}} 8 million people are visually impaired as a result of trachoma, and 41 million have an active infection.
+
+In 2026, Australia was declared to have eliminated trachoma as a public health problem.<ref name=":0" /> The same year, the World Health Organization announced that, following [[Timor-Leste]]'s elimination of the disease, [[Southeast Asia]] has eliminated trachoma as a public health problem.<ref>{{cite web |title=WHO validates Timor-Leste’s elimination of trachoma as a public health problem |url=https://www.who.int/news/item/03-09-2026-who-validates-timor-leste-s-elimination-of-trachoma-as-a-public-health-problem |website=www.who.int |language=en}}</ref>
+
+India's Health and Family Welfare Minister JP Nadda declared India free of infective trachoma in 2017.<ref>{{cite news|title=India now free of infective trachoma, says JP Nadda|url=https://www.newindianexpress.com/nation/2017/dec/09/india-now-free-of-infective-trachoma-says-jp-nadda-1722546.html|access-date=21 December 2017|work=The New Indian Express}}</ref>
+
+===Etymology===
+The term is derived from [[Neo-Latin]] {{Lang|la|trāchōma}}, from [[Ancient Greek|Greek]] τράχωμα {{Transliteration|grc|trākhōma}}, from τραχύς ''{{Transliteration|grc|trākhus}}'' "rough".<ref>{{cite web|title=tra·cho·ma|url=http://www.thefreedictionary.com/Tracoma|work=The American Heritage Dictionary of the English Language, Fourth Edition|publisher=TheFreeDictionary|access-date=19 January 2014}}</ref>
+
+== Economics ==
+The economic burden of trachoma is huge, particularly concerning covering treatment costs and productivity losses as a result of increased visual impairment, and in some cases, permanent blindness.<ref name="WHO2013" /> The global estimated cost of trachoma is reported between $US2.9 and 5.3 billion each year.<ref name="WHO2013" /> By including the cost of trichiasis treatment, the estimated overall cost for the disease increases to about $US 8 billion.<ref name="WHO2013" />
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{CDCDiseaseInfo|trachoma}}
+* Celia W. Dugger (31 March 2006), [https://www.nytimes.com/2006/03/31/world/africa/preventable-disease-blinds-poor-in-third-world.html "Preventable Disease Blinds Poor in Third World"], ''The New York Times''
+* [https://web.archive.org/web/20061130072940/http://webeye.ophth.uiowa.edu/eyeforum/atlassearch1.htm?appSession=65715523547772 Photographs of trachoma patients]
+* [http://www.trachomaatlas.org Trachoma Atlas]
+* [http://www.trachoma.org International Trachoma Initiative]
+{{Medical condition classification and resources
+| DiseasesDB      = 29100
+ | ICD10           = {{ICD10|A|71||a|70}}
+ | ICD9            = {{ICD9|076}}
+ | ICDO            =
+ | OMIM            =
+ | MedlinePlus     = 001486
+ | eMedicineSubj   = oph
+ | eMedicineTopic  = 118
+ | MeshID          = D014141
+}}
+{{Diseases of poverty |state=autocollapse}}
+{{Gram-negative non-proteobacterial bacterial diseases}}
+{{Eye pathology}}
+{{Eradication of infectious disease}}
+
+{{Authority control}}
+
+[[Category:Blindness]]
+[[Category:Eye diseases]]
+[[Category:Tropical diseases]]
+[[Category:Chlamydia infections]]
+[[Category:Infectious diseases with eradication efforts]]
+[[Category:Wikipedia medicine articles ready to translate]]
+[[Category:Wikipedia infectious disease articles ready to translate]]

@@ -1,0 +1,75 @@
+<!-- title: Code of Lipit-Ishtar; revid: 1314936427; timestamp: 2025-10-04T00:46:32Z -->
+{{Short description|Collection of laws promulgated by Lipit-Ishtar}}
+{{Use dmy dates|date=October 2023}}
+{{Infobox document
+| image          = File:Prologue code Lipit-Ishtar AO 5473.jpg
+| caption        = Prologue to the Code of Lipit-Ishtar (housed in the [[Louvre]] [AO 5473]){{Sfn|Louvre|2014}}
+|document_name=Code of Lipit-Ishtar|writer=[[Lipit-Ishtar]]}}
+
+The '''Code of Lipit-Ishtar''' is a [[Code of law|collection of laws]] promulgated by [[Lipit-Ishtar]] ({{Reign|1934|1924 BCE ([[Middle Chronology|MC]])}}), a ruler in [[Lower Mesopotamia]]. As [[cuneiform law]], it is a legal code written in [[Cuneiform|cuneiform script]] in the [[Sumerian language]].{{Sfn|Sallaberger|2009|p=7}}{{Sfn|Falkenstein|San Nicolò|1950|p=103}}
+
+It is the second-oldest known extant legal code after the [[Code of Ur-Nammu]]. As it is more detailed than that earlier code, it paved the way for the famous later [[Code of Hammurabi]].{{Sfn|Wilcke|2015}}
+
+== History ==
+=== Historical background ===
+Lipit-Ishtar ({{Reign|1934|1924 BCE ([[Middle Chronology|MC]])}}) was the fifth king of the [[Dynasty of Isin]], which was founded after the collapse of the [[Third Dynasty of Ur]].{{Sfn|Roth|1995|p=23}} His father, [[Ishme-Dagan]], is credited with the restoration of [[Nippur]], an ancient Sumerian city located in today's [[Iraq]].{{Sfn|Wilcke|2015}} The Dynasty of Isin governed the city of [[Isin]], also located in today's Iraq, and held political power in the cities of Lower Mesopotamia.{{Sfn|Roth|1995|p=23}}
+
+Lipit-Ishtar himself is said to have restored peace and is praised for the establishment of a functioning legal system.{{Sfn|Wilcke|2015}}
+
+=== Original stele ===
+The original [[diorite]] [[stele]] inscribed with the code was placed in [[Nippur]]. Two pieces of this stele have survived to this day.{{Sfn|Wilcke|2015}} The American academic Martha Roth notes that during this period a tradition existed to name individual years after notable events that happened in that year and argues that one named year could commemorate the erection of the stele.{{Sfn|Roth|1995|p=23}} In its English translation, the year is named as follows:
+{{Blockquote|text=The year in which Lipit-Ishtar established justice in the lands of [[Sumer]] and [[Akkad (city)|Akkad]].|author=Lipit-Ishtar (translated by Martha Roth)}}
+
+=== Transmission ===
+The code has been handed down to the present day through various sources. All but two of them stem from Nippur.{{Sfn|Wilcke|2015}} About half of the code is contained in these sources and thus transmitted. The total length the code is considered to be about the same as that of the later Code of Hammurabi.{{Sfn|Wilcke|2015}}
+
+== Legal contents ==
+The Code of Lipit-Ishtar is similar in structure to the [[Code of Ur-Nammu]], the oldest surviving law code.{{Sfn|Wilcke|2015}} It has a prologue, which justifies its legal authority, a main body which contains the civil and penal laws governing life and a concluding epilogue.{{Sfn|Wilcke|2015}} 
+
+=== Prologue ===
+The prologue legitimatizes the legal content of the code. The gods [[An (god)|An]] and [[Enlil]] are invoked and it is explained that they have invested Lipit-Ishtar as "the country’s prince" in order to "establish justice in the land, eradicate the cry for justice [...] [and] forcefully restrain crime and violence" so "that Sumer and Akkad [can] be happy".{{Sfn|Wilcke|2015}} The prologue further informs the reader that Lipit-Ishtar has recently freed slaves from [[Nippur]], [[Ur]], and [[Isin]].{{Sfn|Wilcke|2015}}
+
+The academic Martha Roth summarizes the prologue as containing self-praise of Lipit-Ishtar, listing all [[Lower Mesopotamia]]n cities under his rule, and emphasizing his success as a restorer of justice.{{Sfn|Roth|1995|p=23}}
+
+=== Laws ===
+The existing main body consists of almost fifty legal provisions.{{Sfn|Wilcke|2015}} The first set of them deals with boats. They are followed by provisions on agriculture, fugitive slaves, false testimony, foster care, apprenticeship, marriage and sexual relationships as well as rented oxen.{{Sfn|Roth|1995|p=24}} The provisions are all introduced by the Sumerian [[wiktionary:𒋗𒃻𒌉𒇲𒁉|tukun-be]], meaning "if".{{Sfn|Roth|1995|p=24}}{{Sfn|Neumann|2003|p=83}} The transmitted provisions do not contain crimes which are [[Capital punishment|punished by death.]]{{Sfn|Neumann|2003|p=83}}
+
+The code contains, for example, a provision according to which [[False accusation|false accusers]] have to bear the punishment for the crimes they have alleged.{{Sfn|Wilcke|2015}}{{Sfn|Neumann|2003|p=83}} All extant provisions of the code are listed by Martha Roth{{Sfn|Roth|1995|pp=26–33}} and {{Ill|Claus Wilcke (academic)|lt=Claus Wilcke|de|Claus Wilcke (Altorientalist)}}.{{Sfn|Wilcke|2014}}
+
+=== Epilogue ===
+The epilogue of the code contains three large [[Lacuna (manuscripts)|lacunae]].{{Sfn|Wilcke|2015}} The remaining parts explain that Lipit-Ishtar executed a divine order and brought justice to his land:{{Sfn|Wilcke|2015}}
+{{Blockquote|text=I, Lipit-Ishtar […] silenced crime and violence, made tears, laments and cries for justice taboo, let probity and law shine, made Sumer and Akkad content.|author=Lipit-Ishtar (translated by Claus Wilcke)}}
+
+Furthermore, the erection of the stele is reported upon, and blessings are said to those who honour the stele and curses inflicted upon those who would venture to desecrate or destroy it.{{Sfn|Wilcke|2015}}{{Sfn|Roth|1995|p=24}}
+
+== Critical edition and modern translations ==
+No modern critical edition of the code exists.{{Sfn|Wilcke|2015}} Its last English translation was performed by Martha Roth in 1995.{{Sfn|Wilcke|2014|p=458}} The German academic Claus Wilcke translated it into German in 2014.{{Sfn|Wilcke|2014|pp=573–606}}
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+* {{Cite journal |last1=Falkenstein |first1=A. |last2=San Nicolò |first2=M. |date=1950 |title=Das Gesetzbuch Lipit-Ištars von Isin |url= |journal=Orientalia |language=de |volume=19 |issue=1 |pages=103–118 |issn=0030-5367 |jstor=43079258}}
+* {{Cite book |last=Neumann |first=Hans |title=Die Rechtskulturen der Antike: vom Alten Orient bis zum Römischen Reich |publisher=C. H. Beck |year=2003 |isbn=9783406509155 |editor-last=Manthe |editor-first=Ulrich |pages=55–122 |language=de}}
+* {{Cite book |last=Roth |first=Martha T. |title=Law Collections from Mesopotamia and Asia Minor |publisher=Scholars Press |year=1995 |isbn=0-7885-0104-6 |series=Writings from the Ancient World |volume=6 |location=Atlanta |pages=23–35 |chapter=Laws of Lipit-Ishtar}}
+* {{Cite book |last=Sallaberger |first=Walther |url= |title=Gerechtigkeit und Recht zu üben" (Gen 18,19): Studien zur altorientalischen und biblischen Rechtsgeschichte, zur Religionsgeschichte Israels und zur Religionssoziologie: Festschrift für Eckart Otto zum 65. Geburtstag |publisher=Harrassowitz Verlag |year=2009 |editor-last=Achenbach |editor-first=Reinhard |location=Wiesbaden |pages=7–33 |language=de |chapter=Der ‚Prolog‘ des Codex Lipit-Eštar |editor-last2=Arneth |editor-first2=Martin |chapter-url=https://www.assyriologie.uni-muenchen.de/personen/professoren/sallaberger/publ_sallaberger/wasa_2009_codex_lipitestar.pdf}}
+* {{Cite book |last=Wilcke |first=Claus |editor-first1=Natalia |editor-first2=E. |editor-first3=Gabor |editor-last1=Koslova |editor-last2=Vizirova |editor-last3=Zólyomi |title=Studies in Sumerian Language and Literature: Festschrift für Joachim Krecher |publisher=Penn State University Press |year=2014 |isbn=9781575063553 |series=Babel und Bibel |volume=8 |language=de |chapter=Gesetze in sumerischer Sprache |doi=10.1515/9781575063553 |chapter-url=https://doi.org/10.1515/9781575063553-019}}
+* {{Cite encyclopedia |year=2015 |title=Laws of Lipit-Ishtar |encyclopedia=The Oxford Encyclopedia of the Bible and Law |publisher=Oxford University Press |url=https://www.oxfordreference.com/display/10.1093/acref:obso/9780199843305.001.0001/acref-9780199843305-e-77 |last=Wilcke |first=Claus |editor-last=Strawn |editor-first=Brent A. |doi=10.1093/acref:obso/9780199843305.001.0001 |isbn=9780199843305|url-access=subscription }}
+* {{Cite web |title=Numéro principal: AO 5473 |date=31 December 2014|url=https://collections.louvre.fr/ark:/53355/cl010166109 |access-date=2023-10-21 |website=[[Louvre]] |language=fr | ref={{harvid|Louvre|2014}}}}
+
+== Further reading ==
+* {{Cite book |last=Kramer |first=Samuel N. |title=Ancient Near Eastern Texts Relating to the Old Testament with Supplement |publisher=Princeton University Press |year=1955 |editor-last=Pritchard |editor-first=James B. |series=Princeton Studies on the Near East |chapter=Collections of Laws from Mesopotamia and Asia Minor: Lipit-Ishtar Lawcode |doi=10.1515/9781400882762 |author-link=Samuel Noah Kramer |isbn=9781400882762 |chapter-url=https://doi.org/10.1515/9781400882762-008}}
+* {{Cite book |last=Lutzmann |first=Heiner |editor-first1=Otto |editor-last1=Kaiser |title=Rechtsbücher |url=https://doi.org/10.14315/9783641217587-005 |series=Texte aus der Umwelt des Alten Testaments |volume=I |pages=23–31 |publisher=Gütersloher Verlagshaus |language=de |chapter=Aus den Gesetzen des Königs Lipit Eschtar von Isin |doi=10.14315/9783641217587 |year=1982 |isbn=978-3-641-21758-7 |s2cid=198758881}}
+* {{Cite journal |last=Steele |first=Francis R. |date=1947 |title=The Lipit-Ishtar Law Code |url= |journal=[[American Journal of Archaeology]] |volume=51 |issue=2 |pages=158–164 |doi=10.2307/500752 |issn=0002-9114 |jstor=500752|s2cid=159785487 }}
+* {{Cite journal |last=Steele |first=Francis R. |date=1948 |title=The Code of Lipit-Ishtar |url= |journal=[[American Journal of Archaeology]] |volume=52 |issue=3 |pages=425–450 |doi=10.2307/500438 |issn=0002-9114 |jstor=500438|s2cid=163318937 }}
+
+== External links ==
+* {{Commons-inline}}
+* {{Wikisource-inline|Code of Lipit-Ištar}}
+{{Authority control}}
+
+[[Category:20th-century BC steles]]
+[[Category:Legal codes]]
+[[Category:Ancient Near East law]]
+[[Category:Isin-Larsa period]]

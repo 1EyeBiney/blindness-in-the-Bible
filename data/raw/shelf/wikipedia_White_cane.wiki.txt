@@ -1,0 +1,78 @@
+<!-- title: White cane; revid: 1376707584; timestamp: 2026-09-25T19:57:43Z -->
+{{short description|Distinctive cane used in walking by the blind}}
+[[File:Long cane.jpg|thumb|80px|upright|A long cane, the primary mobility tool for the visually impaired|alt=A white cane with a ball tip]]
+
+A '''white cane''' is a device used by many people who are [[visual impairment|blind or visually impaired]]. A white cane primarily allows its user to scan their surroundings for obstacles or orientation marks, but is also helpful for onlookers in identifying the user as blind or visually impaired and taking appropriate care.
+
+== Variants ==
+[[File:ID cane.jpg|thumb|200px|left|An identification cane|alt=A folded cane]]
+*'''Long cane''': Designed primarily as a mobility tool used to detect objects in the path of a user. Cane length depends upon the height of a user, and traditionally extends from the floor to the user's [[human sternum|sternum]]. It is the most well-known variant, though some organisations favor the use of much longer canes.<ref name=Nichols1995 >{{Citation | author = Nichols, Allan | year = 1995 | title = Why Use the Long White Cane? | url = http://www.blind.net/g42w0001.htm | archive-url = https://web.archive.org/web/20100330050804/http://www.blind.net/g42w0001.htm | archive-date = 2010-03-30}}</ref>
+*'''Guide cane''': A shorter cane, generally extending from the floor to the user's waist, with more limited potential as a mobility device. It is used to scan for kerbs<!--do not change! This is British English!--> and steps. The guide cane can also be used diagonally across the body for protection, warning the user of obstacles immediately ahead.
+*'''Identification cane''' (sometimes shortened to '''ID cane''' and known as the '''symbol cane''' in [[British English]]): Used primarily to alert others that the user is visually impaired, but not to the extent where they require a long cane or other variant.<ref name=":0">{{Cite web|url=https://www.rnib.org.uk/cane-explained|title=The Cane Explained|website=[[Royal National Institute of Blind People|RNIB]]|access-date=2019-02-05|archive-date=2020-12-14|archive-url=https://web.archive.org/web/20201214112127/https://www.rnib.org.uk/cane-explained|url-status=dead}}</ref> It is often lighter and shorter than the long cane, and has no use as a mobility tool.
+*'''Support cane''': Designed primarily to offer physical stability to a visually impaired user, the cane also works as a means of identification. It has very limited potential as a mobility device.
+*'''Kiddie cane''': This variant functions exactly the same as an adult's long cane but is designed for use by children, and is thus smaller and lighter.
+*'''Green cane''': Used in some countries, such as Argentina, to designate that the user has low vision, while the white cane designates that a user is completely blind.<ref name="Ley del Bastón Verde" />
+
+Mobility canes are often made from [[aluminium]], [[graphite-reinforced plastic]] or other [[fibre-reinforced plastic]], and can come with a wide variety of tips depending upon user preference.
+
+[[File:Long cane folded.jpg|thumb|Folded long cane]]
+White canes can be either collapsible or straight, with both versions having advantages and disadvantages. The [[National Federation of the Blind]] in the United States affirms that the lightness and greater length of the straight canes allows greater mobility and safety, though collapsible canes can be stored with more ease, giving them advantage in crowded areas such as classrooms and public events.<ref>[https://books.google.com/books?id=eWn8kwKAwF4C&q=%22white+cane%22+%22advantage%22+%22public%22&pg=PA145 ''Code of Federal Regulations: 1985–1999'']</ref><ref>''Education of the Visually Handicapped: The Official Publication of Association for Education of the Visually Handicapped, Volumes 1–3'' {{ISBN|0-7246-3988-8}} p. 13</ref>
+
+== History ==
+[[File:Woman crossing the street using a white cane.jpg|thumb|A woman crosses the street using her white cane.|alt=A man and a woman crossing the street. The woman is using a white cane]]
+[[File:Cane tips.jpg|thumb|A variety of cane tips. A = Pencil Tip, B = Bundu Basher Tip, C = Ball Race Overfit Tip, D = Rubber Support Cane Tip, E = Pear Tip, F = Rural Tip, G = Jumbo Roller Tip]]
+
+Blind people have used canes as mobility tools for centuries.<ref>{{cite web|url=http://www.orientationandmobility.org/profession.html|title=Historical Development of Orientation and Mobility as a Profession|first=Pat|last=Kelley|publisher=OrientationAndMobility.org|year=1999|access-date=20 January 2012|archive-url=https://web.archive.org/web/20120205015410/http://orientationandmobility.org/profession.html|archive-date=5 February 2012|url-status=dead}}</ref>
+
+In 1921 James Biggs, a photographer from [[Bristol]] who became blind after an accident and was uncomfortable with the amount of traffic around his home, painted his walking stick white to be more easily visible.<ref>''Mobility of Visually Impaired People: Fundamentals and ICT Assistive Technologies'' {{ISBN|978-3-319-54444-1}} p. 363</ref>
+
+The first special white cane ordinance was passed in December 1930 in [[Peoria, Illinois]], after intervention of the Peoria Lions Club, granting blind pedestrians protections and the right-of-way while carrying a white cane.<ref>{{Cite web|url=https://www.njcounciloftheblind.org/brochures/history_of_white_cane.htm|title=The History of the White Cane|publisher=New Jersey Council of the Blind|access-date=May 1, 2024}}</ref><ref>{{Cite web |title=Overview |url=https://cicbvi.org/about-us/overview/ |access-date=2024-11-09 |website=Central Illinois Center for the Blind and Visually Impaired |language=en-US}}</ref><ref>{{Cite web |last=Collin |first=Schopp |date=2022-10-11 |title=Peoria, home of the invention, celebrates White Cane Safety Day |url=https://www.wcbu.org/local-news/2022-10-11/peoria-home-of-the-invention-celebrates-white-cane-safety-day |access-date=2024-11-09 |website=WCBU Peoria |language=en}}</ref>
+
+In 1931 in France, [[Guilly d'Herbemont]] launched a national white stick movement for blind people. On February 7, 1931, Guilly d'Herbemont symbolically gave the first two white canes to blind people, in the presence of several French ministers. 5,000 more white canes were later sent to blind French veterans from World War I and blind civilians.<ref>{{Citation | author = Bailly, Claude | year = 1990 | title = Les débuts de la canne blanche | journal = L'Auxilaire des Aveugles| url = http://dherbemont.free.fr/en/textes/cannes.html|language=fr|access-date=20 January 2012}}</ref>
+
+The long cane was improved upon by [[World War II]] veterans [[Rehabilitation counseling|rehabilitation]] specialist, Richard E. Hoover, at [[Valley Forge]] Army Hospital.<ref>{{cite web|url=http://www.afb.org/unseen/book.asp?ch=Koe-33omchron|title=Historical Chronologies, The Unseen Minority: A Social History of Blindness in the United States|publisher=[[American Printing House for the Blind]]|first=Frances A|last=Koestler|access-date=20 January 2012|archive-url=https://web.archive.org/web/20180709053915/http://www.afb.org/unseen/book.asp?ch=Koe-33omchron|archive-date=9 July 2018|url-status=dead}}</ref> In 1944, he took the Lions Club white cane (originally made of wood) and went around the hospital blindfolded for a week. During this time he developed what is now the standard method of "long cane" training or the Hoover Method. He is now called the "Father of the Lightweight Long Cane Technique". The basic technique is to swing the cane from the center of the body back and forth before the feet. The cane should be swept before the rear foot as the person steps. Before he taught other rehabilitators (or "orientors") his new technique, he had a special commission to have lightweight, long white canes made for the veterans of the European fronts.<ref>{{Citation | editor-last1= Weiner |editor-first1=W.R. |editor-last2=Welsh |editor-first2=R.L. |editor-first3=Blasch |editor-last3=B. B. | year = 2010 | title = Foundations of orientation and mobility (3rd ed., Vol. I) |publisher=American Foundation for the Blind | isbn = 978-0-89128-448-2}} {{page needed|date=January 2012}}</ref>
+
+Hoover's long cane technique was perfected at [[Edward Hines Jr. Veterans Administration Hospital|Edward Hines Jr. VA Hospital]], which opened the [[United States Department of Veterans Affairs|Department of Veterans Affairs]]' first Blind Rehabilitation Center in 1948 and was staffed by former Valley Forge Army Hospital instructors.<ref>{{Cite web |title=The New Breed {{!}} American Foundation for the Blind |url=https://www.afb.org/online-library/unseen-minority-0/chapter-17 |access-date=2023-07-11 |website=The American Foundation for the Blind |language=en-US}}</ref>
+
+On October 6, 1964, a joint resolution of the Congress, HR 753, was signed into law authorizing the President of the United States to proclaim October 15 of each year as "[[White Cane Safety Day]]". President [[Lyndon Johnson]] was the first to make this proclamation.<ref>"[https://nfb.org/white-cane-safety-day "White Cane Safety Day]", National Federation of the Blind. Retrieved 16 August 2016.</ref>
+
+==Legislation about canes==
+[[File:Support cane folded.jpg|80px|thumb|left|upright|A folding support cane]]
+
+While the white cane is commonly accepted as a "symbol of blindness", different countries still have different rules concerning what constitutes a "cane for the blind".
+
+In the United Kingdom, the white cane indicates that the individual has a visual impairment but normal hearing; with red bands added, it indicates that the user is [[deafblind]].<ref name=":0" />
+
+In the United States, laws vary from state to state, but in all cases, those carrying white canes are afforded the [[right-of-way (traffic)|right-of-way]] when crossing a road. They are afforded the right to use their cane in any public place as well. In some cases, it is illegal for a non-blind person to use a white cane with the intent of being given right-of-way.<ref>{{Cite web|date=2004-06-24|title=National Association of Guide Dog Users|url=http://www.nfb-nagdu.org/laws/usa/usa.html|access-date=2021-10-21|url-status=usurped|archive-url=https://web.archive.org/web/20040624082801/http://www.nfb-nagdu.org/laws/usa/usa.html|archive-date=2004-06-24}}</ref><ref>{{Cite web|title=White Cane Laws for States {{!}} American Council of the Blind|url=https://acb.org/whitecane|access-date=2021-10-21|website=acb.org|archive-date=2021-10-21|archive-url=https://web.archive.org/web/20211021225933/https://acb.org/whitecane|url-status=dead}}</ref>
+
+In November 2002, Argentina passed a law recognizing the use of green canes by people with low vision, stating that the nation would "adopt from this law, the use of a green cane in the whole of Argentina as a means of orientation and mobility for people with low vision. It will have the same characteristics in weight, length, elastic grip and fluorescent ring as do white canes used by the blind."<ref name="Ley del Bastón Verde">{{cite web|last1=Rollano|first1=Eduardo D.|last2=Oyarzún|first2=Juan C.|title=Personas con Baja Visión|url=http://www.infoleg.gov.ar/infolegInternet/anexos/80000-84999/80888/norma.htm|website=Información Legislativa y Documental|publisher=The Government of Argentina|access-date=31 March 2015|location=Argentina|language=es|date=27 December 2002}}</ref>
+
+In Germany, people carrying a white cane are exempted from the ''{{ill|Vertrauensgrundsatz|de}}'' (trust principle), therefore meaning that other traffic participants should not rely on them to adhere to all traffic regulations and practices. Although there is no general duty to mark oneself as blind or otherwise disabled, a blind or visually impaired person involved in a traffic accident without having marked themselves may be held responsible for damages unless they prove that their lack of marking was not causal or otherwise related to the accident.
+
+== Children and canes ==
+In many countries, including the UK, a cane is not generally introduced to a child until they are between 7 and 10 years old. However, more recently canes have been started to be introduced as soon as a child learns to walk to aid development with great success.<ref>{{Cite web |url=http://www.worldaccessfortheblind.org/sites/default/files/Facilitating_Movement.pdf |title=Archived copy |access-date=2011-04-17 |archive-date=2016-03-04 |archive-url=https://web.archive.org/web/20160304100514/http://www.worldaccessfortheblind.org/sites/default/files/Facilitating_Movement.pdf |url-status=dead }}{{page needed|date=February 2012}}</ref><ref>{{Cite web |url=http://www.commonsense.me.uk/ |title=Common Sense – Home |access-date=2019-07-20 |archive-url=https://web.archive.org/web/20120502155952/http://commonsense.me.uk/ |archive-date=2012-05-02 |url-status=dead }}</ref>
+
+Joseph Cutter and [[Lilli Nielsen]], pioneers in research on the development of blind and disabled children, have begun to introduce new research on mobility in blind infants in children. Cutter's book, ''Independent Movement and Travel in Blind Children'',<ref name=Cutter2007 >{{Citation | author = Cutter, Joseph | year = 2007 | title = Independent Movement and Travel in Blind Children | publisher = Emerald Publishing Limited | isbn= 978-1-59311-603-3}}{{page needed|date=February 2012}}</ref> recommends a cane to be introduced as early as possible, so that the blind child learns to use it and move around naturally and organically, the same way a sighted child learns to walk. A longer cane, between nose and chin height, is recommended to compensate for a child's more immature grasp and tendency to hold the handle of the cane by the side instead of out in front. Mature cane technique should not be expected from a child, and style and technique can be refined as the child gets older.
+
+== See also ==
+
+* [[GPS for the visually impaired]]
+* [[Tactile paving]]
+* [[Guide dog]]
+* [[Guide horse]]
+* [[Assistive cane]]
+* [[Hoople (mobility aid)]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+{{commons category-inline|White canes|lcfirst=yes}}
+* [https://www.njcounciloftheblind.org/brochures/history_of_white_cane.htm History of the White Cane]
+* [https://web.archive.org/web/20070713030835/http://www.acb.org/pedestrian/whitecane.html History of White Cane Safety Day]
+
+{{Assistive technology}}
+
+[[Category:Mobility devices]]
+[[Category:Blindness equipment]]

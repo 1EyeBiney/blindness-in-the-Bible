@@ -1,0 +1,103 @@
+<!-- title: Valentin Haüy; revid: 1344186368; timestamp: 2026-03-18T21:45:48Z -->
+{{Short description|Founder of the first school for the blind}}
+{{other people||Haüy (disambiguation)}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox person
+|name          = Valentin Haüy
+|image         = Valentin Haüy oval portrait.jpg
+|image_size    = 150px
+|caption       = Valentin Haüy
+|birth_name    =
+|birth_date    = 13 November 1745
+|birth_place   = [[Saint-Just-en-Chaussée]], [[Oise]], France
+|death_date    = {{death date and age|1822|3|18|1745|11|13|df=y}}
+|death_place   = Paris, France
+|death_cause   =
+|resting_place =
+|resting_place_coordinates = 
+|other_names   =
+|known_for     = founder of [[Institut National des Jeunes Aveugles]], the first school for the blind
+|education     =
+|employer      =
+|occupation    =
+|title         =
+|height        =
+|term          =
+|predecessor   =
+|successor     =
+|party         =
+|boards        =
+|spouse        =
+|partner       =
+|children      =
+|parents       =
+|relatives     = [[René Just Haüy]]
+|signature     =
+|website       =
+|footnotes     =
+}}
+
+'''Valentin Haüy''' (pronounced {{IPA|fr|aɥi|}}; 13 November 1745 – 18 March 1822) was the founder, in 1785,<ref>{{Cite web|url=http://www.inja.fr/Default/valentin-hauy.aspx|title=Site par défaut - Historique - Valentin Haüy|website=www.inja.fr|language=fr-FR|access-date=2017-10-18|archive-date=18 October 2017|archive-url=https://web.archive.org/web/20171018134118/http://www.inja.fr/Default/valentin-hauy.aspx|url-status=dead}}</ref><ref>{{Cite journal|last=Weygand|first=Zina|date=2009|title=Les aveugles dans la société française, Abstract|url=https://www.cairn.info/revue-d-ethique-et-de-theologie-morale-2009-HS-page-65.htm|journal=Revue d'éthique et de théologie morale|language=fr|issue=256|pages=65–85|doi=10.3917/retm.256.0065|issn=1266-0078|doi-access=free|url-access=subscription}}</ref> of the first school for the blind, the Institute for Blind Youth in Paris (now [[Institut National des Jeunes Aveugles]], or the ''National Institute for the Young Blind'', INJA). In 1819, [[Louis Braille]] entered this school.
+
+==Life==
+[[File:Statue de Valentin Haüy.jpg|thumb|left|Statue at the {{lang|fr|Institut national des jeunes aveugles}}]]
+Haüy was born into a family of weavers. His father, a full-time loomer, also held the job of ringing the [[Angelus]] bells in a local [[Premonstratensian|Premonstrant]] Abbey. The abbey monks educated Valentin and he became a skilled [[Linguistics|linguist]] speaking ten different languages of the day. He also studied [[Ancient Greek]] and [[Biblical Hebrew|Hebrew]]. In 1783, he gained the title "interpreter to the king", [[Louis XVI]]. In 1786, he was the interpreter of the King, to the Admiralty and the City Hall. He was a member of the Office of Writing.{{sfn|Herbermann|1913}}
+
+Haüy's impulse to help the blind started in 1771, after he stopped for lunch in a cafe on the [[Place de la Concorde]], Paris. There, he witnessed an ensemble of people from the [[Quinze-Vingts National Ophthalmology Hospital|Quinze-Vingts]] hospice for the blind being mocked during the religious street festival, "Saint Ovid's Fair". They were given [[dunce cap]]s, oversized cardboard glasses and told to play their instruments which resulted in a [[cacophony]] of noises. He decided to found a school with [[Charles-Michel de l'Épée]].{{sfn|Herbermann|1913}}
+
+In May 1784, at [[Saint-Germain-des-Prés]], he met a young beggar, François Lesueur, who became his first student. He developed a method of raised letters, to teach Lesueur to read, and compose sentences. He made rapid progress, and Haüy announced the success, in September 1784 in the ''[[Journal de Paris]]'', then receiving encouragement from the [[French Academy of Sciences]].{{sfn|Herbermann|1913}}
+
+With the help of the Philanthropic Society Haüy founded the Institute for Blind Youth (''Institution des jeunes aveugles''), in February 1785.
+Building on the philanthropic spinning workshop for the blind, it received the support of [[Louis XVI]] and became the Royal institution of Blind Children on 26 December 1786. Its purpose was to educate students and teach them manual work: spinning, and letterpress. During the [[French Revolution]], it was taken over by the state on 28 September 1791. It became the National Institute of blind workers in a [[Celestines|Celestine]] monastery.
+
+Valentin Haüy was active in the political life of his time, and was secretary of the [[National Constituent Assembly (France)|National Constituent Assembly]] elections of 1792, then civil commissioner. He was arrested on 5 [[Prairial]] III (24 May 1795), and he was released on 11 by the [[Committee of Public Safety]], arrested again on 20 by the [[National Convention]]. 
+He was released on 19 Fructidor, he joined the [[Panthéon Club]], under the [[French Directory]]. Under the [[French Consulate]], he was listed as a "terrorist". 
+In 1802, he was retired from management of Blind Asylum, and granted a pension. 
+In February, 1802, he started a private school in the rue Sainte-Avoye.
+In September 1806, he moved to [[St. Petersburg]], to found a school at the request of [[Alexander I of Russia]].{{sfn|Herbermann|1913}}
+
+He returned to Paris, in 1817, to live with his brother, [[René Just Haüy]], who is considered a founder of modern [[mineralogy]].{{sfn|Herbermann|1913}}
+[[File:Valentin Haüy et Abbé René Just Haüy.JPG|thumb|Grave of Valentin Haüy and René Just Haüy]]
+He is buried, with his brother René, in [[Père Lachaise Cemetery]] in Paris.
+
+==Legacy==
+In 1889, [[Maurice de La Sizeranne]] created an association dedicated to helping the blind and visually impaired, named for him.
+
+== See also ==
+* [[Louis Braille]]
+* [[Musée Valentin Haüy]]
+* [[Slate and stylus#History|Slate and stylus, History]]
+* [[:fr:Association Valentin Haüy|fr :Association Valentin Haüy]]
+* [[Maria Theresia von Paradis]]
+* [[Musée Valentin Haüy]]
+
+==References==
+{{Reflist}}
+;Attribution
+{{Catholic|wstitle=Valentin Haüy}}
+
+== Further reading ==
+*{{cite book|last=Mellor|first=C. Michael|title=Louis Braille: A Touch of Genius|publisher=National Braille Press|year=2006|url=https://archive.org/details/louisbrailletouc0000mell|url-access=registration|quote=Louis Braille: A Touch of Genius.|isbn=9780939173709}}
+*{{cite book|author=Weygand, Zina|title=The Blind in French Society From the Middle Ages to the Century of Louis Braille.|translator=Emily-Jane Cohen|place= Stanford, California|publisher=Stanford University Press|year= 2009|isbn=9780804757683|url=https://books.google.com/books?id=WeR3w30IAiMC&q=The+Blind+in+French+Society}}
+
+== External links ==
+{{Commons category|Valentin Haüy}}
+{{wikiquote}}
+
+* [https://web.archive.org/web/20100403215834/http://www.avh.asso.fr/rubrics/association/association.php?langue=eng& Valentin Haüy Association]
+* [https://web.archive.org/web/20110717053956/http://www.avh.asso.fr/rubrics/association/museum.php?langue=eng Musée Valentin Haüy]
+* {{Gutenberg author | id=32122}}
+* {{Internet Archive author |sname=Valentin Haüy |sopt=t}}
+
+{{Braille}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hauy, Valentin}}
+[[Category:1745 births]]
+[[Category:1822 deaths]]
+[[Category:Burials at Père Lachaise Cemetery]]
+[[Category:Educators from Paris]]
+[[Category:Linguists from France]]
+[[Category:People from Oise]]
+[[Category:Educators of the blind]]

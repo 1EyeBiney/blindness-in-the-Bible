@@ -1,0 +1,281 @@
+<!-- title: Priestly divisions; revid: 1360730020; timestamp: 2026-06-23T06:44:31Z -->
+{{short description|Work divisions of Jewish priests in the Temple}}
+{{Kehuna and Kohanim}}
+The '''priestly divisions''' or '''sacerdotal courses''' ({{langx|he|מִשְׁמָר}} ''mishmar'') are the groups into which [[kohanim]] "priests" were divided for service in the [[Temple in Jerusalem]] in ancient [[Judea]].
+
+The 24 priestly divisions are first listed in [[1 Chronicles 24]].
+
+==Role in the Temple==
+1 Chronicles 24 refers to these priests as "descendants of Aaron." According to the Bible, Aaron had four sons: [[Nadab and Abihu]], [[Eleazar]] and [[Ithamar]]. However, Nadab and Abihu died before Aaron, and only Eleazar and Ithamar had sons.<ref>[[Leviticus 10]], [[Numbers 3]], [[1 Chronicles 24]]</ref> In Chronicles, one priest ([[Zadok]]) from Eleazar's descendants, and another priest, [[Ahimelech]], from Ithamar's descendants, were designated by [[David]], ruler of the [[United Kingdom of Israel]], to help create the various priestly work groups.<ref>{{Bibleverse|1 Chronicles|24:3|HE}}</ref> Sixteen of Eleazar's descendants were selected to head priestly orders, while only eight of Ithamar's descendants were so chosen; this imbalance was done because of the greater number of leaders among Eleazar's descendants.<ref>{{Bibleverse|1 Chronicles|24:4|HE}}</ref>
+
+According to the [[Talmud]], the 24-family division was an expansion of a previous division by Moses into 8 (or 16) divisions.<ref>Taanit 27a</ref> According to [[Maimonides]], the separation of priests into divisions was already commanded in the time of Moses in [[Shofetim (parashah)#Fourth reading—Deuteronomy 18:6–13|Deuteronomy 18:8]].<ref>[[Sefer Hamitzvot]], positive commandment 36</ref>
+
+Lots were drawn to designate the order of Temple service for the different priestly orders according to 1 Chronicles 24:5. Each order was responsible for ministering during a different week and [[Shabbat]] and was stationed at the Temple. All orders were present during [[Jewish holidays|biblical festivals]]. Their duties involved offering the daily and holiday [[korbanot]] "sacrifices" and administering the [[Priestly Blessing]] to the people. The change between shifts took place on Shabbat at midday, with the outgoing shift performing the morning sacrifice and the incoming shift the afternoon sacrifice according to [[Sukkah (tractate)|Sukkah]] 56b.
+
+According to the [[Jerusalem Talmud]] (Ta‘anith 4:2 / 20a): "Four wards came up out of exile: Yedaiah, Harim, Pašḥūr and Immer. The prophets among them had made a stipulation with them, namely, that even if Jehoiariv should come up out of exile, the officiating ward that serves in the Temple at that time should not be rejected on his account, but rather, he is to become secondary unto them."
+
+Many modern scholars treat these priestly courses either as a reflection of practices after the [[Babylonian captivity]] or as an idealized portrait of how the Chronicler (writing in c. 350–300 BCE) thought Temple administration ought to occur. The reference to David was how the Chronicler legitimized his views about the priesthood.<ref name="Schweitzer2009">{{cite book|author=Steven Schweitzer|title=Reading Utopia in Chronicles|url=https://books.google.com/books?id=jhvUAwAAQBAJ&pg=PA29|date=1 March 2009|publisher=A&C Black|isbn=978-0-567-36317-6|pages=29–30}}</ref> At the end of the [[Second Temple period]], it is clear that the divisions worked in the order specified.<ref>See [[Qumran calendrical texts#Mishmarot]], [[Luke 1]]:5-11; 23, and the end of the [[Sukkah (Talmud)]]</ref>
+
+==Following the Temple's destruction==
+Following the Temple's destruction at the end of the [[First Jewish–Roman War]] and the displacement to the [[Galilee]] of the bulk of the remaining Jewish population in [[Judea]] at the end of the [[Bar Kochba revolt]], Jewish tradition in the [[Talmud]] and poems from the period record that the descendants of each priestly watch established a separate residential seat in towns and villages of the Galilee, and maintained this residential pattern for at least several centuries in anticipation of the reconstruction of the Temple and reinstitution of the cycle of priestly courses. Specifically, this Kohanic settlement region stretched from the [[Beit Netofa Valley]] through the [[Nazareth]] region to [[Arbel]] and the vicinity of [[Tiberias]].
+
+==List==
+{| class="wikitable"  style="margin:1ex 0 1ex 1ex"
+|-
+! Division<ref>{{Bibleverse|1 Chronicles|24:7-19|HE}}</ref> !! Name !! Mishnaic residence<ref>[https://www.yutorah.org/download.cfm/?materialID=540841 ברייתא על משמרות הכהנים]; some identifications are uncertain</ref>
+! colspan="6" |should start working
+|-
+|First||align="center"|  [[Jehoiarib]] || [[Meron, Israel|Meron]]
+|27/1/2024
+|13/7/2024
+|28/12/2024
+|14/6/2025
+|29/11/2025
+|16/5/2026
+|-
+|Second||align="center"|  [[Jedaiah]] ||[[Sepphoris|Tzippori]]
+|3/2/2024
+|20/7/2024
+|4/1/2025
+|21/6/2025
+|6/12/2025
+|23/5/2026
+|-
+|Third||align="center"|   [[Harim]] ||[[Fassuta]]
+|10/2/2024
+|27/7/2024
+|11/1/2025
+|28/6/2025
+|13/12/2025
+|30/5/2026
+|-
+|Fourth||align="center"|   [[Seorim]] ||[[Ayta ash Shab]] or [[Ilut]]
+|17/2/2024
+|3/8/2024
+|18/1/2025
+|5/7/2025
+|20/12/2025
+|6/6/2026
+|-
+|Fifth||align="center"|  [[Malchijah]] ||[[Bethlehem of Galilee]]
+|24/2/2024
+|10/8/2024
+|25/1/2025
+|12/7/2025
+|27/12/2025
+|13/6/2026
+|-
+|Sixth||align="center"|   [[Mijamin]] ||[[Yodfat]]
+|2/3/2024
+|17/8/2024
+|1/2/2025
+|19/7/2025
+|3/1/2026
+|20/6/2026
+|-
+|Seventh||align="center"|  [[Hakkoz]] ||[[Eilabun]]
+|9/3/2024
+|24/8/2024
+|8/2/2025
+|26/7/2025
+|10/1/2026
+|27/6/2026
+|-
+|Eighth||align="center"|   [[Abijah]] ||[[Hurvat Amudim|Kfar Uziel]]
+|16/3/2024
+|31/8/2024
+|15/2/2025
+|2/8/2025
+|17/1/2026
+|4/7/2026
+|-
+|Ninth||align="center"|  [[Yeshua (name)|Jeshua]] ||[[Arbel]]
+|23/3/2024
+|7/9/2024
+|22/2/2025
+|9/8/2025
+|24/1/2026
+|11/7/2026
+|-
+|Tenth||align="center"|  [[Shecaniah]] ||[[Kabul, Israel|Kabul]]
+|30/3/2024
+|14/9/2024
+|1/3/2025
+|16/8/2025
+|31/1/2026
+|18/7/2026
+|-
+|Eleventh||align="center"|  [[Eliashib]] ||[[Kafr Kana]]
+|6/4/2024
+|21/9/2024
+|8/3/2025
+|23/8/2025
+|7/2/2026
+|25/7/2026
+|-
+|Twelfth||align="center"|  [[Jakim]] ||[[Safed]]
+|13/4/2024
+|28/9/2024
+|15/3/2025
+|30/8/2025
+|14/2/2026
+|1/8/2026
+|-
+|Thirteenth||align="center"|  [[Huppah (name)|Huppah]] ||[[Bethmaus|Beit Maon]]
+|20/4/2024
+|5/10/2024
+|22/3/2025
+|6/9/2025
+|21/2/2026
+|8/8/2026
+|-
+|Fourteenth||align="center"|  [[List of minor Hebrew Bible figures, A–K#Jeshebeab|Jeshebeab]] ||[[Shikhin]]
+|27/4/2024
+|12/10/2024
+|29/3/2025
+|13/9/2025
+|28/2/2026
+|15/8/2026
+|-
+|Fifteenth||align="center"|  [[Bilgah (biblical figure)|Bilgah]] ||[[Maghar, Israel|Maghar]]
+|4/5/2024
+|19/10/2024
+|5/4/2025
+|20/9/2025
+|7/3/2026
+|22/8/2026
+|-
+|Sixteenth||align="center"|  [[Immer (name)|Immer]] ||[[Jamnith|Yavnit]]
+|11/5/2024
+|26/10/2024
+|12/4/2025
+|27/9/2025
+|14/3/2026
+|29/8/2026
+|-
+|Seventeenth||align="center"|  [[Hezir#Benei Hezir family|Hezir]] ||[[Ravid|Kfar Mimlah]]
+|18/5/2024
+|2/11/2024
+|19/4/2025
+|4/10/2025
+|21/3/2026
+|5/9/2026
+|-
+|Eighteenth||align="center"|  [[Happizzez]] ||[[Nazareth]] (or [[Daburiyya]])
+|25/5/2024
+|9/11/2024
+|26/4/2025
+|11/10/2025
+|28/3/2026
+|12/9/2026
+|-
+|Nineteenth||align="center"|  [[Pethahiah]] ||[[Arraba, Israel|Arraba]]
+|1/6/2024
+|16/11/2024
+|3/5/2025
+|18/10/2025
+|4/4/2026
+|19/9/2026
+|-
+|Twentieth||align="center"|  [[Jehezkel]] ||[[Magdala]]
+|8/6/2024
+|23/11/2024
+|10/5/2025
+|25/10/2025
+|11/4/2026
+|26/9/2026
+|-
+|Twenty-first||align="center"|  [[Jachin (biblical figure)|Jachin]] ||[[Deir Hanna]] (or [[Kafr 'Inan]])
+|15/6/2024
+|30/11/2024
+|17/5/2025
+|1/11/2025
+|18/4/2026
+|3/10/2026
+|-
+|Twenty-second||align="center"|  [[Gamul]] ||[[Belvoir Castle (Israel)|Kawkab al-Hawa]]
+|22/6/2024
+|7/12/2024
+|24/5/2025
+|8/11/2025
+|25/4/2026
+|10/10/2026
+|-
+|Twenty-third||align="center"|  [[Delaiah]] ||[[Tzalmon]]
+|29/6/2024
+|14/12/2024
+|31/5/2025
+|15/11/2025
+|2/5/2026
+|17/10/2026
+|-
+|Twenty-fourth||align="center"|  [[Maaziah]] ||[[Hammat Tiberias]]
+|6/7/2024
+|21/12/2024
+|7/6/2025
+|22/11/2025
+|9/5/2026
+|24/10/2026
+|}
+
+==Commemoration==
+After the destruction, there was a custom of publicly recalling every Sabbath in the synagogues the courses of the priests, a practice that reinforced the prestige of the priests' lineage.<ref>[[Robert Bonfil]], ''Jews in Byzantium: Dialectics of Minority and Majority Cultures'', Brill: Leiden 2012, p. 42 {{ISBN|978-9-004-20355-6}}</ref> Such mention evoked the hope of return to Jerusalem and reconstruction of the Temple.
+
+A manuscript discovered in the [[Cairo Geniza]], dated 1034 CE, records a customary formula recited weekly in the synagogues, during the Sabbath day: "Today is the holy Sabbath, the holy Sabbath unto the Lord; this day, which is the course? [Appropriate name] is the course. May the Merciful One return the course to its place soon, in our days. Amen."<ref>[[Bodleian Library]], Oxford Ms. Heb. 2738/6, fol. 899 in Vardaman, E. Jerry and Garrett, J.L., ''The Teacher's Yoke'', Waco TX 1964</ref> After which, they would recount the number of years that have passed since the destruction of Jerusalem, and conclude with the words: "May the Merciful One build his house and sanctuary, and let them say ''Amen''."
+
+[[Eleazar ben Kalir]] (7th century) wrote a liturgical poem detailing the 24-priestly wards and their places of residence.<ref>Poem entitled, ''Lamentation for the 9th of Ab'', composed in twenty-four stanzas, and the last line of each stanza contains the name of the village where each priestly family lived.</ref> Historian and geographer, [[Samuel Klein (scholar)|Samuel Klein]] (1886–1940), thinks that Killir's poem proves the prevalence of this custom of commemorating the courses in the synagogues of the [[Land of Israel]].<ref>[[Samuel Klein (scholar)|Samuel Klein]], ''Barajta der vierundzwanzig Priester Abteilungen'' (Baraitta of the Twenty-Four Priestly Divisions), in: ''Beiträge zur Geographie und Geschichte Galiläas'', Leipzig 1909</ref> A number of such [[piyyutim]] have been composed, and to this day some are recited by Jews as part of the [[Tisha Beav]] [[kinnot]].
+
+=== Archaeology ===
+Several stone inscriptions have been discovered bearing partial lists of the priestly wards, their order and the name of the locality to which they had moved after the destruction of the Second Temple:
+
+In 1920, a stone inscription was found in [[Ashkelon]] showing a partial list of the priestly wards. In 1962 three small fragments of one Hebrew stone inscription bearing the partial names of places associated with the priestly courses (the rest of which had been reconstructed) were found in [[Caesarea Maritima]], dated to the third-fourth centuries.<ref>{{cite journal |last=Avi-Yonah |first=Michael |title= A List of Priestly Courses from Caesarea|journal= Israel Exploration Journal|volume=12 |issue=2 |pages=137–139 |jstor=27924896 |date=1962}}</ref><ref>{{cite journal |last=Avi-Yonah |first=Michael |title= The Caesarea Inscription of the Twenty-Four Priestly Courses |journal= Eretz-Israel: Archaeological, Historical and Geographical Studies |volume= L.A. Mayer Memorial Volume (1895-1959) |pages=24–28 |jstor= 23614642 |date=1964}} (Hebrew)</ref>
+
+In 1961 a stone inscription referencing "''The nineteenth course, Petaḥia''" was found west of [[Kissufim]].<ref>{{Citation |chapter=XXXVI. Kissufim |date=2014-07-14 |title=Volume 3 South Coast: 2161-2648 |pages=541–554 |chapter-url=https://www.degruyter.com/document/doi/10.1515/9783110337679.541/html |access-date=2024-02-25 |publisher=De Gruyter |language=en |doi=10.1515/9783110337679.541 |isbn=978-3-11-033767-9|chapter-url-access=subscription }}</ref>
+
+==== Yemenite inscription (DJE 23) ====
+{{Main|DJE 23}}
+In 1970 a stone inscription was found on a partially buried column in a mosque, in the village of [[Bayt Hadir|Bayt Ḥaḍir]], [[Yemen]], showing ten names of the priestly wards and their respective towns and villages. The Yemeni inscription is the longest roster of names of this sort to be discovered. Professor Yosef Tobi, describing this inscription (named DJE 23) writes: <blockquote>As for the probable strong spiritual attachment held by the [[Himyarite Kingdom|Jews of Ḥimyar]] for the Land of Israel, this is also attested to by an inscription bearing the names of the ''miśmarōṯ'' (priestly wards), which was initially discovered in September 1970 by [[Walter W. Müller|W. Müller]] and then, independently, by P. Grjaznevitch within a mosque in [[Bayt Hadir|Bayt al-Ḥāḍir]], a village situated near Tan‘im, east of Ṣanʻā’. This inscription has been published by several European scholars, but the seminal study was carried out by [[Ephraim Urbach|E.E. Urbach]] (1973), one of the most important scholars of rabbinic literature in the previous generation.<ref name="urb">Ephraim E. Urbach, ''Mishmarot u-maʻamadot'', [[Tarbiẕ]] 42, Jerusalem 1973, pp. 304 – 327 (Hebrew)</ref> The priestly wards were seen as one of the most distinctive elements in the collective memory of the Jewish people as a nation during the period of Roman and Byzantine rule in the Land of Israel following the destruction of the Second Temple, insofar as they came to symbolize Jewish worship within the Land.<ref>{{Cite journal |last=Tobi |first=Yosef |date=2013 |title=The Jews of Yemen in light of the excavation of the Jewish synagogue in Qanī' (poster) |url=https://www.jstor.org/stable/43782890 |journal=Proceedings of the Seminar for Arabian Studies |volume=43 |pages=351 |issn=0308-8421}}</ref></blockquote>Though a complete list of sacerdotal names numbers at twenty-four, the surviving inscription is fragmentary and only eleven names remain. The place of residence of each listed individual in [[Galilee]] is also listed.<ref>Compare also the reconstruction as was published by Shalom Medina in the journal, "Afikim," 92, Tel-Aviv, 1988/9, pp. 28–30.</ref>
+
+The names legible on the Yemenite column read as follows:<ref name=urb/><ref>Rainer Degen, "An Inscription of the Twenty-Four Priestly Courses from the Yemen", ''[[Tarbiz]]'', Jerusalem 1973, pp. 302&ndash;303</ref>
+{| class="wikitable"
+|-
+! English Translation !! Original Hebrew
+|-
+| [Se‘orim [[Ilut|‘Ayṯoh-lo]]], fourth ward ||  שְׂעוֹרִים עיתהלו משמר הרביעי
+|-
+| [Malkiah, [[Bethlehem of Galilee|Beṯ]-Lehem]], the fif[th] ward || מַלְכִּיָּה בית לחם משמר החמשי
+|-
+| Miyamin, [[Yodfat|Yudfaṯ]] (Jotapata), the sixth ward || מִיָמִין יודפת משמר הששי
+|-
+| [Haqo]ṣ, [[Eilabun|‘Ailebu]], the seventh ward || הַקּוֹץ עילבו משמר השביעי
+|-
+| Aviah ‘Iddo, Kefar ‘Uzziel, the (eighth) ward || אֲבִיָּה עדו כפר עוזיאל משמר
+|-
+| the eighth (ward). Yešūa‘, [[Arbel|Nišdaf-arbel]] || השמיני יֵשׁוּעַ נשדפארבל
+|-
+| the ninth ward || משמר התשיעי
+|-
+| Šekhaniyahu, [[Cabul|‘Avurah Cabūl]], the t[enth] ward || שְׁכַנְיָה עבורה כבול משמר העשירי
+|-
+| Eliašīv, [[Cana#Locating Cana|Cohen Qanah]], the elev[enth] ward || אֶלְיָשִׁיב כהן קנה משמר אחד עשר
+|-
+| Yaqīm Pašḥūr, [[Safed|Ṣefaṯ]] (Safed), the {{not a typo|twelf}}[th] ward || יָקִים פַּשְׁחוּר צפת משמר שנים עשר
+|-
+| [Ḥū]ppah, [[Bethmaus|Beṯ-Ma‘on]], the (thirteenth) ward || חוּפָּה בית מעון משמר שלשה
+|-
+| the thirteenth (ward). Yešav’av, [[Shikhin|Ḥuṣpiṯ Šuḥīn]] || עשר יֶשֶׁבְאָב חוצפית שוחין
+|-
+| the fourteenth wa[rd] || משמר ארבע עשר
+|}
+
+==See also==
+* [[Twenty-four priestly gifts]]
+
+==References ==
+{{reflist}}
+
+{{Jewish priesthood}}
+
+[[Category:Priesthood (Judaism)]]
+[[Category:Books of Chronicles]]
+[[Category:Jewish sacrificial law]]

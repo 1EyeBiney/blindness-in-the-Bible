@@ -1,0 +1,256 @@
+<!-- title: Book of Tobit; revid: 1368323499; timestamp: 2026-08-08T11:08:36Z -->
+{{Short description|Deuterocanonical book of Christian scripture}}
+{{Tanakh OT |deutero}}
+[[File:Recto of leaf from the Book of Tobit (12906401985).jpg|thumb|Leaf from a [[vellum]] manuscript of Tobit, {{Circa|1240}}]]
+[[File:Rembrandt Harmensz. van Rijn 154.jpg|thumb|Rembrandt: ''[[Tobit Accusing Anna of Stealing the Kid]]'' (1626)]]
+The '''Book of Tobit''' ({{IPAc-en|ˈ|t|oʊ|b|ɪ|t}}),{{efn|From the {{langx|grc|Τωβίθ}} ''Tōbith'' or {{lang|el|Τωβίτ}} ''Tōbit'' ({{lang|grc|Τωβείθ}} and {{lang|el|Τωβείτ}} spellings are also attested), itself derived from {{langx|he|טובי}} ''Tovi'' meaning "my good"; '''Book of Tobias''' in the [[Vulgate]] from the Greek {{lang|grc|Τωβίας}} ''Tōbias'', which in turn comes from the Hebrew {{lang|he|טוביה}} ''Tovyah'' "[[Jah|Yah]] is good"}}{{efn|Also known as the '''Book of Tobias'''.}} a work of [[Second Temple Judaism|Second Temple Jewish]] literature, is one of the [[deuterocanonical books|deuterocanonical books]] of the Bible. It dates to the 3rd or early 2nd century BCE. It emphasizes God’s testing of the faithful, his response to prayer, and his protection of the covenant people, the [[Israelites]].{{sfn|Levine|2007|p=11}} The narrative follows two Israelite families: the blind Tobit in [[Nineveh]] and Sarah, abandoned in [[Ecbatana]].{{sfn|Fitzmyer|2013|p=31}} Tobit’s son Tobias is sent to recover ten silver [[Talent (measurement)|talents]] once deposited in [[Ray, Iran|Rhages]] in [[Media (region)|Media]], and on his journey—guided by the angel [[Raphael (archangel)|Raphael]]—he meets Sarah.{{sfn|Fitzmyer|2013|p=31}} Sarah is afflicted by the demon [[Asmodeus]], who slays her prospective husbands, but with Raphael’s help the demon is exorcised and she marries Tobias.{{sfn|Levine|2007|p=11}} They return together to Nineveh, where Tobit’s sight is miraculously restored.{{sfn|Fitzmyer|2013|p=31}}
+
+Since the 20th century, scholarly consensus has held that Tobit was originally composed in a [[Semitic Languages|Semitic language]].<ref>Milik, J.T. (1966). La patrie de Tobie. Revue biblique, 73(4), 522</ref> Five [[Aramaic language|Aramaic]] and [[Hebrew language|Hebrew]] fragments were found among the [[Dead Sea Scrolls]], dating to the 1st or 2nd century BCE.<ref>Cross, F.M. (1961). The development of the Jewish scripts. In G.E. Wright (Ed.), The Bible and the ancient Near East: Essays in honor of William Foxwell Albright (p.138)</ref> The book influenced the authors of the [[Testament of Job]], the [[Testament of Solomon]], and possibly (depending on dating) [[Book of Sirach|Sirach]], [[Book of Jubilees|Jubilees]], and the [[Prayer of Azariah and Song of the Three Holy Children]].<ref>Moore, C.A. (1996). Tobit: A new translation with introduction and commentary (Vol. 40A). Doubleday (p.46)</ref> It was included in both the Jewish-originated [[Septuagint]]<ref>Dines, J.M. (2004). The Septuagint. T&T Clark / Bloomsbury Publishing (pp. 18–19)</ref> and the [[Vetus Latina|Old Latin Bible]], which preserves textual traditions of [[Hebrew Language|Hebrew]] or [[Judaism|Jewish]] vorlage.<ref>Tov, E. (2012). Textual criticism of the Hebrew Bible (3rd ed., rev. & expanded). Minneapolis: Fortress Press (p.134)</ref><ref>Kedar, B. (1988). The Latin translations. In M.J. Mulder (Ed.), Compendia rerum Iudaicarum ad Novum Testamentum: Vol. II.1. Mikra (pp. 299-338). Fortress Press.</ref> It is extant in major Christian codices such as [[Codex Vaticanus|Vaticanus]], [[Codex Sinaiticus|Sinaiticus]], [[Codex Alexandrinus|Alexandrinus]], and [[Basiliano-Venetus]]. Multiple ancient recensions are preserved in [[Greek language|Greek]] and [[Latin]], along with translations into [[Arabic]], [[Armenian language|Armenian]], [[Coptic Language|Coptic]], [[Geʽez|Ethiopic]], and [[Syriac Language|Syriac]].<ref>Fitzmyer, J.A. (2003). Tobit. In L.T. Stuckenbruck, P. W. van der Horst, H. Lichtenberger, D. Mendels, & J. R. Mueller (Eds.), Commentaries on Early Jewish Literature (p.3)</ref>
+
+In the [[New Testament]] period, Tobit was cited or echoed by [[Jewish Christianity|Jewish Christians]] including [[Matthew the Apostle|Matthew]],<ref>Tob 12:3, 8; 4:7-11 - Matt 6:1-21<br>Tob 4:15 - Matt 7:12</ref><ref>DeSilva, D.A. (2002) Introducing the Apocrypha: Message, Context, and Significance, pp.81-2</ref><ref>Daubney, Use of the Apocrpyha in the Christian Church, p.16</ref><ref>Hagner, D.A. (1993) Matthew 1-13 - Word Biblical Commentary, pp.157-8</ref> [[Luke the Evangelist|Luke]],<ref>Tob 4:15 - Luke 6:31</ref><ref>Donald, S. (2008) "Preface" in A Handbook on Sirach, pp.210-1</ref><ref>Lange, J.P.; Schaff, P. & Bissell, E.C. (2008) A Commentary on the Holy Scriptures - Apocrypha, p.361</ref><ref>Bullard, R.A. & Hatton, H.A. (2001) A Handbook on Tobit, pp.78-9</ref> [[John the Apostle|John]],<ref>Tob 12:12, 15 - Rev 8:2-3</ref><ref>Beale, G.K. (1999) The Book of Revelation - A Commentary on the Greek Text, p.454</ref><ref>Aune, D.E. (1998) Revelation 6-16 - Word Biblical Commentary, p.509</ref><ref>Bratcher, R.G. & Hatton H. (1993) A Handbook on the Revelation to John, p.133</ref> and the [[Didache]].<ref>Tob 4:15 - Did 1:2<br>Tob 12:9 - Did 4:6</ref> Early patristic use appears in [[Second Epistle of Clement|2 Clement]],<ref>Tob 12:8 - 2 Clem 16:4</ref> [[Polycarp]],<ref>Tob 4:10; 12:8 - Phil 10:2</ref> and [[Origen]], who after visiting 3rd-century [[Alexandria]], [[Rome]], [[Caesarea Maritima|Caesarea]], and [[Athens]], remarked that "the churches use Tobit".<ref>Ep. Africanus, 13</ref> [[Irenaeus]] further noted that the 2nd-century [[Gnosticism|Gnostic]] [[Ophites]] included Tobit among the [[Bible|biblical]] [[Prophets in Christianity|prophets]].<ref>Against Heresies 1.30.11</ref>
+
+By contrast, explicit canonical rejection of Tobit by [[Rabbinic Judaism]] is recorded from the 2nd century onward. [[Rabbi Akiva]] declared "The books of [[Book of Sirach|Sirach]] and all other books written from then on do not defile the hands",<ref>Tosefta Yadayim, 2:13, as quoted in Leiman, S.Z. (1976). The canonization of Hebrew scripture: The Talmudic and Midrashic evidence (Vol. 47). Archon Books (p.109)</ref> while a contemporary [[Talmud|Talmudic]] [[baraita]] insisted that "our Rabbis taught" the present twenty-four book [[Masoretic Text|Masoretic]] canon.<ref>b. Bava Batra 14b–15a, as quoted in McDonald, L.M. (2007). The Biblical Canon: Its Origin, Transmission, and Authority (3rd ed.). Baker Academic (pp.202-3)</ref> [[Origen]], though emphasizing [[Christianity|Christian]] acceptance, acknowledged that "the [[Jews]] do not use [it]",<ref>Ep. Africanus, 13</ref> and [[Jerome]] likewise noted that the [[Bethlehem]] [[Jews]] had "excised" the book from their canon, relegating it to the non-canonical "agiografa", though still copying and reading it.<ref>Gallagher, E.L. (2015). Why did Jerome Translate Tobit and Judith? The Harvard Theological Review, 108(3), 356–375</ref> Fifteenth-century [[Hebrew language|Hebrew]] and [[Aramaic]] manuscripts attest to its continued transmission, as does the [[Middle Ages|medieval]] [[Midrash Tanhuma]], which attributes a probable Tobit allusion to 11th-century [[Moshe ha-Darshan]].<ref>Moore, C.A. (1996). Tobit: A new translation with introduction and commentary (Vol. 40A). Doubleday (pp.48, 64, 249-52)</ref>
+
+The book is regarded as [[Deuterocanonical books|deuterocanonical]] by the [[Catholic Church|Catholic]], [[Eastern Orthodox Church|Eastern Orthodox]], [[Oriental Orthodox Churches|Oriental Orthodox]], and [[Assyrian Church of the East]] Christians, though it is absent from the Jewish [[Masoretic Text]]. The [[Protestantism|Protestant]] tradition similarly deems it [[Apocrypha]], useful for teaching and liturgy but not [[Biblical canon|canonical]]; in the [[Magisterial Reformation|historic Protestant]] traditions, the Book of Tobit is located in the [[Intertestamental period|intertestamental section]] straddling the [[Old Testament]] and [[New Testament]].<ref name="GeislerMacKenzie1995"/><ref name="Wesley1825"/><ref name="DyckMartin1955">{{cite book |last1=Dyck |first1=Cornelius J. |last2=Martin |first2=Dennis D. |title=The Mennonite Encyclopedia: A-C |date=1955 |publisher=Mennonite Brethren Publishing House |isbn=978-0-8361-1119-4 |page=136 |language=English}}</ref><ref name="Kirwan2015">{{cite book |last1=Kirwan |first1=Peter |title=Shakespeare and the Idea of Apocrypha: Negotiating the Boundaries of the Dramatic Canon |date=16 April 2015 |publisher=Cambridge University Press |isbn=978-1-316-30053-4 |page=207 |language=English}}</ref> Most scholars see the book as a didactic folktale or novella which inserted storytelling elements into a historical context, rather than a strictly literal narrative.{{sfn|Fitzmyer|2003|p=31}}<ref>{{Cite book |last=Macatangay |first=Francis M. |url=https://books.google.com/books?hl=en&lr=&id=uC3PBu8WYlQC&oi=fnd&pg=PR5&dq=genera+of+The+book+of+tobit&ots=5M9tE5bOqR&sig=mXVKGGFfR77W_HMICQw0xwNZ4aw#v=onepage&q=genera%20of%20The%20book%20of%20tobit&f=false |title=The Wisdom Instructions in the Book of Tobit |date=2011 |publisher=Walter de Gruyter |isbn=978-3-11-025534-8 |language=en}}</ref>
+
+==Structure and summary==
+[[File:William-Adolphe Bouguereau (1825-1905) - Tobias Saying Good-Bye to his Father (1860).png|thumb|284x284px|[[William-Adolphe Bouguereau|Bouguereau]]: ''Tobias Saying Good-Bye to his Father'' (1860)]]
+
+The book has 14 [[Chapters and verses of the Bible|chapters]], forming three major narrative sections framed by a prologue and epilogue:{{sfn|Fitzmyer|2013|p=58}}
+*Prologue (1:1–2)
+*Situation in Nineveh and Ecbatana (1:3–3:17)
+*Tobias's journey (4:1–12:22)
+*Tobit's song of praise and his death (13:1–14:2)
+*Epilogue (14:3–15)
+
+The prologue tells the reader that this is the story of Tobit of the [[tribe of Naphtali]], deported from [[Tishbe]] in [[Galilee]] to [[Nineveh]] by the [[Assyrian people|Assyrians]]. Tobit himself has always kept the [[Mosaic law|laws of Moses]], and brought offerings to the [[Temple in Jerusalem]] before the catastrophe of the Assyrian conquest. The narrative notes his marriage to Anna, and they have a son named Tobias.{{sfn|Otzen|2002|p=4-7}}
+
+Tobit, a pious man, buries dead Israelites, but one evening, while he sleeps, sparrows partially blind him by defecating in his eyes; he later becomes fully blind after physicians place ointment in his eyes.<ref>Tobit 2:7-10</ref> He becomes dependent on his wife, but accuses her of stealing and prays for death. Meanwhile, his relative Sarah, living in far-off [[Ecbatana]], also prays for death, for the demon [[Asmodeus]] has killed her suitors on their wedding-nights and she is accused of having caused their deaths.{{sfn|Otzen|2002|p=4-7}}
+
+God hears their prayers and dispatches the archangel [[Raphael (archangel)|Raphael]] to help them. Tobit sends Tobias to recover money from a relative, and Raphael, in human disguise, offers to accompany him (along with Tobias' [[dog]]). On the way they catch a fish in the [[Tigris River|Tigris]], and Raphael tells Tobias that the burnt heart and liver can drive out demons and that the gall can cure blindness. They arrive in Ecbatana and meet Sarah; and as Raphael had predicted, the fish-offal drives out the demon.{{sfn|Otzen|2002|p=4-7}}
+
+Tobias and Sarah are married, Tobias grows wealthy, and they return to Nineveh (in Assyria) where Tobit and Anna await them. The gall cures Tobit's blindness, and Raphael departs after admonishing Tobit and Tobias to bless God and declare his deeds to the people (the Israelites), to pray and fast, and to give alms. Tobit praises God, who has punished his people with exile but who will show them mercy and rebuild the Temple if they turn to him.{{sfn|Otzen|2002|p=4-7}}
+
+In the epilogue Tobit tells Tobias that Nineveh will be destroyed as an example of wickedness; likewise Israel will be rendered desolate and the Temple will be destroyed, but Israel and the Temple will be restored; therefore Tobias should leave Nineveh, and he and his children should live in righteousness.{{sfn|Otzen|2002|p=4-7}}
+
+==Significance==
+Tobit is a work with some historical references, combining prayers, ethical exhortation, humour and adventure with elements drawn from folklore, wisdom tale, travel story, romance and comedy.{{sfn|Fitzmyer|2003|p=31}}{{sfn|Levine|2007|p=12}} It offered the diaspora (the Jews in exile) guidance on how to retain Jewish identity, and its message was that God tests his people's faith, hears their prayers, and redeems the covenant community (i.e., the Jews).{{sfn|Levine|2007|p=12}} 
+
+Readings from the book are used in the [[Latin liturgical rites]] of the Catholic Church. Because of the book's praise for the purity of marriage, it is often read during weddings in many rites. Doctrinally, the book is cited for its teachings on the [[intercession]] of angels, [[filial piety]], [[tithe|tithing]] and [[alms]]giving, and reverence for the dead.<ref name=nab>[https://www.vatican.va/archive/ENG0839/__PCA.HTM "Introduction"], ''Tobit'', NAB, Libreria Editrice Vaticana {{webarchive |url=https://web.archive.org/web/20150227202156/https://www.vatican.va/archive/ENG0839/__PCA.HTM |date=February 27, 2015 }}</ref><ref name="EB1911">{{Cite EB1911|wstitle=Tobit, The Book of|volume=26|pages=1041–1042}}</ref> Tobit is also made reference to in chapter 5 of [[Meqabyan#First Book of Ethiopian Maccabees (1 Meqabyan)|1 Meqabyan]], a book considered [[Orthodox Tewahedo biblical canon|canonical]] in the [[Ethiopian Orthodox Tewahedo Church]].<ref>{{Cite web|url=http://torahofyeshuah.blogspot.com/2015/07/book-of-meqabyan-i-iii.html|title=Torah of Yeshuah: Book of Meqabyan I – III|access-date=2019-11-10|archive-date=2019-09-23|archive-url=https://web.archive.org/web/20190923192431/http://torahofyeshuah.blogspot.com/2015/07/book-of-meqabyan-i-iii.html|url-status=live}}</ref>
+
+==Composition and manuscripts==
+Tobit exists in two Greek versions, one ([[Codex Sinaiticus|Sinaiticus]]) longer than the other ([[Codex Vaticanus|Vaticanus]] and [[Codex Alexandrinus|Alexandrinus]]).{{sfn|Grabbe|2003|p=736}} Aramaic and Hebrew fragments of Tobit (four [[Aramaic]], one [[Biblical Hebrew|Hebrew]] – it is not clear which was the original language) found among the [[Dead Sea Scrolls]] at [[Qumran]] tend to align more closely with the longer or Sinaiticus version, which has formed the basis of most English translations in recent times.{{sfn|Grabbe|2003|p=736}}
+
+No scholarly consensus exists on the place of composition, but a [[Mesopotamia]]n origin seems logical given that the story takes place in [[Assyria]] and [[Achaemenid Empire|Persia]] and it mentions the Persian demon "[[Aeshma|aeshma daeva]]", rendered "Asmodeus". However, the story contains significant errors in geographical detail (such as the distance from Ecbatana to Rhages and their topography), and arguments against and in favor of Judean or Egyptian composition also exist.{{sfn|Miller|2011|p=12-15}} The story is set in the 8th century BCE, but the book itself is thought to date from between 225 and 175&nbsp;BCE.{{sfn|Fitzmyer|2003|p=51}} According to scholar {{ill|Jean-Louis Ska|fr}}, the presence of similar stories from Hellenistic culture influenced the composition of the book, including [[The Odyssey]].<ref name="Jean-Louis Ska SJ Introduction to OT">{{cite book |last=Ska |first=Jean-Louis |title=A Basic Guide to the Old Testament |publisher=Paulist Press |date=5 February 2019 |isbn=978-0-8091-5404-3 |language=en |page=152}}</ref> The reference to Tobias's dog companion recalls [[Argos (dog)|Argos]], Odysseus's dog. Raphael's accompaniment and assistance of Tobias is similar to [[Athena|Athena's]] assistance of [[Odysseus]] throughout his journey.
+
+The [[Vulgate]] places Tobit, [[Book of Judith|Judith]] and [[Book of Esther|Esther]] after the historical books (after [[Book of Nehemiah|Nehemiah]]). Some manuscripts of the Greek version place them after the wisdom writings.<ref>[[Jerusalem Bible]] (1966), "Introduction to Tobit, Judith and Esther", p. 601</ref>
+
+==Canonical status==
+
+Those books found in the [[Septuagint]] but not the [[Masoretic Text]] are called the [[deuterocanon]], meaning "second canon".{{sfn|Nigosian|2004|p=197}} Catholic and Orthodox Christianity include it in the Biblical canon. As Protestants came to follow the Masoretic canon, they therefore did not include Tobit in their canon, but do recognise it in the category of deuterocanonical books called the [[apocrypha]].{{sfn|Nigosian|2004|p=197}}
+
+The Book of Tobit is listed as a canonical book by the [[Council of Rome]] (CE 382),<ref>{{Cite web|url=http://www.tertullian.org/decretum_eng.htm|title=Tertullian : Decretum Gelasianum (English translation)|access-date=2016-10-19|archive-date=2017-11-19|archive-url=https://web.archive.org/web/20171119145253/http://www.tertullian.org/decretum_eng.htm|url-status=live}}</ref> the [[Council of Hippo]] (CE 393),<ref>{{citation |chapter-url=http://www.ccel.org/ccel/schaff/npnf214.xv.iv.iv.xxv.html |chapter=Canon XXIV. (Greek xxvii.) |publisher=Christian Classics Ethereal Library |title=The Canons of the 217 Blessed Fathers who assembled at Carthage |access-date=2016-10-19 |archive-date=2016-08-26 |archive-url=https://web.archive.org/web/20160826232316/http://www.ccel.org/ccel/schaff/npnf214.xv.iv.iv.xxv.html |url-status=live }}</ref> the [[Council of Carthage (397)]]<ref>B. F. Westcott, ''A General Survey of the History of the Canon of the New Testament'' (5th ed. Edinburgh, 1881), pp. 440, 541–2.</ref> and (CE 419),<ref>{{Cite web |url=https://www.newadvent.org/fathers/3816.htm |title=Council of Carthage (CE 419) Canon 24 |access-date=2016-10-19 |archive-date=2016-12-16 |archive-url=https://web.archive.org/web/20161216205314/https://www.newadvent.org/fathers/3816.htm |url-status=live }}</ref> the [[Council of Florence]] (1442)<ref>{{cite book|title=Eccumenical Council of Florence and Council of Basel Session 11—4 February 1442|publisher=ewtn|url=https://www.ewtn.com/library/COUNCILS/FLORENCE.HTM|access-date=20 October 2016|archive-date=7 May 2019|archive-url=https://web.archive.org/web/20190507113230/http://www.ewtn.com/library/COUNCILS/FLORENCE.HTM|url-status=live}}</ref> and finally the [[Council of Trent]] (1546),<ref>{{Cite web |url=http://www.ewtn.com/library/COUNCILS/TRENT4.htm |title=Session IV Celebrated on the eighth day of April, 1546 under Pope Paul III |access-date=2016-10-20 |archive-date=2015-03-23 |archive-url=https://web.archive.org/web/20150323195835/http://www.ewtn.com/library/COUNCILS/TRENT4.htm |url-status=live }}</ref> and is part of the canon of the [[Catholic Church]], the [[Eastern Orthodox Churches]], the [[Oriental Orthodox Churches]], and the [[Assyrian Church of the East]]. Therein it is regarded as [[Deuterocanonical books|deuterocanonical]].<ref name="Fitzmyer55" >Fitzmyer, at p. 50, 55–57</ref>
+
+[[Augustine of Hippo|Augustine]]<ref>{{cite book|last1=of Hippo|first1=Augustine|title=On Christian Doctrine Book II Chapter 8:2|publisher=newadvent|url=https://www.newadvent.org/fathers/12022.htm|access-date=12 October 2016|archive-date=16 July 2016|archive-url=https://web.archive.org/web/20160716093036/https://www.newadvent.org/fathers/12022.htm|url-status=live}}</ref> ({{Circa|CE 397}}) and [[Pope Innocent I]]<ref>{{cite book|last1=Westcott|first1=Brooke Foss|title=A general survey of the history of the canon of the New Testament Page 570|date=2005|publisher=Wipf & Stock|location=Eugene, Oregon|isbn=1597522392|edition=6th}}</ref> (CE 405) affirmed Tobit as part of the Old Testament Canon. [[Athanasius of Alexandria|Athanasius]] (CE 367) mentioned that certain other books, including the book of Tobit, while not being part of the Canon, "were appointed by the Fathers to be read".<ref>{{cite book|last1=of Alexandria|first1=Athanasius|title=CHURCH FATHERS: Letter 39 (Athanasius)|publisher=newadvent|url=https://www.newadvent.org/fathers/2806039.htm|access-date=14 October 2016|archive-date=21 November 2016|archive-url=https://web.archive.org/web/20161121014620/https://www.newadvent.org/fathers/2806039.htm|url-status=live}}</ref> 
+
+According to [[Rufinus of Aquileia]] ({{Circa|CE 400|lk=no}}) the book of Tobit and other deuterocanonical books were not called Canonical but Ecclesiastical books.<ref>{{cite book|last1=of Aquileia|first1=Rufinus|title=Commentary on the Apostles' Creed #38|publisher=newadvent|url=https://www.newadvent.org/fathers/2711.htm|access-date=12 October 2016|archive-date=11 January 2017|archive-url=https://web.archive.org/web/20170111143129/https://www.newadvent.org/fathers/2711.htm|url-status=live}}</ref>
+
+Protestant traditions place the book of Tobit in an intertestamental section called [[Apocrypha]].<ref name="GeislerMacKenzie1995">{{cite book |last1=Geisler |first1=Norman L. |last2=MacKenzie |first2=Ralph E. |title=Roman Catholics and Evangelicals: Agreements and Differences |date=1995 |publisher=Baker Publishing Group |isbn=978-0-8010-3875-4 |page=171 |language=English |quote=Lutherans and Anglicans used it only for ethical / devotional matters but did not consider it authoritative in matters of faith.}}</ref> In [[Anabaptism]], the book of Tobit is quoted liturgically during [[Amish]] weddings, with "the book of Tobit as the basis for the wedding sermon."<ref name="DyckMartin1955"/> The [[Luther Bible]] holds Tobit as part of the "Apocrypha, that is, books which are not held equal to the sacred Scriptures, and nevertheless are useful to read".<ref name="Kirwan2015"/> [[Martin Luther|Luther]]'s personal view was that even if it were "all made up, then it is indeed a very beautiful, wholesome and useful fiction or drama by a gifted poet" and that "this book is useful and good for us Christians to read."{{sfn|Fitzmyer|2003|p=31}} Article VI of the [[Thirty-Nine Articles]] of the [[Church of England]] lists it as a book of the "[[Biblical apocrypha|Apocrypha]]".<ref>{{cite web |url=http://anglicansonline.org/basics/thirty-nine_articles.html |title=Anglican Articles of Religion |publisher=Anglicansonline.org |date=2007-04-15 |access-date=2014-03-11 |url-status=dead |archive-url=https://web.archive.org/web/20070701111544/http://anglicansonline.org/basics/thirty-nine_articles.html |archive-date=2007-07-01 }}</ref> The first [[Methodist]] liturgical book, ''[[The Sunday Service of the Methodists]]'', employs verses from Tobit in the Eucharistic liturgy.<ref name="Wesley1825">{{cite book|title=The Sunday Service of the Methodists; With Other Occasional Services|year=1825|publisher=J. Kershaw|language=en|page=136|author=John Wesley|title-link=The Sunday Service of the Methodists; With Other Occasional Services|author-link=John Wesley}}</ref> [[Lection|Scripture readings]] from the Apocrypha are included in the [[lectionary|lectionaries]] of the Lutheran Churches and the Anglican Churches, among other denominations using the [[Revised Common Lectionary]], though alternate Old Testament readings are provided.<ref>{{cite book|title=Readings from the Apocrypha|year=1981|publisher=Forward Movement Publications|page=5}}</ref><ref>{{cite web |url=http://www.commontexts.org/rcl/rcl_introduction_web.pdf |title=The Revised Common Lectionary |year=1992 |publisher=Consultation on Common Texts |access-date=19 August 2015 |quote=In all places where a reading from the deuterocanonical books (The Apocrypha) is listed, an alternate reading from the canonical Scriptures has also been provided. |url-status=dead |archive-url=https://web.archive.org/web/20150701230910/http://www.commontexts.org/rcl/RCL_Introduction_Web.pdf |archive-date=1 July 2015 |df=dmy }}</ref> Liturgically, the Catholic and Anglican churches may use a scripture reading from the Book of Tobit in services of Holy Matrimony.<ref name="DeSilva2002">{{cite book |last1=DeSilva |first1=David Arthur |title=Introducing the Apocrypha: Message, Context, and Significance |date=2002 |publisher=Baker Academic |isbn=978-0-8010-2319-4 |page=76 |language=English |quote=The author also promotes an ideology of marriage, revealed mainly in the prayer of 8:5–7 (which is an optional Old Testament reading in Catholic, Anglican, and United Methodist marriage services).}}</ref> 
+
+Tobit contains some interesting evidence of the early evolution of the canon, referring to two rather than three divisions, the Law of Moses (i.e. the [[torah]]) and the prophets.{{sfn|Dempster|2008|p=unpaginated}} For unknown reasons it is not included in the Masoretic text of the [[Hebrew Bible]], although four Aramaic and one Hebrew fragment were found among the [[Dead Sea Scrolls]], indicating an authoritative status among some sects.<ref name="Klawans">{{cite book |last1=Klawans |first1=Jonathan|title=The Jewish Annotated Apocrypha |date=2020 |publisher=Oxford University Press |isbn=978-0-19-026248-8 |pages=149–151}}</ref> Proposed explanations have included its age, literary quality, a supposed Samaritan origin, or an infringement of ritual law, in that it depicts the marriage contract between Tobias and his bride as written by her father rather than her groom.{{sfn|Fitzmyer|2003|p=55}} Alternatively, allusions to fallen angels and its thematic connections with works such as [[Book of Enoch|1 Enoch]] and [[Book of Jubilees|Jubilees]] may have disqualified it from canonicity.{{sfn|Klawans|2020|p=150}} It is, however, found in the Greek text of the [[Septuagint]], from which it was adopted into the Christian canon by the end of the 4th century.{{sfn|Fitzmyer|2003|p=55}}
+
+==Influence==
+Tobit's place in the Christian canon allowed it to influence theology, art and culture in Europe.{{sfn|Otzen|2002|p=65-66}} It was often dealt with by the early Church fathers, and the motif of Tobias and the fish (the fish being a symbol of Christ) was extremely popular in both art and theology;{{sfn|Otzen|2002|p=65-66}} this is normally called ''[[Tobias and the Angel]]'' in art. Particularly noteworthy in this connection are the works of [[Rembrandt]], who, despite belonging to the Dutch Reformed Church, was responsible for a series of paintings and drawings illustrating episodes from the book.{{sfn|Otzen|2002|p=65-66}}
+
+Scholarship on [[folkloristics]] (for instance, [[Stith Thompson]], [[Dov Noy]], Heda Jason and Gédeon Huet) recognizes the Book of Tobit as containing an early incarnation of the story of ''[[Grateful dead (folklore)|The Grateful Dead]]'', albeit with an angel as the hero's helper, instead of the spirit of a dead man.<ref>Laura A. Hibbard, ''Medieval Romance in England'' p. 74. New York Burt Franklin, 1963.</ref><ref>Huet, G. "LE CONTE DU « MORT RECONNAISSANT » ET LE LIVRE DE TOBIE." Revue De L'histoire Des Religions 71 (1915): 1-29. Accessed June 18, 2020. www.jstor.org/stable/23662846.</ref><ref>Jason, Heda. "Study of Israelite and Jewish Oral and Folk Literature: Problems and Issues". In: ''Asian Folklore Studies'' 49, no. 1 (1990): 88. Accessed May 18, 2021. doi:10.2307/1177950.</ref><ref>{{cite book|last=Thompson|first=Stith|title=The Folktale|publisher=University of California Press|year=1977|page=52|isbn=0-520-03537-2}}</ref><ref>Noy, Dov. ''Folktales of Israel''. University of Chicago Press. 1963. p. 126.</ref>
+
+The story of Tobit inspired also the [[oratorio]] ''[[Il ritorno di Tobia]]'' (1775) by [[Joseph Haydn]].
+
+==Image gallery==
+{{Gallery
+| height = 160
+| align = center
+| mode = packed-hover
+| File:"Master of Noah's Ark" - Cutting from a Gradual- Initial I with Departure of Tobias - 2011.68 - Cleveland Museum of Art.tif
+| Departure of Tobias guided by the archangel Raphael; cutting from an initial I from a gradual by the Master of Noah's Ark: Cleveland Museum of Art
+| File:Tobias cura a cegueira de seu pai - Domingos Sequeira.png
+| Tobias heals the blindness of his father Tobit, by [[Domingos Sequeira]]
+| File:Manuscript Illumination with Tobit, Tobias, and the Archangel Raphael in an Initial O, from an Antiphonary MET sf31-134-6s1.jpg
+| [[Illuminated manuscript|Illumination]] with Tobit, Tobias, and the archangel [[Raphael (archangel)|Raphael]] in an [[initial]] O. (14th century AD)
+| File:Rembrandt Harmensz. van Rijn 160.jpg
+| ''Anna and the Blind Tobit'', Rembrandt and Dou (1630)
+| File:Tobias and the Angel - Filippino Lippi.jpg
+| ''Tobias and the Angel'', Filippino Lippi, {{Circa|1472–1482}}
+| File:Jan Steen - Tobias en Sarah bidden terwijl Rafael bindt de demon.jpg
+| The wedding of Tobias and Sarah: Raphael binds the demon. Jan Steen, {{Circa|1660}}
+| File:Abraham de Pape 001.jpg
+|''Tobit and Anna'', Abraham De Pape, {{Circa|1658}} [[National Gallery of London]]
+| File:Three Roundels from the Life of Tobias, 1. Tobit comforts Hanna, Southern Netherlands, c. 1500, stained glass - Museum Schnütgen - Cologne, Germany - DSC09853.jpg
+|''Tobit comforts Anna'', stained glass roundel, southern Netherlands, {{Circa|1500}}
+| File:Tobit burying the dead. Etching by F. Bartolozzi after G.B. Wellcome V0034450.jpg
+|''Tobit buries the dead'', F. Bartolozzi after G.B. Castiglione, 1651. 
+| File:The Blindness of Tobit- A Sketch MET DP814325.jpg
+|''The Blindness of Tobit: A Sketch'', William James Smith, After Rembrandt, ca. 1825.
+| File:CF5144 Paris 1er eglise St Eustache tableau Tobie et ange rwk.jpg
+|''Tobias and the Angel'', [[Santi di Tito]] (c.1575)
+}}
+
+==See also==
+* [[Mary Untier of Knots]] (painting with Tobias and the Angel)
+* [[Tobias and the Angel (Verrocchio)]]
+* [[Philosopher in Meditation]] ("Tobit and Anna in an Interior" by Rembrandt)
+
+==Notes==
+{{notelist}}
+
+==References==
+===Citations===
+{{Reflist|30em}}
+
+===Works cited===
+{{refbegin}}
+* {{Cite book
+|last1         = Dempster
+|first1        = Stephen G.
+|chapter       = Torah, Torah, Torah: The Emergence of the Tripartite Canon
+|editor1-last  = Evans
+|editor1-first = Craig A. 
+|editor2-last  = Tov
+|editor2-first = Emanuel 
+|title         = Exploring the Origins of the Bible
+|publisher     = Baker Academic
+|year          = 2008
+|isbn = 9781585588145
+|chapter-url   = https://books.google.com/books?id=wfwq-9gaZFcC&q=%22scattered+references+to+a+bipartite+collection%22&pg=PT59
+}}
+* {{Cite book
+|last1         = Fitzmyer
+|first1        = Joseph A.
+|editor1-last  = 
+|editor1-first = 
+|title         = Tobit
+|publisher     = Walter de Gruyter
+|year          = 2013
+|isbn = 9783110907032
+|url           = https://books.google.com/books?id=GKcFCgAAQBAJ&pg=PA58
+}}
+* {{Cite book
+|last1         = Fitzmyer
+|first1        = Joseph A.
+|editor1-last  = 
+|editor1-first = 
+|title         = Tobit
+|publisher     = Walter de Gruyter
+|year          = 2003
+|isbn = 9783110175745
+|url           = https://books.google.com/books?id=fxea1X6HpZ8C&pg=PA54
+}}
+* {{Cite book
+|last1         = Grabbe
+|first1        = Lester
+|chapter       = Tobit
+|editor1-last  = Dunn
+|editor1-first = James D. G. 
+|title         = Eerdmans Commentary on the Bible
+|publisher     = Eerdmans
+|year          = 2003
+|isbn = 9780802837110
+|chapter-url   = https://books.google.com/books?id=2Vo-11umIZQC&pg=PA736
+}}
+* {{Cite book
+|last1         = Levine
+|first1        = Amy-Jill
+|chapter       = Tobit
+|editor1-last  = Coogan
+|editor1-first = Michael David 
+|title         = The New Oxford Annotated Apocrypha
+|publisher     = Oxford University Press
+|year          = 2007
+|isbn = 9780195288803
+|chapter-url   = https://books.google.com/books?id=MnhUDwAAQBAJ&pg=PA11
+}}
+* {{Cite book
+|last1         = Miller
+|first1        = Geoffrey David
+|editor1-last  = 
+|editor1-first = 
+|title         = Marriage in the Book of Tobit
+|publisher     = Walter de Gruyter
+|year          = 2011
+|isbn = 9783110247862
+|url           = https://books.google.com/books?id=U9Bn3SAEfJcC&pg=PA10
+}}
+* {{Cite book
+|last1         = Nigosian
+|first1        = S. A. 
+|editor1-last  = 
+|editor1-first = 
+|title         = From Ancient Writings to Sacred Texts: The Old Testament and Apocrypha
+|publisher     = Johns Hopkins University Press
+|year          = 2004
+|isbn = 9780801879883
+|url           = https://books.google.com/books?id=gpAAKpmMHYoC&pg=PA197
+}}
+* {{Cite book
+|last1         = Otzen
+|first1        = Benedikt
+|title         = Tobit and Judith
+|publisher     = A&C Black
+|year          = 2002
+|isbn = 9780826460530
+|url           = https://books.google.com/books?id=v3tEWQL1Am8C&pg=PA4
+}}
+{{refend}}
+
+==Further reading==
+{{refbegin}}
+* {{Cite book
+|ref           = none
+|last1         = Barker
+|first1        = Margaret
+|chapter       = The Angel Raphael in the Book of Tobit
+|editor1-last  = Bredin
+|editor1-first = Mark 
+|title         = Studies in the Book of Tobit
+|publisher     = A&C Black
+|year          = 2006
+|isbn = 9780567082299
+|chapter-url   = https://books.google.com/books?id=nwjUAwAAQBAJ&pg=PA123
+}}
+{{refend}}
+
+==External links==
+{{wikiquote}}
+{{Wikisource|Tobit}}
+{{Commons category|Book of Tobit}}
+*[https://www.sefaria.org/Book_of_Tobit Book of Tobit] in Hebrew and English, from [[Sefaria]]
+* [https://st-takla.org/pub_Deuterocanon/Deuterocanon-Apocrypha_El-Asfar_El-Kanoneya_El-Tanya__1-Tobit.html Book of Tobit] from [[St. Takla Haymanot's Church (Alexandria)|St. Takla Haymanot's]] [[Coptic Orthodox]] website in English (also available in Arabic)
+* {{cite web |last=Milbank|first=Alison |author-link=Alison Milbank |author2=Talbert, Andrew |title=Tobit |url=http://www.bibledex.com/videos/tobit.html |work=Bibledex: Deuterocanonical Books |year= 2010 |publisher=[[Brady Haran]] for the University of Nottingham}}
+* {{librivox book | title=Tobit}} Various versions
+* {{Cite NIE|wstitle=Tobit, Book of|short=x}}
+
+{{s-start}}
+{{s-other| [[Deuterocanonical books|Deuterocanon]] / [[Biblical apocrypha|Apocrypha]]|||}}
+{{s-bef | before = [[Book of Nehemiah|Nehemiah]] }}
+{{s-ttl | title  = <small>[[Catholic Church|R. Catholic]]</small><br>[[Books of the Bible]] }}
+{{s-aft | after  = [[Book of Judith|Judith]] | rows = 2 }}
+{{s-bef | before = [[Ezra–Nehemiah]]<br>([[2 Esdras]]) }}
+{{s-ttl | title  = <small>[[Eastern Orthodox Church|Eastern Orthodox]]</small><br>[[Books of the Bible]] }}
+{{s-end}}
+
+{{Book of Tobit}}
+{{Jewish Apocrypha}}{{Books of the Bible}}
+{{Authority control}}
+
+{{DEFAULTSORT:Book Of Tobit}}
+[[Category:Book of Tobit| ]]
+[[Category:3rd-century BC books]]
+[[Category:2nd-century BC books]]
+[[Category:Texts in Aramaic]]
+[[Category:Mesopotamian Hebrews]]
+[[Category:Ancient Hebrew texts]]
+[[Category:Wisdom literature]]
+[[Category:Jewish apocrypha]]
+[[Category:Historical books]]
+[[Category:Nineveh]]
+[[Category:Ecbatana]]

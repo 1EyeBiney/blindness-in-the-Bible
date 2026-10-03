@@ -1,0 +1,331 @@
+<!-- title: Mosaic authorship; revid: 1370287997; timestamp: 2026-08-20T06:17:36Z -->
+{{Short description|Belief that the Torah was dictated to Moses by God}}
+[[File:moses041.jpg|thumb|''Moses'' by [[José de Ribera]] (1638)]]
+{{Authorship of the Bible}}
+'''Mosaic authorship''' is the [[Judeo-Christian]] tradition that the [[Torah]], the first five books of the [[Hebrew Bible]]/[[Old Testament]], were dictated by God to [[Moses]].{{sfn|Robinson|2008|p=97}} The tradition probably began with the [[Deuteronomic Code|legalistic code]] of the [[Book of Deuteronomy]] and was then gradually extended until Moses, as the central character, came to be regarded not just as the mediator of law but as author of both laws and narrative.{{sfn|McEntire|2008|p=11}}{{sfn|Collins|2014|p=50}}
+
+The books of the Torah do not name any author, as authorship was not considered important by the society that produced them,{{sfn|Schniedewind|2005|p=6–7}}{{sfn|Carr|2000|p=492}} and it was only after [[Jews]] came into intense contact with author-centric [[Hellenistic culture]] in the late [[Second Temple Judaism|Second Temple period]] that the rabbis began to find authors for their scriptures.{{sfn|Schniedewind|2005|p=6–7}} By the 1st century CE, it was already common practice to refer to the five as the "[[Law of Moses]]", but the first unequivocal expression of the idea that this meant authorship appears in the [[Babylonian Talmud]], an encyclopedia of Jewish tradition and scholarship composed between 200 and 500&nbsp;CE.{{sfn|Robinson|2008|p=98}}{{sfn|McEntire|2008|p=10}} There, the rabbis noticed and addressed such issues as how Moses had received the divine [[revelation]],{{sfn|Heschel|2005|p=539–540}} how it was curated and transmitted to later generations, and how difficult passages such as the last verses of Deuteronomy, which describe his death, were to be explained.{{sfn|Robinson|2008|p=97–98}} This culminated in the 8th of [[Maimonides]]' [[13 Principles of Faith]], establishing belief in Mosaic authorship as an article of Jewish belief.{{sfn|Levenson|1993|p=63}}
+
+Mosaic authorship of the Torah was unquestioned by both Jews and [[Christians]] until the European [[Age of Enlightenment|Enlightenment]], when the systematic study of the five books led the majority of scholars to conclude that they are the product of [[Composition of the Torah|multiple authors throughout many centuries]].{{sfn|McDermott|2002|p=21}} Despite this, the role of Moses is an article of faith in traditional Jewish circles and for some Christian [[Evangelicalism|Evangelical]] scholars, for whom it remains crucial to their understanding of the unity and authority of the [[Bible]].{{sfn|Tenney|2010|p=unpaginated}}
+
+== Development of the tradition ==
+The [[Torah]] (or Pentateuch, as biblical scholars sometimes call it) is the collective name for the first five books of the Bible: [[Book of Genesis|Genesis]], [[Book of Exodus|Exodus]], [[Book of Leviticus|Leviticus]], [[Book of Numbers|Numbers]], and [[Book of Deuteronomy|Deuteronomy]].{{sfn|McDermott|2002|p=1}}<ref group="Notes" name="Torah">[[Orthodox Judaism|Orthodox Jews]] believe that God also revealed an [[oral Torah]] to Moses; this article deals only with the written Torah, the first five books of the Bible.</ref> It forms the [[Origin myth|charter myth]] of Israel, the story of the people's origins and the foundations of their culture and institutions,{{sfn|Dozeman|2010|p=73}} and it is a fundamental principle of Judaism that the relationship between God and his [[chosen people]] was set out on [[Mount Sinai (Bible)|Mount Sinai]] through the Torah.{{sfn|Tigay|2004|p=106}}
+
+The development of the Torah began by around 600&nbsp;BCE, when previously unconnected material began to be drawn together. By around 400&nbsp;BCE these books, the forerunners of the Torah, had reached their modern form and began to be recognised as complete, unchangeable, and sacred. By around 200&nbsp;BCE, the five books were accepted as the first section of the [[Development of the Hebrew Bible canon|Jewish canon]].{{sfn|McEntire|2008|p=7–8}}<ref group="Notes" name="Canon">The Jewish canon is made up of three parts, the Torah, the Prophets, and the Writings.</ref> It seems that the tradition of Mosaic authorship was first applied to Deuteronomy,{{sfn|Collins|2014|p=50}} which scholars generally agree was composed in Jerusalem during the reform program of King [[Josiah]] in the late 7th century BCE;{{sfn|Rofé|2002|p=4–5}} it is this law-code that books such as [[Book of Joshua|Joshua]] and [[Books of Kings|Kings]] (completed in the mid-6th century BCE{{sfn|Bandstra|2008|p=191}}) mean when they speak of the "torah of Moses".{{sfn|Collins|2014|p=50}} In later books such as [[Books of Chronicles|Chronicles]] and [[Ezra–Nehemiah]] the meaning had expanded to include the other laws such as Leviticus, and by the Hellenistic period, Jewish writers referred to the entirety of the five books, narrative and laws, as the Book (or books) of Moses.{{sfn|Collins|2014|p=50}}
+
+Authorship was not considered important by the society that produced the Hebrew Bible (the Protestant [[Old Testament]]), and the Torah never names an author.{{sfn|Schniedewind|2005|p=6–7}}{{sfn|Carr|2000|p=492}} It was only after {{circa|300 BCE}}, when Jews came into intense contact with author-centric [[Hellenistic_period#Hellenistic_culture|Hellenistic culture]], that the rabbis began to feel compelled to find authors for their books.{{sfn|Schniedewind|2005|p=6–7}}<ref group="Notes" name="Ben Sirach">The earliest Jewish text to identify its author is the Book of [[Sirach]], dating from the early 2nd century BCE – pronouncements such as "These are the prophecies of Isaiah" identify bodies of tradition rather than authors. See Schniedewind, pp.&nbsp;7–10.</ref> The process which led to Moses becoming identified as the author of the Torah may have been influenced by three factors: first, by a number of passages in which he is said to write something, frequently at the command of God, although these passages never appear to apply to the entire five books; second, by his key role in four of the five books (Genesis is the exception); and finally, by the way in which his authority as lawgiver and liberator of Israel united the story and laws of the Pentateuch.{{sfn|McEntire|2008|p=8–11}}<ref group="Notes" name="Moses writes">See McEntire, 2008, pp.&nbsp;8–9, for some of the passages in which Moses is said to write (this list is not exhaustive):
+* {{bibleref2|Exodus|17:14}}: God commands Moses: "Write this, a remembrance..." The context indicates that God is commanding Moses to record Joshua's battle with Amalek described in Exodus 7:8–13.
+* {{bibleref2|Exodus|24:4}}: "Moses wrote all the words of the Lord." This apparently refers to the laws which God has just given in Exodus 20:21–23:33.
+* {{bibleref2|Exodus|34:28}}: Moses "wrote upon the tablets the words of the covenant, ten words." The identity of these "ten words" is not made clear, but probably is a reference to the Ten Commandments given several chapters previously, in Exodus 20.
+* {{bibleref2|Numbers|33:1–2}}: "Here are the stages in the journey of the Israelites when they came out of Egypt ... at the Lord's command Moses recorded the stages in their journey; this is their journey by stages:" There follows a list of the places where the Israelites camped in the wilderness.
+* {{bibleref2|Deuteronomy|31:9}}: "Moses wrote this law and gave it to the priests, the sons of Levi, the ones carrying the Ark of the Covenant of the Lord" and Deuteronomy 31:24: "Moses ... finished writing the words of this law on a scroll." It is not clear just what Moses wrote, but it is usually taken to be the collection of laws that make up Deuteronomy 5–30.
+*{{bibleref2|Deuteronomy|31:22}}: "Moses wrote down this song on that day." The "song" is presumably Deuteronomy 32, the [[Song of Moses]].</ref>
+
+==Rabbinic tradition to the modern period==
+{{main article|Moses in rabbinic literature}}
+
+The [[Babylonian Talmud]], an encyclopedia of Jewish scholarship composed between 200 and 500&nbsp;CE, states that "Moses wrote his own book and the section concerning [[Balaam]]."{{sfn|Robinson|2008|p=97–98}}<ref group="Notes" name="Balaam">The episode of Balaam, found in the Book of Numbers, tells how the Canaanite prophet Balaam, who was asked by Israel's enemies to curse Israel, blessed Israel instead.</ref> The medieval philosopher [[Maimonides]] (c.&nbsp;1135–1204) enshrined this in his [[Thirteen Principles of Faith]] (a summary of the required beliefs of Judaism), the 8th of which states: "I believe with perfect faith that the entire Torah presently in our possession is the one given to Moses."{{sfn|Levenson|1993|p=63}} The rabbis said that God wrote the Torah in heaven before the world was created, in letters of black fire on parchment of white fire, and that Moses received it by divine dictation, writing the exact words spoken to him by God.{{sfn|Heschel|2005|p=539–540,546}} The rabbis also said the Torah was handed down to later generations: "Moses received the Torah from Sinai and transmitted it to [[Joshua]], Joshua to the Elders, the Elders to the Prophets, and the Prophets transmitted it to the men of the Great Assembly," who in turn transmitted it to the rabbis.{{sfn|Robinson|2008|p=97}} (The Great Assembly, according to Jewish tradition, was called by [[Ezra]] to ensure the accurate transmission of the Torah of Moses, when the Jews returned from exile).{{sfn|Edelman|Ben Zvi|2013|p=160}} [[Orthodox Judaism|Orthodox rabbis]] therefore say that thanks to this chain of custodians the Torah of today is identical with that received by Moses, not varying by a single letter.{{sfn|Robinson|2008|p=97}}
+
+The rabbis were aware that some phrases in the Torah do not seem to fit with divine dictation of a pre-existent text, and this awareness accounts for a second tradition of how the divine word was transmitted: God spoke and Moses remembered the divine words and wrote them down afterwards, together with some explanatory phrases of his own.{{sfn|Heschel|2005|p=539–540}} This explanation is a minority one, but it explains, for example, why every step in the description of the construction of the [[Tabernacle]] is followed by the phrase, "As the Lord commanded Moses."{{sfn|Heschel|2005|p=540}} There were also passages which seemed impossible for Moses to have written, notably the account of his own death and burial in last verses of Deuteronomy: the Talmud's answer is that "[[Joshua]] wrote ... [the last] eight verses of the Torah,"{{sfn|Robinson|2008|p=98}} yet this implied that the Torah was incomplete when Moses handed it to Israel; the explanation of rabbi [[Shimon bar Yochai]] was that the verses were indeed by Moses, but written "with tears in his eyes" as God dictated to him this description of his end.{{sfn|Robinson|2008|p=98}} More serious were a few passages which implied an author long after the time of Moses, such as Genesis 12:6, "The Canaanite was then in the land," implying a time when the [[Canaan]]ites were no longer in the land.{{sfn|Levenson|1993|p=66}} [[Abraham ibn Ezra]] (c.&nbsp;1092–1167) made a celebrated comment on this phrase, writing that it contains "a great secret, and the person who understands it will keep quiet;"{{sfn|Levenson|1993|p=66}} the 14th century rabbi [[Joseph ben Samuel Bonfils]] said that Moses had written this and similar passages, as he was a prophet, but that it made no difference whether they were by him or some later prophet, "since the words of all of them are true and inspired."{{sfn|Levenson|1993|p=67}} Finally, there were a few passages which implied that Moses had used pre-existing sources: a section of the [[Book of Numbers]] (Numbers 10:35–36) is surrounded in the [[Hebrew alphabet|Hebrew]] by [[Inverted nun|inverted]] [[Nun (letter)|nuns]] (the equivalent of brackets) which the rabbis said indicated that these verses were from a separate book, the Book of [[Eldad and Medad]].{{sfn|Edelman|Ben Zvi|2013|p=208, fn.37}}<ref group="Notes" name="Eldad and Medad">Eldad and Medad prophesied among the Israelites despite not having received the gift of prophecy from God.</ref>
+
+Biblical scholars today agree almost unanimously that the Torah is the work of many authors over many centuries.{{sfn|McDermott|2002|p=21}} A major factor in this rejection of the tradition of Mosaic authorship was the development of the [[documentary hypothesis]] by [[Julius Wellhausen]] in the 19th century, which understood the Pentateuch as a composite work made up of four "sources", or documents, compiled over centuries in a process that was not concluded until long after Moses' death.{{sfn|Ross|2004|p=185–186}} The documentary hypothesis aroused understandable opposition from traditional scholars. One of the most significant was [[David Zvi Hoffmann]] (1843–1921), who attempted to defend Mosaic authorship by demonstrating that the sources identified by the documentary hypothesis were, in fact, pre-exilic; if this were proven, he believed, then the hypothesis itself was dis-proven.{{sfn|Shavit|Eran|2007|p=143–144}} The most he would concede to the proponents of the hypothesis was that Moses may have written various scrolls over his career and that these may have been collated and united before his death.{{sfn|Shavit|Eran|2007|p=143}}
+
+Another Jewish scholar, [[David Weiss Halivni]] (1927–2022), developed a theory of ''Chate'u Yisrael'', literally, "Israel has sinned", which states that the originally monotheistic [[Israelites]] adopted pagan practices from their neighbours and neglected the Torah of Moses, with the result that it became "blemished and maculated;" only on the return from [[Babylon]] did the people once again accept the Torah, which was then recompiled and edited by [[Ezra]] as evidenced in [[Ezra–Nehemiah]] and [[Talmud]]ic and [[Midrash]]ic sources, which indicate that Ezra played a role in editing the Torah.{{sfn|Ross|2004|p=192}} He further states that while the text of the Torah was corrupted, [[oral tradition]] was preserved intact, which is why the Oral Law appears to contradict the Biblical text in certain details.{{sfn|Ross|2004|p=192}}
+
+[[Menachem Mendel Kasher]] (1895–1983), taking a different approach, accepted the documentary hypothesis and adapted it to the Mosaic tradition, saying certain traditions of the [[Oral Torah]] show Moses quoting Genesis prior to the [[Theophany|epiphany]] at [[Biblical Mount Sinai|Sinai]]; based on a number of Bible verses and rabbinic statements, and suggesting that Moses made use of documents authored by the [[Patriarchs (Bible)|Patriarchs]] when redacting that book.{{sfn|Ross|2004|p=297, fn.19}} This view is supported by some rabbinical sources and medieval commentaries which recognize that the Torah incorporates written texts and divine messages from before and after the time of Moses.{{sfn|Ross|2004|p=97}}
+
+==Christian tradition==
+[[File:Unmatinapresledeluge.jpg|thumb|''[[Light and Colour (Goethe's Theory) – The Morning after the Deluge – Moses Writing the Book of Genesis]]'', an 1843 painting by [[J. M. W. Turner]]<ref name="WebEx">{{cite web|url=https://www.webexhibits.org/colorart/romantic-color.html|title=Turner and Delacroix|work=webexhibits.org}}</ref>]]
+It is argued from the [[New Testament]] that [[Jesus]] himself recognised Moses as the author of at least some portions of the Pentateuch (e.g., the [[Gospel of John]], verses {{Bibleverse|John|5:46-47}}), and the early Christians therefore followed the rabbis.{{sfn|Wolf|2007|p=60}} However, these passages need not be binding historical judgements, as Jesus' words may just reflect the tradition that he inherited and what his hearers assumed to be the case.{{sfn|Enns|2012|p=153}} Early Christians addressed those passages which seemed to cast doubt on the Mosaic tradition: [[Jerome]], for example, felt that "unto this day" implied an editor long after the time of Moses, presumably the 5th century BCE sage [[Ezra]], {{sfn|Young|1984|p=115}} and [[Martin Luther]] similarly concluded that the description of Moses' death was written by [[Joshua]] – but believed that the question itself was of no great importance.{{sfn|Garrett|1996|p=387}}
+
+Jerome, Luther and others still believed that the bulk of the Pentateuch was written by Moses, even if a few phrases were not, but in the 17th century scholars began to seriously question its origins, leading [[Baruch Spinoza]] to declare that "the Pentateuch was not written by Moses but by someone else."{{sfn|Enns|2012|p=17}} This conclusion had major implications, for as the 18th century Jewish scholar [[David Levi (scholar)|David Levi]] pointed out to his Christian colleagues, "if any part [of the Torah] is once proved spurious, a door will be opened for another and another without end."{{sfn|Wolf|2007|p=60}} As Levi had feared, the questioning of Mosaic authorship led to a profound skepticism towards the very idea of revealed religion,{{sfn|Popkin|2003|p=195–196}} and by the late 19th century scholars almost universally accepted that the [[Book of Deuteronomy]] dated not from the time of Moses but from the 7th century BCE, with the Pentateuch as a whole being compiled by unknown editors from various originally distinct [[Documentary hypothesis|source-documents]].{{sfn|Whybray|1995|p=15}} 
+
+The [[Catholic Church]] initially rejected such a position: a decree of the [[Pontifical Biblical Commission]] of 1906, entitled ''De mosaica authentia Pentateuchi'' ("On the authenticity of the Mosaic authorship of the Pentateuch") stating that Mosaic authorship of the Pentateuch was not a subject of discussion.<ref>{{Cite web|title=''De mosaica authentia Pentateuchi'' - Pontificia Commissio Biblica|url=https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19060627_pentateuchi_lt.html|access-date=2021-04-25|website=www.vatican.va}}</ref> This started to change in 1943, when [[Pope Pius XII]] issued the encyclical ''[[Divino afflante Spiritu]]'' encouraging scholars to investigate the sacred texts utilizing such resources as recent discoveries in archaeology, ancient history, linguistics, and other technical methods.  On January 16, 1948, cardinal [[Emmanuel Célestin Suhard]], secretary of the [[Pontifical Biblical Commission]], responded to a question about the origin of the Pentateuch: {{Cquote|There is no one today who doubts the existence of these sources or refuses to admit a progressive development of the Mosaic Laws due to social and religious conditions of later time....  Therefore, we invite Catholic scholars to study these problems, without prepossession, in the light of sound criticism and of the findings of other sciences connected with the subject matter.
+}}
+Christian support for Mosaic authorship is now limited largely to conservative Evangelical circles.{{sfn|Davies|2007|p=19–20}} This is tied to the way Evangelicals view the unity and authority of scripture: in the words of the Zondervan Encyclopedia of the Bible, "Faith in Christ and faith in the books of the [Old Testament] canon stand or fall together [because] Christ and the [[Apostles in the New Testament|apostle]]s ... took the Pentateuch as Mosaic [and] put their seal on it as Holy Scripture."{{sfn|Tenney|2010|p=unpaginated}} Nevertheless, the majority of contemporary Evangelicals, while accepting that some or much of the Pentateuch can be traced to Moses or traditions about him, pay little attention to the question of authorship.{{sfn|Sailhamer|2010|p=181}}
+
+== See also ==
+{{Portal|Bible}}
+* [[Authorship of the Bible]]
+* [[Biblical archaeology]]
+* [[Dating the Bible]]
+* [[Historicity of the Bible]]
+* ''[[Moses and Monotheism]]''
+* [[Sixth and Seventh Books of Moses]]
+* [[The Exodus]]
+* [[Torah in Islam]]
+
+==Notes==
+{{reflist |group="Notes"}}
+
+== References ==
+{{reflist|25em}}
+
+==Bibliography==
+*{{Cite book|last=Bandstra|first=Barry L|title=Reading the Old Testament: An Introduction to the Hebrew Bible|publisher=Wadsworth|year=2008|url=https://books.google.com/books?id=vRY9mTUZKJcC|isbn=978-0495391050}}
+*{{cite book
+| last           = Brettler
+| first          = Marc Zvi
+| editor1-last   = Coogan, Marc Z. Brettler 
+| editor1-first  = Michael D. 
+| editor2-last   = Brettler
+| editor2-first  = Marc Zvi
+| editor3-last   = Newsom
+| editor3-first  = Carol
+| title          = The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version
+| chapter        = Torah
+| year           = 2010
+| publisher      = Oxford University Press
+| chapter-url            = https://books.google.com/books?id=jTYdAgAAQBAJ&pg=PA4
+| isbn          = 9780199370504
+}}
+*{{Cite book
+| last          = Carr
+| first         = David
+| chapter       = Genesis, Book of
+| editor1-last  = Freedman 
+| editor1-first = David Noel 
+| editor2-last  = Myers
+| editor2-first = Allen C. 
+| title         = Eerdmans Dictionary of the Bible
+| publisher     = Eerdmans
+| year          = 2000
+| chapter-url   = https://books.google.com/books?id=qRtUqxkB7wkC&pg=PA492
+| isbn         = 9789053565032
+}}
+*{{cite book
+| last           = Collins
+| first          = John J.
+| title          = Introduction to the Hebrew Bible
+| year           = 2014
+| publisher      = Augsburg Fortress Publishers
+| url            = https://books.google.com/books?id=fbsoBAAAQBAJ&pg=PA50
+| isbn          = 9781451469233
+}}
+*{{cite book
+| last           = Davies
+| first          = G.I.
+| chapter        = Introduction to the Pentateuch
+| editor1-last   = Barton
+| editor1-first  = John
+| editor2-last   = Muddiman
+| editor2-first  = John
+| title          = The Oxford Bible Commentary
+| year           = 2007
+| publisher      = Oxford University Press
+| chapter-url    = https://books.google.com/books?id=DWUTDAAAQBAJ&pg=PA20
+| isbn           = 9780199277186
+}}
+*{{Cite book
+| last          = Dozeman
+| first         = Thomas B.
+| title         = Methods for Exodus
+| publisher     = Cambridge University Press
+| year          = 2010
+| url           = https://books.google.com/books?id=CiqF7sVqDQcC&pg=PA73
+| isbn         = 9781139487382
+}}
+*{{cite book
+| last1          = Edelman
+| first1         = Diana V.
+| last2          = Ben Zvi
+| first2         = Ehud
+| title          = Remembering Biblical Figures in the Late Persian and Early Hellenistic Periods: Social Memory and Imagination
+| year           = 2013
+| publisher      = Oxford University Press
+| url            = https://books.google.com/books?id=YbpsAAAAQBAJ&pg=PA208
+| isbn         = 9780199664160 
+}}
+*{{cite book
+| last      = Enns
+| first     = Peter
+| title     = The Evolution of Adam
+| year      = 2012
+| publisher = Baker Books
+| url       = https://books.google.com/books?id=BNxeoqoTg-YC&pg=PA5
+| isbn     = 9781587433153
+}}
+*{{cite book
+| last1          = Garrett 
+| first1         = Don
+| title          = The Cambridge Companion to Spinoza
+| year           = 1996
+| publisher      = Cambridge University Press
+| url            = https://books.google.com/books?id=i6Ut7EAUgFEC&pg=PA387
+| isbn         = 9780521398657
+}}
+*{{Cite book
+| last          = Greifenhagen
+| first         = Franz V. 
+| title         = Egypt on the Pentateuch's Ideological Map: Constructing Biblical Israel's Identity
+| publisher     = Bloomsbury
+| year          = 2003
+| url           = https://books.google.com/books?id=DaVjGgPmmCsC&pg=PA224
+| isbn         = 9780826462114 
+}}
+*{{Cite book
+| last          = Heschel
+| first         = Abraham Joshua 
+| title         = Heavenly Torah: As Refracted Through the Generations
+| publisher     = A&C Black
+| year          = 2005
+| url           = https://books.google.com/books?id=WAGK8GiNrQgC&pg=PA539
+| isbn         = 9780826408020 
+}}
+*{{Cite book|last1=Kugler|first1=Robert|last2=Hartin|first2=Patrick|title=An Introduction to the Bible|publisher=Eerdmans|year=2009|url=https://books.google.com/books?id=L8WbXbPjxpoC|isbn=9780802846365}}
+*{{cite book
+| last      = Levenson
+| first     = Jon Douglas
+| title     = The Hebrew Bible, the Old Testament, and Historical Criticism: Jews and Christians in Biblical Studies
+| year      = 1993
+| publisher = Westminster John Knox Press
+| url       = https://books.google.com/books?id=w4NIsg8KtM0C&pg=PA66
+| isbn     = 9780664254070
+}}
+*{{cite book
+| last1     = Levin
+| first1    = Christoph L
+| title     = The Old Testament: A Brief Introduction
+| publisher = Princeton University Press
+| year      = 2005
+| url       = https://archive.org/details/oldtestamentbrie00levi| url-access = registration
+|isbn=978-0691113944
+}}
+*{{cite book
+| last      = Longman
+| first     = Tremper
+| title     = An Introduction to the Old Testament
+| year      = 2009
+| publisher = Zondervan
+| url       = https://books.google.com/books?id=PfJeT7YMFlgC
+| isbn     = 9780310539629
+}}
+*{{Cite book 
+|last=McDermott 
+|first=John J. 
+|title=Reading the Pentateuch: a historical introduction 
+|publisher=Pauline Press 
+|year=2002 
+|url=https://books.google.com/books?id=Dkr7rVd3hAQC&pg=PA21
+|isbn=978-0-8091-4082-4
+}}
+*{{Cite book
+|last      = McEntire
+|first     = Mark
+|title     = Struggling with God: An Introduction to the Pentateuch
+|publisher = Mercer University Press
+|year      = 2008
+|url       = https://books.google.com/books?id=VwOs9f1FpmsC&pg=PA7
+|isbn     = 9780881461015
+}}
+* {{cite book |last=Ostrowski |first=Donald |authorlink=Donald Ostrowski |url=
+https://doi.org/10.7591/cornell/9781501749704.001.0001 |title=Who Wrote That? Authorship Controversies from Moses to Sholokhov |publisher=Cornell University Press |date=2020 |isbn=978-1-5017-4970-4 |doi=10.7591/cornell/9781501749704.001.0001}}
+*{{Cite book
+| last          = Popkin
+| first         = Richard S.
+| title         = The History of Scepticism : From Savonarola to Bayle
+| publisher     = Oxford University Press
+| year          = 2003
+| url           = https://books.google.com/books?id=7j8PdlgFRDAC
+| isbn         = 9780198026716
+}}
+*{{Cite book|last=Robinson|first=George|title=Essential Torah: A Complete Guide to the Five Books of Moses|publisher=Knopf Doubleday|year=2008|url=https://books.google.com/books?id=X54NS-Lc-OcC&pg=PA97 |isbn=9780307484376}}
+* {{Cite book|last=Rofé|first=Alexander|title=Deuteronomy: issues and interpretation|publisher=T&T Clark|year=2002|url=https://books.google.com/books?id=ATDWInu5VCwC&pg=PR7 |isbn=9780567087546}}
+*{{Cite book
+| last          = Ross
+| first         = Tamar
+| title         = Expanding the Palace of Torah: Orthodoxy and Feminism
+| publisher     = UPNE
+| year          = 2004
+| url           = https://books.google.com/books?id=vkvNNioH--4C&pg=PA192
+| isbn = 9781584653905
+}}
+*{{Cite book
+| last          = Sailhamer
+| first         = John D.
+| title         = The Meaning of the Pentateuch: Revelation, Composition and Interpretation
+| publisher     = InterVarsity Press
+| year          = 2010
+| url           = https://books.google.com/books?id=pBVWU9U85m0C&pg=PA181
+| isbn = 9780830878888
+}}
+*{{Cite book
+| last          = Schniedewind
+| first         = William M. 
+| title         = How the Bible Became a Book: The Textualization of Ancient Israel
+| publisher     = Cambridge University Press
+| year          = 2005
+| url           = https://books.google.com/books?id=ZqmljRKZ9S4C&pg=PA7
+| isbn = 9780521536226 
+}}
+*{{cite book
+| last1          = Shavit
+| first1         = Yaacov
+| last2          = Eran
+| first2         = Mordacai
+| title          = The Hebrew Bible Reborn: From Holy Scripture to the Book of Books
+| year           = 2007
+| publisher      = Walter de Gruyter
+| url            = https://books.google.com/books?id=lotp-Coz5_YC&pg=PP1
+| isbn = 9783110191417
+}}
+*{{Cite book|last=Ska|first=Jean-Louis|title=Introduction to reading the Pentateuch|publisher=Eisenbrauns|year=2006|url=https://books.google.com/books?id=7cdy67ZvzdkC|isbn=9781575061221}}
+*{{Cite book
+| last          = Tenney
+| first         = Merrill C.
+| title         = The Zondervan Encyclopedia of the Bible
+| volume        = (volume 4)
+| publisher     = Zondervan
+| year          = 2010
+| url           = https://books.google.com/books?id=S4MZREX03u0C&pg=PT1855
+| isbn = 9780310876991
+}}
+*{{cite book
+| last           = Tigay
+| first          = Jeffrey H.
+| editor1-last   = Berlin
+| editor1-first  = Adele
+| editor2-last   = Brettler
+| editor2-first  = Marc Zvi
+| title          = The Jewish study Bible
+| chapter        = Exodus
+| year           = 2004
+| publisher      = Oxford University Press
+| isbn = 9780199393879
+| chapter-url            = https://books.google.com/books?id=yErYBAAAQBAJ&pg=PT260
+}}
+*{{Cite book|last=Van Seters|first=John|chapter=The Pentateuch|url=https://books.google.com/books?id=owwhpmIVgSAC|editor=Steven L. McKenzie, Matt Patrick Graham|title=The Hebrew Bible today: an introduction to critical issues|publisher=Westminster John Knox Press|year=1998|isbn=9780664256524}}
+*{{cite book
+| last           = Whybray
+| first          = R. Norman
+| title          = Introduction to the Pentateuch
+| year           = 1995
+| publisher      = Eerdmans
+| url            = https://books.google.com/books?id=4jP4Oovd9XwC&pg=PA12
+| isbn = 9780802808370
+}}
+*{{cite book
+| last           = Wolf
+| first          = Herbert
+| title          = An Introduction to the Old Testament Pentateuch
+| year           = 2007
+| publisher      = Moody Publishers
+| url            = https://books.google.com/books?id=N6_uKRfEVQwC
+| isbn          = 9781575674421
+}}
+*{{cite book
+| last           = Young
+| first          = Edward J.
+| title          = An Introduction to the Old Testament
+| year           = 1984
+| publisher      = Eerdmans
+| url            = https://books.google.com/books?id=R5XMn9YZ50wC&pg=PA115
+| isbn          = 9780802803399
+}}
+
+{{DEFAULTSORT:Mosaic Authorship}}
+[[Category:1st-century introductions]]
+[[Category:Biblical authorship debates]]
+[[Category:Moses]]
+[[Category:Orthodox Judaism]]
+[[Category:Torah]]

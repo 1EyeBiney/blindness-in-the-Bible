@@ -1,0 +1,93 @@
+<!-- title: Ebers Papyrus; revid: 1374253908; timestamp: 2026-09-10T21:02:33Z -->
+{{Short description|Ancient Egyptian medical papyrus}}
+{{Use British English|date=December 2021}}
+{{Infobox artefact
+| image         = PEbers c41-bc.jpg
+| created       =  {{circa}} 1550 BCE
+| language = [[Hieratic]] Egyptian
+|location=[[Leipzig]], [[Saxony]], [[Germany]]|size=length: {{circa}} 20 meters|discovered_place=[[Egypt]]}}
+
+The '''Ebers Papyrus''', also known as '''Papyrus Ebers''', is an [[Egyptian medical papyri|Egyptian medical papyrus]] of [[herbal]] knowledge dating to {{circa|1550 BCE}} (the late [[Second Intermediate Period of Egypt|Second Intermediate Period]] or early [[New Kingdom of Egypt|New Kingdom]]). Among the oldest and most important medical papyri of [[Ancient Egypt]], it was sold by [[Mohareb Todros]] to the German Egyptologist [[Georg Ebers]] at [[Luxor]] in the winter of 1873–1874. It is currently kept at the [[Leipzig University Library]] in [[Germany]].
+
+==Manuscript==
+The papyrus was written in [[Ancient Egypt]] in {{circa|1550 BCE}}, during the late [[Second Intermediate Period of Egypt|Second Intermediate Period]] or early [[New Kingdom of Egypt|New Kingdom]], but it is believed to have been copied from earlier Egyptian texts. The Ebers Papyrus is a 110-page scroll, which is about 20 meters long.<ref name=Ebers1875>{{cite book |title=Papyros Ebers: Das hermetische Buch über die Arzeneimittel der alten Ägypter in hieratischer Schrift, herausgegeben mit Inhaltsangabe und Einleitung versehen von Georg Ebers, mit Hieroglyphisch-Lateinischem Glossar von Ludwig Stern, mit Unterstützung des Königlich Sächsischen Cultusministerium |language=de |edition=1 |volume=2 |last=Stern |first=Ludwig Christian |editor1-last=Ebers |editor1-first=Georg |editor-link=Georg Ebers |publisher=W. Englemann |location=[[Leipzig]] |year=1875 |url=https://books.google.com/books?id=LjBxSQAACAAJ&q=Papyros+Ebers:+Das+hermetische+Buch+%C3%BCber+die+Arzeneimittel+der+alten+%C3%84gypter+in+hieratischer+Schrift+Georg+Ebers |access-date=2010-09-18 |lccn=25012078 }}{{Dead link|date=February 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+Along with the [[Kahun Gynaecological Papyrus]] ({{circa|1800 BCE}}), the [[Edwin Smith Papyrus]] ({{circa|1600 BCE}}), the [[Hearst papyrus]] ({{circa|1600 BCE}}), the [[Brugsch Papyrus]] ({{circa|1300 BCE}}), and the [[London Medical Papyrus]] ({{circa|1300 BCE}}), the Ebers Papyrus is among the oldest preserved medical documents. The Brugsch and the London Medical papyri share some of the same information as the Ebers Papyrus.<ref name=":0">{{Cite book | url=https://books.google.com/books?id=A3xqDwAAQBAJ| title=Technology of the Ancient Near East: From the Neolithic to the Early Roman Period| last=Baker| first=Jill| date=2018-08-30| publisher=Routledge| isbn=9781351188098| language=en}}</ref>
+
+One side of another document, the [[Papyrus Carlsberg Collection#Carlsberg Papyrus VIII|Carlsberg papyrus VIII]], is identical to the Ebers Papyrus, though the [[provenance]] of the former is unknown.<ref name=":0" />
+
+==Medical knowledge==
+[[File:Papyrus Ebers.png|upright=1|thumb|The treatment for [[asthma]] suggested in the Ebers papyrus is a mixture of [[herb]]s heated on a brick so that the patient could inhale their fumes]]
+
+The Ebers Papyrus is written in [[hieratic]] Egyptian writing and represents the most extensive and best-preserved record of ancient Egyptian medicine known.<ref>{{Cite book | url=https://archive.org/details/ahistorydentist00guergoog| page=[https://archive.org/details/ahistorydentist00guergoog/page/n19 19]| title=A History of Dentistry from the Most Ancient Times Until the End of the Eighteenth Century| last=Guerini| first=Vincenzo| date=1909| publisher=Lea & Febiger| language=en}}</ref>
+
+The scroll contains over 842 magical formulas and folk remedies and general injuries.<ref>{{Cite book | url=https://books.google.com/books?id=oIjksoR4WhsC&q=ebers+papyrus+contains+700&pg=PA4| title=Medicine and Healers Through History| last=Rogers| first=Kara| date=2011-01-15| publisher=The Rosen Publishing Group, Inc| isbn=9781615303670| language=en}}</ref>  It contains many incantations meant to turn away disease-causing demons and there is also evidence of a long tradition of [[empiricism]].<ref>{{Cite book | url=https://books.google.com/books?id=qtUzscI9_VIC&q=ebers+papyrus+incantation&pg=PA31| title=A History of Medicine| last=Magner| first=Lois N.| date=1992-03-17| publisher=CRC Press| isbn=9780824786731| language=en}}</ref>
+
+The papyrus contains a "treatise on the heart".  It notes that the heart is the centre of the blood supply, with vessels attached for every member of the body.
+
+The ancient Egyptians seem to have known little about the kidneys and made the heart the meeting point of a number of vessels which carried all the fluids of the body {{Ndash}}blood, tears, urine and semen.
+
+Mental disorders are detailed in a chapter of the papyrus called the Book of Hearts. Disorders such as [[Major depressive disorder|depression]] and [[dementia]] are covered. The descriptions of these disorders suggest that Egyptians conceived of mental and physical diseases in much the same way.
+
+The papyrus contains chapters on contraception, diagnosis of pregnancy and other [[Gynaecology|gynecological]] matters, intestinal disease and parasites, eye and skin problems,<ref name="pubmed.ncbi.nlm.nih.gov">[https://pubmed.ncbi.nlm.nih.gov/27027749/ PubMed]</ref> dentistry, the surgical treatment of abscesses and tumors, bone-setting, and burns.
+
+The "channel theory" was prevalent at the time of writing of the Ebers papyrus; it suggested that unimpeded flow of bodily fluids is a prerequisite for good health.
+
+The Ebers papyrus may be considered a precursor of ancient Greek humoral pathology and the subsequently established theory of [[humorism]], providing a historical connection between ancient Egypt, ancient Greece, and medieval medicine.<ref name="pubmed.ncbi.nlm.nih.gov"/>
+
+==Animal repellents==
+The use of animal and insect repellents derived from plants and other organisms found in nature is known from the time of the Ebers Papyrus.  Several examples of such repellents can be found in the text.<ref>{{cite book | last1=Pennacchio |first1=Marcello |title=Uses & Abuses of Plant-Derived Smoke: Its Ethnobotany as Hallucinogen, Perfume, Incense & Medicine |url=https://archive.org/details/usesabusesplantd00penn_001 |url-access=limited |date=2010 |publisher=Oxford University Press |page=[https://archive.org/details/usesabusesplantd00penn_001/page/n37 21]}}</ref>
+
+* To prevent fleas and lice, Egyptians would mix in date-meal and water in bowls and cook the mixture until warm. They would then drink it and spit it out.<ref name=":06">{{Cite book |last=Bryan |first=Cyril |title=The Papyrus Ebers / translated from the German version |publisher=Appleton |year=1931 |location=New York |pages=1633–167 |language=English}}</ref>
+* To protect their grain from rodents and vermin, they would spread gazelle dung and mice urine around the fire in the granary.<ref name=":06" />
+
+==Calendar==
+In the time of [[Amenhotep I]] a calendar table was written on the verso side of the papyrus.<ref name=":1">{{cite book |first=M. Christine |last=Tetley |title=The Reconstructed Chronology of the Egyptian Kings |publisher=Onerahi |year=2014 |pages=86f. |isbn=978-0-473-29338-3 }}</ref> Since 1906 we have a transcript by Kurt Sethe. Some rate this table to be "the most valuable chronological tool from Egypt that we are ever likely to possess".<ref name=":1" />
+
+==Modern history of the papyrus==
+Like the [[Edwin Smith Papyrus]], the Ebers Papyrus came into the possession of [[Edwin Smith (Egyptologist)|Edwin Smith]] in 1862.
+
+The source of the papyrus is unknown, but it was said to have been found between the legs of a [[mummy]] in the [[El-Assasif]] district of the [[Thebes, Egypt|Theban]] [[necropolis]].
+
+The papyrus remained in the collection of Edwin Smith until at least 1869, when there appeared—in the catalog of an antiquities dealer—an advertisement for "a large medical papyrus in the possession of Edwin Smith, an American farmer of [[Luxor]]."<ref>{{cite book |last=Breasted |year=1930 |title=The Edwin Smith Papyrus : Some Preliminary Observations |page=391 [fn. 1] |url=https://www.google.com/books/edition/The_Edwin_Smith_Papyrus/9-NPGgGX1c0C?hl=en&gbpv=1&pg=PA391&printsec=frontcover }}</ref>
+
+The papyrus was purchased in 1872 by the [[Germany|German]] [[Egyptologist]] and novelist, [[Georg Ebers]], after whom it is named.
+
+==Translations==
+In 1875, Ebers published a [[facsimile]] with an English-Latin vocabulary and introduction.  It was not until 1890, however, that it was translated by H. Joachim. In the early 1900s, Dr. Carl H. von Klein, alongside his daughter Edith Zitelmann, created a direct-to-English translation of the Ebers Papyrus.<ref>{{Cite journal |last1=Hartsock |first1=Jane |last2=Halverson |first2=Colin |date=2023-10-02 |title=Lost in translation: the history of the Ebers Papyrus and Dr. Carl H. von Klein |journal=Journal of the Medical Library Association |volume=111 |issue=4 |pages=844–851 |doi=10.5195/jmla.2023.1755 |issn=1558-9439|doi-access=free |pmid=37928112 |pmc=10621680 }}</ref> Ebers retired from his chair of Egyptology at [[Leipzig]] on a pension and the papyrus remained in the University of Leipzig library.  An English translation of the papyrus was published by [[Paul Ghalioungui]]. The papyrus was published and translated by different researchers.
+
+The Ebers Papyrus is available online, at a dedicated website, with translations in English and German.<ref>{{Cite web |title=Papyrus Ebers – Universitätsbibliothek Leipzig |url=https://papyrusebers.de/ |access-date=2023-11-17 |website=papyrusebers.de}}</ref>
+
+==See also==
+* [[List of ancient Egyptian papyri]]
+* [[History of medicine]]
+* [[Medical literature]]
+
+==References==
+{{Reflist|refs=}}
+
+==Further reading==
+* {{cite book |last=Ebers |date=1875 |title=Papyros Ebers: Das Hermetische Buch über die Arzneimittel der alten Ägypter in hieratischer Schrift (Bands 1 & 2): Einleitung und Text |url=http://digi.ub.uni-heidelberg.de/diglit/ebers1875bd1 |location=Leipzig |publisher=Verlag von Wilhelm Engelmann|doi=10.11588/DIGLIT.3 }}
+* {{cite book |date=1913 |title=Papyros Ebers: Das Hermetische Buch über die Arzneimittel der alten Ägypter in hieratischer Schrift |url=http://www.hieroglyphen2.de/Wreszinski3/index.html |location=Leipzig |publisher=J.C. Hinrich'sche Buchhandlung}}
+* {{cite book |last=Joachim |first=H. |date=1890 |title=Papyros Ebers: Das älteste Buch über Heilkunde |url=http://digi.ub.uni-heidelberg.de/diglit/joachim1890 |location=Berlin |publisher=Druck und Verlag von George Reimer}}
+* {{cite book |last=Pommerening |first=Tanja |date=2005 |title=Die altägyptischen Hohlmaße |series=[[studien zur Altägyptischen Kultur]] Beiheft 10 |chapter=Altägyptische Hohlmaße Metrologisch neu Interpretiert |language=de |location=Hamburg |publisher=Helmut Buske Verlag |isbn=978-3-87548-411-3}}
+* {{cite book |last=Pommerening |first=Tanja |date=2005 |title=Die altägyptischen Hohlmaße |series=[[studien zur Altägyptischen Kultur]] Beiheft 10 |chapter=relevant pharmaceutical and medical knowledge, an abstract, Phillips-Universitat, Marburg, 8-11-2004 |language=de |location=Hamburg |publisher=Helmut Buske Verlag |isbn=978-3-87548-411-3}}
+* {{cite book |last=Scholl |first=Reinhold |date=2002 |title=Der Papyrus Ebers. Die größte Buchrolle zur Heilkunde Altägyptens |language=de |series=Schriften aus der Universitätsbibliothek 7 |location=[[Leipzig]] |publisher=[[Universitätsbibliothek Leipzig]] |isbn=978-3-910108-93-6 |lccn=2002505846}}
+* Ghalioungui, Paul; [https://books.google.com/books?id=bXrtGwAACAAJ ''The Ebers Papyrus: A New English Translation, Commentaries and Glossaries by Paul Ghalioungui'']; 1987 edition.
+
+==External links==
+{{Commons category|Ebers Papyrus}}
+* {{Official website|https://papyrusebers.de/}} of the digitized Ebers Papyrus, with translations in English and German.
+* [https://www.ub.uni-leipzig.de/en/about-us/exhibitions/permanent-exhibition/ebers-papyrus/ Leipzig University Library website page about the Ebers Papyrus], with information about visiting the Ebers Papyrus showroom. 
+* {{cite book |translator-last=Ebbell |translator-first=Bendix |translator-link=Bendix Ebbell |date=1937 |title=The Papyrus Ebers: The Greatest Egyptian Medical Document |url=http://www.macalester.edu/~cuffel/ebers.htm |location=Copenhagen |publisher=Levin & Munksgaard |lccn=37020036 |url-status=dead |archive-url=https://web.archive.org/web/20090312052919/http://www.macalester.edu/~cuffel/ebers.htm |archive-date=2009-03-12 }}
+* {{cite book |last=Ebers |first=Georg |author-link=Georg Ebers |date=1889 |title=Papyrus Ebers: Die Maasse und das Kapitel über die Augenkrankheiten |language=de |url=https://archive.org/details/papyrusebersdie00ebergoog |location=[[Leipzig]] |publisher=Bei S. Hirzel }}
+* {{cite book |translator-last=Bryan |translator-first=Cyril P. |date=1930 |title=The Papyrus Ebers, Translated from the German Version By Cyril P. Bryan |url=http://oilib.uchicago.edu/books/bryan_the_papyrus_ebers_1930.pdf |archive-url=https://web.archive.org/web/20130921055114/http://oilib.uchicago.edu/books/bryan_the_papyrus_ebers_1930.pdf |archive-date=2013-09-21 |location=London |publisher=Geoffrey Bles }}
+
+{{Ancient Egyptian medicine}}
+{{Authority control}}
+
+[[Category:Ancient Egyptian medical works]]
+[[Category:Papyri from ancient Egypt]]
+[[Category:2nd-millennium BC manuscripts]]
+[[Category:Medicinal clay]]
+[[Category:16th-century BC literature]]

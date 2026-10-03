@@ -1,0 +1,57 @@
+<!-- title: Laws of Eshnunna; revid: 1370343770; timestamp: 2026-08-20T15:57:14Z -->
+{{Short description|c. 1930 BC law code from Iraq}}
+The '''Laws of Eshnunna''' (abrv. LE) are inscribed on two [[Cuneiform script|cuneiform]] tablets discovered in [[Shaduppum|Tell Abū Harmal]], [[Baghdad]], [[Iraq]]. The Iraqi Directorate of Antiquities headed by [[Taha Baqir]] unearthed two parallel sets of tablets in 1945 and 1947.<ref>Albrecht Goetze, "The Laws of Eshnunna", ''Sumer'', vol. 4, no. 2, pp. 63–102, September 1948</ref> The two tablets are separate copies of an older source and date back to c. 1930 BC. An additional fragment was later found at [[Me-Turan]].<ref>Mustafa, Abdul-Kader Abdul-Jabbar. ''The Old Babylonian tablets from Me-Turan (Tell al-Sib and Tell Haddad)''. University of Glasgow (United Kingdom), 1983.</ref> The differences between the [[Code of Hammurabi]] and the Laws of [[Eshnunna]] significantly contributed to illuminating the development of ancient and [[cuneiform law]].
+
+In distinction from the other [[Mesopotamia]]n collections of law, this one got its name after the city where it had originated – [[Eshnunna]], located on the bank of the [[Diyala River]], tributary to the [[Tigris]], north of [[Ur]]. Eshnunna became politically important after the fall of the third dynasty of Ur, founded by [[Ur-Nammu]].
+
+The law code is also notable for it having the earliest recorded mention of rabies. It prescribed that an owner of a dog with symptoms of rabies was to take preventative measures against that dog biting people and that an owner of a dog who bit someone who then died was to be heavily fined.<ref>{{cite book | vauthors = Dunlop RH, Williams DJ | title = Veterinary Medicine: An Illustrated History | publisher = Mosby | year= 1996 |
+isbn=978-0-8016-3209-9 }}</ref>
+
+==Contents==
+This collection of laws is not a real systemized [[codex]]; nearly sixty of its sections are preserved. The Laws are written in [[Akkadian language|Akkadian]] and consist of two tablets which are marked with A and B. In 1948, [[Albrecht Goetze]] of [[Yale University]] had translated and published them. In some sources the Laws of [[Eshnunna]] are mentioned as the Laws of [[Bilalama]] due to the belief that the Eshnunnian ruler probably was their originator, but Goetze maintained that tablet B was originated under the reign of [[Dadusha]]. The text of the [[prologue]] is [[lacuna (manuscript)|broken]] at the point where the ruler who promulgated the laws was specified.
+
+[[Albrecht Goetze]] has noticed the specific style of expression. The laws were composed in a mode that facilitated memorizing.<ref>Albrecht Goetze. "The Laws of Eshnunna". ''The Annual of the American Schools of Oriental Research'', Vol. 31 (1951–1952), pp. v–197</ref> A distinguished Israeli scientist and one of the foremost experts on this collection of laws, Reuven Yaron of the [[University of Jerusalem]] concerning this matter stated: "What matters to me – and might have mattered to those who fashioned them almost 4000 years ago – is the ease of remembering the text."<ref>Reuven Yaron, ''The Laws of Eshnunna'', Brill, 1989 {{ISBN|978-90-04-08534-3}}</ref>
+
+The conditional sentence ("If A then B" – as it also is the case with the other [[Mesopotamia]]n laws) is an attribute of this codification. In 23 paragraphs, it appears in the form šumma awilum – "If a man..." After the disposition, a precise sanction follows, e.g. LU42(A): "If a man bit and severed the nose of a man, one mina silver he shall weigh out."
+
+The Laws clearly show signs of [[social stratification]], mainly focusing on two different classes: the muškenum and awilum. The audience of the Laws of [[Eshnunna]] is more extensive than in the case of the earlier cuneiform codifications: awilum – free men and women (mar awilim and marat awilim), muškenum, wife (aššatum), son (maru), slaves of both sexes – male (wardum) and female (amtum) – which are not only objects of law as in classical slavery, and delicts where the victims were slaves have been sanctioned, and other class designations as ubarum, apþarum, mudum that are not ascertained.
+
+Reuven Yaron has divided the offences of the Laws of [[Eshnunna]] into five groups. The articles of the first group had to be collected from all over the Laws and the articles of the other four were roughly ordered one after the other:
+
+# [[Theft]] and related offences,
+# False [[distraint]],
+# [[Sex and the law|Sexual offences]],
+# [[injury|Bodily injuries]],
+# Damages caused by a goring ox and comparable cases.
+
+The majority of these offences were penalized with pecuniary fines (an amount of silver), but some serious offences such as burglary, murder, and sexual offences were penalized with death. It seems that the [[capital punishment]] was avoidable (in contrast to the [[Code of Hammurabi]]), because of the standard formulation: "It is a case of life&nbsp;... he shall die".
+
+==See also==
+
+*[[Akkadian Empire]]
+*[[Eshnunna]]
+*[[Cuneiform law]]
+*[[Code of Hammurabi]]
+*[[Code of Ur-Nammu]]
+*[[Code of Lipit-Ishtar]]
+*[[List of ancient legal codes]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+
+*{{Cite book |last=Eichler |first=Barry L. |title=Language, Literature, and History: Philological and Historical Studies |year=1987 |isbn=0940490676 |editor-last=Rochberg-Halton |editor-first=Francesca |editor-link=Francesca Rochberg |location=New Haven |pages=71–84 |chapter=Literary Structure in the Laws of Eshnunna}}
+*{{Cite journal |last=Finkelstein |first=J. J. |date=1970 |title=Review: On Some Recent Studies in Cuneiform Law |journal=[[Journal of the American Oriental Society]] |volume=90 |issue=2 |pages=243–256 |doi=10.2307/598140 |jstor=598140}}
+*{{Cite journal |last=Speiser |first=E. A. |date=1963 |title=Cuneiform Law and the History of Civilization |journal=[[Proceedings of the American Philosophical Society]] |volume=107 |issue=6 |pages=536–541 |jstor=986110}}
+
+== External links ==
+
+* [https://web.archive.org/web/20080925145523/http://exchanges.state.gov/culprop/iraq/fi/00000071.htm Laws of Eshnunna tablet at the Iraq National Museum]
+
+{{Authority control}}
+
+[[Category:Legal codes]]
+[[Category:Ancient Near East law]]
+[[Category:Babylonia]]
+[[Category:Codes of conduct]]

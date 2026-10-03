@@ -186,3 +186,18 @@ def test_followup_items_trace_to_candidates_and_the_hand_led_claim_holds():
     bible = build_site.load_bible()
     assert "by the hand" in bible[("Acts", 13, 11)] and "hand" in bible[("Judges", 16, 26)] and "hand" in bible[("Mark", 8, 23)]
     assert "staff" in bible[("Zechariah", 8, 4)]
+
+
+def test_law_question_items_trace_to_candidates_and_key_quotes_exist():
+    import json
+    cands = json.loads((ROOT / "data" / "reference" / "law_questions_candidates.json").read_text(encoding="utf-8"))
+    final = json.loads((ROOT / "data" / "reference" / "law_questions.json").read_text(encoding="utf-8"))
+    for slug, items in final.items():
+        for item in items:
+            for key, idx in item["from"]:
+                assert cands[key][idx]["evidence"], (slug, key, idx)
+    shelf = ROOT / "data" / "raw" / "shelf"
+    budge = re.sub(r"\s+", " ", (shelf / "budge_amenemopet_1924.txt").read_text(encoding="utf-8", errors="replace"))
+    assert "laughing-stock of the blind" in budge
+    ham = re.sub(r"\s+", " ", (shelf / "hammurabi_johns_pg17150.txt").read_text(encoding="utf-8"))
+    assert "half his price" in ham

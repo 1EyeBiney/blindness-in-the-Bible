@@ -1,0 +1,79 @@
+<!-- title: Sheep Gate; revid: 1364681986; timestamp: 2026-07-17T23:10:18Z -->
+{{short description|Town gate in Trim, Ireland}}
+{{Use dmy dates|date=November 2019}}
+{{Use Irish English|date=November 2019}}
+{{Infobox building
+| name                 = Sheep Gate
+| native_name          = Geata an Chaora
+| native_name_lang     = ga
+| image                = Sheep Gate sunrise large print.jpg
+| image_size           = 
+| alt                  = 
+| caption              = 
+| pushpin_map          = Ireland
+| pushpin_map_size     = 
+| map_caption          = 
+| location             = [[Trim, County Meath|Trim]], [[County Meath]], [[Republic of Ireland|Ireland]]
+| building_type        = [[City gate|town gate]]
+| completion_date      = 13th/14th century AD
+| coordinates          = {{coord|53.555281|-6.787875|display=inline,title}}
+| rite                 = 
+| region               = 
+| state                = 
+| province             = 
+| territory            = 
+| prefecture           = 
+| sector               = 
+| district             = 
+| cercle               = 
+| municipality         = 
+| consecration_year    = 
+| status               = 
+| functional_status    = 
+| heritage_designation = 
+| patron               = 
+| website              = 
+| architecture         = 
+| architect            = 
+| architecture_type    = 
+| architecture_style   = 
+| founded_by           = 
+| funded_by            = 
+| general_contractor   = 
+| facade_direction     = 
+| groundbreaking       = 
+| year_completed       = 
+| construction_cost    = 
+| specifications       = 
+| length               = 
+| width                = 
+| height_max           = 
+| material             = [[limestone]], [[mortar (masonry)|mortar]]
+| nrhp                 = 
+| added                = 
+| refnum               = 
+| designations         = {{Infobox designation list
+| designation1         = National Monument of Ireland
+| designation1_number  = 469
+| designation1_offname = Sheep Gate
+}}
+}}
+
+The '''Sheep Gate''' is a [[City gate|town gate]] in [[Trim, County Meath|Trim]], [[Republic of Ireland|Ireland]]. It is a [[National Monument (Ireland)|National Monument]].<ref>{{cite web|url=http://www.geograph.ie/photo/2696393|title=Geograph:: Trim Town Wall: Sheep Gate (C) Anthony Foster|website=Geograph.ie}}</ref>
+
+==History==
+[[File:Wakeman Trim Yellow Steeple and Sheep Gate.png|thumb|Illustration from ''Wakeman's handbook of Irish antiquities'' (1903), showing Sheep Gate and [[Yellow Steeple]].]]
+The Sheep Gate is the only surviving gate of five that once provided access to Trim. The [[Defensive wall|town wall]] and its gates were built in the 13th or 14th century. Sheep Gate may have been so named as a toll was charged here for [[sheep]] being brought in to be sold at market: in 1290, the [[murage]] and [[pavage]] tax was [[Penny (English coin)|one penny]] per ten sheep, reduced to a [[Farthing (English coin)|farthing]] in 1308. The name could also derive from the archaic meaning of [[wikt:cheap|cheap]], meaning "market" (cf. [[Cheapside]]). This name is not recorded before the 19th century; it may have been known as the Porch Gate, possibly from French ''porte'' ("door"), which may also give its name to the [[Porch Fields]] lying outside the city walls.<ref>{{Cite web|url=http://eprints.maynoothuniversity.ie/5121/2/Michael_Potterton_20140624130008.pdf|format=PDF|title=THE ARCHAEOLOGY AND HISTORY OF MEDIEVAL TRIM, COUNTY MEATH|author=Michael Potterton|website=Eprints.maynoothuniversity.ie|access-date=4 November 2021}}</ref> The gate was locked between 9 p.m. and 4 a.m.<ref>{{cite web|url=http://www.lonelyplanet.com/ireland/county-meath/trim/sights/landmarks-monuments/sheep-gate|title=Sheep Gate |website=Lonelyplanet.com}}</ref>
+
+==The gate==
+[[File:Trim - Sheep Gate and Castle.jpg|thumb|Sheep Gate with [[Trim Castle]] behind.]]
+[[File:Sheeps Gate and Yellow Steeple at Trim Castle.jpg|thumb|left|Sheep Gate with Yellow Steeple behind.]]
+[[File:Trim Castle - County Meath (3138577981).jpg|thumb|View of Sheep Gate, with Boyne in foreground.]]
+The gate was the southeastern entrance to the town, and is located just north of the [[River Boyne]]. Sheep Gate survives as a stone archway.<ref>{{cite web|url=http://www.irishstones.org/place.aspx?p=403|title=Sheep Gate|website=Irishstones.org}}</ref><ref>{{cite web|url=http://www.trekearth.com/gallery/Europe/Ireland/North/Meath/photo1393186.htm|title=Ireland|website=Trekearth.com}}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:National monuments in County Meath]]
+[[Category:Trim, County Meath]]
+[[Category:City gates]]

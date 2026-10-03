@@ -1,0 +1,116 @@
+<!-- title: Antonia Fortress; revid: 1378090557; timestamp: 2026-10-02T22:44:42Z -->
+{{Short description|Ancient hill-top citadel in Jerusalem}}
+{{Infobox historic site
+| name = Antonia Fortress
+| native_names = {{native name|he|מבצר אנטוניה}}<br>{{native name|arc|קצטרא דאנטוניה}}
+| image = File:The Antonia Fortress.jpg
+| alt = 
+| caption = Proposed reconstruction of the Antonia Fortress at the [[Holyland Model of Jerusalem]]
+| pushpin_map = 
+| pushpin_alt = 
+| location = [[Jerusalem during the Second Temple period|Jerusalem]]
+| coordinates = {{Coord|31|46|48|N|35|14|01|E|type:landmark_scale:5000|display=inline}}
+| type = [[fortress]]
+| builder = [[Herod the Great|Herod]]
+| material = 
+| built = First century BC
+| abandoned = First century AD
+| epochs = [[Judaea|early Roman period]]
+| excavations = 
+| archaeologists = 
+| condition = 
+| public_access = Limited
+}}The '''Antonia Fortress''' ([[Aramaic]]: קצטרא דאנטוניה){{efn|Based on Josephus' use of the word 'citadel' or 'fortress' when referring to the Antonia Fortress}} was a [[citadel]] built by [[Herod the Great]] and named for Herod's patron [[Mark Antony]], as a fortress whose chief function was to protect the [[Second Temple]]. It was built in [[Jerusalem]] at the eastern end of the Second Wall, at the north-western corner of the [[Temple Mount]], and was connected to the Temple by [[Portico|porticoes]].
+
+==History==
+
+=== Construction ===
+The Antonia Fortress was built by [[Herod the Great]] (r. 37–4 BC), the [[Client kingdoms in ancient Rome|client king]] of [[Herodian kingdom|Judaea]], who named it after his then-patron, the Roman politician and general [[Mark Antony]]. The fort replaced the [[Hasmonean Judea|Hasmonean]] fortress known as the [[Hasmonean Baris|Baris]], which had occupied the site, and possibly an [[Ptolemaic Baris|earlier fortress]] or fortresses built by the [[Ptolemaic Kingdom|Ptolemies]] and/or [[Seleucid Empire|Seleucids]].{{sfn|Netzer|2007|p=134}}
+
+It remains unclear whether the Baris was entirely demolished, only partly dismantled, or retained and enlarged when the Antonia was built.{{sfn|Netzer|2007|p=135}} Netzer assumes that the entire Baris was demolished, although he acknowledges that this is uncertain.{{sfn|Netzer|2007|p=134}} Bahat, by contrast, suggests that only its southern part was destroyed, with the northern part preserved and incorporated into the new structure.{{sfn|Bahat|2015|p=17}}
+
+==== Date ====
+
+Ehud Netzer dated the construction of the Antonia Fortress to around 35 BC and proposed that it was adapted to the enlarged [[Temple Mount]] around 20 BC.{{sfn|Netzer|2007|p=138}}[[File:P8170045.JPG|right|thumb|254x254px|A model of the Antonia Fortress—currently in the [[Israel Museum]]]]The exact construction date is disputed because the fortress's name suggests that Herod built it before Mark Antony's defeat at [[Battle of Actium|Actium]] by [[Augustus|Octavian]] in 31 BC and Antony's suicide in 30 BC. Herod was known as an astute diplomat and pragmatist who consistently aligned himself with Rome's winning side and its dominant political figure. This proposed date is also difficult to reconcile with the presumed date of construction of the [[Herodian Temple]].
+
+=== First Jewish Revolt ===
+The fortress was one of the last strongholds of the [[Jews]] in the [[Siege of Jerusalem (70 AD)]], when the Second Temple was destroyed.<ref name="dk">{{cite book |title=Jerusalem, Israel, Petra & Sinai |publisher=[[DK (publisher)|DK]] |isbn=978-1-4654-4131-7 |year=2016 |orig-year=2000 |page=48}}</ref>
+
+Netzer proposed that the Antonia hill was levelled at some point during the [[Umayyad Caliphate|Umayyad]] period, in connection with work on the Temple Mount.{{sfn|Netzer|2007|pp=135, 138}}
+
+== Location ==
+The Antonia Fortress stood at the northwest corner of the Temple Mount.{{sfn|Netzer|2007|p=134}} The first-century historian [[Josephus]] described the site as follows:
+
+{{Blockquote|text=Now as to the tower of Antonia, it was situated at the corner of two cloisters of the court of the [[Second Temple|temple]]; of that on the west, and that on the north; it was erected upon a rock of fifty cubits in height, and was on a great precipice.|author=Josephus|title=<i>[[The Jewish War]]</i>|source=5.238 (translation by [[William Whiston]])}}
+[[File:PikiWiki_Israel_68677_fortress_of_antonia.jpg|thumb|A 19th-century photograph of a rock scarp north of the Temple Mount, hewn beneath [[Mamluk Sultanate|Mamluk]]-era structures, believed to have been cut by Herod during the construction of the Antonia Fortress]]
+The fortress's boundaries to the west, north, and east are only partly known archaeologically, so its exact extent on those sides cannot be fully reconstructed, though the surviving evidence allows some general conclusions.{{sfn|Netzer|2007|p=135}} On the north, a [[moat]] is thought to have separated the Antonia from the area now occupied by Jerusalem's [[Muslim Quarter (Jerusalem)|Muslim Quarter]], extending to some degree along the west and east sides as well.{{sfn|Netzer|2007|p=135}} The southern side is better attested through a vertical rock-cut scarp, about 93 metres long and up to 12 metres high, which marks the edge of the hill.{{sfn|Netzer|2007|p=135}} A channel cut nearby carried water to the site; its northern section is generally attributed to the Hasmonean period.{{sfn|Netzer|2007|p=135}}
+
+== Description ==
+{{Blockquote|text=In the first place, the rock itself was covered over with smooth pieces of stone, from its foundation, both for ornament, and that anyone who would either try to get up or to go down it might not be able to hold his feet upon it. Next to this, and before you come to the edifice of the tower itself, there was a wall three cubits high; but within that wall all the space of the tower of Antonia itself was built upon, to the height of forty cubits. The inward parts had the largeness and form of a palace, it being parted into all kinds of rooms and other conveniences, such as courts, and places for bathing, and broad spaces for camps; insomuch that, by having all conveniences that cities wanted, it might seem to be composed of several cities, but by its magnificence it seemed a palace. And as the entire structure resembled that of a tower, it contained also four other distinct towers at its four corners; whereof the others were but fifty cubits high; whereas that which lay upon the southeast corner was seventy cubits high, that from thence the whole temple might be viewed; but on the corner where it joined to the two cloisters of the temple, it had passages down to them both, through which the guard (for there always lay in this tower a Roman legion) went several ways among the cloisters, with their arms, on the Jewish festivals, in order to watch the people, that they might not there attempt to make any innovations. for the temple was a fortress that guarded the city, as was the tower of Antonia a guard to the temple; and in that tower were the guards of those three.|author=Josephus|title=<i>The Jewish War</i>|source=5.239–245 (translation by William Whiston)}}
+
+=== Netzer's proposed reconstruction ===
+[[Ehud Netzer]], an archaeologist and leading authority on [[Herodian architecture]], noted a resemblance between Josephus's description of the Antonia and [[Herodium]], the hilltop palace-fortress he himself excavated. Both were built by Herod and combined a main structure with projecting towers, although the central structure was circular at [[Herodium]] and square or nearly square at the Antonia.{{sfn|Netzer|2007|p=134}} Netzer proposed a reconstruction of the Antonia as an 86-by-86-metre near-square structure, about 18 metres high, with a tower at each corner projecting only slightly beyond the footprint. Three of the towers, each about 19 by 19 metres and 23 metres high, were modelled on Herodium's eastern tower and the [[Tower of David (northeast tower)|Phasael]], Hippicus, and Mariamne towers in Jerusalem's eastern wall. The fourth, at the Antonia's southeastern corner, was reconstructed as the tallest and largest, about 22 by 22 metres and 28 metres high. A 1.5-metre-high wall topped with [[Merlon|merlons]] was reconstructed around the central building, set back to leave a passage of similar width.{{sfn|Netzer|2007|p=138}}[[File:Holy_Land_2018_(2)_P071_Jerusalem_Convent_of_the_Sisters_of_Zion_Museum.jpg|thumb|A capital and base likely from the Antonia Fortress, now displayed in the [[Convent of the Sisters of Zion]]]]
+Netzer's reconstruction divides the central building into two wings, each enclosing a courtyard of about 18 by 42 metres ringed by two-storey [[Stoa|stoas]] (porticoes). Their upper storey gave access to the rooms on that level.{{sfn|Netzer|2007|p=138}} Two smaller inner courtyards lay between the wings, also surrounded by porticoes, which Netzer suggests served mainly to light and ventilate the building and to connect its various parts.{{sfn|Netzer|2007|p=138}} The royal wing housed a bathhouse and a reception hall comparable in plan to the two large [[triclinium]] halls excavated at [[Hasmonean and Herodian royal winter palaces|Herod's winter palace]] in [[Jericho]]. While most of the building rose two storeys, the triclinium hall was full-height, its surrounding third storey formed by a single row of rooms on each side.{{sfn|Netzer|2007|p=138}} Netzer further reconstructs a narrow passage, about 1.5 metres wide, separating the central building from its surrounding wall for guards patrolling the fortress's perimeter.{{sfn|Netzer|2007|p=141}} Guard posts are likewise proposed at the corners and entrances of the four towers, in addition to the external staircases. Netzer proposes that flights of steps were added once the Temple Mount was later enlarged.{{sfn|Netzer|2007|p=141}}
+
+==Christian tradition==
+Traditionally, [[Christians]] have believed for centuries that the vicinity of the Antonia Fortress was the site of [[Pontius Pilate]]' ''[[praetorium]]'', where [[Jesus]] was [[Pilate's court|tried]] for [[high treason]]. This was based on the assumption that an area of Roman flagstones discovered beneath the [[Church of the Condemnation]] and the [[Convent of the Sisters of Zion]] was '[[Gabbatha|the pavement]]' which {{bibleverse||John|19:13|}} describes as the location of Jesus' trial.
+
+===Antonia pavement: archaeological counter-arguments===
+[[Pierre Benoit (archaeologist)|Pierre Benoit]], former professor of New Testament studies at the [[École Biblique]], reexamined the results of all previous surveys of the north-western escarpment of the Haram, of the archaeological studies of the sites owned by the Catholics in the area (Convent of the Sisters of Zion, [[Church of the Flagellation|Flagellation Monastery]] and [[Church of Saint Anne, Jerusalem|St Anne Convent]] of the [[White Fathers]]), as well as the digs north of the [[Struthion Pool]] area,<ref name="Benoit1971" /> and published in 1971 his conclusions: Archaeological investigation indicates that about a century after the presumed time of Jesus' death, this area was rebuilt as the eastern of two [[Roman Forum|forums]] belonging to the new city initiated by [[Hadrian]] in around 130 AD, the [[Aelia Capitolina]],<ref name="Benoit1971">{{cite journal |last= Benoit |first= Pierre |author-link= Pierre Benoit (archaeologist) |title= L'Antonia d'Hérode le Grand et le forum oriental d'Aelia Capitolina |journal=[[Harvard Theological Review]] |publisher= Cambridge University Press |location= Cambridge, U.K. |volume= 64 |issue= 2–3 |pages= 135–167 [155–156, 159–161] |year= 1971 |doi= 10.1017/S0017816000032478 |jstor= 1509294 |s2cid= 162902370 |issn= 0017-8160 |language= fr |url= http://www.jstor.org/stable/1509294 |access-date= 8 September 2020 |url-access= subscription }}</ref> and it is conceivable that following the destruction of the Antonia Fortress during the siege of 70 AD, its pavement tiles were reused at Hadrian's forum.<ref>{{cite web|url=http://www.jerusalemexperience.com/tour/ecce-homo-arch-notre-dame-de-sion-convent-via-dolorosa/|title=Ecce Homo Arch Video|website=Jerusalem Experience|year=2012}}</ref> However, he also considers the possibility that the pavement is from Hadrian's time altogether.<ref name="Benoit1971" /> The eastern forum of the Aelia Capitolina was built over the Struthion Pool, which was mentioned by Josephus as being adjacent to the fortress (Josephus, ''Jewish War'' 5:11:4).{{citation needed|date=June 2020}}
+
+===Praetorium at royal palace, not at Antonia===
+There are textual and archaeological arguments against the [[Pilate's court|trial of Jesus]] being carried out at the Antonia Fortress. Like [[Philo]], Josephus testifies that the Roman governors stayed in [[Herod's Palace (Jerusalem)|Herod's Palace]] while they were in Jerusalem,<ref>Benoit (1976), p. 87</ref> and carried out their trials on the pavement immediately outside it (Josephus, ''The Jewish War'', 2:14:8). Josephus indicates that Herod's Palace is on the Western Hill (''The'' ''Jewish War'', 5:2) and in 2001 some of its vestiges were rediscovered under a corner of the [[Tower of David]].<ref>Jacqueline Schaalje, "Israeli Archaeologists Discover Herod's Palace", The Jewish Magazine (October 2001).</ref> Archaeologists therefore conclude that in the first century, the ''praetorium''—the residence of the ''[[praefectus]]'' (governor)—was in the former royal palace on the Western Hill, rather than at the Antonia Fortress, on the opposite side of the city.<ref name="Benoit1971" /> However, as the tradition retained its power in associating the fortress with Jesus' trial, the place where it once stood serves as the starting point of the ''[[Via Dolorosa]]'' commemorating the [[crucifixion of Jesus]].
+
+===Two arguments for Antonia as the place of judgement===
+1. During the greatest pilgrimage feast, when hundreds of thousands came to the Temple, Pilate likely had to be with his garrison next to the Temple mount as a potential focus of the uprising, and certainly the favorite place of religious and national zealots who wished independence from Rome.<ref>{{cite web|url=https://dannythedigger.com/via-dolorosa/|title=The Via Dolorosa|website=Danny the Digger|year=2023}}</ref>
+
+2. According to Luke's Gospel ({{bibleverse-nb|Luke|23:6{{ndash}}13|ASV}}), Pilate found out that Christ was from Galilee, "and when he knew that he was of Herod's jurisdiction, he sent him unto Herod, who himself also was at Jerusalem in these days" (23:7). Herod Antipas, who came for the holiday from Galilee to Jerusalem, disappointed and angry because of Jesus’ silence, "sent him back to Pilate" (23:11), who then "called together the chief priests and the rulers and the people" (23:13). It seems that Pilate was not in Herod's castle. If the trial had taken place in Herod's castle, he could have simply asked Herod to come to the courtroom, as he summoned the chief priests and the leaders.<ref>{{cite web|url=https://www.holylandsite.com/via-dolorosa/|title=The Via Dolorosa|website=Holy Land Site|year=2023}}</ref>
+==Other theories==
+Some researchers and academics, including Marilyn Sams (M.A. in American Literature, Brigham Young University) and [[Robert Cornuke]] (Ph.D. in Bible and Theology, Louisiana Baptist University), have expanded on research by [[Ernest L. Martin]] (1932–2002, meteorologist, college professor, amateur archeologist), who offered evidence that the compound on what is commonly called the Temple Mount did not house the Jerusalem Temple, but is instead the remnants of a more massive Antonia Fortress, and that the rock inside the [[Dome of the Rock]] is not the [[Foundation Stone]], but was inside the [[Praetorium]] of [[Pontius Pilate]] where Jesus was judged.<ref name="Sams">{{cite journal |last= Sams |first= Marilyn |title= A Proposal for the Configuration of Solomon's Temple Mount |website= academia.edu |url= https://www.academia.edu/35235638 |access-date= 9 December 2020}}</ref>
+
+[[Jerome Murphy-O'Connor]], however, argued that this theory "cannot be sustained", as it cannot be reconciled with Josephus' description, and it "does not account for the archaeological remains in the western section of the north wall".<ref name="Connor">{{cite journal |last= Murphy-O'Connor |first= Jerome |author-link= Jerome Murphy-O'Connor |title= Where was the Antonia Fortress? |journal= Revue Biblique |pages= 78–89 |publisher=[[École Biblique]] |location= Jerusalem |volume= 111 |number= 1 |year= 2004 |jstor= 44824413 |url= https://www.jstor.org/stable/44824413 |access-date= 9 December 2020}}</ref> Josephus and archaeology don't leave much space for doubt in regard to the fact that the Temple Mount was indeed the site of the Herodian Temple, nor for the location of the Antonia near its north-western corner.<ref name="Connor" />[[File:P8170052.JPG|right|thumb|250px|Model of the fortress and the Tedi Gate (small gate with triangular top)]]
+
+Both Josephus and archaeology concur that the Roman military camp after the 70 AD destruction was centered on the [[Tower of David#Herod's towers|three towers]] next to [[Herod's Palace (Jerusalem)|Herod's royal palace]] on the Western Hill, and not on the Temple Mount, whose protective walls had been thrown down by the Romans, with the resulting debris visible until today along the [[Western Wall]] near [[Robinson's Arch]].<ref name="Connor" /> Roman military camps had rounded corners and four gates, one in each wall – the Herodian compound had angular corners and nine gates.<ref name="Connor" /> Permanent camps were much larger, 50 acres on average; the Haram esplanade only contains 36 acres.<ref name="Connor" /> There is no Roman camp explanation for the Hebrew inscription marking the [[Trumpeting Place inscription|Trumpeting Place]].<ref name="Connor" /> The Temple compound was surrounded by porticos (roofed [[colonnade]]s following the inner walls of the compound), while military camps never were.<ref name="Connor" /> Augustus trusted Herod and would not have built a controlling fortress towering over his capital and Temple, but no emperor would have gone so far as to entrust a legion to a client king.<ref name="Connor" />
+
+Remains of a 4-metre thick wall and Herodian-style [[ashlar]]s are still observable inside the [[Mamluk Egypt|Mamluk]] buildings in the north-west corner of the Haram and the adjacent area along its northern wall.<ref name=Connor/> Together they suggest the dimensions of the Antonia: 112 by 40 metres on the outside, signifying a 3300 square metre floor area, absolutely enough for a small garrison, but certainly not for the entire legion suggested by Martin.<ref name=Connor/>
+
+Antonia did stand on a rocky outcrop, as written by Josephus, but here, as elsewhere in his writings, he did exaggerate its elevation above the surrounding ground.<ref name=Connor/> This still meant that the fortress dominated the Temple courts and porticos, the latter by over ten metres, matching Josephus' words: "the tower of Antonia lay at the angle where the two porticos, the western and the northern, of the first court of the Temple met" ([[The Jewish War|JW]] 5:238), and "[a]t the point where the Antonia impinged on the porticos of the temple there were stairs leading down to both of them by which the guards descended" (JW 5:243; cf. {{bibleverse|Acts|21:40}}).<ref name=Connor/> The position and dimensions of those porticos can still be in part discerned, thanks to three surviving roof beam sockets carved out of the living rock of the rocky outcrop which once held the Antonia, north-west of the esplanade.<ref name=Connor/> Josephus' statement that all the porticos surrounding the Temple complex measured six stadia "including the Antonia" (JW 5:192) is off by a large margin (six stadia represent about 1.11&nbsp;km, whereas the sides of the Haram esplanade today measure together about 1.55&nbsp;km), but it clearly suggests that the fortress was contiguous with the Temple complex with no need for a "double causeway" to connect the two by spanning a distance of one ''[[stade (unit)|stade]]'' (c. 150 m), as claimed by Martin.<ref name=Connor/>
+
+==See also==
+*[[Bezetha]]
+*[[Convent of the Sisters of Zion|Church of Ecce Homo]]
+*[[Hasmonean Baris]]
+*[[Herodian architecture]]
+
+==References==
+'''Footnotes'''
+{{Notelist}}
+
+'''Citations'''
+{{Reflist|33em}}
+
+== Bibliography ==
+* {{Cite journal |last=Netzer |first=Ehud |author-link=Ehud Netzer |date=2007 |title=The Antonia—Its Initial Location and Form / איפה עמדה האנטוניה ומה הייתה צורתה? |url=https://www.jstor.org/stable/23630890 |journal=Eretz-Israel: Archaeological, Historical and Geographical Studies / ארץ-ישראל: מחקרים בידיעת הארץ ועתיקותיה |publisher=Israel Exploration Society |language=he |volume=28 |pages=134–143 |issn=0071-108X}}
+* {{Cite journal |last=Bahat |first=Dan |author-link=Dan Bahat |date=2015 |title="The Fortress Called Baris that Became the Antonia"? / "המצודה שבעבר נקראה באריס ולימים אנטוניה"? |url=https://www.jstor.org/stable/24433045 |journal=Eretz-Israel: Archaeological, Historical and Geographical Studies / ארץ-ישראל: מחקרים בידיעת הארץ ועתיקותיה |language=he |publisher=Israel Exploration Society |volume=31 |pages=12–19 |issn=0071-108X}}
+
+==External links==
+*{{Jewish Encyclopedia|article=Antonia|url=http://jewishencyclopedia.com/articles/1614-antonia|author=Lieut.-Col. Claude R. Conder}}
+
+{{Temple Mount}}
+{{Authority control}}
+{{Coord|31|46|48|N|35|14|03|E|region:IL_type:landmark_source:dewiki|display=title}}
+
+[[Category:19 BC]]
+[[Category:Buildings and structures completed in the 1st century BC]]
+[[Category:Establishments in the Herodian kingdom]]
+[[Category:Jews and Judaism in the Roman Empire]]
+[[Category:Ancient sites in Jerusalem]]
+[[Category:Archaeological sites in Israel]]
+[[Category:Architectural history]]
+[[Category:Former buildings and structures in Israel]]
+[[Category:Forts in Israel]]
+[[Category:Herod the Great]]
+[[Category:Ancient history of Jerusalem]]
+[[Category:Temple Mount]]
+[[Category:1st-century BC fortifications]]
+[[Category:Pontius Pilate]]

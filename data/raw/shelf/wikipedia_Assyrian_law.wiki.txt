@@ -1,0 +1,51 @@
+<!-- title: Assyrian law; revid: 1327692812; timestamp: 2025-12-15T18:54:42Z -->
+{{Short description|Ancient legal code}}
+'''Assyrian law''', also known as the '''Middle Assyrian Laws''' (MAL) or the '''Code of the Assyrians''', was an [[List of ancient legal codes|ancient legal code]] developed between 1450 and 1250 BCE in the [[Middle Assyrian Empire]].<ref name="Scholz 2021">{{Cite book |last=Scholz |first=Susanne |date=2021 |title=Sacred Witness. Rape in the Hebrew Bible |url=https://www.bol.com/nl/p/sacred-witness/9300000031495453/ |location= |publisher=Fortress Press |page= |isbn=9781506482033}} (E-book edition)</ref>{{rp|272}} It was very similar to [[Cuneiform law|Sumerian]] and [[Babylonian law]],<ref name="msn">[[Encarta]] (2007), s.v. [http://encarta.msn.com/encyclopedia_761564347/Assyria.html Assyria]. {{webarchive |url=https://web.archive.org/web/20091028030614/http://encarta.msn.com/encyclopedia_761564347/Assyria.html |date=2009-10-28 }} 2009-10-31.</ref> although the penalties for offenses were generally more brutal.<ref name="msn"/> The first copy of the code to come to light, dated to the reign of [[Tiglath-Pileser I]] (r. 	1114–1076 BCE), was discovered in the course of excavations by the [[Deutsche Orient-Gesellschaft|German Oriental Society]] (1903–1914).{{Citation needed|date=October 2007}} Three [[Assyria]]n law collections have been found to date.<ref name="msn"/> Punishments such as the [[cropping (punishment)|cropping]] of ears and noses was common, as it was in the [[Code of Hammurabi]], which was composed several centuries earlier.<ref>[https://www.varchive.org/tac/haredict.htm Haremhab’s Great Edict<!-- Bot generated title -->]</ref> Murder was punished by the family being allowed to decide the death penalty for the murderer.<ref>[https://istina.rin.ru/eng/ufo/text/299.html Crime and Punishment in the Ancient World of the Bible – Unexplained <!-- Bot generated title -->]</ref>
+
+== Conjectural laws ==
+The laws listed below are excerpts from the Code of the Assyrians. The list is incomplete due to some parts of the code being untranslatable or irrecoverable. The vast majority of the listed rules deal with sexual relations/encounters between men and women such as rape, and [[adultery]]. But some of the rules are concerned with divorce and domestic abuse. Much of Assyrian law revolves around [[lust]], [[sexual intercourse]], [[marriage]], and [[pregnancy]].<ref>{{Cite web|url=https://sourcebooks.fordham.edu/ancient/1075assyriancode.asp|title=Internet History Sourcebooks|website=sourcebooks.fordham.edu|access-date=2019-10-30}}</ref><ref>“Ch 31-The Middle Assyrian Law-Book about Women.” Women in the Ancient Near East, by Marten Stol et al., De Gruyter, 2016</ref><ref>{{Cite web|url=http://jewishchristianlit.com/Texts/ANElaws/midAssyrLaws.html|title=Middle Assyrian Law Code|website=jewishchristianlit.com|access-date=2019-10-30}}</ref><ref>{{Cite journal|last=Jastrow|first=Morris|date=1921|title=An Assyrian Law Code|journal=Journal of the American Oriental Society|volume=41|pages=1–59|doi=10.2307/593702|issn=0003-0279|jstor=593702}}</ref>
+
+# "If a woman, whether the wife of a man or the daughter of a man, utter vulgarity or indulge in low talk, that woman bears her own sin; against her husband, her sons, or her daughter they shall have no claim."
+# "If a woman bring her hand against a man, they shall prosecute her; 30 ''mines'' of lead shall she pay, 20 blows shall they inflict on her."
+# "If a woman in a quarrel injure the testicle of a man, one of her fingers they shall cut off. And if a physician bind it up and the other testicle which is beside it be infected thereby, or take harm; or in a quarrel she injure the other testicle, they shall destroy both of her eyes."
+# "If a man bring his hand against the wife of a man, treating her like a little child, and they prove it against him, and convict him, one of his fingers they shall cut off. If he kiss her, his lower lip with the blade of an axe they shall draw down and they shall cut off."
+# "If the wife of a man be walking on the highway, and a man seize her, say to her "I will surely have intercourse with you," if she be not willing and defend herself, and he seize her by force and rape her, whether they catch him upon the wife of a man, or whether at the word of the woman whom he has raped, the elders shall prosecute him, they shall put him to death. There is no punishment for the woman."
+# "If the wife of a man go out from her house and visit a man where he lives, and he have intercourse with her, knowing that she is a man's wife, the man and also the woman they shall put to death."
+# "If a man have intercourse with the wife of a man either in an inn or on the highway, knowing that she is a man's wife, according as the man, whose wife she is, orders to be done, they shall do to the adulterer. If not knowing that she is a man's wife he rapes her, the adulterer goes free. The man shall prosecute his wife, doing to her as he likes."
+# "If a man catch a man with his wife, both of them shall they put to death. If the husband of the woman put his wife to death, he shall also put the man to death. If he cut off the nose of his wife, he shall turn the man into a eunuch, and they shall disfigure the whole of his face."
+# "If a man have relations with the wife of a man at her wish, there is no penalty for that man. The man shall lay upon the woman, his wife, the penalty he wishes."
+# "If a man say to his companion, "They have had intercourse with they wife; I will prove it," and he be not able to prove it, and do not prove it, on that man they shall inflict forty blows, a month of days he shall perform the king's work, they shall mutilate him, and one talent of lead he shall pay."
+# "If a man have intercourse with his brother-in-arms, they shall turn him into a eunuch."
+# "If a man strike the daughter of a man and cause her to drop what is in her, they shall prosecute him, they shall convict him, two talants and thirty ''mines'' of lead shall he pay, fifty blows they shall inflict on him, one month shall he toil."
+# "If a woman be dwelling in the house of her father, and her husband have died, any gift which her husband settled upon her---if there be any sons of her husband's, they shall receive it. If there be no sons of her husband's she receives it."
+# "If a woman be dwelling in the house of father, but has been given to her husband, whether she has been taken to the house of her husband or not, all debts, misdemeanors, and crimes of her husband shall she bear as if she too committed them. Likewise if she be dwelling with her husband, all crimes of his shall she bear as well."
+# "If a woman, who is a widow, enter into the house of a man, whatsoever she brings with her---all is her husband's. But if a man enter in to a woman, whatsoever he brings---all is the woman's."
+# "If a man divorce his wife, if he wish, he may give her something; if he does not wish, he need not give her anything. Empty shall she go out."
+# "If the wives of a man, or the daughters of a man go out into the street, their heads are to be veiled. The prostitute is not to be veiled. Maidservants are not to veil themselves. Veiled harlots and maidservants shall have their garments seized and 50 blows inflicted on them and bitumen poured on their heads."
+# "If a woman whose husband is dead on the death of her husband do not go out from her house, if her husband did not leave her anything, she shall dwell in the house of one of her sons. The sons of her husband shall support her; her food and her drink, as for a fiancee whom they are courting, they shall agree to provide for her. If she be a second wife, and have no sons of her own, with one of her husband's sons she shall dwell and the group shall support her. If she have sons of her own, her own sons shall support her, and she shall do their work. But if there be one among the sons of her husband who marries her, the other sons need not support her."
+# "If a man or a woman practice sorcery, and they be caught with it in their hands, they shall prosecute them, they shall convict them. The practicer of magic they shall put to death."
+# "If a man strike the wife of a man, in her first stage of pregnancy, and cause her to drop that which is in her, it is a crime; two talants of lead he shall pay."
+# "If a man strike a harlot and cause her to drop that which is in her, blows for blows they shall lay upon him; he shall make restitution for a life."
+# "If a woman of her own accord drop that which is in her, they shall prosecute her, they shall convict her, they shall crucify her, they shall not bury her. If she die from dropping that which is in her, they shall crucify her, they shall not bury her."
+# "If a virgin of her own accord give herself to a man, the man shall take oath, against his wife they shall not draw nigh. Threefold the price of a virgin the ravisher shall pay. The father shall do with his daughter what he pleases."
+# "In the case of every crime for which there is the penalty of the cutting-off of ear or nose or ruining or reputation or condition, as it is written it shall be carried out."
+# "Unless it is forbidden in the tablets, a man may strike his wife, pull her hair, her ear he may bruise or pierce. He commits no misdeed thereby."
+
+==See also==
+{{Portal|Law|Asia}}
+*[[List of ancient legal codes]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite book|first=C. H. W.|last=Johns|authorlink=Claude Hermann Walter Johns|year=1904|title=Babylonian and Assyrian Laws, Contracts and Letters|url=https://archive.org/details/in.ernet.dli.2015.89042|location=New York|publisher=Charles Scribner’s Sons}}
+* M. Roth, ''Law Collections from Mesopotamia and Asia Minor'', Atlanta, 1997, p.&nbsp;153-194
+
+==External links==
+*[https://www.fordham.edu/halsall/ancient/1075assyriancode.html The Code of the Assura, circa 1075 BCE (excerpts)]
+*[https://books.google.com/books?id=NNgR7RjfSs0C&dq=assyrian+law&pg=PA243 The Origin And History Of Hebrew Law]
+<!--http://www.jstor.org/stable/528143 if you have JSTOR access, this can be of use-->
+
+[[Category:Ancient Near East law]]
+[[Category:Neo-Assyrian Empire|Law]]

@@ -1,0 +1,38 @@
+<!-- title: Uzzah; revid: 1335088094; timestamp: 2026-01-27T07:13:46Z -->
+{{Short description|Biblical figure who died from touching the Ark of the Covenant}}
+{{For|the pre-Islamic goddess|Al-Uzza}}
+[[File:TissUzah.jpg|thumb|right|250px|''The Chastisement of Uzzah'' by [[James Tissot]] ]]
+[[File:Giulio Quaglio the Younger - Uzaj, ki se je dotaknil skrinje zaveze in za kazen umrl.jpg|thumb|250px|Baroque painting of the death of Uzzah by [[Giulio Quaglio the Younger]] in a medallion in [[Ljubljana Cathedral]] (1704)]]
+'''Uzzah''' (also spelled '''Uzza''' from [[Hebrew language|hebr.]]: עזה, meaning "Her Strength"), was an [[Israelite]] whose death is associated with touching the [[Ark of the Covenant]]. The account of Uzzah appears in {{bibleverse|2 Samuel|6:3-8}} and {{bibleverse|1 Chronicles|13:7-11}}.
+
+Uzzah was the son of [[Abinadab]], in whose house the men of [[Kirjath-Jearim]] placed the Ark when it was brought back from the land of the [[Philistines]].<ref>{{bibleverse|1|Samuel|7:1|131}}</ref> With his brother [[Ahio]], he drove the cart on which the Ark was placed when [[David]] sought to bring it up to [[Jerusalem]]. When the [[ox]]en stumbled at the [[threshing floor]] of Chidon, making the Ark tilt,<ref>1 Chronicles 13:9 in the [[Jerusalem Bible]]</ref> Uzzah steadied the Ark with his hand, in direct violation of the divine law,<ref>{{bibleverse||Numbers|4:15|131}}</ref> and he was immediately killed by the Lord for his error. David, displeased because [[Yahweh]] had killed Uzzah,<ref name="auto">{{cite web |url=http://www.bibler.org/glossary/uzza.html |title=www.Bibler.org - Dictionary - Uzzah |date=2012-06-06}}</ref> called the place where this occurred "Perez-uzzah", which means "to burst out against Uzzah".<ref>{{bibleverse|2|Samuel|6:8|NLT}} and {{bibleverse|1|Chronicles|13:11|NLT}}, wording used by the [[New Living Translation]]</ref>
+
+David was afraid to bring the Ark any further, and placed it in the house of [[Obed-Edom]] ({{bibleverse|2|Samuel|6:2-11|131}}; {{bibleverse|1|Chronicles|13:6-13|131}}) for three months. As the Lord blessed Obed-edom, David finally brought the Ark up into the city.<ref name="auto"/>
+
+==Rabbanic Literature==
+Rabbis have long made various attempts to explain and palliate the death of Uzzah. By an ''[[A majore ad minus|argumentum a majore ad minus]],'' proof is offered that if the Ark could bear those who bore it, so much more could it bear itself. By not perceiving this, and thinking that the Ark might be prevented from falling by stopping the oxen, Uzzah had brought death on himself. 
+
+R. Johanan thought that "''<nowiki/>'al ha-shal''" implied that he died as a result of his act, while R. Eleazar drew from "''shal''" the inference stated that he died "by" the Ark; and as the latter belonged to eternity, Uzzah in like manner must be immortal (Sotah 35a; Yalk., I Sam. 142, ed. Wilna, 1898.)<ref>[https://www.jewishencyclopedia.com/articles/14621-uzza-uzzah UZZA, UZZAH "Jewish Encyclopedia"]</ref>
+
+== Other ==
+* A different Uzzah was the son of [[Shimei]] and a [[Merarite]].<ref>{{cite web |url=http://www.bibler.org/versions/american_standard/asv_1chronicles06_sml.htm#1chronicles_6:29 |title=1 Chronicles 6:29 |date=2012-06-06}}</ref>
+
+== References ==
+{{Wikiquote}}
+{{reflist}}
+*{{EBD|title=Uzzah}}
+
+{{Ark of the Covenant}}
+{{Authority control}}
+
+[[Category:People from the Kingdom of Israel (united monarchy)]]
+[[Category:Targeted killing]]
+[[Category:Place of birth unknown]]
+[[Category:Year of birth unknown]]
+[[Category:10th-century BC deaths]]
+[[Category:Israelites]]
+[[Category:Ark of the Covenant]]
+[[Category:Books of Chronicles people]]
+
+
+{{Hebrew-Bible-stub}}

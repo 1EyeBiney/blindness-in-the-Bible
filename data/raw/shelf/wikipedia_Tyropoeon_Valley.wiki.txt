@@ -1,0 +1,34 @@
+<!-- title: Tyropoeon Valley; revid: 1350021426; timestamp: 2026-04-19T22:56:17Z -->
+{{Short description|Valley in Jerusalem}}
+
+[[File:Jerusalem_map,_DA_Randall,_1862.png|thumb|right|1862 map of Jerusalem showing the Valley of Tyropoeon]]
+
+'''Tyropoeon Valley''' (Greek: {{Lang|grc|φάραγξ τῶν τυροποιῶν}} {{Lang|grc-latn|pharanx tōn tyropoiōn}} i.e., "Valley of the [[Cheese]]makers" or "Cheesemongers") is the name given by the first-century Jewish-Roman historian [[Josephus]] ([http://www.perseus.tufts.edu/hopper/text?doc=J.+BJ+5.4.1.&fromdoc=Perseus%3Atext%3A1999.01.0148 Wars 5.140]) to the [[valley]] or rugged [[ravine]], which in his times separated [[Old City of Jerusalem|Jerusalem]]'s [[Temple Mount]] (Mount Moriah) from the Western Hill or [[Mount Zion]], and emptied into the valley of [[Hinnom]].<ref>''[[Easton's Bible Dictionary]]'' (1897),  [https://en.m.wikisource.org/wiki/Easton%27s_Bible_Dictionary_(1897)/Tyropoeon_Valley Tyropoeon Valley]. Accessed 5 January 2024.</ref> In modern scholarly terms it is also known as the '''central valley/Central Valley''' of Jerusalem.<ref name=JL>Lipnick, Jonathan (May 31, 2018). [https://blog.israelbiblicalstudies.com/holy-land-studies/cheesemakers/ What's So Special About The Cheesemakers?], Israel Institute of Biblical Studies. Accessed 5 January 2024.</ref>
+
+== Names, etymology ==
+In the ancient [[Copper Scroll]] this valley is called in Hebrew the '''Outer Valley''' (3Q15 col.8, line 4).{{cn|date= January 2024}}
+
+The name used by Josephus, {{Lang|grc|των τυροποιων}} ({{Lang|grc-latn|tōn tyropoiōn}}), possibly arose as an ancient mistranslation from [[Hebrew (language)|Hebrew]] to the [[Greek (language)|Greek]] of Josephus's book{{dubious|Josephus wrote it directly in Greek. Either he, or others before him made the mistake, not any presumtive translators. |date= January 2024}}; [[Semitic languages]] use the same [[root (linguistics)|root]] for ''outer'' and ''congeal''.{{cn|date= January 2024}}
+
+==Description, history==
+The Tyropoeon, filled over the centuries with a vast accumulation of debris, and almost a plain, was spanned by bridges, the most noted of which was [[Zion]] Bridge, which was probably the ordinary means of communication between the royal palace on Zion and the [[Temple in Jerusalem|temple]].<ref>Easton's (1897)</ref>
+
+The [[Western Wall]] of the [[Temple Mount]] rose up from the bottom of this valley to the height of 84 feet, where it was on a level with the area, and above this, and as a continuance of it, the wall of [[Solomon]]'s cloister rose to the height of about 50 feet, "so that this section of the wall would originally present to view a stupendous mass of masonry scarcely to be surpassed by any mural masonry in the world."<ref>Easton's (1897)</ref>
+
+==See also==
+*[[Geography of Israel]]
+
+==References==
+{{Reflist}}
+*{{EBD|title=Tyropoeon Valley}}
+
+{{Authority control}}
+{{coord|31|46|37.01|N|35|14|3.26|E|display=title}}
+
+[[Category:Ancient Israel and Judah]]
+[[Category:Geography of Jerusalem]]
+[[Category:Hebrew Bible valleys]]
+
+
+{{Israel-geo-stub}}
+{{Hebrew-Bible-geo-stub}}

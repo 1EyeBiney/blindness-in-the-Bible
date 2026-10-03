@@ -1,0 +1,126 @@
+<!-- title: Code of Ur-Nammu; revid: 1373810185; timestamp: 2026-09-08T02:07:16Z -->
+{{Short description|Oldest surviving law code, from Mesopotamia}}
+{{Infobox document
+|document_name=Code of Ur-Nammu
+|image=Ur Nammu code Istanbul.jpg
+|image_caption= The first known version of the code in its current location
+|date_created= {{Circa|2100 BC}}
+|date_ratified=
+|location_of_document=[[Istanbul Archaeology Museums]] (Ni.3191) (originally [[Nippur]], [[Mesopotamia]] 
+ (modern-day [[Iraq]]))
+|writer=[[Ur-Nammu]] 
+|signers=
+|purpose=Legal code
+}}
+The '''Code of Ur-Nammu''' is the oldest known surviving [[law code]]. It is from [[Mesopotamia]] and is written on tablets, in the [[Sumerian language]]. It contains strong statements of royal power like "I eliminated enmity, violence, and cries for justice."<ref>Cos II:409 Laws of Ur-Namma</ref>
+
+Ur-Nammu's codes and reforms have been seen as some of the earliest documented cases of regard for [[Widow|widows]], [[Orphan|orphans]], and the poor in the [[Fertile Crescent]].<ref>{{Cite book |last=Roth |first=Martha T. |url=https://books.google.co.tz/books/about/Law_Collections_from_Mesopotamia_and_Asi.html?id=SEhEEQAAQBAJ&redir_esc=y |title=Law Collections from Mesopotamia and Asia Minor |date=1997-01-15 |publisher=SBL Press |isbn=978-1-62837-477-3 |pages=16 |language=en |quote=I did not deliver the orphan to the rich. I did not deliver the widow to the mighty. I did not deliver the man with but one shekel to the man with one mina. I did not deliver the man with but one sheep to the man with one ox.}}</ref><ref>{{Cite journal |last=Kramer |first=S. N. |date=1954 |title=Ur-Nammu Law Code |url=https://www.jstor.org/stable/43073169 |journal=Orientalia |volume=23 |issue=1 |pages=40–51 |issn=0030-5367 |quote=Finally, in line with a social conscience developed in Sumer over the centuries, he saw to it that the orphan, the widow, and the poor were protected from ill treatment and abuse.}}</ref> 
+
+==Discovery==
+The first recension of the code (Ni 3191), an Old Babylonian period copy in two fragments found at [[Nippur]], in what is now [[Iraq]], was translated by [[Samuel Noah Kramer|Samuel Kramer]] in 1952.{{Sfn|Kramer|1954}} These fragments are held at the [[Istanbul Archaeology Museums]]. Owing to its partial preservation, only the long prologue and five of the laws were discernible.{{Sfn|Kramer|1956|pp=93–94}} Kramer noted that luck was involved in the discovery:{{Sfn|Kramer|1956|pp=92–93}}
+
+{{Blockquote|In all probability I would have missed the Ur-Nammu tablet altogether had it not been for an opportune letter from F. R. Kraus, now Professor of [[Cuneiform]] Studies at the [[University of Leiden]] in Holland&nbsp;... His letter said that some years ago, in the course of his duties as curator in the Istanbul Museum, he had come upon two fragments of a tablet inscribed with Sumerian laws, had made a "join" of the two pieces, and had catalogued the resulting tablet as No. 3191 of the Nippur collection of the Museum&nbsp;... Since Sumerian law tablets are extremely rare, I had No. 3191 brought to my working table at once. There it lay, a sun-baked tablet, light brown in color, 20 by 10 centimeters in size. More than half of the writing was destroyed, and what was preserved seemed at first hopelessly unintelligible. But after several days of concentrated study, its contents began to become clear and take shape, and I realized with no little excitement that what I held in my hand was a copy of the oldest law code as yet known to man.|author=[[Samuel Kramer]]|title=History begins at Sumer}}
+
+Two further Old Babylonian period tablet fragments (IM 85688+85689) now held at [[Iraq Museum]] in [[Baghdad]], with no prologue or concluding formula, were found in [[Ur]] and translated in 1965, allowing some 30 of the 57 laws to be reconstructed. Two Old Babylonian period exemplars were found in [[Sippar]]. One (Si 277), held at the Istanbul Museum, bears the prologue and lines 125-79.{{Sfn|Yildiz|1981}} The other (BM 54722+), held at the [[British Museum]], bears the laws and part of the concluding formula.{{Sfn|Gurney|Kramer|1965}}{{Sfn|Frayne|1997}}
+A clay cylinder (MS 2064) of unknown origin and provenance contains 8 (of 10) columns at least partially preserved. It has been dated to the Ur III period and is held in the [[Schoyen Collection]].<ref>{{Cite book |last=Civil |first=Miguel |title=Cuneiform Royal Inscriptions and Related Texts in the Schøyen Collection |publisher=CDL Press |year=2011 |isbn=9781934309339 |editor-last=George |editor-first=Andrew R. |editor-link=Andrew R. George |location=Bethesda, Maryland |pages=221–286 |chapter=The Law Collection of Ur-Namma}}</ref><ref>{{Cite book |last=Wilcke |first=Claus |editor-first1=Natalia |editor-first2=E. |editor-first3=Gabor |editor-last1=Koslova |editor-last2=Vizirova |editor-last3=Zólyomi |title=Studies in Sumerian Language and Literature: Festschrift Joachim Krecher |publisher=Penn State University Press |year=2014 |series=Babel und Bibel |volume=8 |pages=455–616 |language=de |chapter=Gesetze in sumerischer Sprache |doi=10.1515/9781575063553 |jstor=10.5325/j.ctv1bxh3kh |isbn=9781575063553 |chapter-url=https://doi.org/10.1515/9781575063553-019}}</ref><ref>[https://cdli.earth/P250820 "RIME 3/2.01.01.20, Ex. Add06 Artifact Entry (2004)", Cuneiform Digital Library Initiative (CDLI), September 11, 2024]</ref>
+
+==Background==
+[[File:Sumerian Cylinder Seal of King Ur-Nammu.jpg|thumb|The Sumerian King [[Ur-Nammu]] (seated), the creator of the Code of Ur-Nammu, bestows governorship on Ḫašḫamer, ''[[Ensí|ensi]]'' of Iškun-Sin (cylinder seal impression, c. 2100 BC)<ref>Verderame, Lorenzo, "The Seal of Hašhamer, Iškun-Sîn, and Ur III Kingdom’s Early Development", DUBSAR, pp. 59-72, 2025</ref>]]
+The preface directly credits the laws to king [[Ur-Nammu]] of Ur (2112–2095 BC). The author who had the laws written onto cuneiform tablets is still somewhat under dispute.{{sfn|Kramer|1983}} Some scholars have attributed it to Ur-Nammu's son [[Shulgi]].{{Sfn|Kramer|1983}}
+
+Although it is known that earlier law-codes existed, such as the Code of [[Urukagina]], this represents the earliest extant legal text. It is three centuries older than the [[Code of Hammurabi]]. The laws are arranged in [[casuistic]] form of IF (crime) THEN (punishment)—a pattern followed in nearly all later codes. It institutes fines of monetary [[damages|compensation]] for bodily damage as opposed to the later ''[[lex talionis]]'' ('eye for an eye') principle of [[Babylonian law|Babylonian]] law. However, [[murder]], [[robbery]], [[adultery]] and [[rape]] were [[capital offense]]s.
+
+The code reveals a glimpse at societal structure during [[Third Dynasty of Ur|Ur's Third Dynasty]]. Beneath the ''[[lugal]]'' ("great man" or king), all members of society belonged to one of two basic strata: the ''lu'' or free person, or the slave (male: ''arad''; female: ''geme''). The son of a ''lu'' was called a ''dumu-nita'' until he [[marriage|married]], becoming a "young man" (''gurus''). A woman (''munus'') went from being a daughter (''dumu-mi'') to a wife (''dam''), then if she outlived her [[husband]], a widow (''nu-ma-su''), who could remarry.
+
+In one section, regarding slaves, ur-Nammu contrasts law under Gutian rule with the new law implemented
+by Ur-Nammu at the beginning of his rule.<ref>Badamchi, Hossein, "The Burden of Proof in Neo-Sumerian Law: A New Look at the Gutian Period in Codex Ur-Namma", Journal of Near Eastern Studies 84.2, pp. 315-332, 2025</ref>
+
+==Content==
+The prologue, typical of Mesopotamian law codes, invokes the deities for Ur-Nammu's kingship, [[Nanna (Sumerian deity)|Nanna]] and [[Utu]], and decrees "equity in the land".
+{{Blockquote|... After [[Anu|An]] and [[Enlil]] had turned over the Kingship of Ur to Nanna, at that time did Ur-Nammu, son born of [[Ninsun]], for his beloved mother who bore him, in accordance with his principles of equity and truth&nbsp;... Then did Ur-Nammu the mighty warrior, king of Ur, king of [[Sumer]] and [[Akkadian Empire|Akkad]], by the might of Nanna, lord of the city, and in accordance with the true word of [[Utu]], establish equity in the land; he banished malediction, violence and strife, and set the monthly Temple expenses at 90 [[gur (unit)|''gur'']] of barley, 30 sheep, and 30 [[sila (unit)|''sila'']] of butter. He fashioned the [[bronze]] sila-measure, standardized the one-[[mina (unit)|mina]] weight, and standardized the stone weight of a [[shekel]] of silver in relation to one mina&nbsp;... The orphan was not delivered up to the rich man; the widow was not delivered up to the mighty man; the man of one shekel was not delivered up to the man of one mina.}}
+
+One [[Mina (unit)|mina]] ({{frac|60}} of a [[Talent (measurement)|talent]]) was made equal to 60 [[shekel]]s (1 shekel = 8.3 [[gram]]s, or 0.3 oz).
+
+===Surviving laws===
+Among the surviving laws are these:{{Sfn|Roth|1995|pp=13–22}}
+
+{{ordered list
+| If a man commits a [[murder]], that man must [[capital punishment|be killed]].
+| If a man commits a [[robbery]], he will be killed.
+| If a man commits a [[kidnapping]], he is to be imprisoned and pay 15 shekels of silver.
+| If a [[slavery in the Ancient Near East|slave]] marries a slave, and that slave is set free, he does not leave the household.{{Efn|A slave who has married (and presumably will soon have children) cannot be set free and forced to leave the household so that the owner can save themselves the expense of supporting the slave's family. Slaves needed the consent of their masters to marry, so this ensured they were not just turned out: even if they were now a freedman, they were still members of the household and they and their family had to be supported by it.{{Sfn|Barton|1920}}}}
+| If a slave marries a native [i.e. free] person, he/she is to hand the firstborn son over to his owner.
+| If a man violates the right of another and deflowers the virgin wife of a young man, they shall kill that male.
+| If the wife of a man followed after another man and he slept with her, they shall slay that woman, but that male shall be set free. [§4 in some translations]
+| If a man proceeded by force, and deflowered the virgin female slave of another man, that man must pay five shekels of silver. (5)
+| If a man divorces his first-time wife, he shall pay (her) one mina of silver. (6)
+| If it is a (former) widow whom he divorces, he shall pay (her) half a mina of silver. (7)
+| If the man had slept with the widow without there having been any marriage contract, he need not pay any silver. (8)
+|item12_value=13| If a man is accused of sorcery [''translation disputed''], he must undergo [[Trial by ordeal#By water|ordeal by water]]; if he is proven innocent, his accuser must pay 3 shekels. (10){{Sfn|Kramer|1954|p=40}}{{Efn|Differing interpretations of this trial avail in {{Harvnb|Finkelstein|1968}}, {{Harvnb|Yildiz|1981}} and Sauren 1990.}}
+| If a man accused the wife of a man of [[adultery]], and the river ordeal proved her innocent, then the man who had accused her must pay one-third of a mina of silver. (11)
+| If a prospective son-in-law enters the house of his prospective father-in-law, but his father-in-law later gives his daughter to another man, the father-in-law shall return to the rejected son-in-law twofold the amount of bridal presents he had brought. (12)
+| If [''text destroyed''], he shall weigh and deliver to him 2 shekels of silver.
+| If a slave escapes from the city limits, and someone returns him, the owner shall pay two shekels to the one who returned him. (14)
+| If a man knocks out the eye of another man, he shall weigh out half a mina of silver. (15)
+| If a man has cut off another man's foot, he is to pay ten shekels. (16)
+| If a man, in the course of a scuffle, smashed the limb of another man with a club, he shall pay one mina of silver. (17)
+| If someone severed the nose of another man with a copper knife, he must pay two-thirds of a mina of silver. (18)
+| If a man knocks out a tooth of another man, he shall pay two shekels of silver. (19)
+|item22_value=24| [''text destroyed''] If he does not have a slave, he is to pay 10 shekels of silver. If he does not have silver, he is to give another thing that belongs to him. (21){{Efn|This presumably relates to a freeman killing another man's slave, as a slave is the preferred fine above a simple payment in silver, building on the trend in laws 31 and 32 for payment in kind for certain offences. The fact that the fine in silver is equivalent to cutting off a free man's foot also seems to suggest this.}}
+| If a man's slave-woman, comparing herself to her mistress, speaks insolently to her, her mouth shall be scoured with 1 quart of salt. (22)
+| If a slave woman strikes someone acting with the authority of her mistress, [''text destroyed'']
+|item25_value=28| If a man appeared as a witness, and was shown to be a [[perjury|perjurer]], he must pay fifteen shekels of silver. (25)
+| If a man appears as a witness, but withdraws his oath, he must make payment, to the extent of the value in litigation of the case. (26)
+| If a man stealthily cultivates the field of another man and he raises a complaint, this is however to be rejected, and this man will lose his expenses. (27)
+| If a man flooded the field of a man with water, he shall measure out three ''kur'' of barley per ''iku'' of field. (28)
+| If a man had let an arable field to a(nother) man for cultivation, but he did not cultivate it, turning it into wasteland, he shall measure out three ''kur'' of barley per ''iku'' of field. (29)
+}}
+
+==See also==
+{{Portal|Law}}
+* [[Cuneiform law]]
+* [[Code of Hammurabi]]
+* [[List of ancient legal codes]]
+* [[List of inscriptions in biblical archaeology]]
+* [[Ancient Mesopotamian units of measurement]]
+
+==References==
+=== Notes ===
+{{Notelist}}
+
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+* {{Cite journal |last=Barton |first=George A. |year=1920 |title=An Important Social Law of the Ancient Babylonians—A Text Hitherto Misunderstood |journal=The American Journal of Semitic Languages and Literatures |volume=37 |issue=1 |pages=62–71 |doi=10.1086/369917 |jstor=528363}}
+* {{Cite journal |last=Finkelstein |first=Jacob J. |year=1968 |title=The Laws of Ur-Nammu |journal=[[Journal of Cuneiform Studies]] |volume=22 |issue=3–4 |pages=66–82|doi=10.2307/1359121 |jstor=1359121 }}
+* {{Cite book |last=Frayne |first=Douglas |url= |title=Ur III Period (2112-2004 BC) |publisher=University of Toronto Press |year=1997 |isbn=978-1-4426-5706-9 |pages=5–90 |chapter=Ur-Nammu E3/2.1.1 |doi=10.3138/9781442657069}}
+* {{Cite journal |last1=Gurney |first1=O. R. |last2=Kramer |first2=Samuel Noah |author-link2=Samuel Noah Kramer |date=1965 |title=Two Fragments of Sumerian Laws |url=https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/as16.pdf |journal=Assyriological Studies |volume=16 |pages=13–19}}
+* {{Cite journal |last=Kramer |first=Samuel Noah |date=1954 |title=Ur-Nammu Law Code |journal=Orientalia |volume=23 |issue=1 |pages=40–51 |jstor=43073169|author-link=Samuel Noah Kramer}}
+* {{Cite book |last=Kramer |first=Samuel Noah | title=History begins at Sumer|date=1956|url=https://archive.org/details/in.gov.ignca.15629|publisher=Thames & Hudson|location=London|author-link=Samuel Noah Kramer}}
+* {{Cite journal |last=Kramer |first=Samuel Noah |author-link=Samuel Noah Kramer |year=1983 |title=The Ur-Nammu Law Code: Who Was Its Author? |journal=Orientalia |volume=52 |issue=4 |pages=453–56 |jstor=43075250}}
+* {{Cite book |last=Roth |first=Martha T. |title=Law Collections from Mesopotamia and Asia Minor |year=1995 |isbn=9780788503788 |series=Writings from the Ancient World |volume=6|url=https://archive.org/details/lawcollectionsfr0000roth}}
+* {{Cite journal |last=Yildiz |first=Fatma |year=1981 |title=A Tablet of Codex Ur-Nammu from Sippar |journal=Orientalia |volume=50 |issue=1 |pages=87–97 |jstor=43075013}}
+
+==Further reading==
+* {{Cite journal |last=Badamchi |first=Hossein |year=2017 |title=Usurpation of Agricultural Land and Codex Ur-Namma, 39 |journal=Akkadica |volume=138 |issue=2 |pages=81–188}}
+* {{Cite journal| last1 = Feenstra | first1 = O. | last2 = Roll | first2 = P. | last3 = Seybold | first3 = I. | year = 1991 | title = The Austrian penal code and the Codex Ur-nammu--a comparison from the forensic medicine viewpoint | pages = 289–295 | volume = 49 |journal=Beiträge zur Gerichtlichen Medizin| pmid = 1811511 }}
+* {{Cite book |last=Wilcke |first=Claus |title=Riches Hidden in Secret Places: Ancient Near Eastern Studies in Memory of Thorkild Jacobsen |publisher=Penn State University Press |year=2002 |isbn=9781575065335 |editor-last=Abusch |editor-first=Tzvi |language=de |chapter=Der Kodex Urnamma (CU): Versuch einer Rekonstruktion |doi=10.1515/9781575065335 |jstor=10.5325/j.ctv1bxh4wn |chapter-url=https://doi.org/10.1515/9781575065335-022}}
+* {{Cite journal |last=Szlechter |first=Émile |year=1953 |title=A propos du Code d'Ur-nammu |journal=Revue d'assyriologie et d'archéologie orientale |language=fr |volume=47 |issue=1 |pages=1–10 |jstor=23295406}}
+* {{Cite journal |last=Szlechter |first=Émile |year=1955 |title=Le Code d'Ur-Nnamu |journal=Revue d'assyriologie et d'archéologie orientale |language=fr |volume=49 |issue=4 |pages=169–177 |jstor=23295601}}
+
+==External links==
+* [https://cdli.mpiwg-berlin.mpg.de/artifacts/226319 Digital Ur recension at CDLI]
+* [https://cdli.mpiwg-berlin.mpg.de/artifacts/226580 Digital Nippur recension at CDLI]
+* [https://cdli.mpiwg-berlin.mpg.de/artifacts/226588 Digital Sippar recension Si 0277 at CDLI]
+* [https://cdli.mpiwg-berlin.mpg.de/search?museum_no=BM++54722 Digital Sippar recenion BM 54722+ at CDLI]
+*[https://www.schoyencollection.com/law/sumerian/ur-nammu-ms-2064 MS 2064 - Schoyen Collection]
+
+{{DEFAULTSORT:Code Of Ur-Nammu}}
+[[Category:22nd-century BC literature]]
+[[Category:21st-century BC literature]]
+[[Category:Legal codes]]
+[[Category:Sumer]]
+[[Category:Codes of conduct]]
+[[Category:Ancient Near East law]]
+[[Category:Sumerian texts]]

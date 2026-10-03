@@ -248,7 +248,7 @@ def by_section(section: str) -> list[dict]:
 import json as _json
 from pathlib import Path as _Path
 
-for _name in ("law_and_life.json", "followups.json"):
+for _name in ("law_and_life.json", "followups.json", "law_questions.json"):
     _f = _Path(__file__).resolve().parents[1] / "data" / "reference" / _name
     if _f.exists():
         _extra = _json.loads(_f.read_text(encoding="utf-8"))

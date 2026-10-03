@@ -1,0 +1,112 @@
+<!-- title: Didymus the Blind; revid: 1340265706; timestamp: 2026-02-24T20:04:39Z -->
+{{Short description|4th century Alexandrian Christian theologian}}
+{{Infobox saint
+|honorific_prefix=[[Saint]] 
+|name=Didymus the Blind
+|birth_date=c. 313
+|death_date=c. 398
+|feast_day=6 [[Paoni]] ([[Coptic Church]])<ref>{{cite web | url=https://theartoforthodoxy.com/2022/06/16/st-didymus-the-blind-author-ascetic-theologian-dean-polymath/ | title=St Didymus the blind: Author, ascetic, theologian, dean & polymath | date=16 June 2022 }}</ref>
+|venerated_in=[[Coptic Orthodoxy]] <br /> [[Syriac Orthodoxy]]
+|image= Didymus the blind.jpg
+|imagesize= 225px
+|caption=''Saint Didymus the Blind''
+|birth_place= 
+|death_place= 
+|titles= Dean of the Theological School of Alexandria
+|beatified_date= 
+|beatified_place= 
+|beatified_by= 
+|canonized_date= 
+|canonized_place= 
+|canonized_by= Popular Recognition 
+|attributes=
+|patronage= The [[blindness|Blind]]
+|major_shrine= 
+|suppressed_date= 
+|issues= 
+|prayer= 
+|prayer_attrib= 
+}}
+
+'''Didymus the Blind''' ([[Coptic language|Coptic]]: {{Lang|cop|Ⲇⲓⲇⲩⲙⲟⲥ Ⲡⲓⲃⲉⲗⲗⲉ}}; {{circa|313}}{{snd}}398) was a [[Christianity|Christian]] [[theologian]] in the Church of [[Alexandria]], where he taught for about half a century. He was a student of [[Origen]], and, after the [[Second Council of Constantinople]] condemned Origen, Didymus's works were not copied. Many of his writings are lost, but some of his commentaries and essays survive. He was seen as intelligent and a good teacher.<ref name=Young/>{{rp|101}}
+
+==Early life and education==
+Didymus became blind at the age of four, before he had learned to read.<ref name="Young"/> He was a loyal follower of [[Origen]],<ref name="Oxford"/> and opposed [[Arian]] and [[Pneumatomachi|Macedonian]] teachings.<ref>{{EB1911|inline=1 |wstitle=Didymus |volume=8 |page=208}}</ref>
+
+Despite his blindness, Didymus excelled in scholarship because of his incredible memory. He found ways to help blind people to read, experimenting with carved wooden letters similar to [[Braille]] systems used by the blind today.<ref>{{cite journal| first1= John |last1= Lascaratos |first2= Spyros |last2= Marketos| title= Didymus the Blind: An unknown precursor of Louis Braille and Helen Keller| journal= Documenta Ophthalmologica |number=86| pages= 203–208| year= 1994 |volume= 86 |doi= 10.1007/BF01203564 |pmid= 7995235|s2cid= 2404500 }}</ref> He recalled and contemplated information while others slept.<ref name=Young/>
+
+==Teacher in Alexandria==
+According to Rufinus, Didymus was "a teacher in the Church school", who was "approved by Bishop Athanasius" and other learned churchmen. Later scholars believed he was the head of the [[Catechetical School of Alexandria]]. However, the Catechetical School of Alexandria may not have existed in Didymus' time, and Rufinus may have been referring to a different school.<ref name= Young>{{cite book|last1=Young|first1=Frances M.|last2=Teal|first2=Andrew|title=From Nicaea to Chalcedon: a guide to the literature and its background|date=2010|publisher=SCM Press| location= London| isbn= 9780334029939|edition=2nd|pages=91–101|chapter=Didymus the Blind}}</ref> Didymus remained a layman all his life and became one of the most learned ascetics of his time.<ref name=Brit>{{cite web| title=Didymus The Blind|url=https://www.britannica.com/biography/Didymus-the-Blind|website=Encyclopedia Britannica|access-date=13 November 2017|language=en}}</ref> He was the first Alexandrian Christian who made use of [[Hermes Trismegistus|Hermetica]] as pagan prophecy of the coming of the Christ.<ref>Garth Fowden. (1993). ''The Egyptian Hermes : a historical approach to the late Pagan mind''. Princeton, NJ: Princeton University Press. pp. 179 ff. {{ISBN|9780691024981}}.</ref> Palladius, [[Tyrannius Rufinus|Rufinus]], and [[Jerome]] were among his pupils.<ref name="Layton 2004">{{cite book|last1=Layton|first1=Richard A.|title=Didymus the Blind and His Circle in Late-Antique Alexandria |date=2004|publisher=University of Illinois|location=Urbana and Chicago|isbn=0252028813}}</ref>{{rp|1}}
+
+Rufinus was Didymus's pupil for eight years. When he translated Origen's ''De principiis'' into Latin, he referenced Didymus's commentary on it. Jerome mentions Didymus's contributions to his ideas in the prefaces of many of his books, and called Didymus "Didymus the Seer."<ref>{{Cite web|title= Didymus the Blind| url= https://www.newadvent.org/cathen/04784a.htm|access-date=2021-03-22| website= Catholic Encyclopedia| via= newadvent.org| publisher= }}</ref> Rufinus remained loyal to Didymus after Jerome condemned Didymus and Origen.<ref name=Young/> Didymus was viewed as an orthodox Christian teacher and was greatly respected and admired up until at least 553.<ref name="Layton 2004"/> [[Socrates of Constantinople]] compared Didymus's faithfulness to the [[Nicene Creed]] to [[Basil of Caesarea]] and [[Gregory of Nazianzus]]. In his position as a teacher, he held discussions and learned from Jews, pagans, Manichees, and other Christian teachers. Records of Didymus's lectures and the questions students asked show that he taught the same educated pupils multiple times.<ref name=Young/>
+
+Several Oriental Orthodox Churches refer to him as Saint Didymus the Blind.<ref>{{cite web|access-date=2007-09-07 |title=Coptic Orthodox Church Centre, UK |url=http://www.copticcentre.com/three.html |archive-url=https://web.archive.org/web/20070712141319/http://www.copticcentre.com/three.html |archive-date=2007-07-12 |url-status=dead }}</ref>
+
+==Second Council of Constantinople==
+In 553 the [[Second Council of Constantinople]] condemned his works, along with those of Origen and [[Evagrius Ponticus]], but not his person. In the [[Third Council of Constantinople]] in 680, and in the 787 [[Second Council of Nicaea]], Didymus was again linked with and condemned with Origen.<ref>{{cite book|last1=Ellingsen|first1=Mark|title=African Christian Mothers and Fathers: Why They Matter for the Church Today|date=2015|publisher=Cascade books|isbn=978-1606085509|page=165|url=https://books.google.com/books?id=ahjsCgAAQBAJ&q=Second+Council+of+Constantinople+didymus&pg=PA165}}</ref> Many unconventional views became associated with Origen, and the 15 anathemas attributed to the council condemn a form of apocatastasis along with the [[pre-existence]] of the soul, animism (in this context, a heterodox Christology), and a denial of real and lasting resurrection of the body.<ref name="The Anathemas Against Origen">{{Cite book|editor-first= Philip |editor-last= Schaff |chapter= The Anathemas Against Origen |chapter-url=https://www.ccel.org/ccel/schaff/npnf214.xii.ix.html |title=[[Nicene and Post-Nicene Fathers]]: Series II, Volume XIV (The Seven Ecumenical Councils) |publisher=Hendrickson Publishers |location= Peabody, Massachusetts |year=1994 |orig-year=1885 |isbn=1-56563-116-1 |editor-link=Philip Schaff }}</ref>
+
+In spite of the condemnation of his works, he is still listed as "St. Didymus the Blind" in the [[Serbian Orthodox]] [[hagiography]] ''[[Prologue of Ohrid|The Prologue of Ohrid]]'' which gives his feast date as October 18.<ref name="Archived copy">{{cite web |url=http://westserbdio.org/en/prologue/666-october-18 |title=Western American Diocese - October 18 |website=westserbdio.org |access-date=15 May 2022 |archive-url=https://web.archive.org/web/20170503154359/http://westserbdio.org/en/prologue/666-october-18 |archive-date=3 May 2017 |url-status=dead}}</ref>
+
+==Works==
+As a result of his condemnation, many of his works were not copied during the Middle Ages and were subsequently lost. Of his lost compositions we can gather a partial list from the citations of ancient authors which includes ''On Dogmas, On The Death of Young Children, Against the Arians, First Word,'' and others.<ref name=eastern-fathers>{{cite book| first= Georges |last= Florovsky| title= The Eastern Fathers of the Fourth Century| publisher= Nordland Publishing Company| isbn= 9783905238075| year= 1987}}</ref>{{rp|225–227}} One of Didymus's lost works is a commentary on Origen's ''First Principles'' which, according to Jerome, tried to interpret an orthodox understanding of the [[Trinity]] from Origen's theology. In it, he assumed the [[pre-existence]] of souls and [[Apocatastasis]]. He staunchly defended the doctrine of the Trinity. He argued that Christ's body and soul were human, but that Christ was sinless.<ref name=Young/>{{rp|98–100}}
+
+Excerpts from Didymus's Biblical commentary have been found in the [[Catena (biblical commentary)|Catena]].<ref name=Young/>{{rp|96–98}}
+
+Modern knowledge of Didymus has been greatly increased by a group of 6th or 7th century papyrus [[codices]] discovered in 1941 at a munitions dump near [[Tura, Egypt]] (south of [[Cairo]]). These include his commentaries on Zechariah, Genesis 1–17, part of Job and parts (of uncertain authenticity) on Ecclesiastes and Psalms 20–46.<ref name="Oxford">{{cite book|editor1-last=Cross|editor1-first= F. L.|editor2-last=Livingstone|editor2-first=E. A.|title=Oxford Dictionary of the Christian Church|date=2009|publisher=Oxford University Press| isbn= 9780199566716 |url= http://www.oxfordreference.com/view/10.1093/acref/9780192802903.001.0001/acref-9780192802903-e-2034?rskey=4OuwSv&result=2|language=en|chapter=Didymus the Blind}}</ref> In these commentaries, Didymus discusses long quotations from the Bible, and refrains from speculation, which he considered sophistry. However, he interprets scriptures allegorically, seeing symbols everywhere. For example, he wrote that the mountains in Zechariah represented the two Testaments of the Bible. Didymus saw an individual's movement towards virtue as emerging from their interaction with scripture.<ref name=Young/>{{rp|96–98}}
+
+Didymus probably wrote the treatise ''On The Holy Spirit'' (written sometime before 381 in Greek), which was preserved in a Latin translation by Jerome.<ref name=Young />{{rp|92}} ''Commentary on the Catholic Epistles'' also is dubiously attributed to Didymus.<ref name=Brit/> The treatise ''Against the Manichees'' was also probably written by Didymus. There has been greater doubt over two further works traditionally attributed to Didymus. ''On The Trinity'', identified in the eighteenth century as being Didymus' work, saw twentieth-century doubts, largely on grounds of lack of 'provenance' and alleged inconsistencies with the commentaries discovered at Tura in 1941, but many would still see this as Didymus' work.<ref name=Young />{{rp|92}} Additionally, scholars do not believe that Didymus authored the work preserved as books 4 and 5 of Basil's ''Against Eunomius''.<ref name="Young"/>{{rp|95}}
+
+Within the Commentary on Zechariah, Didymus shows himself to be a thoroughly intertextual reader of scripture. He moves from the text he is commenting on to a wide variety of other passages, quoting less frequently from the historical books which do not suit his allegorical method. Besides the gift of having a mind like a concordance, he also shows familiarity with philosophical terms and categories of the [[Stoics]], [[Epicureans]], and [[Pythagoreans]] (from whom, with [[Philo]], he derives his occasional number symbolism hermeneutic). His works also seem to cite passages from the [[deuterocanonical books]] of the Old Testament as well as [[Epistle of Barnabas|Barnabas]], the [[Shepherd of Hermas]] and the [[Acts of john|Acts of John]]. According to [[Bart D. Ehrman|Bart Ehrman]], his canon extended to at least include Barnabas and the Shepherd. It has been suggested by R.M. Grant regarding Origen's similarly expanded canon that while he lived in Alexandria he accepted the broader tradition of the church in Alexandria, but upon moving to Caesarea and finding the books were not accepted there henceforth manifested greater reserve towards them. Why Didymus would not have inherited his teachers later hesitation is unclear. Among his peers his hermeneutical method seems to have been met with mixed reactions. Jerome, who requested his commentary and considered him a mentor, is still baffled by Didymus's use of what he considered apocryphal works. Readers such as [[Diodore of Tarsus|Diodore]] in Antioch found his hermeneutical approach somewhat gratuitous and arbitrary. What none seem to deny, however, is that Didymus was unhindered by blindness in his remarkable ability to recall the sacred text.<ref name=Hill>{{cite book |last1= Didymus |title= Commentary on Zechariah|date=2006|publisher=Catholic University of America Press|location=Washington, D.C.|isbn=978-0-8132-1211-1|chapter=Introduction|translator-first=Robert C.|translator-last= Hill| pages=3–24}}</ref>
+
+A commentary attributed to Didymus that survives only in Latin suggests the epistle [[2 Peter]] was forged, anticipating the beliefs of later scholars who would agree with the position that Peter was not the author of the letter.<ref>{{cite book |last=Ehrman |first=Bart |author-link=Bart Ehrman |date=2012 |title=Forgery and Counterforgery: The Use of Literary Deceit in Early Christian Polemics |publisher= Oxford University Press |page=88  |isbn=9780199928033 }}</ref>  That said, it is doubtful that Didymus was the true author, as his other writings treat 2 Peter as canonical.<ref>
+{{cite journal |last=Ehrman |first=Bart |author-link=Bart Ehrman |date=1983 |title=The New Testament Canon of Didymus the Blind |url= |journal=Vigiliae Christianae |volume=37 |issue=1 |pages=9–11 |doi=10.2307/1583151 |jstor=1583151 |quote=These references clearly show that Didymus considered 2 Peter genuine. That he considered the book canonical is borne out by other references in which, for example, he introduces a "proof" from 2 Peter with the standardized Scriptural introduction (D. Zech. 79:2), and, especially, in which he argues "from the Scriptures" that there are fallen angels, quoting 2 Pet. 2:4 (D. Zech. 9:30ff).}}</ref>
+
+The no longer extant treatise ''On The Death of Young Children'' was addressed to [[Tyrannius Rufinus]] to answer his question "Why do infants die?". According to [[Jerome]], Didymus's answer was that these infants "had not sinned much [in the pre-existence], and therefore it was enough punishment for them just to have touched their bodily prisons".<ref>Jerome, [https://www.newadvent.org/fathers/27103.htm ''Apology Against Rufinus (Book III)''], 28.</ref>
+
+==Thought==
+Thoroughly Trinitarian, Didymus makes God completely transcendent and only capable of being spoken of by images and [[Apophatic Theology|apophatic]] means. He repeatedly emphasizes that God's essence is beyond essence, and uses a term only seen otherwise in [[Cyril of Alexandria]], "without quantity."<ref name= eastern-fathers />{{rp|228}} There can be seen in his works influence from the [[Cappadocian Fathers]], focusing the concept of [[Hypostasis (philosophy and religion)|Hypostasis (philosophy)]] to express the independent reality of the three persons of the Trinity rather than beginning with the one divine substance (οὐσία) as his starting point.<ref name=Hill/>{{rp|21}} Within these three persons, the Father is the root of the Divinity, the Spirit proceeds from the Father, and the Son is generated. Didymus seemed very concerned with stressing the equality of the persons of the Trinity. In Georges Florovsky's opinion, "Didymus does not strive for precision in his formulations. This is a general feature of the school of Alexandria."<ref name= eastern-fathers />{{rp|228}}
+
+In combating the heresies of the [[Manichaeism|Manichaean]] Docetists and [[Apollinarism|Apollinarians]], we should not be surprised to find Didymus insisting on the fullness of the human nature of Christ. He concludes there must be two natures united in Christ, not speculating on precisely how these work together but restricting himself to the expression "a single Christ." In his atonement theory, Didymus does not mention [[Apotheosis|deification]], but rather focuses on the ransom and the restoration of the image and the likeness. The fragmentary nature of his writing at this point does not allow us to draw definite conclusions, but he does speak of "universal salvation." Jerome, probably correctly, accused Didymus of confessing the ultimate restoration of the devil.<ref name= eastern-fathers />{{rp|227–232}}
+
+Didymus seems to have also accepted the pre-existence of souls, and considers the afterlife as a process of purification, though, according to Florovsky, he rejects [[transmigration of the soul|metempsychosis]]. He describes the [[Day of the Lord]] as an internal illumination of the soul, and in the future world he believes that evil "as a quality" will no longer exist. For him, as in [[Clement of Alexandria|Clement]] and Origen, the ''true'' gnostics possess a divine philosophy, one which allows them to defend themselves against heretics by giving a clear confession of the faith. Throughout his theology the influence of Origen is revealed, various aspects of which, particularly his eschatology, must have led to the condemnation of his works.<ref name= eastern-fathers />{{rp|227–232}}
+
+==In literature==
+Didymus the Blind is portrayed in ''Flow Down Like Silver, Hypatia of Alexandria'' by [[Ki Longfellow]].<ref>{{cite book|last1=Longfellow|first1=Ki|title=Flow Down Like Silver, Hypatia of Alexandria|year=2009|publisher=Eio books|location=Belvedere, California|isbn=9780975925591}}</ref>
+
+==References==
+{{wikiquote}}
+<references/>
+
+==Further reading==
+* Ayres, Lewis, DelCogliano, Mark & Radde-Gallwitz, Andrew (2012). ''Works on the Spirit: St. Athanasius the Great and Didymus the Blind''. St. Vladimir's Seminary Press [contains the only English translation of ''On the Holy Spirit'']
+* {{cite book| translator= R. C. Hill| year= 2006| title= Didymus. Commentary on Zechariah, FC| place= Washington, DC| publisher= Catholic University of America Press}} Contains the only English translation of the ''Commentary on Zechariah''.
+*{{cite book|chapter=[[s:The Paradise/Volume 1/Book 1/The Paradise of Palladius/The Histories of the Holy Men/History 4|The History of Didymus]]|title=The paradise, or garden of the holy fathers|year=1907|publisher=Chatto & Windus|translator=Ernest Alfred Wallis Budge|author=Palladius of Galatia|author-link=Palladius of Galatia}}
+* {{cite book|author= Sozomen| title= The Ecclesiastical History of Sozomen, comprising a history of the church, from AD323 to AD425| translator= Chester D. Hartranft|  editor-first1= Philip |editor-last1= Schaff |editor-first2= Henry |editor-last2= Wace| place= Buffalo, New York|series= Nicene and Post-Nicene Fathers | publisher= Christian Literature Publishing Co.| year= 1890| volume= Second Series; Vol. 2, Book III, Chapter 15: ''Didymus the blind and Aëtius the heretic''| url= https://www.newadvent.org/fathers/26023.htm}} Also available at [[s:Nicene and Post-Nicene Fathers: Series II/Volume II/Sozomen/Book III/Chapter 15#cite note-0|Wikisource]].
+* {{cite book |author=Sozomen |author2=Philostorgius, Saint Photius I (Patriarch of Constantinople) |title=The ecclesiastical history of Sozomen: comprising a history of the church from A.D. 324 to A.D. 440 |url=https://archive.org/details/ecclesiasticalh00walfgoog |year=1855 |publisher=Henry G. Bohn |page=[https://archive.org/details/ecclesiasticalh00walfgoog/page/n152 132]|isbn=9780790565682 }}
+* {{cite book| last= Gauche| first= William |year= 1934| title= Didymus the Blind: An educator of the 4th century| place= Washington, DC| publisher= Catholic University of America}}
+* {{cite encyclopedia| last= Weerakkody| first= D. P. M. |year= 2006| title= Didymus the Blind: Alexandrian theologian and scholar| editor-last= Albrecht| editor-first= G. | encyclopedia= Encyclopedia of Disability |volume= 1| page= 401| publisher= Sage| isbn=}}
+
+==External links==
+*[https://lib.byu.edu/collections/didymus-papyrus/ Didymus Commentary on Psalms], [[L. Tom Perry Special Collections]], [[Harold B. Lee Library]], [[Brigham Young University]]
+
+{{Coptic saints}}
+{{Authority control}}
+
+[[Category:Christian anti-Gnosticism]]
+[[Category:Egyptian blind people]]
+[[Category:Christian universalist clergy]]
+[[Category:Christian universalist theologians]]
+[[Category:Church Fathers]]
+[[Category:Deans of the Catechetical School of Alexandria]]
+[[Category:Roman-era Alexandrians]]
+[[Category:Saints from Roman Egypt]]
+[[Category:Egyptian theologians]]
+[[Category:4th-century Christian saints]]
+[[Category:4th-century Romans]]
+[[Category:4th-century Christian theologians]]
+[[Category:4th-century Christian universalists]]
+[[Category:313 births]]
+[[Category:398 deaths]]
+[[Category:Blind clergy]]
+[[Category:Blind writers]]
+[[Category:Philosophers in ancient Alexandria]]

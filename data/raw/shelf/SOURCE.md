@@ -490,3 +490,619 @@ Everything in this folder was retrieved on 2026-10-03 with Brian's approval, usi
 - Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
 - Size: 10,413 bytes
 - Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp.
+
+## Biography of the Blind (James Wilson)
+
+- File: `wilson_biography_of_the_blind_1838.txt`
+- Author: James Wilson (the title page says he 'has been blind from his infancy')
+- Year: 1838 (4th edition, Birmingham; first edition 1820)
+- Source URL: https://archive.org/download/biographyofblind00wilsuoft/biographyofblind00wilsuoft_djvu.txt
+- Retrieved: 2026-10-03
+- Licence basis: Public domain (published 1838, long before the 1930 cut-off; the author died in the 1840s). The text is the OCR of the University of Toronto scan on the Internet Archive (item `biographyofblind00wilsuoft`); no new rights are claimed in the scan's OCR by the shelf.
+- Size: 644,616 bytes after LF normalisation
+- Odd things: Raw OCR with words double-spaced ('Homer,  the  venerable') and occasional misread letters (for example 'Didyraus'); page headers and numbers sit in the running text. Chosen over the Pierre Villey book (1930 US publication, not safely public domain) and over Howe's reports (not looked for). A Wilson search on archive.org found three other copies of the book (b22014330 of 1835, b29294502 of 1833).
+
+## Blindness and the Blind (W. H. Levy)
+
+- File: `levy_blindness_and_the_blind_1872.txt`
+- Author: William Hanks Levy
+- Year: 1872 (London, Chapman and Hall; the preface is dated November 1871)
+- Source URL: https://archive.org/download/blindnessblindor00levyiala/blindnessblindor00levyiala_djvu.txt
+- Retrieved: 2026-10-03
+- Licence basis: Public domain (published 1872, long before the 1930 cut-off). The text is the OCR of a scan on the Internet Archive (item `blindnessblindor00levyiala`); two other scans of the same book are on archive.org (`blindnessandbli00levygoog`, `cu31924031242781`).
+- Size: 1,157,773 bytes after LF normalisation
+- Odd things: Raw OCR with double spaces and some misread letters. The book is a nineteenth-century survey; it includes accounts of blinding as a punishment and some patronising language about the blind and about particular nations, which the follow-up candidates deliberately do not quote.
+
+## Wikipedia API response (third batch: 23 titles asked, 15 found)
+
+- File: `wikipedia_batch3.json`
+- Author: Wikipedia contributors
+- Year: retrieved 2026-10-03
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 474,272 bytes
+- Odd things: Missing as titles: 'Education of the blind', 'History of blindness', 'Judge (biblical)', 'Herodian Jerusalem', 'Jerusalem in the Second Temple period', 'Pilgrim Road (Jerusalem)', 'Stepped Street (Jerusalem)' (the article exists under 'Stepped street (Jerusalem)', fetched later). 'Blindness' redirected to 'Visual impairment'; 'Biblical judges' redirected to 'Hebrew Bible judges'.
+
+## Wikipedia API response (fourth batch: 15 titles asked, 12 found)
+
+- File: `wikipedia_batch4.json`
+- Author: Wikipedia contributors
+- Year: retrieved 2026-10-03
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 1,161,402 bytes
+- Odd things: Missing: 'Stoa of Herod', 'Disability in the ancient world', 'Quinze-Vingts Hospital'. 'Pastoral nomadism' redirected to 'Nomadic pastoralism'. 'Wilson's Arch' redirected to 'Wilson Arch', an unrelated article on a rock arch in Utah; it is in this JSON file only and was NOT kept as a shelf text file.
+
+## Wikipedia API response (fifth batch: 5 titles asked, all found)
+
+- File: `wikipedia_batch5.json`
+- Author: Wikipedia contributors
+- Year: retrieved 2026-10-03
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 84,148 bytes
+- Odd things: 'Hulda Gates' redirected to 'Huldah Gates'.
+
+## Wikipedia: Ahijah the Shilonite
+
+- File: `wikipedia_Ahijah_the_Shilonite.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1376164018 of 2026-09-22T13:18:19Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 7,180 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Antonia Fortress
+
+- File: `wikipedia_Antonia_Fortress.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1378090557 of 2026-10-02T22:44:42Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 22,224 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Bedouin
+
+- File: `wikipedia_Bedouin.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1376917119 of 2026-09-27T00:08:31Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 95,821 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Blind musicians
+
+- File: `wikipedia_Blind_musicians.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1361599354 of 2026-06-28T23:45:26Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 26,114 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Book of Tobit
+
+- File: `wikipedia_Book_of_Tobit.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1368323499 of 2026-08-08T11:08:36Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 34,523 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Didymus the Blind
+
+- File: `wikipedia_Didymus_the_Blind.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1340265706 of 2026-02-24T20:04:39Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 20,724 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Eli (biblical figure)
+
+- File: `wikipedia_Eli_biblical_figure.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1366633611 of 2026-07-29T04:58:29Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 19,479 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Guide dog
+
+- File: `wikipedia_Guide_dog.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1371567713 of 2026-08-27T04:19:17Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 26,459 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Hebrew Bible judges
+
+- File: `wikipedia_Hebrew_Bible_judges.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1376869250 of 2026-09-26T18:18:32Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 11,922 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Homer
+
+- File: `wikipedia_Homer.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1377274758 of 2026-09-28T17:15:06Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 74,683 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Huldah Gates
+
+- File: `wikipedia_Huldah_Gates.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1364528778 of 2026-07-17T02:23:29Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 8,769 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Jerusalem
+
+- File: `wikipedia_Jerusalem.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1378171887 of 2026-10-03T07:27:46Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 292,200 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Kohen
+
+- File: `wikipedia_Kohen.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1376139412 of 2026-09-22T08:08:14Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 37,236 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Louis Braille
+
+- File: `wikipedia_Louis_Braille.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1377651048 of 2026-09-30T10:15:58Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 35,259 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Nomadic pastoralism
+
+- File: `wikipedia_Nomadic_pastoralism.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1368886015 of 2026-08-11T17:01:01Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 23,878 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Prophets in Judaism
+
+- File: `wikipedia_Prophets_in_Judaism.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1375547115 of 2026-09-18T13:27:51Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 6,667 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Robinson's Arch
+
+- File: `wikipedia_Robinsons_Arch.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1368960881 of 2026-08-12T02:37:12Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 38,472 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Sheep Gate
+
+- File: `wikipedia_Sheep_Gate.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1364681986 of 2026-07-17T23:10:18Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 4,566 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Siege of Jerusalem (70 CE)
+
+- File: `wikipedia_Siege_of_Jerusalem_70_CE.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1376652301 of 2026-09-25T13:18:05Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 166,517 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Staff of office
+
+- File: `wikipedia_Staff_of_office.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1346542196 of 2026-04-01T13:12:54Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 12,257 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Stepped street (Jerusalem)
+
+- File: `wikipedia_Stepped_street_Jerusalem.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1369712706 of 2026-08-16T17:43:05Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 12,450 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Temple Mount
+
+- File: `wikipedia_Temple_Mount.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1376458224 of 2026-09-24T06:53:20Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 300,375 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Tent
+
+- File: `wikipedia_Tent.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1377640884 of 2026-09-30T08:30:24Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 56,503 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Tiresias
+
+- File: `wikipedia_Tiresias.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1377987696 of 2026-10-02T08:01:24Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 25,791 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Trachoma
+
+- File: `wikipedia_Trachoma.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1375532017 of 2026-09-18T10:39:50Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 44,637 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Tyropoeon Valley
+
+- File: `wikipedia_Tyropoeon_Valley.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1350021426 of 2026-04-19T22:56:17Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 3,137 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Valentin Haüy
+
+- File: `wikipedia_Valentin_Haüy.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1344186368 of 2026-03-18T21:45:48Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 7,422 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Visual impairment
+
+- File: `wikipedia_Visual_impairment.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1374633254 of 2026-09-13T06:12:42Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 96,904 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Walking stick
+
+- File: `wikipedia_Walking_stick.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1354604874 of 2026-05-17T10:28:17Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 14,975 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Western Wall
+
+- File: `wikipedia_Western_Wall.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1375682049 of 2026-09-19T09:16:27Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 159,114 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: White cane
+
+- File: `wikipedia_White_cane.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1376707584 of 2026-09-25T19:57:43Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 14,449 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia API response (sixth batch: 12 titles asked, 11 files; 'Dating the Exodus' and 'Middle Assyrian Laws' redirected)
+- File: `wikipedia_batch6.json`
+- Author: Wikipedia contributors
+- Year: retrieved 2026-10-03
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 237714 bytes
+- Odd things: Titles asked: Hittite laws, Code of Ur-Nammu, Laws of Eshnunna, Code of Lipit-Ishtar, Middle Assyrian Laws, Instruction of Amenemope, Ebers Papyrus, Harper's Songs, Dating the Exodus, The Exodus, Documentary hypothesis, Mosaic authorship. 'Dating the Exodus' and 'The Exodus' both resolve to 'The Exodus', so one file. No article 'Blind harpist' was asked for because 'Harper's Songs' exists.
+
+## Wikipedia API response (seventh batch: 9 titles asked, 8 files; 'Altar of Incense' missing, 'Leviticus 21' redirected)
+- File: `wikipedia_batch7.json`
+- Author: Wikipedia contributors
+- Year: retrieved 2026-10-03
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 431079 bytes
+- Odd things: Titles asked: Priestly divisions, Showbread, Altar of Incense, Uzzah, Nadab and Abihu, Laver, Leviticus 21, Moses, Hammurabi. 'Altar of Incense' does not exist under that title (no file). 'Leviticus 21' redirected to 'Emor'.
+
+## Wikipedia: Hittite laws
+- File: `wikipedia_Hittite_laws.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1348871310 of 2026-04-14T18:09:51Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 8,123 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Code of Ur-Nammu
+- File: `wikipedia_Code_of_Ur-Nammu.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1373810185 of 2026-09-08T02:07:16Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 18,076 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Laws of Eshnunna
+- File: `wikipedia_Laws_of_Eshnunna.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1370343770 of 2026-08-20T15:57:14Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 6,281 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Code of Lipit-Ishtar
+- File: `wikipedia_Code_of_Lipit-Ishtar.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1314936427 of 2025-10-04T00:46:32Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 10,115 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Assyrian law
+- File: `wikipedia_Assyrian_law.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1327692812 of 2025-12-15T18:54:42Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 10,195 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings. Asked for as 'Middle Assyrian Laws', which redirects to 'Assyrian law'. The list of laws is marked 'conjectural' in the article.
+
+## Wikipedia: Instruction of Amenemope
+- File: `wikipedia_Instruction_of_Amenemope.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1355242423 of 2026-05-20T19:07:41Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 26,558 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Ebers Papyrus
+- File: `wikipedia_Ebers_Papyrus.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1374253908 of 2026-09-10T21:02:33Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 13,682 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Harper's Songs
+- File: `wikipedia_Harpers_Songs.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1357279658 of 2026-06-01T19:45:42Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 7,804 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: The Exodus
+- File: `wikipedia_The_Exodus.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1374205296 of 2026-09-10T14:11:02Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 72,148 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings. Asked for as 'Dating the Exodus', which redirects to the section 'Date' of 'The Exodus'; the whole article was returned.
+
+## Wikipedia: Documentary hypothesis
+- File: `wikipedia_Documentary_hypothesis.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1370421612 of 2026-08-21T01:46:48Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 31,008 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Mosaic authorship
+- File: `wikipedia_Mosaic_authorship.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1370287997 of 2026-08-20T06:17:36Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 29,904 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Priestly divisions
+- File: `wikipedia_Priestly_divisions.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1360730020 of 2026-06-23T06:44:31Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 15,883 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Showbread
+- File: `wikipedia_Showbread.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1338192793 of 2026-02-13T18:52:31Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 20,545 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Uzzah
+- File: `wikipedia_Uzzah.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1335088094 of 2026-01-27T07:13:46Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 3,673 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Nadab and Abihu
+- File: `wikipedia_Nadab_and_Abihu.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1354059950 of 2026-05-14T02:05:59Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 13,189 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings.
+
+## Wikipedia: Laver
+- File: `wikipedia_Laver.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1176604117 of 2023-09-22T20:17:18Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 828 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings. A disambiguation page only (no article on the tabernacle laver); not used in any candidate.
+
+## Wikipedia: Emor
+- File: `wikipedia_Emor.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1354136439 of 2026-05-14T14:59:51Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 194,786 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings. Asked for as 'Leviticus 21', which redirects to 'Emor' (the Torah portion Leviticus 21:1 to 24:23). It carries the Mishnah and Talmud rules on blemished priests.
+
+## Wikipedia: Moses
+- File: `wikipedia_Moses.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1378156356 of 2026-10-03T05:12:04Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 132,192 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings. Fetched for the dating context; no quotation from it is used in the candidates.
+
+## Wikipedia: Hammurabi
+- File: `wikipedia_Hammurabi.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1378061831 of 2026-10-02T19:15:45Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 45,603 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp. LF line endings. Fetched for Hammurabi's reign dates.
+
+## The Teaching of Amen-em-apt, son of Kanekht (E. A. Wallis Budge)
+- File: `budge_amenemopet_1924.txt`
+- Author: E. A. Wallis Budge
+- Year: 1924 (London, Martin Hopkinson and Company)
+- Source URL: https://archive.org/download/in.ernet.dli.2015.82818/2015.82818.The-Teaching-Of-Amenem-Apt-Son-Of-Kanekht_djvu.txt
+- Retrieved: 2026-10-03
+- Licence basis: Public domain in the United States (published 1924, before the 1930 cut-off). The text is the OCR of the Digital Library of India scan on the Internet Archive (item `in.ernet.dli.2015.82818`); a second scan, item `teachingofamenem0000eawa`, was listed in the search but not taken. No new rights are claimed in the scan's OCR by the shelf.
+- Size: 333664 bytes after LF normalisation
+- Odd things: Raw OCR with misread letters and stray carets; the hieroglyphic text is lost, only the English survives. Lines of the Instruction are numbered in Budge's own numbering (the blind-man line is 478). Chosen over F. Ll. Griffith's 1926 article in the Journal of Egyptian Archaeology (not looked for on archive.org). No public-domain English translation of the Hittite laws was found: the archive.org search returned only Hoffner (1997) and Neufeld (1951), neither safely public domain, so none was taken.
