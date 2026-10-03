@@ -59,6 +59,16 @@ WORKS = [
     ("wikipedia_Cultural_depictions_of_blindness.wiki.txt", "Wikipedia: Cultural depictions of blindness", "wiki"),
     ("wikipedia_Begging.wiki.txt", "Wikipedia: Begging", "wiki"),
     ("wikipedia_Mikveh.wiki.txt", "Wikipedia: Mikveh", "wiki"),
+    ("hammurabi_johns_pg17150.txt", "Code of Hammurabi (Johns, 1903)", "wiki"),
+    ("matthew_henry_vol2.txt", "Matthew Henry vol 2 (Joshua-Esther)", "henry"),
+    ("matthew_henry_vol6.txt", "Matthew Henry vol 6 (Acts-Revelation)", "henry"),
+    ("easton_ebd.txt", "Easton's Bible Dictionary", "smith"),
+    ("wikipedia_Code_of_Hammurabi.wiki.txt", "Wikipedia: Code of Hammurabi", "wiki"),
+    ("wikipedia_Tabernacle.wiki.txt", "Wikipedia: Tabernacle", "wiki"),
+    ("wikipedia_Eye_for_an_eye.wiki.txt", "Wikipedia: Eye for an eye (lex talionis)", "wiki"),
+    ("wikipedia_City_gate.wiki.txt", "Wikipedia: City gate", "wiki"),
+    ("wikipedia_Shiloh_biblical_city.wiki.txt", "Wikipedia: Shiloh (biblical city)", "wiki"),
+    ("wikipedia_Jabesh-Gilead.wiki.txt", "Wikipedia: Jabesh-Gilead", "wiki"),
 ]
 
 LINE_RES = {

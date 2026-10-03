@@ -76,6 +76,7 @@ h2 { font-size: 1.5rem; margin-top: 2.5rem; border-top: 1px solid var(--rule); p
 h3 { font-size: 1.2rem; }
 .lede { font-size: 1.25rem; }
 p.verse { margin: .5rem 0; }
+p.slot { border: 1px dashed var(--rule); padding: .75rem; color: var(--muted); }
 p.source { color: var(--muted); font-size: 1rem; margin: -.5rem 0 1.25rem 1rem; }
 blockquote { margin: 1rem 0; padding: .25rem 1rem; border-left: 4px solid var(--rule); }
 .table-scroll { overflow-x: auto; }
@@ -92,8 +93,9 @@ def e(s) -> str:
 
 
 def page(title: str, body: str, current: str, root: str = "") -> str:
-    nav = [("index.html", "Home"), ("stories/index.html", "The stories"), ("catalog.html", "The catalog"),
-           ("about.html", "About")]
+    nav = [("index.html", "Home"), ("stories/index.html", "The stories"), ("law/index.html", "The law"),
+           ("life/index.html", "Living blind, then"), ("walk-by-faith.html", "Walk by faith"),
+           ("catalog.html", "The catalog"), ("about.html", "About")]
     links = "".join(
         f'<li><a href="{root}{href}"{" aria-current=\"page\"" if href == current else ""}>{e(label)}</a></li>'
         for href, label in nav)
@@ -261,6 +263,68 @@ def story_page(story: dict, bible: dict, order: list[dict]) -> str:
     return "\n".join(parts)
 
 
+def slot_html(page: dict) -> str:
+    """Brian's words and other voices, or the open slots where they will go."""
+    parts = ["<h2>From Brian</h2>"]
+    if page.get("brian"):
+        parts.extend(f"<p>{e(p)}</p>" for p in page["brian"])
+    else:
+        q = page.get("question") or "What this passage says to someone who lives without sight."
+        parts.append(f'<p class="slot">Open for Brian: {e(q)}</p>')
+    parts.append("<h2>Other voices</h2>")
+    if page.get("voices"):
+        for v in page["voices"]:
+            parts.append(f"<p>{e(v['text'])}</p><p class=\"source\">{e(v['who'])}</p>")
+    else:
+        parts.append('<p class="slot">Open: other blind people and their families will be asked the same question, '
+                     'and their answers will appear here with their permission.</p>')
+    return "\n".join(parts)
+
+
+def context_page(page: dict, bible: dict, root: str, back: tuple[str, str]) -> str:
+    parts = [f'<p><a href="{back[0]}">{e(back[1])}</a></p>', f"<h1>{e(page['title'])}</h1>"]
+    if page.get("question"):
+        parts.append(f'<p class="lede">{e(page["question"])}</p>')
+    parts.append(f'<p class="lede">{e("; ".join(passage_label(p) for p in page["passages"]))}.</p>')
+    parts.append(f"<h2>What leads up to it</h2><p>{e(page['around'])}</p>")
+    parts.append(f"<h2>What it says</h2><p>{e(page['says'])}</p>")
+    parts.append(f"<h2>What it may tell us</h2><p>{e(page['notice'])}</p>")
+    parts.append(slot_html(page))
+    if page.get("place_and_time"):
+        parts.append("<h2>The place and the time</h2>")
+        parts.append("<p>What the old books and the archaeologists can add. Each paragraph names its source.</p>")
+        for item in page["place_and_time"]:
+            parts.append(f"<p>{e(item['text'])}</p><p class=\"source\">Source: {e(item['source'])}</p>")
+    parts.append("<h2>The passage</h2>")
+    for p in page["passages"]:
+        book, ch, a, z = p
+        parts.append(f"<h3>{e(passage_label(p))}</h3>")
+        for v in range(a, z + 1):
+            text = bible.get((book, ch, v))
+            if text:
+                parts.append(f'<p class="verse"><b>{v}</b> {e(text)}</p>')
+    parts.append(f'<p><a href="{back[0]}">{e(back[1])}</a></p>')
+    return "\n".join(parts)
+
+
+def section_index(section: str) -> str:
+    import pages as pg
+    title, intro = pg.SECTIONS[section]
+    parts = [f"<h1>{e(title)}</h1>", f'<p class="lede">{e(intro)}</p>', "<ul>"]
+    for p in pg.by_section(section):
+        refs = "; ".join(passage_label(x) for x in p["passages"])
+        line = f'<li><a href="{p["slug"]}.html">{e(p["title"])}</a>. {e(refs)}.'
+        if p.get("question"):
+            line += f" {e(p['question'])}"
+        parts.append(line + "</li>")
+    parts.append("</ul>")
+    if section == "life":
+        parts.append("<p>Each page ends with two open spaces: one for Brian's answer to the question at the top, and "
+                     "one for other people who live without sight. The point of these pages is to be filled in by "
+                     "people who know.</p>")
+    return "\n".join(parts)
+
+
 def index_page(rows: list[dict]) -> str:
     counts = Counter(r["kind"] for r in rows)
     n_word = sum(r["found_by"] == "word" for r in rows)
@@ -271,9 +335,13 @@ def index_page(rows: list[dict]) -> str:
 their families, and the church.</p>
 
 <h2>Where this stands</h2>
-<p>This site has just begun. Two pieces of work are done in draft. The <a href="stories/index.html">stories</a>
-gather the verses into the passages they belong to, with what led up to each and what it was like to be there.
-The <a href="catalog.html">catalog</a> lists every verse that speaks of blindness.</p>
+<p>This site is being built in the open. The <a href="stories/index.html">stories</a> gather the verses into the
+passages they belong to, with what led up to each, what it was like to be there, and what the old books and the
+archaeologists can add. <a href="law/index.html">The law</a> reads what God commanded about the blind as evidence of
+how they were treated. <a href="life/index.html">Living blind, then</a> asks what daily life was like for a blind
+person in each kind of place Scripture shows, and leaves room for the people who know to answer.
+<a href="walk-by-faith.html">Walk by faith</a> is the verse this whole site is named for. The
+<a href="catalog.html">catalog</a> lists every verse that speaks of blindness.</p>
 <ul>
 <li>{n_word} verses in the Berean Standard Bible use the word blind in some form.</li>
 <li>{len(rows) - n_word} more describe blindness or lost sight without using the word.</li>
@@ -285,10 +353,10 @@ The <a href="catalog.html">catalog</a> lists every verse that speaks of blindnes
 <h2>What is planned</h2>
 <ol>
 <li>The catalog: every passage, sorted and open to review. Done in draft.</li>
-<li>The stories: every blind person in Scripture, who was healed, who was not, and what the text says of each.
-Done in draft.</li>
-<li>The healings: what the accounts share and where they differ.</li>
-<li>The law: how God commands His people to treat the blind.</li>
+<li>The stories, with the place and the time behind each. Done in draft and reviewed by Brian.</li>
+<li>The law, read as evidence of how blind people were treated. Pages built; place and time to follow.</li>
+<li>Living blind, then: four settings, with Brian's answers and other voices still to come.</li>
+<li>Blindness as a picture, and the wider themes of sight, light and darkness. Later.</li>
 </ol>
 
 <h2>People and groups found so far</h2>
@@ -361,6 +429,18 @@ def render_all(out: Path = OUT) -> None:
     (out / "stories").mkdir(exist_ok=True)
     (out / "stories" / "index.html").write_text(
         page("The stories", stories_index(), "stories/index.html", root="../"), encoding="utf-8")
+    import pages as pg
+    for section in ("law", "life"):
+        (out / section).mkdir(exist_ok=True)
+        (out / section / "index.html").write_text(
+            page(pg.SECTIONS[section][0], section_index(section), f"{section}/index.html", root="../"), encoding="utf-8")
+        for p_ in pg.by_section(section):
+            (out / section / f"{p_['slug']}.html").write_text(
+                page(p_["title"], context_page(p_, bible, "../", ("index.html", pg.SECTIONS[section][0])),
+                     f"{section}/index.html", root="../"), encoding="utf-8")
+    (out / "walk-by-faith.html").write_text(
+        page(pg.FAITH_PAGE["title"], context_page(pg.FAITH_PAGE, bible, "", ("index.html", "Home")),
+             "walk-by-faith.html", root=""), encoding="utf-8")
     order = [x for key, _, _ in st.GROUPS for x in st.STORIES if x["group"] == key]
     for story in st.STORIES:
         (out / "stories" / f"{story['slug']}.html").write_text(

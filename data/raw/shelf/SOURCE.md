@@ -339,3 +339,154 @@ Everything in this folder was retrieved on 2026-10-03 with Brian's approval, usi
 - Retrieved: 3 October 2026 (added after Brian asked for more on Job 29:15 and Jeremiah 31:7-9)
 - Licence basis: public domain (author died 1714); CCEL text edition, same series as volumes 1 and 5
 - File: `matthew_henry_vol4.txt`, 10,442,839 bytes, line endings normalised to LF
+
+## Code of Hammurabi (The Oldest Code of Laws in the World)
+
+- File: `hammurabi_johns_pg17150.txt`
+- Author: Hammurabi; translated by C. H. W. Johns
+- Year: 1903
+- Source URL: https://www.gutenberg.org/cache/epub/17150/pg17150.txt
+- Retrieved: 2026-10-03
+- Licence basis: Public domain in the United States (1903 translation); distributed under the Project Gutenberg License, header kept intact. L. W. King's 1910 translation was preferred in the brief but is not on Project Gutenberg (search found only Johns) and the Yale Avalon site is not on the test suite's host list, so Johns was taken.
+- Size: 119,851 bytes after LF normalisation (122,824 as sent)
+- Odd things: Project Gutenberg eBook #17150. Sections are numbered in Johns's own numbering, which differs slightly from King's. Has Johns's introduction, notes and a section index.
+
+## Commentary on the Whole Bible, vol. 2 (Joshua to Esther)
+
+- File: `matthew_henry_vol2.txt`
+- Author: Matthew Henry
+- Year: 1706-1721 (CCEL print basis)
+- Source URL: https://www.ccel.org/ccel/h/henry/mhc2/cache/mhc2.txt
+- Retrieved: 2026-10-03
+- Licence basis: Public domain (CCEL header in the file says "Rights: Public domain. May be copied and distributed freely."; work page saved as `_page_mhc2.html`).
+- Size: 7,814,959 bytes
+- Odd things: As the other Henry volumes.
+
+## Commentary on the Whole Bible, vol. 6 (Acts to Revelation)
+
+- File: `matthew_henry_vol6.txt`
+- Author: Matthew Henry
+- Year: 1706-1721 (CCEL print basis)
+- Source URL: https://www.ccel.org/ccel/h/henry/mhc6/cache/mhc6.txt
+- Retrieved: 2026-10-03
+- Licence basis: Public domain (CCEL header in the file says "Rights: Public domain. May be copied and distributed freely."; work page saved as `_page_mhc6.html`).
+- Size: 8,011,439 bytes
+- Odd things: As the other Henry volumes.
+
+## Easton's Bible Dictionary
+
+- File: `easton_ebd.txt`
+- Author: M. G. Easton
+- Year: 1897 (third edition)
+- Source URL: https://www.ccel.org/ccel/easton/ebd2/cache/ebd2.txt
+- Retrieved: 2026-10-03
+- Licence basis: Public domain (pre-1930; CCEL header in the file says "Rights: Public Domain"; work page saved as `_page_easton.html`).
+- Size: 5,463,775 bytes
+- Odd things: CCEL notes the illustrations are omitted. Entry headwords not yet checked for layout.
+
+## CCEL work page for Matthew Henry vol. 2 (record of the licence check)
+
+- File: `_page_mhc2.html`
+- Author: CCEL
+- Year: -
+- Source URL: https://www.ccel.org/ccel/henry/mhc2
+- Retrieved: 2026-10-03
+- Licence basis: Not a work; as above.
+- Size: 27,541 bytes
+
+## CCEL work page for Matthew Henry vol. 6 (record of the licence check)
+
+- File: `_page_mhc6.html`
+- Author: CCEL
+- Year: -
+- Source URL: https://www.ccel.org/ccel/henry/mhc6
+- Retrieved: 2026-10-03
+- Licence basis: Not a work; as above.
+- Size: 27,547 bytes
+
+## CCEL work page for Easton's Bible Dictionary (record of the licence check)
+
+- File: `_page_easton.html`
+- Author: CCEL
+- Year: -
+- Source URL: https://www.ccel.org/ccel/easton/ebd2
+- Retrieved: 2026-10-03
+- Licence basis: Not a work; as above.
+- Size: 24,574 bytes
+
+## Wikipedia API response (second batch: six articles; the two disability articles tried do not exist)
+
+- File: `wikipedia_batch2.json`
+- Author: Wikipedia contributors
+- Year: retrieved 2026-10-03
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 224,008 bytes
+- Odd things: 'Disability in the Bible' and 'Disability in ancient Israel' are missing articles. 'Lex talionis' redirected to 'Eye for an eye'.
+
+## Wikipedia: Code of Hammurabi
+
+- File: `wikipedia_Code_of_Hammurabi.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1378074845 of 2026-10-02T20:47:02Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 104,255 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp.
+
+## Wikipedia: Tabernacle
+
+- File: `wikipedia_Tabernacle.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1376496146 of 2026-09-24T14:07:13Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 29,848 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp.
+
+## Wikipedia: Eye for an eye
+
+- File: `wikipedia_Eye_for_an_eye.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1378015577 of 2026-10-02T13:03:21Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 27,770 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp.
+
+## Wikipedia: City gate
+
+- File: `wikipedia_City_gate.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1377055866 of 2026-09-27T18:08:48Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 20,574 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp.
+
+## Wikipedia: Shiloh (biblical city)
+
+- File: `wikipedia_Shiloh_biblical_city.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1376863408 of 2026-09-26T17:42:25Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 28,267 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp.
+
+## Wikipedia: Jabesh-Gilead
+
+- File: `wikipedia_Jabesh-Gilead.wiki.txt`
+- Author: Wikipedia contributors
+- Year: revision 1364188648 of 2026-07-15T01:44:39Z
+- Source URL: https://en.wikipedia.org/w/api.php (action=query, prop=revisions, rvprop=ids|timestamp|content, redirects=1)
+- Retrieved: 2026-10-03
+- Licence basis: CC BY-SA 4.0 (Wikipedia text; attribution to the Wikipedia article and its revision is required, and reuse must be share-alike).
+- Size: 10,413 bytes
+- Odd things: raw wikitext (templates, [[links]] and <ref> tags left in). First line of the file is a comment giving title, revision id and timestamp.

@@ -48,7 +48,7 @@ def test_blindfold_verses_are_set_aside():
 
 def test_site_builds_and_is_accessible(tmp_path):
     build_site.render_all(tmp_path)
-    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "catalog.html", "index.html"]
+    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "catalog.html", "index.html", "walk-by-faith.html"]
     pages = sorted(tmp_path.rglob("*.html"))
     for p in pages:
         h = p.read_text(encoding="utf-8")
@@ -138,3 +138,20 @@ def test_every_story_has_a_sourced_place_and_time_section():
             assert item["from"], slug
             for key, idx in item["from"]:
                 assert cands[key][idx]["evidence"], (slug, key, idx)
+
+
+def test_context_pages_build_with_open_slots(tmp_path):
+    import pages as pg
+    build_site.render_all(tmp_path)
+    assert len(pg.LAW_PAGES) == 4 and len(pg.LIFE_PAGES) == 4
+    for p in pg.PAGES:
+        path = tmp_path / ("walk-by-faith.html" if p["section"] == "faith" else f"{p['section']}/{p['slug']}.html")
+        h = path.read_text(encoding="utf-8")
+        assert "From Brian" in h and "Other voices" in h and 'class="verse"' in h, p["slug"]
+        if not p.get("brian"):
+            assert "Open for Brian" in h, p["slug"]
+    faith = (tmp_path / "walk-by-faith.html").read_text(encoding="utf-8")
+    assert "drop-off test" in faith and "Open for Brian" not in faith
+    for section in ("law", "life"):
+        idx = (tmp_path / section / "index.html").read_text(encoding="utf-8")
+        assert all(f'{p["slug"]}.html' in idx for p in pg.by_section(section))

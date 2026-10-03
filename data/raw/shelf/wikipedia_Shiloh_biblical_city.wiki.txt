@@ -1,0 +1,188 @@
+<!-- title: Shiloh (biblical city); revid: 1376863408; timestamp: 2026-09-26T17:42:25Z -->
+{{Short description|Ancient Israelite city and sanctuary}}
+{{Other uses|Shiloh (disambiguation)}}
+{{Infobox historic site
+|name           = Shiloh
+|alternate_name = 
+|image          = File:Ancient Shiloh IMG 2924.JPG
+|alt            = 
+|caption        = 
+|pushpin_map    = West Bank
+|pushpin_alt    = 
+|location       = [[Shilo, Mateh Binyamin|Shiloh]], [[West Bank]].
+|region         = [[Ramallah and al-Bireh Governorate]]
+|coordinates    = {{coord|32.0556|35.2895|display=inline}}
+|type           = 
+|part_of        = 
+|area           = 
+|abandoned      = 
+|epochs         = [[Bronze Age]], [[Iron Age]], [[Byzantine Empire|Byzantine period]]
+|cultures       = [[Canaan]]ite, [[Israelite]], [[Roman Empire|Roman]]
+|dependency_of  = 
+|occupants      = 
+|excavations    = 
+|archaeologists = 
+|condition      = Ruins
+|ownership      = 
+|public_access  = Yes
+|website        = {{URL|www.a-shiloh.co.il/en}}
+|notes          = 
+}}
+
+'''Shiloh''' ({{IPAc-en|ˈ|ʃ|aɪ|l|oʊ}}; {{langx|he|שִׁלֹה, שִׁלוֹ ,שִׁילֹה, שִׁילוֹ|Šīlō}}) was an ancient city and sanctuary in [[History of ancient Israel and Judah|ancient Israel]] now located in the [[West Bank]] (i.e. [[Samaria]] in the Hebrew Bible). According to the [[Hebrew Bible]], Shiloh was one of the main centers of Israelite worship during the [[pre-monarchic period]], before the [[Solomon's Temple|First Temple]] in [[Jerusalem]] was built. According to the Hebrew Bible, after the Israelite conquest of [[Canaan]], the [[Tabernacle]] was moved to Shiloh, and remained there during the period of the [[Hebrew Bible judges]].
+
+Shiloh has been identified with modern '''Khirbet Seilun''', a [[tell (archaeology)|tell]] known in [[Modern Hebrew]] as '''Tel Shiloh'''. It is located {{Convert|31|km|mi}} north of Jerusalem, in the West Bank, to the west of the modern [[Shilo (Israeli settlement)|Israeli settlement of Shilo]] and to the north of the Palestinian town of [[Turmus Ayya]]. Relative to other archaeological sites, it is south of the biblical town of [[Lebonah]] and {{convert|10|mi|km|order=flip}} north of [[Bethel]].<ref name="Ronen">{{cite news |first=Gil |last=Ronen |title=Shiloh, Israel's Capital for 400 Years, Being Uncovered |newspaper=Jerusalem Post |date=July 28, 2010 |url=http://www.jidaily.com/oMcn/e }}</ref> G. F. Moore has suggested identifying [[Bochim]] as Shiloh.<ref>{{cite book |first=Jules F. |last=Gomes |title=The Sanctuary of Bethel and the Configuration of Israelite Identity |publisher=De Gruyter |date=2012 |orig-date=2006 |isbn=978-3-11-092518-0 |oclc=979590311 |page=117 |doi=10.1515/9783110925180 |url={{GBurl|-o3Ucu-4k44C|pg=PR13}} }}</ref>
+
+==Etymology==
+The meaning of the word "Shiloh" is unclear. The name has been argued to have been derived from {{Script/Hebrew|שלה}} and may be translated as ''Tranquility Town''.<ref>''Theological Dictionary'' and ''Jones' Dictionary of Old Testament Proper Names''</ref> Ran Zadok argued that the toponym derives from שׁ–א–ל.<ref>{{cite journal |last=Zadok |first=Ran |title=On Five Biblical Names |journal=Zeitschrift für die Alttestamentliche Wissenschaft |volume=89 |issue=2 |year=1977 |page= 267 |URL=https://www.proquest.com/docview/1294221638}}</ref>
+
+==Identification==
+When American biblical scholar [[Edward Robinson (scholar)|Edward Robinson]] toured the region in 1838, he proposed that Shiloh corresponded to Seilun.<ref>{{Cite journal |last=Abel |first=F. -M. |date=1939 |title=Edward Robinson and the Identification of Biblical Sites |url=https://scholarlypublishingcollective.org/sblpress/jbl/article/58/4/365/196190 |journal=Journal of Biblical Literature |volume=58 |issue=4 |pages=367-368 |doi=10.2307/3259708}}</ref>
+
+It was identified unambiguously with Khirbet Seilun, based on the description of the site's location found in {{bibleverse||Judges|21:19}}:
+
+{{Blockquote|text=So they said, "Look, the yearly festival of [[Yahweh]] is taking place at Shiloh, which is north of [[Bethel]], on the east of [[Way of the Patriarchs|the highway]] that goes up from Bethel to [[Shechem]], and south of [[Lebonah]]."|title=[[Book of Judges]]|source=21:19}}
+
+Bethel has been identified with [[Beitin]]<ref name= Brodsky>Brodsky, Harold (1990). "Bethel". In the ''Anchor Yale Bible Dictionary''. 1:710-712.</ref>, Lebonah with [[Al-Lubban ash-Sharqiya]],<ref>Easton, Matthew George (1897). "Lebonah". Easton's Bible Dictionary (New and revised ed.). T. Nelson and Sons.</ref><ref>{{Cite book|last=McKinny|first=Chris|title=Exploring the Holy Land: 150 Years of the Palestine Exploration Fund|last2=Tavger|first2=Aharon|year=2018|isbn=9781781797068|editor-last=Gurevich|editor-first=David|location=Hebrew University of Jerusalem|chapter=6: From Lebonah to Libnah|editor-last2=Kidron|editor-first2=Anat}}</ref> "the highway" with the [[Way of the Patriarchs]], and Shechem with [[Tell Balata]].
+
+The Arabic name, [[Khirbet]] Seilun, preserves the ancient Hebrew name.{{cn |date= December 2025}}
+
+In the 4th century CE, [[Eusebius]] and [[Jerome]] demonstrated some awareness of Shiloh's location,{{cn |date= December 2025}} as did the cartographer of the [[Madaba Map]] in the 6th century.<ref>{{Cite book|last=Donner|first=Herbert|title=The Mosaic Map of Madaba: an Introductory Guide|publisher=Peeters |year=1992|isbn=90-390-0011-5 |oclc=28079072 |chapter=Section II 31. Shiloh ... (there was once?) the Ark |chapter-url={{GBurl|DD_Vt16eKnAC|p=47}} |page=47}}</ref>
+
+==History==
+===Bronze Age===
+During the Middle and Late [[Timeline of the Palestine region#Bronze Age |Bronze Age]] (MBA and LBA), Shiloh was a [[walled city]] in [[Canaan]] with a shrine or sanctuary.<ref>{{harvnb|Schley|1989|pp=191ff}}</ref>
+
+*Shiloh [[Stratum]] 18 (MB IB or MB IIA).<ref name=Regev21>{{cite journal |vauthors=Regev J, Gadot Y, Roth H, Uziel J, Chalaf O, Ben-Ami D, Mintz E, Regev L, Boaretto E |title=Middle Bronze Age Jerusalem: recalculating its character and chronology |journal=Radiocarbon |volume=63 |issue=3 |pages=853–883 |date=2021 |doi=10.1017/RDC.2021.21 |bibcode=2021Radcb..63..853R }}</ref>
+*Shiloh Stratum 17B-A (MBA II-III).<ref name=Regev24>{{cite journal |vauthors=Regev J, Gadot Y, Uziel J, Chalaf O, Shalev Y, Roth H, Shalom N, Szanton N, Bocher E, Pearson CL, Brown DM, Mintz E, Regev L, Boaretto E |title=Radiocarbon chronology of Iron Age Jerusalem reveals calibration offsets and architectural developments |journal=Proc Natl Acad Sci U S A |volume=121 |issue=19 |article-number=e2321024121 |date=May 2024 |pmid=38683984 |pmc=11087761 |doi=10.1073/pnas.2321024121 |bibcode=2024PNAS..12121024R }}</ref><ref name=Regev21/>
+*Shiloh Stratum 16 (LBA) in the 13th to 12th centuries BC.
+
+===Iron Age===
+{{see also|Late Bronze Age collapse|Israelite highland settlement}}
+
+Shiloh was one of the main centers of [[Yahwism]] during the premonarchic period.<ref name="knittel">{{cite journal |title=Unspectacular and yet Special: Re-evaluating the Literary References to Shiloh within the Hebrew Bible |journal=Semitica |last=Knittel |first=Ann-Kathrin |volume=65 |pages=231–250 |year=2023 |doi=10.2143/SE.65.0.3293120 |issn=2466-6815}}</ref>
+
+The destruction of Shiloh in [[Iron Age I]] is dated by [[radiocarbon test]]s to the second half of the 11th century BCE.<ref>{{cite journal |title=The Highlands of El, Shiloh and Merneptah's Israel |journal=Semitica |last=Finkelstein |first=Israel |url=https://www.academia.edu/125917017 |volume=65 |pages=465–483 |year=2023 |doi=10.2143/SE.65.0.3293130 |issn=2466-6815}}</ref>{{rp|466}}
+
+*Shiloh Strata 15-14 (Iron IA-B) in the 12th to 10th centuries BCE.<ref name=Regev24/>
+*Shiloh Strata 13-10 (Iron IIA-C) in the 10th to early 6th century BC.
+
+==== Hebrew Bible ====
+Shiloh is mentioned in the Books of [[Book of Genesis| Genesis]], [[Book of Joshua|Joshua]], [[Book of Judges|Judges]], [[1 Samuel]], [[1 Kings]], [[Psalms]], and [[Book of Jeremiah|Jeremiah]].
+
+Shiloh was first mentioned in the Hebrew Bible in the [[Blessing of Jacob]] in Genesis 49:10:
+
+<blockquote>The scepter shall not depart from Judah, nor a lawgiver from between his feet until '''Shiloh''' come; and unto Him shall the gathering of the people be.<ref>{{cite web |title=Genesis 49:10 (21st Century King James Version) |website=[[Bible Gateway]] |url= https://www.biblegateway.com/passage/?search=Genesis%2049&version=KJ21 }}</ref></blockquote>
+
+In the Book of Joshua, when the Israelites arrived in the land, they set up the Tabernacle. There Joshua and [[Eleazar]] divided the land among the [[Twelve Tribes of Israel|Twelve Tribes]] who had not yet received their allocation in [[Joshua 18#Verses 1–10 |Joshua 18:1–10]], and dealt with the allocation of [[Levitical city|Levitical cities]] in [[Joshua 21]]:1–8. Subsequently, Shiloh became one of the leading religious shrines in ancient Israel, a status it held until shortly before [[David]]'s elevation of [[Jerusalem]].<ref>{{cite book |first1=LaMar C. |last1=Berrett |first2=D. Kelly |last2=Ogden |title=Discovering The World of The Bible |publisher=Grandin Book |date=1996 |isbn=0-910523-52-5 |page=94 }}  Cf. Also {{harvnb|Schley|1989|pp=191ff}}</ref>
+Joshua 18:1 notes, "The whole congregation of Israel assembled together at Shiloh and set up the tent (or tabernacle) of the congregation there."
+The tabernacle had been built under [[Moses]]' direction from God in [[Book of Exodus |Exodus]] 26 (discussed in the ''[[parashah]]'' [[Terumah (parashah)#readings| "Terumah"]]) to house the [[Ark of the Covenant]], also made according to Moses' instructions from God in [[Exodus 25]]. [[Talmud]]ic sources state that the Tabernacle remained at Shiloh for 369 years,<ref>{{cite web|url=http://www.mechon-mamre.org/b/l/l5114.htm |title=Zevachim 118B |publisher=Mechon Mamre |access-date=2013-08-17}}</ref> until the Ark of the Covenant was taken into the battle camp at [[Eben-Ezer]] in [[1 Samuel 4]]:3–5 and captured by the [[Philistines]] at [[Aphek (biblical) |Aphek]] (probably [[Antipatris]]). At some point during its long stay at Shiloh, the portable tent seems to have been enclosed within a holy compound—in Greek, a "[[temenos]]". It was at Shiloh that [[Eli (biblical figure)|Eli]] and [[Samuel]] ministered according to [[1 Samuel]] ({{bibleref|1|Sam|3:21}}). At some point, the Tabernacle was moved to [[Gibeon (ancient city)|Gibeon]] according to [[1 Chronicles 16]] and [[1 Chronicles 21|21]], and [[2 Chronicles 1]] ({{bibleref|1|Chr|16:39–40}}, {{bibleref|1|Chr|21:20}}, {{bibleref|2|Chr|1:39–2}}), which became an Israelite holy site under David and [[Solomon]].
+
+The people made [[pilgrimage]]s there for major feasts and sacrifices, and [[Judges 21]] records the place as the site of an annual dance of maidens among the [[vineyard]]s.
+[[File:Location_and_remains_of_the_Tabernacle_IMG_2982.JPG|thumb|Presumed location of the Tabernacle at Shiloh]]
+
+According to [[1 Samuel 1]]–[[1 Samuel 3|3]], the sanctuary at Shiloh was administered by [[Eli (Judges)|Eli]], the [[High Priest of Israel|High Priest]], and his two sons [[Hophni and Phinehas]]. According to this account, the young Samuel was dedicated by his mother [[Hannah (biblical figure) |Hannah]] there, to be raised at the shrine by the high priest, and his own prophetic ministry is presented as having begun there. It was under Eli and his sons that the Ark was lost to Israel in a battle with the Philistines at [[Aphek (biblical)|Aphek]]. [[W.F. Albright]] hypothesized that the Philistines also destroyed Shiloh at this time; this conclusion is disputed,<ref>{{harvnb|Schley|1989|pp=184–199}}</ref> but supported by recent archaeological research.<ref>[https://www.huffingtonpost.com/2013/01/15/tel-shiloh-archaeological-dig-pitcher-city-israel-burned_n_2479718.html Bennett-Smith, Meredith. "Tel Shiloh Archaeological Dig Pitcher Suggests Biblical City In Israel Burned To Ground"], ''Huffington Post'', January 15, 2013.</ref><ref name= knittel/>{{rp|238}}
+
+The place may have been destroyed later as well, though the biblical text records no such claimed destruction. Certainly, the shadowy figure of [[Prophets in Judaism |prophet]] [[Ahijah the Shilonite]],<ref>{{cite web |url=http://www.mechon-mamre.org/e/et/et09a14.htm |title=1 Kings 14:6–16 |publisher=Mechon-mamre |access-date=2013-08-17}}</ref> who instigated the revolt of [[Jeroboam I]] against David's grandson [[Rehoboam]] in [[1 Kings 11]] and [[1 Kings 14|14]], came from there and he bore the same name as the Aaronite priest that consulted the Ark for Saul in [[1 Samuel 14]]:3. Schley has claimed that the capture of the Ark and the death of Saul occurred in the same battle and that the later Davidic editors redacted the texts to make it appear as if Saul had ruled without either Tent Shrine or Ark, and thus without sacral legitimacy.<ref>{{harvnb|Schley|1989|pp=191–7}}</ref>
+
+What is certain is that during the prophetic ministry of [[Jeremiah]] in [[Jeremiah 7]]:12–15; [[Jeremiah 26|26]]:5–9, and [[Jeremiah 41|41]]:5 over three hundred years later, Shiloh had been reduced to ruins. Jeremiah used the example of Shiloh to warn the inhabitants of Judah and Jerusalem what God would do to the "place where I caused my name to dwell", warning them that their holy city, Jerusalem, like Shiloh, could fall under divine judgment.<ref name="knittel" />{{rp|240}}
+
+According to [[Richard Elliott Friedman]], the priesthood of Shiloh was the [[Elohist]] source of the [[documentary hypothesis]] and also provided much of the material of the [[Deuteronomistic history]], with the writer of this history (Jeremiah or somebody closely connected to him) being a descendant of these priests. If correct, this would make Shiloh a major source of the history part of the Hebrew Bible/Old Testament.<ref name="knittel" />{{rp|231-232}}
+
+=== Hellenistic and Roman periods ===
+According to historical records, the area's population was diverse on the eve of the [[Maccabean Revolt]] in 167 BCE. During the revolt, clashes erupted between the numerous ethnic groups in the vicinity. Several accounts suggest the presence of [[Edom]]ites in the region; [[Jews|Jewish]] communities are also implied. Like in western Samaria, it's possible that [[Seleucid Empire|Seleucid]] veterans settled here as well. Archeological evidence indicates that Shiloh, then a gentile settlement, was violently destroyed in the mid 2nd century BCE. It was suggested that this destruction might be connected to the conquests of [[Hasmonean dynasty|Hasmonean]] leaders [[Jonathan Apphus]] and [[Simon Thassi]].<ref>{{Cite journal |last=לויתן־בן אריה |first=רעות |date=2021 |title=שכבת חורבן מהתקופה ההלניסטית בתל שילה |trans-title=A Destruction Layer from the Hellenistic Period at Tel Shiloh |url=https://www.ariel.ac.il/wp/ihd/2021/05/18/%d7%a9%d7%9b%d7%91%d7%aa-%d7%97%d7%95%d7%a8%d7%91%d7%9f-%d7%9e%d7%94%d7%aa%d7%a7%d7%95%d7%a4%d7%94-%d7%94%d7%94%d7%9c%d7%a0%d7%99%d7%a1%d7%98%d7%99%d7%aa-%d7%91%d7%aa%d7%9c-%d7%a9%d7%99%d7%9c%d7%94/ |journal=במעבה ההר |language=Hebrew |volume=11 |issue=1 |pages=53–71}}</ref>
+
+===Byzantine period===
+[[File:Shilo, Palestine (13056127775).jpg|250px|thumbnail|The Byzantine basilica, with excavations to the right.]]
+[[Jerome]], in his letter to [[Paula of Rome|Paula]] and [[Eustochium]], dated about 392–393 CE, writes: "With Christ at our side we shall pass through Shiloh and Bethel " (Ep.46,13, PL 22, 492). The official church of Jerusalem did not schedule an annual pilgrimage to Shiloh, unlike Bethel. On the contrary, Samuel's feast was held on August 20 in the village of Masephta ([[Mizpah in Benjamin|Mizpah]]). Even the pilgrims seemingly did not visit Shiloh, for the only one that mentions its name—the sixth-century pilgrim Theodosius in ''[[De situ terrae sanctae]]'' (ch. 4, CCSL 175, 116)—wrongly locates it midway between Jerusalem and [[Emmaus Nicopolis]]. The mistaken identification persisted for centuries, as evident, for example, on the Florentine map of 1300, which places Shiloh at [[Nabi Samwil]], where the [[Tomb of Samuel]] is located. The sixth-century mosaic [[Madaba Map]] wrongly locates Shiloh east of [[Shechem]], omitting the depiction of the church.
+
+===Early Muslim and Crusader periods===
+In 638, the [[Muslim conquest of the Levant|Muslims conquered Palestine]]. Muslim pilgrims to Shiloh mention a [[mosque]] called ''al-Sakina'', where the memory of Jacob's and Joseph's deeds was revered.{{clarification needed|reason=The deeds are not stated in the article|date=August 2026}} The earliest source is al-Harawi, who visited it in 1173 when it was part of the [[Crusader state]] of the [[Kingdom of Jerusalem]], and wrote, "Seilun is the village of the mosque es-Sekineh where the stone of the Table is found". Yaqut (1225) and el-Quarwini (1308, Marmardji, 94–95), write similarly.
+
+==Archaeology==
+{{further information|Shilo (Israeli settlement)#Tel Shilo}}
+
+===Overview===
+Archaeological excavations have shown that the place was already settled from about 1750 BCE (Middle Bronze II or MB II, otherwise known as MB IIB according to the Albright school); however, it is not mentioned in any pre-biblical source. A tell and many impressive remains have been unearthed from the [[Canaan]]ite and [[Israelite]] eras, with habitation lasting until the 8th century BCE. During the following 12 centuries Shiloh is solely noted as a station on sojourners' routes, usually having only its religious-historical significance to offer. Archaeological excavations have revealed remains from the Roman and Persian as well as Early and Late Muslim periods.
+
+An impressive [[glacis]] has been located and pottery, animal remains, weapons and other objects have been recovered.{{dubious|this last sentence MAKES NO SENSE here if not connected to a historical period! The glacis: is it the one mentioned below, from Middle Bronze III? What about the pottery, animal bones, weapons?|date=June 2016}}[[File:Tel_Shiloh_(biblical_site)_2017.jpg|thumb|Tel Shiloh visible in the foreground]]
+
+===History of excavations===
+Soundings were first made in 1922 by Aage Schmidt.<ref>{{Cite journal |last=Albright |first=W. F. |date=1923 |title=The Danish Excavations at Shiloh |url=https://www.journals.uchicago.edu/doi/10.2307/1355044 |journal=Bulletin of the American Schools of Oriental Research |language=en |volume=9 |pages=10–11 |doi=10.2307/1355044 |issn=}}</ref> A Danish team led by Hans Kjær (overseen by W.F. Albright) excavated between the years 1926 and 1932.<ref>{{Cite web |last= |date=2014-01-11 |title=Tel Shiloh (Khirbet Seilun) |url=https://emekshaveh.org/en/tel-shiloh-khirbet-seilun/ |access-date=2026-07-04 |website=[[Emek Shaveh]] |language=en}}</ref> A probe was done by Sven Holm-Nielson and Marie-Louise Buhl in 1963. An extensive excavation was done by [[Israel Finkelstein]] during the years 1981–84. Since 2006 further excavations have taken place there. Digs are currently run by Scott Stripling.{{citation needed|date=July 2022}} Under international law an occupying power is not permitted to carry out archaeological excavations except to preserve or rescue a site.<ref>{{citation |last=Stahl |first=Ziv |title=Appropriating the Past Israel's Archaeological Practices in the West Bank |publisher=[[Emek Shaveh]] |url=https://emekshaveh.org/en/wp-content/uploads/2017/12/Menachsim-Eng-Web.pdf |pages=5-6, 24}}</ref>
+
+===Finkelstein excavations===
+Finkelstein's work established eight strata, ranging from Middle Bronze II to the [[Byzantine Empire|Byzantine]] period.
+[[File:Ancient_Shiloh_IMG_2874.JPG|thumb|Map of the present-day archaeological site]]
+
+====Bronze Age====
+A massive wall is attributed to the Middle Bronze III (MB IIC) stage, preserved at a height of {{convert|24|ft|m|order=flip}} and width up to {{convert|18|ft|m|order=flip}}, with an extensive [[glacis]].
+
+====Iron Age====
+The [[Iron Age|Iron]] I (Israelite) remains yielded a pillared two-storey public building near the top of the tell, the earliest attributed to Israelites. Collared rim storage jars and some cultic items were found in these buildings, pointing to usage as part of a cultic complex. More than 20 silos were uncovered from this era, included one with carbonized wheat. The [[destruction layer]] evident throughout the tell may have occurred in the wake of the Philistine victory at [[Eben-Ezer]].
+
+According to [[radiocarbon dating]] by Finkelstein, the site was abandoned [[:he:שילה (עיר מקראית)#cite note-2|around 1050 BCE]], and then sparsely repopulated during the Iron II period. [[Jeremiah]]'s admonition in the course of his temple [[sermon]], "Go now to my place that was in Shiloh" ({{bibleverse|Jeremiah|7:12}}), would have occurred during this era.
+
+====Cultic site====
+One of the more intriguing finds was that of a heap of pottery outside the city wall before the advent of the Israelite culture (c. 1000 BCE).{{citation needed|date=September 2015}} This pile of pottery was the remnant of a number of animal sacrifices, which were tossed over the wall after completion of the ritual and then buried. This find points to a sacral status of Shiloh during the Canaanite period, a status adopted by the Israelites. The top of the tell, where Finkelstein supposes that the tabernacle would have been placed, is now exposed bedrock, offering no clues concerning Israelite worship (aside from the adjacent storage complex).
+
+====Roman and Byzantine periods====
+More substantive villages emerged in the Roman and Byzantine periods.
+
+[[File:By Ovedc Elef-Milim in Tel Shilo 38.jpg|250px|thumbnail|Mosaics under the Jami' al-Yatim]]
+
+===Byzantine churches===
+Excavations from 2006 to 2007, carried out adjacent to and just south of Tel Shiloh, exposed elaborate mosaic floors as well as several Greek inscriptions, one explicitly referring to the site as the "village of Shiloh".{{citation needed|date=June 2016}} During August–September 2006 archaeological excavations were carried out adjacent to the tell of Shiloh. A team led by the [[Archaeological Staff Officer of Judea and Samaria|Archaeological Staff Officer]] for [[Judea and Samaria Area]] in [[Israel Antiquities Authority|Israel's Civilian Administration Antiquities Unit]], performing a clean-up operation at Shiloh this summer, a belated continuation to a previous 1998 dig, discovered the [[mosaic]] floor of a large Byzantine church which was probably constructed between 380 and 420.
+
+Three Byzantine [[basilica]]s have now been uncovered.<ref>{{cite web |url=http://www.christusrex.org/www1/ofm/mad/discussion/034discuss.htm |title=Mount Ephraim and Benjamin: 34. Selo, where the ark stayed - (Kh. Saylun) |last1=Alliata |first1=Eugenio |last2=de Luca |first2=Stefano |work=Christus Rex |access-date=25 December 2015 }}{{dead link|date=May 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The length of one, excavated by Hans Klær in the late 1920s, is {{convert|40|m|ft}}. The width, also measured externally, is {{convert|14.10|m|ft}}, but a {{convert|6.40|m|ft|adj=on}} wide room adjoins the building on the south side. This church had three naves, and 12 bases and two beautiful [[Corinthian order|Corinthian]] capitals {{convert|62|cm|in|abbr=on}} high and {{convert|72| - |61|cm|in|abbr=on}} wide are preserved. Their appearance recalls the well-known fourth-century style, with separate leaves revealing the ribbing of the back leaves, and a smooth leaf under the corner.
+
+A structure discovered in 2006 lies under a Muslim free-standing structure known as [[Mazar (mausoleum)|Weli]] Yetaim. It appears to have experienced problems with water drainage in its western section, despite the installation of runoff pipes and troughs. It appears that the solution was to raise the building's level and lay a new mosaic floor. It was the older, original floor at the lower level that was revealed during the summer of 2006. The [[:he:שילה (עיר מקראית)#cite note-2|mosaic contains geometric designs]], a cross, flora representations and three inscriptions, one, a dedication of a bench, the second, a salute to the residents of ''Siloun'' (as set in mosaic in [[uncial script]]: {{lang|grc|CIλOYN}}) and the third, a general wish for good tidings. Another discovery of an addition to one of the basilicas occurred in 2013.<ref>{{cite news |url= http://www.israelhayom.com/site/newsletter_article.php?id=8751 |title= Ancient church discovered at site where Ark of the Covenant once stood |work= [[Israel Hayom]] |access-date= 25 December 2015}}</ref>
+
+==Ambiguous use of "Shiloh" in Hebrew Bible==
+{{Main article|Shiloh (biblical figure)}}
+[[Shiloh (biblical figure)|Shiloh]] is mentioned in the Hebrew Bible in [[Book of Genesis|Genesis]] as part of the benediction given by [[Jacob]] to his son [[Judah (Bible)|Judah]]: "The scepter shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh comes, and unto him shall the gathering of the people be." ({{bibleverse|Genesis|49:10}}). It could be a figure, perhaps the [https://www.christiancourier.com/articles/1101-who-is-the-mysterious-shiloh Messiah], or a place, as mentioned later [https://web.archive.org/web/20131029204541/http://www.biblestudytools.com/judges/passage.aspx?q=judges+21:19-21 in Judges] and also in [http://www.mechon-mamre.org/e/et/et1141.htm Jeremiah 41:5].
+
+===Messianic Jewish and some Christian interpretations===
+[[Messianic Judaism]] became attached to Shiloh as a result of this verse. Shiloh is believed to refer to Jesus by some Christians. Alternative translations have led others, including some Christians, to different conclusions.<ref>{{Cite AmCyc |wstitle= Shiloh (ancient) |display= Shiloh, a town of ancient Palestine}}</ref>
+
+==See also==
+*[[Eben-Ezer]]
+*[[Nob, Israel]]
+*[[Song of Moses]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{refbegin}}
+*{{cite book |last1=Buhl |first1=Marie-Louise |first2=Svend |last2=Holm-Nielsen |title=Shiloh: the Danish excavations at Tall Sailūn, Palestine, in 1926, 1929, 1932 and 1963. The Pre-Hellenistic remains |publisher=The National Museum of Denmark |location=Copenhagen |date=1969 |oclc=654236437 |series=Nationalmuseets skrifter |volume=12 }}
+*{{cite book |last1=Finkelstein |first1=Israel |first2=Shelomoh |last2=Bunimovits |first3=Zvi |last3=Lederman |first4=Baruch |last4=Brandl |title=Shiloh: The Archaeology of a Biblical Site |publisher=Institute of Archaeology of Tel Aviv University |date=1993 |oclc=30370527 }}
+*{{cite book |first=Donald G. |last=Schley |title=Shiloh: A Biblical City in Tradition and History |publisher=JSOT Press |location=Sheffield |date=1989 |isbn=0-567-06639-8 |oclc=320323581 |url={{GBurl|fXKtAwAAQBAJ|p=5}} |series=Journal for the study of the Old Testament |volume=63}}
+** Reprint 2009 {{ISBN|978-0-567-50312-1}} {{OCLC|944500855}}. This is the only in-depth study of Shiloh from a textual, historical and archaeological perspective available; provides an exhaustive bibliography going back to 1805, which includes Albright's critical articles and insights.
+{{refend}}
+
+==External links==
+{{commons category|Tel Shilo}}
+*[https://www.koshertorah.com/PDF/shiloh.pdf Rabbi Ariel Bar Tzodeck's Insight into Shiloh (a Kabbalist perspective)]
+*[http://www.jewishencyclopedia.com/view.jsp?artid=630&letter=S&search=shiloh Shiloh] in the [[Jewish Encyclopedia]]
+*[https://www.solomonia.com/blog/archives/009648.shtml photos of the Mosaic from Tel Shiloh]
+*[https://www.pbase.com/rdavid/shiloh Photos of Tel Shiloh]
+
+{{Ark of the Covenant}}
+{{Sites of the Israelite Settlement}}
+{{Authority control}}
+
+{{DEFAULTSORT:Shiloh (Biblical City)}}
+[[Category:Ancient Hebrew pilgrimage sites]]
+[[Category:Archaeological sites in Samaria]]
+[[Category:Archaeological sites in the West Bank]]
+[[Category:Former populated places in Palestine]]
+[[Category:Hebrew Bible cities]]
+[[Category:Book of Genesis locations]]
+[[Category:Book of Judges locations]]
+[[Category:Book of Jeremiah locations]]
+[[Category:Tribe of Ephraim]]
+[[Category:Holy cities]]
+[[Category:Tells (archaeology)]]
+[[Category:Kingdom of Israel (united monarchy)]]
+[[Category:Eli (biblical figure)]]
+[[Category:Ancient Jewish settlements of Samaria]]
