@@ -1,0 +1,1590 @@
+{
+ "eli-duties": [
+  {
+   "text": "Easton's dictionary gives Eli three roles in one man: high priest while the ark was at Shiloh, civil judge of Israel for forty years, and (in the story of his death) an old man who sat by the sanctuary gate on the road, waiting for news from the battle. Easton glosses his eyes as 'stiffened', that is fixed, 'as of a blind eye unaffected by the light'.",
+   "source": "Easton's Bible Dictionary (1897), entry 'Eli'",
+   "evidence": [
+    {
+     "file": "easton_ebd.txt",
+     "offset": 913827,
+     "quote": "Ascent, the high priest when the ark was at Shiloh (1 Sam. 1:3, 9)."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 914229,
+     "quote": "He acted also as a civil judge in Israel after the death of Samson (1 Sam. 4:18), and judged Israel for forty years."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 915589,
+     "quote": "There Eli sat outside the gate of the sanctuary by the wayside, anxiously waiting for tidings from the battle-field."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 916035,
+     "quote": "When the old man, whose eyes were \"stiffened\" (i.e., fixed, as of a blind eye unaffected by the light) with age,"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Easton goes on to say Eli 'failed to reprove' his sons sternly enough; that moral verdict is not used here. The dictionary does not say when Eli's sight began to fail."
+  },
+  {
+   "text": "Three older reference works agree that Eli held the offices of priest and judge together. The 1915 encyclopaedia says it was the first time in Israel the two were combined in one person; Smith's says he held both; Easton's (in its entry 'Judge') says the judgeship came to him 'ex officio'.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Eli', vol 2; Smith's Bible Dictionary (1884 edition), entry 'Eli'; Easton's Bible Dictionary (1897), entry 'Judge'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 2180833,
+     "quote": "For the first, time in Israel, Eli combined in his own person the functions of high priest and judge, judging Israel for 40 years"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 649963,
+     "quote": "In addition to the office of high priest he held that of judge."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 1665186,
+     "quote": "and as to Eli, the office of judge seems to have devolved naturally or rather ex officio upon him."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling. 'First time in Israel' is one writer's claim (A. C. Grant); the other works do not repeat it."
+  },
+  {
+   "text": "Smith's lists the chief duties of the priests: keep the altar fire burning day and night, feed the golden lamp with oil, offer the morning and evening sacrifices at the door of the tabernacle, teach the children of Israel the statutes of the Lord, and act as a court of appeal in difficult criminal or civil cases (Deuteronomy 17:8-13).",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Priest', section 'Duties'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2279527,
+     "quote": "The chief duties of the priests were to watch over the fire on the altar of burnt offering, and to keep it burning evermore both by day and night,"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2279741,
+     "quote": "to feed the golden lamp outside the vail with oil (Exodus 27:20,21; Leviticus 24:2) to offer the morning and evening sacrifices, each accompanied with a meet offering and a drink offering, at the door of the tabernacle."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2280019,
+     "quote": "They were also to teach the children of Israel the statutes of the Lord."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2281124,
+     "quote": "They were to act (whether individually or collectively does not distinctly appear) as a court of appeal in the more difficult controversies in criminal or civil cases."
+    }
+   ],
+   "confidence": "high",
+   "caution": "These are the duties of the Aaronic priesthood in general, taken from the law. Smith's does not say which of them Eli himself carried out, or how they were shared among the priests and their servants at Shiloh."
+  },
+  {
+   "text": "Henry, on 1 Samuel 1, pictures Eli seated where he could 'receive addresses and give direction', and notes how he judged Hannah: he 'marked her mouth' and, seeing only her lips move, took her to be drunk. The verses printed in Henry have Eli 'sat upon a seat by a post of the temple of the Lord'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Samuel 1",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1594787,
+     "quote": "Now Eli the priest sat upon a seat by a post of the temple of the Lord."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1595350,
+     "quote": "Eli marked her mouth. 13 Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1601418,
+     "quote": "There Eli sat to receive addresses and give direction, and somewhere (it is probable in a private corner) he espied Hannah at her prayers"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The verses are the King James text as printed by Henry. 'In a private corner' is Henry's own guess. Neither the verses nor Henry say how well Eli could see at this point; his eyes are first called dim in chapter 3."
+  },
+  {
+   "text": "Henry, on 1 Samuel 2:25, says the 'judge' in the law (Deuteronomy 17:9) means the priest, who was 'appointed to be the judge in many cases', and adds that Eli 'was himself a judge' who had often made intercession for wrongdoers.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Samuel 2",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1661761,
+     "quote": "the judge (that is, the priest, who was appointed to be the judge in many cases, Deut. xvii. 9) shall judge him, shall undertake his cause, arbitrate the matter, and make atonement for the offender"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1662162,
+     "quote": "Eli was himself a judge, and had often made intercession for transgressors"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry is reading Eli's rebuke to his sons ('If one man sin against another, the judge shall judge him'). The exact procedure of Eli's court is not described anywhere on the shelf."
+  },
+  {
+   "text": "A duty that depended on looking: in Leviticus 13 the priest 'shall look on' a skin disease and pronounce the person clean or unclean, again after seven days. Henry reports a Jewish rule that a priest disabled from the sanctuary by a blemish could still judge the disease 'provided the blemish were not in his eye', and that he could take a common person to assist him in the search, 'but the priest only must pronounce the judgment'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Leviticus 13",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 2814577,
+     "quote": "And the priest shall look on the plague in the skin of the flesh: and when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy: and the priest shall look on him, and pronounce him unclean."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 2819510,
+     "quote": "\"Any priest, though disabled by a blemish to attend the sanctuary, might be a judge of the leprosy, provided the blemish were not in his eye."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 2819658,
+     "quote": "And he might\" (they say) \"take a common person to assist him in the search, but the priest only must pronounce the judgment.\""
+    }
+   ],
+   "confidence": "medium",
+   "caution": "'Leprosy' is the King James word for the skin conditions of Leviticus 13. Henry gives the Jewish rule as 'All the Jews say' with no named source and no date, so it may be later than Eli's time. His remark that lepers were 'stigmatized by the justice of God' is a dated attitude and is not used."
+  },
+  {
+   "text": "In 1 Samuel 3 Eli's eyes 'began to wax dim, that he could not see' while the lamp of God was still burning and Samuel slept nearby. Henry pictures Samuel as having 'waited on' Eli to his bed, and says that when Samuel kept coming to him Eli, perceiving it was God's voice, 'gave him instructions what to say'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Samuel 3",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1682794,
+     "quote": "2 And it came to pass at that time, when Eli was laid down in his place, and his eyes began to wax dim, that he could not see; 3 And ere the lamp of God went out in the temple of the Lord, where the ark of God was, and Samuel was laid down to sleep;"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1686348,
+     "quote": "Samuel had waited on him to his bed, and the rest that attended the service of the sanctuary had gone, we may suppose, to their several apartments"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1693746,
+     "quote": "Eli, perceiving that it was the voice of God that Samuel heard, gave him instructions what to say, v."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry connects Eli's failing sight to his sons' faults ('an affliction which came justly upon him'); that is a dated and patronising reading of blindness and is deliberately not quoted. 'Waited on him to his bed' is Henry's picture, not the text."
+  },
+  {
+   "text": "Henry, on 1 Samuel 4, calls Eli 'old, and blind, and heavy' yet unable to stay in his chamber: he placed himself 'by the way-side, to receive the first intelligence'. In the verses Eli hears 'the noise of the crying' and asks what it means; Henry says the messenger 'was loth to tell him first' and so, having passed Eli 'in the gate', told the city before telling Eli.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Samuel 4",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1730917,
+     "quote": "14 And when Eli heard the noise of the crying, he said, What meaneth the noise of this tumult? And the man came in hastily, and told Eli."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1732495,
+     "quote": "Eli sat in the gate (v. 13, 18), but the messenger was loth to tell him first, and therefore passed him by, and told it in the city"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1734103,
+     "quote": "Though old, and blind, and heavy, yet he could not keep his chamber when he was sensible the glory of Israel lay at stake, but placed himself by the way-side, to receive the first intelligence"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's 'heavy' is his word for Eli's age and weight; the verse says Eli's eyes were dim at ninety-eight. Where exactly the 'gate' of Shiloh stood is not known; Easton's has the seat 'outside the gate of the sanctuary by the wayside'."
+  },
+  {
+   "text": "The 1915 encyclopaedia says what a judge's hearing looked like: the court was open to the public, each party presented his own view of the case, and the only evidence the court considered was what the witnesses said. The judge's first duty was to give absolute justice, with the same impartiality to rich and poor.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Judge', vol 3",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 3430596,
+     "quote": "The first duty of a judge was to execute absolute justice, showing the same impartiality to rich and poor,"
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 3430977,
+     "quote": "The court was open to the public (Ex 18 13; Ruth 4 1.2). Each party presented his view of the case to the judge (Dt 1 16; 25 1)."
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 3431422,
+     "quote": "The only evidence considered by the court was that given by the witnesses."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling. This is a general account of the judge's work in Israel's law; it is not specific to the period of Eli."
+  },
+  {
+   "text": "Wikipedia gives a shorter modern summary: Eli was a priest (kohen) of Shiloh and the second-to-last judge before the kings; priestly duties were offering the sacrifices and delivering the Priestly Blessing; and biblical passages attest priests teaching Torah and 'issuing judgment'. Certain physical blemishes could disqualify a kohen from service, but never permanently.",
+   "source": "Wikipedia, 'Eli (biblical figure)', revision of 29 July 2026 (CC BY-SA 4.0); Wikipedia, 'Kohen', revision of 22 September 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Eli_biblical_figure.wiki.txt",
+     "offset": 2263,
+     "quote": "Eli was a priest (''kohen'') of Shiloh, the second-to-last Israelite [[biblical judges|judge]]"
+    },
+    {
+     "file": "wikipedia_Kohen.wiki.txt",
+     "offset": 9632,
+     "quote": "Priestly duties involved offering the Temple [[Korban|sacrifices]], and delivering the [[Priestly Blessing]]."
+    },
+    {
+     "file": "wikipedia_Kohen.wiki.txt",
+     "offset": 17420,
+     "quote": "Numerous Biblical passages attest to the role of the priests in teaching [[Torah]] to the people and in issuing judgment."
+    },
+    {
+     "file": "wikipedia_Kohen.wiki.txt",
+     "offset": 21051,
+     "quote": "The kohen is never permanently disqualified from service, but may return to his normal duties once the disqualification ceases."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Raw wikitext (links and templates left in). The Kohen article's disqualification sentence rests on Leviticus 21:17-23 and later rabbinic law; the shelf has no source saying whether a blind priest was ever allowed to serve at the altar, or whether Eli was exempt as high priest."
+  }
+ ],
+ "ahijah-duties": [
+  {
+   "text": "The 1915 encyclopaedia, in its entry on Shiloh, calls Ahijah 'the blind old prophet' whom Jeroboam's wife consulted in vain; in its entry on Ahijah it says the narrative gives the impression that he was 'a very old man' at the time.",
+   "source": "International Standard Bible Encyclopaedia (1915), entries 'Shiloh' and 'Ahijah', vols 4 and 1",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol4.txt",
+     "offset": 5859021,
+     "quote": "the blind old prophet Ahijah was appealed to ni vain by Jeroboam's wife on behalf of her son"
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 743135,
+     "quote": "The narrative makes the impression that Ahijah was at this time a very old man (ver 4)."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling. ('ni vain' is the scan's error for 'in vain'.) The word 'blind' is the encyclopaedia's reading of 1 Kings 14:4."
+  },
+  {
+   "text": "1 Kings 14:4-6, as printed in Henry: 'Ahijah could not see; for his eyes were set by reason of his age', and when he 'heard the sound of her feet, as she came in at the door' he called Jeroboam's wife by name and asked why she pretended to be another woman.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Kings 14",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3684349,
+     "quote": "But Ahijah could not see; for his eyes were set by reason of his age."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3684687,
+     "quote": "And it was so, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself to be another?"
+    }
+   ],
+   "confidence": "high",
+   "caution": "The verses say he heard her feet; they also say the Lord had warned him ('God gave Ahijah notice', in Henry's words), so the recognising is not attributed to hearing alone."
+  },
+  {
+   "text": "Henry says Ahijah 'lived obscurely and neglected in Shiloh, blind through age, yet still blest with the visions of the Almighty'. Henry adds that such visions 'need not bodily eyes, but are rather favoured by the want of them'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Kings 14",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3687763,
+     "quote": "blind through age, yet still blest with the visions of the Almighty, which need not bodily eyes, but are rather favoured by the want of them, the eyes of the mind being then most intent and least diverted."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "This is Henry's devotional opinion, not something the text says. The idea that blindness sharpens inner vision can sound like romanticising; it is offered as how one commentator read the verse, not as a claim about blind people."
+  },
+  {
+   "text": "Henry lists what the prophet did and did not do when the queen came: God told him she was coming in disguise and what to say; he 'had no regard' to her rank or to the 'handsome country present' she brought, since it was usual to bring prophets tokens of respect, which they accepted 'and yet were no hirelings'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Kings 14",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3690679,
+     "quote": "III. God gave Ahijah notice of the approach of Jeroboam's wife, and that she came in disguise, and full instructions what to say to her (v. 5)"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3691293,
+     "quote": "It was usual for those who consulted prophets to bring them tokens of respect, which they accepted, and yet were no hirelings."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3691426,
+     "quote": "She brought him a handsome country present (v. 3)"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The custom of bringing a gift to a consulted prophet is Henry's statement; he cites 1 Samuel 9 and 1 Kings 14:3 only. How often Ahijah saw visitors, or who helped him receive them, is not recorded."
+  },
+  {
+   "text": "Earlier, Ahijah met Jeroboam on the road and gave him a sign: he clad himself in a new garment and tore it into twelve pieces, giving Jeroboam ten. Henry notes the sign was probably Ahijah's own garment, and that prophets 'both true and false' used such acted signs.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Kings 11",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3612328,
+     "quote": "The sign by which it was represented to him was the rending of a garment into twelve pieces, and giving him ten, v. 30, 31."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3612951,
+     "quote": "The prophets, both true and false, used such signs, even in the New Testament, as Agabus, Acts xxi. 10, 11."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3612027,
+     "quote": "He delivered his message to Jeroboam in the way, his servants being probably ordered to retire"
+    }
+   ],
+   "confidence": "high",
+   "caution": "This is the earlier meeting (1 Kings 11:29-31), when nothing says Ahijah's sight had failed; the later one is chapter 14. How many years lay between them is not stated on the shelf."
+  },
+  {
+   "text": "Easton's entry on Ahijah describes the prophet of Shiloh: two of his prophecies are on record (the rending of the ten tribes from Solomon, and the message to Jeroboam's wife about the death of the king's son and the fall of his house), and Jeroboam showed 'the high esteem in which he was held'.",
+   "source": "Easton's Bible Dictionary (1897), entry 'Ahijah'",
+   "evidence": [
+    {
+     "file": "easton_ebd.txt",
+     "offset": 113200,
+     "quote": "A prophet of Shiloh (1 Kings 11:29; 14:2), called the \"Shilonite,\" in the days of Rehoboam."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 113302,
+     "quote": "We have on record two of his remarkable prophecies, 1 Kings 11:31-39, announcing the rending of the ten tribes from Solomon;"
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 113661,
+     "quote": "Jeroboam bears testimony to the high esteem in which he was held as a prophet of God"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Easton gives the two prophecies as his 'record'; whether he did anything else (taught, led a school, advised in other matters) is not said."
+  },
+  {
+   "text": "Easton on 'prophet': a spokesman for God who speaks in God's name; foretelling was 'only an incidental part' of the office. The great task was 'to correct moral and religious abuses' and proclaim truths about God's character. From Samuel's time there were colleges, 'schools of the prophets', where young men were trained.",
+   "source": "Easton's Bible Dictionary (1897), entry 'Prophet'; Smith's Bible Dictionary (1884 edition), entry 'Prophet'",
+   "evidence": [
+    {
+     "file": "easton_ebd.txt",
+     "offset": 2358235,
+     "quote": "Thus a prophet was a spokesman for God; he spake in God's name and by his authority (Ex. 7:1)."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 2358919,
+     "quote": "The foretelling of future events was not a necessary but only an incidental part of the prophetic office."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 2360134,
+     "quote": "Colleges, \"schools of the prophets\", were instituted for the training of prophets"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2295564,
+     "quote": "They were preachers of morals and of spiritual religion."
+    }
+   ],
+   "confidence": "high",
+   "caution": "General accounts of the prophetic office. Nothing on the shelf says Ahijah belonged to a school; he is called a prophet of Shiloh and a Shilonite only."
+  },
+  {
+   "text": "Where prophets worked: Easton says prophets 'frequently delivered their messages' at the city gates. Henry, on 1 Kings 22, pictures the two kings sitting 'in their robes and chairs of state, in the gate of Samaria, ready to receive this poor prophet' Micaiah.",
+   "source": "Easton's Bible Dictionary (1897), entry 'Gate'; Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Kings 22",
+   "evidence": [
+    {
+     "file": "easton_ebd.txt",
+     "offset": 1156715,
+     "quote": "At the gates prophets also frequently delivered their messages (Prov. 1:21; 8:3; Isa. 29:21; Jer. 17:19, 20; 26:10)."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3971523,
+     "quote": "The two kings sat each in their robes and chairs of state, in the gate of Samaria, ready to receive this poor prophet"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Neither passage is about Ahijah; they show the setting prophets spoke in. Ahijah is described receiving a visitor 'at the door' of his house (1 Kings 14:6) and meeting Jeroboam 'in the way' (1 Kings 11:29)."
+  },
+  {
+   "text": "Wikipedia notes that Ahijah is credited in 2 Chronicles with writing a book, 'the Prophecy of Ahijah the Shilonite', about Solomon's reign, which has not survived; and that the Midrash, from the description of him as 'extremely aged in Jeroboam's time', identified him with an earlier priest and gave him a very long life.",
+   "source": "Wikipedia, 'Ahijah the Shilonite', revision of 22 September 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Ahijah_the_Shilonite.wiki.txt",
+     "offset": 1774,
+     "quote": "authored a book, described as the \"Prophecy of Ahijah the Shilonite,\" which contained information about Solomon's reign."
+    },
+    {
+     "file": "wikipedia_Ahijah_the_Shilonite.wiki.txt",
+     "offset": 2617,
+     "quote": "The Midrash, basing itself on the fact that, according to II Chron. ix. 29, Ahijah is described as extremely aged in Jeroboam's time (I Kings, xiv. 4)"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Raw wikitext. The rabbinic ages (hundreds of years) are tradition, not text. Whether a prophet who could not see would have dictated or recited such a book is not discussed on the shelf."
+  }
+ ],
+ "gate-life": [
+  {
+   "text": "Edersheim's picture of an ancient fortified town: a low wall and a ditch, then the city wall and 'a massive gate, often covered with iron, and secured by strong bars and bolts', with the watch-tower above it. 'Within the gate' was the sheltered place where 'the elders' sat to discuss public affairs or the news of the day or transact business.",
+   "source": "Edersheim, Sketches of Jewish Social Life (1876), chapter 6, 'Jewish Homes' (the passage on town and country life)",
+   "evidence": [
+    {
+     "file": "edersheim_sketches.txt",
+     "offset": 161154,
+     "quote": "Crossing this moat, one would be at the city wall proper, and enter through a massive gate, often covered with iron, and secured by strong bars and bolts."
+    },
+    {
+     "file": "edersheim_sketches.txt",
+     "offset": 161315,
+     "quote": "Above the gate rose the watch-tower."
+    },
+    {
+     "file": "edersheim_sketches.txt",
+     "offset": 161435,
+     "quote": "Here grave citizens discussed public affairs or the news of the day, or transacted important business."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim (1876) draws on the Bible and on rabbinic writings of several centuries; his town is a composite. He also describes a Pharisee, an Essene and a publican in this scene in colourful terms that are not quoted."
+  },
+  {
+   "text": "Beyond the gate, Edersheim says, 'large squares' opened where the streets met: country people hawked produce of field, orchard and dairy; foreign merchants and pedlars exposed their wares; the crowd was 'chattering, chaffing, good-humoured'. The streets were named after the trades or guilds, and workmen 'sat outside their shops' and 'exchanged greetings or banter with the passers-by'.",
+   "source": "Edersheim, Sketches of Jewish Social Life (1876), chapter 6, 'Jewish Homes'",
+   "evidence": [
+    {
+     "file": "edersheim_sketches.txt",
+     "offset": 161541,
+     "quote": "The gates opened upon large squares, on which the various streets converged. Here was the busy scene of intercourse and trade."
+    },
+    {
+     "file": "edersheim_sketches.txt",
+     "offset": 161674,
+     "quote": "The country-people stood or moved about, hawking the produce of field, orchard, and dairy; the foreign merchant or pedlar exposed his wares"
+    },
+    {
+     "file": "edersheim_sketches.txt",
+     "offset": 162463,
+     "quote": "These streets are all named, mostly after the trades or guilds which have there their bazaars."
+    },
+    {
+     "file": "edersheim_sketches.txt",
+     "offset": 162884,
+     "quote": "In these bazaars many of the workmen sat outside their shops, and, in the interval of labour, exchanged greetings or banter with the passers-by."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "A nineteenth-century composite, as above. It is a description of towns of Jesus's day, not of Shiloh or the walled towns of the judges."
+  },
+  {
+   "text": "Smith's on the gate: the gates were 'carefully guarded, and closed at nightfall', held 'chambers over the gateway', and had two-leaved doors 'plated with metal, closed with locks and fastened with metal bars'. They were places of public deliberation, justice, audience for kings and ambassadors, and public markets.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Gate'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 823642,
+     "quote": "Places for public deliberation, administration of Justice, or of audience for kings and rulers or ambassadors."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 824031,
+     "quote": "Regarded therefore as positions of great importance, the gates of cities were carefully guarded, and closed at nightfall."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 824225,
+     "quote": "They contained chambers over the gateway."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 824296,
+     "quote": "The doors themselves of the larger gates mentioned in Scripture were two leaved, plated with metal, closed with locks and fastened with metal bars."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The scripture references in Smith's are mostly to the monarchy and later; the town gate in the time of the judges was probably simpler. Smith's does not describe the guard's routine at closing time."
+  },
+  {
+   "text": "The 1915 encyclopaedia on the build of the gate: doors on pivots set in sockets in sill and lintel; when shut, a bar 'fitted into clamps on the doors and sockets in the post'; a tower to protect it, 'often... overhanging', sometimes an inner gate; and to 'possess the gate' was to possess the city.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Gate', vol 2",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 4336610,
+     "quote": "When closed, the doors were secured with a bar (usually of wood, Nah 3 13, but sometimes of metal, 1 K 4 13; Ps 107 16; Isa 45 2), which fitted into clamps on the doors and sockets in the post, uniting the whole firmly (Jgs 16 3)."
+    },
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 4337181,
+     "quote": "it was protected by a tower (2 S 18 24.33; 2 Ch 14 7; 26 9), often, doubtless, overhanging and with flanking projec- tions. Sometimes an inner gate was added (2 S 18 24)."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling. The writer adds that 'Pal gives us little monumental detail', so this is partly reconstruction."
+  },
+  {
+   "text": "Henry on Ruth 4: Boaz 'went up to the gate' as 'one having authority', perhaps as 'father of the city' who 'sat chief'. Though it was not court-day he gathered ten elders 'in the town-hall over the gate, where public business used to be transacted', and, being a judge, 'would not be judge in his own cause'. The sale was confirmed by a man drawing off his shoe and giving it to his neighbour.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Ruth 4",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1552508,
+     "quote": "Perhaps he was father of the city, and sat chief; for he seems here to have gone up to the gate as one having authority, and not as a common person"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1553727,
+     "quote": "he got ten men of the elders of the city to meet him in the town-hall over the gate, where public business used to be transacted, v. 2."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1553943,
+     "quote": "Boaz, though a judge, would not be judge in his own cause, but desired the concurrence of other elders."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1552160,
+     "quote": "a man plucked off his shoe, and gave it to his neighbour: and this was a testimony in Israel."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "'Town-hall over the gate' and 'sat chief' are Henry's inferences from the text, which says only that Boaz sat at the gate and took ten elders. The seating arrangement beyond that is not given."
+  },
+  {
+   "text": "Job 29:7-8 as printed in Henry (the passage where Job says he was 'eyes to the blind'): Job 'went out to the gate through the city' and 'prepared my seat in the street'; the young men 'saw me, and hid themselves: and the aged arose, and stood up'. The verses show who stood and who sat when a man of standing came to the gate.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Job 29",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 940865,
+     "quote": "7 When I went out to the gate through the city, when I prepared my seat in the street! 8 The young men saw me, and hid themselves: and the aged arose, and stood up."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The passage is also used on the law-and-life page for Job 29; it is repeated here for its gate scene. The verses are the King James text; they describe Job's own account of his past standing."
+  },
+  {
+   "text": "The watchman and the porter: in 2 Samuel 18:24-27, as printed in Henry, David 'sat between the two gates' while the watchman 'went up to the roof over the gate unto the wall' and called out each runner he saw; he 'called unto the porter' and recognised the first runner by his running. Easton's 'Porter' says porters were gate-keepers, 4,000 of them Levites 'to take charge of the doors and gates of the temple'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 2 Samuel 18; Easton's Bible Dictionary (1897), entry 'Porter'",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3074824,
+     "quote": "24 And David sat between the two gates: and the watchman went up to the roof over the gate unto the wall, and lifted up his eyes, and looked, and behold a man running alone."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3075349,
+     "quote": "And the watchman said, Me thinketh the running of the foremost is like the running of Ahimaaz the son of Zadok."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 2337566,
+     "quote": "A gate-keeper (2 Sam. 18:26; 2 Kings 7:10; 1 Chr. 9:21; 2 Chr. 8:14)."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 2337794,
+     "quote": "to take charge of the doors and gates of the temple."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The 1915 encyclopaedia (entry 'Watchman') says there were sentinels on the walls and also 'watchmen that go about the city', which 'points to some system of municipal police'; the shelf has no account of night patrols in an ordinary town."
+  },
+  {
+   "text": "Easton on the elders and the gate: elders were 'local magistrates, administering justice'; 'at the gates of cities courts of justice were frequently held, and hence \"judges of the gate\" are spoken of'; 'criminals were punished without the gates'. Among the Arabs, Easton notes, the sheik ('the old man') is the highest authority in the tribe.",
+   "source": "Easton's Bible Dictionary (1897), entries 'Elder' and 'Gate'",
+   "evidence": [
+    {
+     "file": "easton_ebd.txt",
+     "offset": 1156544,
+     "quote": "At the gates of cities courts of justice were frequently held, and hence \"judges of the gate\" are spoken of (Deut. 16:18; 17:8; 21:19; 25:6, 7, etc.)."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 1156852,
+     "quote": "Criminals were punished without the gates (1 Kings 21:13; Acts 7:59)."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 905480,
+     "quote": "They appear as governors (Deut. 31:28), as local magistrates (16:18), administering justice (19:12)."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 905039,
+     "quote": "At the present day this is the case among the Arabs, where the sheik (i.e., \"the old man\") is the highest authority in the tribe."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The 'present day' in Easton is 1897. How the elders took turns or who sat where is not described."
+  },
+  {
+   "text": "Trade at the gate: Smith's lists 'public markets' among the gate's uses (2 Kings 7:1). Henry, on 2 Kings 7, explains Elisha's promise that corn would be sold 'in the gate of Samaria' as meaning the siege would end, 'for the gate of the city shall be opened, and the market shall be held there as formerly'. Easton adds that in early times markets were held at the gates, and that particular goods were sold in particular streets.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Gate'; Matthew Henry, Commentary on the Whole Bible (1706-1721), on 2 Kings 7; Easton's Bible Dictionary (1897), entry 'Market-place'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 823841,
+     "quote": "Public markets. (2 Kings 7:1)"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 4216350,
+     "quote": "that is, the siege shall be raised, for the gate of the city shall be opened, and the market shall be held there as formerly."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 1863515,
+     "quote": "In early times markets were held at the gates of cities, where commodities were exposed for sale (2 Kings 7:18)."
+    }
+   ],
+   "confidence": "high",
+   "caution": "This is one siege-time example; the shelf does not give prices, hours, or how buyers and sellers were arranged."
+  },
+  {
+   "text": "Henry on Amos 5:10-12 makes the gate also the place of injustice: 'Thus they turn aside the poor in the gate, in the courts of justice, from their right', and they 'hate him that rebukes in the gate', 'in the places of concourse'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Amos 5",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 7225390,
+     "quote": "Thus they turn aside the poor in the gate, in the courts of justice, from their right."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 7226329,
+     "quote": "They hate him that rebukes in the gate, in the gate of the Lord's house, or in their courts of justice, or in the places of concourse"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry is explaining the prophet's complaint (Amos 5:10, 12); it is not specifically about blind or disabled people, though 'the poor' who could not press their own case would include them."
+  }
+ ],
+ "canes-and-staffs": [
+  {
+   "text": "Greek tradition: the myth of Tiresias gives the blind prophet a staff. Wikipedia's account of Pherecydes' version has Athena grant him 'a staff of cornel-wood, \"wherewith he walked like those who see\"'. Levy (1872) reads this as proof that the ancients were struck by blind people walking alone 'aided only by a stick', and made it 'a miraculous gift of the gods'.",
+   "source": "Wikipedia, 'Tiresias', revision of 2 October 2026 (CC BY-SA 4.0); Levy, Blindness and the Blind (1872), chapter 'On the Blind Walking Alone, and of Guides'",
+   "evidence": [
+    {
+     "file": "wikipedia_Tiresias.wiki.txt",
+     "offset": 6237,
+     "quote": "granted him a staff of [[Cornus mas|cornel-wood]], \"wherewith he walked like those who see\""
+    },
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 168306,
+     "quote": "The ancients were so much struck with the circumstance of the blind walking alone, aided only by a stick, that, in their usual way, they made it a miraculous gift of the gods"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "A myth, not a record of practice; it is as early as the shelf gets for a staff in a blind person's hand, but it is Greek, and Wikipedia cites the mythographer Pseudo-Apollodorus (a later retelling) for the staff. Levy's inference from the myth is his own. Nothing on the shelf shows how ancient Israelites who were blind moved about."
+  },
+  {
+   "text": "Levy (1872) argues that blind people walking alone in the streets was 'by no means uncommon 250 years ago' and says Leviticus 19:14 and Deuteronomy 27:18 'show the special care of God'. (His reference 'Deuteronomy xvii. 18' is a slip for 27:18.) He says a blind walker needs a light stick that does not flex.",
+   "source": "Levy, Blindness and the Blind (1872), chapter 'On the Blind Walking Alone, and of Guides'",
+   "evidence": [
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 166885,
+     "quote": "The above graphic lines show that the phenomenon of the blind walking alone in the streets was by no means uncommon 250 years ago"
+    },
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 167714,
+     "quote": "These passages forcibly show the special care of God"
+    },
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 170383,
+     "quote": "One of the greatest aids to him who would walk by himself is a stick ; this should be light and not elastic, in order that correct impressions may be transmitted from the objects with which it comes in contact to the hand of the user."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Levy's reading of Leviticus 19:14 as proof that blind people in the law's time walked abroad without a guide is an inference, not something the verse says. His text elsewhere is patronising about some sighted helpers and some groups; only the practical points are used."
+  },
+  {
+   "text": "Levy gives a 1872 teaching of stick technique: wave the stick 'alternately from right to left to correspond with the movements of the feet', and on coming to a step 'its depth or height should be gauged with the stick, and this operation should be rigidly carried out, as the life of the individual may depend on the result'.",
+   "source": "Levy, Blindness and the Blind (1872), chapter 'On the Blind Walking Alone, and of Guides'",
+   "evidence": [
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 171560,
+     "quote": "When stepping, the stick should be waved alternately from right to left to correspond with the movements of the feet"
+    },
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 173407,
+     "quote": "On coming to a step, its depth or height should be gauged with the stick, and this operation should be rigidly carried out, as the life of the individual may depend on the result."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "A 19th-century manual, not evidence for ancient practice. It is useful as a description of what a stick does on steps and uneven ground, which Brian can compare with his own cane technique."
+  },
+  {
+   "text": "James Wilson, blind from infancy and writing in 1838, describes his own staff: 'A blind person always inclines to the hand in which his staff is carried, and this often has a tendency to lead him astray, when he travels on a road with which he is unacquainted.' He tells of 'groping about with my staff' at a fork in the road when a man stopped him two steps from a well 'eighty feet deep, and half full of water'.",
+   "source": "Wilson, Biography of the Blind (1838), the author's own life",
+   "evidence": [
+    {
+     "file": "wilson_biography_of_the_blind_1838.txt",
+     "offset": 71888,
+     "quote": "A blind person always inclines to the hand in which his staff is carried, and this often has a tendency to lead him astray, when he travels on a road with"
+    },
+    {
+     "file": "wilson_biography_of_the_blind_1838.txt",
+     "offset": 74816,
+     "quote": "I was groping about with my staff to ascertain the turn of the road, when a man bawled out to me, to stand still, and not move a single step."
+    },
+    {
+     "file": "wilson_biography_of_the_blind_1838.txt",
+     "offset": 75031,
+     "quote": "told me, that two steps more would have hurried me into a well eighty feet deep, and half full of water."
+    }
+   ],
+   "confidence": "high",
+   "caution": "A first-person account by a blind man in Ulster (the text names Ballymena and Broughshane); the habit he describes (veering to the stick hand on unfamiliar ground) is the kind of detail that carries across centuries but is not evidence about the first century."
+  },
+  {
+   "text": "Wilson also writes of using his staff to cross a stream: 'I groped with my staff for the first stepping stone, and getting on it, I took hold of his hand, and bade him put his foot where mine was'; the sighted soldier he led across remarked that Wilson's eyes were better than his. Wilson quotes Dr. Bew on the blind road-builder John Metcalf: 'With the assistance only of a long staff, I have several times met this man traversing the road, ascending precipices'.",
+   "source": "Wilson, Biography of the Blind (1838), the author's own life; and the life of Metcalf",
+   "evidence": [
+    {
+     "file": "wilson_biography_of_the_blind_1838.txt",
+     "offset": 48520,
+     "quote": "I groped with my staff for the first stepping stone, and getting on it, I took hold of his hand, and bade him put his foot where mine was"
+    },
+    {
+     "file": "wilson_biography_of_the_blind_1838.txt",
+     "offset": 305437,
+     "quote": "only of a long staff, I have several times met this man traversing the road, ascending precipices."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Both are 18th-19th century accounts. The Metcalf remark is a sighted observer's testimony reported by Wilson."
+  },
+  {
+   "text": "A rule that may bear on Brian's question: Edersheim, citing rabbinic rules, says one 'must not enter' the Temple 'carrying a staff, nor with shoes, nor even dust on the feet, nor with scrip or purse', and that Jesus's order to the Twelve not to take a staff corresponds to 'the Rabbinic injunction not to enter the Temple-precincts with staff, shoes'. The rule is stated for everyone; the shelf does not say whether a blind person's staff or guide was exempt.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah (1883), chapter X ('The Synagogue at Nazareth') and chapter XXVII ('Second Visit to Nazareth - the Mission of the Twelve')",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1369984,
+     "quote": "such as, that we must not enter it carrying a staff, nor with shoes, nor even dust on the feet, nor with scrip or purse, do not apply to the Synagogue"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1971878,
+     "quote": "exactly correspond to the Rabbinic injunction not to enter the Temple-precincts with staff, shoes"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim gives the rule as rabbinic and cites it only by footnote; the shelf does not hold the Mishnah itself. A blind person's exemption (if any) is not in these sources, so none is claimed. Edersheim also says the rule did not apply to synagogues."
+  },
+  {
+   "text": "Edersheim, on Sabbath law, says anything forming part of a person's ordinary dress might be worn on the Sabbath and that it 'was also allowed to go about on crutches, or with a wooden leg'. He also says a staff might have 'a secret receptacle at the top... to hold valuables, or, in the case of the poor, water' (Kelim 17:16), which shows the staff was ordinary equipment.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah (1883), Appendix XVII (the Sabbath law in the Mishnah) and chapter XXVII (the Mission of the Twelve)",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 4491249,
+     "quote": "It was also allowed to go about on crutches, or with a wooden leg, and children might have bells on their dresses;"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1998116,
+     "quote": "Sometimes there was a secret receptacle at the top of the staff to hold valuables, or, in the case of the poor, water (Kel. xvii. 16)."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim does not mention canes for the blind; the crutch rule is the nearest neighbour, and whether a blind person's staff counted as dress or as a burden on the Sabbath is not answered on the shelf."
+  },
+  {
+   "text": "Staffs in the Bible, as the verses stand in Henry: Jacob, 'with my staff I passed over this Jordan'; Israel ate the Passover with 'your staff in your hand'; and Zechariah promises 'old men and old women' in Jerusalem's streets, 'every man with his staff in his hand for very age'. The 1915 encyclopaedia adds that Hebrew has several words for 'rod' and 'staff' and that 'in Ps 23 4 ... shebhet is the shepherd's rod, figurative of Divine guidance and care'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Genesis 32, Exodus 12 and Zechariah 8; International Standard Bible Encyclopaedia (1915), entries 'Rod' and 'Staff', vols 4 and 5",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 1136308,
+     "quote": "for with my staff I passed over this Jordan; and now I am become two bands."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 1836426,
+     "quote": "with your loins girded, your shoes on your feet, and your staff in your hand;"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 8332649,
+     "quote": "There shall yet old men and old women dwell in the streets of Jerusalem, and every man with his staff in his hand for very age."
+    },
+    {
+     "file": "isbe_1915_vol4.txt",
+     "offset": 4326194,
+     "quote": "shebhet is the shepherd's rod, figurative of Divine guidance and care."
+    }
+   ],
+   "confidence": "high",
+   "caution": "None of these verses is about a blind person. They show that a staff was ordinary equipment for travel and old age. The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling."
+  },
+  {
+   "text": "Guides in the Bible: Samson 'said unto the lad that held him by the hand, Suffer me that I may feel the pillars' (Judges 16:26); of Elymas, 'he went about seeking some to lead him by the hand' (Acts 13:11); and Saul, struck blind, was led by the hand into Damascus, as Henry's note on Acts 9 puts it. Jesus 'took the blind man by the hand, and led him out of the town' (Mark 8:23).",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Judges 16, Acts 9, Acts 13 and Mark 8",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1275191,
+     "quote": "26 And Samson said unto the lad that held him by the hand, Suffer me that I may feel the pillars whereupon the house standeth, that I may lean upon them."
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 956614,
+     "quote": "and he went about seeking some to lead him by the hand."
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 683702,
+     "quote": "They led him by the hand into Damascus"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 2962696,
+     "quote": "And he took the blind man by the hand, and led him out of the town;"
+    }
+   ],
+   "confidence": "high",
+   "caution": "The verses show a guide by the hand, not a staff; they are the nearest biblical evidence for how a newly or long-blind person was moved about. Where the verses do not mention a cane or staff, none is assumed."
+  },
+  {
+   "text": "Wikipedia's 'White cane' says in one sentence that 'Blind people have used canes as mobility tools for centuries', and then gives the modern history: James Biggs painted his walking stick white in 1921; Peoria passed the first white-cane ordinance in December 1930; France followed in 1931; Richard Hoover developed the long-cane technique in 1944.",
+   "source": "Wikipedia, 'White cane', revision of 25 September 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_White_cane.wiki.txt",
+     "offset": 4288,
+     "quote": "Blind people have used canes as mobility tools for centuries."
+    },
+    {
+     "file": "wikipedia_White_cane.wiki.txt",
+     "offset": 4906,
+     "quote": "painted his walking stick white to be more easily visible."
+    },
+    {
+     "file": "wikipedia_White_cane.wiki.txt",
+     "offset": 5096,
+     "quote": "The first special white cane ordinance was passed in December 1930 in [[Peoria, Illinois]]"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The 'centuries' sentence is supported only by a link to a page on the history of orientation and mobility as a profession; it gives no date or place. The Wikipedia articles 'Walking stick' and 'Staff of office' on the shelf say nothing about the Bible or ancient practice and are not used."
+  }
+ ],
+ "jerusalem-layout": [
+  {
+   "text": "Josephus, Wars V.4.1: Jerusalem was built on two hills 'opposite to one another' with 'a valley to divide them asunder', the corresponding rows of houses on both hills ending at it. The Valley of the Cheesemongers 'extended as far as Siloam'. The Hasmoneans filled in part of the other valley to 'join the city to the temple' and cut down the height of Acra.",
+   "source": "Josephus (Whiston translation), Wars of the Jews, Book V, chapter 4, section 1",
+   "evidence": [
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 906457,
+     "quote": "The city was built upon two hills, which are opposite to one another, and have a valley to divide them asunder; at which valley the corresponding rows of houses on both hills end."
+    },
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 907154,
+     "quote": "However, in those times when the Asamoneans reigned, they filled up that valley with earth, and had a mind to join the city to the temple."
+    },
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 907440,
+     "quote": "Now the Valley of the Cheesemongers, as it was called, and was that which we told you before distinguished the hill of the upper city from that of the lower, extended as far as Siloam"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Whiston's 1737 translation; Josephus wrote c. 75 CE, after the 70 CE destruction, from memory and from earlier sources. The 'valley' he calls the Tyropoeon is the central valley of the city."
+  },
+  {
+   "text": "Josephus, Antiquities XV.11.5, on the west side of Herod's Temple: four gates; the first 'went to a passage over the intermediate valley' (to the king's palace); the last 'led to the other city, where the road descended down into the valley by a great number of steps, and thence up again by the ascent'. The south royal cloister stood over a valley so deep that a person looking down 'would be giddy'.",
+   "source": "Josephus (Whiston translation), Antiquities of the Jews, Book XV, chapter 11, section 5",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 2319512,
+     "quote": "the first led to the king's palace, and went to a passage over the intermediate valley; two more led to the suburbs of the city; and the last led to the other city, where the road descended down into the valley by a great number of steps, and thence up again by the ascent"
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 2320278,
+     "quote": "while the valley was very deep, and its bottom could not be seen, if you looked from above into the depth, this further vastly high elevation of the cloister stood upon that height, insomuch that if any one looked down from the top of the battlements, or down both those altitudes, he would be giddy"
+    }
+   ],
+   "confidence": "high",
+   "caution": "The shelf's translation is Whiston's; its numbers are Josephus's own and are not checked against excavation here."
+  },
+  {
+   "text": "Josephus, Wars V.5: the Temple courts were reached by successive flights of steps. A stone partition three cubits high; the second court 'ascended to by fourteen steps from the first court'; further steps 'each of five cubits' led to the gates; the eastern gate had 'fifteen steps' from the court of women; the holy house was 'ascended to by twelve steps'. The outer cloisters were thirty cubits broad and the compass of the outer court six furlongs.",
+   "source": "Josephus (Whiston translation), Wars of the Jews, Book V, chapter 5, sections 1-4",
+   "evidence": [
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 920650,
+     "quote": "The cloisters [of the outmost court] were in breadth thirty cubits, while the entire compass of it was by measure six furlongs, including the tower of Antonia;"
+    },
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 921341,
+     "quote": "and was ascended to by fourteen steps from the first court."
+    },
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 924259,
+     "quote": "Now there were fifteen steps, which led away from the wall of the court of the women to this greater gate;"
+    },
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 924566,
+     "quote": "it was ascended to by twelve steps;"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Whiston's text says 'fourteen steps' and, a few lines later, 'thirteen steps' for the same stair, and his footnote notes the difficulty; so counts are uncertain. Josephus's cubit is not defined on the shelf (about 18 inches is the usual figure, but that is not from the shelf)."
+  },
+  {
+   "text": "Easton on the Tyropoeon Valley: the valley or ravine that separated Mount Moriah from Mount Zion, now 'filled up with a vast accumulation of rubbish', was 'spanned by bridges', the most noted 'Zion Bridge'; the western wall of the temple area 'rose up from the bottom of this valley to the height of 84 feet'. In the entry 'Market-place' Easton adds that sale of particular articles seems to have been confined to certain streets.",
+   "source": "Easton's Bible Dictionary (1897), entries 'Tyropoeon Valley' and 'Market-place'; Wikipedia, 'Tyropoeon Valley', revision of 19 April 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "easton_ebd.txt",
+     "offset": 2864258,
+     "quote": "the name given by Josephus the historian to the valley or rugged ravine which in ancient times separated Mount Moriah from Mount Zion."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 2864517,
+     "quote": "was spanned by bridges, the most noted of which was Zion Bridge, which was probably the ordinary means of communication between the royal palace on Zion and the temple."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 2864973,
+     "quote": "The western wall of the temple area rose up from the bottom of this valley to the height of 84 feet"
+    },
+    {
+     "file": "wikipedia_Tyropoeon_Valley.wiki.txt",
+     "offset": 2100,
+     "quote": "was spanned by bridges, the most noted of which was [[Zion]] Bridge"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Easton (1897) relies on Robinson and Warren's excavations; the 84-foot figure and the 'Zion Bridge' are of the Herodian temple wall. The Wikipedia quotation is a fragment (the article repeats Easton)."
+  },
+  {
+   "text": "Wikipedia's 'Stepped street (Jerusalem)': a street from Jerusalem's southern gates, by the Pool of Siloam, up to the Temple Mount's south-west corner, 'eight meters wide' and 600 metres long, paved 'in the pattern of two steps followed by a long landing, followed by two more steps and another landing'. It was built at the earliest in the 30s CE; the latest coin under the pavement dates to 30-31 CE.",
+   "source": "Wikipedia, 'Stepped street (Jerusalem)', revision of 16 August 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Stepped_street_Jerusalem.wiki.txt",
+     "offset": 1074,
+     "quote": "street connecting the [[Temple Mount]] from its southwestern corner, to [[Jerusalem]]'s southern gates of the time via the [[Pool of Siloam]]."
+    },
+    {
+     "file": "wikipedia_Stepped_street_Jerusalem.wiki.txt",
+     "offset": 1236,
+     "quote": "The stepped street was built at the earliest during the 30s CE, with the latest coin found under the pavement dating to 30–31 CE"
+    },
+    {
+     "file": "wikipedia_Stepped_street_Jerusalem.wiki.txt",
+     "offset": 3458,
+     "quote": "The ancient path was improved and paved in large, well-cut stone in the pattern of two steps followed by a long landing, followed by two more steps and another landing. The street was eight meters wide and its length from the Pool of Siloam to the Temple Mount is 600 meters."
+    },
+    {
+     "file": "wikipedia_Stepped_street_Jerusalem.wiki.txt",
+     "offset": 10539,
+     "quote": "pilgrims used the Pool of Siloam as a [[mikveh]] for ritual purification before walking up the street to the [[Second Temple|Temple]]."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The street may date from after the likely year of John 9 (the article gives 30s CE as the earliest, and a proposal that Pilate built it). Whether it was there when the man born blind went to Siloam is therefore uncertain. Yoel Elitzur argues that the pool was a Roman public swimming pool, not a mikveh; the article reports both views. It also describes the politics of the excavation (the City of David / Elad), which is not repeated here."
+  },
+  {
+   "text": "Wikipedia 'Pool of Siloam': the pool is 'the lowest place in altitude within the historical city', about 625 m above sea level; the way up to the Temple Mount was a climb of 115 m over about 634 m. The pool found in later excavations was about 225 feet wide with steps on at least three sides, 'three sets of five steps' with platforms. Older excavations found a stairway of 34 rock-hewn steps west of the pool, tapering from 27 ft to 22 ft in width.",
+   "source": "Wikipedia, 'Pool of Siloam', revision of 20 June 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 3195,
+     "quote": "Today, the Pool of Siloam is the lowest place in altitude within the historical city of Jerusalem"
+    },
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 3648,
+     "quote": "The ascent from it unto the [[Temple Mount]] meant a [[Grade (slope)|gradient]] of {{convert|115|m|ft|}} in altitude at a linear distance of about {{convert|634|m}}"
+    },
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 13868,
+     "quote": "The excavations also revealed that the pool was {{convert|225|ft|abbr=on}} wide, and that steps existed on at least three sides of the pool."
+    },
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 14074,
+     "quote": "There are three sets of five steps, two leading to a platform, before the bottom is reached"
+    },
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 9362,
+     "quote": "noted that there was a stairway of 34 rock-hewn steps to the west of the Pool of Siloam"
+    },
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 9906,
+     "quote": "The breadth of the steps varies from {{convert|27|ft|abbr=on}} at the top to {{convert|22|ft|abbr=on}} at the bottom."
+    },
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 9076,
+     "quote": "Until the discovery of the Second Temple pool, this pool was wrongly thought to be the one described in the [[New Testament]] and Second Temple sources."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Raw wikitext: the two '{{convert...}}' quotations mean 115 metres and 634 metres, and 225 feet. The article says a smaller Byzantine-era pool nearby was 'wrongly thought' until the Second Temple pool was found to be the one in the New Testament; so figures in older dictionaries (Easton's 53-foot pool) belong to the smaller later pool."
+  },
+  {
+   "text": "Wikipedia 'Robinson's Arch': 'a monumental staircase carried by an unusually wide stone arch' at the south-west corner of the Temple Mount, built under Herod; it 'carried traffic up from ancient Jerusalem's Lower Market area and over the Tyropoeon street to the Royal Stoa'. The width of the stepped street 'approximates that of a modern four-lane highway'. The arch spanned 15 m, was 15.2 m wide and rose about 17 m above the street below; the stair was more than 35 m long.",
+   "source": "Wikipedia, 'Robinson's Arch', revision of 12 August 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Robinsons_Arch.wiki.txt",
+     "offset": 1555,
+     "quote": "was a monumental staircase carried by an unusually wide stone arch, which once stood at the southwestern corner of the [[Temple Mount]]."
+    },
+    {
+     "file": "wikipedia_Robinsons_Arch.wiki.txt",
+     "offset": 2015,
+     "quote": "It carried traffic up from ancient [[Jerusalem]]'s Lower Market area and over the Tyropoeon street to the [[Royal Stoa (Jerusalem)|Royal Stoa]] complex on the esplanade of the Mount."
+    },
+    {
+     "file": "wikipedia_Robinsons_Arch.wiki.txt",
+     "offset": 1692,
+     "quote": "It was built as part of the expansion of the [[Second Temple]] initiated by [[Herod the Great]] at the end of the 1st century BCE."
+    },
+    {
+     "file": "wikipedia_Robinsons_Arch.wiki.txt",
+     "offset": 4815,
+     "quote": "The heavy public traffic to and from this edifice accounts for the width of the stepped street, which approximates that of a modern four-lane highway."
+    },
+    {
+     "file": "wikipedia_Robinsons_Arch.wiki.txt",
+     "offset": 15399,
+     "quote": "Upon completion the arch spanned {{convert|15|m|ft}} and had a width of {{convert|15.2|m|ft}}."
+    },
+    {
+     "file": "wikipedia_Robinsons_Arch.wiki.txt",
+     "offset": 15494,
+     "quote": "The stepped street it bore over a series of seven additional arches was more than {{convert|35|m|ft}} in length."
+    },
+    {
+     "file": "wikipedia_Robinsons_Arch.wiki.txt",
+     "offset": 15734,
+     "quote": "soaring some {{convert|17|m|ft}} over the ancient Tyropoeon street"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Raw wikitext. The article reports recent finds that the arch 'may not have been completed until at least 20 years after [Herod's] death', and that it was destroyed in 70 CE, so it stood through Jesus's lifetime only in part or at the end of it. Josephus says the older (Hasmonean) bridge crossed the valley; the 1915 encyclopaedia gives the bridge span as 50 ft."
+  },
+  {
+   "text": "The 1915 encyclopaedia on the lie of the land: the city 'must ever have consisted, as it does today, of houses terraced on steep slopes with stairways for streets'; a city gate found in the excavated southern wall near the mouth of the Tyropoeon gave onto 'the great main street running down the Tyropceon, underneath which ran a great rock-cut drain'; the approach to the Virgin's Spring is 'down two flights of steps', of ten and fourteen.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Jerusalem', vol 3",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 1914041,
+     "quote": "The city covering so hilly a site as this must ever have consisted, as it does today, of houses terraced on steep slope's with stairways for streets."
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 1952108,
+     "quote": "The gate gave access to the great main street running down the Tyropceon, underneath which ran a great rock-cut drain, which probably traversed the whole central valley of the city."
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 1894346,
+     "quote": "The approach to the spring is down two flights of steps, an upper of 10 leading to a small level platform, covered by a modern arch, and a lower, narrower flight of 14 steps, which ends at the mouth of a small cave."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling. 'As it does today' means Jerusalem in about 1915, so the staircase streets are inferred for earlier times; the gate and main street refer to the excavations of the early 1900s."
+  },
+  {
+   "text": "Edersheim's walk through Herodian Jerusalem: the Tyropoeon 'cleft', the Lower City as 'the business-quarter with its markets, bazaars, and streets of trades and guilds', the Upper City of palaces across the great bridge, 'narrow streets in the business quarters' with shops next to mansions, and craftsmen at work outside their shops: 'the shoemaker hammering his sandals, the tailor plying his needle'. Jerusalem covered about 300 acres at its greatest.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah (1883), chapter I ('In Jerusalem when Herod reigned')",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 393057,
+     "quote": "If the Lower City and suburb form the business-quarter with its markets bazaars, and streets of trades and guilds, the Upper City' is that of palaces."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 401615,
+     "quote": "As of old there were still the same narrow streets in the business quarters; but in close contiguity to bazaars and shops rose stately mansions of wealthy merchants, and palaces of princes."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 402000,
+     "quote": "Outside their shops in the streets, or at least in sight of the passers, and within reach of their talk, was the shoemaker hammering his sandals, the tailor plying his needle, the carpenter, or the worker in iron and brass."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim's reconstruction from Josephus and rabbinic writing; it is 19th-century scholarship and some details (the 'great bridge' as a single structure) have been revised by excavation. The quotations keep stray footnote marks (' and [542])."
+  },
+  {
+   "text": "Wikipedia 'Temple Mount': Herod's retaining walls enlarged the natural plateau into a platform measuring 488 m on the west, 470 m on the east, 315 m on the north and 280 m on the south; the Mount rises above the Kidron valley to the east and the Tyropoeon to the west. A 'monumental street... took pilgrims from the city's southern gate via the Tyropoeon Valley to the western side of the Temple Mount'. 'Huldah Gates': the southern gates gave access 'by means of underground vaulted ramps'.",
+   "source": "Wikipedia, 'Temple Mount', revision of 24 September 2026 (CC BY-SA 4.0); Wikipedia, 'Huldah Gates', revision of 17 July 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Temple_Mount.wiki.txt",
+     "offset": 89988,
+     "quote": "Rising above the [[Kidron Valley]] to the east and [[Tyropoeon Valley]] to the west,"
+    },
+    {
+     "file": "wikipedia_Temple_Mount.wiki.txt",
+     "offset": 90261,
+     "quote": "In around 19&nbsp;BCE, [[Herod the Great]] extended the Mount's natural [[plateau]] by enclosing the area with four massive retaining walls and filling the voids."
+    },
+    {
+     "file": "wikipedia_Temple_Mount.wiki.txt",
+     "offset": 90555,
+     "quote": "The [[Trapezoid|trapezium]] shaped platform measures {{cvt|488|m}} along the west, {{cvt|470|m}} along the east, {{cvt|315|m}} along the north and {{cvt|280|m}} along the south"
+    },
+    {
+     "file": "wikipedia_Temple_Mount.wiki.txt",
+     "offset": 171387,
+     "quote": "took pilgrims from the city's southern gate via the Tyropoeon Valley to the western side of the Temple Mount."
+    },
+    {
+     "file": "wikipedia_Huldah_Gates.wiki.txt",
+     "offset": 2026,
+     "quote": "Both sets of gates were set into the [[Southern Wall]] of the Temple compound and gave access to the Temple Mount esplanade by means of underground vaulted ramps."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Raw wikitext ('{{cvt|488|m}}' means 488 metres). The Huldah Gates article says the surviving gates are Herodian and later and were walled up in the Middle Ages. Josephus (Antiquities XV.11.5) is the only source on the shelf for the west-side gates."
+  }
+ ],
+ "tent-life": [
+  {
+   "text": "The 1915 encyclopaedia on the Bedouin tent (the fullest description on the shelf): black goats'-hair cloth sewed into one large piece, held up by poles 'at intervals', 'stretched over these poles by ropes of goats' hair or hemp... fastened to hard-wood pins driven into the ground'. 'A large wooden mallet for driving the pegs is part of the regular camp equipment.' The entrance is a corner of matting turned back; in summer the walls are mostly removed.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Tent', vol 5",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol5.txt",
+     "offset": 1082543,
+     "quote": "Poles are placed under this covering at intervals to hold it from the ground, and it is stretched over these poles by ropes of goats' hair or hemp (cf Job 4 21; Isa 54 2; Jer 10 20),"
+    },
+    {
+     "file": "isbe_1915_vol5.txt",
+     "offset": 1082780,
+     "quote": "hard-wood pins driven into the ground"
+    },
+    {
+     "file": "isbe_1915_vol5.txt",
+     "offset": 1082860,
+     "quote": "A large wooden mallet for driving the pegs is part of the regular camp equipment"
+    },
+    {
+     "file": "isbe_1915_vol5.txt",
+     "offset": 1083462,
+     "quote": "turned back to form the door of the tent (Gen 18 1). In the summer time the walls are mostly removed."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling. It describes the Arab tent of c. 1900 and says there is 'little doubt about the antiquity' of the pattern; nothing in it speaks of blind or disabled people."
+  },
+  {
+   "text": "The same entry on what is inside: straw mats, goats'-hair or woollen rugs on the floor of the poorer tents; food in goats'-hair bags and liquids in skins; a small set of copper cooking vessels; a coffee set. 'It is the women's duty to pitch the tents.' A sheikh has 'several tents', one for himself and guests, others for the women and servants and for animals.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Tent', vol 5",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol5.txt",
+     "offset": 1084010,
+     "quote": "Straw mats, goats' hair or woolen rugs (cf Jgs 4 18), more or less elaborate as the taste and means of the family allow, are the usual coverings for the tent floor."
+    },
+    {
+     "file": "isbe_1915_vol5.txt",
+     "offset": 1083875,
+     "quote": "It is the women's duty to pitch the tents."
+    },
+    {
+     "file": "isbe_1915_vol5.txt",
+     "offset": 1084831,
+     "quote": "A sheikh or chief has several tents, one for himself and"
+    },
+    {
+     "file": "isbe_1915_vol5.txt",
+     "offset": 1085052,
+     "quote": "and still others for his animals"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling. The sentence on the sheikh's tents runs across a page break in the scan, hence the two quotations."
+  },
+  {
+   "text": "Wikipedia 'Bedouin' says Bedouin 'lived in black goat-hair tents called bayt al-shar, divided by cloth curtains into rug-floor areas for males, family and cooking', and says they travelled 'in groups of fifty to a hundred'; among their values it lists 'courage, hospitality, loyalty to family and pride of ancestry'.",
+   "source": "Wikipedia, 'Bedouin', revision of 27 September 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Bedouin.wiki.txt",
+     "offset": 40448,
+     "quote": "They lived in black goat-hair tents called bayt al-shar, divided by cloth curtains into rug-floor areas for males, family and cooking."
+    },
+    {
+     "file": "wikipedia_Bedouin.wiki.txt",
+     "offset": 40126,
+     "quote": "would travel in family and tribal groups, across the [[Arabian Peninsula]] in groups of fifty to a hundred."
+    },
+    {
+     "file": "wikipedia_Bedouin.wiki.txt",
+     "offset": 12530,
+     "quote": "The Bedouins' ethos comprises courage, hospitality, loyalty to family and pride of ancestry."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The article describes Bedouin of the Arabian Peninsula in modern times (the passage is attributed in the article to Ali Al-Naimi's account of the Arabian Peninsula, and is about the early twentieth century); it is only analogy for the tents of Israel's early centuries. It says nothing about blind or disabled members of a camp."
+  },
+  {
+   "text": "Easton on tents in Israel's life: the patriarchs were 'dwellers in tents' and 'during their wilderness wanderings all Israel dwelt in tents'; 'tents have always occupied a prominent place in Eastern life'. His entry 'Camp' puts the camp of the twelve tribes at 'about 3 square miles' in area.",
+   "source": "Easton's Bible Dictionary (1897), entries 'Tent' and 'Camp'",
+   "evidence": [
+    {
+     "file": "easton_ebd.txt",
+     "offset": 2789710,
+     "quote": "The patriarchs were \"dwellers in tents\" (Gen. 9:21, 27; 12:8; 13:12; 26:17); and during their wilderness wanderings all Israel dwelt in tents (Ex. 16:16; Deut. 33:18; Josh. 7:24)."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 2789910,
+     "quote": "Tents have always occupied a prominent place in Eastern life"
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 488659,
+     "quote": "The area of the camp would be in all about 3 square miles."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The camp figure is Easton's estimate from Numbers 2; the shelf gives no way to check it. Nothing about how a blind person got about it is recorded."
+  },
+  {
+   "text": "Henry on Genesis 18:1: Abraham 'sat in the tent-door, in the heat of the day; not so much to repose or divert himself as to seek an opportunity of doing good, by giving entertainment to strangers and travellers, there being perhaps no inns to accommodate them'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Genesis 18",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 700281,
+     "quote": "He sat in the tent-door, in the heat of the day; not so much to repose or divert himself as to seek an opportunity of doing good, by giving entertainment to strangers and travellers, there being perhaps no inns to accommodate them."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's reading of why Abraham sat there. It is a description of the household's hospitality at midday, not of disability. Isaac, who is blind in Genesis 27, is in his tent and receives visitors; the shelf has no further description."
+  },
+  {
+   "text": "Eye disease in that life: the 1915 encyclopaedia says 'the types of disease which are referred to in the Bible are those that still prevail', and lists 'ophthalmia and skin diseases' among 'the commonest'. Smith's says that in Egypt the common flies are 'the great instrument of spreading the well-known ophthalmia, which is conveyed from one individual to another by these dreadful pests'.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Disease', vol 2; Smith's Bible Dictionary (1884 edition), entry 'Fly, Flies'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 1571792,
+     "quote": "The types of disease which are referred to in the Bible are those that still prevail."
+    },
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 1572041,
+     "quote": "ophthalmia and skin diseases are among the commonest and will be described under their several names."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 781817,
+     "quote": "and are the great instrument of spreading the well-known ophthalmia, which is conveyed from one individual to another by these dreadful pests."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "'Ophthalmia' is a broad old term (inflammation of the eye); the shelf does not say which diseases were meant in the Bible. The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling."
+  },
+  {
+   "text": "Wikipedia 'Trachoma' (modern medical text): the infection can spread 'through clothing or flies that have come into contact with an affected person's eyes or nose'; 'poor sanitation, crowded living conditions, and insufficient clean water' increase spread; and 'blinding endemic trachoma results from multiple episodes of reinfection'. It adds that trachoma became a problem 'as people moved into crowded settlements or towns with poor hygiene'.",
+   "source": "Wikipedia, 'Trachoma', revision of 18 September 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Trachoma.wiki.txt",
+     "offset": 2586,
+     "quote": "Indirect contact includes through clothing or flies that have come into contact with an affected person's eyes or nose."
+    },
+    {
+     "file": "wikipedia_Trachoma.wiki.txt",
+     "offset": 2796,
+     "quote": "Poor sanitation, crowded living conditions, and insufficient clean water and toilets also increase the spread."
+    },
+    {
+     "file": "wikipedia_Trachoma.wiki.txt",
+     "offset": 6973,
+     "quote": "Blinding endemic trachoma results from multiple episodes of reinfection that maintains the intense inflammation in the conjunctiva."
+    },
+    {
+     "file": "wikipedia_Trachoma.wiki.txt",
+     "offset": 36820,
+     "quote": "Trachoma became a problem as people moved into crowded settlements or towns with poor hygiene."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "A modern medical description, not evidence that trachoma was the cause of blindness in the Bible. The article's own date for trachoma in Egypt ('as early as 15 BCE') looks like an error and is not used. The shelf has nothing saying whether camp or town life carried more risk in the ancient world."
+  },
+  {
+   "text": "Dust and sand: Easton says 'storms of sand and dust sometimes overtake Eastern travellers. They are very dreadful, many perishing under them'. Smith's, on the plague of darkness, describes the desert sandstorm that 'often' causes 'the darkness of twilight' and the Khamaseen wind that 'carries so much sand with it that it produces the appearance of a yellow fog'.",
+   "source": "Easton's Bible Dictionary (1897), entry 'Dust'; Smith's Bible Dictionary (1884 edition), entry 'Plagues, The Ten'",
+   "evidence": [
+    {
+     "file": "easton_ebd.txt",
+     "offset": 855944,
+     "quote": "Storms of sand and dust sometimes overtake Eastern travellers. They are very dreadful, many perishing under them."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2240539,
+     "quote": "The former is a sand-storm which occurs in the desert, seldom lasting more than a quarter of an hour or twenty minutes, but for the time often causing the darkness of twilight, and affecting man and beast."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2240880,
+     "quote": "carries so much sand with it that it produces the appearance of a yellow fog."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Neither entry mentions eyes or blindness. The 'darkness' in Smith's is the sandstorm explanation of the ninth plague, one view among others."
+  },
+  {
+   "text": "Levy (1872) on causes of blindness: 'exposure to the sun, and sudden changes of weather, are among the most usual productive agents' of ophthalmia, and Arabia's blind he reckons at 'one in every 400 of the inhabitants'; he also mentions 'a particular kind of fly in the country which is specially inimical to sight'.",
+   "source": "Levy, Blindness and the Blind (1872), chapters 'The Causes of Blindness' and 'The Blind of Various Countries' (Arabia)",
+   "evidence": [
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 44757,
+     "quote": "exposure to the sun, and sudden changes of weather, are among the most usual productive agents of this disease."
+    },
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 954252,
+     "quote": "placing the ratio of the blind as one in every 400 of the inhabitants"
+    },
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 954564,
+     "quote": "there is a particular kind of fly in the country which is specially inimical to sight"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Levy's ratios are his own estimates from travellers' remarks, not a census, and describe the nineteenth century; they should not be used as an ancient figure. Levy is useful mainly for what he thought the causes were."
+  },
+  {
+   "text": "A caravan story from 1656, retold by Levy: Casaubon, quoting Leo Africanus, writes of 'a blind man that was a guide to certain merchants travelling through the deserts of Arabia', who 'rode upon a camel, and led his company, not by his eyes, which he had not, but by his smell'.",
+   "source": "Levy, Blindness and the Blind (1872), chapter 'The Blind of Various Countries' (Africa), quoting Meric Casaubon, Treatise on Enthusiasm (1656)",
+   "evidence": [
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 998864,
+     "quote": "a blind man that was a guide to certain merchants travelling through the deserts of Arabia."
+    },
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 998982,
+     "quote": "rode upon a camel, and led his company, not by his eyes, which he had not, but by his smell"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "A traveller's tale at third hand (Leo Africanus, then Casaubon, then Levy), from the early modern period; it is not evidence about Israelite camps and may be a legend. Levy himself notes that 'Arabia' there probably means the African deserts."
+  }
+ ],
+ "history-of-the-blind": [
+  {
+   "text": "James Wilson's Biography of the Blind (1838) was written by a man 'blind from his infancy'. His introduction says the book aimed at 'rescuing my fellow sufferers from the neglect and obscurity in which many of them were involved' and 'to exemplify the powers of the human mind' under blindness; he often had to depend on the kindness of strangers for the loan of books.",
+   "source": "Wilson, Biography of the Blind, 4th edition (1838), title page and introduction",
+   "evidence": [
+    {
+     "file": "wilson_biography_of_the_blind_1838.txt",
+     "offset": 211,
+     "quote": "WHO HAS BEEN BLIND FROM HIS INFANCY."
+    },
+    {
+     "file": "wilson_biography_of_the_blind_1838.txt",
+     "offset": 6792,
+     "quote": "My principal object was, to exemplify the powers of the human mind,"
+    },
+    {
+     "file": "wilson_biography_of_the_blind_1838.txt",
+     "offset": 7322,
+     "quote": "I had often to depend on the kindness of strangers, for the loan of such books as were"
+    }
+   ],
+   "confidence": "high",
+   "caution": "A 19th-century, first-person source. Its idea of 'distinguished' blind people (poets, philosophers, engineers) is one approach to the history and leaves out ordinary lives; the book is sympathetic but can read as admiration of exceptions."
+  },
+  {
+   "text": "Wilson lists blind people of note, including from antiquity: 'Homer, the venerable father of epic poetry', and in 'the science of mathematics' many; and 'Here, we find architects building bridges, drawing plans of new roads, and executing them to the satisfaction of the commissioners'. Chapters cover Homer and Didymus of Alexandria, who 'lost his sight at five years of age'.",
+   "source": "Wilson, Biography of the Blind (1838), Introduction and the chapters on Homer and Didymus",
+   "evidence": [
+    {
+     "file": "wilson_biography_of_the_blind_1838.txt",
+     "offset": 4680,
+     "quote": "Homer, the venerable father of epic poetry, and Milton, the inimitable author of \" Paradise Lost.\""
+    },
+    {
+     "file": "wilson_biography_of_the_blind_1838.txt",
+     "offset": 6089,
+     "quote": "Here, we find architects building bridges, drawing plans of new roads, and executing them to the satisfaction of the commissioners."
+    },
+    {
+     "file": "wilson_biography_of_the_blind_1838.txt",
+     "offset": 561287,
+     "quote": "although he lost his sight at five years of age"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Wilson takes the Homer tradition and Jerome's account of Didymus at face value; Wikipedia says Didymus lost his sight at four, and that Homer's blindness is a tradition 'whose basis in truth is uncertain'."
+  },
+  {
+   "text": "Wikipedia on Didymus the Blind (died 398), a teacher in the Church of Alexandria: 'Despite his blindness, Didymus excelled in scholarship because of his incredible memory', and 'found ways to help blind people to read, experimenting with carved wooden letters'.",
+   "source": "Wikipedia, 'Didymus the Blind', revision of 24 February 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Didymus_the_Blind.wiki.txt",
+     "offset": 1564,
+     "quote": "Didymus became blind at the age of four, before he had learned to read."
+    },
+    {
+     "file": "wikipedia_Didymus_the_Blind.wiki.txt",
+     "offset": 1848,
+     "quote": "Despite his blindness, Didymus excelled in scholarship because of his incredible memory."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Raw wikitext. The 'carved wooden letters' claim is cited in the article to a journal article calling him 'an unknown precursor of Louis Braille'; the shelf does not hold that article. Wilson (above) says five years of age."
+  },
+  {
+   "text": "Levy on institutions: St Louis (Louis IX) in 1260 'founded an institution for the reception of 300 blind persons' (the Quinze-Vingts); he calls it the oldest in Europe or perhaps the world. He also says medieval blind men begged on English streets crying 'Sainte terre' to show they had lost their sight in the Holy Land.",
+   "source": "Levy, Blindness and the Blind (1872), chapter 'The Causes of Blindness'",
+   "evidence": [
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 46066,
+     "quote": "in 1260, founded an institution for the reception of 300 blind persons."
+    },
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 45747,
+     "quote": "This was to show that they had lost their sight in the Holy Land, and it was doubtless the strongest appeal that could be made for alms to the pious people of those days."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Levy says 'it is said' of the street cries and 'the oldest' with a 'perhaps'; the 1260 date is his and fits what is commonly stated, but the shelf holds no second source. He also gives painful accounts of blinding as punishment, not quoted here."
+  },
+  {
+   "text": "Wikipedia on Valentin Haüy, founder of the first school for the blind (Paris, 1785): his impulse began in 1771 when he saw people from the Quinze-Vingts hospice for the blind 'being mocked during the religious street festival'; they were given 'oversized cardboard glasses and told to play their instruments'. Louis Braille entered the school in 1819.",
+   "source": "Wikipedia, 'Valentin Haüy', revision of 18 March 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Valentin_Haüy.wiki.txt",
+     "offset": 680,
+     "quote": "founder of [[Institut National des Jeunes Aveugles]], the first school for the blind"
+    },
+    {
+     "file": "wikipedia_Valentin_Haüy.wiki.txt",
+     "offset": 3169,
+     "quote": "They were given [[dunce cap]]s, oversized cardboard glasses and told to play their instruments which resulted in a [[cacophony]] of noises."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The second quotation records mockery of blind people; it is given because it explains the founding of the school, not to repeat it. Raw wikitext."
+  },
+  {
+   "text": "Guides in the ancient world: Wikipedia's 'Cultural depictions of blindness' says that in Sophocles's Oedipus at Colonus, Oedipus is 'led and supported by his daughter Antigone'. Wikipedia 'Guide dog' says a house wall at Herculaneum (buried in 79 CE) shows 'a blind-man being guided by his dog'.",
+   "source": "Wikipedia, 'Cultural depictions of blindness', revision of 13 August 2026 (CC BY-SA 4.0); Wikipedia, 'Guide dog', revision of 27 August 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Cultural_depictions_of_blindness.wiki.txt",
+     "offset": 1301,
+     "quote": "In Sophocles's ''[[Oedipus at Colonus]]'', Oedipus is a wandering outcast, led and supported by his daughter [[Antigone]]."
+    },
+    {
+     "file": "wikipedia_Guide_dog.wiki.txt",
+     "offset": 3357,
+     "quote": "Evidence suggests that dogs may have been used as guides for the visually impaired based on depictions of a blind-man being guided by his dog on the wall of a house in [[Herculaneum]], buried when [[Mount Vesuvius|Vesuvius]] erupted in 79 CE."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The Guide dog article itself says 'additional material evidence would be required' to confirm dogs were used as guides, and that the oldest written reference it knows is from 1247. The Oedipus play is of the fifth century BCE and is fiction."
+  },
+  {
+   "text": "Wikipedia 'Book of Tobit': Tobit is blinded, 'becomes dependent on his wife', and his son Tobias travels with the angel 'along with Tobias' dog'; the gall of a fish cures Tobit's blindness. Wikipedia says the blindness came after 'physicians place ointment in his eyes'.",
+   "source": "Wikipedia, 'Book of Tobit', revision of 8 August 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Book_of_Tobit.wiki.txt",
+     "offset": 10450,
+     "quote": "He becomes dependent on his wife, but accuses her of stealing and prays for death."
+    },
+    {
+     "file": "wikipedia_Book_of_Tobit.wiki.txt",
+     "offset": 10951,
+     "quote": "offers to accompany him (along with Tobias' [[dog]])."
+    },
+    {
+     "file": "wikipedia_Book_of_Tobit.wiki.txt",
+     "offset": 10353,
+     "quote": "he later becomes fully blind after physicians place ointment in his eyes."
+    },
+    {
+     "file": "wikipedia_Book_of_Tobit.wiki.txt",
+     "offset": 11438,
+     "quote": "The gall cures Tobit's blindness"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The article presents Tobit as a story and gives its own dating and canonical discussion, which is not summarised here; the summary does not say the dog was a guide for the blind man. Brian may want to read the book itself."
+  },
+  {
+   "text": "Levy on the ancient Near East and Persia: 'In Persia it is common for the blind to walk about the cities without guides', 'mendicancy is their ordinary mode of obtaining a livelihood', as a diplomat's account of a procession shows. He says of France that the blind 'seem to have no idea of walking alone, for even mendicants have guides'.",
+   "source": "Levy, Blindness and the Blind (1872), chapter 'The Blind of Various Countries' (Persia and France)",
+   "evidence": [
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 961519,
+     "quote": "In Persia it is common for the blind to walk about the cities without guides"
+    },
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 927819,
+     "quote": "The blind of France seem to have no idea of walking alone, for even mendicants have guides"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "These are 1870s observations. Levy's generalisations about whole nations are second-hand and he does not show his sources for the French claim. They show that different societies in his day expected different things of blind people, which is the point that the first-century picture was probably not uniform either."
+  },
+  {
+   "text": "Wikipedia 'Blind musicians': 'the idea of Homer, the blind poet, for example, has had a long existence in Western tradition, even though its basis in truth is uncertain'; and 'at many points in history and in many different cultures, blind musicians... have made important contributions'. Wikipedia 'Homer' says most ancient biographies depict him as blind.",
+   "source": "Wikipedia, 'Blind musicians', revision of 28 June 2026 (CC BY-SA 4.0); Wikipedia, 'Homer', revision of 28 September 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Blind_musicians.wiki.txt",
+     "offset": 5740,
+     "quote": "it remains true that at many points in history and in many different cultures, blind musicians, individually or as a group, have made important contributions to the development of music."
+    },
+    {
+     "file": "wikipedia_Homer.wiki.txt",
+     "offset": 12713,
+     "quote": "In most ancient biographies, Homer is depicted as being blind;"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The 'Homer' quotation says the ancient biographies depict Homer as blind; the article also points out that this is likely drawn from the passage about the blind bard Demodocus. Neither article addresses everyday blind life."
+  }
+ ]
+}

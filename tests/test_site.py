@@ -143,7 +143,7 @@ def test_every_story_has_a_sourced_place_and_time_section():
 def test_context_pages_build_with_open_slots(tmp_path):
     import pages as pg
     build_site.render_all(tmp_path)
-    assert len(pg.LAW_PAGES) == 4 and len(pg.LIFE_PAGES) == 4
+    assert len(pg.LAW_PAGES) == 4 and len(pg.LIFE_PAGES) == 6
     for p in pg.PAGES:
         path = tmp_path / ("walk-by-faith.html" if p["section"] == "faith" else f"{p['section']}/{p['slug']}.html")
         h = path.read_text(encoding="utf-8")
@@ -173,3 +173,16 @@ def test_context_pages_have_sourced_place_and_time_traced_to_candidates():
     # Hammurabi's eye laws really say what the servant page says they say
     ham = re.sub(r"\s+", " ", (ROOT / "data" / "raw" / "shelf" / "hammurabi_johns_pg17150.txt").read_text(encoding="utf-8"))
     assert "his eye one shall cause to be lost" in ham and "one mina of silver" in ham
+
+
+def test_followup_items_trace_to_candidates_and_the_hand_led_claim_holds():
+    import json
+    cands = json.loads((ROOT / "data" / "reference" / "followup_candidates.json").read_text(encoding="utf-8"))
+    final = json.loads((ROOT / "data" / "reference" / "followups.json").read_text(encoding="utf-8"))
+    for slug, items in final.items():
+        for item in items:
+            for key, idx in item["from"]:
+                assert cands[key][idx]["evidence"], (slug, key, idx)
+    bible = build_site.load_bible()
+    assert "by the hand" in bible[("Acts", 13, 11)] and "hand" in bible[("Judges", 16, 26)] and "hand" in bible[("Mark", 8, 23)]
+    assert "staff" in bible[("Zechariah", 8, 4)]

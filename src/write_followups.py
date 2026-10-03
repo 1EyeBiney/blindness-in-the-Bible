@@ -1,0 +1,245 @@
+"""Editorial pass over data/reference/followup_candidates.json (Brian's
+follow-up questions on Shiloh duties, the gate, canes, Jerusalem's layout,
+tent life and the history of blind people). Same pattern as the other
+write_* files; each item records the candidates it rests on.
+
+    python src/write_followups.py   -> data/reference/followups.json
+"""
+from __future__ import annotations
+
+import json
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+CANDIDATES = ROOT / "data" / "reference" / "followup_candidates.json"
+OUT = ROOT / "data" / "reference" / "followups.json"
+
+ISBE = "International Standard Bible Encyclopedia (1915)"
+SMITH = "Smith's Bible Dictionary (1884 edition)"
+EASTON = "Easton's Bible Dictionary (1897)"
+ED = "Edersheim, The Life and Times of Jesus the Messiah (1883)"
+SK = "Edersheim, Sketches of Jewish Social Life (1876)"
+HENRY = "Matthew Henry, Commentary on the Whole Bible (1706-1721)"
+JOS = "Josephus, Antiquities of the Jews (Whiston translation)"
+WAR = "Josephus, The Wars of the Jews (Whiston translation)"
+WILSON = "James Wilson, Biography of the Blind (1838)"
+ROBINSON = "Robinson's Arch"
+LEVY = "W. H. Levy, Blindness and the Blind (1872)"
+
+
+def item(text, source, *frm, caution=None):
+    d = {"text": text, "source": source, "from": [list(f) for f in frm]}
+    if caution:
+        d["caution"] = caution
+    return d
+
+
+def wiki(title, date):
+    return f"Wikipedia, \"{title},\" revision of {date} (CC BY-SA 4.0)"
+
+
+FINAL = {
+    "village": [
+        item("Eli held two offices at once, which the 1915 encyclopedia says had not been combined before in Israel: "
+             "high priest at Shiloh and judge over the nation, for forty years. Smith's lists a priest's duties: keep the "
+             "altar fire burning day and night, feed the golden lamp with oil, offer the morning and evening "
+             "sacrifices, teach the people the law, and sit as a court of appeal in hard cases. A judge's hearing, the "
+             "encyclopedia adds, was public; each side spoke for itself, and the only evidence was what the witnesses "
+             "said. Of all that, the sacrifices and the fire needed eyes and hands; the teaching and the judging ran on "
+             "speech and hearing.",
+             f"{ISBE}, entries \"Eli\" and \"Judge\"; {SMITH}, entries \"Eli\" and \"Priest\"; {EASTON}, entry \"Judge.\"",
+             ("eli-duties", 1), ("eli-duties", 2), ("eli-duties", 8)),
+        item("One duty depended wholly on looking: in Leviticus 13 the priest \"shall look on\" a skin disease and "
+             "pronounce the person clean or unclean. Matthew Henry reports a Jewish rule for exactly Brian's case: a "
+             "priest barred from the altar by a blemish could still judge skin disease \"provided the blemish were not "
+             "in his eye,\" and he could take an ordinary person to assist in the examination, \"but the priest only "
+             "must pronounce the judgment.\" It is the one place on the shelf where someone else's eyes are formally "
+             "lent to a priest.",
+             f"{HENRY}, on Leviticus 13.", ("eli-duties", 5)),
+        item("Henry pictures where Eli sat: by a post of the sanctuary, placed \"to receive addresses and give "
+             "direction,\" and it was from there, years earlier, that he watched Hannah's lips move and misjudged her. "
+             "At the end he is by the wayside at the gate, \"to receive the first intelligence,\" and the runner, "
+             "reluctant to tell him first, passes him and tells the city, so that Eli hears the outcry before he hears "
+             "the news.",
+             f"{HENRY}, on 1 Samuel 1 and 4.", ("eli-duties", 3), ("eli-duties", 7)),
+        item("Ahijah's work was words. Easton's describes the prophet's office as speaking for God, correcting abuses "
+             "and proclaiming God's character, with foretelling only an incidental part; two of Ahijah's prophecies "
+             "survive, and 2 Chronicles credits him with a book on Solomon's reign that is lost. His earlier sign to "
+             "Jeroboam, tearing a new garment into twelve pieces, was an acted sign of the kind prophets used. Nothing "
+             "in that work needs sight. Henry allows himself to add that such visions \"need not bodily eyes,\" which "
+             "is a preacher's flourish rather than the text.",
+             f"{EASTON}, entries \"Ahijah\" and \"Prophet\"; {HENRY}, on 1 Kings 11 and 14; {wiki('Ahijah the Shilonite', '22 September 2026')}.",
+             ("ahijah-duties", 6), ("ahijah-duties", 5), ("ahijah-duties", 4), ("ahijah-duties", 8), ("ahijah-duties", 2),
+             caution="Henry's remark about visions is flagged as opinion."),
+        item("People brought gifts when they consulted a prophet, Henry notes; the queen came with bread, cakes and "
+             "honey. Prophets often spoke at the city gate, and kings sat there to hear them. Ahijah, old and unable "
+             "to see, is instead shown at home, with the world coming to his door.",
+             f"{HENRY}, on 1 Kings 14 and 22; {EASTON}, entry \"Gate.\"", ("ahijah-duties", 3), ("ahijah-duties", 7)),
+    ],
+    "town-gate": [
+        item("Edersheim walks a reader into an ancient fortified town: a low outer wall and ditch, then the city wall "
+             "and \"a massive gate, often covered with iron, and secured by strong bars and bolts,\" with a watchtower "
+             "above. Just inside was the sheltered place where the elders sat to discuss public affairs and the news "
+             "of the day. The 1915 encyclopedia gives the mechanism: doors turning on pivots set in sockets, a bar "
+             "dropped into clamps, often an inner gate as well. To \"possess the gate\" was to possess the city.",
+             f"{SK}, chapter 6; {ISBE}, entry \"Gate\"; {SMITH}, entry \"Gate.\"", ("gate-life", 0), ("gate-life", 3), ("gate-life", 2)),
+        item("Beyond the gate the streets met in open squares. Country people hawked produce of field, orchard and "
+             "dairy; foreign merchants and pedlars laid out their wares; the crowd, in Edersheim's phrase, was "
+             "\"chattering, chaffing, good-humoured.\" Streets were named for their trades, and workmen sat outside "
+             "their shops trading greetings with passers-by. Markets were held at the gate itself: Elisha's promise "
+             "that grain would be sold \"in the gate of Samaria\" meant the siege would end and the market reopen.",
+             f"{SK}, chapter 6; {HENRY}, on 2 Kings 7; {EASTON}, entry \"Market-place.\"", ("gate-life", 1), ("gate-life", 8)),
+        item("The gate was the courtroom. Elders were the local magistrates, and \"judges of the gate\" is a biblical "
+             "phrase. Ruth 4 shows a hearing: Boaz goes up to the gate, gathers ten elders, and the sale is sealed when "
+             "a man draws off his sandal and hands it over. Job 29 shows the manners of the place: when a man of "
+             "standing arrived, the young men stepped back and the aged rose and stood. Amos shows its failure: "
+             "\"they turn aside the poor in the gate.\" A blind man at the gate heard all of this, and the law's "
+             "concern for fair judgment of the weak was aimed exactly here.",
+             f"{EASTON}, entries \"Elder\" and \"Gate\"; {HENRY}, on Ruth 4, Job 29 and Amos 5.",
+             ("gate-life", 7), ("gate-life", 4), ("gate-life", 5), ("gate-life", 9)),
+        item("The gate had staff. A watchman stood on the roof above it and called down what he saw; a porter kept the "
+             "doors. In 2 Samuel 18 David sits between the two gates while the watchman reports each runner and "
+             "recognizes one by the way he runs. Gates were shut at nightfall, and the chambers over the gateway were "
+             "where business was done. What the shelf does not give is the daily routine: hours, tolls, who sat where "
+             "by right.",
+             f"{HENRY}, on 2 Samuel 18; {EASTON}, entry \"Porter\"; {SMITH}, entry \"Gate.\"", ("gate-life", 6), ("gate-life", 2)),
+    ],
+    "jerusalem": [
+        item("Josephus, who knew the city before it fell, describes two hills facing each other with a valley between, "
+             "the houses on each hill running down to it. The Valley of the Cheesemongers ran south to Siloam. Of the "
+             "Temple's four western gates, one led across a bridge to the upper city and one \"descended down into the "
+             "valley by a great number of steps, and thence up again.\" The 1915 encyclopedia puts it simply: Jerusalem "
+             "has always been \"houses terraced on steep slopes with stairways for streets,\" with a main street running "
+             "down the valley over a rock-cut drain.",
+             f"{WAR}, Book V, chapter 4; {JOS}, Book XV, chapter 11; {ISBE}, entry \"Jerusalem.\"",
+             ("jerusalem-layout", 0), ("jerusalem-layout", 1), ("jerusalem-layout", 7)),
+        item("Excavation has given the main street dimensions. The stepped street from the southern gates by Siloam up "
+             "to the Temple Mount's south-west corner was about eight meters wide and six hundred meters long, paved "
+             "in a rhythm of two steps and a long landing, two steps and a landing, all the way up. At the top, "
+             "Robinson's Arch carried a monumental staircase over the street to the Royal Stoa, spanning fifteen "
+             "meters and rising about seventeen above the pavement. The street was laid in the 30s AD or later, so it "
+             "may postdate John 9, but the route it paved is the route the man born blind walked.",
+             f"{wiki('Stepped street (Jerusalem)', '16 August 2026')}; {wiki(ROBINSON, '12 August 2026')}.",
+             ("jerusalem-layout", 4), ("jerusalem-layout", 6),
+             caution="The paving is dated at the earliest to the 30s AD."),
+        item("Inside the Temple it was steps again. Josephus counts fourteen steps up from the outer court to the "
+             "second, more to the gates, fifteen from the Court of the Women to the inner court, and twelve up to the "
+             "sanctuary itself; Edersheim agrees on the fifteen. The Temple Mount platform Herod built measures "
+             "roughly 488 by 315 meters on its longer sides, raised on walls that, on the west, rose some 84 feet "
+             "from the valley floor.",
+             f"{WAR}, Book V, chapter 5; {EASTON}, entry \"Tyropoeon Valley\"; {wiki('Temple Mount', '24 September 2026')}.",
+             ("jerusalem-layout", 2), ("jerusalem-layout", 3), ("jerusalem-layout", 9),
+             caution="Josephus's step counts vary within his own text."),
+        item("Edersheim's walk through Herod's Jerusalem gives the sound of it: the lower city as the business quarter "
+             "of markets, bazaars and streets of trades and guilds; narrow streets with shops beside mansions; and "
+             "craftsmen at work in the open, \"the shoemaker hammering his sandals, the tailor plying his needle.\" For "
+             "someone navigating by ear, every trade street had its own noise.",
+             f"{ED}, Book I, chapter I.", ("jerusalem-layout", 8)),
+    ],
+    "canes-and-guides": [
+        item("Start with what Scripture shows. Every blind person who moves in the Bible is led by the hand: Samson "
+             "asks \"the lad that held him by the hand\" to let him feel the pillars; Elymas \"went about seeking some to "
+             "lead him by the hand\"; Saul is led by the hand into Damascus; Jesus \"took the blind man by the hand, and "
+             "led him out of the town.\" No verse shows a blind person with a staff. That is the honest finding, and it "
+             "is a finding about what the text mentions, not proof that no one used one. (The quotations here are in "
+             "the King James wording that Henry prints.)",
+             f"{HENRY}, on Judges 16, Acts 9, Acts 13 and Mark 8.", ("canes-and-staffs", 8)),
+        item("Staffs themselves were everyday equipment. Jacob crossed the Jordan \"with my staff\"; Israel ate the "
+             "Passover with staff in hand; Zechariah promises old men and women in Jerusalem's streets \"every man with "
+             "his staff in his hand for very age.\" Hebrew has several words for rod and staff. A blind man of any age "
+             "in that world would have had a stick available, whatever he did with it.",
+             f"{HENRY}, on Genesis 32, Exodus 12 and Zechariah 8; {ISBE}, entries \"Staff\" and \"Rod.\"", ("canes-and-staffs", 7)),
+        item("One rule bears directly on the Temple. Edersheim, citing the rabbis, says no one might enter the Temple "
+             "precincts carrying a staff, nor with shoes, scrip or purse, and he connects it to Jesus telling the Twelve "
+             "to take no staff. The rule is stated for everyone; the shelf says nothing about an exception for the "
+             "blind, so none is claimed. Edersheim also reports that crutches and a wooden leg were allowed on the "
+             "Sabbath, the nearest the rabbinic sources on the shelf come to a mobility aid.",
+             f"{ED}, Book III, chapter X, and chapter XXVII; Appendix XVII.", ("canes-and-staffs", 5), ("canes-and-staffs", 6)),
+        item("The oldest picture of a blind man walking with a stick on the shelf is a Greek myth. In one version of the "
+             "Tiresias story, Athena gives the blind seer a staff of cornel-wood \"wherewith he walked like those who "
+             "see.\" Levy, writing in 1872, read that as proof the ancients were struck by blind people walking alone "
+             "with a stick and made it a gift of the gods. From the Roman world, a wall painting at Herculaneum, buried "
+             "in 79 AD, is said to show a blind man guided by a dog, though the article that reports it asks for more "
+             "evidence. And in the book of Tobit, the blinded father's son travels with a dog.",
+             f"{wiki('Tiresias', '2 October 2026')}; {LEVY}; {wiki('Guide dog', '2 October 2026')}; {wiki('Book of Tobit', '8 August 2026')}.",
+             ("canes-and-staffs", 0), ("history-of-the-blind", 5), ("history-of-the-blind", 6),
+             caution="Myth and a disputed painting, not records of practice."),
+        item("The white cane is modern: a walking stick painted white in 1921, the first white-cane law in 1930, the "
+             "long-cane technique in 1944. But blind people wrote about their sticks long before that. James Wilson, "
+             "blind from infancy, described in 1838 how a blind walker drifts toward the hand that holds the staff, "
+             "and how he was once stopped two steps from a well eighty feet deep while \"groping about with my staff\" "
+             "at a fork in the road. Levy's 1872 manual teaches sweeping the stick side to side with the feet and "
+             "gauging every step with it, \"as the life of the individual may depend on the result.\" Brian will "
+             "recognize both.",
+             f"{wiki('White cane', '25 September 2026')}; {WILSON}; {LEVY}.",
+             ("canes-and-staffs", 9), ("canes-and-staffs", 3), ("canes-and-staffs", 2)),
+    ],
+    "camp": [
+        item("The fullest account of the tent on the shelf is the 1915 encyclopedia's: one great cloth of black goat "
+             "hair over poles, stretched by ropes to hardwood pegs, with \"a large wooden mallet for driving the pegs\" "
+             "as part of the regular equipment; mats on the floor, food in goat-hair bags and liquids in skins, a few "
+             "copper pots. \"It is the women's duty to pitch the tents.\" A sheikh had several tents, one for himself "
+             "and guests, others for the women, servants and animals. Ropes and pegs at ankle height, in a layout "
+             "redrawn at every move, are the camp's own stumbling blocks.",
+             f"{ISBE}, entry \"Tent\"; {wiki('Bedouin', '27 September 2026')}.", ("tent-life", 0), ("tent-life", 1), ("tent-life", 2)),
+        item("Abraham sat at his tent door \"in the heat of the day,\" and Henry reads that as the household's post for "
+             "hospitality, there being no inns. The heat Brian asks about is in the text. So is the dust: Easton "
+             "describes sand and dust storms that overtake travellers, \"many perishing under them,\" and Smith's a "
+             "wind that fills the air with sand like a yellow fog.",
+             f"{HENRY}, on Genesis 18; {EASTON}, entry \"Dust\"; {SMITH}, entry \"Plagues.\"", ("tent-life", 4), ("tent-life", 7)),
+        item("Eye disease in that climate was ordinary. The 1915 encyclopedia lists ophthalmia among the commonest "
+             "diseases of the Bible lands, then and now; Smith's blames the flies that carry it from eye to eye. Modern "
+             "medicine names trachoma, spread by flies, cloth and crowding, which blinds through repeated reinfection "
+             "over years. Levy in 1872 counted the sun and sudden changes of weather among the usual causes. None of "
+             "this says what Isaac had. It says that watering, itching, burning eyes were everywhere around him.",
+             f"{ISBE}, entry \"Disease\"; {SMITH}, entry \"Fly\"; {wiki('Trachoma', '18 September 2026')}; {LEVY}.",
+             ("tent-life", 5), ("tent-life", 6), ("tent-life", 8)),
+        item("One traveller's tale, at third hand, for Brian's point about being led everywhere: Levy repeats Casaubon's "
+             "report, from Leo Africanus, of a blind man who guided a merchant caravan across the Arabian desert, "
+             "riding a camel and leading the company \"not by his eyes, which he had not, but by his smell.\" It is a "
+             "story, not a record; it is also the only account on the shelf of a blind person finding the way in open "
+             "country rather than being led through it.",
+             f"{LEVY}, quoting Meric Casaubon (1656) and Leo Africanus.", ("tent-life", 9),
+             caution="Third-hand travellers' tale."),
+    ],
+    "through-history": [
+        item("James Wilson, blind from infancy, published his Biography of the Blind in 1838 to rescue \"my fellow "
+             "sufferers from the neglect and obscurity in which many of them were involved\" and to show what the mind "
+             "can do without sight. He had often to depend on strangers for the loan of books. It is the only "
+             "first-person blind voice on the shelf, and the oldest.",
+             f"{WILSON}, introduction.", ("history-of-the-blind", 0)),
+        item("The ancient world remembered a few blind people by name. Homer was depicted as blind by most ancient "
+             "biographies, though the basis is uncertain. Didymus of Alexandria, who died in 398, lost his sight at "
+             "about five, became one of the great teachers of the church through his memory, and is said to have "
+             "experimented with carved wooden letters so that blind people could read. Blind musicians appear in many "
+             "cultures and periods.",
+             f"{wiki('Homer', '28 September 2026')}; {wiki('Didymus the Blind', '24 February 2026')}; {wiki('Blind musicians', '28 June 2026')}; {WILSON}.",
+             ("history-of-the-blind", 1), ("history-of-the-blind", 2), ("history-of-the-blind", 8)),
+        item("Organized care came late. Levy credits Louis IX with founding, in 1260, a house for three hundred blind "
+             "people in Paris, the Quinze-Vingts, which he thought the oldest such institution anywhere. Five centuries "
+             "later Valentin Haüy founded the first school for the blind, in 1785, after seeing residents of that same "
+             "house mocked at a street festival, made to wear oversized cardboard glasses and play instruments for a "
+             "laugh. Louis Braille entered Haüy's school in 1819.",
+             f"{LEVY}; {wiki('Valentin Haüy', '18 March 2026')}.", ("history-of-the-blind", 3), ("history-of-the-blind", 4)),
+        item("Levy's survey of the 1870s found blind people in Persia commonly walking the cities without guides and "
+             "living by begging, while in France even blind beggars had guides. Such generalizations about whole "
+             "nations were second-hand then and are offered here only as what one careful 19th-century observer "
+             "believed. The shelf has almost nothing on how blind people lived in the ancient Near East outside the "
+             "Bible; that gap is real and is named on these pages rather than filled.",
+             f"{LEVY}.", ("history-of-the-blind", 7), caution="19th-century generalizations."),
+    ],
+}
+
+
+def main() -> None:
+    cands = json.loads(CANDIDATES.read_text(encoding="utf-8"))
+    for slug, items in FINAL.items():
+        for it in items:
+            for key, idx in it["from"]:
+                assert key in cands and idx < len(cands[key]), (slug, key, idx)
+    OUT.write_text(json.dumps(FINAL, indent=1, ensure_ascii=False), encoding="utf-8")
+    print(f"{sum(len(v) for v in FINAL.values())} items for {len(FINAL)} pages -> {OUT}")
+
+
+if __name__ == "__main__":
+    main()

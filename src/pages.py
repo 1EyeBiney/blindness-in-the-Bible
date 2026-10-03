@@ -180,6 +180,38 @@ LIFE_PAGES = [
     },
 ]
 
+LIFE_PAGES += [
+    {
+        "slug": "canes-and-guides", "section": "life", "title": "Canes, staffs and guides",
+        "question": "How would you get around if there were no cane, only a stick or someone's hand?",
+        "passages": [("Judges", 16, 25, 26), ("Mark", 8, 22, 23), ("Acts", 13, 11, 11), ("Zechariah", 8, 4, 5)],
+        "around": "Brian asked whether blind people in Bible times used canes or walking sticks, or were simply led. "
+                  "The passages gathered here are every place the text shows a blind person moving, plus one that "
+                  "shows the staff as the ordinary companion of old age.",
+        "says": "Samson is held by the hand by a boy. Jesus takes the blind man of Bethsaida by the hand and leads him "
+                "out of the village. Elymas, struck blind, gropes about looking for someone to lead him. Zechariah "
+                "pictures old men and women in the streets of Jerusalem, each with a staff in hand because of age.",
+        "notice": "Scripture shows guides, not canes. That does not prove no blind person ever felt the way with a "
+                  "stick; it means the writers mentioned the hand and not the stick. The place-and-time section below "
+                  "gathers what else can be known, from the Temple's rule against staffs to the first blind writers "
+                  "who described their own.",
+    },
+    {
+        "slug": "through-history", "section": "life", "title": "The blind through history",
+        "question": "Reading how blind people lived in later centuries, what rings true to your own life, and what "
+                    "has changed?",
+        "passages": [("Job", 29, 15, 16), ("Isaiah", 42, 16, 16)],
+        "around": "Brian asked for the history of blind people in general, not only in the Bible. The shelf now holds "
+                  "two 19th-century books, one of them by a blind author, and the sources they drew on. This page "
+                  "gathers what they say and marks plainly how little reaches back to the ancient world.",
+        "says": "Job claims to have been eyes to the blind. Isaiah promises that God will lead the blind by a way they "
+                "did not know. Between those two sentences lies the whole question of who guided whom.",
+        "notice": "Most of what the old books record is European and recent: a hospice in 1260, a school in 1785, a "
+                  "stick technique written down in 1872. For the ancient Near East outside the Bible, the shelf has "
+                  "almost nothing, and the pages say so.",
+    },
+]
+
 FAITH_PAGE = {
     "slug": "walk-by-faith", "section": "faith", "title": "We walk by faith, not by sight",
     "passages": [("2 Corinthians", 4, 16, 18), ("2 Corinthians", 5, 1, 10)],
@@ -216,9 +248,10 @@ def by_section(section: str) -> list[dict]:
 import json as _json
 from pathlib import Path as _Path
 
-_LL = _Path(__file__).resolve().parents[1] / "data" / "reference" / "law_and_life.json"
-if _LL.exists():
-    _extra = _json.loads(_LL.read_text(encoding="utf-8"))
-    for _page in PAGES:
-        for _item in _extra.get(_page["slug"], []):
-            _page.setdefault("place_and_time", []).append({"text": _item["text"], "source": _item["source"]})
+for _name in ("law_and_life.json", "followups.json"):
+    _f = _Path(__file__).resolve().parents[1] / "data" / "reference" / _name
+    if _f.exists():
+        _extra = _json.loads(_f.read_text(encoding="utf-8"))
+        for _page in PAGES:
+            for _item in _extra.get(_page["slug"], []):
+                _page.setdefault("place_and_time", []).append({"text": _item["text"], "source": _item["source"]})
