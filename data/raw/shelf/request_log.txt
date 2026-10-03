@@ -22,3 +22,5 @@
 2026-10-03T00:30:23	200	https://archive.org/download/bibleencyclopedi04orruoft/bibleencyclopedi04orruoft_djvu.txt	6296980
 2026-10-03T00:30:30	200	https://archive.org/download/bibleencyclopedi05orruoft/bibleencyclopedi05orruoft_djvu.txt	4241239
 2026-10-03T00:30:45	200	https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&redirects=1&format=json&formatversion=2&titles=Pool%20of%20Siloam%7CSiloam%20tunnel%7CBethsaida%7CJericho%7CSecond%20Temple%7CPool%20of%20Bethesda%7CBartimaeus%7CHealing%20the%20man%20blind%20from%20birth%7CBlindness%20in%20literature%7CBegging%7CMikveh	441728
+2026-10-03T06:10:53	200	https://www.ccel.org/ccel/h/henry/mhc3/cache/mhc3.txt	8075277
+2026-10-03T06:10:58	200	https://www.ccel.org/ccel/h/henry/mhc4/cache/mhc4.txt	10442839

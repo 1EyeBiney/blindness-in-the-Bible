@@ -323,3 +323,19 @@ Everything in this folder was retrieved on 2026-10-03 with Brian's approval, usi
 - Matthew Henry volumes 2, 3, 4 and 6: not needed for the brief (Gospels and Pentateuch were asked for).
 - Edersheim on Project Gutenberg: not there (search found no records); taken from CCEL instead.
 - ISBE on CCEL: the address tried returned 404; taken from archive.org scans instead.
+
+## Matthew Henry, Commentary on the Whole Bible, vol. 3 (Job to Song of Solomon)
+
+- Author: Matthew Henry (1662-1714)
+- Source URL: https://www.ccel.org/ccel/h/henry/mhc3/cache/mhc3.txt
+- Retrieved: 3 October 2026 (added after Brian asked for more on Job 29:15 and Jeremiah 31:7-9)
+- Licence basis: public domain (author died 1714); CCEL text edition, same series as volumes 1 and 5
+- File: `matthew_henry_vol3.txt`, 8,075,277 bytes, line endings normalised to LF
+
+## Matthew Henry, Commentary on the Whole Bible, vol. 4 (Isaiah to Malachi)
+
+- Author: Matthew Henry (1662-1714)
+- Source URL: https://www.ccel.org/ccel/h/henry/mhc4/cache/mhc4.txt
+- Retrieved: 3 October 2026 (added after Brian asked for more on Job 29:15 and Jeremiah 31:7-9)
+- Licence basis: public domain (author died 1714); CCEL text edition, same series as volumes 1 and 5
+- File: `matthew_henry_vol4.txt`, 10,442,839 bytes, line endings normalised to LF

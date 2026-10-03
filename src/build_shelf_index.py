@@ -46,6 +46,8 @@ WORKS = [
     ("isbe_1915_vol5.txt", "ISBE 1915 vol 5", "isbe"),
     ("matthew_henry_vol1_genesis_to_deuteronomy.txt", "Matthew Henry vol 1 (Genesis-Deuteronomy)", "henry"),
     ("matthew_henry_vol5_matthew_to_john.txt", "Matthew Henry vol 5 (Matthew-John)", "henry"),
+    ("matthew_henry_vol3.txt", "Matthew Henry vol 3 (Job-Song of Solomon)", "henry"),
+    ("matthew_henry_vol4.txt", "Matthew Henry vol 4 (Isaiah-Malachi)", "henry"),
     ("wikipedia_Pool_of_Siloam.wiki.txt", "Wikipedia: Pool of Siloam", "wiki"),
     ("wikipedia_Siloam_tunnel.wiki.txt", "Wikipedia: Siloam tunnel", "wiki"),
     ("wikipedia_Bethsaida.wiki.txt", "Wikipedia: Bethsaida", "wiki"),
