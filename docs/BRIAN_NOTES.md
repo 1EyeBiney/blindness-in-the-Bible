@@ -34,6 +34,19 @@ blinded by enemies or by God for a time. Two partial parallels to sight lost
 after having it: Bartimaeus, who asks to "see again" (Mark 10:51), and Saul
 on the Damascus road, whose sight returned after three days.
 
+## 3 October 2026
+
+**Reading John 9, on Jesus's answer that neither the man's sins nor his
+parents' sins caused his blindness, but that the works of God might be
+displayed:** This is very true for most any blind person. No matter how much
+technology evolves, we are dependent on God and His presence through the
+works of others, knowingly and unknowingly.
+
+**On how the studies should feel:** My current pastor, John, puts us into the
+places and times of whatever we are studying. I'd like to incorporate that
+kind of thing here, even if it is secular in nature. I do not think it will
+go against anything we are finding out, only make it more interesting.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
