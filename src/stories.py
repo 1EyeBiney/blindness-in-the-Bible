@@ -486,3 +486,16 @@ STORIES = [
                  "lame come to Jesus in the temple and He heals them.",
     },
 ]
+
+
+# ---- the place and the time, from the reference shelf (edited in
+# src/write_place_and_time.py, evidence in place_and_time_candidates.json)
+import json as _json
+from pathlib import Path as _Path
+
+_PT = _Path(__file__).resolve().parents[1] / "data" / "reference" / "place_and_time.json"
+if _PT.exists():
+    _extra = _json.loads(_PT.read_text(encoding="utf-8"))
+    for _story in STORIES:
+        for _item in _extra.get(_story["slug"], []):
+            _story.setdefault("place_and_time", []).append({"text": _item["text"], "source": _item["source"]})

@@ -1,0 +1,2439 @@
+{
+ "isaac": [
+  {
+   "text": "The 1915 Bible encyclopedia counts 54 references to blindness in the Bible and says there is no reason to think blindness was any less common in ancient times than now. It names Isaac, Eli and Ahijah as cases of blindness in old age, which it says was probably from cataract. It adds that the Papyrus Ebers, an Egyptian medical text of about 1500 BC, lists a number of eye diseases and a hundred prescriptions for them.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Blindness'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3976288,
+     "quote": "There are 54 refer ences to this condition, and there is no reason to believe, as has been surmised, that blindness was any less rife in ancient times than it is now"
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3976620,
+     "quote": "In the Papyrus Ebers (1500 BC) there are enumerated a number of diseases of the eye and a hundred prescriptions are given for their treatment."
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3978973,
+     "quote": "The blindness of old age, probably from senile cataract, is described in the cases of Eli at 98 years of age (1 S 3 2; 4 15), Ahijah (1 K 14 4), and Isaac (Gen 27 1)."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The cause named (senile cataract) is a 1915 medical opinion, stated as 'probably'; the Bible does not name the cause. The entry's wording about the appearance of diseased eyes is dismissive and is not reproduced."
+  },
+  {
+   "text": "Josephus retells the story and puts the blindness first. When Isaac was old and could not see at all, he told Esau that besides his blindness and the disorder of his eyes, his great age kept him from worshipping God by sacrifice, so he asked for venison and a supper before making supplication to God for Esau. Josephus has Jacob wear a goat's skin on his arm so that its hairy roughness would make his father believe he was Esau.",
+   "source": "Josephus, Antiquities of the Jews, Book I, chapter 18 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 140938,
+     "quote": "But when he was old, and could not see at all, he called Esau to him, and told him, that besides his blindness, and the disorder of his eyes, his very old age hindered him from his worship of God [by sacrifice]"
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 141882,
+     "quote": "he took a goat's skin, and put it about his arm, that by reason of its hairy roughness, he might by his father be believed to be Esau"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Josephus retells and adds to Genesis 27 (the reason given for the meal is his own). Whiston's 18th-century translation."
+  },
+  {
+   "text": "On what the blessing meant, the 1915 encyclopedia says that when Isaac blessed Jacob he put himself as it were in God's place, with a sense of the Divine concurrence, pronouncing the good named. It says the word 'bless' becomes in part a prayer for, and in part a prediction of, the good intended.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Bless'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3972378,
+     "quote": "when Isaac blessed Jacob (Gen 27 4.27), putting himself as it were in God's place, and with a sense of the Divine concurrence, pronouncing the good named. Here the word becomes in part a prayer for, and in part a prediction of, the good intended."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Matthew Henry reads Isaac's request for venison as 'Isaac's design to make his will, and to declare Esau his heir', and says the promise of the Messiah and the land of Canaan was a great trust, first committed to Abraham.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Genesis 27",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 967751,
+     "quote": "Here is, I. Isaac's design to make his will, and to declare Esau his heir."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 967829,
+     "quote": "The promise of the Messiah and the land of Canaan was a great trust, first committed to Abraham"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's reading of what Isaac was trying to do. The shelf has no source on the daily setting of Genesis 27 (the tents, the household) beyond this."
+  }
+ ],
+ "jacob": [
+  {
+   "text": "Matthew Henry notes that Jacob, like his father before him, was dim-sighted in old age, and draws two lessons: those who have the honour of age must take its burden too, and 'the eye of faith may be very clear even when the eye of the body is very much clouded'. He adds that it is common for old people to be especially fond of their grandchildren, and that Jacob kissed and embraced Joseph's sons.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Genesis 48",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 1497348,
+     "quote": "Jacob, like his father before him, when he was old, was dim-sighted. Note, (1.) Those that have the honour of age must therewith be content to take the burden of it. (2.) The eye of faith may be very clear even when the eye of the body is very much clouded."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 1497704,
+     "quote": "It is common for old people to have a very particular affection for their grand-children"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's moral reading ('the eye of faith'). This is a sermon point, but it is the one place on the shelf that speaks directly about Jacob's eyes."
+  },
+  {
+   "text": "Matthew Henry points out that Jacob, before he blessed the boys, recounted God's care for him: he had fed him all his life long unto that day, and he had by his angel redeemed him from all evil. Henry says it becomes the servants of God, when they are old and dying, to witness that they have found him gracious.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Genesis 48",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 1499360,
+     "quote": "(1.) He had fed him all his life long unto this day, v. 15."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 1499774,
+     "quote": "(2.) He had by his angel redeemed him from all evil, v. 16."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 1500186,
+     "quote": "[1.] It becomes the servants of God, when they are old and dying, to witness for our God that they have found him gracious."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's reading of Jacob's words in Genesis 48:15-16; a devotional comment rather than history."
+  },
+  {
+   "text": "Smith's Dictionary describes Goshen, the part of Egypt where it says the Israelites dwelt throughout their stay: on the eastern border of the Nile, a pasture land especially suited to a shepherd people, where the Israelites prospered and kept apart from the main body of the Egyptians. This gives a picture of the country in which an old shepherd family lived out Jacob's last years.",
+   "source": "Smith's Bible Dictionary, entry 'Goshen'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 884195,
+     "quote": "It was a pasture land, especially suited to a shepherd people, and sufficient for the Israelites, who there prospered, and were separate from the main body of the Egyptians."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Smith's does not mention Jacob's blessing; the link between Goshen and Genesis 48 is the writer's. Check against Genesis 47:27 before use."
+  }
+ ],
+ "eli": [
+  {
+   "text": "Smith's Dictionary says Eli was a descendant of Aaron through Ithamar, the first of that line to be high priest, and that he was also judge. It says he died at 98, overcome by the news that the ark of God had been taken by the Philistines and that his sons Hophni and Phinehas were dead. The 1915 encyclopedia lists Eli, at 98, among the cases of blindness in old age, probably from cataract.",
+   "source": "Smith's Bible Dictionary, entry 'Eli'; International Standard Bible Encyclopaedia (1915), entry 'Blindness'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 649963,
+     "quote": "In addition to the office of high priest he held that of judge. He died at the advanced age of 98 years"
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3978973,
+     "quote": "The blindness of old age, probably from senile cataract, is described in the cases of Eli at 98 years of age (1 S 3 2; 4 15), Ahijah (1 K 14 4), and Isaac (Gen 27 1)."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The cause named (senile cataract) is a 1915 medical opinion, stated as 'probably'; the Bible does not name the cause."
+  },
+  {
+   "text": "Smith's Dictionary places Shiloh in Ephraim, on the north side of Bethel, on the east side of the highway from Bethel to Shechem, and south of Lebonah. It says Shiloh was one of the earliest and most sacred Hebrew sanctuaries, and that the ark was kept there from the last days of Joshua to the time of Samuel. After the ark was lost in battle, Shiloh 'sank into insignificance'.",
+   "source": "Smith's Bible Dictionary, entry 'Shiloh'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2663019,
+     "quote": "Shiloh (place of rest), a city of Ephraim. In (Judges 21:19) it is said that Shiloh is \"on the north side of Bethel, on the east side of the highway that goeth up from Bethel to Shechem and on the south of Lebonah.\""
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2663811,
+     "quote": "Shiloh was one of the earliest and most sacred of the Hebrew sanctuaries."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2664684,
+     "quote": "and Shiloh from that time sank into insignificance."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Josephus gives the end of Eli's life in a sentence: when he heard that the ark had been taken by the enemy, he fell down from his throne and died, having lived ninety-eight years and held the government forty. Josephus calls this a time when the news fell out quite differently from what Eli expected.",
+   "source": "Josephus, Antiquities of the Jews, Book V, chapter 11 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 740086,
+     "quote": "so he fell down from his throne and died, having in all lived ninety-eight years, and of them retained the government forty."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Josephus's 'throne' is his own rendering of Eli's seat. Josephus does not mention Eli's eyes in this passage."
+  }
+ ],
+ "ahijah": [
+  {
+   "text": "Josephus tells the story with the same facts as the Bible and adds that Jeroboam's wife changed her habit and came to Shiloh, 'for there did Ahijah live'. He says Ahijah's eyes were then dim with age, that God told him who was coming, and that he called out to her before she had come in. The 1915 encyclopedia lists Ahijah among the cases of blindness in old age.",
+   "source": "Josephus, Antiquities of the Jews, Book VIII, chapter 11 (Whiston translation); International Standard Bible Encyclopaedia (1915), entry 'Blindness'",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1207002,
+     "quote": "and came to the city Shiloh, for there did Ahijah live. And as she was going into his house, his eyes being then dim with age, God appeared to him"
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1207272,
+     "quote": "Accordingly, as the woman was coming into the house like a private person and a stranger, he cried out, \"Come in, O thou wife of Jeroboam!"
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3979126,
+     "quote": "Ahijah (1 K 14 4), and Isaac (Gen 27 1)."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Josephus adds details to the Bible text. The ISBE statement about blindness in old age is a 1915 medical opinion."
+  },
+  {
+   "text": "Josephus also introduces Ahijah earlier, as a prophet of the city of Shiloh who met Jeroboam when he was going out of Jerusalem, took him aside to a place out of the way, and tore his garment into twelve pieces, giving him ten. That is how the same prophet who is blind and old in 1 Kings 14 had once been the one who told Jeroboam he would rule ten tribes.",
+   "source": "Josephus, Antiquities of the Jews, Book VIII, chapter 7 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1182379,
+     "quote": "a prophet of the city Shilo, whose name was Ahijah, met him and saluted him; and when he had taken him a little aside to a place out of the way, where there was not one other person present, he rent the garment he had on into twelve pieces, and bid Jeroboam take ten of them"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The link between this earlier scene and 1 Kings 14 is Josephus's; he gives no age for Ahijah at that time."
+  },
+  {
+   "text": "Smith's Dictionary describes Tirzah as an ancient Canaanite city that reappears as a royal city, the residence of Jeroboam and his successors. It says its beauty was widely known and that its site is Telluzah, a place in the mountains north of Nablus. Smith's places Shiloh, where Josephus says Ahijah lived, on the north side of Bethel, east of the highway from Bethel to Shechem.",
+   "source": "Smith's Bible Dictionary, entries 'Tirzah' and 'Shiloh'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2991470,
+     "quote": "It reappears as a royal city, the residence of Jeroboam and of his successors"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2992000,
+     "quote": "Its site is Telluzah, a place in the mountains north of Nablus"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2663127,
+     "quote": "on the north side of Bethel, on the east side of the highway that goeth up from Bethel to Shechem and on the south of Lebonah.\""
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Smith's gives no distance from Tirzah to Shiloh, so the length of the queen's journey cannot be stated from the shelf."
+  }
+ ],
+ "samson": [
+  {
+   "text": "Smith's Dictionary calls Gaza one of the five chief cities of the Philistines, 'the last town in the southwest of Palestine, on the frontier towards Egypt', whose name means 'the strong'. It says it was important in a military sense and had a long continuous history, and that it has deep wells of excellent water.",
+   "source": "Smith's Bible Dictionary, entry 'Gaza'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 827615,
+     "quote": "It is the last town in the southwest of Palestine, on the frontier towards Egypt."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 827796,
+     "quote": "Its name means \"the strong;\" and this was well elucidated in its siege by Alexander the Great, which lasted five months."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 829055,
+     "quote": "but it has deep wells of excellent water."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Smith's describes Gaza as it was in the 19th century; the account of Samson there is a few paragraphs on."
+  },
+  {
+   "text": "Smith's Dictionary gives the sequence in plain terms. At Gaza the Philistines shut the gates intending to kill Samson in the morning, but at midnight he tore away the gates with the posts and bar and carried them to the top of a hill looking toward Hebron. After Delilah had his hair cut, his enemies put out his eyes, led him down to Gaza bound in bronze fetters, and made him grind in the prison.",
+   "source": "Smith's Bible Dictionary, entry 'Samson'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2513144,
+     "quote": "While he was visiting a harlot in Gaza, the Philistines shut the gates of the city, intending to kill him in the morning; but at midnight he went out and tore away the gates, with the posts and bar and carried them to the top of a hill looking toward Hebron."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2513851,
+     "quote": "put out his eyes, and led him down to Gaza, bound in brazen fetters, and made him grind in the prison."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Smith's is a 19th-century retelling of Judges 16 and makes moral comments elsewhere in the entry that are not used here."
+  },
+  {
+   "text": "Smith's Dictionary says the Philistines held a great festival in the temple of Dagon and brought out 'the blind champion', placing him between the two chief pillars that held up the roof. Samson asked the lad who guided him to let him feel the pillars, to lean upon them. Josephus says the same: he persuaded the boy who led him by the hand that he was weary and wanted to rest, and asked to be brought near the pillars.",
+   "source": "Smith's Bible Dictionary, entry 'Samson'; Josephus, Antiquities of the Jews, Book V, chapter 8 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2514269,
+     "quote": "Samson asked the lad who guided him to let him feel the pillars, to lean upon them."
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 724672,
+     "quote": "persuaded the boy that led him by the hand, that he was weary and wanted to rest himself, and desired he would bring him near the pillars"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Josephus's 'weary' reason is his own addition to the Bible text."
+  },
+  {
+   "text": "Smith's Dictionary describes the hand mill of the ancient Hebrews as two circular stones, each about eighteen inches or two feet across, the lower fixed and the upper turned by an upright handle fixed near its edge. It says the mill is worked by women, sometimes singly and sometimes two together, seated on the bare ground. Smith's separately says Samson was made to grind in the prison, but it does not link that to this description.",
+   "source": "Smith's Bible Dictionary, entry 'Mill'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1701061,
+     "quote": "These consist of two circular stones, each about eighteen inches or two feet in diameter, the lower of which is fixed"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1701585,
+     "quote": "It is worked by women, sometimes singly and sometimes two together, who are usually seated on the bare ground."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2513930,
+     "quote": "and made him grind in the prison."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Smith's describes the mills 'at present in use in the East' (1860s) and says the ancient ones probably differed little. It does not mention Samson; whether Samson turned a hand mill or a larger one is not stated on the shelf."
+  }
+ ],
+ "zedekiah": [
+  {
+   "text": "Smith's Dictionary gives the route of Zedekiah's flight. When the breach was made in the city wall at midnight, the king and his wives left by the opposite gate and took the road toward the Jordan. At dawn the pursuers overtook them near Jericho and carried them to Nebuchadnezzar at Riblah, at the upper end of the valley of Lebanon. There his sons were killed before him and then his eyes were put out, and he was bound with bronze fetters and later taken to Babylon, where he died.",
+   "source": "Smith's Bible Dictionary, entry 'Zedekiah'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 3251797,
+     "quote": "They took the road toward the Jordan. As soon as the dawn of day permitted it, swift pursuit was made. The king's party were overtaken near Jericho and carried to Nebuchadnezzar, who was then at Riblah, at the upper end of the valley of Lebanon."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 3252103,
+     "quote": "Nebuchadnezzar, with a refinement of barbarity characteristic of those cruel times ordered the sons of Zedekiah to be killed before him, and lastly his own eyes to be thrust out."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 3252306,
+     "quote": "He was then loaded with brazen fetters, and at a later period taken to Babylon, where he died."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Smith's calls Nebuchadnezzar's act 'a refinement of barbarity'; that comment is the author's."
+  },
+  {
+   "text": "Josephus agrees with the Bible and adds Nebuchadnezzar's accusation: he told Zedekiah he was a covenant-breaker and ungrateful, then had his sons and friends killed while Zedekiah looked on, after which he put out his eyes and bound him. Josephus says this fulfilled both Jeremiah and Ezekiel: Zedekiah was brought before the king of Babylon face to face, but, being blind, did not see Babylon.",
+   "source": "Josephus, Antiquities of the Jews, Book X, chapter 8 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1468428,
+     "quote": "he commanded his sons and his friends to be slain, while Zedekiah and the rest of the captains looked on; after which he put out the eyes of Zedekiah, and bound him, and carried him to Babylon."
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1468887,
+     "quote": "But he was also made blind, and brought to Babylon, but did not see it, according to the prediction of Ezekiel."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Whiston's translation of Josephus, who writes that this was foretold by two prophets; the speech of Nebuchadnezzar is Josephus's version."
+  },
+  {
+   "text": "Matthew Henry, commenting on Jeremiah 34, says the prophecy that Zedekiah would be taken before Nebuchadnezzar and carried to Babylon was matched by Ezekiel's prophecy that he would not see Babylon, 'nor did he, for his eyes were put out'. Henry says Zedekiah 'never had been one of the worst of the kings', and hopes that he repented in captivity.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Jeremiah 34",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3656140,
+     "quote": "yet Ezekiel prophesied that he should not see Babylon; nor did he, for his eyes were put out, Ezek. xii. 13."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3656578,
+     "quote": "He never had been one of the worst of the kings, but we are willing to hope that what evil he had done in the sight of the Lord he repented of in his captivity"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's opinion of Zedekiah's character; it is a hope, not evidence."
+  },
+  {
+   "text": "Smith's Dictionary notes that blindness inflicted on purpose, for political or other ends, is alluded to in Scripture, and cites 1 Samuel 11:2 and Jeremiah 39:7. The second is Zedekiah; the first is the threat of Nahash at Jabesh-gilead.",
+   "source": "Smith's Bible Dictionary, entry 'Blindness'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 383094,
+     "quote": "Blindness willfully inflicted for political or other purposes is alluded to in Scripture. (1 Samuel 11:2; Jeremiah 39:7)"
+    }
+   ],
+   "confidence": "high"
+  }
+ ],
+ "men-of-sodom": [
+  {
+   "text": "Josephus's version of the night at Lot's door is brief: God was much displeased at their impudent behaviour, and so he both struck those men with blindness and condemned the Sodomites to complete destruction. Matthew Henry, commenting on the verse, notes that they 'wearied themselves to find the door', and that this night's work was enough to fill the measure of Sodom's guilt.",
+   "source": "Josephus, Antiquities of the Jews, Book I, chapter 11 (Whiston translation); Matthew Henry, Commentary on the Whole Bible, on Genesis 19",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 115933,
+     "quote": "But God was much displeased at their impudent behavior, so that he both smote those men with blindness, and condemned the Sodomites to universal destruction."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 737127,
+     "quote": "so that they wearied themselves to find the door. Now it appeared, beyond contradiction, that the cry of Sodom was no louder than there was cause for. This night's work was enough to fill the measure."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's comment on the sin of the city, not used here, is moralising and at points uses harsh language about the men; it is not reproduced."
+  },
+  {
+   "text": "Smith's Dictionary describes the setting. Sodom was 'evidently the chief town' of a group of four cities, with Gomorrah, Admah and Zeboim. Seen from where Abram and Lot stood between Bethel and Ai, the whole 'circle of Jordan' lay eastward and at their feet, 'one great oasis', 'a garden of Jehovah'. The cities appear to have stood in the middle of that garden.",
+   "source": "Smith's Bible Dictionary, entry 'Sodom'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2746311,
+     "quote": "Sodom was evidently the chief town in the settlement."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2746626,
+     "quote": "Abram and Lot are standing together between Bethel and Ai, ver. 3, taking a survey of the land around and below them."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2746764,
+     "quote": "Eastward of them, and absolutely at their feet, lay the \"circle of Jordan.\" The whole circle was one great oasis--\"a garden of Jehovah.\" ver. 10. In the midst of the garden the four cities of Sodom, Gomorrah, Admah and Zeboim appear to have been situated."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Smith's gives the setting of Genesis 13, before the destruction. It does not say how the plain looked at the time of Genesis 19."
+  },
+  {
+   "text": "Josephus introduces the city before the destruction: about that time the Sodomites 'grew proud, on account of their riches and great wealth', became unjust towards men and impious towards God, and 'hated strangers'. That puts the night at Lot's door in a city that Josephus describes as rich and hostile to visitors.",
+   "source": "Josephus, Antiquities of the Jews, Book I, chapter 11 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 113297,
+     "quote": "About this time the Sodomites grew proud, on account of their riches and great wealth"
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 113520,
+     "quote": "they hated strangers"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Josephus's next phrase uses an old term for the men's conduct that is not reproduced. His account of why Sodom was punished is his own summary."
+  },
+  {
+   "text": "Josephus, writing about the Dead Sea in his Wars, says the country of Sodom borders it, 'was of old a most happy land, both for the fruits it bore and the riches of its cities', and is now all burnt up. He says it is related that the land was burnt by lightning because of the impiety of its inhabitants, and that traces of the five cities and ashes in the fruit can still be seen.",
+   "source": "Josephus, The Wars of the Jews, Book IV, chapter 8 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 812163,
+     "quote": "The country of Sodom borders upon it. It was of old a most happy land, both for the fruits it bore and the riches of its cities, although it be now all burnt up."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Josephus reports what 'is related' about the land, not what he saw himself, and his description of the fruit is the kind of travellers' report that may have grown in the telling."
+  }
+ ],
+ "aramean-raiders": [
+  {
+   "text": "Josephus retells 2 Kings 6 with the city and the numbers of the story. The king of Syria, learning that Elisha was in Dothan, sent a great army with horses and chariots, which surrounded the city by night. Elisha asked God to dim the eyes of the enemy and cast a mist before them. Josephus says they were so darkened in sight and in mind that they followed him very diligently, and that he brought them to Samaria and told King Joram to shut the gates behind them.",
+   "source": "Josephus, Antiquities of the Jews, Book IX, chapter 4 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1316315,
+     "quote": "brought word that he was in Dothan; wherefore Benhadad sent to that city a great army, with horses and chariots, to take Elisha: so they encompassed the city round about by night"
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1317259,
+     "quote": "After this Elisha did further entreat God, that he would dim the eyes of their enemies, and cast a mist before them, whereby they might not discern him."
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1317659,
+     "quote": "So these men were so darkened by God in their sight and in their mind, that they followed him very diligently"
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1317815,
+     "quote": "he ordered Joram the king to shut the gates, and to place his own army round about them"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Josephus names the Syrian king Benhadad, which is his reading; the Bible text names no king here."
+  },
+  {
+   "text": "Smith's Dictionary says Dothan is first mentioned in the story of Joseph and appears next as Elisha's residence. Eusebius places it twelve miles north of Samaria (Sebaste), and it has been found in modern times 'still bearing its ancient name unimpaired'. Of Samaria itself Smith's says it stood thirty miles north of Jerusalem in a wide basin-shaped valley, on a hill that Omri chose as his capital.",
+   "source": "Smith's Bible Dictionary, entries 'Dothan' and 'Samaria'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 595702,
+     "quote": "It next appears as the residence of Elisha. (2 Kings 6:13) It was known to Eusebius, who places it 12 miles to the north of Sebaste (Samaria); and here it has been discovered in our own times, still bearing its ancient name unimpaired."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2496389,
+     "quote": "This city is situated 30 miles north of Jerusalem and about six miles to the northwest of Shechem, in a wide basin-shaped valley, six miles in diameter"
+    }
+   ],
+   "confidence": "high",
+   "caution": "The twelve miles to Samaria is the distance an old writer reports; modern measurements are not on the shelf."
+  },
+  {
+   "text": "Josephus gives the sequel. Elisha told King Joram not to kill the men, saying it is just to kill those taken in battle, but these men had done the country no harm and had come 'without knowing it, by the Divine Power'. Joram feasted the Syrians in a splendid manner and let them go back to their king Benhadad. Benhadad, Josephus says, then gave up secret attempts out of fear of Elisha and resolved on open war.",
+   "source": "Josephus, Antiquities of the Jews, Book IX, chapter 4 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1318322,
+     "quote": "Elisha forbade him so to do; and said, that \"it is just to kill those that are taken in battle, but that these men had done the country no harm, but, without knowing it, were come thither by the Divine Power:\""
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1318695,
+     "quote": "when he had feasted the Syrians in a splendid and magnificent manner, he let them go to Benhadad their king."
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1319069,
+     "quote": "so he determined to make no more secret attempts upon the king of Israel, out of fear of Elisha, but resolved to make open war with them"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Josephus's speech of Elisha is his own wording of 2 Kings 6:22; the war that followed is told in 2 Kings 6:24 onward."
+  },
+  {
+   "text": "Smith's Dictionary describes Ben-hadad II as king of Damascus whose reign was marked by long wars with Israel. It says that some time after the death of Ahab he renewed the war and attacked Samaria a second time, pressing the siege so closely that there was a terrible famine in the city. The raiders of 2 Kings 6 belong to this period of wars between Damascus and Samaria.",
+   "source": "Smith's Bible Dictionary, entry 'Benhadad'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 333906,
+     "quote": "BEN-HADAD II., son of the preceding, and also king of Damascus. Long wars with Israel characterized his reign."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 334120,
+     "quote": "attacked Samaria a second time, and pressed the siege so closely that there was a terrible famine in the city."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Smith's does not say which Ben-hadad sent the raiders in 2 Kings 6; the Bible text does not name the king, and Josephus supplies 'Benhadad'."
+  }
+ ],
+ "saul-on-the-damascus-road": [
+  {
+   "text": "Smith's Dictionary puts Damascus 130 miles north-east of Jerusalem, in a plain of vast size and extreme fertility on the edge of the desert, and says it has always been a great centre of trade. The road from Jerusalem therefore ran a long way to a rich and busy city.",
+   "source": "Smith's Bible Dictionary, entry 'Damascus'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 528668,
+     "quote": "It is situated 130 miles northeast of Jerusalem, in a plain of vast size and of extreme fertility, which lies east of the great chain of Anti-Libanus, on the edge of the desert."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 530429,
+     "quote": "Damascus has always been a great centre for trade."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Distance is Smith's (1860s) and given as a straight-line figure; the shelf has no source on the length of the road Saul actually travelled."
+  },
+  {
+   "text": "Smith's Dictionary says that Queen's Street, which runs straight through the city from east to west, may be the street called Straight, and that the houses of Judas and of Ananias are shown, 'but little confidence can be placed in any of these traditions'. That is the extent of what the shelf can say about where Saul was led and stayed in Damascus.",
+   "source": "Smith's Bible Dictionary, entry 'Damascus'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 530712,
+     "quote": "Queen's Street, which runs straight through the city from east to west, may be the street called Straight. (Acts 9:11) The house of Judas and that of Ananias are shown, but little confidence can be placed in any of these traditions."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Smith's treats these as uncertain traditions; do not present them as the actual route or house."
+  },
+  {
+   "text": "Smith's Dictionary describes Ananias of Damascus as a Jewish disciple 'of high repute' who sought out Saul during the period of blindness that followed his conversion and told him his future commission. Tradition says he later became bishop of Damascus and died a martyr.",
+   "source": "Smith's Bible Dictionary, entry 'Ananias'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 143856,
+     "quote": "A Jewish disciple at Damascus, (Acts 9:10-17) of high repute, (Acts 22:12) who sought out Saul during the period of blindness which followed his conversion"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The later career of Ananias is tradition and should be left out."
+  },
+  {
+   "text": "The 1915 encyclopedia offers a medical explanation of Saul's blindness: it was 'doubtless a temporary paralysis of the retinal cells from the bright light', and the 'scales' were not material, although it seemed as if scales had fallen from his eyes. It adds that the experience probably left a weakness of his eyes.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Blindness'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3979352,
+     "quote": "that of Paul (Acts 9 8) was doubtless a temporary paralysis of the retinal cells from the bright light."
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3979624,
+     "quote": "It probably left behind a weakness of the eyes"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "A 1915 physician's opinion, stated more confidently than the Bible text allows. Some readers will not want a medical explanation here; use only if it fits Brian's view."
+  }
+ ],
+ "elymas": [
+  {
+   "text": "Smith's Dictionary describes Cyprus as an island about 140 miles long and 50 miles wide at its widest, with two chief cities: Salamis at the east end and Paphos at the west end. Paul and Barnabas travelled through the island from Salamis to Paphos on their first missionary journey.",
+   "source": "Smith's Bible Dictionary, entries 'Cyprus' and 'Paphos'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 522872,
+     "quote": "It is about 140 miles long and 50 miles wide at the widest part. Its two chief cities were Salamis, at the east end of the island, and Paphos, at the west end."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2041878,
+     "quote": "Paul and Barnabas travelled, on their first missionary expedition, \"through the isle\" from the latter place to the former"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Smith's 'latter' and 'former' refer to Salamis and Paphos in the order of the entry; check the sentence before copying."
+  },
+  {
+   "text": "Smith's Dictionary says that the great characteristic of Paphos was the worship of Aphrodite or Venus, whose temple was at 'Old Paphos' while the harbour and chief town were at 'New Paphos', ten miles to the north-west. It says the island was a chief seat of the worship of Venus.",
+   "source": "Smith's Bible Dictionary, entries 'Paphos' and 'Cyprus'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2042043,
+     "quote": "The great characteristic of Paphos was the worship of Aphrodite or Venus, who was fabled to have here risen from the sea."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2042256,
+     "quote": "The harbor and the chief town were at \"New Paphos,\" ten miles to the northwest."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Smith's does not say where the proconsul lived or where the meeting took place. Smith's says nothing about where the proconsul sat."
+  },
+  {
+   "text": "Smith's Dictionary describes the proconsul Sergius Paulus as 'an intelligent man, truth-seeking, eager for information from all sources within his reach'. Though at first admitting the magician Elymas to his society, it says, he afterward became acquainted with the claims of the gospel and yielded his mind to the evidence of its truth. It gives AD 44 as the date and says Elymas is the Arabic name of the Jewish magician Bar-jesus, meaning 'a wise man'.",
+   "source": "Smith's Bible Dictionary, entries 'Sergius Paulus' and 'Elymas'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2598665,
+     "quote": "He is described as an intelligent man, truth-seeking, eager for information from all sources within his reach."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 679319,
+     "quote": "Elymas (a wise man), the Arabic name of the Jewish magus or sorcerer Bar-jesus. (Acts 13:6) ff. (A.D. 44.)"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "AD 44 is Smith's date; later scholarship has dated the journey differently, and the shelf has no source for that."
+  }
+ ],
+ "two-blind-men": [
+  {
+   "text": "Matthew Henry sets the scene in Capernaum. Jesus was returning from the ruler's house to his own lodgings, and the two blind men followed him, 'as beggars do, with their incessant cries'. They called him Son of David, which Henry says was the common name of the Messiah, and he says they 'proclaim it in the streets of Capernaum' that he had come.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Matthew 9",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 769320,
+     "quote": "He was returning from the ruler's house to his own lodgings, and these blind men followed him, as beggars do, with their incessant cries, v. 27."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 769971,
+     "quote": "these blind men know, and own, and proclaim it in the streets of Capernaum, that he is come, and that this is he"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 769749,
+     "quote": "The promise made to David, that of his loins the Messiah should come, was well known, and the Messiah was therefore commonly called the Son of David."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's reading. The streets of Capernaum are his inference from the context of Matthew 9, not stated in the verses."
+  },
+  {
+   "text": "Edersheim places the healing on the return journey to Capernaum, probably not far from the town, and in the same stretch of time as the healing of the dumb man in Matthew 9:32-35. He says this must not be confused with the similar event in Matthew 12, which came much later when opposition had grown. Elsewhere in the same work he suggests that the way the men were healed, the order to keep silence and their spreading of the news might point to a setting away from Jesus's usual ground in Galilee, so he is not fully settled.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapters XXII and XXXIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1768080,
+     "quote": "It was on this return-journey to Capernaum, probably not far from the latter place, that the two blind men had their sight restored."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2257256,
+     "quote": "The manner in which the Lord healed the two blind men, the injunction of silence, and the notice that none the less they spread His fame in all that land,"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2257427,
+     "quote": "seem to imply that He was not on the ordinary scene of His labours in Galilee."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The two Edersheim passages do not agree on where the healing happened; treat the place as uncertain."
+  },
+  {
+   "text": "Edersheim reads Jesus's strict order to keep silent as tied to the men's faith: they had owned him as Son of David, he says, as one able to do all things, even to open the eyes of the blind by his touch, and so 'a profession of faith so wide-reaching as theirs' must not be publicly proclaimed. The men did not keep silent; Matthew says they spread his fame throughout that district.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXXIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2260252,
+     "quote": "But as regards the two blind men (and the healed leper also), it is almost impossible not to connect Christ's peculiar insistence on their silence with their advanced faith."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim's interpretation of the command to silence. The last sentence of the text restates Matthew 9:31, not Edersheim."
+  },
+  {
+   "text": "Matthew Henry draws one lesson from the men's cry: those whom God has deprived of bodily sight may yet have 'the eyes of their understanding' enlightened to see great things of God, while the chief priests and Pharisees who could see the miracles denied and opposed him. He adds that 'faith comes by hearing'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Matthew 9",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 770192,
+     "quote": "They could not see him and his miracles, but faith comes by hearing. Note, They who, by the providence of God, are deprived of bodily sight, may yet, by the grace of God, have the eyes of their understanding so enlightened"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "A sermon point from 1706; some blind readers may find 'deprived of bodily sight' a hard phrase. The comparison with the religious leaders is Henry's."
+  }
+ ],
+ "blind-and-mute-man": [
+  {
+   "text": "Matthew Henry says that more cases of possession of this kind occurred in Christ's time than usual, so that Christ's power would be the more clearly shown. Of this man he says: 'a miserable case! he could neither see to help himself, nor speak to others to help him.'",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Matthew 12",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1025921,
+     "quote": "This poor man that was possessed was blind and dumb; a miserable case! he could neither see to help himself, nor speak to others to help him."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1025631,
+     "quote": "More cases of this kind occurred in Christ's time than usual"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "'Possessed' and the 'miserable case' are Henry's 18th-century reading. The blind and mute man is described only by Matthew's one line; this is what Henry makes of it."
+  },
+  {
+   "text": "Edersheim separates this healing from the similar one in Matthew 9:32-35. The Matthew 12 and Luke 11 event, he says, 'occurred at a much later period', when the opposition of the Pharisees had grown and Jesus's language was more fully denunciatory. He holds that the charge that Jesus drove out demons by the prince of demons had by then taken full shape.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXII",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1768528,
+     "quote": "The latter occurred at a much later period in our Lord's life, when, as the whole context shows, the opposition of the Pharisaic party had assumed much larger proportions"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim is polemical about 'the Pharisaic party' and uses harsh words about them in this chapter; do not reproduce those. The sequence of events (Matthew 9 earlier, Matthew 12 later) is the point."
+  },
+  {
+   "text": "On how blindness was understood, the 1915 encyclopedia says that the ancient eye plague, like other plagues, 'was thought to be a Divine infliction', citing Exodus 4:11. It says this about the blindness of the time in general, not about this man.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Blindness'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3977530,
+     "quote": "Like other plagues, this disease was thought to be a Divine infliction (Ex 411)."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The encyclopedia is describing eye disease in the East in general. Matthew gives no cause for this man's blindness and muteness except possession."
+  }
+ ],
+ "bethsaida": [
+  {
+   "text": "Wikipedia says Jesus restored a blind man's sight at a place just outside the ancient village of Bethsaida, which was a fishing town: excavations found fishing weights and net-mending needles, and the article says most of its economy was based on fishing on the Sea of Galilee. The exact site is not settled; the site el-Araj is currently favoured over et-Tell.",
+   "source": "Wikipedia, 'Bethsaida', revision of 18 July 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Bethsaida.wiki.txt",
+     "offset": 6289,
+     "quote": "In [[Mark 8]]:22–26, Jesus restored a blind man's sight at a place just outside the ancient village of Bethsaida."
+    },
+    {
+     "file": "wikipedia_Bethsaida.wiki.txt",
+     "offset": 25807,
+     "quote": "The findings indicate that most of the city's [[economy]] was based on fishing on the Sea of Galilee."
+    },
+    {
+     "file": "wikipedia_Bethsaida.wiki.txt",
+     "offset": 5786,
+     "quote": "being lately favoured due to the most recent discoveries, displacing '''et-Tell''' as the front-runner."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The site identification is disputed, so 'excavations found' applies to the candidate sites, not necessarily to the village in Mark 8."
+  },
+  {
+   "text": "Smith's Dictionary gives the name as 'house of fish', the native place of Andrew, Peter and Philip. An editor's note says the village lay on both sides of the Jordan where it enters the Sea of Galilee on the north, and that the eastern portion was built up into a beautiful city by Herod Philip and named Bethsaida Julias after Julia, the daughter of the emperor Tiberius, while the western part 'remained a small village'.",
+   "source": "Smith's Bible Dictionary, entry 'Bethsaida'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 359736,
+     "quote": "Bethsaida (house of fish) of Galilee, (John 12:21) a city which was the native place of Andrew, Peter and Philip"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 360694,
+     "quote": "This eastern portion was built up into a beautiful city by Herod Philip, and named by him Bethsaida Julias, after Julia the daughter of the Roman emperor Tiberius Caesar."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 360985,
+     "quote": "The western part of the town remained a small village.--ED.)"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The part about the village on both sides of the Jordan is an editor's addition (marked --ED.) and one view among several; Wikipedia shows scholars disagree."
+  },
+  {
+   "text": "Edersheim puts the healing in Bethsaida-Julias and notes the details. Jesus took the man aside, led him out of the village and spat on his eyes, and two touches were needed before the man saw clearly, which Edersheim calls the only gradual cure in the Gospels. He says that saliva was a well-known Jewish remedy for the eyes, and that the blindness 'does not seem to have been congenital' but the result of disease.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXXIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2254539,
+     "quote": "It was in Bethsaida-Julias, that one blind was brought unto Him, with the entreaty that He would touch him, - just as in the case of the deaf and dumb."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2255178,
+     "quote": "this is the only instance in which a miraculous cure was performed gradually, and not at once and completely."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2255617,
+     "quote": "We may here recall, that the use of saliva was a well-known Jewish remedy for affections of the eyes."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2256532,
+     "quote": "As further analogies between the two, we mark that the blindness does not seem to have been congenital"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim assumes the man was a Gentile in Gentile territory; the Gospel text does not say so. 'Does not seem to have been congenital' is his inference."
+  },
+  {
+   "text": "The 1915 encyclopedia suggests that the gradual healing in Mark 8 matches what is seen when sight is given by operation to a person blind from birth: it takes some time before the person can interpret the new sensations. Edersheim, by contrast, says the man's blindness does not seem to have been from birth. Mark says only that the man was blind.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Blindness'; Edersheim, Life and Times, Book III, chapter XXXIV",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3978677,
+     "quote": "The case of the man in Mk 8 22 whose healing seemed gradual is an instance of the phenomenon met with in cases where, by operation, sight has been given to one congenitally blind"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The two sources disagree on whether the man was born blind, and the 1915 reasoning is a physician's analogy. Mark does not say the man was blind from birth."
+  }
+ ],
+ "bartimaeus": [
+  {
+   "text": "Smith's Dictionary describes Bartimaeus as a blind beggar of Jericho who sat by the wayside begging as Jesus passed out of Jericho on his last journey to Jerusalem. On begging in general it says that in later times beggars had a fixed place at street corners, at the temple gates or at the gates of private houses, citing Mark 10:46, and that those unable to work because of bodily infirmity were usually cared for by their kindred.",
+   "source": "Smith's Bible Dictionary, entries 'Bartimaeus' and 'Beggar, Begging'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 305434,
+     "quote": "a blind beggar of Jericho who, (Mark 10:46) ff., sat by the wayside begging as our Lord passed out of Jericho on his last journey to Jerusalem."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 326673,
+     "quote": "In later times beggars were accustomed, it would seem, to have a fixed place at the corners of the streets, (Mark 10:46) or at the gates of the temple, (Acts 3:2) or of private houses, (Luke 16:20)"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 326448,
+     "quote": "Those who were indigent through bodily infirmities were usually taken care of by their kindred."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Smith's states the custom of fixed begging places for 'later times'; 'it would seem' is its own hedge."
+  },
+  {
+   "text": "Edersheim describes the Jericho that Bartimaeus knew: 'the City of Palms', about six hours from Jerusalem and the first station on the road up for the Passover pilgrims. Springs and aqueducts watered a rich plain twelve or fourteen miles wide. In its streets, he says, a motley throng met: pilgrims from Galilee and Peraea, priests, traders, and the many people on the caravan road from Arabia and Damascus, and it was the central station for collecting tax and customs.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XXIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3135015,
+     "quote": "The first station reached was Jericho, the City of Palms,' a distance of only about six hours from Jerusalem."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3135354,
+     "quote": "The water of these springs, distributed by aqueducts, gave, under a tropical sky, unsurpassed fertility to the rich soil along the plain' of Jericho, which is about twelve or fourteen miles wide."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3138789,
+     "quote": "And in the streets of Jericho a motley throng meets: pilgrims from Galilee and Peræa, priests who have a station' here, traders from all lands, who have come to purchase or to sell, or are on the great caravan-road from Arabia and Damascus"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3139127,
+     "quote": "for Jericho was the central station for the collection of tax and custom, both on native produce and on that brought from across Jordan."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim's picture is written in a literary, imaginative style, but the facts it rests on (location, springs, tax station) are also in Josephus and Smith's."
+  },
+  {
+   "text": "Edersheim says the healing came in the morning after Jesus's night in Zacchaeus's house, when the journey was resumed, and that Matthew's two blind men and Mark and Luke's one may be explained by Bartimaeus being the spokesman. He admits he cannot reconcile Luke's note that this happened as Jesus arrived at Jericho with the other Gospels' note that it was as he left, and says it is better to admit that than to force a harmony.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XXIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3149527,
+     "quote": "It was in the morning, when the journey in company with His disciples was resumed, that the next public incident occurred in the healing of the blind by the wayside."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3149790,
+     "quote": "It may have been that, as St. Matthew relates, there were two blind men sitting by the wayside, and that St. Luke and St. Mark mention only one - the latter by name as Bar Timæus' - because he was the spokesman."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3150195,
+     "quote": "it is better to admit our inability to conciliate these differing notes of time, than to make clumsy attempts at harmonising them."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim's timing is his reconstruction; it follows Luke's order of events."
+  },
+  {
+   "text": "Wikipedia says Jericho lies 258 metres below sea level in an oasis in the Jordan Valley, which makes it the lowest city in the world. In the Hasmonean and Herodian periods palaces were built there, with aqueducts supplying a farm that grew balsam, and the city served as an agricultural centre, a crossroads and a winter resort for Jerusalem's aristocracy.",
+   "source": "Wikipedia, 'Jericho', revision of 23 September 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Jericho.wiki.txt",
+     "offset": 36242,
+     "quote": "The Hasmoneans constructed [[Hasmonean and Herodian royal winter palaces|royal winter palaces]] at the site known as ''Tulul Abu el-'Alayiq.''"
+    },
+    {
+     "file": "wikipedia_Jericho.wiki.txt",
+     "offset": 37009,
+     "quote": "showing evidence of the cultivation of balsam and persimmon, as well as the production of date wine."
+    },
+    {
+     "file": "wikipedia_Jericho.wiki.txt",
+     "offset": 72460,
+     "quote": "Jericho is located {{convert|258|m|ft|abbr=on}} below [[sea level]] in an [[oasis]] in [[Wadi Qelt]] in the [[Jordan Valley (Middle East)|Jordan Valley]], which makes it the [[List of cities by elevation|lowest city in the world]]."
+    },
+    {
+     "file": "wikipedia_Jericho.wiki.txt",
+     "offset": 37192,
+     "quote": "the city served not only as an agricultural center and a crossroads, but also as a winter resort for [[Jerusalem]]'s aristocracy."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The figure is for modern Jericho; Second Temple Jericho was at Tulul Abu el-'Alayiq, a few kilometres away."
+  },
+  {
+   "text": "Smith's Dictionary says Archelaus diverted water to irrigate the plain, which he planted with palms, 'thus Jericho was once more a city of palms when our Lord visited it'. Josephus, writing of Pompey's march, calls this 'the most fruitful country of Judea', with a vast number of palm trees and the balsam tree, whose sprouts were cut with sharp stones and the juice gathered as it dripped like tears.",
+   "source": "Smith's Bible Dictionary, entry 'Jericho'; Josephus, The Wars of the Jews, Book I, chapter 6 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1199880,
+     "quote": "Thus Jericho was once more \"a city of palms\" when our Lord visited it. Here he restored sight to the blind."
+    },
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 59353,
+     "quote": "Now here is the most fruitful country of Judea, which bears a vast number of palm trees 7 besides the balsam tree, whose sprouts they cut with sharp stones, and at the incisions they gather the juice, which drops down like tears."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The '7' in the Josephus quotation is a footnote number in the file and should not be copied."
+  },
+  {
+   "text": "Wikipedia notes that Bartimaeus (literally 'Son of Timaeus') is one of the few recipients of healing whose name is given in the Gospels. It reports a scholar's view that the healing of Bartimaeus is the last of Jesus's healings in Mark, placed just before the journey into Jerusalem.",
+   "source": "Wikipedia, 'Healing the blind near Jericho', revision of 16 August 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Healing_the_blind_near_Jericho.wiki.txt",
+     "offset": 1242,
+     "quote": "He is one of the few recipients of healing whose name is provided in the Gospels."
+    },
+    {
+     "file": "wikipedia_Healing_the_blind_near_Jericho.wiki.txt",
+     "offset": 4478,
+     "quote": "emphasizes that the healing of Bartimaeus is the last of Jesus’ healings in Mark"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The second point is one scholar's reading as reported by Wikipedia, with a theological purpose; it is not a fact about the place."
+  }
+ ],
+ "the-temple": [
+  {
+   "text": "Edersheim says that as the traffickers were driven from the Temple, the poor sufferers, the blind and the lame, flocked in 'from porches and Temple-Mount' to get healing, and that the boys who gathered around their fathers took up the cry of Hosanna to the Son of David. He thinks the boys may have been children of the Levites who sang in the Temple.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book V, chapter II",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3209649,
+     "quote": "And as those traffickers were driven from the Temple, and He spake, there flocked in from porches and Temple-Mount the poor sufferers - the blind and the lame - to get healing to body and soul."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3217191,
+     "quote": "perhaps those children of the Levites who acted as choristers in the Temple"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim's 'perhaps' is his own guess at who the children were. His account of the priests and Pharisees in the same chapter is polemical and is not used."
+  },
+  {
+   "text": "Matthew Henry notes that the blind and the lame were debarred from David's palace (2 Samuel 5:8) but were admitted to God's house. He says the temple was profaned when it was made a market place but honoured when it was made a hospital, and that the 'blind and lame' were invited in after the buyers and sellers were driven out.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Matthew 21",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1780169,
+     "quote": "The blind and the lame were debarred David's palace (2 Sam. v. 8), but were admitted into God's house"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1780521,
+     "quote": "The temple was profane and abused when it was made a market-place, but it was graced and honoured when it was made an hospital"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's reading of 2 Samuel 5:8, a verse the Bible commentators read in more than one way (see the Jebusite taunt)."
+  },
+  {
+   "text": "On who could enter the Temple's service, the 1915 encyclopedia says blindness unfitted a man for the priesthood (Leviticus 21:18), but that care of the blind was specially enjoined in the Law (Leviticus 19:14). Edersheim's other book adds that, according to rabbinic rules, a person 'so blind as not to be able to discern daylight' could not pronounce the priestly benediction or lead the prayers in a synagogue.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Blindness'; Edersheim, Sketches of Jewish Social Life, chapter 17",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3980521,
+     "quote": "Blindness unfitted a man for the priesthood (Lev 21 18); but care of the blind was specially enjoined in the Law (Lev 19 14)"
+    },
+    {
+     "file": "edersheim_sketches.txt",
+     "offset": 497131,
+     "quote": "nor by those who were so blind as not to be able to discern daylight."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The synagogue rule is from the Mishnah as reported by Edersheim and applies to synagogue worship, not to the Temple. Sensitive for a blind reader; ask Brian before using."
+  },
+  {
+   "text": "Edersheim describes the Temple's outer court as a market. In the Court of the Gentiles, or its porches, sat the official money-changers, who for a fixed discount changed foreign coins into the coins of the Sanctuary, and here also was 'that great mart for sacrificial animals'. Wikipedia says the Court of the Gentiles was primarily a bazaar and that Herod doubled the Temple Mount's area from 7 to 14.4 hectares.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book II, chapter I; Wikipedia, 'Second Temple', revision of 19 September 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 399170,
+     "quote": "In the Court of the Gentiles (or in its porches) sat the official money-changers, who for a fixed discount changed all foreign coins into those of the Sanctuary. Here also was that great mart for sacrificial animals, and all that was requisite for offerings."
+    },
+    {
+     "file": "wikipedia_Second_Temple.wiki.txt",
+     "offset": 38860,
+     "quote": "The Court of the Gentiles was primarily a [[bazaar]], with vendors selling souvenirs, sacrificial animals, food."
+    },
+    {
+     "file": "wikipedia_Second_Temple.wiki.txt",
+     "offset": 37365,
+     "quote": "the Temple Mount complex initially measured {{convert|7|ha}} in size, but Herod expanded it to {{convert|14.4|ha}} and so doubled its area."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The sentence in Edersheim goes on to compare the priests to 'the sons of Eli' in harsh terms, which is not reproduced. The Wikipedia hectare figures are as given there."
+  }
+ ],
+ "crowds-by-the-sea": [
+  {
+   "text": "Matthew Henry places the scene near the Sea of Galilee and says Jesus sat on a mountain, 'that all might see him, and have free access to him'. He says those who came 'brought their sick relations and friends along with them, and cast them down at Jesus' feet', and that lame, blind, dumb, maimed and others were brought. So the blind in this crowd were brought by the people who loved them.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Matthew 15",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1332194,
+     "quote": "He sat down on a mountain, that all might see him, and have free access to him; for he is an open Saviour."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1333503,
+     "quote": "those that came to him, brought their sick relations and friends along with them, and cast them down at Jesus' feet, v. 30."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1334302,
+     "quote": "Here were lame, blind, dumb, maimed, and many others, brought to Christ."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's reading; 'brought by those who loved them' is a plain inference from the Gospel's words about who was with them. The 'free access' idea is his own."
+  },
+  {
+   "text": "Edersheim says the second feeding, which follows these healings, took place in the Gentile Decapolis and that those who sat down to the meal were chiefly the inhabitants of that district. He says the guests were not strictly Jews but semi-Gentile inhabitants of the district and its neighbourhood.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXXVI",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2304564,
+     "quote": "There can, at any rate, be little doubt that this second feeding of the multitude took place in the Gentile Decapolis, and that those who sat down to the meal were chiefly the inhabitants of that district."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2303800,
+     "quote": "the guests were not strictly Jews, but semi-Gentile inhabitants of that district and its neighbourhood"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim's view of the location. Matthew says only that Jesus came near the Sea of Galilee. Other commentators place the scene on the western side."
+  },
+  {
+   "text": "Matthew Henry says the blind and the lame in this crowd tell us how wide Jesus's welcome was: he admitted all sorts of people, the poor as well as the rich, and 'never complained of crowds or throngs of seekers'. He notes the people laid their sick down at Jesus's feet and 'we read not of any thing they said to him', and adds that their calamities spoke for them.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Matthew 15",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1333214,
+     "quote": "He never complained of crowds or throngs of seekers"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1333630,
+     "quote": "We read not of any thing they said to him, but they laid them down before him as objects of pity, to be looked upon by him."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry also uses 18th-century class language about 'the vulgar' in the same sentence; it is not reproduced."
+  }
+ ],
+ "answer-to-john": [
+  {
+   "text": "Edersheim, following Josephus, says John the Baptist was committed to the strong fortress of Machaerus, and describes it as the boundary fortress in the south-east of Peraea, towards Arabia, built by Alexander Jannaeus and greatly enlarged by Herod the Great. He says Josephus describes its natural position as unassailable, with sheer valleys on the west, north and south, and that a modern traveller found Josephus's description 'sufficiently accurate, although exaggerated'.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXVIII",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2016208,
+     "quote": "But, according to Josephus, whose testimony there is no reason to question, the Baptist was committed to the strong fortress of Machærus."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2016767,
+     "quote": "As the boundary fortress in the south-east (towards Arabia), its safety was of the greatest importance"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2016966,
+     "quote": "It had been built by Alexander Jannæus"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2017068,
+     "quote": "It was not only restored, but greatly enlarged, by Herod the Great, who surrounded it with the best defences known at that time."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2017807,
+     "quote": "The highest point of the fort was on the west, where it looked sheer down into a valley. North and south the fort was equally cut off by valleys, which could not be filled up for siege purposes."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2018244,
+     "quote": "has pronounced the description of Josephus [3148] as sufficiently accurate, although exaggerated, and as probably not derived from personal observation."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The '[3148]' in the third quotation is a footnote marker and should not be copied."
+  },
+  {
+   "text": "Josephus himself says John was sent as a prisoner, out of Herod's suspicious temper, to Machaerus and put to death there. He explains that Herod feared John's great influence with the people, who seemed ready to do anything he advised, and might raise a rebellion.",
+   "source": "Josephus, Antiquities of the Jews, Book XVIII, chapter 5 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 2662187,
+     "quote": "Herod, who feared lest the great influence John had over the people might put it into his power and inclination to raise a rebellion"
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 2662578,
+     "quote": "Accordingly he was sent a prisoner, out of Herod's suspicious temper, to Macherus, the castle I before mentioned, and was there put to death."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Josephus gives a political reason for John's arrest; the Gospels give a different one (Herod's marriage). The two are not set against each other here."
+  },
+  {
+   "text": "Matthew Henry notes that John, though a prisoner, still had his disciples about him: they adhered to him, attended on him and were ready to receive instruction. He thinks that John may have sent them to Jesus for their sake rather than his own, so that they might see for themselves; and he takes Jesus's answer, 'Go and tell him what you hear and see', as an appeal to what could be seen and heard, because the miracles 'were done openly, and in the view of all'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Matthew 11",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 901692,
+     "quote": "Observe, Though he was a prisoner they adhered to him, attended on him, and were ready to receive instructions from him; they loved him, and would not leave him."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 903746,
+     "quote": "Go and tell him what you hear and see."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 904210,
+     "quote": "Christ's miracles were done openly, and in the view of all"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry offers several possible reasons for John's question; the shelf version here is only the one about his disciples."
+  },
+  {
+   "text": "Smith's Dictionary says that 'opening the eyes of the blind' is mentioned in prophecy as a peculiar attribute of the Messiah, citing Isaiah 29:18 and 42:7. Matthew Henry, commenting on Isaiah 35:5, says that 'The eyes of the blind shall be opened' was often done by Jesus on earth, with a word's speaking. Jesus's answer to John, which lists the blind receiving their sight first, draws on this tradition.",
+   "source": "Smith's Bible Dictionary, entry 'Blindness'; Matthew Henry, Commentary on the Whole Bible, on Isaiah 35",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 382839,
+     "quote": "\"opening the eyes of the blind\" is mentioned in prophecy as a peculiar attribute of the Messiah."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1175424,
+     "quote": "The eyes of the blind shall be opened; this was often done by our Lord Jesus when he was here upon earth, with a word's speaking"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Neither source explicitly connects these passages to Matthew 11; the last sentence is the writer's link, and Jesus's answer in Matthew 11:5 echoes Isaiah 35:5 by its wording."
+  }
+ ],
+ "pool-of-bethesda": [
+  {
+   "text": "Wikipedia says John 5 describes the pool as near the Sheep Gate and surrounded by five covered colonnades, or porticoes. The site now associated with it is in the Muslim Quarter of the Old City, near the gate now called the Lions' Gate or St. Stephen's Gate and the Church of St. Anne, and was excavated in the 19th century.",
+   "source": "Wikipedia, 'Pool of Bethesda', revision of 22 July 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Pool_of_Bethesda.wiki.txt",
+     "offset": 1592,
+     "quote": "described as being near the Sheep Gate and surrounded by five covered colonnades or porticoes."
+    },
+    {
+     "file": "wikipedia_Pool_of_Bethesda.wiki.txt",
+     "offset": 1802,
+     "quote": "It is now associated with the site of a pool in the current [[Muslim Quarter (Jerusalem)|Muslim Quarter]] of the city, near the gate now called the [[Lions' Gate]] or St. Stephen's Gate and the [[Church of Saint Anne, Jerusalem|Church of St. Anne]], which was excavated in the late 19th century."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Wikipedia says the pool began in the 8th century BC, when a dam was built across a short valley to turn it into a reservoir for rain water, and that around 200 BC a second pool was added on the south side of the dam. It says that although popular legend holds the pool was used for washing sheep, this is very unlikely given its use as a water supply and its extreme depth of 13 metres.",
+   "source": "Wikipedia, 'Pool of Bethesda', revision of 22 July 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Pool_of_Bethesda.wiki.txt",
+     "offset": 8561,
+     "quote": "a dam was built across the short Beth Zeta Valley, turning it into a [[reservoir]] for rain water"
+    },
+    {
+     "file": "wikipedia_Pool_of_Bethesda.wiki.txt",
+     "offset": 9426,
+     "quote": "Although popular legend argues that this pool was used for washing sheep, this is very unlikely due to the pool's use as a water supply, and its extreme depth {{convert|13|m}}."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Depth and dating come from excavation as reported by Wikipedia."
+  },
+  {
+   "text": "Wikipedia reports that in the 1st century BC natural caves east of the two pools were turned into small baths with a religious or medical purpose, and that the Roman emperor Hadrian later built a large temple to Asclepius and Serapis there. The article says the large numbers of infirm people in the Gospel account could correspond with the site's possible use in the 1st century AD as an Asclepieion.",
+   "source": "Wikipedia, 'Pool of Bethesda', revision of 22 July 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Pool_of_Bethesda.wiki.txt",
+     "offset": 10298,
+     "quote": "in the 1st century BC natural caves to the east of the two pools were turned into small baths with a religious/medical function."
+    },
+    {
+     "file": "wikipedia_Pool_of_Bethesda.wiki.txt",
+     "offset": 7984,
+     "quote": "could correspond with the site's possible use in the 1st century AD as an [[Asclepeion]]."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The Asclepieion link is speculative ('could correspond', 'possible'). Hadrian's temple was a century after John 5."
+  },
+  {
+   "text": "Edersheim, in 1883, says all that was known was that it was a pool enclosed within five porches, by the sheep-market, presumably close to the Sheep-Gate, opening from the busy northern suburb of markets, bazaars and workshops on the road to the Mount of Olives, Bethany and Jericho. He says all attempts to explain the name Bethesda had failed.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XII",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1448432,
+     "quote": "All we know is, that it was a pool enclosed within five porches, by the sheep-market, presumably close to the Sheep-Gate.'"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1448596,
+     "quote": "opened from the busy northern suburb of markets, bazaars, and workshops, eastwards upon the road which led over the Mount of Olives and Bethany to Jericho."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Written before the 20th-century excavations; his identification of the pool is superseded by Wikipedia's account above."
+  },
+  {
+   "text": "Matthew Henry notes that the porches were roofed walks in which the sick lay: 'the charity of men concurred with the mercy of God for the relief of the distressed', and 'nature has provided remedies, but men must provide hospitals'. Of the blind, halt and withered he says they are named because, 'being least able to help themselves into the water, they lay longest waiting in the porches.'",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on John 5",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 5376076,
+     "quote": "It had five porches, cloisters, piazzas, or roofed walks, in which the sick lay. Thus the charity of men concurred with the mercy of God for the relief of the distressed."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 5376936,
+     "quote": "These are mentioned because, being least able to help themselves into the water, they lay longest waiting in the porches."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's inference about why those three groups are named; he also offers a natural explanation for the water's 'virtue' that is not repeated here."
+  },
+  {
+   "text": "Smith's Dictionary translates Bethesda as 'house of mercy, or the flowing water' and describes it as a reservoir with five porches close upon the sheep-gate. It identifies it with the largest reservoir, the Birket Israil, 360 feet long, 120 feet wide and 80 feet deep, within the walls under the north-east wall of the temple area, though it notes Robinson's suggestion of a different pool further south.",
+   "source": "Smith's Bible Dictionary, entry 'Bethesda'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 352563,
+     "quote": "the Hebrew name of a reservoir or tank, with five \"porches,\" close upon the sheep-gate or \"market\" in Jerusalem."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 352707,
+     "quote": "The largest reservoir - Birket Israil - 360 feet long, 120 feet wide and 80 feet deep, within the walls of the city"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Smith's identification with the Birket Israil is the older view; Wikipedia's account (the pools north of the Church of St. Anne) is more recent. Wikipedia describes the Birket Israil as an earlier proposal."
+  },
+  {
+   "text": "Wikipedia says the name Bethesda probably comes from the Hebrew or Aramaic for 'house of mercy' or 'house of grace', and that this suited the place: it 'was seen as a place of disgrace due to the presence of invalids, and as a place of grace due to the granting of healing'.",
+   "source": "Wikipedia, 'Pool of Bethesda', revision of 22 July 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Pool_of_Bethesda.wiki.txt",
+     "offset": 2386,
+     "quote": "This meaning may have been thought appropriate, since the location was seen as a place of disgrace due to the presence of invalids, and as a place of grace due to the granting of healing."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The meaning of the name is debated; Edersheim lists several other proposals. 'Place of disgrace' is Wikipedia's wording and speculative."
+  }
+ ],
+ "the-banquet": [
+  {
+   "text": "Matthew Henry reads Luke 14:12-14 as a rebuke of the host who invited only rich people, who could dine well at home, when he should have thought of the poor. He says Jesus does not forbid entertaining friends and neighbours, but warns against making it a custom, against showing off, and against aiming to be paid back in the same coin. The poor and maimed, he says, cannot repay, and the repayment comes at the resurrection of the just.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Luke 14",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 4290481,
+     "quote": "II. He takes occasion to reprove the master of the feast for inviting so many rich people, who had wherewithal to dine very well at home, when he should rather have invited the poor"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 4291154,
+     "quote": "This does not prohibit the entertaining of such; there may be occasion for it, for the cultivating of friendship among relations and neighbours."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 4292085,
+     "quote": "Aim not at being paid again in your own coin."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's moralising reading, not a historical description. Some of his advice about plain meals is his own application."
+  },
+  {
+   "text": "Edersheim sets the scene: Jesus was at a Sabbath meal in the house of a ruler, after healing a man with dropsy in front of them all. The talk of a feast for the poor and afflicted led a guest to say, 'Blessed is he who shall eat bread in the kingdom of God.' Edersheim says that to a Pharisee this meant the common Jewish expectation of a great feast at the beginning of the Messianic kingdom, and that the parable was told to him personally.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XVI",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2838633,
+     "quote": "What led up to the Parable of the Great Supper' happened after these things: after His healing of the man with the dropsy in sight of them all on the Sabbath"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2840129,
+     "quote": "An expression this, which to the Pharisee meant the common Jewish expectancy of a great feast [4472] at the beginning of the Messianic Kingdom."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim is sharply polemical about Pharisees in this chapter and generalises about them as a class. Do not reproduce those generalisations; the setting and the expected messianic feast are the useful part."
+  },
+  {
+   "text": "Edersheim reads the parable's three invitations as a story about who was invited first and who came. The first guests were the chief people of the city; when they declined, the servant was sent into the larger streets and narrow lanes of the city to bring in the poor, maimed, lame and blind. Only then was he sent outside the city 'into the highways and hedges', and told to constrain people to come in, which Edersheim says means earnest, pressing invitation and not force. He notes that, according to the Talmud, there were commonly no hedges round Jewish fields, and takes the highways and hedges to point beyond Israel.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XVI",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2845006,
+     "quote": "Accordingly, the Servant is now directed to go out quickly into the (larger) streets and the (narrow) lanes of the City,' - a trait which shows that the scene is laid in the City,' the professed habitation of God."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2846163,
+     "quote": "This reference to the heathen world is the more apparent that, according to the Talmud, [4477] there were commonly no hedges round the fields of the Jews."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2846637,
+     "quote": "but as the moral constraint of earnest, pressing invitation, coupled with assurance both of the reality of the feast and of their welcome to it."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim's interpretation. His footnote 4478 observes that 'constrain to come in' has been quoted in justification of religious persecution, which he calls sad. His remarks on 'the heathen world' reflect his time."
+  },
+  {
+   "text": "Matthew Henry takes the guests brought in from the streets and lanes as the publicans and sinners, 'the poor and the maimed', and the second sending as the calling of the Gentiles. He draws a lesson from the blind and lame in particular: those who are very poor and low in the world are as welcome to Christ as the rich and great, and the gospel has often had its greatest success among those who labour under worldly disadvantages and bodily infirmities, 'the maimed, and the halt, and the blind'. He links this back to Jesus's advice to invite such people to our own tables.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Luke 14",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 4308521,
+     "quote": "Many of the Jews are brought in, not of the scribes and Pharisees, such as Christ was now at dinner with, who thought themselves most likely to be guests at the Messiah's table, but the publicans and sinners; these are the poor and the maimed."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 4310276,
+     "quote": "the gospel has greatest success among those that labour under worldly disadvantages, as the poor, and bodily infirmities, as the maimed, and the halt, and the blind."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's allegorical reading. Edersheim's reading (the poor of the city) is similar; neither says the parable is about blind people as such."
+  },
+  {
+   "text": "Smith's Dictionary describes the customs of a formal meal. The principal meal was taken after sunset, and the word 'supper' in Luke 14:12 is, it says, more properly 'dinner'. Guests reclined on couches arranged on three sides of a square, with the fourth side left open for servants, and 'a single dish' into which each guest dipped his hand. On state occasions the guests were invited beforehand, and 'on the day of the feast a second invitation was issued to those that were bidden', and places were settled according to rank.",
+   "source": "Smith's Bible Dictionary, entry 'Meals'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1620781,
+     "quote": "The Jews rather followed the custom that prevails among the Bedouins, and made their principal meal after sunset"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1621598,
+     "quote": "The ordinary arrangement of the couches was in three sides of a square, the fourth being left open for the servants to bring up the dishes."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1623323,
+     "quote": "the guests were previously invited, (Esther 5:8; Matthew 22:3) and on the day of the feast a second invitation was issued to those that were bidden."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1624388,
+     "quote": "The places of the guests were settled according to their respective rand, (Genesis 43:33; Mark 12:39)"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Smith's is describing Jewish practice in general from the Old and New Testaments. 'Rand' is an OCR error for 'rank' in the file."
+  },
+  {
+   "text": "On the poor at feasts, Smith's Dictionary says the poor among the Hebrews were much favoured: they were allowed to glean, to gather what the land produced in the year it was not tilled, and 'they were also invited to feasts', citing Deuteronomy 14:29 and 26:12. Jesus's advice to invite the poor, the maimed, the lame and the blind thus rests on a pattern already in the Law.",
+   "source": "Smith's Bible Dictionary, entry 'Beggar, Begging'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 325850,
+     "quote": "The poor among the Hebrews were much favored."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 326081,
+     "quote": "They were also invited to feasts."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The last sentence of the text is the writer's link between Smith's account and Luke 14:13; Smith's does not mention Luke 14."
+  }
+ ],
+ "the-return": [
+  {
+   "text": "Matthew Henry heads chapter 31 'Joyful Return from Captivity' and dates it about 594 BC. On verse 8 he says many of those returning are unfit for travel, yet the blind and the lame shall come: they will have such good will for the journey that they shall not make their blindness and lameness an excuse for staying where they are. Of the pregnant women he says the same: when God calls, we must not plead inability, for he who calls us will help us.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Jeremiah 31",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3505947,
+     "quote": "Joyful Return from Captivity. (b. c. 594.)"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3517659,
+     "quote": "The blind and the lame shall come; such a good-will shall they have to their journey, and such a good heart upon it, that they shall not make their blindness and lameness an excuse for staying where they are."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3518462,
+     "quote": "Note, When God calls we must not plead any inability to come; for he that calls us will help us, will strengthen us."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's reading. He treats the blind and lame as real travellers, but his lesson ('do not plead inability') is a sermon point that a blind reader may or may not welcome; consider whether to publish it."
+  },
+  {
+   "text": "Matthew Henry notes that their companions will be ready to help them, will be eyes to the blind and legs to the lame, and he cites Job 29:15; but, above all, he says, their God will help them, 'let none plead that he is blind who has God for his guide, or lame who has God for his strength.' So Henry sees two kinds of help on the road home: the help of fellow travellers and the guidance of God.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Jeremiah 31",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3517877,
+     "quote": "There companions will be ready to help them, will be eyes to the blind and legs to the lame, as good Christians ought to be to one another in their travels heavenward, Job xxix. 15."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3518065,
+     "quote": "But, above all, their God will help them; and let none plead that he is blind who has God for his guide, or lame who has God for his strength."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's reading. Verse 9 says only that God will lead them by streams of water in a straight way where they will not stumble; the companions are Henry's addition."
+  },
+  {
+   "text": "For the road itself, Matthew Henry takes verse 9 as a promise answering each hazard of a long journey home. If the country is dry and thirsty, God will cause them to walk by rivers of water. If it is a wilderness with no road or track, God will cause them to walk in a straight way which they shall not miss. If it is a rough and rocky country, they shall not stumble. He also reads 'with weeping and with supplications' as weeping for sin as they are delivered from captivity.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Jeremiah 31",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3519715,
+     "quote": "Is the country they pass through dry and thirsty? I will cause them to walk by the rivers of waters, not the waters of a land-flood, which fail in summer."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3518996,
+     "quote": "They shall come with weeping and with supplications, weeping for sin, supplication for pardon"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3519876,
+     "quote": "Is it a wilderness where there is no road, no track? I will cause them to walk in a straight way, which they shall not miss. Is it a rough and rocky country? Yet they shall not stumble."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's paraphrase; the verse itself names only streams of water and a straight way where they will not stumble."
+  },
+  {
+   "text": "On the larger setting, Matthew Henry says God will again take Israel into covenant with himself and that the watchmen on Mount Ephraim will call people to go up to Zion; he says the promise was to be fully accomplished 'in the days of the Messiah'. The 1915 Bible encyclopedia describes chapters 30 to 33 of Jeremiah as the 'Book of Comfort', and says predictions of restoration became more frequent in Jeremiah during the siege and afterwards.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Jeremiah 31; International Standard Bible Encyclopaedia (1915), entry 'Jeremiah'",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3507567,
+     "quote": "God here assures his people, I. That he will again take them into a covenant relation to himself"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3514089,
+     "quote": "the watchmen upon Mount Ephraim, that are set to stand sentinel there, to give notice of the approach of the enemy, finding that all is very quiet"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3515285,
+     "quote": "This promise was to have its full accomplishment in the days of the Messiah, when the gospel should be preached to all these countries"
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 1826811,
+     "quote": "such predictions are Jeremiah Jeremy, Ep. of THE INTERNATIONAL STANDARD BIBLE ENCYCLOPAEDIA 15(H) more frequent (cf 23 1 fT; 24 (if; 47 2-7; and in tin' \"Book of Comfort,\" chs 30-33)."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The ISBE quotation includes a running head from the OCR; the text should not reproduce it. Henry's Messianic reading is one of several the shelf does not set against each other."
+  }
+ ],
+ "job": [
+  {
+   "text": "Matthew Henry reads 'eyes to the blind' in Job 29:15 as advice, not as help with the physical lack of sight. In his view Job counselled and advised those who did not know what to do, and was feet to the lame by helping with money and friends those who knew what to do but not how to do it. He adds that we best help people by helping them in the very thing in which they are lacking, and that since we may become blind or lame ourselves we should pity and help those who are.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Job 29",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 950629,
+     "quote": "I was eyes to the blind, counselling and advising those for the best that knew not what to do, and feet to the lame, assisting those with money and friends that knew what they should do, but knew not how to compass it."
+    },
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 950857,
+     "quote": "Those we best help whom we help out in that very thing wherein they are defective and most need help. We may come to be blind or lame ourselves, and therefore should pity and succour those that are so"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Commentary of the early 18th century. Henry reads the verse figuratively (the 'blind' are those without direction); he does not discuss a person who is physically blind."
+  },
+  {
+   "text": "In his comment on the healing of the two blind men in Matthew 9, Matthew Henry draws exactly the line Brian asks about. Job, he says, was eyes to the blind, standing to them instead of eyes, but could not give eyes to the blind, and he notes that opening the eyes of the blind is spoken of as God's own prerogative. Seen this way, being someone's eyes and giving someone sight are different things, and only the second is called God's work.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Matthew 9",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 773872,
+     "quote": "Job was eyes to the blind (Job xxix. 15); was to them instead of eyes, but he could not give eyes to the blind."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 773756,
+     "quote": "for it is God's prerogative to open the eyes of the blind (Ps. cxlvi. 8); he makes the seeing eye, Exod. iv. 11."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "This is the only place on the shelf that explicitly separates serving as eyes from giving eyes. It is one sentence, and Henry's point there is about Christ's power, not about how a blind person experiences being guided."
+  },
+  {
+   "text": "Matthew Henry uses the same words of Job in his comment on Jeremiah 31, where the blind and the lame return from exile. He says their companions will be ready to help them, will be eyes to the blind and legs to the lame, as good Christians ought to be to one another on their way to heaven, and he cites Job 29:15. For Henry, being 'eyes to the blind' is something companions do for one another on a journey.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Jeremiah 31",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3517877,
+     "quote": "There companions will be ready to help them, will be eyes to the blind and legs to the lame, as good Christians ought to be to one another in their travels heavenward, Job xxix. 15."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry is writing about companions helping one another on a journey, not about a person of standing helping the blind."
+  },
+  {
+   "text": "Matthew Henry, commenting on Proverbs, adds that it is more charity to counsel the poor than to counsel a prince, 'as Job was with his wisdom', and he cites Job 29:15 for it. Taken with his comment on Job itself, he consistently treats Job's help to the blind as the gift of wisdom and counsel rather than of alms.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Proverbs 1",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 4783271,
+     "quote": "It is more dignity indeed to be counsellor to the prince, but it is more charity to be counsellor to the poor, as Job was with his wisdom. Job xxix. 15, I was eyes to the blind."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Interpretation by Henry. The Hebrew of Job 29:15 is not discussed on the shelf."
+  },
+  {
+   "text": "The Law, as the 1915 Bible encyclopedia summarises it, specially enjoined care of the blind (Leviticus 19:14), and treated offences against them as breaches of the Law (Deuteronomy 27:18). Smith's Dictionary likewise says the Jews were specially charged to treat the blind with compassion and care. These are the commands that Job's claim sits beside: he describes himself as keeping and going beyond them.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Blindness'; Smith's Bible Dictionary, entry 'Blindness'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3980588,
+     "quote": "but care of the blind was specially enjoined in the Law (Lev 19 14), and offences against them are regarded as breaches of Law (Dt 27 18)."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 382972,
+     "quote": "The Jews were specially charged to treat the blind with compassion and care."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The last sentence of the text is the writer's link between the Law and Job; neither source mentions Job in these entries."
+  },
+  {
+   "text": "Matthew Henry describes the whole of Job's care in this chapter. He says Job was 'a father to the poor', counselling, directing and acting for them, and adds that 'it is no disparagement to the son of a prince to be a father to the poor'. He lists those Job helped: the poor who cried, the fatherless, those ready to perish, widows, and 'those that were upon any account at a loss', which is where he puts the blind and the lame.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Job 29",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 949126,
+     "quote": "It is no disparagement to the son of a prince to be a father to the poor."
+    },
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 949613,
+     "quote": "(3.) Those that were ready to perish he saved from perishing, relieving those that were hungry and ready to perish for want"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's list of the kinds of people Job helped is his own organisation of verses 11-17."
+  },
+  {
+   "text": "Matthew Henry notes where Job did this work. He says Job went out 'through the city' to the business at the gate, and that judgment was administered in the gate and in the street, in places of concourse to which every man might have free access. Smith's Dictionary agrees that city gates were used as places of public deliberation and the administration of justice.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Job 29; Smith's Bible Dictionary, entry 'Gate'",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 942222,
+     "quote": "Observe, Judgment was administered in the gate, in the street, in the places of concourse, to which every man might have a free access"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 823642,
+     "quote": "Places for public deliberation, administration of Justice, or of audience for kings and rulers or ambassadors."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Smith's list is for gates of eastern cities generally."
+  }
+ ],
+ "jabesh-gilead": [
+  {
+   "text": "The 1915 encyclopedia says Jabesh-gilead was a city east of the Jordan, and that Saul's military prowess was first displayed in rescuing it from Nahash the Ammonite. The 1915 encyclopedia adds that the site remains in doubt. Smith's Dictionary calls it the chief of the cities of Gilead and says Eusebius places it six miles from Pella on the mountain road to Gerasa, where its name is probably preserved in the Wady Yabes.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Jabesh-gilead'; Smith's Bible Dictionary, entry 'Jabesh'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 1456941,
+     "quote": "A city E. of the Jordan, in the deliverance of which from Xahash the Ammonite Saul's military prowess was first displayed (1 S 11 Iff)."
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 1458197,
+     "quote": "The site; remains in doubt"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1119412,
+     "quote": "and of the cities of Gilead, Jabesh was the chief."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1119694,
+     "quote": "Eusebius places it beyond the Jordan, six miles from Pella on the mountain road to Gerasa; where its name is probably preserved in the Wady Yabes."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The ISBE text is OCR; 'Xahash' is the scanner's error for Nahash and should not be copied."
+  },
+  {
+   "text": "Josephus explains the thinking behind the threat. Nahash, king of the Ammonites, had put out the right eyes of those who surrendered to him or were taken in war, so that when their left eyes were covered by their shields they would be useless in war. When he camped at Jabesh he told the people to give themselves up on condition of having their right eyes plucked out, or face a siege.",
+   "source": "Josephus, Antiquities of the Jews, Book VI, chapter 5 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 786084,
+     "quote": "for he put out the right eyes 9 of those that either delivered themselves to him upon terms, or were taken by him in war; and this he did, that when their left eyes were covered by their shields, they might be wholly useless in war."
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 786579,
+     "quote": "commanding them either to deliver themselves up, on condition to have their right eyes plucked out, or to undergo a siege"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The military reason is Josephus's explanation; the Bible text gives no reason beyond disgrace (1 Samuel 11:2)."
+  },
+  {
+   "text": "Smith's Dictionary says blindness inflicted on purpose for political or other ends is alluded to in Scripture, citing 1 Samuel 11:2 (Nahash at Jabesh) and Jeremiah 39:7 (Zedekiah). That sets Nahash's offer inside a wider pattern of using blinding as a punishment or a means of control.",
+   "source": "Smith's Bible Dictionary, entry 'Blindness'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 383094,
+     "quote": "Blindness willfully inflicted for political or other purposes is alluded to in Scripture. (1 Samuel 11:2; Jeremiah 39:7)"
+    }
+   ],
+   "confidence": "high"
+  }
+ ],
+ "the-jebusite-taunt": [
+  {
+   "text": "Josephus retells 2 Samuel 5 and says what the Jebusites did: they shut their gates and placed the blind, the lame and all their maimed persons upon the wall, to mock the king, saying that even the lame themselves would keep him out. They did it, Josephus says, out of contempt for David's power and trusting in the strength of their walls. David took the lower city by force, but the citadel held out until Joab climbed up first.",
+   "source": "Josephus, Antiquities of the Jews, Book VII, chapter 3 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 950769,
+     "quote": "shut their gates, and placed the blind, and the lame, and all their maimed persons, upon the wall, in way of derision of the king, and said that the very lame themselves would hinder his entrance into it."
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 951337,
+     "quote": "So he took the lower city by force, but the citadel held out still"
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 951878,
+     "quote": "However, Joab, the son of Zeruiah, prevented the rest; and as soon as he was got up to the citadel, cried out to the king, and claimed the chief command."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Josephus's reading of an obscure verse in 2 Samuel 5:6-8; he writes as if the blind and lame were actually placed on the wall. Whiston's footnote on the shelf says Josephus's explanation 'seems to be the truth' and gives the best light on the Bible text, which is an 18th-century opinion."
+  },
+  {
+   "text": "Whiston, Josephus's translator, adds a note defending Josephus's reading: the lame, the blind and the maimed were set 'to keep this city or citadel'. That is, on this reading the 'blind and lame' of the Bible were the people the Jebusites put on the wall, not a figure of speech.",
+   "source": "Josephus, Antiquities of the Jews, Book VII, chapter 3, note by William Whiston",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1082147,
+     "quote": "Josephus's explication of the lame, and the blind, and the maimed, as set to keep this city or citadel, seems to be the truth, and gives the best light to that history in our Bible."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "An 18th-century translator's footnote; modern readers differ on what the verse means."
+  },
+  {
+   "text": "Smith's Dictionary says 'Jebus' is one of the names of Jerusalem, 'the city of the Jebusites'. It says the Jebusites were descended from the third son of Canaan, joined an alliance against Joshua, and had their citadel finally scaled and occupied by David. The 1915 encyclopedia says that in the lists of the peoples of Canaan the Jebusites are always placed last, probably a sign of their smaller number, and that it is doubtful what race they belonged to.",
+   "source": "Smith's Bible Dictionary, entry 'Jebus'; International Standard Bible Encyclopaedia (1915), entry 'Jebusite'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1149089,
+     "quote": "Jebus (threshing-floor), one of the names of Jerusalem, the city of the Jebusites"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1149424,
+     "quote": "Jebusites (descendants of Jebus), The, were descended from the third son of Canaan."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1149669,
+     "quote": "When Jabin organized his rising against Joshua, the Jebusites joined him."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1149965,
+     "quote": "and its citadel finally scaled and occupied by David. (2 Samuel 5:6)"
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 1688517,
+     "quote": "In the lists of the peoples inhabiting Pal the \"Jebusite\" is always placed last, a fact indicative, probably, of their smaller number."
+    }
+   ],
+   "confidence": "high"
+  }
+ ],
+ "luke-14-parable": [
+  {
+   "text": "Matthew Henry reads Luke 14:12-14 as a rebuke of the host who invited only rich people, who could dine well at home, when he should have thought of the poor. He says Jesus does not forbid entertaining friends and neighbours, but warns against making it a custom, against showing off, and against aiming to be paid back in the same coin. The poor and maimed, he says, cannot repay, and the repayment comes at the resurrection of the just.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Luke 14",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 4290481,
+     "quote": "II. He takes occasion to reprove the master of the feast for inviting so many rich people, who had wherewithal to dine very well at home, when he should rather have invited the poor"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 4291154,
+     "quote": "This does not prohibit the entertaining of such; there may be occasion for it, for the cultivating of friendship among relations and neighbours."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 4292085,
+     "quote": "Aim not at being paid again in your own coin."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's moralising reading, not a historical description. Some of his advice about plain meals is his own application."
+  },
+  {
+   "text": "Edersheim sets the scene: Jesus was at a Sabbath meal in the house of a ruler, after healing a man with dropsy in front of them all. The talk of a feast for the poor and afflicted led a guest to say, 'Blessed is he who shall eat bread in the kingdom of God.' Edersheim says that to a Pharisee this meant the common Jewish expectation of a great feast at the beginning of the Messianic kingdom, and that the parable was told to him personally.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XVI",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2838633,
+     "quote": "What led up to the Parable of the Great Supper' happened after these things: after His healing of the man with the dropsy in sight of them all on the Sabbath"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2840129,
+     "quote": "An expression this, which to the Pharisee meant the common Jewish expectancy of a great feast [4472] at the beginning of the Messianic Kingdom."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim is sharply polemical about Pharisees in this chapter and generalises about them as a class. Do not reproduce those generalisations; the setting and the expected messianic feast are the useful part."
+  },
+  {
+   "text": "Edersheim reads the parable's three invitations as a story about who was invited first and who came. The first guests were the chief people of the city; when they declined, the servant was sent into the larger streets and narrow lanes of the city to bring in the poor, maimed, lame and blind. Only then was he sent outside the city 'into the highways and hedges', and told to constrain people to come in, which Edersheim says means earnest, pressing invitation and not force. He notes that, according to the Talmud, there were commonly no hedges round Jewish fields, and takes the highways and hedges to point beyond Israel.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XVI",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2845006,
+     "quote": "Accordingly, the Servant is now directed to go out quickly into the (larger) streets and the (narrow) lanes of the City,' - a trait which shows that the scene is laid in the City,' the professed habitation of God."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2846163,
+     "quote": "This reference to the heathen world is the more apparent that, according to the Talmud, [4477] there were commonly no hedges round the fields of the Jews."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2846637,
+     "quote": "but as the moral constraint of earnest, pressing invitation, coupled with assurance both of the reality of the feast and of their welcome to it."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim's interpretation. His footnote 4478 observes that 'constrain to come in' has been quoted in justification of religious persecution, which he calls sad. His remarks on 'the heathen world' reflect his time."
+  },
+  {
+   "text": "On the custom behind the parable, Edersheim notes that a Jewish feast had a preliminary invitation before the announcement that all was ready. He cites the Midrash on Lamentations 4:2 as saying that none of the inhabitants of Jerusalem went to a feast until the invitation had been given and repeated. That explains why the excuses in the parable come when the servant says everything is now ready, not when the first invitation was given.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book V, chapter V (on the marriage feast), referring back to Luke 14",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3351734,
+     "quote": "a preliminary general invitation had preceded the announcement that all was ready. Indeed, in the Midrash on Lament. iv. 2, [5344] it is expressly mentioned among other distinctions of the inhabitants of Jerusalem, that none of them went to a feast till the invitation had been given and repeated."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The Midrash is quoted by Edersheim in a discussion of the marriage-feast parable (Matthew 22). The last sentence of the text is the writer's application to Luke 14."
+  },
+  {
+   "text": "Matthew Henry takes the guests brought in from the streets and lanes as the publicans and sinners, 'the poor and the maimed', and the second sending as the calling of the Gentiles. He draws a lesson from the blind and lame in particular: those who are very poor and low in the world are as welcome to Christ as the rich and great, and the gospel has often had its greatest success among those who labour under worldly disadvantages and bodily infirmities, 'the maimed, and the halt, and the blind'. He links this back to Jesus's advice to invite such people to our own tables.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Luke 14",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 4308521,
+     "quote": "Many of the Jews are brought in, not of the scribes and Pharisees, such as Christ was now at dinner with, who thought themselves most likely to be guests at the Messiah's table, but the publicans and sinners; these are the poor and the maimed."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 4310276,
+     "quote": "the gospel has greatest success among those that labour under worldly disadvantages, as the poor, and bodily infirmities, as the maimed, and the halt, and the blind."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's allegorical reading. Edersheim's reading (the poor of the city) is similar; neither says the parable is about blind people as such."
+  },
+  {
+   "text": "Matthew Henry says that the servant is told to compel the guests from the highways and hedges 'not by force of arms, but by force of arguments': they would be shy and modest and would hardly believe they were welcome, so the invitation had to be pressed until it was believed to be sincere and not a banter. Edersheim says the same about the first group, the outcasts of the city, who might naturally shrink from coming to such a feast, which is why the servant is told to bring them in.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Luke 14; Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XVI",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 4309079,
+     "quote": "compel them to come in, not by force of arms, but by force of arguments. Be earnest with them; for in this case it will be necessary to convince them that the invitation is sincere and not a banter; they will be shy and modest, and will hardly believe that they shall be welcome"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2845517,
+     "quote": "and the Servant is directed, not only to invite, but to bring them in,' as otherwise they might naturally shrink from coming to such a feast."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Both are interpretations of the parable, not of first-century table custom."
+  },
+  {
+   "text": "Smith's Dictionary describes the customs of a formal meal. The principal meal was taken after sunset, and the word 'supper' in Luke 14:12 is, it says, more properly 'dinner'. Guests reclined on couches arranged on three sides of a square, with the fourth side left open for servants, and 'a single dish' into which each guest dipped his hand. On state occasions the guests were invited beforehand, and 'on the day of the feast a second invitation was issued to those that were bidden', and places were settled according to rank.",
+   "source": "Smith's Bible Dictionary, entry 'Meals'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1620781,
+     "quote": "The Jews rather followed the custom that prevails among the Bedouins, and made their principal meal after sunset"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1621598,
+     "quote": "The ordinary arrangement of the couches was in three sides of a square, the fourth being left open for the servants to bring up the dishes."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1623323,
+     "quote": "the guests were previously invited, (Esther 5:8; Matthew 22:3) and on the day of the feast a second invitation was issued to those that were bidden."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1624388,
+     "quote": "The places of the guests were settled according to their respective rand, (Genesis 43:33; Mark 12:39)"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Smith's is describing Jewish practice in general from the Old and New Testaments. 'Rand' is an OCR error for 'rank' in the file."
+  },
+  {
+   "text": "On the poor at feasts, Smith's Dictionary says the poor among the Hebrews were much favoured: they were allowed to glean, to gather what the land produced in the year it was not tilled, and 'they were also invited to feasts', citing Deuteronomy 14:29 and 26:12. Jesus's advice to invite the poor, the maimed, the lame and the blind thus rests on a pattern already in the Law.",
+   "source": "Smith's Bible Dictionary, entry 'Beggar, Begging'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 325850,
+     "quote": "The poor among the Hebrews were much favored."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 326081,
+     "quote": "They were also invited to feasts."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The last sentence of the text is the writer's link between Smith's account and Luke 14:13; Smith's does not mention Luke 14."
+  }
+ ],
+ "jeremiah-31": [
+  {
+   "text": "Matthew Henry heads chapter 31 'Joyful Return from Captivity' and dates it about 594 BC. On verse 8 he says many of those returning are unfit for travel, yet the blind and the lame shall come: they will have such good will for the journey that they shall not make their blindness and lameness an excuse for staying where they are. Of the pregnant women he says the same: when God calls, we must not plead inability, for he who calls us will help us.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Jeremiah 31",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3505947,
+     "quote": "Joyful Return from Captivity. (b. c. 594.)"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3517659,
+     "quote": "The blind and the lame shall come; such a good-will shall they have to their journey, and such a good heart upon it, that they shall not make their blindness and lameness an excuse for staying where they are."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3518462,
+     "quote": "Note, When God calls we must not plead any inability to come; for he that calls us will help us, will strengthen us."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's reading. He treats the blind and lame as real travellers, but his lesson ('do not plead inability') is a sermon point that a blind reader may or may not welcome; consider whether to publish it."
+  },
+  {
+   "text": "Matthew Henry notes that their companions will be ready to help them, will be eyes to the blind and legs to the lame, and he cites Job 29:15; but, above all, he says, their God will help them, 'let none plead that he is blind who has God for his guide, or lame who has God for his strength.' So Henry sees two kinds of help on the road home: the help of fellow travellers and the guidance of God.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Jeremiah 31",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3517877,
+     "quote": "There companions will be ready to help them, will be eyes to the blind and legs to the lame, as good Christians ought to be to one another in their travels heavenward, Job xxix. 15."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3518065,
+     "quote": "But, above all, their God will help them; and let none plead that he is blind who has God for his guide, or lame who has God for his strength."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's reading. Verse 9 says only that God will lead them by streams of water in a straight way where they will not stumble; the companions are Henry's addition."
+  },
+  {
+   "text": "For the road itself, Matthew Henry takes verse 9 as a promise answering each hazard of a long journey home. If the country is dry and thirsty, God will cause them to walk by rivers of water. If it is a wilderness with no road or track, God will cause them to walk in a straight way which they shall not miss. If it is a rough and rocky country, they shall not stumble. He also reads 'with weeping and with supplications' as weeping for sin as they are delivered from captivity.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Jeremiah 31",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3519715,
+     "quote": "Is the country they pass through dry and thirsty? I will cause them to walk by the rivers of waters, not the waters of a land-flood, which fail in summer."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3518996,
+     "quote": "They shall come with weeping and with supplications, weeping for sin, supplication for pardon"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3519876,
+     "quote": "Is it a wilderness where there is no road, no track? I will cause them to walk in a straight way, which they shall not miss. Is it a rough and rocky country? Yet they shall not stumble."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's paraphrase; the verse itself names only streams of water and a straight way where they will not stumble."
+  },
+  {
+   "text": "On the larger setting, Matthew Henry says God will again take Israel into covenant with himself and that the watchmen on Mount Ephraim will call people to go up to Zion; he says the promise was to be fully accomplished 'in the days of the Messiah'. The 1915 Bible encyclopedia describes chapters 30 to 33 of Jeremiah as the 'Book of Comfort', and says predictions of restoration became more frequent in Jeremiah during the siege and afterwards.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Jeremiah 31; International Standard Bible Encyclopaedia (1915), entry 'Jeremiah'",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3507567,
+     "quote": "God here assures his people, I. That he will again take them into a covenant relation to himself"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3514089,
+     "quote": "the watchmen upon Mount Ephraim, that are set to stand sentinel there, to give notice of the approach of the enemy, finding that all is very quiet"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3515285,
+     "quote": "This promise was to have its full accomplishment in the days of the Messiah, when the gospel should be preached to all these countries"
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 1826811,
+     "quote": "such predictions are Jeremiah Jeremy, Ep. of THE INTERNATIONAL STANDARD BIBLE ENCYCLOPAEDIA 15(H) more frequent (cf 23 1 fT; 24 (if; 47 2-7; and in tin' \"Book of Comfort,\" chs 30-33)."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The ISBE quotation includes a running head from the OCR; the text should not reproduce it. Henry's Messianic reading is one of several the shelf does not set against each other."
+  }
+ ],
+ "job-29-15": [
+  {
+   "text": "Matthew Henry reads 'eyes to the blind' in Job 29:15 as advice, not as help with the physical lack of sight. In his view Job counselled and advised those who did not know what to do, and was feet to the lame by helping with money and friends those who knew what to do but not how to do it. He adds that we best help people by helping them in the very thing in which they are lacking, and that since we may become blind or lame ourselves we should pity and help those who are.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Job 29",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 950629,
+     "quote": "I was eyes to the blind, counselling and advising those for the best that knew not what to do, and feet to the lame, assisting those with money and friends that knew what they should do, but knew not how to compass it."
+    },
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 950857,
+     "quote": "Those we best help whom we help out in that very thing wherein they are defective and most need help. We may come to be blind or lame ourselves, and therefore should pity and succour those that are so"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Commentary of the early 18th century. Henry reads the verse figuratively (the 'blind' are those without direction); he does not discuss a person who is physically blind."
+  },
+  {
+   "text": "In his comment on the healing of the two blind men in Matthew 9, Matthew Henry draws exactly the line Brian asks about. Job, he says, was eyes to the blind, standing to them instead of eyes, but could not give eyes to the blind, and he notes that opening the eyes of the blind is spoken of as God's own prerogative. Seen this way, being someone's eyes and giving someone sight are different things, and only the second is called God's work.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Matthew 9",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 773872,
+     "quote": "Job was eyes to the blind (Job xxix. 15); was to them instead of eyes, but he could not give eyes to the blind."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 773756,
+     "quote": "for it is God's prerogative to open the eyes of the blind (Ps. cxlvi. 8); he makes the seeing eye, Exod. iv. 11."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "This is the only place on the shelf that explicitly separates serving as eyes from giving eyes. It is one sentence, and Henry's point there is about Christ's power, not about how a blind person experiences being guided."
+  },
+  {
+   "text": "Matthew Henry uses the same words of Job in his comment on Jeremiah 31, where the blind and the lame return from exile. He says their companions will be ready to help them, will be eyes to the blind and legs to the lame, as good Christians ought to be to one another on their way to heaven, and he cites Job 29:15. For Henry, being 'eyes to the blind' is something companions do for one another on a journey.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Jeremiah 31",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 3517877,
+     "quote": "There companions will be ready to help them, will be eyes to the blind and legs to the lame, as good Christians ought to be to one another in their travels heavenward, Job xxix. 15."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry is writing about companions helping one another on a journey, not about a person of standing helping the blind."
+  },
+  {
+   "text": "Matthew Henry, commenting on Proverbs, adds that it is more charity to counsel the poor than to counsel a prince, 'as Job was with his wisdom', and he cites Job 29:15 for it. Taken with his comment on Job itself, he consistently treats Job's help to the blind as the gift of wisdom and counsel rather than of alms.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Proverbs 1",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 4783271,
+     "quote": "It is more dignity indeed to be counsellor to the prince, but it is more charity to be counsellor to the poor, as Job was with his wisdom. Job xxix. 15, I was eyes to the blind."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Interpretation by Henry. The Hebrew of Job 29:15 is not discussed on the shelf."
+  },
+  {
+   "text": "The Law, as the 1915 Bible encyclopedia summarises it, specially enjoined care of the blind (Leviticus 19:14), and treated offences against them as breaches of the Law (Deuteronomy 27:18). Smith's Dictionary likewise says the Jews were specially charged to treat the blind with compassion and care. These are the commands that Job's claim sits beside: he describes himself as keeping and going beyond them.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Blindness'; Smith's Bible Dictionary, entry 'Blindness'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3980588,
+     "quote": "but care of the blind was specially enjoined in the Law (Lev 19 14), and offences against them are regarded as breaches of Law (Dt 27 18)."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 382972,
+     "quote": "The Jews were specially charged to treat the blind with compassion and care."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The last sentence of the text is the writer's link between the Law and Job; neither source mentions Job in these entries."
+  },
+  {
+   "text": "Matthew Henry describes the whole of Job's care in this chapter. He says Job was 'a father to the poor', counselling, directing and acting for them, and adds that 'it is no disparagement to the son of a prince to be a father to the poor'. He lists those Job helped: the poor who cried, the fatherless, those ready to perish, widows, and 'those that were upon any account at a loss', which is where he puts the blind and the lame.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Job 29",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 949126,
+     "quote": "It is no disparagement to the son of a prince to be a father to the poor."
+    },
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 949613,
+     "quote": "(3.) Those that were ready to perish he saved from perishing, relieving those that were hungry and ready to perish for want"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's list of the kinds of people Job helped is his own organisation of verses 11-17."
+  },
+  {
+   "text": "Matthew Henry notes where Job did this work. He says Job went out 'through the city' to the business at the gate, and that judgment was administered in the gate and in the street, in places of concourse to which every man might have free access. Smith's Dictionary agrees that city gates were used as places of public deliberation and the administration of justice.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Job 29; Smith's Bible Dictionary, entry 'Gate'",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 942222,
+     "quote": "Observe, Judgment was administered in the gate, in the street, in the places of concourse, to which every man might have a free access"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 823642,
+     "quote": "Places for public deliberation, administration of Justice, or of audience for kings and rulers or ambassadors."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Smith's list is for gates of eastern cities generally."
+  },
+  {
+   "text": "Smith's Dictionary says Job lived in the land of Uz, which marks him as belonging to an Aramean branch that had settled south or south-east of Palestine, and that he is shown as a chieftain of immense wealth and high rank. Smith's adds that his worship was of the early patriarchal type and 'thoroughly domestic in form and spirit'.",
+   "source": "Smith's Bible Dictionary, entry 'Job'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1266941,
+     "quote": "Job is represented as a chieftain of immense wealth and high rank, blameless in all the relations of life."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1266204,
+     "quote": "His residence in the land of Uz marks him as belonging to a branch of the Aramean race"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Smith's treats the book's date and nature as uncertain and notes opinions that it is history, fiction or a composition based on facts."
+  }
+ ],
+ "siloam-walk": [
+  {
+   "text": "Two modern figures are given for the climb between the Pool of Siloam and the Temple Mount: a rise of about 115 metres over a straight-line distance of about 634 metres. The same source gives the pool an elevation of about 625 metres and the Temple Mount a mean elevation of 740 metres, and calls the pool the lowest place within the historical city. The man in John 9 would have gone down this slope to the pool and had to climb back up it.",
+   "source": "Wikipedia, 'Pool of Siloam', revision of 20 June 2026 (CC BY-SA 4.0), citing Itzhaki, Israel Guide: Jerusalem (1980)",
+   "evidence": [
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 3202,
+     "quote": "the Pool of Siloam is the lowest place in altitude within the historical city of Jerusalem, with an elevation of about {{convert|625|m|ft|}} above sea level."
+    },
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 3699,
+     "quote": "a [[Grade (slope)|gradient]] of {{convert|115|m|ft|}} in altitude at a linear distance of about {{convert|634|m}}, with a mean elevation in the Temple Mount of {{convert|740|m|ft|}} above sea level."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Modern measurements of the ground. The 634 metres is a straight line, not the length of any particular walking route."
+  },
+  {
+   "text": "Josephus describes the ground between the Temple and Siloam. The valley of the Cheesemongers ran between the upper city and the lower city as far as Siloam, and the outer sides of the hills were ringed by deep valleys with precipices. He adds that the Hasmonean rulers had filled in an older valley to join the city to the temple. The route to the pool therefore ran down a built-up valley, with steep ground on both sides.",
+   "source": "Josephus, The Wars of the Jews, Book V, chapter 4, section 1 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 907440,
+     "quote": "Now the Valley of the Cheesemongers, as it was called, and was that which we told you before distinguished the hill of the upper city from that of the lower, extended as far as Siloam; for that is the name of a fountain which hath sweet water in it, and this in great plenty also."
+    },
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 907207,
+     "quote": "they filled up that valley with earth, and had a mind to join the city to the temple."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Whiston's 18th-century translation. Josephus describes the city as it stood shortly before AD 70, a generation after John 9."
+  },
+  {
+   "text": "Edersheim describes the route of the priest's procession to Siloam at the Feast of Tabernacles. It went, he says, probably through Ophel, which he says was covered with buildings to the very edge of Siloam, down the edge of the Tyropoeon Valley where it meets the Kedron valley, to the Fountain-Gate and the Pool of Siloam, which he places still within the city wall. The priest then returned to the Temple through the Water-gate.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter VII",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2573117,
+     "quote": "Onwards it passed, probably, through Ophel, which recent investigations have shown to have been covered with buildings to the very verge of Siloam, down the edge of the Tyropoeon Valley, where it merges into that of the Kedron."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2573532,
+     "quote": "Here was the so-called Fountain-Gate,' and still within the City-wall the Pool of Siloam,' the overflow of which fed a lower pool."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2575457,
+     "quote": "A threefold blast of the Priests' trumpets welcomed the arrival of the Priest, as he entered through the Water-gate,'"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim's route is his own reconstruction (he says 'probably') for a ceremonial procession, not a record of the route in John 9. A 2006 news report quoted in Wikipedia places the pool outside the city wall; Edersheim places it inside."
+  },
+  {
+   "text": "Archaeologists working in the 1880s recorded a stairway of 34 rock-hewn steps to the west of the pool, leading up from a court in front of it. Excavations after 2004 found the Second Temple period pool: stone-lined, slightly trapezoid, with steps on at least three sides in sets of five, which has been suggested as a way to cope with changing water levels. For a man who could not see, the main thing to picture is that the way down to the water was a staircase.",
+   "source": "Wikipedia, 'Pool of Siloam', revision of 20 June 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 9373,
+     "quote": "there was a stairway of 34 rock-hewn steps to the west of the Pool of Siloam leading up from a court in front of the Pool of Siloam."
+    },
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 13958,
+     "quote": "steps existed on at least three sides of the pool. The pool is not perfectly rectangular, but a soft [[trapezoid]]. There are three sets of five steps, two leading to a platform, before the bottom is reached, and it has been suggested that the steps were designed to accommodate various water levels."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The article summarises excavation reports. The 34 steps were recorded by 1880s excavators; the article does not say they belong to the Second Temple period pool."
+  },
+  {
+   "text": "A news report of the 2000s excavation, quoted in a footnote of the Wikipedia article, says the excavators found a tiled road that ends at the pool and has its origins near the Temple Mount, and takes it to be the road worshippers used between the pool and the Temple. The article also says the pool was used by pilgrims for ritual purification before visiting the Temple enclosure.",
+   "source": "Wikipedia, 'Pool of Siloam', revision of 20 June 2026 (CC BY-SA 4.0), quoting a Jerusalem Post report of 26 January 2006",
+   "evidence": [
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 13661,
+     "quote": "a tiled road which ends at the pool and has its origins near the Temple Mount. Ostensibly, this is the road that worshippers used to go back and forth between the Shiloah Pool and the Temple Mount."
+    },
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 4549,
+     "quote": "The Pool of Siloam (perhaps referring to the Lower Pool) was used by pilgrims for [[ritual purification]] before visiting the Temple enclosure."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The road is the excavators' interpretation as reported by a newspaper; the word 'ostensibly' is in the quoted report."
+  },
+  {
+   "text": "Smith's Dictionary describes how the pool was fed. A rock-cut conduit 1,708 feet long carries the water from the Virgin's fountain to Siloam, entering a small rock-cut chamber that is reached by a few rude steps. It measures a later pool at about 52 feet by 18 feet and 19 feet deep, and says that pool is not the original building and may be the work of the Crusaders.",
+   "source": "Smith's Bible Dictionary, entry 'Siloam'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2704228,
+     "quote": "This conduit is 1708 feet long"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2704620,
+     "quote": "To this you descend by a few rude steps"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2704736,
+     "quote": "This pool is oblong, about 52 feet long, 18 feet broad and 19 feet deep"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2705338,
+     "quote": "The present pool is not the original building; it may be the work of crusaders"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "1863 text describing a later pool that excavation has since shown is not the Second Temple pool. Use it for the water supply, not for the pool Jesus used."
+  },
+  {
+   "text": "Josephus describes the royal cloister of the Temple, which ran from the east valley to the west one. The valley beneath it was so deep that a person looking down from the battlements would be giddy, because the cloister stood on top of the height of the valley wall. The Temple area was a platform raised high above the valley around it.",
+   "source": "Josephus, Antiquities of the Jews, Book XV, chapter 11, section 5 (Whiston translation)",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 2320278,
+     "quote": "while the valley was very deep, and its bottom could not be seen, if you looked from above into the depth, this further vastly high elevation of the cloister stood upon that height"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Josephus, writing for Roman readers, is fond of superlatives. Josephus only says the valley was deep beneath the cloister."
+  },
+  {
+   "text": "Josephus describes the old wall of Jerusalem as going south on the west side and 'having its bending above the fountain Siloam', then turning east towards Solomon's pool and on to Ophlas, where it joined the eastern cloister of the temple. Edersheim says the same: the oldest wall ran round the west of the Upper City, crossed south to the Pool of Siloam, then ran up east round Ophel until it reached the eastern enclosure of the Temple. On both accounts, Siloam sat at the south-east end of the old city, near the line of the wall below the Temple.",
+   "source": "Josephus, The Wars of the Jews, Book V, chapter 4 (Whiston translation); Edersheim, The Life and Times of Jesus the Messiah, Book II, chapter I",
+   "evidence": [
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 908585,
+     "quote": "after that it went southward, having its bending above the fountain Siloam, where it also bends again towards the east at Solomon's pool, and reaches as far as a certain place which they called \"Ophlas,\" where it was joined to the eastern cloister of the temple."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 394410,
+     "quote": "then crossed south to the Pool of Siloam, and ran up east, round Ophel, till it reached the eastern enclosure of the Temple"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Both describe the course of the oldest wall; neither says where the pool stood in relation to the wall in Jesus's day (compare the Edersheim item above and the Wikipedia caption that places the pool outside the wall)."
+  },
+  {
+   "text": "Wikipedia says that when Herod rebuilt the Temple he expanded the Temple Mount enclosure from 7 to 14.4 hectares, doubling it, and that above the Huldah Gates on top of the Temple walls stood the Royal Stoa, a hall of 162 columns in four rows. It also says water drawn from the Pool of Siloam was poured by the priest at the altar each day of the water libation ritual. These details set the Temple as a very large enclosure, with a link to the pool through the water ceremony.",
+   "source": "Wikipedia, 'Second Temple', revision of 19 September 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Second_Temple.wiki.txt",
+     "offset": 37365,
+     "quote": "the Temple Mount complex initially measured {{convert|7|ha}} in size, but Herod expanded it to {{convert|14.4|ha}} and so doubled its area."
+    },
+    {
+     "file": "wikipedia_Second_Temple.wiki.txt",
+     "offset": 39544,
+     "quote": "Above the [[Huldah Gates]], on top the Temple walls, was the [[Royal Stoa (Jerusalem)|Royal Stoa]], a large [[basilica]]"
+    },
+    {
+     "file": "wikipedia_Second_Temple.wiki.txt",
+     "offset": 53498,
+     "quote": "The water libation ritual, symbolizing the onset of the rainy season, involved water drawn from the [[Pool of Siloam]] and poured by the priest at the altar each day."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The water-libation detail is stated for the Feast of Tabernacles in the surrounding text, and 'each day' applies to that feast. The last sentence of the text is the writer's, and 'raised' follows Josephus (see above), not Wikipedia."
+  }
+ ]
+}

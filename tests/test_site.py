@@ -122,3 +122,19 @@ def test_place_and_time_items_are_sourced_and_rest_on_the_shelf():
     for phrase in ("Gain merit by me", "specially entitled to charity", "made by King Hezekiah", "golden pitcher"):
         assert phrase in eder, phrase
     assert "2004" in siloam and "Shukron" in siloam
+
+
+def test_every_story_has_a_sourced_place_and_time_section():
+    import json
+    import stories as st
+    cands = json.loads((ROOT / "data" / "reference" / "place_and_time_candidates.json").read_text(encoding="utf-8"))
+    final = json.loads((ROOT / "data" / "reference" / "place_and_time.json").read_text(encoding="utf-8"))
+    for x in st.STORIES:
+        assert x.get("place_and_time"), x["slug"]
+        for item in x["place_and_time"]:
+            assert item["source"].strip() and len(item["text"]) > 60, x["slug"]
+    for slug, items in final.items():
+        for item in items:
+            assert item["from"], slug
+            for key, idx in item["from"]:
+                assert cands[key][idx]["evidence"], (slug, key, idx)
