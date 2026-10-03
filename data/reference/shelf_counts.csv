@@ -39,7 +39,7 @@ work,term,occurrences,paragraphs
 "Josephus (Whiston), Antiquities of the Jews",Bethsaida,1,1
 "Josephus (Whiston), Antiquities of the Jews",Bethesda,0,0
 "Josephus (Whiston), Antiquities of the Jews",Bartimaeus,0,0
-"Josephus (Whiston), Antiquities of the Jews",Jericho,54,46
+"Josephus (Whiston), Antiquities of the Jews",Jericho,54,44
 "Josephus (Whiston), Antiquities of the Jews",beggar,0,0
 "Josephus (Whiston), Antiquities of the Jews",begging,4,4
 "Josephus (Whiston), Antiquities of the Jews",alms,0,0
@@ -50,7 +50,7 @@ work,term,occurrences,paragraphs
 "Josephus (Whiston), Wars of the Jews",blind,3,3
 "Josephus (Whiston), Wars of the Jews",blindness,1,1
 "Josephus (Whiston), Wars of the Jews",born blind,0,0
-"Josephus (Whiston), Wars of the Jews",Siloam,9,8
+"Josephus (Whiston), Wars of the Jews",Siloam,9,9
 "Josephus (Whiston), Wars of the Jews",Shiloah,0,0
 "Josephus (Whiston), Wars of the Jews",Bethsaida,0,0
 "Josephus (Whiston), Wars of the Jews",Bethesda,2,1
@@ -194,8 +194,8 @@ Matthew Henry vol 5 (Matthew-John),eyes+sight,76,76
 Wikipedia: Pool of Siloam,blind,8,3
 Wikipedia: Pool of Siloam,blindness,0,0
 Wikipedia: Pool of Siloam,born blind,0,0
-Wikipedia: Pool of Siloam,Siloam,44,14
-Wikipedia: Pool of Siloam,Shiloah,4,3
+Wikipedia: Pool of Siloam,Siloam,44,16
+Wikipedia: Pool of Siloam,Shiloah,4,2
 Wikipedia: Pool of Siloam,Bethsaida,0,0
 Wikipedia: Pool of Siloam,Bethesda,1,1
 Wikipedia: Pool of Siloam,Bartimaeus,0,0
@@ -221,14 +221,14 @@ Wikipedia: Siloam tunnel,begging,0,0
 Wikipedia: Siloam tunnel,alms,0,0
 Wikipedia: Siloam tunnel,mikveh,0,0
 Wikipedia: Siloam tunnel,Gihon,13,9
-Wikipedia: Siloam tunnel,Hezekiah's tunnel,20,6
+Wikipedia: Siloam tunnel,Hezekiah's tunnel,20,5
 Wikipedia: Siloam tunnel,eyes+sight,0,0
 Wikipedia: Bethsaida,blind,1,1
 Wikipedia: Bethsaida,blindness,0,0
 Wikipedia: Bethsaida,born blind,0,0
 Wikipedia: Bethsaida,Siloam,0,0
 Wikipedia: Bethsaida,Shiloah,0,0
-Wikipedia: Bethsaida,Bethsaida,79,27
+Wikipedia: Bethsaida,Bethsaida,79,34
 Wikipedia: Bethsaida,Bethesda,2,1
 Wikipedia: Bethsaida,Bartimaeus,0,0
 Wikipedia: Bethsaida,Jericho,0,0
@@ -239,7 +239,7 @@ Wikipedia: Bethsaida,mikveh,0,0
 Wikipedia: Bethsaida,Gihon,0,0
 Wikipedia: Bethsaida,Hezekiah's tunnel,0,0
 Wikipedia: Bethsaida,eyes+sight,0,0
-Wikipedia: Jericho,blind,4,2
+Wikipedia: Jericho,blind,4,3
 Wikipedia: Jericho,blindness,0,0
 Wikipedia: Jericho,born blind,0,0
 Wikipedia: Jericho,Siloam,0,0
@@ -247,7 +247,7 @@ Wikipedia: Jericho,Shiloah,0,0
 Wikipedia: Jericho,Bethsaida,0,0
 Wikipedia: Jericho,Bethesda,0,0
 Wikipedia: Jericho,Bartimaeus,0,0
-Wikipedia: Jericho,Jericho,272,72
+Wikipedia: Jericho,Jericho,272,102
 Wikipedia: Jericho,beggar,1,1
 Wikipedia: Jericho,begging,0,0
 Wikipedia: Jericho,alms,0,0
@@ -277,7 +277,7 @@ Wikipedia: Pool of Bethesda,born blind,0,0
 Wikipedia: Pool of Bethesda,Siloam,2,2
 Wikipedia: Pool of Bethesda,Shiloah,0,0
 Wikipedia: Pool of Bethesda,Bethsaida,5,3
-Wikipedia: Pool of Bethesda,Bethesda,30,11
+Wikipedia: Pool of Bethesda,Bethesda,30,15
 Wikipedia: Pool of Bethesda,Bartimaeus,0,0
 Wikipedia: Pool of Bethesda,Jericho,0,0
 Wikipedia: Pool of Bethesda,beggar,0,0
@@ -287,15 +287,15 @@ Wikipedia: Pool of Bethesda,mikveh,1,1
 Wikipedia: Pool of Bethesda,Gihon,0,0
 Wikipedia: Pool of Bethesda,Hezekiah's tunnel,0,0
 Wikipedia: Pool of Bethesda,eyes+sight,0,0
-Wikipedia: Healing the blind near Jericho (Bartimaeus),blind,15,7
+Wikipedia: Healing the blind near Jericho (Bartimaeus),blind,15,8
 Wikipedia: Healing the blind near Jericho (Bartimaeus),blindness,1,1
 Wikipedia: Healing the blind near Jericho (Bartimaeus),born blind,0,0
 Wikipedia: Healing the blind near Jericho (Bartimaeus),Siloam,0,0
 Wikipedia: Healing the blind near Jericho (Bartimaeus),Shiloah,0,0
 Wikipedia: Healing the blind near Jericho (Bartimaeus),Bethsaida,1,1
 Wikipedia: Healing the blind near Jericho (Bartimaeus),Bethesda,0,0
-Wikipedia: Healing the blind near Jericho (Bartimaeus),Bartimaeus,20,6
-Wikipedia: Healing the blind near Jericho (Bartimaeus),Jericho,6,4
+Wikipedia: Healing the blind near Jericho (Bartimaeus),Bartimaeus,20,7
+Wikipedia: Healing the blind near Jericho (Bartimaeus),Jericho,6,6
 Wikipedia: Healing the blind near Jericho (Bartimaeus),beggar,2,2
 Wikipedia: Healing the blind near Jericho (Bartimaeus),begging,0,0
 Wikipedia: Healing the blind near Jericho (Bartimaeus),alms,0,0
@@ -303,9 +303,9 @@ Wikipedia: Healing the blind near Jericho (Bartimaeus),mikveh,0,0
 Wikipedia: Healing the blind near Jericho (Bartimaeus),Gihon,0,0
 Wikipedia: Healing the blind near Jericho (Bartimaeus),Hezekiah's tunnel,0,0
 Wikipedia: Healing the blind near Jericho (Bartimaeus),eyes+sight,0,0
-Wikipedia: Healing the man blind from birth,blind,19,4
+Wikipedia: Healing the man blind from birth,blind,19,10
 Wikipedia: Healing the man blind from birth,blindness,2,1
-Wikipedia: Healing the man blind from birth,born blind,7,3
+Wikipedia: Healing the man blind from birth,born blind,7,4
 Wikipedia: Healing the man blind from birth,Siloam,3,2
 Wikipedia: Healing the man blind from birth,Shiloah,0,0
 Wikipedia: Healing the man blind from birth,Bethsaida,0,0
@@ -319,7 +319,7 @@ Wikipedia: Healing the man blind from birth,mikveh,0,0
 Wikipedia: Healing the man blind from birth,Gihon,0,0
 Wikipedia: Healing the man blind from birth,Hezekiah's tunnel,0,0
 Wikipedia: Healing the man blind from birth,eyes+sight,3,3
-Wikipedia: Cultural depictions of blindness,blind,92,19
+Wikipedia: Cultural depictions of blindness,blind,92,21
 Wikipedia: Cultural depictions of blindness,blindness,32,13
 Wikipedia: Cultural depictions of blindness,born blind,0,0
 Wikipedia: Cultural depictions of blindness,Siloam,1,1
@@ -335,7 +335,7 @@ Wikipedia: Cultural depictions of blindness,mikveh,0,0
 Wikipedia: Cultural depictions of blindness,Gihon,0,0
 Wikipedia: Cultural depictions of blindness,Hezekiah's tunnel,0,0
 Wikipedia: Cultural depictions of blindness,eyes+sight,5,5
-Wikipedia: Begging,blind,4,1
+Wikipedia: Begging,blind,4,2
 Wikipedia: Begging,blindness,0,0
 Wikipedia: Begging,born blind,0,0
 Wikipedia: Begging,Siloam,0,0
@@ -344,9 +344,9 @@ Wikipedia: Begging,Bethsaida,0,0
 Wikipedia: Begging,Bethesda,0,0
 Wikipedia: Begging,Bartimaeus,0,0
 Wikipedia: Begging,Jericho,0,0
-Wikipedia: Begging,beggar,122,36
-Wikipedia: Begging,begging,135,46
-Wikipedia: Begging,alms,12,10
+Wikipedia: Begging,beggar,122,42
+Wikipedia: Begging,begging,135,60
+Wikipedia: Begging,alms,12,11
 Wikipedia: Begging,mikveh,0,0
 Wikipedia: Begging,Gihon,0,0
 Wikipedia: Begging,Hezekiah's tunnel,0,0
@@ -363,7 +363,7 @@ Wikipedia: Mikveh,Jericho,0,0
 Wikipedia: Mikveh,beggar,0,0
 Wikipedia: Mikveh,begging,0,0
 Wikipedia: Mikveh,alms,0,0
-Wikipedia: Mikveh,mikveh,163,37
+Wikipedia: Mikveh,mikveh,163,43
 Wikipedia: Mikveh,Gihon,0,0
 Wikipedia: Mikveh,Hezekiah's tunnel,0,0
 Wikipedia: Mikveh,eyes+sight,0,0
