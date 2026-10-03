@@ -97,7 +97,27 @@ LIFE_PAGES = [
                 "authority of the head of the family: the blessing is theirs to give.",
         "notice": "A camp has no fixed streets to learn, and it moves. Water, fire, animals and tent ropes are "
                   "everywhere. Everything a blind elder needed came through other hands. The text shows the two "
-                  "sides of that: care, and the chance to take advantage.",
+                  "sides of that: care, and the chance to take advantage. And their loss of usable vision did not "
+                  "remove their responsibilities as heads of the family.",
+        "brian": [
+            "It troubles me greatly when things are not where I expect to find them, and it is worse when something "
+            "has been moved, usually by accident. I can't imagine trying to learn where everything was in my "
+            "three-bedroom tent if everything got moved all the time.",
+            "When I walk outside my own home, I use familiar sounds to get my bearings, especially a little distance "
+            "from the house, like taking the trash cans to the curb or checking the back gate. There is usually "
+            "traffic on a four-lane road nearby. My neighbor used to have chickens, which I thought were an annoyance "
+            "until they went away and I lost that auditory landmark. Sometimes there is Bruce, the friendly and loud "
+            "retriever next door. If my sounds outside changed every day, I would not want to venture far from the "
+            "house, especially without a cane to guide each step.",
+            "Until the ground got packed down, it would be hard to use any sort of stick to help with walking. One of "
+            "my least favorite tasks is walking through grass with my cane. I keep a cane by my back door with a large "
+            "round ball on the end so it rolls through grass more easily, but it is heavy and hard to lug around. "
+            "Walking through grass for hours while we moved pastures would be very difficult. You would likely need "
+            "to be led by hand everywhere, and people would get tired of doing that for someone all the time.",
+            "I am guessing it was hot much of the time, and at least for me, when my eyes were at their worst, heat "
+            "was not a good idea. It could have been cataracts, glaucoma, macular degeneration or any of a number of "
+            "eye diseases. They all hurt. They make your eyes water, itch and burn, and there were no artificial tears.",
+        ],
     },
     {
         "slug": "village", "section": "life", "title": "In a hill-country village",

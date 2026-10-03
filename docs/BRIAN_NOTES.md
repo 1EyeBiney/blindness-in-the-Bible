@@ -88,6 +88,27 @@ part of the new content says: a common plea was "Gain merit by me."
 for beggars and the blind. How humbling to call out basically "I have so little to offer you that your act of kindness to me will gain you so much righteousness"
 70% of blind people in Nigeria still have to beg to survive.
 
+## 3 October 2026, Brian's second thoughts file (verbatim)
+
+life in tents
+
+and is served a meal; Jacob is brought his grandsons and embraces them. Neither is described leaving the camp. Both are deceived or doubted by the people closest to them, and both still exercise the authority of the head of the family: the blessing is theirs to give.
+their lack of useable vision did not remove their responsibilities as head of the family.
+
+on life then:
+It troubles me greatly when things are not where I expect to find them, only made worse when it is something that has been moved, usually on accident. I can't imagine trying to learn where everything was in my 3-bedroom tent if everything got moved all the time.
+When I walk outside my own home, I can use familiar sounds to help me get my bearings, especially if I walk a bit of distance from the house, like to put trash cans at the curb, or check the back gate in the fence. Usually there is traffic on a 4-lane road nearby, or the chickens my neighbor used to have, which by the way, I used to think was an annoyance until they went away and I lost that auditory landmark. There are sometimes other sounds, like Bruce, the friendly, and loud, retriever next door.
+But if my sounds outside changed each day, I would really not want to venture very far from the house, especially without a cane to use to guide each step.
+Speaking of which, until the ground got packed down, it would be hard to use any sort of stick to assist with walking. One of my least favorite tasks is to try and walk through grass with my cane. I have a cane I hang by my back door that has a large round ball on the end of it so that it rolls in grass easier, but it is heavy and hard to lug about, so walking through grass for hours while we moved pastures would be very difficult. You would likely need to be led by hand everywhere. People would get real tired of having to do that for someone all the time.
+I am guessing it would be "hot all the time" and at least for me, when my eyes were in their throes, heat was not a good idea.
+seems to me that it could have been cataract's, glaucoma, macular degeneration or any other of a number of eye diseases. Know what? They all hurt, make your eyes water, itch and burn, and Canaan-mart didn't carry artificial tears.
+
+in Shiloh: what would each of their duties have been altered by their loss of vision? we might have to imagine here as we do not know but maybe we can determine what their duties would have been at a younger age and I can think about how I would approachthem without vision having done it with vision (thisis my story of how to figure out how to do things a  new way)
+
+in a walled town: let's describe more what life wasl ike at the city gate, gmaybe giving more details on each particular activity, we may need toexpand the bookshelf for this.
+in first century Jerusalem: we need to figure out if anyone was using canes or walking sticks or anything like that. I need more of a mental picture of the stairs and streets and layout that the blind people would have to traverse.
+We might just need to go looking for more resource on life as a blind person in general and not just from this point of view.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
