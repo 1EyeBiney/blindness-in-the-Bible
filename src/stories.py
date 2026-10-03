@@ -9,9 +9,13 @@ Three kinds of writing sit in each story, and they are kept apart:
   around   what the surrounding chapters say led up to this moment
   happens  a short retelling of the passage itself
   shoes    what the text lets a reader notice from the blind person's side
+  place_and_time  (optional) the place and the time, drawn from the
+           reference shelf (data/raw/shelf, see SOURCE.md there); each item
+           names its source so a reader can go and check it
 
-Everything here is drawn from the passage and its near context. Nothing is
-taken from outside sources. The "shoes" paragraphs are a first draft by
+The first three parts are drawn from the passage and its near context
+alone. The place-and-time part is the only one that uses outside works, and
+every item in it is sourced. The "shoes" paragraphs are a first draft by
 Claude for Brian to rework in his own voice.
 
 `passages` are (book, chapter, first verse, last verse) and are quoted in
@@ -277,6 +281,44 @@ STORIES = [
                  "thing he knows: \"I was blind, but now I see!\" He also walked to the pool with mud on his eyes, "
                  "still blind, on the word of a man he had never seen. And when everyone else has put him out, "
                  "Jesus comes looking for him.",
+        "place_and_time": [
+            {"text": "The Pool of Siloam lies at the south end of Jerusalem, at the lowest point of the ancient city. "
+                     "Josephus, who knew the city before it fell, calls Siloam \"a fountain which hath sweet water in it, "
+                     "and this in great plenty also.\"",
+             "source": "Josephus, The Wars of the Jews, Book V, chapter 4, section 1 (Whiston translation)."},
+            {"text": "The water comes from the Gihon spring in the Kidron Valley through a tunnel cut by King Hezekiah, so "
+                     "that a besieging army could not reach the spring and the city could still drink. Edersheim adds "
+                     "that this explains the name: Siloam, \"sent,\" a conduit.",
+             "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter VII; compare 2 Kings 20:20 "
+                       "and 2 Chronicles 32:30."},
+            {"text": "The pool Jesus sent the man to was lost for nineteen centuries. In 2004, workers repairing a sewer "
+                     "uncovered stone steps, and archaeologists Ronny Reich and Eli Shukron identified the pool of the "
+                     "Second Temple period: a large stone-lined basin with steps on at least three sides, built in sets "
+                     "of five, apparently for changing water levels. It was destroyed when Jerusalem fell in 70 AD and "
+                     "buried under silt. Pilgrims arriving for the feasts likely washed there before climbing to the "
+                     "Temple, so it may have served as a ritual bath.",
+             "source": "Wikipedia, \"Pool of Siloam,\" revision of 20 June 2026 (CC BY-SA 4.0)."},
+            {"text": "Siloam had a place in the feast that frames John 7 to 9. At the Feast of Tabernacles a priest went "
+                     "down in procession to the pool, filled a golden pitcher, and carried the water back up to pour on "
+                     "the altar while the trumpets sounded. Edersheim places this healing on the Sabbath just after that "
+                     "feast ended, with Jesus on His way into the Temple. The man was being sent to wash in water the "
+                     "whole city had just watched carried up to God.",
+             "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapters VII and IX."},
+            {"text": "Blind beggars were a familiar sight. The Temple entrance was the chosen place for those who asked "
+                     "for alms, and a common plea was \"Gain merit by me.\" The blind were held to be specially entitled "
+                     "to charity. Eye disease was common and there was no real treatment; the Bible encyclopedia of 1915 "
+                     "names the lack of any remedy for ophthalmia as one reason begging was so widespread.",
+             "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter IX; International Standard "
+                       "Bible Encyclopedia (1915), entries \"Begging\" and \"Blindness.\""},
+            {"text": "The disciples' question was a common one. Edersheim writes that rabbis meeting such a person "
+                     "would ask by what sin the affliction had come, and that it was a widespread view that the merits "
+                     "or faults of parents showed in their children. Jesus's answer in verse 3 cut across both ideas.",
+             "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter IX."},
+            {"text": "Jesus used saliva and mud. Edersheim notes that saliva was commonly thought to help diseases of the "
+                     "eye, and that making clay and anointing on the Sabbath were among the things the religious teachers "
+                     "counted as work, which is why the day matters so much in the argument that follows.",
+             "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter IX."},
+        ],
     },
     {
         "slug": "the-temple", "title": "The blind and the lame in the temple", "who": "The blind and the lame in the temple",

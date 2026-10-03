@@ -1,0 +1,657 @@
+<!-- title: Jericho; revid: 1376257971; timestamp: 2026-09-23T02:14:39Z -->
+{{Short description|Palestinian city in the West Bank}}
+{{About|the city in Palestine|other uses}}
+{{Protection padlock|small=yes}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox settlement
+| name = Jericho
+| native_name = {{native name|ar|أريحا}}
+| translit_lang1 = Arabic
+| translit_lang1_type = [[ALA-LC romanization|ALA-LC]]
+| translit_lang1_info = Arīḥā
+| translit_lang2_type = [[Society of Biblical Literature|SBL]]
+| translit_lang2_info = Yəriḥo
+| type = [[List of cities in Palestine|Palestinian city]]
+| image = {{multiple image
+  | total_width   = 280
+  | border        = infobox
+  | perrow        = 1/2/2
+  | caption_align = center
+  | image1        = Jericho cityscape from wall ruins.jpg
+  | caption1      = Jericho from Tell es-Sultan
+  | image2        = Tell_es-sultan.jpg
+  | caption2      = [[Tell es-Sultan|Tell es-Sultan (Ancient Jericho)]]
+  | image3        = Jericho-Hishams-Palace-K-153.jpg
+  | caption3      = [[Hisham's Palace]]
+  | image4        = Monastery of the Temptation (Jeriho).jpg
+  | caption4      = [[Monastery of the Temptation]]
+  | image5        = Tree of Zacchaeus, 2019 (02).jpg
+  | caption5      = Sycamore Tree of [[Zacchaeus]]
+}}
+| image_blank_emblem = Jericho Municipality logo.png
+| blank_emblem_type = Municipal logo
+| pushpin_map = Palestine
+| pushpin_caption = Location of Jericho within [[Palestine]]
+| image_map = 
+| map_caption = 
+| mapframe = yes
+| mapframe-zoom = 12
+| coordinates = 
+| grid_name = [[Palestine grid|Palestine&nbsp;grid]]
+| grid_position = 193/140
+| subdivision_type = Country
+| subdivision_name = [[State of Palestine]]
+| subdivision_type1 = [[Governorates of the Palestinian National Authority|Governorate]]
+| subdivision_name1 = [[Jericho Governorate|Jericho]]
+| established_title = Founded
+| established_date = {{circa}} 9000 BCE
+| government_footnotes = <!-- for references: use <ref> tags -->
+| government_type = [[List of cities in Palestinian Authority areas|City]] (from 1994)
+| leader_title = Head of Municipality
+| leader_name = Salem Ghrouf<ref>[https://reliefweb.int/report/occupied-palestinian-territory/unrwa-and-japan-celebrate-completion-phase-ii-sewerage-network Retrieved 31 May 2022.]</ref><ref>{{cite web |url=https://www.undp.org/papp/news/foreign-minister-japan-palestinian-minister-national-economy-and-undp-open-palpro-centre-jericho-agro-industrial-park |title= Foreign Minister of Japan, Palestinian Minister of National Economy and UNDP Open PalPro Centre at the Jericho Agro-industrial Park {{pipe}} United Nations Development Programme|website=www.undp.org |access-date=31 May 2022}}{{title missing|date=July 2022}}</ref>
+| unit_pref = dunam
+| area_footnotes = 
+| area_total_km2 = 
+| area_total_dunam = 58701
+| elevation_footnotes = 
+| elevation_m = −258
+| elevation_min_m = 
+| elevation_max_m = 
+| population_footnotes = <ref name="PrelimCensus2017">{{cite report |date=February 2018 |title=Preliminary Results of the Population, Housing and Establishments Census, 2017 |url=https://www.pcbs.gov.ps/Downloads/book2364-1.pdf |department=[[Palestinian Central Bureau of Statistics]] (PCBS) |publisher=[[State of Palestine]] |pages=64–82 |access-date=2023-10-24}}</ref>
+| population_total = 20,907
+| population_as_of = 2017
+| population_note = 
+| population_density_km2 = auto
+| custom_label_sec1 = 
+| custom_data_sec1 = 
+| website = 
+| footnotes =
+}}
+{{History of Palestine}}
+
+'''Jericho''' ({{IPAc-en|ˈ|dʒ|ɛr|ɪ|k|oʊ}} {{respell|JERR|ik|oh}}; {{langx|ar|أريحا|Arīḥā}}, {{IPA|ar|ʔaˈriːħaː|IPA|ArJericho.ogg}}; {{Langx|he|יְרֵחוֹ|Yərīḥō}}) is a city in the [[West Bank]], [[Palestine]], and the capital of the [[Jericho Governorate]].<ref>{{cite news |last=Kershner |first=Isabel |date=6 August 2007 |title=Abbas hosts meeting with Olmert in West Bank city of Jericho |newspaper=The New York Times |location=United States |url=https://www.nytimes.com/2007/08/06/world/africa/06iht-06cndisrael.7000900.html |access-date=16 November 2016}}</ref> The city is located in the [[Jordan Valley]], with the [[Jordan River]] to the east and [[Jerusalem]] to the west.
+
+Jericho is among the [[List of oldest continuously inhabited cities|oldest cities in the world]].<ref name="gates2003">{{cite book |last=Gates |first=Charles |year=2003 |title="Near Eastern, Egyptian, and Aegean Cities", Ancient Cities: The Archaeology of Urban Life in the Ancient Near East and Egypt, Greece and Rome |publisher=Routledge |page=18 |isbn=0-415-01895-1 |quote=Jericho, in the Jordan River Valley in the West Bank, inhabited from ca. 9000 BC to the present day, offers important evidence for the earliest permanent settlements in the Near East.}}</ref><ref name="Murphyp288">Murphy-O'Connor, 1998, p. 288.</ref>{{sfn|Jacobs|2000|p=690}} [[Archaeologists]] have unearthed the remains of more than 20 successive settlements in Jericho, the first of which dates back 11,000 years (to 9000&nbsp;[[BCE]]),<ref>{{cite web |first=Akhilesh |last=Pillalamarri |date=18 April 2015 |title=Exploring the Indus Valley's Secrets |url=https://thediplomat.com/2015/04/exploring-the-indus-valleys-secrets/|access-date=18 April 2015 |work=The diplomat}}</ref><ref name="EB1">{{cite encyclopedia |title=Jericho, Town, West Bank |encyclopedia=Encyclopedia Britannica |url=https://www.britannica.com/place/Jericho-West-Bank |first=Kathleen Mary |last=Kenyon |access-date=1 February 2022 }}</ref> almost to the very beginning of the [[Holocene]] epoch of the Earth's history.<ref>{{cite news |title=What is the oldest city in the world? |work=[[The Guardian]] |date=16 February 2015 |url=https://www.theguardian.com/cities/2015/feb/16/whats-the-oldest-city-in-the-world|archive-url=https://web.archive.org/web/20250318133353/https://www.theguardian.com/cities/2015/feb/16/whats-the-oldest-city-in-the-world|archive-date=18 March 2025}}</ref><ref>{{cite news |title=The world's 20 oldest cities |newspaper=The Telegraph |date=4 February 2016 |url=https://www.telegraph.co.uk/travel/destinations/middleeast/11105676/The-worlds-20-oldest-cities.html |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/travel/destinations/middleeast/11105676/The-worlds-20-oldest-cities.html |archive-date=11 January 2022 |url-access=subscription |url-status=live}}{{cbignore}}</ref> Copious springs in and around the city have attracted human habitation for thousands of years.<ref name="Bromileyp715">Bromiley, 1995, p. 715</ref> Jericho is described in the [[Bible]] as the "city of palm trees".<ref>{{bibleverse|Deuteronomy|34:3}}</ref>
+
+Following the era of [[Mandatory Palestine]], the West Bank was [[Jordanian annexation of the West Bank|annexed and ruled by Jordan]] starting in 1950, then was [[Israeli occupation of the West Bank|occupied by Israel]] in 1967. Administrative control of Jericho was handed over to the [[Palestinian Authority]] in 1994.
+
+The city had a population of 20,907 in 2017. In 2023, the archaeological site in the center of the city, known as [[Tell es-Sultan|Tell es-Sultan / Old Jericho]], was inscribed in [[UNESCO]]'s list as a [[World Heritage Site]] in the State of Palestine, and described as the "oldest fortified city in the world".<ref>{{Cite web |title= Jericho's Tell es-Sultan added to UNESCO World Heritage list |url=https://www.aljazeera.com/gallery/2023/9/18/jerichos-tell-es-sultan-added-to-unesco-world-heritage-list |access-date=2023-09-20 |website=Al Jazeera |first1=Ayman |last1=Nobani |date=18 Sep 2023 |language=en |url-status=live |archive-url=https://web.archive.org/web/20230920140855/https://www.aljazeera.com/gallery/2023/9/18/jerichos-tell-es-sultan-added-to-unesco-world-heritage-list |archive-date= Sep 20, 2023 }}</ref><ref>{{Cite web |title=Ancient Jericho/Tell es-Sultan |url=https://whc.unesco.org/en/list/1687/ |access-date=2023-09-20 |website=UNESCO World Heritage Centre |language=en}}</ref>
+
+==Etymology==
+Jericho's name in [[Biblical Hebrew]], ''Yəriḥo'' ({{lang|hbo|יְרִיחוֹ}}) is generally thought to derive from the [[Canaanite languages|Canaanite]] word ''rēḥ'' {{gloss|fragrant}}, but other theories hold that it originates in the Canaanite word ''Yaraḥ'' {{gloss|[[moon]]}} or the name of the lunar deity [[Yarikh]], for whom the city was an early centre of worship.<ref name=Schreiberp141>Schreiber, 2003, p. 141.</ref>
+
+Jericho's Arabic name, {{transliteration|ar|DIN|Arīḥā}}, means {{gloss|fragrant}} and also has its roots in Canaanite ''rēḥ''.<ref name=Ringp367/><ref name=Bromileyp1136>Bromiley, 1995, p. 1136.</ref><ref>{{cite journal|url=http://faculty.gordon.edu/hu/bi/Ted_Hildebrandt/OTeSources/01-Genesis/Text/Articles-Books/Waltke_CreationIV_BSac.pdf|title=The Creation Account in Genesis 1:1–3|journal=Bibliotheca Sacra|volume=132|year=1975|pages=327–42|access-date=16 November 2008|archive-date=18 November 2018|archive-url=https://web.archive.org/web/20181118231611/http://faculty.gordon.edu/hu/bi/ted_hildebrandt/OTeSources/01-Genesis/Text/Articles-Books/Waltke_CreationIV_BSac.pdf|url-status=dead}}</ref>
+
+==History and archaeology==
+{{See also|Levantine archaeology}}
+The first excavations of the site were carried out by [[Charles Warren]] in 1868. [[Ernst Sellin]] and [[Carl Watzinger]] excavated Tell es-Sultan and Tulul Abu el-'Alayiq between 1907 and 1909, and in 1911, and [[John Garstang]] excavated between 1930 and 1936. [[Kathleen Kenyon]] worked there between 1952 and 1958.{{Citation needed|date=September 2025}}
+
+Subsequently, [[Lorenzo Nigro]] and [[Nicolò Marchetti]] excavated in 1997–2000. Since 2009, the Italian-Palestinian archaeological project of excavation and restoration was resumed by Rome ("[[La Sapienza]]" University and Palestinian MOTA-DACH) under the direction of Nigro, [[Hamdan Taha]], and Jehad Yasine since 2015.<ref name="sapienza">{{cite web |title= Tell es-Sultan/Jericho |website= lasapienzatojericho.it |url= http://www.lasapienzatojericho.it |access-date=6 November 2018}}</ref> The Italian-Palestinian Expedition carried out 13 seasons in 20 years (1997–2017), with some major discoveries, like Tower&nbsp;A1 in the Middle Bronze Age southern Lower Town and Palace&nbsp;G on the eastern flanks of the Spring Hill overlooking the Spring of 'Ain es-Sultan dating from Early Bronze III.{{Citation needed|date=September 2025}}
+
+===Stone Age: Tell es-Sultan and spring===
+The earliest excavated settlement was located at the present-day [[Tell es-Sultan]] (or Sultan's Hill), a couple of kilometers from the current city. In both [[Arabic language|Arabic]] and Hebrew, ''[[Tell (archaeology)|tell]]'' means "mound"; consecutive layers of habitation built up a mound over time, as is common for ancient settlements in the Middle East and [[Anatolia]]. Jericho is the [[type site]] for the [[Pre-Pottery Neolithic A]] (PPNA) and [[Pre-Pottery Neolithic B]] (PPNB) periods.<ref name=":0">{{Cite book |last=de la Haba |first=Louis |url=https://archive.org/details/mysteriesofancie00nati/page/33/mode/2up |title=Mysteries of the Ancient World |date=1979 |publisher=[[National Geographic Society]] |isbn=978-0-87044-254-4 |location=Washington, D.C. |pages=33–35}}</ref>
+
+====Natufian hunter-gatherers, {{circa|10,000 BCE}}====
+[[File:Calibrated Carbon 14 dates for Jericho as of 2013.jpg|thumb|Calibrated carbon 14 dates for Jericho as of 2013<ref>{{cite journal |last1=Shukurov |first1=Anvar |last2=Sarson |first2=Graeme R. |last3=Gangal |first3=Kavita |title=The Near-Eastern Roots of the Neolithic in South Asia |journal=PLOS ONE |date=7 May 2014 |volume=9 |issue=5 |pages=Appendix S1 |doi=10.1371/journal.pone.0095714 |language=en |issn=1932-6203|pmc=4012948 |pmid=24806472 |bibcode=2014PLoSO...995714G |doi-access=free }}</ref>]]
+[[File:Reconstruction of the Natufian-Jericho skull.jpg|thumb|Reconstruction of the Natufian-Jericho skull<ref>{{Cite journal |last1=Moraes |first1=Cicero |last2=Beaini |first2=Thiago Leite |last3=Santos |first3=Moacir Elias | title=A Aproximação Facial Forense do Crânio de Jericó (BM 127414), ≈9000 AP |journal=OrtogOnLineMag |issn=2764-9466 |volume=3 |issue=2 |year=2022 | url=https://figshare.com/articles/journal_contribution/A_Aproxima_o_Facial_Forense_do_Cr_nio_de_Jeric_BM_127414_9000_AP/21772343/2 |language=en |doi=10.6084/m9.figshare.21772343.v2}}</ref>]]
+[[Epipaleolithic]] construction at the site appears to predate the invention of [[agriculture]], with the construction of [[Natufian culture]] structures beginning earlier than 9000&nbsp;[[BCE]], the beginning of the [[Holocene]] epoch in geologic history.{{sfn|Jacobs|2000|p=690}}
+
+Jericho has evidence of settlement dating back to {{circa|10,000 BCE}}. During the [[Younger Dryas]] period of cold and drought, permanent habitation of any one location was impossible. However, the [[Ein es-Sultan]] spring at what would become Jericho was a popular camping ground for [[Natufian]] hunter-gatherer groups, who left a scattering of crescent-shaped microlith tools behind them.<ref>{{cite book |last=Mithen |first=Steven |title=After the ice: a global human history, 20,000–5000 BCE |year=2006 |publisher=Harvard University Press |location=Cambridge, Massachusetts |isbn=0-674-01999-7 |page=57 |edition=1st Harvard University Press pbk. }}</ref> Around 9600&nbsp;BCE, the droughts and cold of the Younger Dryas [[stadial]] had come to an end, making it possible for Natufian groups to extend the duration of their stay, eventually leading to year-round habitation and permanent settlement.{{citation needed|date= March 2022}}
+
+====Pre-Pottery Neolithic, {{circa}} 9500–6500 BCE====
+{{Further|Tell es-Sultan|Tower of Jericho}}
+[[File:Jerycho8.jpg|right|thumb|Dwelling foundations unearthed at [[Tell es-Sultan]] in Jericho]]{{more citations needed section|date=March 2022}}
+The Pre-Pottery Neolithic eras at Jericho are divided into PPNA and PPNB.<ref name=":0" />
+
+=====Pre-Pottery Neolithic A (PPNA)=====
+{{Main|Pre-Pottery Neolithic A}}
+
+The first permanent settlement on the site of Jericho developed near the Ein es-Sultan spring between 9,500 and 9000&nbsp;BCE.<ref>{{cite web |url=http://www.mama.org/exhibits/ancient/prehistoric/ |title=Prehistoric Cultures |publisher=Museum of Ancient and Modern Art |year=2010 |access-date=5 September 2013 |archive-date=3 August 2018 |archive-url=https://web.archive.org/web/20180803074340/https://www.mama.org/exhibits/ancient/prehistoric/ |url-status=dead }}</ref><ref>{{cite web |url=https://whc.unesco.org/en/tentativelists/5704/ |title=Ancient Jericho: Tell es-Sultan |year=2012 |access-date=5 September 2013 |publisher=UNESCO World Heritage Centre}}</ref> As the world warmed up, a new culture based on agriculture and sedentary dwelling emerged, which archaeologists have termed PPNA. Its cultures lacked pottery,<ref name=":0" /> but featured the following:{{citation needed|date= March 2022}}
+* small circular dwellings
+* burial of the dead under the floor of buildings
+* reliance on hunting of wild game
+* cultivation of wild or domestic cereals
+[[File:Jericho Statue.png|thumb|Head of an ancestor statue, Jericho, from c. 9000 years ago, among the oldest representations of a human face ever found. [[Rockefeller Archeological Museum]], [[Jerusalem]].<ref>{{cite book |last1=Rice |first1=Patricia C. |last2=Moloney |first2=Norah |title=Biological Anthropology and Prehistory: Exploring Our Human Ancestry |date=2016 |publisher=Routledge |isbn=9781317349815 |page=636 |url=https://books.google.com/books?id=DcWlDQAAQBAJ&pg=PT636 |language=en}}</ref>]]
+
+At Jericho, circular dwellings were built of [[Adobe|clay and straw]] bricks left to dry in the sun, which were plastered together with a mud mortar. Each house measured about {{convert|5|m}} across and was roofed with mud-smeared brush. Hearths were located within and outside the homes.<ref>{{cite book |last=Mithen|first=Steven|title=After the Ice: A Global Human History, 20,000–5000 BCE|year=2006|publisher=Harvard University Press|location=Cambridge, Massachusetts|isbn=0-674-01999-7|page=54|edition=1st Harvard University Press pbk.}}</ref>
+[[File:Ziko.jpg|thumb|upright|The 8000 BCE [[Tower of Jericho]] at Tell es-Sultan]]
+
+The Pre-Sultan ({{Circa|8350}} – 7370&nbsp;BCE){{dubious|Contradicts dates given in this paragraph: "between 9,400 and 9000", "about 9400 BCE", but fits somewhat with time when the tower was used according to Barkai & Liran: "The tower was constructed and used between ≈8300 BCE and ≈7800 BCE (Burleigh 1981, 1983)." It also fits with starting date of PPNB indicated in the next paragraph.|date=February 2016}} is sometimes called [[Neolithic#Fertile Crescent|Sultanian]]. The site is a {{convert|40000|m2|abbr=on}} settlement surrounded by a massive stone wall over {{convert|3.6|m|abbr=on}} high and {{convert|1.8|m|abbr=on}} wide at the base, inside of which stood a stone tower, over {{convert|8.5|m}} high, containing an internal staircase with 22 stone steps<ref name=Ringp367 /><ref>{{cite book |last=Mithen |first=Steven |title=After the Ice: A Global Human History, 20,000–5000 BCE |year=2006 |publisher=Harvard University Press |location=Cambridge, Massachusetts |isbn=0-674-01999-7 |page=59 |edition=1st Harvard University Press pbk.}}</ref> and placed in the centre of the west side of the tell.<ref name=BarkaiLiran>{{cite journal |last1=Barkai |first1=Ran |last2=Liran |first2=Roy |year=2008 |title=Midsummer Sunset at Neolithic Jericho |journal=Time and Mind: The Journal of Archaeology, Consciousness and Culture |volume=1 |issue=3 |page=279 |doi=10.2752/175169708X329345 |s2cid = 161987206 |issn = 1751-696X }}</ref> This tower and the even older ones excavated at [[Tell Qaramel]] in Syria<ref name=PaP2007>{{cite web |first=Anna |last=Ślązak |date=21 June 2007|title=Yet another sensational discovery by Polish archaeologists in Syria|url=http://www.eduskrypt.pl/yet_another_sensational_discovery_by_polish_archaeologists_in_syria-info-6775.html |url-status=dead |archive-url=https://web.archive.org/web/20111001171824/http://www.eduskrypt.pl/yet_another_sensational_discovery_by_polish_archaeologists_in_syria-info-6775.html|archive-date=1 October 2011|access-date=23 February 2016 |work=Science in Poland service, [[Polish Press Agency]]}}</ref><ref name=PCMA>{{cite web |first=R.F. |last=Mazurowski |year=2007|title=Pre- and Protohistory in the Near East: Tell Qaramel (Syria)|url=http://www.pcma.uw.edu.pl/index.php?id=154&L=2 |access-date=23 February 2016 |work=Newsletter 2006 |publisher=Polish Centre of Mediterranean Archaeology, [[Warsaw University]]}}</ref> are the oldest towers ever to be discovered.{{Citation needed|date=September 2025}}
+
+The wall and tower were built during the PPNA period around 8000&nbsp;BCE.<ref name="BarkaiJP">{{cite web |last=O'Sullivan |first=Arieh |date=14 February 2011 |title=World's first skyscraper sought to intimidate masses |url=https://www.jpost.com/VideoArticles/Video/Article.aspx?id=208206 |access-date=6 November 2018 |work=The Jerusalem Post}}</ref><ref name="Kenyon1981">{{cite book |last1=Kenyon |first1=Kathleen M. |url=https://books.google.com/books?id=rbptAAAAMAAJ |title=Excavations at Jericho: The architecture and stratigraphy of the Tell: plates |page=6 |editor-last=Holland |editor-first=Thomas A. |publisher=British School of Archaeology |year=1981 |isbn=978-0-9500542-3-0}}</ref> Carbon dates published in 1981 and 1983 indicate that the tower was built around 8300&nbsp;BCE and stayed in use until {{Circa|7800&nbsp;BCE|lk=off}}.<ref name="BarkaiLiran" /> The wall may have served as a defence against [[flood]] water (possibly to prevent the [[erosion]] of agricultural soil),<ref name=":0" /> with the tower used for ceremonial purposes.<ref name="PMMA57">{{cite book |last1=Akkermans |first1=Peter M. M. |last2=Schwartz |first2=Glenn M. |title=The Archaeology of Syria: From Complex Hunter-Gatherers to Early Urban Societies (c. 16,000–300 BCE) |year=2004 |publisher=Cambridge University Press |isbn=978-0521796668 |page=57}}</ref> The wall and tower would have taken a hundred men more than a hundred days to construct, suggesting some kind of social organization.{{citation needed|date= March 2022}} The town contained round mud-brick houses, but no street planning.<ref>{{cite web |url=http://www.ourfatherlutheran.net/biblehomelands/palestine/jericho/jericho.htm |archive-url=https://web.archive.org/web/20080220035014/http://www.ourfatherlutheran.net/biblehomelands/palestine/jericho/jericho.htm |archive-date=20 February 2008 |title=Old Testament Jericho |date=20 February 2008 |access-date=31 March 2011}}</ref> The identity and number of Jericho's inhabitants during the PPNA period is still under debate, with estimates as high as 2,000–3,000 and as low as 200–300.<ref name="EB1" /><ref name="PMMA57" /> It is known that this population had domesticated [[emmer wheat]], [[barley]] and [[Pulse (legume)|pulses]], and hunted wild animals.{{citation needed|date= March 2022}}
+
+=====Pre-Pottery Neolithic B (PPNB)=====
+{{Main|Pre-Pottery Neolithic B}}
+
+The PPNB was a period of about 1.4 millennia, from 7220 to 5850&nbsp;BCE{{clarify|reason=Leaves two substantial gaps, one -, one +: if PPNB covers 9,500-9000, and PPN altogether ends around 6500, that leaves 1780 years belonging nowhere (9000-7220), and extends PPN from the stated 6500 by 650 years to 5850 BC. Must be addressed.|date=October 2021}} (though [[carbon-14]]-dates are few and early). The following are PPNB cultural features:{{citation needed|date= March 2022}}
+* Expanded range of domesticated plants
+* Possible [[Domestic sheep|domestication of sheep]]
+* Apparent [[cult (religion)|cult]] involving the preservation of human skulls, with facial features reconstructed using [[plaster]], and eyes set with shells in some cases
+[[File:Fertile crescent Neolithic B circa 7500 BC.svg|thumb|upright=1.35|Area of the [[Fertile Crescent]], {{Circa|7500 BC}}, with main sites. Jericho was a foremost site of the [[Pre-Pottery Neolithic]] period. The area of [[Mesopotamia]] proper was not yet settled by humans.]]
+
+After a few centuries, the first settlement was abandoned. After the PPNA settlement phase, there was a settlement hiatus of around five centuries,<ref name=":0" /> then the PPNB settlement was founded on the eroded surface of the [[Tell (archaeology)|tell]]. This second settlement, established in 6800&nbsp;BCE, perhaps represents the work of an invading people who absorbed the original inhabitants into their dominant culture. Artifacts dating from this period include ten [[plastered human skulls]], painted so as to reconstitute the individuals' features.<ref name=Ringp367/> These represent either [[teraphim]] or the first example of [[portrait]]ure in [[art history]],{{dubious|reason=see [[Tell Awad]] and discussion on Jericho's talk page|date=August 2013}} and it is thought that they were kept in people's homes while the bodies were buried.{{sfn|Jacobs|2000|p=690}}<ref name=Janson>Janson and Janson, 2003.</ref>
+
+The architecture consisted of rectilinear buildings made of mudbricks on stone foundations. The mudbricks were loaf-shaped with deep thumb prints to facilitate bonding. No building has been excavated in its entirety. Normally, several rooms cluster around a central courtyard. There is one big room ({{convert|6.5|x|4|m|1|abbr=on|lk=out}}{{dubious|reason=conversion via template displays unwarranted (false) precision|date=February 2018}} and {{convert|7|x|3|m|1|abbr=on}}){{dubious|reason=conversion via template displays unwarranted (false) precision|date=February 2018}} with internal divisions; the rest are small, presumably used for storage. The rooms have red or pinkish [[terrazzo]]-floors made of lime. Some impressions of mats made of reeds or rushes have been preserved. The courtyards have clay floors.{{citation needed|date= March 2022}}
+
+Kathleen Kenyon interpreted one building as a [[shrine]]. It contained a niche in the wall. A chipped pillar of volcanic stone that was found nearby might have fitted into this niche.{{citation needed|date= March 2022}}
+
+The dead were buried under the floors or in the rubble fill of abandoned buildings. There are several collective burials. Not all the skeletons are completely articulated, which may point to a time of exposure before burial. A [[human skull|skull]] cache contained seven skulls. The jaws were removed and the faces covered with plaster; [[cowry|cowries]] were used as eyes. A total of ten skulls were found. Modelled skulls were found in [[Tell Ramad]] and [[Beisamoun]] as well.{{citation needed|date= March 2022}}
+
+Other finds included flints, such as arrowheads (tanged or side-notched), finely denticulated sickle-blades, [[Burin (lithic flake)|burin]]s, scrapers, a few [[tranchet axe]]s, [[obsidian]], and green obsidian from an unknown source. There were also [[Quern-stone|querns]], hammerstones, and a few ground-stone axes made of greenstone. Other items discovered included dishes and bowls carved from soft limestone, spindle whorls made of stone and possible loom weights, spatulae and drills, stylised anthropomorphic plaster figures, almost life-size, [[anthropomorphism|anthropomorphic]] and [[Theriomorphism|theriomorphic]] clay figurines, as well as shell and malachite beads.{{sfn|Kuijt|2012|p=166}}
+
+In the late 4th millennium BCE, Jericho was occupied during Neolithic 2{{dubious|Neol. 2 seems to be equivalent with PPNB, which ends long before M4 BCE. Unless pottery appeared at Jericho later than M4, this is a mistake AND THIS BELONGS EITHER UNDER CHALCOLITHIC OR BRONZE AGE.|date=February 2016}} and the general character of the remains on the site link it culturally with Neolithic 2 (or PPNB) sites in the West Syrian and Middle Euphrates groups. This link is established by the presence of rectilinear mud-brick buildings and plaster floors that are characteristic of the age.{{citation needed|date= March 2022}}
+
+===Chalcolithic===
+A succession of settlements followed from 4500&nbsp;BCE onward.{{citation needed|date= March 2022}}
+
+===Early Bronze Age===
+[[File:Red terracotta Ancient Bronze period 3500-2000 BC Tell es-Sultan, ancient Jericho, Tomb A IV, Louvre Museum AO 15611.jpg|thumb|upright|Red terracotta jar, Ancient Bronze period 3500–2000 BCE, Tell es-Sultan, ancient Jericho, Tomb A IV. [[Louvre Museum]] AO 15611.]]
+
+In Early Bronze I, the stratigraphic layers are Sultan IIIA1 village (EB IA, c. 3500 – 3200&nbsp;BCE) and Sultan IIIA2 rural town (proto-urban, EB IB, c. 3200 – 3000&nbsp;BCE).<ref name="Nigro et al 2019">Nigro et al 2019</ref>
+
+In Early Bronze II, the strategraphic layers are Sultan IIIB1 foritifed town (EB IIA, c. 3000-2850 BCE) and Sultan IIIB2 with added towers and bastions to the fortification (EB IIB, c.2850 – 2700&nbsp;BCE).<ref name="Nigro et al 2019"/>
+
+In the Early Bronze IIIA ({{Circa|2700|lk=off}} – 2500/2450&nbsp;BCE; Sultan IIIC1), the settlement reached its largest extent around 2600&nbsp;BCE.<ref name=Ringp367/>
+
+During Early Bronze IIIB ({{Circa|2500}}/2450–2350&nbsp;BCE; Sultan IIIC2) there was a Palace G on Spring Hill and city walls.<ref>{{Cite journal |last=Nigro |first=Lorenzo |date=2016 |title=Tell es-Sultan 2015: A Pilot Project for Archaeology in Palestine |url=https://doi.org/10.5615/neareastarch.79.1.0004 |journal=Near Eastern Archaeology |volume=79 |issue=1 |pages=4–17 |doi=10.5615/neareastarch.79.1.0004 |hdl=11573/896220 |issn=1094-2076}}</ref>
+
+In Early Bronze IV, the strategraphic layers are Sultan IIID1 (EB IVA; 2300 – 2200&nbsp;BCE) and Sultan IIID2 (EB IVB; 2200 – 2000&nbsp;BCE).<ref name="Nigro et al 2019"/>
+
+===Middle Bronze Age===
+{{For|the Biblical battle|Battle of Jericho}}
+
+Jericho was continually occupied into the Middle [[Bronze Age#Near East|Bronze Age]]; it was destroyed in the Late Bronze Age, after which it no longer served as an urban centre. The city was surrounded by extensive defensive walls strengthened with rectangular towers, and possessed an extensive cemetery with vertical shaft-tombs and underground burial chambers; the elaborate funeral offerings in some of these may reflect the emergence of local kings.{{sfn|Kuijt|2012|p=167}}
+
+During the Middle Bronze Age, Jericho was a small prominent city of the [[Canaan]] region, reaching its greatest Bronze Age extent in the period from 1700 to 1550&nbsp;BCE. It seems to have reflected the greater urbanization in the area at that time, and has been linked to the rise of the [[Maryannu]], a class of chariot-using aristocrats linked to the rise of the [[Mitanni]]te state to the north. Kathleen Kenyon reported "the Middle Bronze Age is perhaps the most prosperous in the whole history of Kna'an. ... The defenses ... belong to a fairly advanced date in that period" and there was "a massive stone [[revetment]] ... part of a complex system" of defenses.<ref>{{cite book|last1=Kenyon|first1=Kathleen Mary|author-link1=Kathleen Kenyon|title=Digging Up Jericho|url=https://books.google.com/books?id=_z33N1QsSHEC|publisher=[[Ernest Benn Limited]]|date=1957|location=[[London, England]]|isbn=978-0510033118|pages=213–218|access-date=26 February 2018|language=en}}</ref> Bronze Age Jericho fell in the 16th century at the end of the Middle Bronze Age, the calibrated carbon remains from its City-IV [[destruction layer]] dating to 1617–1530&nbsp;BCE. Carbon dating {{circa}} 1573&nbsp;BCE confirmed the accuracy of the stratigraphical dating {{circa}} 1550.{{citation needed|date= March 2022}}
+
+Chronology (Nigro 2016)
+* Middle Bronze IA, Tell es-Sultan IVa1 (c. 2000/1950-1900 BC)
+* Middle Bronze IB, Tell es-Sultan IVa2 (c. 1900-1800 BC)
+* Middle Bronze IIA, Tell es-Sultan IVb1 (c. 1800-1700 BC)
+* Middle Bronze IIB, Tell es-Sultan IVb2 (c. 1700-1650 BC)
+* Middle Bronze IIC/III, Tell es-Sultan IVc (c. 1650-1550 BC)
+
+===Late Bronze Age===
+Decades after the destruction of the Middle Bronze Age city, it recovered again on a smaller scale during the Late Bronze Age (1450–1200 BC), with the previous Middle Bronze city wall being refurbished by adding a [[mudbrick]] [[wall]] on top of its emerging crest.{{sfn|Nigro|2020|p=202}}<ref name=Nigro23>{{cite book |title=Durch die Zeiten - Through the Ages: Festschrift für Dieter Vieweger / Essays in Honour of Dieter Vieweger |last=Nigro |first=Lorenzo |publisher=Gütersloher Verlagshaus |year=2023 |isbn=978-3-579-06236-5 |pages=599–614 |editor-last=Soennecken |editor-first=Katja |chapter=Tell es-Sultan/Jericho in the Late Bronze Age: An Overall Reconstruction in the Light of most Recent Research |editor-last2=Leiverkus |editor-first2=Patrick |editor-last3=Zimni |editor-first3=Jennifer |editor-last4=Schmidt |editor-first4=Katharina}}</ref> Excavations have found a structure known as the "Middle Building" which apparently served as the residence of the city's local rulers, then vassals of the [[Egyptian empire]].<ref name=Nigro23/>{{rp|605}} Ultimately, the Middle Building was destroyed, although it was later reused in the early [[Iron Age]].<ref>{{cite web |title=Scientific Report of the Italian-Palestinian Expedition to Tell es-Sultan (2020), Palestine: XVI Campaign |url=https://sites.google.com/uniroma1.it/sapienzatojericho/results/season-2020 |last=Nigro |first=Lorenzo |access-date=2025-02-23 |website=Sapienza Expedition to Tell es-Sultan/Jericho |year=2020 |quote=The Late Bronze Age building, to be identified with John Garstang's 'Middle Building' was also destroyed and was in turn reused in the Early Iron Age |ref=none}}</ref> According to Nigro (2023), the Late Bronze IIB layers of the tell were heavily cut by levelling operations during the Iron Age, which explains the scarcity of 13th century BCE materials.<ref name=Nigro23/>{{rp|602}}
+;Hebrew Bible narrative
+The Hebrew Bible tells the story of the [[Battle of Jericho]] led by [[Joshua]], leading to the fall of the [[Canaan]]ite city, the first one captured by the [[Israelites]] in the [[Promised Land]]. The historicity of biblical account is not generally accepted by scholars.<ref name=Miller1986>{{Cite book|last1=Miller|first1=James Maxwell|author-link1=J. Maxwell Miller (biblical scholar)|last2=Hayes|first2=John Haralson|title=A History of Ancient Israel and Judah|pages=71–72|publisher=The Westminster Press|location=Philadelphia|year=1986|isbn=978-0-664-21262-9|url=https://archive.org/details/historyofancient00mill/page/71/mode/1up}}</ref><ref>{{cite book|last1=Dever|first1=William G.|title=Recent Archeological Discoveries and Biblical Research|chapter-url=https://books.google.com/books?id=Ab7_GFJ-dKQC&q=Dever+Joshua+destroyed+even+there&pg=PA47 |access-date=7 January 2013|year=1990|orig-year=1989|publisher=University of Washington Press|location=US|isbn=0-295-97261-0|page=47 |chapter=2. The Israelite Settlement in Canaan. New Archeological Models|quote=(Of course, for some, that only made the Biblical story more miraculous than ever—Joshua destroyed a city that wasn't even there!)}}</ref> Lorenzo Nigro suggests that the story might have developed from local memories of the destructions suffered by the Canaanite city in the 3rd and 2nd millennia BCE, which were later used by the biblical writers to create their narrative.{{sfn|Nigro|2020|p=204}}
+
+===Iron Age===
+Occupation in Tell es-Sultan appears to have resumed in the 11th century&nbsp;BCE, with the town becoming fortified again in the 10th century.{{sfn|Nigro|2020|p=206}} Of this new city not much more remains than a [[four-room house]] on the eastern slope.<ref name=Negev>{{cite book |editor-last= Negev |editor-first= Avraham |editor-link= Avraham Negev |editor-last2= Gibson |editor-first2= Shimon |editor-link2= Shimon Gibson |chapter= Jericho |title= Archaeological Encyclopedia of the Holy Land |year= 2001 |location= New York and London |publisher= Continuum |page= 259 |isbn=0-8264-1316-1 |url= https://books.google.com/books?id=l3JtAAAAMAAJ |access-date=26 July 2021}} (Snippet view).</ref> By the 7th century, Jericho had become an extensive town, but this settlement was destroyed in the [[Siege of Jerusalem (587 BC)#Surrounding areas|Babylonian conquest]] of [[kingdom of Judah|Judah]] in the [[Judah's revolts against Babylon|late 6th century]].{{sfn|Jacobs|2000|p=691}}
+
+===Persian and Early Hellenistic periods===
+After the destruction of the Judahite city by the Babylonians in the late 6th century,{{sfn|Jacobs|2000|p=691}} whatever was rebuilt in the Persian period as part of the [[Return to Zion#Return to Zion|Restoration]] after the [[Babylonian captivity]], left only very few remains.<ref name=Negev/> The tell was abandoned as a place of settlement not long after this period.<ref name=Negev/> During the Persian through Hellenistic periods, there is little in terms of occupation attested throughout the region.{{sfn|Jacobs|2000|p=691}}
+
+Jericho went from being an administrative centre of [[Yehud Medinata]] ("the Province of Judah") under [[Achaemenid Phoenicia|Persian rule]] to serving as the private estate of [[Alexander the Great]] between 336 and 323&nbsp;BCE after his conquest of the region.{{citation needed|date=February 2016}} In the middle of the 2nd century BCE Jericho was under [[Hellenistic]] rule of the [[Seleucid Empire]], when the [[Syrian]] General [[Bacchides (general)|Bacchides]] built a number of forts to strengthen the defences of the area around Jericho against the revolt by the [[Macabees]].<ref>1 Maccabees 9:50</ref> One of these forts, built at the entrance to [[Wadi Qelt]], was later refortified by [[Herod the Great]], who named it ''Kypros'' after his mother.<ref name=Murphyp289>Murphy-O'Connor, 1998, pp. 289–291.</ref>
+
+===Hasmonean and Herodian periods===
+In the second half of the 2nd century BCE, Jericho became part of the [[Hasmonean Judea|kingdom of Judea]], which was established by the Maccabees as a sovereign Jewish kingdom after gaining independence from the Seleucids. The kingdom was ruled by the [[Hasmonean dynasty|Hasmoneans]], a dynasty descending from a priestly family (''[[Kohen|kohanim]]'') of the [[tribe of Levi]].<ref>Magnusson, Magnus (1977). ''Archaeology of the Bible''. New York: Simon and Schuster. p. 219. {{ISBN|9780671240103}}.</ref> Around 135/134 BCE, the strategos of Jericho, [[Ptolemy son of Abubus]], assassinated Hasmonean leader [[Simon Thassi]], his father-in-law, at the nearby fortress of Duq.{{Sfn|Ameling|Cotton|Eck|Ecker|2018|p=248}}
+
+The Hasmoneans constructed [[Hasmonean and Herodian royal winter palaces|royal winter palaces]] at the site known as ''Tulul Abu el-'Alayiq.'' The new site of Jericho was established as a garden city around the palaces, consisting of a group of low mounds on both banks of [[Wadi Qelt]].{{sfn|Jacobs|2000|p=691}} It is now believed that during the Second Temple period, houses spread across much of the valley.{{Sfn|Ameling|Cotton|Eck|Ecker|2018|p=251}} Several pools dating to the reign of Hasmonean king [[Alexander Jannaeus]] (r. c. 103–76 BCE) have been excavated at the palaces.{{Sfn|Ameling|Cotton|Eck|Ecker|2018|p=251}} The Hasmoneans also built [[Aqueduct (water supply)|aqueducts]], which supplied water to the palaces and to a farming and workshop complex, showing evidence of the cultivation of balsam and persimmon, as well as the production of date wine.{{Sfn|Ameling|Cotton|Eck|Ecker|2018|p=251}} After the construction of the palaces, the city served not only as an agricultural center and a crossroads, but also as a winter resort for [[Jerusalem]]'s aristocracy.<ref name="STF">[http://www.christusrex.org/www1/ofm/mad/discussion/012discuss.html Jericho – (Ariha)] {{Webarchive|url=https://web.archive.org/web/20160307205816/http://www.christusrex.org/www1/ofm/mad/discussion/012discuss.html|date=7 March 2016}} Studium Biblicum Franciscum – Jerusalem.</ref>
+[[File:By_Ovedc_-_Tulul_al-Alaiq,_Herod's_winter_palaces,_Jericho_39.jpg|thumb|Remains from the [[Hasmonean and Herodian royal winter palaces]] at Jericho]]
+In 63 BCE, during the Roman intervention in the [[Hasmonean civil war|Hasmonean succession war]], Roman general [[Pompey]] passed through Jericho before advancing to [[Siege of Jerusalem (70 CE)|besiege Jerusalem]].{{Sfn|Ameling|Cotton|Eck|Ecker|2018|pp=246–247}} After the city fell, the Jewish monarchy was abolished, and Judaea came under Roman oversight as a client territory. In 37 BCE, [[Herod the Great|Herod]] began [[Herodian kingdom|ruling Judea]] as a [[Client kingdoms in ancient Rome|client kingdom]] of Rome. He initially leased the royal estate at Jericho from [[Cleopatra]], to whom [[Mark Antony]] had granted it.<ref name="Murphyp289" /> Following their joint suicide in 30 BCE, Octavian assumed control of the [[Roman Empire]] and granted Herod full control over Jericho as part of his domain.<ref>Rozenberg, Silvia; Netzer, Ehud (2008). ''Hasmonean and Herodian palaces at Jericho: final reports of the 1973–1987 excavations''. 4, "The decoration of Herod's third palace at Jericho". Jerusalem: Israel Exploration Society & Institute of Archaeology, The Hebrew University of Jerusalem. {{ISBN|9789652210715}}. [[oclc:758612875|WorldCat website]]</ref> Herod greatly expanded the royal domain in Jericho, constructing additional palaces.{{Sfn|Ameling|Cotton|Eck|Ecker|2018|p=251}} Excavations have uncovered the palaces themselves, a network of aqueducts, and the remains of an associated farm, as well as traces of residences for wealthy inhabitants.{{Sfn|Ameling|Cotton|Eck|Ecker|2018|p=251}} Herod also built a [[hippodrome]]-theatre (''Tell es-Samrat'') and built [[aqueduct (water supply)|aqueducts]] to irrigate the lands below the cliffs, supplying water to his winter palaces at ''Tulul Abu el-Alaiq'' (also written ''ʾAlayiq'').<ref name="Murphyp289" /> Herod is known to have ordered the drowning of [[Aristobulus III of Judea|Aristobulus III]], the adolescent brother of his wife [[Mariamne I]], in a pool within the Jericho palace, after the young high priest became too popular.{{Sfn|Ameling|Cotton|Eck|Ecker|2018|p=251}}
+
+Following Herod's death, the palace at Jericho was plundered and set on fire during the ensuing unrest, but it was later rebuilt by his son and successor, Herod Archelaus, who also constructed an aqueduct from Naʿaran to Jericho.{{Sfn|Ameling|Cotton|Eck|Ecker|2018|p=251}} [[Herod Archelaus]] also built a village in his name not far to the north, [[Archelaïs]] (modern Khirbet al-Beiyudat), to house workers for his date plantation.{{citation needed|date=February 2016}} The rock-cut tombs of a Herodian- and Hasmonean-era cemetery lie in the lowest part of the cliffs between Nuseib al-Aweishireh and [[Mount of Temptation]]. They date between 100&nbsp;BCE and 68&nbsp;CE.<ref name="Murphyp289" />
+
+====In the New Testament====
+[[File:El Greco - Christ Healing the Blind - WGA10420.jpg|thumb|''Christ Healing the Blind in Jericho'', El Greco]]
+
+The Christian [[Gospels]] state that [[Jesus]] of Nazareth passed through Jericho where he healed blind beggars ({{bibleverse|Matthew|20:29}}), and inspired a local chief [[tax collector]] named [[Zacchaeus]] to [[repent]] of his dishonest practices ({{bibleverse|Luke|19:1–10}}). The road between Jerusalem and Jericho is the setting for the [[Parable of the Good Samaritan]].<ref>{{cite web|url=http://www.biblegateway.com/passage/?search=Luke+10&version=NIV |title=The Parable of the Good Samaritan Luke 10:25 |publisher=Biblegateway.com |access-date=31 March 2011}}</ref>
+
+[[John Wesley]], in his New Testament Notes on this section of [[Gospel of Luke|Luke's Gospel]], claimed that "about twelve thousand [[Kohen|priests]] and [[Levite]]s dwelt there, who all attended the service of the [[Temple in Jerusalem|temple]]".<ref>Wesley, J. (1754), [http://wesley.nnu.edu/john-wesley/john-wesleys-notes-on-the-bible/notes-on-the-gospel-according-to-st-luke/#Chapter+X ''Notes on The Gospel According to St Luke''] on chapter X, accessed on 31 March 2025</ref>
+
+[[William Smith (lexicographer)|Smith]]'s ''Bible Names Dictionary'' suggests that "Jericho was once more 'a city of palms' when our Lord visited it. Here he restored sight to the blind ({{bibleverse|Matthew|20:30}}; {{bibleverse|Mark| 10:46}}; {{bibleverse|Luke| 18:35}}). Here the descendant of [[Rahab]] did not disdain the hospitality of Zacchaeus the [[publican]]. Finally, between Jerusalem and Jericho was laid the scene of his story of the good Samaritan."<ref>[https://www.biblegateway.com/resources/smiths-bible-names-dictionary/Jericho Smith's Bible Names Dictionary: Jericho]. Retrieved 6 February 2017.</ref>
+
+===Roman province===
+Josephus, a first-century CE Jewish historian from Jerusalem and a local of Judea, provides one of the most detailed ancient descriptions of Jericho, calling its district "the most fruitful country of Judea."{{Sfn|Ameling|Cotton|Eck|Ecker|2018|pp=246–247}} He describes the area as rich in many types of date palms sustained by the Jericho spring, home to plentiful bees, and known for valuable plants such as balsam, cypress, and the [[Myrobalan plum|myrobalan]]on, concluding that "it would not be a misnomer to describe as 'divine' this spot in which the rarest and choicest plants are produced in abundance."{{Sfn|Ameling|Cotton|Eck|Ecker|2018|pp=246–247}} He also notes that Jericho was famed as the region "where they cultivate the palm tree and opobalsamum, that most excellent ointment, which, when the shrubs are cut with a sharp stone, oozes out like sap."{{Sfn|Ameling|Cotton|Eck|Ecker|2018|pp=246–247}} Other classical writers also commented on the Jericho oasis. Greek historian [[Diodorus Siculus]] (1st century BCE) describes its palm trees and its production of balsam.{{Sfn|Ameling|Cotton|Eck|Ecker|2018|pp=246–247}} Roman author [[Pliny the Elder]] writes that the most renowned palm trees in the area were found especially at Jericho.{{Sfn|Ameling|Cotton|Eck|Ecker|2018|pp=246–247}} Greek geographer [[Strabo]] provides a detailed geographical description in his ''[[Geographica]]'',{{Sfn|Ameling|Cotton|Eck|Ecker|2018|pp=246–247}} writing that:
+
+{{blockquote|Jericho is a plain surrounded by a kind of mountainous country, which in a way, slopes toward it like a theatre. Here is the [[Phoenix (plant)|Phoenicon]], which is mixed also with all kinds of cultivated and fruitful trees, though it consists mostly of palm trees. It is 100 [[stadion (unit)|stadia]] in length and is everywhere watered with streams. Here also are the Palace and the Balsam Park.<ref name=Murphyp289/>}}
+[[File:Fresco_depicting_vine_scrolls,_from_Jericho,_Goliath_family_tomb,_1st_century_AD_-_1st_century_BC,_Israel_Museum,_Jerusalem_(15472626687).jpg|thumb|260x260px|Fresco of a vine from the Goliath family tomb, Jewish cemetery of Roman-era Jericho]]
+A large Jewish cemetery dated to the first century CE was found in excavations carried out west of classical-era Jericho. The most elaborate component is the multi-chambered "Goliath family tomb", a rock-cut complex that consists of two plastered chambers on different levels, connected by a staircase, with painted decoration in the upper chamber depicting a vine with grapes and birds.{{Sfn|Ameling|Cotton|Eck|Ecker|2018|pp=265–266}} Across both chambers, excavators found 22 ossuaries, many decorated with rosettes typical of late Second Temple Jewish funerary art. Fourteen bear inscriptions in Greek, Hebrew and Aramaic (the last two using the [[Hebrew alphabet|square Jewish script]]). Some of the deceased are nicknamed "[[Goliath]]", a sobriquet likely referring to exceptional height. Recurring names such as Yoezer, El'azar, Salome/Shelamzion, and Maria point to family naming practices.{{Sfn|Ameling|Cotton|Eck|Ecker|2018|pp=265–266}} One ossuary belonged to a certain Theodotus, identified as the freedman of Queen Agrippina, almost certainly [[Agrippina the Younger]], thus dating his burial to 50–59 CE, before Nero's ''[[damnatio memoriae]]'' erased her name.{{Sfn|Ameling|Cotton|Eck|Ecker|2018|pp=268–270}} Several ossuaries also preserve geographic identifiers, such as two children's ossuaries naming "Yoezer the Ezobite," possibly referring to a locality in Transjordan known from Josephus; they seem to be distinguished by the nickname "the cinnamon" attached to one of them.{{Sfn|Ameling|Cotton|Eck|Ecker|2018|pp=286–287}}
+
+Jericho appears to have played a strategically important role in the [[First Jewish–Roman War|First Jewish Revolt]] (66–73 CE). At the outset of the uprising, the [[Judean provisional government|provisional government]] formed in Jerusalem appointed Joseph ben Shimon to command the defense of Jericho.{{sfn|Rogers|2022|p=51}} In 68 CE, [[Vespasian]]'s forces advanced through the Jericho region. Jewish survivors from the fighting in [[Perea]] had crossed the Jordan and sought refuge in Jericho, but by the time the Romans arrived it had been abandoned, its inhabitants having fled into the hills overlooking Jerusalem.{{sfn|Rogers|2022|p=287}} Early in 70 CE, after [[Titus]] succeeded Vespasian in command, one division of his army passed through Jericho on its way to [[Siege of Jerusalem (70 CE)|besiege Jerusalem]].{{sfn|Rogers|2022|p=304}} Following the city's fall later that year, Jericho declined quickly; by around 100 CE it had been reduced to a small Roman garrison settlement.<ref name="Loschp117" /> A fort was erected there in 130 and is thought to have played a role in suppressing the [[Bar Kokhba revolt]] in 133.{{citation needed|date= March 2022}}
+
+===Byzantine period===
+{{see also|Ancient synagogues in the Palestine region}}
+[[File:Mount of Temptation interior.jpg|thumb|260x260px|The [[Monastery of the Temptation]] (Dir Al-Qarantal)]]
+[[Itinerarium Burdigalense|Accounts]] of Jericho by a Christian [[pilgrim]] are given in 333. Shortly thereafter the built-up area of the town was abandoned and a [[Byzantine Empire|Byzantine]] Jericho, ''Ericha'', was built 1600 metres (1&nbsp;mi) to the east, on which the modern town is centered.<ref name="Loschp117">Losch, 2005, p. 117–118.</ref> [[Christianity]] took hold in the city during the Byzantine era and the area was heavily populated. A number of monasteries and churches were built, including the [[Monastery of Saint George of Choziba]] in 340&nbsp;CE and a domed church dedicated to [[Elisha|Saint Eliseus]].<ref name="STF" /> At least two [[synagogue]]s were also built in the 6th century CE.<ref name="Murphyp289" /> The monasteries were abandoned after the [[Sasanian conquest of Jerusalem|Sasanian invasion of 614]].<ref name="Ringp367" />[[File:PikiWiki Israel 15003 Jericho synagogue mosaic.JPG|thumb|Copy of the mosaic from the [[Jericho synagogue]], showing the Hebrew inscription "Peace upon Israel", 6th–7th century CE)]]
+
+In late antiquity, Jericho also hosted a Jewish community whose presence is attested by the [[Jericho synagogue]], also known as the "Shalom 'al Yisrael" synagogue, discovered just north of the Byzantine-era settlement, and 500 meters northeast of Tell el-Sultan.{{Sfn|Werlin|2015|pp=70–71}} The synagogue's basilical hall featured geometric pavements and a central medallion bearing the Hebrew inscription "Peace upon Israel", alongside characteristic Jewish motifs including the ''[[Temple menorah|menorah]]'', ''[[lulav]]'' and ''[[shofar]]'', as well as a donor inscription in [[Aramaic]].{{Sfn|Werlin|2015|pp=72–84}} The building appears to have been constructed in two phases during the late Byzantine or early Islamic periods, remaining in use for some time before being hastily abandoned in the 8th century.{{Sfn|Werlin|2015|pp=90}}
+
+The artistic program of the Jericho synagogue shares close parallels with the nearby [[Naaran|Na'aran]] synagogue, located approximately 3.2 kilometers northwest of the Jericho synagogue, near the springs of Nu'eima and Duk.{{Sfn|Werlin|2015|pp=29–30}} Its complex included a multi-room basilical synagogue, while its interior featured a large mosaic with geometric panels, a [[Zodiac mosaics in ancient synagogues|zodiac cycle]], a Torah-shrine flanked by menorahs, animal motifs, and numerous Aramaic dedicatory inscriptions naming donors.{{Sfn|Werlin|2015|pp=33–57}} It suffered iconoclastic damage to most figural elements. Finds from adjacent structures indicate that this synagogue and its settlement flourished in the 6th century and remained active into the early Islamic period before their abrupt destruction, probably by fire, in the 8th century.{{Sfn|Werlin|2015|pp=69–70}} Rabbinic texts from late antiquity mention hostilities between the Jews of Na'aran and Christians from Jericho.{{Sfn|Werlin|2015|pp=33–57}}
+
+===Early Muslim period===
+[[File:Arabischer Mosaizist um 735 001.jpg|right|thumb|[[Arab]]ic [[Umayyad]] [[mosaic]] from [[Hisham's Palace]] in Jericho]]
+
+Jericho, by then named "Ariha" in Arabic variation, became part of [[Jund Filastin]] ("Military District of Palestine"), part of the larger province of [[Bilad al-Sham]]. The Arab Muslim historian Musa b. 'Uqba (died 758) recorded that [[caliph]] [[Umar ibn al-Khattab]] exiled the Jews and Christians of [[Khaybar]] to Jericho (and Tayma).<ref>Several hadith collections: e.g. Bukhari, ''Sahih'' as translated Muḥammad Muḥsin Khân, ''The Translation of the Meanings of Sahih al-Bukhari'' (India: Kitab Bhavan, 1987) 3.39.531 and 4.53.380, and Muslim ''Sahih'' trans. Abdul Hamid Siddiqui (Lahore: Kazi Publications, 1976) 10.3763.</ref>
+
+By 659, that district had come under the control of [[Mu'awiya]], founder of the [[Umayyad Caliphate|Umayyad dynasty]]. That year, an earthquake destroyed Jericho.<ref>''The Maronite Chronicle'', written during Mu'awiya's caliphate. For propaganda reasons it dates the earthquake to the wrong year: Andrew Palmer, ''The Seventh Century in the West-Syrian Chronicles'' (Liverpool: Liverpool University Press, 1993), 30, 31, 32.</ref> A decade later, the pilgrim [[Arculf]] visited Jericho and found it in ruins, all its "miserable Canaanite" inhabitants now dispersed in shanty towns around the Dead Sea shore.<ref>"The Pilgrimage of Arculf in the Holy Land", De Locis Sanctis as translated by Rev. James Rose MacPherson (W. London: BD. 24, Hanover Square, 1895), ch. I.11.</ref>
+
+A palatial complex long attributed to the tenth Umayyad caliph, [[Hisham ibn Abd al-Malik]] (r. 724–743) and thus known as [[Hisham's Palace]], is located at Khirbet al-Mafjar, about 1.5 kilometres (1&nbsp;mi) north of Tell es-Sultan. This [[Desert castle|"desert castle" or ''qasr'']] was more likely built by Caliph [[Al-Walid II|Walid ibn Yazid]] (r. 743–744), who was assassinated before he could complete the construction.<ref>Jerome Murphy-O'Connor, ''The Holy Land: An Oxford Archaeological Guide from Earliest Times to 1700'', Oxford University Press 2008, pp. 342–344.</ref> The remains of two mosques, a courtyard, mosaics, and other items can still be seen ''in situ'' today. The unfinished structure was largely destroyed in an earthquake in 747.{{citation needed|date= March 2022}}
+
+Umayyad rule ended in 750 and was followed by the [[Arab]] caliphates of the [[Abbasid]] and [[Fatimid]] dynasties. Irrigated agriculture was developed under Islamic rule, reaffirming Jericho's reputation as a fertile "City of the Palms".<ref name=Shahinp285>Shahin, 2005, p. 285.</ref> [[Al-Muqaddasi|Al-Maqdisi]], the Arab geographer, wrote in 985 that "the water of Jericho is held to be the highest and best in all [[Islam]]. [[Banana]]s are plentiful, also [[Phoenix dactylifera|dates]] and flowers of fragrant odor".<ref name=Shahinp283>Shahin, 2005, p. 283.</ref> Jericho is also referred to by him as one of the principal cities of Jund Filastin.<ref>al-Muqaddasi quoted in Le Strange, 1890, p. [https://archive.org/stream/palestineundermo00lestuoft#page/39/mode/1up 39]</ref>
+
+===Crusader period===
+In 1179, the Crusaders rebuilt the Monastery of St. George of Koziba, at its original site 10&nbsp;km (6&nbsp;mi) from the center of town. They also built another two churches and a monastery dedicated to [[John the Baptist]], and were credited by 19th-century authors with introducing [[sugarcane]] production to the city,<ref name=Hull>Hull, 1855.</ref> although now scholars date it to the pre-Crusader, Early Arab period. The Crusaders, however, have raised sugar production to the level of a large-scale industry. The site of Tawahin es-Sukkar (lit. "sugar mills") holds remains of a Crusader sugar production facility. In 1187, the Crusaders were evicted by the [[Ayyubid]] forces of [[Saladin]] after their victory in the [[Battle of Hattin]] and the town slowly went into decline.<ref name=Ringp367/>
+
+===Ayyubid and Mamluk periods===
+[[File:Nuremberg chronicles f 50r 1.png|thumb|Jericho, as depicted in the 1493 [[Nuremberg Chronicle]]]]
+
+In 1226, Arab geographer [[Yaqut al-Hamawi]] said of Jericho, "it has many palm trees, also sugarcane in quantities, and bananas. The best of all the sugar in the ''[[Jordan Valley|Ghaur]]'' land is made here." In the 14th century, [[Abu al-Fida]] writes that there are [[sulfur]] mines in Jericho, "the only ones in Palestine".<ref>al-Hamawi and Abu-l Fida quoted in Le Strange, 1890, p. [https://archive.org/stream/palestineundermo00lestuoft#page/397/mode/1up 397]</ref>
+
+===Ottoman period===
+[[File:Jerico1.jpg|thumb|right|Postcard image depicting Jericho in the late 19th or early 20th century]]
+
+====16th century====
+Jericho was incorporated into the [[Ottoman Empire]] in 1517 with all of [[Palestine (region)|Palestine]], and in 1545 a revenue of 19,000 [[Akçe]] was recorded, destined for the new [[Waqf]] for the [[Haseki Sultan Imaret]] of Jerusalem.<ref name=Singerp52>Singer, 2002, pp. [https://books.google.com/books?id=zHBHBTNwBQoC&pg=PA50 50], [https://books.google.com/books?id=zHBHBTNwBQoC&pg=PA52 52]</ref> The villagers processed [[indigo]] as one source of revenue, using a cauldron specifically for this purpose that was loaned to them by the Ottoman authorities in Jerusalem.<ref name=Singerp120>Singer, 2002, p. [https://books.google.com/books?id=zHBHBTNwBQoC&pg=PA120 120]</ref> Later that century, the Jericho revenues no longer went to the Haseki Sultan Imaret.<ref name=Singerp126>Singer, 2002, p. [https://books.google.com/books?id=zHBHBTNwBQoC&pg=PA126 126]</ref>
+
+In 1596 Jericho appeared in the [[daftar|tax registers]] under the name of ''Riha'', being in the ''[[nahiya]]'' of Al-Quds in the ''[[Liwa (Arabic)|liwa]]'' of [[Al-Quds]]. It had a population of 51 households, all [[Muslim]]s. They paid a fixed tax-rate of 33.3% on agricultural products, including wheat, barley, summer crops, vineyards and fruit trees, goats and beehives, water buffaloes, in addition to occasional revenues; a total of 40,000 [[Akçe]]. All of the revenue still went to a Waqf.<ref name=HA114>Hütteroth and Abdulfattah, 1977, p. 114</ref>
+
+====17th century====
+The French traveller [[Laurent d'Arvieux]] described the city in 1659 as "now desolate, and consists only of about fifty poor houses, in bad condition ... The plain around is extremely fertile; the soil is middling fat; but it is watered by several rivulets, which flow into the Jordan. Notwithstanding these advantages only the gardens adjacent to the town are cultivated."<ref>Graham, 1836, p. [https://archive.org/stream/bub_gb_0ZYCAAAAQAAJ#page/n136/mode/1up 122]</ref>
+
+====19th century====
+[[File:Roman aquaduct near Jericho.jpg|thumb|Roman aqueducts]]
+
+In the 19th century, European scholars, archaeologists and missionaries visited often.<ref name=Ringp367/> At the time it was an oasis in a poor state, similar to other regions in the plains and deserts.<ref name=benarieh>Ben-Arieh, Yehoshua. [http://www.ybz.org.il/_Uploads/dbsAttachedFiles/Article_36.8.pdf "The Sanjak of Jerusalem in the 1870s"] {{Webarchive|url=https://web.archive.org/web/20200722211520/http://www.ybz.org.il/_Uploads/dbsAttachedFiles/Article_36.8.pdf |date=22 July 2020 }}. In ''Cathedra'', 36. Jerusalem: Yad Yitzhak Ben Zvi. 1985. pp. 80–82</ref> [[Edward Robinson (scholar)|Edward Robinson]] (1838) reported 50 families, which were about 200 people,<ref>Robinson and Smith, 1841, vol. 2, p. [https://archive.org/stream/biblicalresearc00smitgoog#page/n302/mode/1up 280]</ref> [[Titus Tobler]] (1854) reported some 30 poor huts, whose residents paid a total of 3611 [[kuruş]] in tax.<ref>[[Titus Tobler]], ''Topographie von Jerusalem und seinen Umgebungen'', Berlin, 1853–1854, p. 642</ref> [[Abraham Samuel Herschberg]] (1858–1943) also reported after his 1899–1900 travels in the region<ref>{{cite encyclopedia |title= Herschberg, Abraham Samuel (1858–1943) |encyclopedia=Encyclopaedia Judaica |editor-first=Fred |editor-last=Skolnik |pages=42–43 |volume=9 |edition=2nd |publisher=Keter, Thomson Gale |year=2007 |isbn=978-0-02-865930-5 |url=http://www.jevzajcg.me/enciklopedia/Encyclopaedia%20Judaica,%20v.%2009%20(Her-Int).pdf |access-date=23 May 2019}}</ref> of some 30 poor huts and 300 residents.<ref>{{cite book |first=A. S. |last=Hershberg |title=In the Land of the East |publisher=Vilna |year=1899 |page=469 }}</ref> At that time, Jericho was the residence of the region's Turkish governor. The main water sources for the village were a spring called ''Ein al-Sultan'', lit. "Sultan's Spring", in Arabic and ''Ein Elisha'', lit. "Elisha Spring", in Hebrew, and springs in [[Wadi Qelt]].<ref name=benarieh/>
+
+[[James Silk Buckingham|J. S. Buckingham]] (1786–1855) describes in his 1822 book how the male villagers of er-Riha, although nominally sedentary, engaged in [[Bedouin]]-style [[Raid (military)#Bedouin ''ghazzu''|raiding, or ''ghazzu'']]: the little land cultivation he observed was done by women and children, while men spent most of their time riding through the plains and engaging in "robbery and plunder", their main and most profitable activity.<ref name=Tribal>{{cite book |title=Near Eastern Tribal Societies During the Nineteenth Century: Economy, Society and Politics Between Tent and Town |chapter=Raiding and robbing |first=Eveline |last=van der Steen |publisher=Routledge |year= 2014 |isbn=9781317543473 |chapter-url=https://books.google.com/books?id=d-_OBAAAQBAJ&pg=PT115}}</ref>
+
+An [[Ottoman Empire|Ottoman]] village list from around 1870 showed that ''Riha'', Jericho, had 36 houses and a population of 105, though the population count included men only.<ref>Socin, 1879, p. [https://archive.org/stream/zeitschriftdesde01deut#page/159/mode/1up 159]</ref><ref>Hartmann, 1883, p. [https://archive.org/stream/bub_gb_BZobAQAAIAAJ#page/n932/mode/1up 124], noted 34 houses</ref>
+
+The first [[excavation (archaeology)|excavation]] at Tell es-Sultan was carried out in 1867.<ref name=Ringp367/>
+
+====20th century====
+[[File:מאהל לצד מלון הירדן ביריחו-JNF022256.jpeg|thumb|Jericho, the Jordan Hotel, 1912]]
+[[File:Air views of Palestine. Air route following the old Jerusalem-Jericho Road. Modern Jericho. Taken above the Ain Sultan road looking S. LOC matpc.22116.jpg|thumb|Jericho from the air in 1931]]
+
+In Jericho and the Jordan Valley, the [[Greek Orthodox Patriarchate of Jerusalem]] acquired estates that supported agricultural development and served as symbols of its renewed presence in the countryside.<ref>Papastathis, Konstantinos and Ruth Kark. "The Politics of Church Land Administration: The Orthodox Patriarchate of Jerusalem in Late Ottoman and Mandatory Palestine, 1875–1948." ''Byzantine and Modern Greek Studies'' 40, no. 2 (2016): 264–282.</ref><ref>{{cite journal | last1=Sasson | first1=Avi (Avraham) | last2=Marom | first2=Roy | last3=Kharanbeh | first3=Saleh | title=Bayyarat al-Khuri: An Ecclesiastical Agricultural Estate in Caesarea, Israel | journal=Palestine Exploration Quarterly | date=2025 | volume=158 | issue=2 | pages=196–218 | doi=10.1080/00310328.2025.2515756 }}</ref> The [[Greek Orthodox Patriarchate of Jerusalem|Greek Orthodox]] monasteries of [[Monastery of St. George of Choziba|St. George of Choziba]] and [[Qasr el Yahud|John the Baptist]] were refounded and completed in 1901 and 1904, respectively.<ref name=Ringp367/>
+
+===British Mandate period===
+[[File:AN AERIAL PHOTO OF JERICHO. צילום אויר של יריחו.D332-058.jpg|thumb|Jericho 1938]]
+
+After the collapse of the Ottoman Empire at the end of [[World War I]], Jericho came under British rule, as part of [[Mandatory Palestine]].
+
+According to the [[1922 census of Palestine]], Jericho had 1,029 inhabitants (931 Muslims, 92 Christians, and six Jews).<ref name=Census1922a>Barron, 1923, Table VII, Sub-district of Jericho, p. [https://archive.org/stream/PalestineCensus1922/Palestine%20Census%20%281922%29#page/n21/mode/1up 19]</ref> The Christian population consisted of 45 Orthodox, 12 Roman Catholics, 13 Greek Catholics ([[Melkite Catholics]]), 6 Syrian Catholic, 11 Armenians, four Copts and one Church of England.<ref name=Census1922b>Barron, 1923, Table XIV, p. [https://archive.org/stream/PalestineCensus1922/Palestine%20Census%20%281922%29#page/n47/mode/1up 45]</ref>
+
+In 1927, an [[1927 Jericho earthquake|earthquake struck]] and affected Jericho and other cities. Around 300 people died,<ref>{{cite web |url=http://www.yalibnan.com/2013/10/22/israel-hit-by-fifth-minor-quake-in-a-week/ |title=Israel hit by fifth minor quake in a week |publisher=[[Ya Libnan]] |date=22 October 2013 |access-date=27 December 2013}}</ref> but by the [[1931 census of Palestine|1931 census]] the population had increased to 1,693 inhabitants (1,512 Muslims, 170 Christians, seven Druze, and four Jews), in 347 houses.<ref name=Census31>Mills, 1932, p.[https://archive.org/details/CensusOfPalestine1931.PopulationOfVillagesTownsAndAdministrativeAreas 45]</ref>
+
+In the 1938 statistics, Jericho lists a population of 1,996 people (including five Jews).<ref>{{Cite web |title=Village statistics, February 1938. |url=https://rosetta.nli.org.il/delivery/DeliveryManagerServlet?dps_pid=IE13978876 |access-date=2023-08-19 |website=rosetta.nli.org.il}}</ref>
+
+In the [[Village Statistics, 1945|1945 statistics]], Jericho's population was 3,010 (2,570 Muslims, 260 Christians, 170 Jews, and 10 "other"<ref name="1945p24">Department of Statistics, 1945, p. [http://users.cecs.anu.edu.au/~bdm/yabber/census/VSpages/VS1945_p24.jpg 24]</ref>) and it had jurisdiction over 37,481 [[dunam]]s of land.<ref>Government of Palestine, Department of Statistics. ''Village Statistics, April, 1945.'' Quoted in Hadawi, 1970, p. [http://www.palestineremembered.com/download/VillageStatistics/Table%20I/Jerusalem/Page-057.jpg 57]</ref> Of this, 948 dunams were used for citrus and bananas, 5,873 dunams were for plantations and irrigable land, 9,141 for cereals,<ref>Government of Palestine, Department of Statistics. ''Village Statistics, April, 1945.'' Quoted in Hadawi, 1970, p. [http://www.palestineremembered.com/download/VillageStatistics/Table%20II/Jerusalem/Page-102.jpg 102]</ref> while a total of 38 dunams were urban, built-up areas.<ref>Government of Palestine, Department of Statistics. ''Village Statistics, April, 1945.'' Quoted in Hadawi, 1970, p. [http://www.palestineremembered.com/download/VillageStatistics/Table%20III/Jerusalem/Page-153.jpg 153]</ref>
+
+During [[World War II]] The British built fortresses in Jericho with the help of the Jewish company [[Solel Boneh]], and bridges were rigged with explosives in preparation for a possible invasion by German allied forces.<ref name=Frilingp65>Friling and Cummings, 2005, p. 65.</ref>
+
+===Jordanian period===
+[[File:After the exodus (Nakba), the first school classes in Jericho were held in the open air.jpg|thumb|right|250px|School classes for [[Palestinian refugees]] who were displaced to Jericho in the wake of the 1948 [[Nakba]]]]
+Jericho came under [[Jordan]]ian control after the [[1948 Arab–Israeli War]]. The [[Jericho Conference]], organized by King Abdullah and attended by over 2,000 Palestinian delegates in 1948 proclaimed "His Majesty Abdullah as King of all Palestine" and called for "the unification of Palestine and Transjordan as a step toward full [[Arab]] unity". In mid-1950, Jordan formally annexed the West Bank and Jericho residents, like other residents of West Bank localities became Jordanian citizens.<ref name=Benvenistip27>Benvenisti, 1998, pp. 27–28.</ref>
+
+In 1961, the population of Jericho was 10,166,<ref>Government of Jordan, 1964, p. [http://users.cecs.anu.edu.au/~bdm/yabber/census/JordanCensusPages/JordanCensus1961-p13.pdf 13]</ref> of whom 935 were Christian, and the rest were Muslim.<ref>Government of Jordan, Department of Statistics, 1964, pp. [http://users.cecs.anu.edu.au/~bdm/yabber/census/JordanCensusPages/JordanCensus1961-pp115-116.pdf 115–116]</ref>
+
+===1967 and aftermath===
+[[File:2018 OCHA OpT map Jericho.jpg|thumb|upright=1.3|2018 [[United Nations Office for the Coordination of Humanitarian Affairs|United Nations]] map of the area, showing the [[Israeli occupation of the West Bank|Israeli occupation]] arrangements]]
+
+Jericho has been [[Israeli occupation of the West Bank|occupied by Israel]] since the [[Six-Day War]] of 1967 along with the rest of the West Bank. It was the first city handed over to [[Palestinian National Authority|Palestinian Authority]] control in accordance with the [[Oslo Accords]].<ref name=CSM>{{cite journal |last= Prusher |first= Ilene R. |title=At 10th anniversary, a far poorer Palestinian Authority |date=14 September 2004 |journal=The Christian Science Monitor |url= https://www.csmonitor.com/2004/0914/p01s04-wome.html}}</ref> The limited Palestinian self-rule of Jericho was agreed on in the [[Gaza–Jericho Agreement]] of 4 May 1994.<ref name="jpost">{{cite news |last=Balint |first=Judy Lash |date=21 January 2012 |title=The lost Jewish presence in Jericho |url=https://www.jpost.com/Features/In-Thespotlight/The-lost-Jewish-presence-in-Jericho |access-date=1 February 2022 |work=The Jerusalem Post}}</ref><ref>{{cite news |date=29 August 2012 |title=Palestinian farmers ordered to leave lands |url=https://www.aljazeera.com/news/2012/8/29/palestinian-farmers-ordered-to-leave-lands |work=Al Jazeera}}</ref> Part of the agreement was a "Protocol on Economic Relations", signed on 29 April 1994.<ref>{{cite news|last=Simons |first=Marlise |url=https://query.nytimes.com/gst/fullpage.html?res=9502EED91530F933A05757C0A962958260 |title=Gaza-Jericho Economic Accord Signed by Israel and Palestinians |location=Jericho (West Bank); Middle East; Gaza Strip |newspaper=The New York Times|date=30 April 1994 |access-date=31 March 2011}}</ref> The city is in an enclave of the Jordan Valley that is in [[Palestinian enclaves|Area A]] of the West Bank, while the surrounding area is designated as being in Area&nbsp;C under full Israeli military control. Four roadblocks encircle the enclave, restricting Jericho's Palestinian population's movement through the West Bank.<ref>{{citation|last=Ġānim|first=Asʻad|title=Palestinian Politics After Arafat: A Failed National Movement|publisher=Indiana University Press|year=2010|page=35|isbn=9780253354273}}</ref>
+
+The Jericho synagogue was controlled by Israel after the Six-Day War, but after the handover to Palestinian Authority control per the Oslo Accords, it has been a source of conflict. On the night of 12 October 2000, the synagogue was vandalized by Palestinians who burned holy books and relics and damaged the mosaic.<ref>{{cite web |title=The Palestinian Authority and the Jewish Holy Sites |url=http://www.jcpa.org/JCPA/Templates/ShowPage.asp?DBID=1&LNGID=1&TMID=111&FID=377&PID=1852&IID=1923 |url-status=dead |archive-url=https://web.archive.org/web/20100621022226/http://jcpa.org/JCPA/Templates/ShowPage.asp?DBID=1&LNGID=1&TMID=111&FID=377&PID=1852&IID=1923 |archive-date=21 June 2010 |access-date=21 February 2010 |publisher=JCPA}}</ref><ref name="jewishjericho">{{cite web |title=Jewish life in Jericho |url=http://www.jewishjericho.org.il/english/places/shalomalyisrael.html |access-date=5 May 2009 |publisher=Jewishjericho.org.il}}</ref>
+
+In response to the 2001 [[Second Intifada]] and [[suicide bombings]], Jericho was re-occupied by Israeli troops.<ref name="CSM" /> A {{convert|2|m|adj=on|abbr=on}} deep trench was built around a large part of the city to control Palestinian traffic to and from Jericho.<ref name="ARIJ">ARIJ & LRC, 20 March 2001, [http://www.poica.org/editor/case_studies/view.php?recordID=138 ''The Tightening of the Siege on Jericho: Israel Employs a New Policy of Trench Digging''] {{webarchive|url=https://web.archive.org/web/20130613235138/http://www.poica.org/editor/case_studies/view.php?recordID=138 |date=13 June 2013 }}</ref>
+
+On 14 March 2006, the [[Israel Defense Forces]] launched [[Operation Bringing Home the Goods]], raiding a Jericho prison to capture the PFLP general secretary, [[Ahmad Sa'adat]], and five other prisoners, all of whom had been charged with assassinating the Israeli tourist minister [[Rehavam Zeevi]] in 2001.<ref>[http://news.bbc.co.uk/1/hi/world/middle_east/4806714.stm Israel holds militant after siege] 14 March 2006 ''[[BBC News]]''</ref>
+
+After Hamas assaulted a neighborhood in Gaza mostly populated by the Fatah-aligned [[Hilles clan]], in response to their attack that killed six Hamas members, the Hilles clan was relocated to Jericho on 4 August 2008.<ref>[https://fr.jpost.com/servlet/Satellite?cid=1215331192135&pagename=JPost/JPArticle/ShowFull Jerusalem Post] {{webarchive|url=https://web.archive.org/web/20110511121547/http://fr.jpost.com/servlet/Satellite?cid=1215331192135&pagename=JPost%2FJPArticle%2FShowFull |date=11 May 2011 }} 4 August 2008 ''IDF: Hilles clan won't boost terrorism'' Yaacov Katz And Khaled Abu Toameh</ref>
+
+In 2009, Palestinian Authority Prime Minister [[Salam Fayyad]] and U.S. [[Assistant Secretary of State for International Narcotics and Law Enforcement Affairs]] David Johnson inaugurated the Presidential Guard Training Center in Jericho, a $9.1&nbsp;million training facility for [[Palestinian National Security Forces|Palestinian Authority security forces]] built with U.S. funding.<ref>{{cite web|url=http://jerusalem.usconsulate.gov/pr150309.html|title=Training Center for Palestinian Authority Security Forces Opens in Jericho|url-status=dead|archive-url=https://web.archive.org/web/20130217143329/http://jerusalem.usconsulate.gov/pr150309.html|archive-date=17 February 2013}}</ref> In 2024, a Jericho street was named after [[Aaron Bushnell]], a U.S. soldier who self-immolated in support of Palestine.<ref>{{cite web |last1=Greyman-Kennard |first1=Danielle |title=West Bank city names street after self-immolating US soldier Aaron Bushnell |url=https://www.jpost.com/middle-east/article-791570 |website=The Jerusalem Post |date=12 March 2024 |access-date=15 March 2024}}</ref>
+
+The city had a population of 20,907 in 2017.<ref name="PrelimCensus2017" />
+
+==Geography and environment==
+Jericho is located {{convert|258|m|ft|abbr=on}} below [[sea level]] in an [[oasis]] in [[Wadi Qelt]] in the [[Jordan Valley (Middle East)|Jordan Valley]], which makes it the [[List of cities by elevation|lowest city in the world]].<ref name=Murphyp288/><ref name=Ringp367/><ref name=Holmanp1391>{{cite book |author=Holman |title=The Holman Illustrated Study Bible-HCSB |url=https://books.google.com/books?id=x7kIHAAACAAJ |location=<!--lost in the bible belt!--> |publisher=[[Broadman & Holman]] |page=1391 |date=15 September 2006 |isbn=1586402765|author-link=Holman Christian Standard Bible }}</ref> The nearby spring of ''Ein es-Sultan'' produces 3.8<!--assuming US gal -->&nbsp;m<sup>3</sup> (1,000 <!--US or imp?-->gallons) of water per minute, irrigating some {{convert|2500|acre|km2|order=flip}} through multiple channels and feeding into the [[Jordan River]], {{convert|6|mi|0|order=flip}} away.<ref name=Ringp367>Ring et al., 1994, [https://books.google.com/books?id=R44VRnNCzAYC&dq=jericho+babylonian+ring&pg=RA1-PA367 p. 367–370].</ref><ref name=Holmanp1391/>
+
+{{Wide image|Jericho Panorama.jpg|1200px|Panorama of Jericho}}
+
+===Important Bird Area===
+A {{Convert|3,500|ha|acre|abbr=on|adj=on}} site encompassing the city of Jericho and its immediate surrounds has been recognised as an [[Important Bird Area]] (IBA) by [[BirdLife International]] because it supports populations of [[black francolin]]s, [[lanner falcon]]s, [[lesser kestrel]]s, and [[Dead Sea sparrow]]s.<ref name=bli>{{cite web |url=http://datazone.birdlife.org/site/factsheet/jericho-iba-palestinian-authority-territories|title= Jericho|author=<!--Not stated--> |date=2021|website= BirdLife Data Zone|publisher= BirdLife International|access-date= 26 February 2021}}</ref>
+
+===Climate===
+Annual rainfall is {{convert|204|mm|abbr=on}}, mostly concentrated in the winter months and into early spring.<ref name=NS/> The average temperature is {{convert|11|C}} in January and {{convert|31|C}} in July. According to the [[Köppen climate classification]], Jericho has a [[hot desert climate]] (''BWh''). Rich alluvial soil and abundant spring water have made Jericho an attractive place for settlement.<ref name=Holmanp1391/>
+
+{{Weather box
+| width = auto
+| location = Jericho
+| metric first = yes
+| single line = yes
+| Jan record high C = 25.0
+| Feb record high C = 27.6
+| Mar record high C = 33.8
+| Apr record high C = 41.4
+| May record high C = 46.4
+| Jun record high C = 45.0
+| Jul record high C = 44.0
+| Aug record high C = 45.6
+| Sep record high C = 43.4
+| Oct record high C = 40.6
+| Nov record high C = 34.8
+| Dec record high C = 28.8
+| year record high C = 46.4
+| Jan high C = 19.0
+| Feb high C = 20.6
+| Mar high C = 24.4
+| Apr high C = 29.5
+| May high C = 34.4
+| Jun high C = 37.0
+| Jul high C = 38.6
+| Aug high C = 37.9
+| Sep high C = 35.8
+| Oct high C = 32.7
+| Nov high C = 28.1
+| Dec high C = 21.4
+| year high C = 30.0
+| Jan mean C = 10.7
+| Feb mean C = 12.6
+| Mar mean C = 16.3
+| Apr mean C = 22.4
+| May mean C = 26.6
+| Jun mean C = 30.4
+| Jul mean C = 30.9
+| Aug mean C = 30.4
+| Sep mean C = 28.6
+| Oct mean C = 25.8
+| Nov mean C = 22.8
+| Dec mean C = 16.9
+| year mean C = 22.9
+| Jan low C = 4.4
+| Feb low C = 5.9
+| Mar low C = 9.6
+| Apr low C = 13.6
+| May low C = 18.2
+| Jun low C = 20.2
+| Jul low C = 21.9
+| Aug low C = 21.1
+| Sep low C = 20.5
+| Oct low C = 17.6
+| Nov low C = 16.6
+| Dec low C = 11.6
+| year low C = 15.1
+| Jan record low C = 0.2
+| Feb record low C = -0.4
+| Mar record low C = 2.8
+| Apr record low C = 2.4
+| May record low C = 10.4
+| Jun record low C = 15.4
+| Jul record low C = 18.0
+| Aug record low C = 19.0
+| Sep record low C = 13.2
+| Oct record low C = 11.4
+| Nov record low C = 4.2
+| Dec record low C = 2.1
+| year record low C = -0.4
+| precipitation colour = green
+| Jan precipitation mm = 59
+| Feb precipitation mm = 44
+| Mar precipitation mm = 20
+| Apr precipitation mm = 4
+| May precipitation mm = 1
+| Jun precipitation mm = 0
+| Jul precipitation mm = 0
+| Aug precipitation mm = 1
+| Sep precipitation mm = 2
+| Oct precipitation mm = 3
+| Nov precipitation mm = 5
+| Dec precipitation mm = 65
+| year precipitation mm = 204
+| Jan rain days = 9.3
+| Feb rain days = 8.6
+| Mar rain days = 6.7
+| Apr rain days = 2.7
+| May rain days = 2.1
+| Jun rain days = 1.0
+| Jul rain days = 0.0
+| Aug rain days = 0.0
+| Sep rain days = 1.5
+| Oct rain days = 2.6
+| Nov rain days = 5.2
+| Dec rain days = 7.4
+| year rain days = 
+| Jan humidity = 77
+| Feb humidity = 81
+| Mar humidity = 74
+| Apr humidity = 62
+| May humidity = 49
+| Jun humidity = 50
+| Jul humidity = 51
+| Aug humidity = 57
+| Sep humidity = 52
+| Oct humidity = 56
+| Nov humidity = 54
+| Dec humidity = 74
+| year humidity = 61
+| Jan sun = 189.1
+| Feb sun = 186.5
+| Mar sun = 244.9
+| Apr sun = 288.0
+| May sun = 362.7
+| Jun sun = 393.0
+| Jul sun = 418.5
+| Aug sun = 396.8
+| Sep sun = 336.0
+| Oct sun = 294.5
+| Nov sun = 249.0
+| Dec sun = 207.7
+| year sun = 
+| Jand sun = 6.1
+| Febd sun = 6.6
+| Mard sun = 7.9
+| Aprd sun = 9.6
+| Mayd sun = 11.7
+| Jund sun = 13.1
+| Juld sun = 13.5
+| Augd sun = 12.8
+| Sepd sun = 11.2
+| Octd sun = 9.5
+| Novd sun = 8.3
+| Decd sun = 6.7
+| yeard sun = 9.8
+| source 1 = Arab Meteorology Book<ref name=NS>{{cite web
+| url = http://extras.springer.com/2007/978-1-4020-4577-6/Book_Shahin_ISBN_9781402045776_Appendix.pdf
+| title = Appendix I: Meteorological Data
+| publisher = Springer
+| access-date = 25 October 2015
+| archive-date = 4 March 2016
+| archive-url = https://web.archive.org/web/20160304072830/http://extras.springer.com/2007/978-1-4020-4577-6/Book_Shahin_ISBN_9781402045776_Appendix.pdf
+| url-status = dead}}</ref>
+| source 2 = [[Palestinian Meteorological Department]] (extremes, rainy days)<ref name=PMD>{{cite web |url=https://www.pmd.ps/en/climatic-averages |title=Climatic Averages |publisher=Palestinian Meteorological Department |access-date=November 5, 2025}}</ref>
+| date=August 2010
+}}
+
+==Demographics==
+[[File:PikiWiki Israel 1536 Jericho municipality עיריית יריחו.jpg|thumb|Municipality of Jericho, 1967]]
+
+In the first census carried out by the [[Palestinian Central Bureau of Statistics]] (PCBS), in 1997, Jericho's population was 14,674. [[Palestinian refugee]]s constituted  43.6% of the residents or 6,393 people.<ref>[http://www.pcbs.gov.ps/Portals/_pcbs/phc_97/jer_t6.aspx Palestinian Population by Locality and Refugee Status] {{webarchive|url=https://web.archive.org/web/20081118181551/https://www.pcbs.gov.ps/Portals/_pcbs/phc_97/jer_t6.aspx |date=18 November 2008 }} [[Palestinian Central Bureau of Statistics]] (PCBS).</ref> The gender make-up of the city was 51% male and 49% female. Jericho has a young population, with nearly half (49.2%) of the inhabitants being under the age of 20. People between the ages of 20 and 44 made up 36.2% of the population, 10.7% between the ages of 45 and 64, and 3.6% were over the age of 64.<ref>[http://www.pcbs.gov.ps/Portals/_pcbs/phc_97/jer_t1.aspx Palestinian Population by Locality, Sex and Age Groups in Years] {{webarchive|url=https://web.archive.org/web/20080614231532/http://www.pcbs.gov.ps/Portals/_pcbs/phc_97/jer_t1.aspx |date=14 June 2008 }} (PCBS).</ref> In the 2007 census by the PCBS, Jericho had a population of 18,346.<ref name=PCBS>[http://www.pcbs.gov.ps/Portals/_PCBS/Downloads/book1487.pdf#page=109 2007 PCBS Census] {{webarchive|url=https://web.archive.org/web/20101210081942/http://www.pcbs.gov.ps/Portals/_PCBS/Downloads/book1487.pdf |date=10 December 2010 }}. [[Palestinian Central Bureau of Statistics]] (PCBS).</ref>
+
+In a 1945 land and population survey by [[Sami Hadawi]], 3,010 inhabitants is the figure given for Jericho, of which 94% (2840) were Arab and 6% (170) were Jews.<ref>Hadawi, 1970, [http://www.palestineremembered.com/download/VillageStatistics/Table%20I/Jerusalem/Page-057.jpg p.57]</ref> Today, the overwhelming majority of the population is [[Muslim]].<ref name="LATimes">{{Citation|first=Dan|last=Fisher|url=https://www.latimes.com/archives/la-xpm-1987-02-02-mn-142-story.html|title=World's Oldest City Retains Lure : Biblical Jericho: Winter Oasis for the West Bank|work=Los Angeles Times|date=2 February 1987|archive-url=https://web.archive.org/web/20251111025316/https://www.latimes.com/archives/la-xpm-1987-02-02-mn-142-story.html|archive-date=11 November 2025}}</ref> The [[Palestinian Christians|Christian]] community makes up around 1% of the population.<ref name=sussi>{{cite web |title= HOLY LAND/ Jericho: A small Christian community and their school |url= http://www.ilsussidiario.net/News/English-Spoken-Here/From-the-World/2012/5/24/HOLY-LAND-Jericho-A-small-Christian-community-and-their-school/283382/ |access-date=28 August 2012 |archive-url= https://web.archive.org/web/20170910220321/http://www.ilsussidiario.net/News/English-Spoken-Here/From-the-World/2012/5/24/HOLY-LAND-Jericho-A-small-Christian-community-and-their-school/283382/ |archive-date=10 September 2017 |url-status= dead}}</ref> A large community of [[black Palestinians]] lives in Jericho.<ref name=LATimes/>
+
+==Economy==
+[[File:PikiWiki Israel 1539 The market of Jericho השוק ביריחו.jpg|thumb|Jericho marketplace, 1967]]
+
+In 1994, Israel and Palestine signed an economic accord that enabled Palestinians in Jericho to open banks, collect taxes and engage in export and import in preparation for self-rule.<ref>{{cite web|url=https://www.nytimes.com/1994/04/30/world/gaza-jericho-economic-accord-signed-by-israel-and-palestinians.html|title=Gaza-Jericho Economic Accord Signed by Israel and Palestinians|first=Marlise|last=Simons|date=30 April 1994|work=The New York Times}}</ref> Agriculture is another source of income, with banana groves ringing the city.<ref name=jpost/>
+
+The Jericho Agro-Industrial Park is a public-private enterprise being developed in the Jericho area. Agricultural processing companies are being offered financial concessions to lease plots of land in the park in a bid to boost Jericho's economy.<ref>{{cite web|url=https://www.theguardian.com/global-development/2012/jun/18/jericho-business-park-palestine-sustainability|title=Jericho business park aims to inch Palestine towards sustainability|first=Liz|last=Ford|date=18 June 2012|work=The Guardian}}</ref>
+
+==Tourism==
+[[File:Jerycho9.jpg|thumb|Jericho cable car]]
+
+In 1998, a $150&nbsp;million casino-hotel was built in Jericho with the backing of Yasser Arafat.<ref>{{cite web|url=https://www.baltimoresun.com/1998/07/26/walls-going-up-in-jericho-construction-of-casino-hotel-palestinians-israelis-have-role-in-project/|title=Walls going up in Jericho – construction of casino-hotel Palestinians, Israelis have role in project|date=26 July 1998 |access-date=28 August 2012|archive-date=4 March 2016|archive-url=https://web.archive.org/web/20160304102854/http://articles.baltimoresun.com/1998-07-26/news/1998207031_1_casinos-austria-play-in-casinos-jericho|url-status=live}}</ref> The casino is now closed, though the hotel on the premises is open for guests.
+
+In 2010, Jericho, with its proximity to the Dead Sea, was declared the most popular destination among Palestinian tourists.<ref>{{cite web |last=Rabinowitz |first=Gavin |title=Palestinians aim to push tourism beyond Bethlehem |date=11 February 2010 |url=https://www.telegraph.co.uk/expat/expatnews/7214355/Palestinians-aim-to-push-tourism-beyond-Bethlehem.html |url-access=subscription |url-status=live |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/expat/expatnews/7214355/Palestinians-aim-to-push-tourism-beyond-Bethlehem.html |archive-date=11 January 2022}}{{cbignore}}</ref>
+
+===Biblical and Christian landmarks===
+Christian tourism is one of Jericho's primary sources of income. There are several major Christian pilgrimage sites in and around Jericho.
+* [[Ein es-Sultan]], known as the Spring of Elisha to Jews and Christians;
+* [[Qasr al-Yahud]] on the Jordan River, across from [[Al-Maghtas|Bethany beyond the Jordan]], traditionally identified as the location of the [[baptism of Jesus]];
+* [[Mount of Temptation]] (Jebel Quruntul), traditionally identified as the location of the [[Temptation of Jesus]];
+* The Greek Orthodox [[Monastery of the Temptation]] halfway up the mountain, beside a cave said to be the location where Jesus fasted for 40 days. It is connected to Jericho by a cable car;<ref name=jpost/>
+* 2 sycamore trees, both identified as the one mentioned in relation to [[Zacchaeus]];
+* [[Deir Hajla]], the monastery of [[Gerasimus of the Jordan|St. Gerasimos]] in the Jordan Valley near Jericho;
+* [[St. George's Monastery, Wadi Qelt|Saint George Monastery]] in [[Wadi Qelt]] above Jericho.
+
+===Archaeological landmarks===
+* Stone, Bronze and Iron Age cities at '''Tell es-Sultan''';
+* [[Hasmonean royal winter palaces|Hasmonean and Herodian winter palaces]] at '''Tulul Abu el-'Alayiq''';
+* Byzantine-period synagogues at Jericho ([[Jericho synagogue|Shalom Al Yisrael Synagogue]]) and [[Naaran|Na'aran]];
+* Umayyad palace at Khirbet al-Mafjar known as [[Hisham's Palace]];
+* Crusader sugar production facility at '''Tawahin es-Sukkar''' (lit. "sugar mills");
+* [[Nabi Musa]], the [[Mamluk]] and [[Ottoman Empire|Ottoman]] shrine claimed to be the resting place of [[Moses]] ("Prophet Musa" to the Muslims)
+
+==Schools and religious institutions==
+In 1925, Christian friars opened a school for 100 pupils that became the Terra Santa School. The city has 22 state schools and a number of private schools.<ref name=sussi/>
+
+==Health care==
+In April 2010, the United States Agency for International Development (USAID) held a groundbreaking ceremony for the renovation of the [[Jericho Governmental Hospital]]. USAID is providing $2.5&nbsp;million in funding for this project.<ref>{{cite web|url=http://www.usaid.gov/wbg/pr_April_14_2010.html|title=USAID to Renovate the Jericho Governmental Hospital|url-status=dead|archive-url=https://web.archive.org/web/20110318001142/http://www.usaid.gov/wbg/pr_April_14_2010.html|archive-date=18 March 2011}}</ref>
+
+==Sports==
+The sports team [[Hilal Areeha]] plays [[association football]] in the West Bank First Division. They play home games in the 15,000-spectator [[Jericho International Stadium]].<ref>{{cite web|url=http://www.worldstadiums.com/middle_east/countries/palestine.shtml|title=World Stadiums – Stadiums in Palestine|website=worldstadiums.com|access-date=2 September 2012|archive-date=15 September 2017|archive-url=https://web.archive.org/web/20170915044808/http://www.worldstadiums.com/middle_east/countries/palestine.shtml|url-status=dead}}</ref>
+
+==Twin towns and sister cities==
+{{See also|List of twin towns and sister cities in the State of Palestine}}
+
+Jericho is [[Sister city|twinned]] with:<ref>{{cite web|title=العلاقات التي تربط مدينة أريحا بالمدن الأجنبية|url=https://www.jericho-city.ps/ar_page.php?id=ct5MDP5Csna2396520AuRpyFejJ38|website=jericho-city.ps|publisher=Jericho|language=ar|access-date=2020-05-30|archive-date=6 December 2020|archive-url=https://web.archive.org/web/20201206141356/http://www.jericho-city.ps/ar_page.php?id=ct5MDP5Csna2396520AuRpyFejJ38|url-status=dead}}</ref>
+{{div col|colwidth=20em}}
+*{{flagicon|ITA}} [[Alessandria]], Italy (2004)
+*{{flagicon|BRA}} [[Campinas]], Brazil (2001)
+*{{flagicon|HUN}} [[Eger]], Hungary (2013)
+*{{flagicon|CHL}} [[Estación Central]], Chile (2007)
+*{{flagicon|MAR}} [[Fez, Morocco|Fez]], Morocco (2014)
+*{{flagicon|BRA}} [[Foz do Iguaçu]], Brazil (2012)
+*{{flagicon|ROU}} [[Iași]], Romania (2003)
+*{{flagicon|GRC}} [[Ilion, Greece|Ilion]], Greece (1999)
+*{{flagicon|SRB}} [[Kragujevac]], Serbia (2011)
+*{{flagicon|NOR}} [[Lærdal Municipality|Lærdal]], Norway (1998)
+*{{flagicon|ITA}} [[Pisa]], Italy (2000)
+*{{flagicon|ITA}} [[San Giovanni Valdarno]], Italy (2004)
+*{{flagicon|BRA}} [[Santa Bárbara, Minas Gerais|Santa Bárbara]], Brazil (1998)
+*{{flagicon|JOR}} [[Al-Shuna al-Shamalyah]], Jordan (2016)
+<!--rest - not twinning-->
+{{div col end}}
+
+==Notable people==
+* [[Musa Alami]]
+
+==See also==
+{{Portal|Asia}}
+*[[Ancient underground quarry, Jordan Valley]], some {{Convert|5|km|mi|0|abbr=on}} north of Jericho
+*[[al-Auja, Jericho]], a Palestinian village north of Jericho
+*[[Battle of Jericho]], biblical story
+*[[Cities in the Book of Joshua]]
+*[[Hasmonean royal winter palaces]], actually Hasmonean and Herodian, at Tulul Abu al-'Alayiq south of Jericho proper
+*[[History of pottery in Palestine]]
+*[[Jawa, Jordan]], the oldest proto-urban settlement from Jordan (late 4th millennium BC – Early Bronze Age)
+*[[Mevo'ot Yericho]], Israeli settlement just north of Jericho
+*[[Tower of Jericho]], the Neolithic stone tower, c. 10,000 years old, excavated at Tell es-Sultan
+*[[Wall of Jericho (neolithic)|Wall of Jericho]], the Neolithic stone wall, c. 10,000 years old, excavated at Tell es-Sultan
+
+== Citations ==
+{{Reflist}}
+
+== Bibliography ==
+{{Refbegin|colwidth=30em}}
+* {{Cite book |last1=Ameling |first1=Walter |url=https://www.degruyterbrill.com/document/doi/10.1515/9783110544213-054/html |title=Iudaea / Idumaea: 3325-3978 |last2=Cotton |first2=Hannah M. |last3=Eck |first3=Werner |last4=Ecker |first4=Avner |publisher=[[De Gruyter]] |year=2018 |isbn=978-3-11-054493-0 |series=Corpus Inscriptionum Iudaeae/Palaestinae: A multi-lingual corpus of the inscriptions from Alexander to Muhammad |volume=4 |pages=245–308 |language=en |chapter=XLIX. Jericho nos. 2807-2845 |doi=10.1515/9783110544213-054 }}
+* {{cite book |editor= Barron, J.B. |title= Palestine: Report and General Abstracts of the Census of 1922 |url= https://archive.org/details/PalestineCensus1922 |publisher= Government of Palestine |year= 1923}}
+* {{cite book |title=City of Stone: The Hidden History of Jerusalem|author-link=Meron Benvenisti|first=M.|last=Benvenisti|publisher=[[University of California Press]]|year=1998|isbn= 978-0-520-20768-4}}
+* {{cite book |title=The International Standard Bible Encyclopedia: E-J|first=G.W.|last=Bromiley|author-link=Geoffrey W. Bromiley|publisher=Wm. B. Eerdmans Publishing|year=1995|isbn= 978-0-8028-3782-0}}
+* {{cite book |title=Village Statistics, April, 1945 |url= http://web.nli.org.il/sites/nli/Hebrew/library/Pages/BookReader.aspx?pid=856390|author=Department of Statistics|year=1945|publisher=Government of Palestine}}
+* {{cite book |title=Arrows in the Dark: David Ben-Gurion, the Yishuv Leadership, and Rescue Attempts During the Holocaust|first1=T.|last1=Friling |author-link1=Tuvia Friling|first2=Ora|last2=Cummings|publisher=University of Wisconsin Press|year=2005|isbn= 978-0-299-17550-4}}
+* {{cite book |title= First Census of Population and Housing. Volume I: Final Tables; General Characteristics of the Population |author= Government of Jordan, Department of Statistics |year= 1964|url= http://cs.anu.edu.au/~bdm/yabber/census/JordanCensus1961bits.pdf}}
+* {{cite book |title= A topographical dictionary of Palestine|url= https://archive.org/details/bub_gb_0ZYCAAAAQAAJ |last= Graham |first= Peter |year= 1836 |location=London}}
+* {{cite book |title=Village Statistics of 1945: A Classification of Land and Area ownership in Palestine|url= http://www.palestineremembered.com/Articles/General-2/Story3150.html|first=S.|last=Hadawi|author-link=Sami Hadawi|year=1970|publisher=Palestine Liberation Organization Research Center}}
+* {{cite journal |last= Hartmann |first=M. |author-link= Martin Hartmann |title= Die Ortschaftenliste des Liwa Jerusalem in dem türkischen Staatskalender für Syrien auf das Jahr 1288 der Flucht (1871) |journal= Zeitschrift des Deutschen Palästina-Vereins |volume= 6 |pages= 102–149 |url= https://archive.org/details/bub_gb_BZobAQAAIAAJ |year= 1883}}
+* {{cite book |title=Mount Seir, Sinai and Western Palestine|first=E.|last=Hull|author-link= Edward Hull (geologist)|year=1855|publisher=Richard Bently and Sons|url= https://books.google.com/books?id=9e88L7DVTq8C|isbn=9781402189852}}
+* {{cite book |last1= Hütteroth|first1=W.-D.|author-link1=Wolf-Dieter Hütteroth |first2=K. | last2=Abdulfattah |author-link2=Kamal Abdulfattah |title= Historical Geography of Palestine, Transjordan and Southern Syria in the Late 16th Century |url= https://books.google.com/books?id=wqULAAAAIAAJ |year= 1977 |publisher= Erlanger Geographische Arbeiten, Sonderband 5. Erlangen, Germany: Vorstand der Fränkischen Geographischen Gesellschaft|isbn= 3-920405-41-2}}
+* {{cite book |last1= Jacobs |first1= Paul F. |chapter= Jericho |editor1-last= Freedman |editor1-first= David Noel |editor2-last= Myers |editor2-first= Allen C. |title= Eerdmans Dictionary of the Bible |year= 2000 |publisher= Eerdmans |isbn= 9789053565032 |chapter-url= https://books.google.com/books?id=qRtUqxkB7wkC&pg=PA690}}
+* {{cite book |title=History of Art: The Western Tradition|first1=H.W.|last1=Janson|author-link1=H. W. Janson|first2=Anthony F.|last2=Janson|publisher=[[Prentice Hall]] |year=2003|isbn=0-13-182895-9}}
+* {{cite book|last=Kuijt|first=Ian|editor-last=Silberman|editor-first=Neil Asher|title=The Oxford Companion to Archaeology|edition=2|volume=2|chapter=Jericho|publisher=Oxford University Press|location=New York|year=2012|isbn=978-0-19-973578-5|chapter-url=https://books.google.com/books?id=xeJMAgAAQBAJ&pg=RA1-PA166}}
+* {{cite book |title=Palestine Under the Moslems: A Description of Syria and the Holy Land from A.D. 650 to 1500|url= https://archive.org/details/palestineundermo00lestuoft|first=G.|last=Le Strange |author-link=Guy Le Strange|year=1890|publisher=Committee of the [[Palestine Exploration Fund]]}}
+* {{cite book |last=Losch |first=Richard R. |title=The Uttermost Part of the Earth: A Guide to Places in the Bible |publisher=[[Wm. B. Eerdmans Publishing]] |year=2005 |isbn=978-0-8028-2805-7}}
+* {{cite book |editor= Mills, E. |title= Census of Palestine 1931. Population of Villages, Towns and Administrative Areas |url= https://archive.org/details/CensusOfPalestine1931.PopulationOfVillagesTownsAndAdministrativeAreas |publisher= Government of Palestine |location= Jerusalem |year= 1932}}
+* {{cite book |last=Murphy-O'Connor |first=Jerome |author-link=Jerome Murphy-O'Connor |title=The Holy Land: An Oxford Archaeological Guide from Earliest Times to 1700 |publisher=[[Oxford University Press]] |year=1998 |url=https://global.oup.com/academic/product/the-holy-land-9780199236664 |isbn= 978-0-19-288013-0}}
+* {{cite book |title=Digging Up Jericho: Past, Present and Future |last=Nigro |first=Lorenzo |publisher=Archaeopress Publishing Ltd |year=2020 |isbn=978-1789693522 |editor-last=Sparks |editor-first=Rachel T. |chapter=The Italian-Palestinian Expedition to Tell es-Sultan, Ancient Jericho (1997–2015) |editor-last2=Finlayson |editor-first2=Bill |editor-last3=Wagemakers |editor-first3=Bart |editor-last4=SJ |editor-first4=Josef Mario Briffa|chapter-url=https://www.academia.edu/41702471}}
+* {{cite book |title=International Dictionary of Historic Places |first1=Trudy |last1=Ring |first2=Robert M. |last2=Salkin |first3=K. A. |last3=Berney |first4=Paul E. |last4=Schellinger |publisher=Taylor & Francis |year=1994 |isbn=978-1-884964-03-9}}
+* {{cite book |last1=Robinson|first1=E.|author-link1=Edward Robinson (scholar)|last2=Smith|first2=E.|author-link2=Eli Smith|year=1856|url= https://archive.org/details/laterbiblicalre03smitgoog |title=Biblical Researches in Palestine and adjacent regions: A Journal of Travels in the years 1838 and 1852, 2nd edition |location= London|publisher=[[John Murray (publishing house)|John Murray]]|volume=2}}
+* {{Cite book |last=Rogers |first=Guy MacLean |url=https://yalebooks.yale.edu/book/9780300248135/for-the-freedom-of-zion/ |title=For the Freedom of Zion: The Great Revolt of Jews against Romans, 66–74 CE |publisher=[[Yale University Press]] |year=2022 |isbn=978-0-300-24813-5 |series= |volume= |pages= |chapter= |archive-date=7 December 2024 |archive-url=https://web.archive.org/web/20241207230626/https://yalebooks.yale.edu/book/9780300248135/for-the-freedom-of-zion/ |url-status=live}}
+* {{cite book |title=The Shengold Jewish Encyclopedia|first1=M.|last1=Schreiber |author-link1= Mordecai Schreiber|first2=Alvin I.|last2=Schiff|first3=Leon|last3=Klenicki|publisher=Schreiber Pub.|year=2003|isbn= 978-1-887563-77-2}}
+* {{cite book |title=Palestine: A Guide|first=Mariam|last=Shahin|year=2005|publisher=Interlink Books|isbn=978-1-56656-557-8|url= https://archive.org/details/palestine00mari}}
+* {{cite book |last=Singer|first=A.|author-link=Amy Singer (historian)|title=Constructing Ottoman Beneficence: An Imperial Soup Kitchen in Jerusalem |url= https://books.google.com/books?id=zHBHBTNwBQoC |year=2002|publisher= [[State University of New York Press]]|location=Albany|isbn= 0-7914-5352-9}}
+* {{cite journal |last= Socin |first=A. |author-link= Albert Socin |title= Alphabetisches Verzeichniss von Ortschaften des Paschalik Jerusalem |journal= Zeitschrift des Deutschen Palästina-Vereins |volume= 2 |pages= 135–163 |url= https://archive.org/details/zeitschriftdesde01deut |year= 1879}}
+* {{Cite book |last=Werlin |first=Steven H. |url=https://brill.com/display/book/9789004298408/B9789004298408_003.xml |title=Ancient Synagogues of Southern Palestine, 300-800 C.E. |publisher=Brill |year=2015 |isbn=978-90-04-29840-8 |series=The Brill Reference Library of Judaism |volume=47 |pages=29–90 |chapter=The Lower Jordan Valley: Na'aran and Jericho}}
+{{refend}}
+
+== Further reading ==
+{{Refbegin|colwidth=30em}}
+* {{cite book |last1=Conder |first1=C.R. |author-link1=Claude Reignier Conder |last2=Kitchener |first2=H.H. |author-link2=Herbert Kitchener, 1st Earl Kitchener |year=1883 |url=https://archive.org/details/surveyofwesternp03conduoft |title=The Survey of Western Palestine: Memoirs of the Topography, Orography, Hydrography, and Archaeology |location=London |publisher=[[Palestine Exploration Fund|Committee of the Palestine Exploration Fund]] |volume=3}} pp. [https://archive.org/stream/surveyofwesternp03conduoft#page/173/mode/1up 173], 174, 181, 183, 231, 507;
+* {{cite book |last=Dauphin |first=C. |author-link=Claudine Dauphin |title=La Palestine byzantine, Peuplement et Populations |url=https://books.google.com/books?id=FC1mAAAAMAAJ |volume=III : Catalogue |series=BAR International Series 726 |year=1998 |publisher=Archeopress |location=Oxford |language=fr |isbn=0-860549-05-4}}
+* {{cite book |author-link1=Israel Finkelstein |last1=Finkelstein |first1=I. |author-link2=Neil Asher Silberman |last2=Silberman |first2=N.A. |title=The Bible Unearthed |publisher=Touchstone |year=2002 |isbn=0-684-86913-6 |title-link=The Bible Unearthed}}
+* {{cite book |title=Eerdmans Dictionary of the Bible |author-link1=David Noel Freedman |first1=D.N. |last1=Freedman |first2=Allen C. |last2=Myers |first3=Astrid B. |last3=Beck |publisher=Wm. B. Eerdmans Publishing |year=2000 |isbn=978-0-8028-2400-4 |url-access=registration |url=https://archive.org/details/eerdmansdictiona0000unse}}
+* {{cite book |title=Ancient Cities: The Archaeology of Urban Life in the Ancient Near East and Egypt, Greece and Rome. |last=Gates |first=Charles |year=2003}}
+* {{cite book |last=Guérin |first=V. |author-link=Victor Guérin |title=Description Géographique Historique et Archéologique de la Palestine |url=https://archive.org/details/descriptionsam01gu |volume=2: Samarie, pt. 1 |year=1874 |publisher=L'Imprimerie Nationale |location=Paris |language=fr}} (p. [https://archive.org/stream/descriptionsam01gu#page/46/mode/1up 46] ff)
+* {{cite book |last=Kenyon |first=K. |author-link=Kathleen Kenyon |title=Digging Up Jericho |year=1957}}
+* {{cite book |title=Gerico: La città millenaria |last=Nigro |first=Lorenzo |publisher=Hoepli Editore |year=2025 |isbn=978-88-360-2082-9 |language=it |url=https://books.google.com/books?id=HZ-aEQAAQBAJ}}
+* {{cite book |last=Palmer |first=E.H. |author-link=Edward Henry Palmer |year=1881 |url=https://archive.org/details/surveyofwesternp00conduoft |title=The Survey of Western Palestine: Arabic and English Name Lists Collected During the Survey by Lieutenants Conder and Kitchener, R. E. Transliterated and Explained by E.H. Palmer |publisher=[[Palestine Exploration Fund|Committee of the Palestine Exploration Fund]]}}
+* {{cite book |title=Amazing Archaeologists and Their Finds |first=William |last=Scheller |publisher=The Oliver Press, Inc. |year=1994 |isbn=978-1-881508-17-5}}
+* {{cite journal |last=Schick |first=C. |author-link=Conrad Schick |title=Zur Einwohnerzahl des Bezirks Jerusalem |journal=Zeitschrift des Deutschen Palästina-Vereins |volume=19 |pages=120–127 |url=https://archive.org/details/zeitschriftdesde19deut |year=1896}}
+* Stacey, D. 'Hedonists or pragmatic agriculturalists? Reassessing Hasmonean Jericho', ''Levant'', '''38''' (2006), 191–202.
+{{refend}}
+
+==External links==
+{{Commons category}}
+{{wikivoyage|Jericho}}
+* [http://www.palestineremembered.com/GeoPoints/Jericho_525/index.html Welcome to Jericho]
+* [https://web.archive.org/web/20180504092545/http://vprofile.arij.org/jericho/pdfs/factsheet/Jericho%20City_FS_EN.pdf Jericho City (Fact Sheet)], [[Applied Research Institute–Jerusalem]], [[Applied Research Institute–Jerusalem]] (ARIJ)
+* [https://web.archive.org/web/20141021115509/http://vprofile.arij.org/jericho/pdfs/vprofile/Jericho_en_FINAL.pdf Jericho City Profile], ARIJ
+* [https://web.archive.org/web/20180504092634/http://vprofile.arij.org/jericho/images/english/Jericho_ap_en.jpg Jericho aerial photo], ARIJ
+* [https://web.archive.org/web/20180504092401/http://vprofile.arij.org/jericho/pdfs/needsfordevelopment/Jericho%20City_N_EN.pdf Locality Development Priorities and Needs in Jericho City], ARIJ
+* [http://www.jericho-city.ps/english.php Jericho Municipality Official Website] {{Webarchive|url=https://web.archive.org/web/20210206022015/http://www.jericho-city.ps/english.php |date=6 February 2021 }}
+* Survey of Western Palestine, Map 18: [http://www.iaa-archives.org.il/zoom/zoom.aspx?folder_id=93&type_id=6&id=8380 IAA], [http://commons.wikimedia.org/wiki/File:Survey_of_Western_Palestine_1880.18.jpg Wikimedia commons]
+* [https://web.archive.org/web/20080917020530/http://www.jericho-city.org/etemplate.php?id=19 Jericho Municipality Official Website Historical site]
+* [https://web.archive.org/web/20140104070704/http://jericho-cablecar.com/ Jericho Cable Car]
+* [http://www.BiblicalArcheology.Net/ Resources on Biblical Archaeology]
+* [http://ljames1.home.netcom.com/jericho99.html Jericho: Tel es-Sultan] {{Webarchive|url=https://web.archive.org/web/20081013030856/http://ljames1.home.netcom.com/jericho99.html |date=13 October 2008 }}
+* [http://www.biblicalchronologist.org/answers/bryantwood.php The walls of Jericho fell in 1550 BCE]
+
+{{Jericho Governorate}}
+{{Cities in the West Bank}}
+{{New Testament places associated with Jesus}}
+{{Characters and names in the Quran}}
+{{Ark of the Covenant}}
+{{Authority control}}
+
+{{coord|31|51|22|N|35|27|36|E|region:PS-JRH_type:city(20,300)|display=title}}
+
+[[Category:Jericho| ]]
+[[Category:Archaeological type sites]]
+[[Category:Archaeology of Palestine (region)]]
+[[Category:Bronze Age sites in Palestine]]
+[[Category:Cities in the Great Rift Valley]]
+[[Category:Cities in the West Bank]]
+[[Category:Hebrew Bible cities]]
+[[Category:Book of Numbers locations]]
+[[Category:Book of Deuteronomy locations]]
+[[Category:Book of Joshua locations]]
+[[Category:Books of Kings locations]]
+[[Category:Books of Chronicles locations]]
+[[Category:Book of Ezra locations]]
+[[Category:Book of Nehemiah locations]]
+[[Category:Epistle to the Hebrews]]
+[[Category:Historic Jewish communities]]
+[[Category:Important Bird Areas of Palestine]]
+[[Category:Municipalities of Palestine]]
+[[Category:Natufian sites]]
+[[Category:Neolithic settlements]]
+[[Category:Neolithic]]
+[[Category:Pre-Pottery Neolithic A]]
+[[Category:Prehistoric art]]
+[[Category:Palestinian Christian communities]]
+[[Category:Tegart forts]]
+[[Category:Tells (archaeology)]]
+[[Category:Torah cities]]
+[[Category:Populated places established in the 10th millennium BC]]
+[[Category:Hellenistic fortifications]]

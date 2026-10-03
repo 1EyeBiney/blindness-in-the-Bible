@@ -1,0 +1,126 @@
+<!-- title: Siloam tunnel; revid: 1368184441; timestamp: 2026-08-07T14:40:26Z -->
+{{Short description|Ancient water channel in Jerusalem}}
+{{more citations needed|date=September 2023}}
+{{Infobox historic site
+| name = Siloam Tunnel
+| native_name = נִקְבַּת הַשִּׁלֹחַ (Nikbat HaShiloaḥ)
+| native_name_lang = he
+| other_name = Hezekiah's Tunnel
+| image = File:Siloam22.jpg
+| alt = 
+| caption = The Siloam Tunnel
+| pushpin_map = 
+| pushpin_label = Siloam Tunnel
+| coordinates = {{Coord|31.772358|N|35.235673|E|region:IL|display=inline,title}}
+| location = [[City of David (archaeological site)]], [[Jerusalem]]
+| region = [[Silwan]], [[Jerusalem]]
+| type = Water tunnel
+| built = 8th–7th century BC
+| discovered = 1838
+| public_access = Yes
+}}
+[[File:Siloam Tunnel sketch 1884.png|thumb|A sketch of the tunnel, including the "Virgin's Well", i.e. the [[Gihon Spring]] with the nearby  [[Warren's Shaft]], and the [[Pool of Siloam]] (both upper and lower/older), by [[Charles Warren]] and [[Claude Reignier Conder]], 1884]]
+
+The newer '''Siloam Tunnel''' ({{langx|he|נִקְבַּת הַשִּׁלֹחַ|Nikbat HaShiloaḥ}}), also known as '''Hezekiah's Tunnel''' ({{langx|he|label=none|תעלת חזקיהו|Te'alát Ḥizkiyáhu}}), is a [[Water tunnel (physical infrastructure)|water tunnel]] that was carved within the [[City of David (historic)|City of David]] in ancient times, now located in the Arab neighborhood of [[Silwan]] in eastern [[Jerusalem]]. Its popular name is due to the most common hypothesis that it dates from the reign of [[Hezekiah]] of [[Kingdom of Judah|Judah]], late 8th and early 7th century BC, and corresponds to the "conduit" mentioned in [[2 Kings 20]] ({{bibleverse|2|Kings|20:20|HE}}) in the [[Hebrew Bible]].<ref name=Young>{{cite book |title= Hezekiah in History and Tradition |author= Robb Andrew Young |pages= 35, 48–50 |publisher= Koninlijke Brill |year= 2012 |isbn= 978-9004216082 |url= https://books.google.com/books?id=autR6tfCb7wC}}</ref> According to the Bible, King Hezekiah prepared Jerusalem for an impending siege by the [[Neo-Assyrian Empire|Assyrians]], by "blocking the source of the waters of the [[Gihon Spring|upper Gihon]], and leading them straight down on the west to the City of David" ({{bibleverse|2|Chronicles|32:30|HE}}). By diverting the waters of the Gihon, he prevented the enemy forces under [[Sennacherib]] from gaining access to water. An older water system, sometimes called the [[Siloam Channel]], partly fulfilled a similar purpose and dates back to the [[Canaan]]ites ([[Timeline of the Palestine region#Bronze Age|Bronze Age]]).
+ 
+The idea of dating the tunnel to Hezekiah's period was derived from the Biblical text that describes construction of a water tunnel in his time.<ref name=Young/> Scientific support for this, however, came from radiocarbon dates of organic matter contained in the original plastering as well as [[radiometry]] ([[uranium-thorium dating]] of [[speleothem]]s).<ref name="Frumkin Shimron">{{cite journal |last1= Frumkin |first1= Amos |last2= Shimron |first2= Aryeh |title= Tunnel engineering in the Iron Age: Geoarchaeology of the Siloam Tunnel, Jerusalem |journal= Journal of Archaeological Science |volume=33 |issue=2 |year= 2006 |pages= 227–237 |doi= 10.1016/j.jas.2005.07.018 |bibcode= 2006JArSc..33..227F |url=https://www.sciencedirect.com/science/article/abs/pii/S0305440305001688 |access-date= 13 May 2024|url-access= subscription }}</ref> The dates were challenged in 2011 by new excavations that suggested an earlier origin in the late 9th or early 8th century BC.<ref name=Reich/><ref name=DeGroot/>
+
+The tunnel leads from the [[Gihon Spring]] to the [[Pool of Siloam]].<ref>[http://holylandphotos.org/browse.asp?s=1,2,6,19,97&img=IJOTHT07 Image of exit]</ref><ref>[http://holylandphotos.org/browse.asp?s=1,2,6,19,359,363&img=ICJOTHT12 Holy Land Photos<!-- Bot generated title -->]</ref><ref>[http://holylandphotos.org/browse.asp?s=1,2,6,19,359,361&img=IJOTGS04 Image]</ref> If indeed built under Hezekiah, it dates to a time when Jerusalem was preparing for an impending siege by the Assyrians, led by [[Sennacherib]]. Since the Gihon Spring was already protected by a massive tower and was included in the city's defensive wall system, Jerusalem seems to have been supplied with enough water in case of siege even without this tunnel. According to Aharon Horovitz, director of the Megalim Institute, the tunnel can be interpreted as an additional [[aqueduct (watercourse)|aqueduct]] designed for keeping the entire outflow of the spring inside the walled area, which included the downstream Pool of Siloam, with the specific purpose of withholding water from any besieging forces. Both the spring itself, and the pool at the end of the tunnel, would have been used by the inhabitants as water sources. Troops positioned outside the walls wouldn't have reached any of it, because even the overflow water released from the Pool of Siloam would have fully disappeared into a [[Karst|karstic system]] located right outside the southern tip of the city walls. In contrast to that, the previous water system did release all the water not used by the city population into the Kidron Valley to the east, where besieging troops could have taken advantage of it.
+
+The curving tunnel is 583 yards (533 m; about {{frac|3}} mile) long and by using the 12 inch (30&nbsp;cm) [[altitude]] difference between its two ends, which corresponds to a 0.06&nbsp;percent gradient, the engineers managed to convey the water from the spring to the pool.
+
+According to the [[Siloam inscription]], the tunnel was carved out of the living rock by two teams, one starting at each end of the tunnel and then meeting in the middle. The inscription is partly unreadable at present, and may originally have conveyed more information than this. It is clear from the tunnel itself that several directional errors were made during its construction.<ref>Images of some mistakes - [http://holylandphotos.org/browse.asp?s=1,2,6,19,359,363&img=ICJOTHT17] [http://holylandphotos.org/browse.asp?s=1,2,6,19,359,363&img=ICJOTHT16]</ref> Recent scholarship has discredited the idea that the tunnel may have been formed by substantially widening a pre-existing natural [[karst]].<ref name="Frumkin Shimron" /> How the Israelite engineers dealt with the difficult feat of making two teams digging from opposite ends meet far underground is still not fully understood, but some suggest that the two teams were directed from above by sound signals generated by hammering on the solid rock through which the tunnelers were digging.<ref name="Frumkin Shimron" />
+
+==Discovery and interpretation==
+[[File:Siloam11.jpg|thumb|upright=1.1|A copy of the [[Siloam inscription]] in its original location inside Hezekiah's Tunnel, 2010]]
+
+The tunnel was first described in modern times by [[Franciscus Quaresmius]] in 1625.<ref name=Robinson/> It was later explored in 1838 by the American biblical scholar [[Edward Robinson (scholar)|Edward Robinson]],<ref name=Robinson>{{cite book|last1=Robinson|first1=Edward|authorlink1=Edward Robinson (scholar)|last2=Smith|first2=Eli|authorlink2=Eli Smith|year=1841|url=https://archive.org/stream/cu31924086199563#page/n376/mode/1up|title=Biblical Researches in Palestine, Mount Sinai and Arabia Petraea: A Journal of Travels in the year 1838| location=Boston|publisher=[[Crocker & Brewster]]|page=337}}</ref> and in 1865 by [[Charles Warren]].<ref>{{cite book|last=Warren|first=Charles|author2=Wilson, Charles William |author3=Stanley, Arthur Penrhyn |editor=Morrison, Walter|title=The recovery of Jerusalem: a narrative of exploration and discovery in the city and the Holy Land|publisher=D. Appleton|location=New York|year=1871|url=https://archive.org/stream/recoveryofjerusa00wilsuoft#page/194/mode/1up|page=194}}</ref>
+
+Neither Quaresmius nor Robinson identified the tunnel with Hezekiah,<ref name=Robinson/> but in 1871 Warren suggested that the [[Pool of Siloam]] may have been "dug by King Hezekiah"<ref>[https://archive.org/stream/recoveryjerusal00fundgoog#page/n282/mode/1up/ The recovery of Jerusalem, by Captain Warren], quote: "This latter I suppose to have been the pool dug by King Hezekiah"</ref> and in 1884 following the discovery of the [[Siloam inscription]] wrote that: "The inscription thus appears to belong to the later period of the Hebrew monarchy, and may very well be considered to agree with the Biblical account of Hezekiah's preparations for Sennacherib's siege."<ref>[https://archive.org/stream/surveyofwesternp00warruoft/#page/348/mode/1up The survey of Western Palestine-Jerusalem (1884) p.348], Warren and Conder</ref>
+
+==Function and origin==
+The [[City of David (historic)|ancient city of Jerusalem]], being on a mountain, is naturally defensible from almost all sides, but suffers from the drawback that its major source of fresh water, the [[Gihon Spring]], is on the side of the cliff overlooking the [[Kidron Valley]]. This presented a major military weakness, as the city walls, if high enough to be defensible, must necessarily leave the Gihon spring outside, leaving the city without a fresh water supply in case of siege.
+
+This weakness was removed by the Canaanites, who built a very strongly fortified tower around the spring and connected it to the city walls on the slope by an additional wall, which carried a well-protected corridor. A Canaanite tunnel already collected the spring water since ca. 1800 BC and led it southwards through the bedrock. It released the water onto the fields in the Kidron Valley through several openings, and ended in an open reservoir. While allowing for important farming, this arrangement also made water available to besieging troops outside the city walls.
+
+The Bible says that King [[Hezekiah]] (c. 8th century BC), fearful that the Assyrians would lay siege to the city, blocked the spring's water outside the city and diverted it through a channel into the then Pool of Siloam.<ref>[http://holylandphotos.org/browse.asp?s=1,2,6,19,359,360&img=IJNTPS10 Holy Land Photos<!-- Bot generated title -->]</ref> Since 1997, it is now known that the earlier Warren's shaft system had already heavily fortified the Gihon Spring.<ref>[http://holylandphotos.org/browse.asp?s=1,2,6,19,359,365&img=IJOTWSTP06 image of the (remains of the) fortifications]</ref> [[Warren's shaft]] is not an aqueduct, and requires those desiring water to travel up and down it themselves—an arrangement that Hezekiah seemingly must have considered inadequate.
+
+In 1899, an ancient channel, also leading from the Gihon Spring halfway to the Siloam Pool area, but by a more direct route, was found. This channel is now known as the ''Middle Bronze Age channel'', on account of its estimated age. [[Ronny Reich]] determined that it was constructed around 1800 BC, in the [[Middle Bronze Age]], and thus that the spring's water had already been diverted many centuries before Hezekiah. As originally constructed, it is understood as a 20 feet deep ditch in the ground, covered over by large rock slabs, which were then hidden in the foliage. It is narrower than the tunnel, but can still be walked by a human for most of its length. In addition to the (3&nbsp;ft high) exit near the Siloam pool, the channel has several small outlets that watered the gardens facing the Kidron Valley.<ref>[http://holylandphotos.org/browse.asp?s=1,2,6,19,359,362&img=IJOTWSMB12 Images of the Middle Bronze Age channel]</ref>
+
+Similar to the [[qanat]]s of ancient Persia, the canal or culvert, carved into the rock, led from a main water source, and was meant to channel the current to a lower place where water was needed for agricultural purposes. The well-like vertical shaft ([[Warren's Shaft]]), connected by a gently sloping tunnel, is thought to have provided ventilation, light and access to the underground water channel for construction and maintenance.<ref>{{cite book|editor-last=Schiller|editor-first=Eli|editor-link=:he:אלי שילר |title=Jerusalem: Sites and tours in the United City (ירושלים: אתרים וסיורים בעיר המאוחדת)|date=1986|publisher=Ariel|location=Jerusalem|pages=27–32 (Warren's Shaft)|language=he |oclc=23227290}} (Reproduced from ''Ariel: A Journal for the Knowledge of the Land of Israel'', 8th year / volume 46)</ref> At its outlet, a network of dams, gates and channels is used to distribute the water.
+
+==Biblical interpretation==
+{{primary sources section|date=August 2022}}
+The Bible verses relating to a tunnel in Hezekiah's time are these:
+
+<blockquote>"As for the other events of Hezekiah’s reign, all his achievements and how he made the pool and the tunnel by which he brought water into the city, are they not written in the book of the annals of the kings of Judah?" ([[s:Bible (King James)/2 Kings#20:20|2 Kings 20:20]])</blockquote>
+
+<blockquote>"When Hezekiah saw that Sennacherib had come and that he intended to wage war against Jerusalem, he consulted with his officials and military staff about blocking off the water from the springs outside the city, and they helped him. They gathered a large group of people who blocked all the springs and the stream that flowed through the land. 'Why should the kings of Assyria come and find plenty of water?' they said." ([[s:Bible (King James)/2 Chronicles#32:2|2 Chronicles 32:2–4]])</blockquote>
+
+<blockquote>"It was Hezekiah who blocked the upper outlet of the Gihon spring and channeled the water down to the west side of the City of David. He succeeded in everything he undertook." ([[s:Bible (King James)/2 Chronicles#32:30|2 Chronicles 32:30]])</blockquote>
+
+<blockquote>"You also saw the City of David, that it was great; And you gathered together the waters of the lower pool. You also made a reservoir between the two walls for the water of the old pool. But you did not look to its Maker, Nor did you have respect for him who fashioned it long ago." ({{bibleverse|Isaiah|22:11}})</blockquote>
+
+==Doubts over dating==
+[[File:Shiloach.jpg|thumb|250px|The [[Siloam inscription]]]]
+Excavation work in the tunnel by Ronny Reich of the University of Haifa and Eli Shukron of the Israel Antiquities Authority has cast doubt over the attribution of the tunnel to the reign of Hezekiah.<ref name=Reich>{{cite journal |author=Ronny Reich and Eli Shukron |title=The date of the Siloam Tunnel reconsidered |journal=Tel Aviv |volume=38 |year=2011 |issue=2 |pages=147–157|doi=10.1179/033443511x13099584885268 |s2cid=191493893 }}</ref> They believe the evidence points to a date several decades earlier, in the last part of the 9th century or early part of the 8th century BC.<ref name=Reich/> They note that the biblical passage connecting Hezekiah to the construction of waterworks doesn't specify a place in the city, and suggest it might refer to waterworks in the Mamilla area.<ref name=Reich/>
+
+The revised dating is supported by  De Groot and Fadida on the basis of pottery analysis.<ref name=DeGroot>{{cite journal |author=Alon De Groot and Fadida Atalya |title=The Pottery Assemblage from the Rock-Cut Pool near the Gihon Spring |journal=Tel Aviv |volume=38 |year=2011 |issue=2 |pages=158–166|doi=10.1179/033443511x13099584885501 |s2cid=128741871 }}</ref>
+
+==See also==
+{{EBD poster|Fountain of the Virgin}}
+*[[Fountain of the Virgin]]
+*[[List of artifacts in biblical archaeology]]
+*[[List of caves]]
+*[[Qanat]]
+*[[Siloam inscription]]
+*[[Tunnel of Eupalinos]], 6th century BC tunnel on Samos, Greece
+*[[Turpan water system]]
+*[[Warren's Shaft]]
+
+==Gallery==
+<gallery>
+File:Tunnel of Hezekiah III.jpg|Hezekiah's Tunnel
+File:Inquisitive little face in Hezekiah's Tunnel.jpg|Wading through the waters of Hezekiah's Tunnel
+File:Hezekiah's tunnel IV.jpg|Exploring Hezekiah's Tunnel
+File:Hezekiah's Tunnel III.jpg|The conduit carved by King Hezekiah's men
+File:Hezekiah's Tunnel enlightened.jpg|Water running the length of the conduit, carved through [[meleke]] [[limestone]]
+File:Flashlight (torch) in Hezekiah's Tunnel.jpg|Flashlight (torch) lighten the way through Hezekiah's Tunnel
+File:Exploring Hezekiah's tunnel.jpg|Walking through Hezekiah's tunnel
+File:Exiting Hezekiah's tunnel.jpg|Siloam Pool as seen when exiting tunnel
+File:Conduit of water in Hezekiah's tunnel.jpg|Conduit carved in rock to the divert the waters of the Gihon Spring
+</gallery>
+
+==References==
+{{Reflist|33em}}
+
+== Bibliography ==
+*{{cite book |last=Brisco |first=Thomas C. |year=1998 |title=Holman Bible Atlas |location=Nashville |publisher=Broadman & Holman Publishers |isbn=1-55819-709-5 }}
+*{{cite journal |last1=Frumkin |first1=Amos |last2=Shimron |first2=Aryeh |title=Tunnel engineering in the Iron Age: Geoarchaeology of the Siloam Tunnel, Jerusalem |journal=Journal of Archaeological Science |volume=33 |issue=2 |year=2006 |pages=227–237 |doi=10.1016/j.jas.2005.07.018 |bibcode=2006JArSc..33..227F }}
+* [[David Ussishkin]], ''The Original Length of the Siloam Tunnel in Jerusalem'', '''Levant''' 8, 1976, pp.&nbsp;82–95 {{doi|10.1179/lev.1976.8.1.82}}
+* Rogerson, J., Davies, P. R., ''Was the Siloam Tunnel Built by Hezekiah?'', '''Biblical Archaeologist''' 59, 1996, pp.&nbsp;138–49.
+* Rosenberg, S., ''The Siloam Tunnel Revisited'', '''Tel Aviv''' 25, 1998, pp.&nbsp;116–30.
+* Frumkin, A., Shimron, A., and Rosenbaum, J., ''[https://www.researchgate.net/profile/Amos_Frumkin/publication/10573097_Radiometric_dating_of_the_Siloam_Tunnel_Jerusalem/links/02e7e528e02157617f000000 Radiometric Dating of the Siloam Tunnel]'', '''Nature''' 425, Jerusalem, 2003, pp.&nbsp;169–71.
+* Amihai Sneh, Ram Weinberger, Eyal Shalev, ''[http://geos.gsi.gov.il/eyal/PUBLICATIONS/sneh_etal_10.pdf The Why, How, and When of the Siloam Tunnel Reevaluated]'', '''Bulletin of the American Schools of Oriental Research''' 359, August 2010, pp.&nbsp;57–65
+* Ronald S. Hendel, [https://www.academia.edu/821237/The_Date_of_the_Siloam_Inscription_A_Rejoinder_to_Rogerson_and_Davies The Date of the Siloam Inscription: A Rejoinder to Rogerson and Davies], Biblical Archaeologist, 1996, vol.59
+* Shlomo Guil [https://www.academia.edu/3008768/A_New_Perspective_on_the_Various_Components_of_the_Siloam_Water_System_in_Jerusalem A New Perspective on the Various Components of the Siloam Water System in Jerusalem].Zeitschrift des Deutschen Palastina-Vereins,133 (2017) 2.
+
+==External links==
+{{Commons category|Hezekiah's Tunnel}}
+* [http://www.jewishencyclopedia.com/view.jsp?artid=1673&letter=A&search=Siloam%20conduit#4964     The Siloam TunnelAqueduct] in the [[Jewish Encyclopedia]]
+* [http://www.bibleplaces.com/heztunnel.htm Hezekiah's tunnel] BiblePlaces.com article containing photos & links
+*[http://bib-arch.org A Tiny Piece of the Puzzle: Six-Letter Inscription Suggests Monumental Building of Hezekiah] Biblical Archaeology Review
+*[https://web.archive.org/web/20090409004516/http://www.cityofdavid.org.il/index.html City of David] City of David archeological site
+*{{YouTube|boC7lOV-1PU|Christian video of the tunnel}}
+*[http://www.israel-resort-vacation.com/hezekiah%E2%80%99s-tunnel-living-proof-of-god%E2%80%99s-greatness-throughout-human-history/ Hezekiah’s Tunnel: Living proof of God’s greatness]
+
+{{Authority control}}
+
+[[Category:Buildings and structures completed in the 8th century BC]]
+[[Category:Water tunnels]]
+[[Category:Silwan]]
+[[Category:Ancient sites in Jerusalem]]
+[[Category:City of David (archaeological site)]]
+[[Category:Historic sites in Jerusalem]]
+[[Category:Establishments in the Kingdom of Judah]]
+[[Category:Hezekiah]]

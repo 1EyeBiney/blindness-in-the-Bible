@@ -1,0 +1,60 @@
+<!-- title: Healing the man blind from birth; revid: 1369665323; timestamp: 2026-08-16T10:25:21Z -->
+{{Short description|Miracle carried out by Jesus according to the Bible}}
+{{for|a similar miracle performed by Jesus in [[Gospel of Matthew|Matthew 9]]|Healing the two blind men in Galilee}}
+{{Use dmy dates|date=July 2024}}
+
+[[File:La_curacion_del_ciego_El_Greco_Dresde.jpg|thumb|250px|''[[Healing of the Man Born Blind (El Greco, Dresden)|Healing of the Man Born Blind]]'', painted by [[El Greco]] in 1567]]
+[[File:Nicolas Colombel - Christ Healing the Blind.jpg|thumb|240px|''Christ healing the blind'', by [[Nicolas Colombel]], 1682]] 
+The miracle of '''healing the man born blind''' is one of the [[miracles of Jesus in the Gospels]], in which Jesus restored the sight of a man at [[Siloam]]. Although not named in the gospel, church tradition has ascribed the name [[Celidonius]] to the man who was healed. The account is recorded in the [[John 9|ninth chapter]] of the [[Gospel of John]].
+
+==Biblical account==
+[[File:Healing of the Blind Man by Jesus Christ.jpg|thumb|''Healing of the Blind Man by Jesus Christ'' by [[Carl Bloch]]]]
+
+According to the [[Gospel of John]] 9:1–12,<ref name=John9>{{cite web|url=http://www.biblegateway.com/passage/?search=John%209:1-12&version=TNIV |title=John 9:1–12 |publisher=Bible Gateway |access-date=18 April 2018}}</ref> [[Jesus]] saw a man who had been blind since birth. His disciples asked him, "Rabbi, who sinned, this man or his parents, that he was born blind?" Jesus replied:
+
+<blockquote>
+Neither this man nor his parents sinned ... but this happened so that the works of God might be displayed in him. As long as it is day, we must do the works of him who sent me. Night is coming, when no one can work. While I am in the world, I am the [[light of the world]].
+</blockquote>
+
+Having said this, Jesus spat on the ground, and anointed the man's eyes with a mixture of mud and saliva. He told the blind man to go and wash in the [[Pool of Siloam]]; the Bible narrative adds that the word "Siloam" means "Sent". The man "went and washed, and came home seeing".
+
+When they saw him, those who had known him as a blind beggar asked if this was the same man. Some said that he was, while others said, "No, he only looks like him." But the man himself said, "I am the man" (Greek: ''[[ego eimi|egō eimi]]'', literally: "I am").
+
+The remainder of the chapter relates the investigation of the miracle by the Pharisees. Jesus makes use of the occasion to deliver a metaphorical teaching that he came into the world "so that the blind may see".
+
+==Interpretations==
+Parallels have been drawn between the act of Jesus in healing the blind man with a paste made of mud and spittle, and the [[Genesis creation narrative]] in which God makes man out of the dust of the earth and his own breath (Genesis 2:7). The story also contains an allusion to the Old Testament story of [[Naaman]], the leper, who was told by [[Elisha]] to cure himself by washing in the [[Jordan River]] (2 Kings 5:10).<ref>{{cite book |editor-last=Gros Louis |editor-first=Kenneth R. R. |date=1982 |last=Bishop |first=Jonathan |chapter=Encounters in the New Testament |title=Literary Interpretations of Biblical Narratives, Volume 2 |location=Nashville |publisher=Abingdon |page=287}}</ref>
+It also fulfills the prophecy of Isaiah: "Then shall the eyes of the blind be opened, and the ears of the deaf shall be unstopped. Then shall the lame man leap as a hart, and the tongue of the dumb shall be free" (Is. 35:5–6). 
+
+In the confusion over whether the healed man is identical with the beggar, it has been argued that both conclusions are correct. He is the same and not the same; he is the man who used to sit and beg, yet he is a new person.<ref>{{cite book |last=Duke |first=Paul |date=1985 |title=Irony in the Fourth Gospel |location=Atlanta |publisher=John Knox |page=119}}</ref><ref>{{cite journal |last=Holleran |first=J. Warren |date=1993 |title=Seeing the Light: A Narrative Reading of John 9 |journal=ETL |volume=69 |pages=5–26, 354–82 (at 361)}}</ref> The phrase ''egō eimi'', "I am", is frequently spoken by Jesus in the Gospel of John; the use of it here by the healed man appears to mimic this usage, and suggests that the man has found his own identity in an encounter with the divine.<ref>{{harvnb|Bishop|1982|page=288}}</ref>
+
+[[Cornelius a Lapide]] in his ''great commentary'' writes:
+<blockquote>
+The reason why God inflicted blindness on this man was that the miraculous power of Christ should be made manifest in his case, and thus Christ be acknowledged as the true Messiah. So the [[Church Fathers|Fathers]] quoted above. The [[Glossa Ordinaria]] gives the mystical meaning, that it was to signify what Christ would do in enlightening mankind in like manner by His grace, and the doctrine of the Gospel. And accordingly the man himself was enlightened not only in his body, but in his mind, as will be seen below. And therefore he suffered no wrong, but gained a benefit by his blindness (says St. [[John Chrysostom]]), for in consequence of it he beheld with the eyes of his mind, Him who from nothing brought him into being, and received from Him enlightenment both in body and in mind.<ref>Cornelius Cornelii a Lapide; Thomas Wimberly Mossman [https://www.ecatholic2000.com/lapide/untitled-170.shtml ''The great commentary of Cornelius à Lapide,''] London: J. Hodges, 1889–1896.</ref>
+</blockquote>
+
+==Tradition==
+According to Christian tradition, the man's name was [[Celidonius]].
+
+==See also==
+{{Wikiquote}}
+* [[Life of Jesus in the New Testament]]
+* [[Ministry of Jesus]]
+* [[Parables of Jesus]]
+* [[Seven signs in the Gospel of John]]
+
+==Further reading==
+*{{cite book|chapter = [[s:A Practical Commentary on Holy Scripture/XLVIII. Jesus gives Sight on the Sabbath to the Man born Blind.|XLVIII. Jesus gives Sight on the Sabbath to the Man born Blind]]|title = A Practical Commentary on Holy Scripture|year = 1910| publisher = B. Herder |author=Friedrich Justus Knecht |author-link=Justus Knecht }}
+
+==References==
+{{Reflist}}
+
+{{Jesus footer}}
+{{Gospel of John}}
+{{Miracles of Jesus|state=expanded}}
+{{Authority control}}
+
+[[Category:Miracles of Jesus]]
+[[Category:Gospel of John]]
+[[Category:Supernatural healing]]
+[[Category:Healing of the man born blind| ]]

@@ -76,6 +76,7 @@ h2 { font-size: 1.5rem; margin-top: 2.5rem; border-top: 1px solid var(--rule); p
 h3 { font-size: 1.2rem; }
 .lede { font-size: 1.25rem; }
 p.verse { margin: .5rem 0; }
+p.source { color: var(--muted); font-size: 1rem; margin: -.5rem 0 1.25rem 1rem; }
 blockquote { margin: 1rem 0; padding: .25rem 1rem; border-left: 4px solid var(--rule); }
 .table-scroll { overflow-x: auto; }
 table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
@@ -233,8 +234,13 @@ def story_page(story: dict, bible: dict, order: list[dict]) -> str:
              f'{e("; ".join(passage_label(p) for p in story["passages"]))}.</p>',
              f"<h2>What led up to it</h2><p>{e(story['around'])}</p>",
              f"<h2>What happens</h2><p>{e(story['happens'])}</p>",
-             f"<h2>In their shoes</h2><p>{e(story['shoes'])}</p>",
-             "<h2>The passage</h2>"]
+             f"<h2>In their shoes</h2><p>{e(story['shoes'])}</p>"]
+    if story.get("place_and_time"):
+        parts.append("<h2>The place and the time</h2>")
+        parts.append("<p>What the old books and the archaeologists can add. Each paragraph names its source.</p>")
+        for item in story["place_and_time"]:
+            parts.append(f"<p>{e(item['text'])}</p><p class=\"source\">Source: {e(item['source'])}</p>")
+    parts.append("<h2>The passage</h2>")
     for p in story["passages"]:
         book, ch, a, z = p
         parts.append(f"<h3>{e(passage_label(p))}</h3>")
@@ -313,6 +319,23 @@ come later.</li>
 Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. It was dedicated to the public domain on
 April 30, 2023. The official text is used word for word, as published at
 <a href="https://berean.bible">berean.bible</a>.</p>
+
+<h2>The reference shelf</h2>
+<p>For the place and the time behind each story, the site draws on works that are in the public domain or freely
+licensed, and names the source beside every statement taken from them:</p>
+<ul>
+<li>Alfred Edersheim, <cite>Sketches of Jewish Social Life in the Days of Christ</cite> (1876) and <cite>The Life and
+Times of Jesus the Messiah</cite> (1883).</li>
+<li>Josephus, <cite>The Antiquities of the Jews</cite> and <cite>The Wars of the Jews</cite>, translated by William
+Whiston.</li>
+<li><cite>Smith's Bible Dictionary</cite> (1884 edition) and the <cite>International Standard Bible Encyclopedia</cite>
+(1915).</li>
+<li>Matthew Henry's <cite>Commentary</cite>, the volumes on Genesis to Deuteronomy and Matthew to John.</li>
+<li>Wikipedia articles on the places, under the Creative Commons Attribution-ShareAlike 4.0 license, cited by
+revision date.</li>
+</ul>
+<p>These older works carry the assumptions of their time, and some speak of the Jewish people and teachers of Jesus's
+day in ways we would not. They are used for facts about places, customs and daily life, read with that in mind.</p>
 
 <h2>Made with help</h2>
 <p>The research and the site are built by Brian Clark working with Claude, an AI model made by Anthropic. Brian

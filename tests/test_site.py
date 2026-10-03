@@ -105,3 +105,20 @@ def test_story_claims_that_rest_on_a_word_in_the_text():
     assert "The blind and the lame will never enter the palace" in bible[("2 Samuel", 5, 8)]
     assert "Sabbath" in bible[("John", 9, 14)] and "Brother Saul" in bible[("Acts", 9, 17)]
     assert "Having eyes, do you not see?" in bible[("Mark", 8, 18)]
+
+
+def test_place_and_time_items_are_sourced_and_rest_on_the_shelf():
+    import stories as st
+    shelf = ROOT / "data" / "raw" / "shelf"
+    squash = lambda x: re.sub(r"\s+", " ", x)          # noqa: E731
+    eder = squash((shelf / "edersheim_life_and_times.txt").read_text(encoding="utf-8"))
+    wars = squash((shelf / "josephus_wars_pg2850.txt").read_text(encoding="utf-8"))
+    siloam = (shelf / "wikipedia_Pool_of_Siloam.wiki.txt").read_text(encoding="utf-8")
+    for x in st.STORIES:
+        for item in x.get("place_and_time", []):
+            assert item["source"].strip() and len(item["text"]) > 40, x["slug"]
+    # the quoted words really are in the sources
+    assert "a fountain which hath sweet water in it" in wars
+    for phrase in ("Gain merit by me", "specially entitled to charity", "made by King Hezekiah", "golden pitcher"):
+        assert phrase in eder, phrase
+    assert "2004" in siloam and "Shukron" in siloam

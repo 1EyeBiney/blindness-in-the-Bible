@@ -1,0 +1,127 @@
+<!-- title: Cultural depictions of blindness; revid: 1369160947; timestamp: 2026-08-13T07:06:36Z -->
+{{short description|none}}
+[[File:Brodowski Oedipus and Antigone.png|thumb|''Oedipus and Antigone'' ([[Antoni Brodowski]], 1828)]]
+The theme of [[blindness]] has been explored by many different cultures throughout history, with blind characters appearing in stories from ancient Greek mythology and Judeo-Christian religious texts. In the modern era, blindness has featured in numerous works of literature and poetry by authors such as [[William Shakespeare]], [[William Blake]], and [[H. G. Wells]], and has also been a recurring trope in film and other visual media.
+
+==Religion and mythology==
+* In Greek mythology:
+** [[Oedipus]] is depicted as blinding himself in the [[Sophocles]] play ''[[Oedipus Rex]]''. Upon discovering that he has unknowingly killed his father and married his mother, Oedipus bursts into his wife's bed-chamber and discovers that she has hanged herself. Taking the brooches from her dress, he drives the pins into his eyes, exclaiming: "You have looked enough upon those you ought never to have looked upon".<ref>{{cite book |year=1928 |translator=W.B. Yeats |title=Sophocles' King Oedipus |url=https://archive.org/details/YeatsOedipus/page/n13/mode/2up |page=396}}</ref> In Sophocles's ''[[Oedipus at Colonus]]'', Oedipus is a wandering outcast, led and supported by his daughter [[Antigone]]. Although this is the best-known version of the story, an alternative tradition is preserved in the surviving fragments of [[Euripides]]'s ''[[Oedipus (Euripides)|Oedipus]]'', according to which Oedipus was blinded by a servant of his father, [[Laius]].
+** [[Evenius]]/Peithenius from [[Apollonia (Illyria)|Apollonia]] was tasked with guarding the sacred sheep of the sun god [[Helios]], but failed at his task, as the sheep were devoured by wolves, and the Apollonians in retaliation blinded him. A famine then broke out, as a result of Helios' anger over the treatment of Evenius; the Apollonians then consulted the Oracle of Delphi, which ordered them to compensate Evenius by offering him reparations. The earth grew fertile again, and the gods additionally blessed Evenius with the gift of prophecy.<ref>[[Herodotus]], ''Histories'' [http://www.perseus.tufts.edu/hopper/text.jsp?doc=Hdt.+9.93&fromdoc=Perseus%3Atext%3A1999.01.0126 9.93][http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D9%3Achapter%3D94 -94]; [[Conon (mythographer)|Conon]], ''Narrations'' [https://www.tertullian.org/fathers/photius_copyright/photius_05bibliotheca.htm 40]; {{cite book | page = [https://books.google.com/books?id=gUsiqGlSzegC&pg=PA170 170] | title = Caves and the Ancient Greek Mind: Descending Underground in the Search for Ultimate Truth | last1 = Ustinova | first1 = Yulia | publisher = [[Oxford University Press]] | date = 2009 | isbn = 978-0-19-954856-9 | url = https://books.google.com/books?id=gUsiqGlSzegC}}</ref> 
+** There are many stories in which the gods inflict blindness on mortals, often as a punishment for disrespect, or for violating a taboo. One well-known example is the prophet [[Tiresias]], whose blindness is ascribed to various causes. According to one story, it was a punishment for revealing the secrets of the gods; according to another, he was struck blind after accidentally witnessing [[Athena]] bathing; in a third, he was blinded by [[Hera]] after taking [[Zeus]]'s side in a dispute.<ref>{{cite book |translator-last=Frazer |translator-first=James George |url=https://www.perseus.tufts.edu/hopper/text?doc=Apollod.+3.6.7 |author=Apollodorus |title=The Library}} Hosted at Perseus Digital Library.</ref> Meanwhile, [[Erymanthus (mythology)|Erymanthus]] was blinded by the goddess [[Aphrodite]] when he saw her bathing naked after she had had sex with her lover [[Adonis]].<ref>{{cite book | title = Greek Mythography in the Roman World | last = Cameron | first = Alan | publisher = [[Oxford University Press]] | date = 2004 | isbn= 0-19-517121-7 | url = https://books.google.com/books?id=gZk6DwAAQBAJ | location = New York City, New York | page = [https://books.google.com/books?id=gZk6DwAAQBAJ&pg=PA152 152]}}</ref> Other examples of mythological characters blinded by the gods include [[Lycurgus of Thrace|Lycurgus]], [[Thamyris]], [[Aepytus II of Arcadia|Aepytus II]], [[Phineus]], [[Ilus (son of Tros)|Ilus]], [[Rhoecus of Cnidus|Rhoecus]],<ref>{{cite encyclopedia | encyclopedia = [[Brill's New Pauly]] | publisher = Brill Reference Online | url = https://referenceworks.brill.com/display/entries/NPOE/e1022780.xml | doi = 10.1163/1574-9347_bnp_e1022780 | last = Johannsen | first = Nina | location = Kiel | title = Rhoecus | date = October 1, 2006 | editor-first1 = Hubert | translator = Christine F. Salazar | issn = 1574-9347 | editor-last1 = Cancik | editor-first2 = Helmuth | editor-last2 = Schneider | access-date = December 31, 2024| url-access = subscription }}</ref> and [[Anchises]].<ref name=Tatti>{{harvnb|Tatti-Gartziou|2010}}</ref>
+** Characters blinded not by gods but by humans include [[Polyphemus]], [[Phoenix (son of Amyntor)|Phoenix]], [[Plexippus]] and [[Pandion (mythology)|Pandion]], [[Polymestor]], and [[Metope (mythology)|Metope]].<ref name=Tatti/>
+** Sometimes, blind people in Greek mythology are granted special abilities by way of compensation. Tiresias and Evenius received the gift of prophecy, and the poet [[Demodocus (Odyssey character)|Demodocus]] was granted a beautiful voice.
+*There are several blind figures in the [[Hebrew Bible]]:
+**[[Lot (biblical person)#Lot's visitors|Lot's visitors]] in [[Book of Genesis|Genesis]] 19 inflicted blindness on the [[Sodom and Gomorrah|Sodom]]ite mob who had demanded that Lot send them out of his house so that they might "know", i.e. rape, them.<ref>{{bibleverse|Genesis|19:11}}</ref>
+**In [[Genesis 27]], [[Jacob]] takes advantage of his father [[Isaac]]'s blindness to steal the blessing intended for his elder brother [[Esau]]. He dresses himself in Esau's clothes, and wraps goatskins around his hands and neck. Isaac recognises Jacob's voice, but is deceived by the smell of his garments and the hairiness of his hands, and therefore gives him the blessing.<ref>{{bibleref|Genesis|27|HE}}</ref>
+**In [[Book of Judges|Judges]] 16, [[Samson]] is captured by the [[Philistines]], who put out his eyes and set him to forced labour. On the occasion of a great religious festival, Samson is brought into the temple of [[Dagon]], for the entertainment of the Philistines assembled there. However, to avenge himself for the loss of his eyes, Samson topples the two central pillars and brings down the roof of the temple, killing himself and everyone within.<ref>{{bibleref|Judges|16:21-31|HE}}</ref>
+**In [[1 Samuel]] 3, the high priest [[Eli (biblical figure)|Eli]] becomes blind with age, at the time of the calling of [[Samuel]].<ref>{{bibleref|1 Samuel|3|HE}}</ref> In chapter 4, following the capture of the [[Ark of the Covenant]] by the Philistines, Eli enquires about the cause of the commotion in the city. When he is told that the Ark has been taken, he falls backwards out of his seat and breaks his neck.<ref>{{bibleref|1 Samuel|4:13-18|HE}}</ref>
+**In [[1 Kings]] 14, the son of the Israelite king [[Jeroboam]] falls sick, and Joroboam sends [[Jeroboam's wife|his wife]] to consult the blind prophet [[Ahijah the Shilonite|Ahijah]]. She disguises herself, intending to conceal her identity, but Ahijah is informed by God that she is coming. As soon as she enters, therefore, he addresses her as the wife of Jeroboam, and tells her that the child will die.<ref>{{bibleref|1 Kings|14:1-18|HE}}</ref>
+*In the [[deuterocanonical books|deuterocanonical]] [[Book of Tobit]], Tobit loses his sight when sparrow droppings fall into his eyes. He becomes dependent on his wife, and prays for death, but God sends the angel [[Raphael (archangel)|Raphael]] in answer to his prayers. Raphael shows Tobit's son, Tobias, how to use the [[bile|gall]] of a fish to cure blindness; Tobias anoints his father's eyes with the gall, and he is healed.<ref>{{bibleref|Tobit|2}}, {{bibleverse-nb|Tobit|3}}, {{bibleverse-nb|Tobit|6}}, {{bibleverse-nb|Tobit|11}}</ref>
+*In the Christian [[New Testament]], Jesus performs a miraculous healing of the blind on several occasions:
+**All three [[synoptic gospels]] give an account of Jesus [[healing the blind near Jericho]]. In each of these stories, a blind beggar hears that Jesus is passing by, and cries out "Jesus, Son of David, have mercy on me". The crowd rebukes the beggar, but Jesus calls him forward and heals him with a word, or by touching his eyes.<ref>{{bibleref|Mark|10:46-52|KJV}}; {{bibleref|Matthew|20:29-34|KJV}}; {{bibleref|Luke|18:35-43|KJV}}; see also {{bibleref|Matt|9:27-31|KJV}}</ref>
+**In another story in the [[Gospel of Mark]], Jesus heals a [[blind man of Bethsaida]] by rubbing spittle into his eyes. After the first application, his vision is still imperfect, but when Jesus places his hands over the man's eyes a second time, his sight is completely restored.<ref>{{bibleref|Mark|8:22-26|KJV}}</ref>
+**In the [[Gospel of John]], Jesus [[healing the man blind from birth|heals a man who was blind from birth]], which is said in the narrative to be the only time that such a thing had been done. The cure in this story is more complex; Jesus anoints the man's eyes with a mixture of clay and spittle, then tells him to wash them in the [[Pool of Siloam]]. Jesus later makes use of this miracle as a metaphor, explaining that he came into the world so that the blind might see, and condemning the spiritual blindness of the Pharisees.<ref>{{bibleref|John|9|KJV}}</ref>
+* In Norse mythology, [[Höðr]] is a blind god, who is tricked by [[Loki]] into killing [[Baldr]].
+
+==Literature and theatre==
+* In [[Philip Sidney]]'s 16th-century work ''[[The Countess of Pembroke's Arcadia|Arcadia]]'', the princes Pyrocles and Musidorus encounter an elderly blind man, who is entreating his son, Leonatus, to lead him to the top of a cliff so that he might throw himself off. The blind man was once a king, but he explains to the princes how he was persuaded by an illegitimate son, Plexirtus, to order the death of his other son, Leonatus. Plexirtus, believing Leonatus to be dead, then usurped the throne and put out his father's eyes. After hearing this story, Pyrocles and Musidorus help to defeat Plexirtus and install Leonatus on the throne, at which point the blind king dies suddenly from an excess of emotion.<ref>{{cite book |last=Sidney |first=Philip |year=1912 |orig-year=1590 |url=https://archive.org/details/cu31924013123165/page/n211/mode/2up |title=The Countess of Pembroke's Arcadia |publisher=Cambridge University Press |pages=206–212}}</ref>
+* A sub-plot of [[William Shakespeare]]'s ''[[King Lear]]'' takes inspiration from the story of the blind king in ''Arcadia''. The Earl of Gloucester is betrayed by his illegitimate son Edmund, which eventually results in Gloucester's eyes being plucked out by Lear's daughter Regan and her husband. Having been turned out by Regan onto the heath, Gloucester encounters his first-born son Edgar, but doesn't recognise him, and asks him to lead him to a clifftop. Unwilling to do so, Edgar tricks Gloucester into believing himself to have fallen from a cliff and miraculously survived. When Edgar finally reveals his identity to his father, Gloucester suffers heart failure and dies.
+* ''[[King Arthur (opera)|King Arthur]]'', a 17th-century opera by [[Henry Purcell]] and [[John Dryden]], features a blind woman named Emmeline, who is engaged to [[King Arthur]]. Having been blind from birth, she is portrayed as having very confused ideas about the world—she is unaware, for instance, that there is any physical difference between herself and Arthur, and later expresses a belief that his face is made of gold. Her blindness is eventually cured through [[Merlin]]'s magic.
+* In [[William Blake]]'s 18th-century poem "[[Tiriel (poem)|Tiriel]]", the titular [[Tiriel (character)|Tiriel]] goes blind with age and grief, blaming his condition on his rebellious sons. He delivers a curse which kills almost all of his children, and then commands his youngest and only surviving daughter, Hela, to lead him to the Vales of Har, where his own parents live. Upon arrival there, he curses his parents and dies at their feet.
+*''[[The Man Who Laughs]]'', an 1869 novel by [[Victor Hugo]], features a blind girl named Dea.
+* In ''[[Mithyabhiman]]'', an 1871 comic play in the [[Gujarati language]], the protagonist's attempts to conceal his [[nyctalopia]] (night-blindness) involves him in a series of difficult situations.
+* ''[[Marianela (novel)|Marianela]]'' is an 1878 Spanish novel by [[Benito Pérez Galdós]], in which a blind boy falls in love with an unattractive girl, who is afraid to meet him when he recovers his sight. 
+* "[[The Country of the Blind]]" by [[H. G. Wells]] tells the story of a mountaineer who finds himself stranded in an isolated valley inhabited entirely by blind people. Remembering the proverb, "In the Country of the Blind the One-eyed Man is King", he attempts to establish himself as ruler of the country, but finds himself unable to explain the concept of sight to them, or to satisfactorily demonstrate the advantages of it, and the community considers him delusional.
+*[[Max Carrados]] is a fictional blind detective created by [[Ernest Bramah]], appearing in several works published between 1914 and 1934. 
+* In [[Samuel Beckett]]'s play ''[[Waiting for Godot]]'', the character of [[Pozzo (Waiting for Godot)|Pozzo]] is struck blind between the first and second acts.
+* In [[John Wyndham]]'s 1951 novel ''[[The Day of the Triffids]]'', a large proportion of the world's population becomes blind overnight, after witnessing an unusual meteor shower. This deprives humanity of its one advantage over the poisonous ambulatory plants known as triffids, and leads to an apocalyptic breakdown of society.
+* ''[[Butterflies Are Free (play)|Butterflies Are Free]]'' is a 1969 play by [[Leonard Gershe]], about a blind man's relationship with a free-spirited hippy, which was adapted into [[Butterflies Are Free|a 1972 movie]].
+* In ''[[The Cay]]'', a 1969 teen novel by [[Theodore Taylor (author)|Theodore Taylor]], a blind boy is stranded on an island following a shipwreck.
+* In [[Frank Herbert]]'s ''[[Dune (franchise)|Dune]]'' series, the character of [[Paul Atreides]] is blinded by exposure to radiation, but retains the ability to see by means of his precognitive powers.
+*''[[The Parable of the Blind (novel)|The Parable of the Blind]]'' is a 1985 German novel by [[Gert Hofmann]], about six blind men who serve as models for the [[Pieter Bruegel the Elder|Pieter Bruegel]] painting ''[[The Blind Leading the Blind]]''.
+* The plot of ''[[Asuryalok]]'', a 1987 Gujarati novel by [[Bhagwatikumar Sharma]], revolves around a family's hereditary blindness.
+* ''[[How Late It Was, How Late]]'', a 1994 novel by [[James Kelman]], focuses on the struggle of a working-class ex-convict to cope with a sudden onset of blindness.
+* ''[[Blindness (novel)|Blindness]]'', a 1995 Portuguese novel by [[José Saramago]], depicts the social breakdown which follows an epidemic of blindness.
+* ''[[The Insult (novel)|The Insult]]'' is a 1996 novel by [[Rupert Thomson]], in which a blind man insists that he is able to see.
+* ''[[Sound of Colors (book)|Sound of Colors]]'', a 2001 Taiwanese children's book by [[Jimmy Liao]], explores the thoughts of a blind girl travelling on the subway.
+* ''[[The Million Dollar Putt]]'' is a 2006 children's novel by [[Dan Gutman]], in which a blind teenager takes part in a golf tournament.
+* ''[[Massage (novel)|Massage]]'' is a 2008 Chinese novel by [[Bi Feiyu]], about blind masseurs.
+*''[[All the Light We Cannot See]]'', a 2014 novel by [[Anthony Doerr]], tells the story of a blind French girl during [[World War II]].
+
+===Non-fiction===
+* [[John Milton]], "[[When I Consider How My Light is Spent]]", a 17th-century sonnet, is thought to be a reflection on his loss of sight.
+* [[James Wilson (author)|James Wilson]], ''Biography of the Blind'' (1820), a history of blind people, and Wilson's own autobiography<ref name=":1">{{Cite book |last=Turner|first=David|title=Disability|date=4 June 2026|publisher=Penguin Random House|isbn=9781847927583}}</ref>
+* [[Helen Keller]] wrote several autobiographical works, beginning with ''[[The Story of My Life (biography)|The Story of My Life]]'' in 1903 (which inspired a 1959 Broadway play, ''[[The Miracle Worker (play)|The Miracle Worker]]'').
+*''[[A Girl and Five Brave Horses]]'' is a 1961 memoir by [[Sonora Webster Carver]], a blind [[diving horse|horse diver]].
+*''If You Could See What I Hear'' is a 1975 book by blind musician [[Tom Sullivan (singer)|Tom Sullivan]], which was adapted into [[If You Could See What I Hear|a 1982 movie]].
+* ''[[A Sense of the World]]'', by [[Jason Roberts (author)|Jason Roberts]], is a 2006 biography of the 19th-century British traveller [[James Holman]], the first blind person to circumnavigate the globe.
+
+==Art==
+{{main|Visual impairment in art}}
+
+== Film and television ==
+
+{{see also|Category:Films about blind people}}
+
+* ''[[City Lights]]'' is a 1931 [[Charlie Chaplin]] film in which "The Tramp" falls in love with a blind girl.
+* ''[[The Tale of Zatoichi]]'' is a 1962 film about a blind masseur and swordsman (the first in a series of 26 films starring the character of [[Zatoichi]]).
+* ''[[A Patch of Blue]]'' is a 1965 film about the friendship between an educated black man and an illiterate, blind, white girl.
+* ''[[Tommy (1975 film)|Tommy]]'' is a 1975 film adaptation of a rock opera by [[The Who]], about a boy who is psychosomatically deaf, mute, and blind.
+*''[[Star Trek: The Next Generation]]'', a 1987–1994 TV series, features blind character [[Geordi La Forge]], who makes use of technological devices that allow him to see.
+* "[[Many, Many Monkeys]]" is a 1989 episode of ''[[The Twilight Zone (1985 TV series)|The Twilight Zone]]'', in which an epidemic of blindness is described as a judgement upon society for "turning a blind eye" to the sufferings of others.
+* ''[[Proof (1991 film)|Proof]]'' is a 1991 film about a blind photographer, who distrusts other people's descriptions of the world around him.
+* ''[[Scent of a Woman (1992 film)|Scent of a Woman]]'', a 1992 remake of a [[Scent of a Woman (1974 film)|1974 Italian film]], is about a student who takes a job as an assistant to an irritable blind man.
+* In the 1995 ''[[X-Files]]'' episode "2Shy" (season three, episode 6), [[Aloka McLean]] plays Jesse Landis, a blind [[preadolescence|pre-teen]] who discovers the murder of her mother primarily by smelling her perfume in the murderer's apartment.
+* ''[[Colors of the Blind]]'' is a 1997 Chinese film about a blind girl training to become a competitive sprinter.
+* ''[[Ray (film)|Ray]]'' is a 2004 biographical film which focuses on 30 years in the life of blind musician [[Ray Charles]].
+* ''[[Black (2005 film)|Black]]'' is a 2005 film about a deafblind woman's relationship with her teacher.
+* ''[[Avatar: The Last Airbender]]'', a 2005–2008 TV series, features blind character [[Toph Beifong]].
+* ''[[Love and Honor (2006 film)|Love and Honor]]'' is a 2006 Japanese film about a blind samurai.
+* ''[[Blind (2011 film)|Blind]]'' is a 2011 South Korean film in which a blind woman helps to track down a murderer. 
+* ''[[What They Don't Talk About When They Talk About Love]]'' is a 2013 Indonesian film about two visually impaired teenage girls in search of love.
+* ''[[Blind (2014 film)|Blind]]'' is a 2014 film about a blind woman who succumbs to paranoia.
+* ''[[Daredevil (TV series)|Daredevil]]'' is a 2015-18 TV series produced by Marvel featuring protagonist Matthew Murdock, a blind vigilante and lawyer.
+* ''[[Don't Breathe]]'' is a 2016 horror film, in which three friends get trapped inside a blind man's house while breaking into it.
+* ''[[Notes on Blindness]]'' is a 2016 documentary film about [[John M. Hull]], blind theologian and author of ''Touching the Rock: An Experience of Blindness''.
+* ''[[In the Dark (American TV series)|In the Dark]]'' is a 2019 TV series about a blind woman attempting to solve a murder.
+* ''[[See (TV series)|See]]'' is a 2019 science-fiction TV series, set in a post-apocalyptic world in which the human race has lost the sense of sight.
+* ''[[Daredevil: Born Again]]'' is a 2025 TV series and follow up to 2015's ''Daredevil''.
+
+==Other media==
+*Several blind characters have been created by [[Marvel Comics]], including [[Daredevil (Marvel Comics character)|Daredevil]], [[Blind Al]], [[Blindfold (character)|Blindfold]], [[Destiny (Irene Adler)|Destiny]], [[Madame Web]], and [[Julia Carpenter]].
+*Blind characters created by [[DC Comics]] include [[Doctor Mid-Nite]] and [[Crazy Quilt]].
+*[[Kenshi (Mortal Kombat)|Kenshi Takahashi]] is a blind swordsman created for the ''[[Mortal Kombat]]'' video game series.
+
+==Notes==
+{{reflist}}
+
+==Further reading==
+* {{cite journal |last=Buxton |first=R. G. A. |date=1980 |title=Blindness and Limits: Sophokles and the Logic of Myth |journal=The Journal of Hellenic Studies |volume=100 |pages=22–37 |doi=10.2307/630730|jstor=630730 }}
+* {{cite journal |last=Halliwell |first=Martin |date=July 2009 |title='No place to go, see': blindness and World War II demobilization narratives |journal=Journal of Literary & Cultural Disability Studies |volume=3 |issue=2 |pages=163–182|doi=10.1353/jlc.0.0018|s2cid=145599072 }}
+* {{cite book |last=Hartsock |first=Chad |date=2008 |title=Sight and Blindness in Luke-Acts |publisher=Brill}}
+* {{cite web |last=Jernigan |first=Kenneth |date=1974 |url=http://www.blind.net/bpba1974.htm |title=Blindness: Is Literature Against Us? |publisher=National Federation of the Blind|archive-url=https://web.archive.org/web/20040417060049/http://www.blind.net/bpba1974.htm |archive-date=2004-04-17 }}
+* {{cite journal |last1=Koosed |first1=Jennifer L. |last2=Schumm |first2=Darla |date=2005 |title=Out of the Darkness: Examining the Rhetoric of Blindness in the Gospel of John |url=https://dsq-sds.org/article/view/528/705 |journal=Disability Studies Quarterly |volume=25 |issue=1|doi=10.18061/dsq.v25i1.528 |doi-access=free }}
+* {{cite journal |last=Langworthy |first=Jessica L. |date=1930 |title=Blindness in Fiction: A Study of the Attitude of Authors Towards Their Blind Characters |url=https://archive.org/details/blindnessinficti00byje/mode/2up |journal=Journal of Applied Psychology |volume=14 |issue=3 |pages=269–286 |doi=10.1037/h0073060}}
+* {{cite book |last=Larrissy |first=Edward |date=2007 |title=The Blind and Blindness in Literature of the Romantic Period |publisher=Edinburgh University Press}}
+* {{cite journal |last=Rodas |first=Julia Miele |date=July 2009 |title=On Blindness |journal=Journal of Literary & Cultural Disability Studies |volume=3 |issue=2 |pages=115–130|doi=10.1353/jlc.0.0013}}
+* {{cite book |last=Tatti-Gartziou |first=Ariadni |date=2010 |chapter=Blindness as Punishment |title=Light and Darkness in Ancient Greek Myth and Religion |publisher=Lexington Books |pages=200–210}}
+* {{cite journal |last1=Trompoukis |first1=C. |last2=Kourkoutas |first2=D. |date=2007 |title=Greek mythology: the eye, ophthalmology, eye disease, and blindness |journal=Canadian Journal of Ophthalmology |volume=42 |issue=3 |pages=455–459 |doi=10.3129/can.j.ophthalmol.i07-052 |pmid=17508044}}
+
+*{{cite book
+| last = Warne
+| first = Vanessa
+| title = By Touch Alone: Blindness and Reading in Nineteenth-Century Culture
+| publisher = University of Michigan Press
+| location = Ann Arbor
+| year = 2025
+| series = Corporealities: Discourses of Disability
+| pages = 218
+| isbn = 978-0-472-05751-1
+| doi = 10.3998/mpub.12860987}}
+
+
+
+[[Category:Blindness]]
+[[Category:Works about blind people]]
+[[Category:Cultural depictions of disabled people]]
+[[Category:Mythological blind people|*]]

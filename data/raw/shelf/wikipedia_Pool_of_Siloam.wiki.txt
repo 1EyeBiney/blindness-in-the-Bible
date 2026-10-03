@@ -1,0 +1,104 @@
+<!-- title: Pool of Siloam; revid: 1360299960; timestamp: 2026-06-20T15:31:05Z -->
+{{for the|place called Siloam|Silwan}}
+{{Short description|Rock-cut pools in Jerusalem}}
+{{Use dmy dates|date=February 2024}}
+{{multiple image
+|image1=Pool of Siloam and Lower (Old) Pool in the Ordnance Survey of Jerusalem.png
+|image2=Pools of Siloam in the 1936 Old City of Jerusalem map by Survey of Palestine map 1-2,500 (cropped).jpg
+|caption1=[[Ordnance Survey of Jerusalem]]
+|caption2=[[Survey of Palestine]]
+|width1=286
+|width2=220
+|footer= The Pool of Siloam and Lower (Old) Pool}}
+The term '''Pool of Siloam''' ({{langx|he|בְּרֵכַת הַשִּׁילוֹחַ|Bərēḵaṯ hašŠilōaḥ}}, {{langx|apc|بِرْكَة سِلْوَان|Birkat Silwān}}) refers to several [[rock-cut architecture|rock-cut]] pools located southeast of the walls of the [[Old City of Jerusalem]]. The pools were fed by the waters of the [[Gihon Spring]], carried there by the [[Siloam tunnel]].<ref name="h602">{{cite web | last=Weinthal | first=Benjamin | title=Biblical site where Jesus healed blind man excavated for public view: 'Affirms Scripture' | website=New York Post | date=2 January 2023 | url=https://nypost.com/2023/01/02/biblical-site-where-jesus-healed-blind-man-excavated-for-public-view-affirms-scripture/ | access-date=22 July 2025}}</ref><ref name="z691">{{cite web | last=Weinthal | first=Benjamin | title=Biblical site where Jesus healed blind man excavated for public view: 'Affirms Scripture' | publisher=Fox News | date=2 January 2023 | url=https://www.foxnews.com/world/biblical-site-where-jesus-healed-blind-man-excavated-public-view-affirms-scripture | access-date=22 July 2025}}</ref>
+
+The '''Lower Pool''' or "Old Pool" ({{lang|he| הַבְּרֵכָ֣ה הַיְשָׁנָ֑ה}}, according to [[Isaiah 22]]:11<ref name="CODrevisit">The City of David; revisiting early excavations; English translations of reports by Raymond Weill and L-H. Vincent/ notes and comments by Ronny Reich; edited by Hershel Shanks. pp. 197–227.</ref>{{efn|For a description of which, see [[Ermete Pierotti|Pierotti, Ermete]] (1864), ''Jerusalem explored: being a description of the ancient and modern city, with numerous illustrations consisting of views, ground plans, and sections'', London: Bell and Daldy; Cambridge: Deighton, Bell and Co., pp. [https://archive.org/details/gri_33125012261307/page/30/mode/2up 31], [https://archive.org/details/gri_33125012261307/page/186/mode/2up 187]}}) was historically known in [[Palestinian Arabic]] as '''Birket el-ḥamra''' "the Red Pool."{{fact|date=June 2025}}
+
+==History==
+{{multiple image
+|image1=Ain Silwan.jpg
+|image2=Birket Hamra.jpg
+|caption1=Ain Silwan
+|caption2=Birket Hamra
+|footer=The pools in 1907}}
+During the [[Second Temple period]], the Pool of Siloam was centrally located in the Jerusalem suburb of [[Acra (fortress)|Acra]] ({{Langx|he|חקרא}}), also known as the Lower City.<ref>[[Josephus]], ''[[The Jewish War]]'' 6.6.3 ([https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0148%3Abook%3D6%3Awhiston+chapter%3D6%3Awhiston+section%3D3 6.351]; 6.7.2. ([https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0148%3Abook%3D6%3Awhiston+chapter%3D7%3Awhiston+section%3D2 6.363])</ref>
+Today, the Pool of Siloam is the lowest place in altitude within the historical city of Jerusalem, with an elevation of about {{convert|625|m|ft|}} above sea level.<ref name= "AItzhaki1980">{{cite book |editor=Rubenstein, Chaim |author=Arie Itzhaki |title=Israel Guide – Jerusalem|volume=10 |publisher=Keter Publishing House, in affiliation with the Israel Ministry of Defence |location=Jerusalem|year=1980|page=165 |language=he|oclc=745203905 }}</ref> The ascent from it unto the [[Temple Mount]] meant a [[Grade (slope)|gradient]] of {{convert|115|m|ft|}} in altitude at a linear distance of about {{convert|634|m}}, with a mean elevation in the Temple Mount of {{convert|740|m|ft|}} above sea level.<ref name= "AItzhaki1980"/> According to the [[Jerusalem Talmud]], [[Hagigah]], the Pool of Siloam was the starting point for pilgrims who made the annual pilgrimage to Jerusalem, and where they ascended by foot to the inner court of the Temple Mount to bring an [[Sacrificial animal#Abrahamic traditions|offertory]] to the Temple Court.<ref>[[Moses Margolies]]' commentary ''Pnei Moshe'' on [[Jerusalem Talmud]] (''[[Hagigah]]'' 1:1 [https://www.mechon-mamre.org/b/r/r2b01.htm 3a–b]), s.v. {{Script/Hebrew|נישמעינה מן הדא}}, being an explanation of [[Mishnah]] (''Hagigah'' 1:1), "Anyone that cannot...go up from Jerusalem to the Temple Mount."</ref> The Pool of Siloam (perhaps referring to the Lower Pool) was used by pilgrims for [[ritual purification]] before visiting the Temple enclosure.<ref>{{cite book|last=Galor|author-link=Katharina Galor|first=Katharina|title=Finding Jerusalem: Archaeology between Science and Ideology|url=https://books.google.com/books?id=8lj0DwAAQBAJ|date=2017|publisher=University of California Press|page=124 |isbn=978-0-520-96807-3}}, Chapter 7: ''The City of David / Silwan''</ref>
+
+===Hezekiah===
+The Pool of Siloam was built during the reign of [[Hezekiah]] (715–687/6 BCE) to leave besieging armies without access to the spring's waters. The newly constructed [[Siloam tunnel]] fed the pool. An older Canaanite tunnel had been vulnerable to attackers, so, under threat from the Assyrian king [[Sennacherib]], Hezekiah sealed the old outlet of the Gihon Spring and built the new underground Siloam tunnel in place of the older tunnel ([[Books of Chronicles]], {{Bibleverse||2 Chronicles|32:2–4|HE}}).{{Primary source inline|date=October 2024}}
+
+During this period the Pool of Siloam was sometimes known as the '''Lower Pool''' according to Isaiah 22:9, as opposed to the more ancient Upper Pool mentioned in [[2 Kings 18]]:17 and [[Isaiah 7:3]]<ref name="CODrevisit"/> formerly fed by the older Canaanite tunnel.
+
+===Second Temple period===
+[[File:1730 Street Map or Plan of Jerusalem - Geographicus - Jerusalem-uk-1730.jpg|thumb|upright=1.2|1730 map showing Jerusalem in Jesus' time, with the Pool of Siloam ("Siloe") outside the city wall at the lower right]]
+[[File:City of davidDSCN4616.JPG|thumb|upright=1.2|left|Artist's reconstruction of the pool in the Second Temple period]]
+The pool was reconstructed no earlier than the reign of [[Alexander Jannaeus]] (103–76 BCE), although it is not clear whether this pool was in the same location as the earlier pool built by Hezekiah – if so, all traces of the earlier construction have been destroyed. The pool remained in use during the time of [[Jesus]]. According to the [[John 9]], Jesus sent [[healing the man blind from birth|a man blind from birth]] to the pool to complete his healing. As a freshwater reservoir, the pool would have been a major gathering place for ancient Jews making religious pilgrimages to the city. Some scholars, influenced by Jesus commanding the blind man to wash in the pool, suggest that it was probably used as a [[mikvah]] (ritual bath).<ref>{{Bibleverse||John|9:6–11|}}</ref>
+
+The pool was destroyed and covered after the [[First Jewish–Roman War]] in 70 CE. Dating was indicated by several coins discovered on the stones of the patio near the pool to the north from the days of the War. The latest coin is dated "4 years to the day of the Great Revolt, " meaning 69 CE. In the years following the destruction, winter rains washed [[alluvial|alluvia]] from the hills to the valley and down the slopes of [[Mount Zion]] to the west of the pool; the pool was filled with silt layers (up to 4m in some places) until it was covered completely.
+
+===Late Roman and Byzantine periods===
+[[File:Siloam72.jpg|thumb|The [[Byzantine]] pool of Siloam]]
+[[File:TRISTRAM(1870) p058 THE POOL OF SILOAM.jpg|thumb|right|Handcolored photo of the site (c. 1865)]]
+
+Roman sources mention a ''Shrine of the Four Nymphs'' (''Tetranymphon''), a [[nymphaeum]] built by [[Hadrian]] during the construction of [[Aelia Capitolina]] in the year 135<ref>Dave Winter, ''Israel handbook'', (1999), p. 180.</ref><ref>André Grabar, ''Martyrium'', (1946), volume 1, p. 193.</ref><ref>E. Wiegand, ''The Theodosian Monastery'', (1929), volume 11, pp. 50–72</ref> and mentioned in Byzantine works such as the 7th-century ''[[Chronicon Paschale]]''; other nymphaea built by Hadrian, such as that at [[Sagalassos]], are very similar.<ref>for example, see [http://www.akmedanmed.com/resim/3/13_1.jpg this view] {{Webarchive|url=https://web.archive.org/web/20181103215547/http://www.akmedanmed.com/resim/3/13_1.jpg |date=2018-11-03 }}</ref> It is unlikely that this shrine was built on the site of the Second Temple Pool of Siloam, but it may have been a precursor to the Byzantine reconstruction.
+
+In the [[5th century]], a pool was constructed at the end of the Siloam tunnel at the behest of [[Aelia Eudocia]], [[queen consort|empress consort]] of the [[Byzantine Empire]]. This pool survives today, surrounded by a high stone wall with an arched entrance to Hezekiah's Tunnel. The pool is around {{convert|70|yd}} from the [[Second Temple period]] Lower Pool and is significantly smaller. Until the discovery of the Second Temple pool, this pool was wrongly thought to be the one described in the [[New Testament]] and Second Temple sources.
+
+==Archaeological research==
+===19th and 20th centuries===
+Archaeologists excavating the site around the Pool of Siloam in the 1880s noted that there was a stairway of 34 rock-hewn steps to the west of the Pool of Siloam leading up from a court in front of the Pool of Siloam.<ref name="QuarterlyStatement1897">{{cite journal |last=Bliss |first=F. J. |author-link1=F.J. Bliss |year=1897 |title=Eleventh Report of the Excavations at Jerusalem |url=https://archive.org/details/quarterlystateme29pale/page/n3/mode/2up |journal=Quarterly Statement – Palestine Exploration Fund |volume=29 |pages=[https://archive.org/details/quarterlystateme29pale/page/n27/mode/2up 11], 13}}</ref> The breadth of the steps varies from {{convert|27|ft|abbr=on}} at the top to {{convert|22|ft|abbr=on}} at the bottom.<ref name="QuarterlyStatement1897"/>
+
+The remnants of an ancient wall dating to the [[Bronze Age]] were unearthed near the older Pool of Siloam, known also as the "Lower Pool," and in Arabic as ''Birket al-Ḥamrah'', during the excavations conducted by [[Frederick J. Bliss|F. J. Bliss]] and A. C. Dickie (1894–1897).<ref name="Yitzhaki">{{cite book |last=Barkay |first=Gabriel |author-link=Gabriel Barkay |contribution=City of David (עיר דוד) |title=Israel Guide – Jerusalem (A useful encyclopedia for the knowledge of the country) |editor=Chaim Rubenstein |publisher=Keter Publishing House, in affiliation with the Israel Ministry of Defence |year=1980 |volume=10 |location=Jerusalem, Israel |pages=166–167 |lang=he |oclc=745203905 }}</ref> At the "Lower Pool" of Siloam there was a [[weir]] (levee), used to raise the level of water upstream or to regulate its flow.<ref name="Yitzhaki"/> [[Conrad Schick]]'s research in connection with a partially rock-hewn aqueduct related to the water system of Siloam has led researchers to conclude that the Lower Pool, ''Birket al-Ḥamrah'', received water directly from the "Fountain of the Virgin" ([[Gihon Spring]]) at some period and which Schick places prior to the completion of the Siloam Tunnel.<ref>{{cite journal |last=PEF |author-link=Palestine Exploration Fund |title=The Herodian Temple, According to the Treatise Middoth and Flavius Josephus |journal=Palestine Exploration Quarterly |date=1886|volume=18|issue=2|pages=92–113 |doi=10.1179/peq.1886.18.2.92}}</ref><ref>cf. {{cite book |author-last=Dalman|author-first=Gustaf |author-link=Gustaf Dalman |title=Work and Customs in Palestine, volume II |publisher=Dar Al Nasher |location=Ramallah|year=2020 |volume=2 (Agriculture) |lang=en |translator=Robert Schick |editor=Nadia Abdulhadi-Sukhtian |page=280 |isbn=978-9950-385-84-9}}, who writes that the [[King's Garden (Jerusalem)|King's Garden]] was irrigated originally through a canal with side openings, which led the water of the [[Gihon spring]] at the edge of the valley to the south, until [[Hezekiah's Tunnel]] created a more southern exit for the water, from which the garden could then be irrigated.</ref>
+
+===21st century===
+====Second Temple period pool====
+[[File:The Second Temple Pool of Siloam.jpg|thumb|upright=1.2|right|Remains of the Pool of Siloam from the Second Temple Period]]
+
+The pool was rediscovered during an excavation work for a sewer in the autumn of 2004, by [[Ir David Foundation]] workers, following a request and directions given by archaeologists [[Eli Shukron]] accompanied by [[Ori Orbach]] from the [[Israel Nature and Parks Authority]]. Shukron and [[Ronny Reich]] (working with the [[Israel Antiquities Authority]]) uncovered stone steps, and it became obvious that these steps were likely to have been part of the [[Second Temple period]] pool. Excavations commenced and confirmed the initial supposition; the find was formally announced on August 9, 2005, and received substantial international media attention.<ref>{{Cite web |date=2004-12-23 |title=Archaeologists identify traces of 'miracle' pool |url=https://www.nbcnews.com/id/wbna6750670 |access-date=2023-10-29 |publisher=NBC News |lang=en}}</ref><ref>{{cite news |title=The once and future city |first=Rena |last=Rossner |url=https://www.jpost.com/LandedPages/PrintArticle.aspx?id=11339 |newspaper=The Jerusalem Post |date=January 26, 2006|access-date=November 15, 2009 |quote=They have also discovered thousands of fish bones that, together with the bullae were found in an area that Reich and Shukran believe to be the Shiloah Pool, used as a ritual bath for the Temple Mount, and a tiled road which ends at the pool and has its origins near the Temple Mount. Ostensibly, this is the road that worshippers used to go back and forth between the Shiloah Pool and the Temple Mount.}}</ref>
+
+The excavations also revealed that the pool was {{convert|225|ft|abbr=on}} wide, and that steps existed on at least three sides of the pool. The pool is not perfectly rectangular, but a soft [[trapezoid]]. There are three sets of five steps, two leading to a platform, before the bottom is reached, and it has been suggested that the steps were designed to accommodate various water levels. The pool is stone-lined, but underneath, there is evidence of an earlier version that was merely plastered (to help it retain water). Coins from the reign of [[Alexander Jannaeus]] were found embedded in the plaster lining of the pool, and therefore provide a secure earliest date for the pool's (re-)construction.
+
+====First Temple period pool====
+For almost two decades after the initial discovery, most of the pool remained unexcavated, as the land above was owned by a nearby [[Greek Orthodox Patriarchate of Jerusalem|Greek Orthodox church]] until 2004 (when it was sold to a Jewish development company),<ref name=":0">{{Cite news |last=Obel |first=Ash |date=2022-12-27 |title=Israel, right-wing group to fully excavate biblical Siloam Pool in East Jerusalem |url=https://www.timesofisrael.com/israel-right-wing-group-to-fully-excavate-biblical-siloam-pool-in-east-jerusalem/ |access-date=2025-09-29 |work=The Times of Israel |lang=en-US |issn=0040-7909}}</ref> and was occupied by an orchard known as the [[King's Garden (Jerusalem)|King's Garden]] (compare {{Bibleverse||Nehemiah|3:15|HE}}). In late December 2022, the Israeli Supreme Court ordered the eviction of the tenants and turned ownership of the plot over to the [[Ir David Foundation|City of David Foundation]].<ref name=":0" /> Several months later, the [[Israel Antiquities Authority]] commenced a complete excavation of this plot in hopes of uncovering the remaining portion of the pool. 
+
+The initial excavations surprised archaeologists by uncovering scant additional remains from the pool,<ref name="Hasson">{{cite news |last1=Hasson |first1=Nir |title=Israel Razed the Last Orchard in Silwan in Search of Siloam Pool. It Still Can't Be Found |url=https://www.haaretz.com/israel-news/2023-04-28/ty-article-magazine/.highlight/israel-razed-the-last-orchard-in-silwan-in-search-of-siloam-pool-it-still-cant-be-found/00000187-c6d0-d9b4-abaf-eefe23910000 |access-date=18 April 2025 |work=Haaretz |date=28 April 2023}}</ref> but continuing work discovered a dam of monumental size and unexpected complexity, at least 19 meters long, 11 meters high, and 10 meters wide, with partly vertical, partly slanting walls.<ref name= Jehoash>{{Cite news |last=David |first=Ariel |title=Biblical kings in Jerusalem built monumental dam, maybe to deal with climate change |url=https://www.haaretz.com/archaeology/2025-08-25/ty-article/biblical-kings-in-jerusalem-built-monumental-dam-maybe-to-deal-with-climate-change/00000198-db97-daa7-a7fc-dfbfa0c20000 |archive-url=https://web.archive.org/web/20250827044736/https://www.haaretz.com/archaeology/2025-08-25/ty-article/biblical-kings-in-jerusalem-built-monumental-dam-maybe-to-deal-with-climate-change/00000198-db97-daa7-a7fc-dfbfa0c20000 |archive-date=2025-08-27 |access-date=2025-09-29 |work=Haaretz.com |lang=en}}</ref> [[Carbon dating]] organic material from the dam  allowed dating it and the pool to roughly 800 BCE, at the time of King [[Jehoash of Judah]].<ref name= Jehoash/> Archaeologists speculate that the pool may have been built to supply the city with water during times of [[climate change]].<ref name= Jehoash/>
+
+== See also ==
+* [[Silwan]]
+* [[Stone of Claims]]
+* [[Tower of Siloam]]
+* [[Pool of Bethesda]]
+
+== References ==
+{{reflist|group=lower-alpha}}
+{{reflist}}
+
+== External links ==
+* [https://www.haaretz.com/israel-news/2023-04-28/ty-article-magazine/.highlight/israel-razed-the-last-orchard-in-silwan-in-search-of-siloam-pool-it-still-cant-be-found/00000187-c6d0-d9b4-abaf-eefe23910000 Israel Razed the Last Orchard in Silwan in Search of Siloam Pool. It Still Can't Be Found]
+
+== Further reading ==
+* {{cite book |last=Wening |first=Jens M. |date=2021 |title=Siloah – Quelle des Lebens. Eine Kulturgeschichte der Jerusalemer Stadtquelle |series=Ägypten und Altes Testament |volume=101 |location=Münster |publisher=Zaphon |isbn=978-3-96327-096-3}}
+* Rabbi Yitzchak Levy (2015) [http://www.zomet.org.il/eng/?CategoryID=160&ArticleID=8737 "The place" in the world. The Shiloach Pool ]. [http://www.zomet.org.il/eng/ The Zomet Institute ]
+* {{cite journal|last=Elitzur|first=Yoel|title=The Siloam Pool – 'Solomon's Pool' – was a Swimming Pool|journal=Palestine Exploration Quarterly|year=2008|volume=140|issue=1|pages=17–25|doi=10.1179/003103208x269114|s2cid=161774603}}
+* {{cite journal|last=Reich|first=R. |author2=Shukron, E. |author3=Lernau, O.|title=Recent Discoveries in the City of David, Jerusalem|journal=Israel Exploration Journal|year=2007|volume=57|pages=153–168}}
+* [http://www.kchanson.com/ANCDOCS/westsem/siloam.html Image and text of the Siloam inscription]
+* {{cite journal|last=Shanks|first=Hershel|title=The Siloam Pool Where Jesus Cured the Blind Man|journal=Biblical Archaeology Review|date=September–October 2005|volume=31|issue=5|pages=16–23|author-link=Hershel Shanks}}. Click here for an abridged article in [https://web.archive.org/web/20070708064116/http://www.bib-arch.org/bswbOOnews.html#siloam html] or the full article in [https://web.archive.org/web/20050917114323/http://www.bib-arch.org/siloam.pdf pdf format].
+* [http://www.holylandphotos.org/ Pictures of the recently rediscovered Pool of Siloam from ''holylandphotos.org'']
+* {{CathEncy|wstitle=Siloe}}
+* Fuad Abu-Taa', Aliza Van Zaiden and Tsagai Asamain, [http://www.iaa-conservation.org.il/Projects_Item_eng.asp?subject_id=10&site_id=3&id=48 Conservation of the Shiloah Pool and preparing it for the public], [http://www.antiquities.org.il/home_eng.asp Israel Antiquities Authority Site] – [https://web.archive.org/web/20140626044723/http://iaa-conservation.org.il/index_eng.asp Conservation Department]
+
+{{Book of Isaiah}}
+{{Authority control}}
+{{coord|31|46|14|N|35|14|06|E|region:IL-JM_type:waterbody_source:dewiki|display=title}}
+
+[[Category:2004 archaeological discoveries]]
+[[Category:Archaeology of Palestine (region)]]
+[[Category:Geography of Palestine (region)]]
+[[Category:Buildings and structures completed in the 7th century BC]]
+[[Category:Buildings and structures completed in the 1st century BC]]
+[[Category:Jewish ritual purity law]]
+[[Category:Reservoirs in Jerusalem]]
+[[Category:Rock-cut architecture of Jerusalem]]
+[[Category:Second Temple period]]
+[[Category:Silwan]]
+[[Category:Temple Mount]]

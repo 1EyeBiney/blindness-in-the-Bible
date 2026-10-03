@@ -1,0 +1,114 @@
+<!-- title: Pool of Bethesda; revid: 1365390142; timestamp: 2026-07-22T02:51:57Z -->
+{{Short description|Pool in Jerusalem}}
+{{About|the Pool of Bethesda in Jerusalem|places named after it|Bethesda (disambiguation){{!}}Bethesda}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox historic site
+| name          = Pool of Bethesda
+| native_names  = {{native name|he|בריכות בית חסדא}}<br>{{native name|ar|بركة بيت حسدا}}
+| other_name    = Bethzatha, Bethesda, Bezatha
+| image         = Jerusalem Bethesda BW 1.JPG
+| image_size    = 250px
+| alt           = 
+| caption       = The ruins of the Byzantine Church, adjacent to the site of the Pool of Bethesda
+| pushpin_map   = Old Jerusalem
+| pushpin_label = Pool of Bethesda
+| coordinates   = {{Coord|31|46|53|N|35|14|09|E|display=inline,title|region:IL-JM_type:landmark_source:dewiki}}
+| location      = [[Old City of Jerusalem]]
+| region        = 
+| type          = Public bathing pool
+| length        = 
+| width         = 
+| area          = 
+| height        = 
+| builder       = 
+| material      = 
+| built         = Possibly 8th century BC, expanded 200 BC, Byzantine and Crusader modifications
+| abandoned     = 
+| public_access = Yes
+}}
+
+[[Image:P8170051.JPG|thumb|[[Holyland Model of Jerusalem|Model of the pools]] during the [[Second Temple Period]] ([[Israel Museum]])]]
+
+The '''Pool of Bethesda''' is referred to in [[John's Gospel]] in the Christian [[New Testament]], ([[John 5#Healing at Bethesda (5:2–15)|John 5:2]]) in an account of [[healing the paralytic at Bethesda|Jesus healing a paralyzed man]] at a pool of water in [[Jerusalem]], described as being near the Sheep Gate and surrounded by five covered colonnades or porticoes. It is also referred to as '''Bethzatha'''.<ref>{{bibleverse|John|5:2|CEV}}: [[Contemporary English Version]]</ref> It is now associated with the site of a pool in the current [[Muslim Quarter (Jerusalem)|Muslim Quarter]] of the city, near the gate now called the [[Lions' Gate]] or St. Stephen's Gate and the [[Church of Saint Anne, Jerusalem|Church of St. Anne]], which was excavated in the late 19th century.
+
+==Name==
+The name of the pool is said to be derived from the [[Hebrew language|Hebrew]] and/or [[Aramaic language]]. ''[[Beth (Hebrew)|Beth]] hesda'' (בית חסד/חסדא), means either "house of mercy"<ref name=Easton>''Easton's Bible Dictionary''.</ref> or "house of [[divine grace|grace]]". This meaning may have been thought appropriate, since the location was seen as a place of disgrace due to the presence of invalids, and as a place of grace due to the granting of healing.<ref name=Cathen>{{cite encyclopedia |title= Bethsaida (the pool) |encyclopedia=[[Catholic Encyclopedia]] |url= https://www.newadvent.org/cathen/02536a.htm }}</ref><ref name=ISBE>''International Standard Bible Encyclopedia'' (1995), on ''sheep gate'' and on ''sheep market''.</ref><ref name=Carson>D. A. Carson, ''The Gospel according to John'' (1991), p. 241.</ref><ref name=Fyvie>Frederick Fyvie Bruce, ''The Gospel of John'' (1994), pp. 121–122.</ref>
+
+Alternative renderings to the name Βηθεσδά (Bethesda),<ref>Textus Receptus.</ref> appearing in manuscripts of the Gospel of John, include Βηθζαθά<ref>Tischendorf and WH.</ref> (''Beth-zatha'' = בית חדתא<ref>''[[Revised Standard Version]]'' marginal note to {{bibleverse||John|5:2|}}.</ref>), a derivative of [[Bezetha]], and ''Bethsaida'' (not to be confused with [[Bethsaida]], a town in [[Galilee]]), although the latter is considered to be a [[Metathesis (linguistics)|metathetical]] corruption by Biblical scholars.<ref>{{cite web |url=https://www.newadvent.org/cathen/02536a.htm |title=Bethsaida |publisher=newadvent.org |access-date=6 October 2010}}</ref>
+
+[[Franz Delitzsch]] suggested that the name comes from a [[mishna]]ic Hebrew loanword from Greek, ''estiv/estava'', that appropriately referred to [[stoa|stoa (στοά)]].<ref>Delitzsch, F. 1856. "Talmudische Studien, X. Bethesda", ''Zeitschrift für die gesamte lutherische Theologie und Kirche''.</ref>
+
+==Identification of the biblical site==
+According to the Gospel of John, Bethesda was a bathing pool ({{langx|el|κολυμβήθρα}}, ''kolumbethra'') with five [[portico]]es (translated as ''porches'' by older English Bible translations).<ref>{{Bibleverse||John|5:2|}}</ref><ref name=Peake>''[[Peake's commentary on the Bible]]'' (1962), on {{bibleverse|John|5:1–18}}.</ref>
+
+Until the 19th century, there was no clear [[archaeology|archaeological]] evidence for the existence of such a pool. The Pool of Bethesda was sometimes identified by commentators with the modern so-called [[Fountain of the Virgin]], in the [[Kidron Valley]], not far from the [[Pool of Siloam]], or alternatively with the ''[[Birket Israel|Birket Isrâ'il]]'', a pool near the mouth of the valley, which runs into the Kidron south of [[Lions' Gate|St. Stephen's Gate]]. Others identified it with the twin pools then called the ''Souterrains'' (French for "subterranean"), under the [[Convent of the Sisters of Zion]];<ref name=Easton/> subsequent archaeological investigation has identified these with the later [[Struthion Pool]].<ref>[[Pierre Benoit (archaeologist)|Pierre Benoit]], ''The Archaeological Reconstruction of the Antonia Fortress'', in ''Jerusalem Revealed'' (edited by [[Yigael Yadin]]), (1976).</ref>
+
+However, as early as the fifth century, there was a Byzantine church in what became the precincts of the Church of St. Anne, called the Church of the Probatike<ref name=Panou2015>Eirini Panou (2015) in ''Patristic Studies in the Twenty-First Century: Proceedings of an International Conference to Mark the 50th Anniversary of the International Association of Patristic Studies'', Brepolis Publishers, January 2015.</ref> (the Church at the Probatic Pool, or the Pool of the Sheep) or the Church of the Lame Man.<ref name=Mare1987>W. Harold Mare "The Archaeology of the Jerusalem Area", Wipf & Stock, 1987</ref> This site, as subsequently excavated by archaeologists, seems plausibly to fit the description in John's Gospel.<ref name=Wahlde2006>{{cite book |last= von Wahlde |first= Urban C. |title= Archaeology and John's Gospel |pages= 560–566 |editor-last= Charlesworth |editor-first= James H. |editor-link= James H. Charlesworth |work= Jesus and archaeology |publisher=[[Wm. B. Eerdmans]] |year= 2006 |isbn= 9780802848802 |url= https://books.google.com/books?id=QoIS7VApH6cC&pg=PA560 |access-date= 16 May 2021}}</ref>
+
+===Archaeology===
+[[File:National Library of Israel, Wahrman Collection, Palestine in 1911 865145 m2682084 006r.jpg|alt=The pool of Bethesda in 1911|thumb|The pool of Bethesda in 1911]]
+
+In archaeological digs conducted in the 19th century, [[Conrad Schick]] discovered a large tank situated about {{convert|100|ft}} north-west of St. Anne's Church, which he contended was the Pool of Bethesda. Further archaeological excavation in the area, in 1964, uncovered the remains of the Byzantine and Crusader churches, Hadrian's Temple of [[Asclepius]] and [[Serapis]], the small healing pools of an [[Asclepeion]], the second of the two large pools, and the dam between them.<ref name=Rex>[http://www.christusrex.org/www1/ofm/sbf/escurs/Ger/10quadroBig.jpg An archaeological diagram of the layout – the diagram displayed at the location itself – is visible at this link] {{Webarchive|url=https://web.archive.org/web/20110604114333/http://www.christusrex.org/www1/ofm/sbf/escurs/Ger/10quadroBig.jpg |date=4 June 2011 }}.</ref> It was discovered that the Byzantine church had been built in the very heart of Hadrian's temple and contained the healing pools.<ref name=Wahlde2006/><ref name=Rex/>
+
+===Gospel account===
+{{Main|Healing the paralytic at Bethesda}}
+[[File:Robert Bateman - The Pool of Bethesda - Google Art Project.jpg|thumb|upright=1.2|right|''The Pool of Bethesda'' painting by [[Robert Bateman (artist)|Robert Bateman]] (1877)]]
+
+The Johannine text ([[John 5|chapter 5]]) describes the porticoes as being a place in which large numbers of infirm people were waiting, which could correspond with the site's possible use in the 1st century AD as an [[Asclepeion]]. The biblical narrative continues by describing a [[Shabbat]] visit to the site by [[Jesus]], during which he heals a man who has been bedridden for 38 years and could not make his own way into the pool.<ref>{{bibleverse||John|5:1-18|}}.</ref> The healing, and Jesus' instruction to the man to take up his mat, prompts a protest that the religious customs of the Sabbath have been broken.
+
+==History==
+===First (northern) pool===
+The history of the pool began in the 8th century BC, when a dam was built across the short Beth Zeta Valley, turning it into a [[reservoir]] for rain water;<ref name="OConnor">[[Jerome Murphy-O'Connor]], ''The Holy Land'', (2008), p. 29.</ref><ref name="Yeung76">Maureen W. Yeung, ''Faith in Jesus and Paul'', p. 76.</ref><ref name="Winter">Dave Winter, ''Israel handbook'', p. 121.</ref> a sluice-gate in the dam allowed the height to be controlled, and a rock-cut channel brought a steady stream of water from the reservoir into the city.<ref name=OConnor/> The reservoir became known as the ''Upper Pool'' (''בריכה העליונה'').
+
+===Second (southern) pool===
+Around 200 BC, during the period in which [[Simon II (High Priest)|Simon II]] was the Jewish [[Kohen Gadol|High Priest]], the channel was enclosed, and a second pool was added on the south side of the dam.<ref name=OConnor/><ref name=Yeung76/><ref name=Winter/>
+
+Although popular legend argues that this pool was used for washing sheep, this is very unlikely due to the pool's use as a water supply, and its extreme depth {{convert|13|m}}. There has been some scholarly debate about whether the pool may have been a ''[[mikveh]]'' (Jewish ritual bathing pool).<ref name=Gibson2005>{{cite journal |last1=Gibson |first1=S. |date=2005 |title=The Pool of Bethesda in Jerusalem and Jewish Purification Practices of the Second Temple Period |journal=Proche-Orient Chretien |volume=55 |pages=270–293 }}</ref><ref name=Wahlde2009>{{cite journal |last1=von Wahlde |first1=U.C. |date=2009 |title=The Pool(s) of Bethesda and the Healing in John 5: A Reappraisal of Research and of the Johannine Text |journal=Revue Biblique |volume=116 |issue=1 |pages=111–136 }}</ref>
+
+===Hellenistic and Roman temples===
+According to [[Jerome Murphy-O'Connor]] in the 1st century BC natural caves to the east of the two pools were turned into small baths with a religious/medical function.<ref name=OConnor/><ref name="Duprez">André Duprez, ''Jesus and the god of Healing, as according to John'' (1970), p. 97.</ref> At least one of these new pools was sacred to [[Fortuna]], the Roman goddess of fortune, rather than Asclepius, the Greek god of healing.<ref name="Yeung78">Maureen W. Yeung, ''Faith in Jesus and Paul'', p. 78.</ref> Murphy-O'Connor thinks it likely that this development was founded by the [[Roman Empire|Roman]] garrison of the nearby [[Antonia Fortress]],<ref name=OConnor/> who would also have been able to protect it from attack.<ref name=Duprez/> Additionally, the location of the baths outside the then city walls would have made its presence tolerable to the Jews, who might otherwise have objected to a non-Jewish religious presence in their holy city.<ref name=Duprez/>
+
+In the mid 1st century AD, [[Herod Agrippa]] expanded the city walls, bringing the baths into the city. When [[Hadrian]] rebuilt Jerusalem as [[Aelia Capitolina]], he placed a roadway along the dam, and expanded the site into a large temple to Asclepius and Serapis.<ref name=OConnor/>
+
+===Byzantine church===
+By the fifth century, at least part of the [[asclepieion]] had been converted into, or replaced by, a [[Byzantine Empire|Byzantine]] [[Church (building)|church]], known as the Church of the Probatike (literally, the Church of the Sheep, the pool being called the Probatic or Sheep Pool) and initially dedicated to the Healing of the Paralytic, though from the sixth century associated with the [[Virgin Mary]] (the German pilgrim Theodosius wrote in ''[[De Situ Terrae Sanctae]]'' (c. 530) that "next to the Sheep-pool is the church of my Lady Mary").<ref name=Panou2018>{{cite book |last=Panou |first=Eirini |date=2018 |title=The Cult of St Anna in Byzantium |publisher=Routledge |pages=5–11 |isbn=978-1-409-470229 }}</ref> This reflects a more general movement which appropriated the healing sites of pagan religion and rededicated them to the Virgin Mary. The theory that this church was built by the Empress [[Aelia Eudocia|Eudocia]] (present in Jerusalem in 438–439 and 443–460) is uncertain.<ref name="See">{{Cite web |title=Pools of Bethesda « See The Holy Land |url=https://www.seetheholyland.net/pools-of-bethesda/ |access-date=2023-10-29}}</ref> It seems more likely to be associated with [[Juvenal of Jerusalem|Juvenal]], bishop of Jerusalem in the mid 5th century. This church was destroyed in 614 by the [[Byzantine–Sasanian War of 602–628#Capture of Jerusalem|Persians]].<ref name=See/>
+
+===Crusader churches===
+After the [[First Crusade|Crusader]] [[Siege of Jerusalem (1099)|conquest of Jerusalem in 1099]], a much smaller church was built among the Byzantine-period ruins on the stone dyke separating the two pools, known as the Church of the Paralytic<ref name=See/> or the Moustier ('the Monastery'). It was followed by a larger new church erected nearby. This [[Church of Saint Anne, Jerusalem|larger church]], completed in 1138, was built over the site of a grotto which had (from the fifth or sixth century onwards<ref name=Panou2018/>) been traditionally believed to be the birthplace of [[Mary, mother of Jesus]] and was named for Mary's mother, [[Saint Anne]].<ref name="yudin">{{Cite web |date=2011-11-17 |title=Off the Beaten Track: The Church of St. Anne |url=https://www.jpost.com/travel/jerusalem/off-the-beaten-track-the-church-of-st-anne |access-date=2023-10-29 |website=[[The Jerusalem Post]] |language=en-US |issn=0792-822X}}</ref> After the [[Siege of Jerusalem (1187)|conquest of Jerusalem]] by [[Saladin]] in 1187, it was transformed into a [[Shafi`i]] [[fiqh]] (Islamic law school). Gradually the buildings fell into ruin, becoming a [[midden]] (waste dump).
+
+===Modern times===
+[[File:Pool-of-Bethesda-stone.JPG|thumb|Capital segment from the portico that surrounded the pool, now at [[St. Mary's Episcopal Cathedral in Memphis]], USA]]
+
+In 1856, the area including the [[Church of Saint Anne, Jerusalem|Church of St. Anne]] and the pool site was presented by the [[Ottoman Empire|Ottoman]] Sultan [[Abdülmecid I]] to [[Napoleon III]] of [[France]]. The French renovated and rededicated the church (under the administration of the [[White Fathers]]), at the southeast corner of the pools, leaving the other ruins untouched. There is a tale{{citation needed|date=March 2013}} that the site was originally offered to [[Queen Victoria]] as part of the negotiations which led ultimately to the [[Cyprus Convention]] of 1878.{{citation needed|date=May 2021}}
+
+==In fiction==
+The Pool of Bethesda features in ''[[Glorious Appearing]]'', the penultimate book in the bestselling ''[[Left Behind]]'' [[Christian novel|Christian fiction]] series. It appears as "a legendary healing pool" with miraculous properties for believers holding out in Jerusalem against overwhelming invaders, with a prominent supporting Jewish character [[Tsion Ben-Judah]] being rushed to the Pool, but succumbing to his severe wounds just before making it there.
+
+==See also==
+*[[Isaiah 7]]
+*[[Pool of Siloam]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*W. Harold Mare, [https://books.google.com/books?id=QcxKAwAAQBAJ&pg=PA166 Archaeology of the Jerusalem Area], [[Wipf and Stock]], 2002 (after 1987 first edition), pp.&nbsp;166–168, 238–240
+
+==External links==
+{{Commons category}}
+*[http://jewishencyclopedia.com/view.jsp?artid=990&letter=B&search=Pool%20of%20Bethesda Jewish Encyclopedia: Bethesda]
+*[https://www.newadvent.org/cathen/02536a.htm Catholic Encyclopedia: Bethsaida: II. THE POOL]
+
+{{New Testament places associated with Jesus}}
+{{Authority control}}
+
+{{DEFAULTSORT:Pool Of Bethesda}}
+[[Category:Classical sites in Jerusalem]]
+[[Category:Establishments in the Kingdom of Judah]]
+[[Category:New Testament places]]
+[[Category:Gospel of John locations]]
+[[Category:Muslim Quarter (Jerusalem)]]
+[[Category:Reservoirs in Jerusalem]]
+[[Category:Second Temple period]]
+[[Category:Water and Christianity]]
+[[Category:Water and Judaism]]
