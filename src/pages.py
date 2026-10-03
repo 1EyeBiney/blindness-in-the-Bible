@@ -179,3 +179,16 @@ PAGES = LAW_PAGES + LIFE_PAGES + [FAITH_PAGE]
 
 def by_section(section: str) -> list[dict]:
     return [p for p in PAGES if p["section"] == section]
+
+
+# ---- the place and the time, from the reference shelf (edited in
+# src/write_law_and_life.py, evidence in law_and_life_candidates.json)
+import json as _json
+from pathlib import Path as _Path
+
+_LL = _Path(__file__).resolve().parents[1] / "data" / "reference" / "law_and_life.json"
+if _LL.exists():
+    _extra = _json.loads(_LL.read_text(encoding="utf-8"))
+    for _page in PAGES:
+        for _item in _extra.get(_page["slug"], []):
+            _page.setdefault("place_and_time", []).append({"text": _item["text"], "source": _item["source"]})

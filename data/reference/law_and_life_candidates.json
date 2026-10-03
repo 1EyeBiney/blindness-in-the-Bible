@@ -1,0 +1,1549 @@
+{
+ "law-stumbling-block": [
+  {
+   "text": "Matthew Henry reads Leviticus 19:14 as a command about the blind person's safety. To put a stumbling-block before a blind person, he says, is to add affliction to the afflicted and to make God's providence serve one's malice. He adds that the prohibition also implies a duty to help the blind and to remove stumbling-blocks from their way.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Leviticus 19",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 2978115,
+     "quote": "2. The safety of the blind we must likewise be tender of, and not put a stumbling-block before them; for this is to add affliction to the afflicted, and to make God's providence a servant to our malice."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 2978327,
+     "quote": "This prohibition implies a precept to help the blind, and remove stumbling-blocks out of their way."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Henry gives a reason the verse ends with 'fear thy God': the deaf and the blind cannot answer back or get even, so people who would never do this to someone who could retaliate need to be reminded that God sees and hears and 'will plead their cause'. The reasoning is that the law protects people who cannot protect themselves.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Leviticus 19",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 2977986,
+     "quote": "Do not injure any because they are unwilling, or unable, to avenge themselves, for God sees and hears, though they do not."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 2978941,
+     "quote": "Thou dost not fear the deaf and blind, they cannot right themselves; but remember it is the glory of God to help the helpless, and he will plead their cause."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The second quotation is Henry quoting an unnamed Jewish saying; he does not say where it comes from."
+  },
+  {
+   "text": "For Deuteronomy 27:18 ('Cursed be he that maketh the blind to wander out of the way') Henry understands the offender as an adviser who, when asked the way, sends a trusting person somewhere that will harm him. He calls this barbarous and treacherous, and links it to Jesus's saying about the blind leading the blind. He also says the Jews held that by saying Amen to these curses the people bound themselves to keep the laws and to stop their neighbours breaking them.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Deuteronomy 27",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 4751269,
+     "quote": "who, when his advice is asked, maliciously directs his friend to that which he knows will be to his prejudice, which is making the blind to wander out of the way, under pretence of directing him in the way"
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 4751689,
+     "quote": "which our Saviour has explained, Matt. xv. 14, The blind lead the blind, and both shall fall into the ditch."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 4749382,
+     "quote": "All the people, by saying this Amen, became bound for one another, that they would observe God's laws"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry takes the verse as being about misleading advice; the verse in the King James text is about 'the blind' and the shelf does not say whether a literal blind traveller is meant. The 'Jews say' passage is Henry quoting Bishop Patrick quoting them."
+  },
+  {
+   "text": "The 1915 Bible encyclopaedia sums up the Law's two sides in one sentence: blindness disqualified a man from the priesthood (Leviticus 21:18), but care of the blind was specially enjoined (Leviticus 19:14) and wrongs against them were counted as breaches of the Law (Deuteronomy 27:18).",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Blindness', vol 1, pp. 487-488",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3980521,
+     "quote": "Blindness unfitted a man for the priesthood (Lev 21 18); but care of the blind was specially enjoined in the Law (Lev 19 14), and offences against them are regarded as breaches of Law (Dt 27 18)."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Smith's and Easton's dictionaries both say the Law commanded compassion toward the blind and cite Leviticus 19:14 and Deuteronomy 27:18.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Blindness'; Easton's Bible Dictionary (1897), entry 'Blind'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 382972,
+     "quote": "The Jews were specially charged to treat the blind with compassion and care."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 420153,
+     "quote": "The blind are to be treated with compassion (Lev. 19:14; Deut. 27:18)."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Smith's prints the second reference as 'Leviticus 19:14; 27:18'; the second is plainly Deuteronomy 27:18."
+  },
+  {
+   "text": "Josephus, retelling the Law in the first century, puts the same concern in everyday terms: it is a duty to show the road to people who do not know it and not to treat it as a joke to send them the wrong way; and 'let no one revile a person blind or dumb'. This is Josephus's own summary, with details that are not in Leviticus.",
+   "source": "Josephus, Antiquities of the Jews (Whiston translation), Book IV, chapter 8, section 31-32",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 576261,
+     "quote": "It is also a duty to show the roads to those who do not know them, and not to esteem it a matter for sport, when we hinder others' advantages, by setting them in a wrong way. 32. In like manner, let no one revile a person blind or dumb."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Josephus (about AD 93) is retelling, not translating; the sentence about the blind is his wording. 'Dumb' means unable to speak."
+  },
+  {
+   "text": "Hammurabi, king of Babylon, says in his prologue that the gods gave him his rule 'to prevent the strong from oppressing the weak', and the 1915 encyclopaedia says the epilogue calls him a helper of the oppressed and an adviser of widows and orphans. A search of the shelf found no mention of the blind in the Code: the word does not occur in Johns's English text.",
+   "source": "Wikipedia, 'Code of Hammurabi', revision of 2 October 2026 (CC BY-SA 4.0); International Standard Bible Encyclopaedia (1915), entry 'Hammurabi', vol 2, p. 1331",
+   "evidence": [
+    {
+     "file": "wikipedia_Code_of_Hammurabi.wiki.txt",
+     "offset": 2603,
+     "quote": "In the prologue, Hammurabi claims to have been granted his rule by the gods \"to prevent the strong from oppressing the weak\"."
+    },
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 5654132,
+     "quote": "as a helper of the oppressed, as an ad- viser of widows and orphans, in short, as the father of his people."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Johns (1903) leaves out the prologue and epilogue (he says so), so the shelf has the king's own claims only at second hand. 'No mention of the blind' is based on a search of the Johns text, which found no occurrence of 'blind'."
+  }
+ ],
+ "law-servant-blinded": [
+  {
+   "text": "Matthew Henry puts Exodus 21:26-27 under 'the care God took of servants'. If a master maimed a servant, even by striking out a tooth, the servant went free. Henry gives two purposes: to keep masters from abusing servants, since they would lose the servant's service, and to comfort a servant who was abused, because losing a limb meant gaining liberty, which would somewhat balance the pain and disgrace.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Exodus 21",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 2127107,
+     "quote": "II. The care God took of servants. If their masters maimed them, though it was only striking out a tooth, that should be their discharge, v. 26, 27."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 2127418,
+     "quote": "To comfort them if they were abused; the loss of a limb should be the gaining of their liberty, which would do something towards balancing both the pain and disgrace they underwent."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Smith's Bible Dictionary says in two places that the master's power over a servant was limited by this law: in 'Law of Moses' that maiming gave liberty at once, and in 'Slave' that provision was made for the protection of the servant's person and that loss of an eye or a tooth was to be recompensed by giving the servant his liberty.",
+   "source": "Smith's Bible Dictionary (1884 edition), entries 'Law of Moses' and 'Slave'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1420240,
+     "quote": "Power of master so far limited that death under actual chastisement was punishable, (Exodus 21:20) and maiming was to give liberty ipso facto"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2737812,
+     "quote": "provision was made for the protection of his person. (Exodus 21:20; Leviticus 24:17,22)"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2737988,
+     "quote": "was to be recompensed by giving the servant his liberty."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The 'Slave' entry calls the loss of an eye or tooth a 'minor personal injury'. That phrase is not suitable to repeat; the second quotation is cut to start after it."
+  },
+  {
+   "text": "Hammurabi's law for an eye lost between equals: 'If a man has caused the loss of a gentleman's eye, his eye one shall cause to be lost.' The class is part of the rule. The 1915 encyclopaedia quotes the same section with 'a free man' in place of Johns's 'gentleman'.",
+   "source": "C. H. W. Johns (translator), The Oldest Code of Laws in the World (1903), Code of Hammurabi, section 196; International Standard Bible Encyclopaedia (1915), entry 'Hammurabi', vol 2, p. 1331",
+   "evidence": [
+    {
+     "file": "hammurabi_johns_pg17150.txt",
+     "offset": 51708,
+     "quote": "section 196. If a man has caused the loss of a gentleman's eye, his eye one shall cause to be lost."
+    },
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 5658252,
+     "quote": "If a man destroy the eye of a free man, his eye shall be de- stroyed."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Johns renders the class term 'gentleman'; later translations use other words ('free man', 'awilum')."
+  },
+  {
+   "text": "Hammurabi sets lower penalties for the same injury when the victim is of lower rank. For a poor man who loses an eye the payment is one mina of silver (section 198); for the eye of a gentleman's servant the payment is half his price (section 199). Exodus 21:26 instead frees the servant. Johns's text does not say who receives the payment in 199.",
+   "source": "C. H. W. Johns (translator), The Oldest Code of Laws in the World (1903), Code of Hammurabi, sections 198-199",
+   "evidence": [
+    {
+     "file": "hammurabi_johns_pg17150.txt",
+     "offset": 51893,
+     "quote": "section 198. If he has caused a poor man to lose his eye or shattered a poor man's limb, he shall pay one mina of silver."
+    },
+    {
+     "file": "hammurabi_johns_pg17150.txt",
+     "offset": 52017,
+     "quote": "section 199. If he has caused the loss of the eye of a gentleman's servant or has shattered the limb of a gentleman's servant, he shall pay half his price."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Johns writes 'servant' where the 1915 encyclopaedia and Wikipedia write 'slave'."
+  },
+  {
+   "text": "The same graded pattern holds for teeth, the other injury named in Exodus 21:27. Between equals the offender loses his tooth (section 200); for a poor man's tooth the fine is one-third of a mina of silver (section 201).",
+   "source": "C. H. W. Johns (translator), The Oldest Code of Laws in the World (1903), Code of Hammurabi, sections 200-201",
+   "evidence": [
+    {
+     "file": "hammurabi_johns_pg17150.txt",
+     "offset": 52175,
+     "quote": "section 200. If a man has made the tooth of a man that is his equal to fall out, one shall make his tooth fall out. section 201. If he has made the tooth of a poor man to fall out, he shall pay one-third of a mina of silver."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "The 1915 encyclopaedia (article by A. Ungnad) says Hammurabi's rules on wounding begin with the 'jus talionis', an eye for an eye, a bone for a bone, a tooth for a tooth, and that persons lower in the social grade usually accepted money instead (sections 196 and following).",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Hammurabi', vol 2, p. 1330",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 5649404,
+     "quote": "occupies itself with wounding of all kinds, in the first place with the jus talionis: an eye for an eye, a bone for a bone, a tooth for a tooth. Persons lower in the social grade usually accepted money instead (§§ 196 ff)."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Wikipedia's article on 'an eye for an eye' says that in Exodus 21, as in Hammurabi's Code, reciprocal justice seems to apply between social equals, and that Exodus then gives a different rule for a slave-owner who blinds a slave's eye or knocks out a tooth: the slave is freed.",
+   "source": "Wikipedia, 'Eye for an eye', revision of 2 October 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Eye_for_an_eye.wiki.txt",
+     "offset": 15997,
+     "quote": "In Exodus 21, as in the [[Code of Hammurabi]], the concept of reciprocal justice seemingly applies to social equals;"
+    },
+    {
+     "file": "wikipedia_Eye_for_an_eye.wiki.txt",
+     "offset": 16367,
+     "quote": "if a slave-owner blinds the eye or knocks out the tooth of a slave, the slave is freed but the owner pays no other consequence."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The words 'pays no other consequence' are the Wikipedia editors' reading (they cite Michael Coogan, 2009); the shelf has no commentary that says whether freedom was the whole remedy."
+  },
+  {
+   "text": "Josephus's version of the law of maiming (about AD 93) is that the offender suffers the same loss 'unless he that is maimed will accept of money instead of it', because the law lets the injured person judge the value of the loss.",
+   "source": "Josephus, Antiquities of the Jews (Whiston translation), Book IV, chapter 8, section 35",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 577647,
+     "quote": "He that maimeth any one, let him undergo the like himself, and be deprived of the same member of which he hath deprived the other, unless he that is maimed will accept of money instead of it"
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 577841,
+     "quote": "for the law makes the sufferer the judge of the value of what he hath suffered"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "This is Josephus's summary of the law for free persons and does not mention servants or eyes by name."
+  },
+  {
+   "text": "Hammurabi's Code also deals with eye operations. A doctor who opens an abscess of the eye with a bronze lancet and cures it takes ten shekels of silver (section 215); if the eye is lost, a doctor's hands are cut off when the patient is a gentleman (section 218), but for a poor man's slave he pays half the slave's price (section 220). The shelf's 1915 encyclopaedia adds that Hammurabi's surgeon rules were 'an effective preventive against quacks'.",
+   "source": "C. H. W. Johns (translator), The Oldest Code of Laws in the World (1903), Code of Hammurabi, sections 215, 218, 220; International Standard Bible Encyclopaedia (1915), entry 'Hammurabi', vol 2, p. 1331",
+   "evidence": [
+    {
+     "file": "hammurabi_johns_pg17150.txt",
+     "offset": 54106,
+     "quote": "or has opened an abscess of the eye for a gentleman with the bronze lancet and has cured the eye of the gentleman, he shall take ten shekels of silver."
+    },
+    {
+     "file": "hammurabi_johns_pg17150.txt",
+     "offset": 54690,
+     "quote": "has caused the loss of the gentleman's eye, one shall cut off his hands."
+    },
+    {
+     "file": "hammurabi_johns_pg17150.txt",
+     "offset": 54925,
+     "quote": "section 220. If he has opened his abscess with a bronze lancet and has made him lose his eye, he shall pay money, half his price."
+    },
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 5650686,
+     "quote": "Certainly this law was an effective preventive against quacks!"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "A side-find, not part of Exodus 21. The point for Brian is only that eyes were already being operated on, and sight lost in the operating room had a penalty that depended on rank."
+  }
+ ],
+ "law-priest": [
+  {
+   "text": "Matthew Henry's text of Leviticus 21:22-23 shows what the priest with a blemish kept and what he lost: he 'shall eat the bread of his God, both of the most holy, and of the holy', but shall not go in to the veil or come near the altar.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Leviticus 21 (text of verses 22-23 as printed by Henry)",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 3041231,
+     "quote": "22 He shall eat the bread of his God, both of the most holy, and of the holy. 23 Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "On the same verses Henry says the priest with a blemish was entitled to his share of the sacrifices, even the most holy things such as the show-bread and sin-offerings. His reason: the blemishes were ones the priest could not help, 'therefore, though they might not work, they must not starve', and 'None must be abused for their natural infirmities.'",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Leviticus 21",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 3042285,
+     "quote": "He shall eat of the sacrifices with the other priests, even the most holy things, such as the show-bread and the sin-offerings, as well as the holy things"
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 3042534,
+     "quote": "The blemishes were such as they could not help, and therefore, though they might not work, they must not starve. Note, None must be abused for their natural infirmities."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry goes on to say 'the deformed child in the family must have its child's part'; 'deformed' is dated wording and is not reproduced."
+  },
+  {
+   "text": "Henry notes that the list of blemishes mixed lasting ones, 'as blindness', with passing ones such as a scab, where the disability ceased when the condition cleared. His reason for the rule is about public appearance: it was 'requisite that comely men should be chosen to minister about holy things, for the sake of the people, who were apt to judge according to outward appearance'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Leviticus 21",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 3041976,
+     "quote": "Divers blemishes are here specified; some that were ordinarily for life, as blindness; others that might be for a time, as a scurf or scab, and, when they were gone, the disability ceased."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 3043183,
+     "quote": "But it was especially requisite that comely men should be chosen to minister about holy things, for the sake of the people, who were apt to judge according to outward appearance, and to think meanly of the service"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The second quotation gives Henry's own reason (appearance and reputation of the sanctuary); the Bible text does not give a reason in these verses. Henry's wording ('comely', 'disfigured') should not be adopted."
+  },
+  {
+   "text": "Henry's gospel application: people who live with such blemishes 'have reason to thank God that they are not thereby excluded from offering spiritual sacrifices to God', nor, if otherwise qualified, from the ministry.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Leviticus 21",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 3043821,
+     "quote": "Under the gospel, 1. Those that labour under any such blemishes as these have reason to thank God that they are not thereby excluded from offering spiritual sacrifices to God; nor, if otherwise qualified for it, from the office of the ministry."
+    }
+   ],
+   "confidence": "high",
+   "caution": "In the next sentences Henry uses 'spiritually blind, and lame' as pictures of sinful ministers. That figure runs the two senses of blindness together and is not repeated."
+  },
+  {
+   "text": "The 1915 encyclopaedia says the existence of a blemish in a man of priestly descent kept him from the priestly office, and that the same held for animals fit for sacrifice. It identifies the eye blemish of Leviticus 21:20 as cataract or white spots in the eye.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Blemish', vol 1, pp. 486-487",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3969400,
+     "quote": "The existence of a blem ish in a person of priestly descent prevented him from the execution of the priestly office; similarly an animal fit for sacrifice was to be without blemish."
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3970237,
+     "quote": "cataract, white spots in the eye (Lev 21 20)."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The identification with cataract is the encyclopaedia's (the Hebrew word is uncertain)."
+  },
+  {
+   "text": "Josephus, giving the law, says a priest with any blemish 'should have his portion indeed among the priests', but was forbidden to go up to the altar or into the holy house.",
+   "source": "Josephus, Antiquities of the Jews (Whiston translation), Book III, chapter 12, section 2",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 434606,
+     "quote": "He ordered that the priest who had any blemish, should have his portion indeed among the priests, but he forbade him to ascend the altar, or to enter into the holy house."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Later rules about sight and the blessing. The 1915 encyclopaedia says that among those excluded from pronouncing the priestly blessing was one who 'was blind even of one eye'. Edersheim, describing synagogue worship, says the 'tephillah' (the prayer proper), 'as well as the priestly benediction', could not be pronounced by those 'so blind as not to be able to discern daylight', and that the Mishnah directed that priests with blemishes on their hands were not to pronounce the benediction. That makes the rule a matter of degree.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Benediction', vol 1, p. 435; Edersheim, Sketches of Jewish Social Life (1876), chapter 17",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3555856,
+     "quote": "If one was blind even of one eye, or had a defect in his hands or speech, or was a hunchback, he was also excluded."
+    },
+    {
+     "file": "edersheim_sketches.txt",
+     "offset": 496220,
+     "quote": "But the Mishnah already directs that priests having blemishes on their hands, or their fingers dyed, were not to pronounce the benediction"
+    },
+    {
+     "file": "edersheim_sketches.txt",
+     "offset": 497064,
+     "quote": "could not be pronounced by those who were not properly clothed, nor by those who were so blind as not to be able to discern daylight."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The two sources disagree on how much sight was required (one eye versus daylight); neither says which period it describes. Edersheim's sentence is in his chapter on synagogue prayer, so it may concern leading prayer there and not the Temple. He is reporting rabbinic rules written down after the New Testament era."
+  },
+  {
+   "text": "Edersheim adds a related rule from the Mishnah: priests with blemishes on their hands, face or feet were not to pronounce the blessing, 'so as not to attract attention'; he adds that this 'presumably refers to those officiating in the Temple'.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah (1883), Book III, chapter X",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1385650,
+     "quote": "According to the Mishnah, they who pronounce the benediction must have no blemish on their hands, face, or feet, so as not to attract attention; but this presumably refers to those officiating in the Temple."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Rabbinic rules, not the text of Leviticus. Edersheim writes of the Temple practice of the first century AD from later records."
+  },
+  {
+   "text": "Josephus records that the priestly blemish rule was used in his own history: in the first century BC Antigonus, brought back into Judea by the king of the Parthians, cut off the ears of his rival, the high priest Hyrcanus, so that the high priesthood 'should never come to him any more', 'while the law required that this dignity should belong to none but such as had all their members entire'.",
+   "source": "Josephus, Antiquities of the Jews (Whiston translation), Book XIV, chapter 13, section 10",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 2117488,
+     "quote": "he cut off his ears, and thereby took care that the high priesthood should never come to him any more, because he was maimed, while the law required that this dignity should belong to none but such as had all their members entire"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The man was not blind, and the injury was inflicted to bar him, but it shows the law about the priesthood was still read literally in the first century BC."
+  }
+ ],
+ "law-blind-animals": [
+  {
+   "text": "Matthew Henry on Leviticus 22: the first of the four laws is that whatever was offered had to be without blemish, and the chapter now says what counted as a blemish: if the beast 'was blind, or lame, had a wen, or the mange' (verse 22).",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Leviticus 22",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 3059647,
+     "quote": "Whatever was offered in sacrifice to God should be without blemish, otherwise it should not be accepted."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 3059854,
+     "quote": "Now here they are told what was to be accounted a blemish which rendered a beast unfit for sacrifice: if it was blind, or lame, had a wen, or the mange (v. 22)"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Henry gives the reason as honour to God: everything used for his honour should be the best of its kind, 'he that is the best must have the best'. He adds that the law made the sacrifices fitter to be types of Christ, 'a Lamb without blemish and without spot' (1 Peter 1:19).",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Leviticus 22",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 3062372,
+     "quote": "It was fit that every thing that was employed for his honour should be the best of the kind; for, as he is the greatest and brightest, so he is the best of beings; and he that is the best must have the best."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 3062842,
+     "quote": "In allusion to this law, he is said to be a Lamb without blemish and without spot, 1 Pet. i. 19."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Henry sets Israel's rule beside the neighbours' practice: 'The heathen priests were many of them not so strict in this matter, but would receive sacrifices for their gods that were ever so scandalous; but let strangers know that the God of Israel would not be so served.'",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Leviticus 22",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 3062019,
+     "quote": "The heathen priests were many of them not so strict in this matter, but would receive sacrifices for their gods that were ever so scandalous; but let strangers know that the God of Israel would not be so served."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's claim about 'the heathen priests' is a general statement with no source given; the shelf has nothing to check it against."
+  },
+  {
+   "text": "Henry on Deuteronomy 15:21 ('if there be any blemish therein, as if it be lame, or blind'): a blemished firstling 'must not be brought near the sanctuary' but 'must not be reared, but killed and eaten at their own houses as common food'. Verse 22 says the unclean and the clean person may eat it alike.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Deuteronomy 15",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 4483925,
+     "quote": "if there be any blemish therein, as if it be lame, or blind, or have any ill blemish, thou shalt not sacrifice it unto the Lord thy God. 22 Thou shalt eat it within thy gates: the unclean and the clean person shall eat it alike"
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 4485606,
+     "quote": "it must not be brought near the sanctuary, nor used either for sacrifice or for holy feasting, for it would not be fit to honour God with, nor to typify Christ, who is a Lamb without blemish; yet it must not be reared, but killed and eaten at their own houses as common food"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Malachi 1:8 and Henry's reading. The prophet says: 'if ye offer the blind for sacrifice, is it not evil? ... offer it now unto thy governor; will he be pleased with thee?' Henry reads it as an argument from honour: would they dare treat an earthly prince so, as a tribute or a present, and would he not take it as an affront?",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Malachi 1",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 8585932,
+     "quote": "And if ye offer the blind for sacrifice, is it not evil? and if ye offer the lame and sick, is it not evil? offer it now unto thy governor; will he be pleased with thee, or accept thy person? saith the Lord of hosts."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 8601785,
+     "quote": "Would they, durst they, affront an earthly prince thus? \"You offer to God the lame and the sick; offer it now unto thy governor (v. 8), either as tribute or as a present"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Easton's dictionary groups the two rules in one entry: 'Blemish' is an imperfection 'excluding men from the priesthood, and rendering animals unfit to be offered in sacrifice (Lev. 21:17-23; 22:19-25)'. The 1915 encyclopaedia says the same in one sentence.",
+   "source": "Easton's Bible Dictionary (1897), entry 'Blemish'; International Standard Bible Encyclopaedia (1915), entry 'Blemish', vol 1, pp. 486-487",
+   "evidence": [
+    {
+     "file": "easton_ebd.txt",
+     "offset": 418271,
+     "quote": "excluding men from the priesthood, and rendering animals unfit to be offered in sacrifice (Lev. 21:17-23; 22:19-25)."
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3969539,
+     "quote": "similarly an animal fit for sacrifice was to be without blemish."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Easton's opening word for a blemish is a dated term for a bodily difference and is cut from the quotation."
+  },
+  {
+   "text": "Henry also reads the verse as a rule for worship: 'If our devotions are ignorant, and cold, and trifling, and full of distractions, we offer the blind, and the lame, and the sick, for sacrifice'. Here blindness stands for a poor offering.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Leviticus 22",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 3063657,
+     "quote": "If our devotions are ignorant, and cold, and trifling, and full of distractions, we offer the blind, and the lame, and the sick, for sacrifice; but cursed be the deceiver that does so"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "This is the commentator's figure for poor worship. It uses 'the blind' as an image of something second-rate and should not be carried over to people; included so Brian can see how the verse was applied."
+  }
+ ],
+ "life-camp": [
+  {
+   "text": "Smith's dictionary says that when the pasture near an encampment is used up the tents are taken down, packed on camels and moved, citing Genesis 26:17, 22 and 25, which are the passages about Isaac's moves.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Tent'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2925648,
+     "quote": "When the pasture near an encampment is exhausted, the tents are taken down, packed on camels and removed. (Genesis 26:17,22,25; Isaiah 38:12)"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Smith's describes the tent itself: a covering of black goat's hair, usually nine tent-poles in three groups, ropes fastened to pins driven in with a mallet, and a carpet partition dividing the tent in two. It also says that Arabs choosing a camp 'prefer the neighborhood of trees, for the sake of the shade and coolness'.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Tent'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2924612,
+     "quote": "made of black goat's-hair"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2924767,
+     "quote": "The tent-poles or columns are usually nine in number, placed in three groups"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2925217,
+     "quote": "The ends of the tent-ropes are fastened to short sticks or pins, which are driven into the ground with a mallet."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2925469,
+     "quote": "The tent is divided into two apartments, separated by a carpet partition drawn across the middle of the tent and fastened to the three middle posts."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2925810,
+     "quote": "In choosing places for encampment, Arabs prefer the neighborhood of trees, for the sake of the shade and coolness which they afford. (Genesis 18:4,8)"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Describes the modern Arab tent as known to the 19th-century editors. Nothing on the shelf says what the layout, the ropes or the pins meant for someone who could not see; that is for Brian or a later source."
+  },
+  {
+   "text": "Smith's on shepherds: in a nomadic society 'every man, from the sheikh down to the slave, is more or less a shepherd', and the work meant exposure to heat and cold, wild beasts and raiders.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Shepherd'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2650599,
+     "quote": "In a nomadic state of society every man, from the sheikh down to the slave, is more or less a shepherd."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2651588,
+     "quote": "He was exposed to the extremes of heat and cold, (Genesis 31:40)"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2651983,
+     "quote": "he had to encounter the attacks of wild beasts, occasionally of the larger species"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2652195,
+     "quote": "nor was he free from the risk of robbers or predators hordes."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Smith's on wells: they are usually cut into solid limestone, 'sometimes with steps to descend into them', with a stone curb or low wall round the mouth, and water is drawn with a rope and bucket or waterskin among other methods.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Well'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 3167018,
+     "quote": "Wells in Palestine are usually excavated from the solid limestone rock, sometimes with steps to descend into them. (Genesis 24:16)"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 3167169,
+     "quote": "The brims are furnished with a curb or low wall of stone"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 3167756,
+     "quote": "The rope and bucket, or waterskin. (Genesis 24:14-20; John 4:11)"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Describes wells of Palestine as seen in the 19th century. Genesis 26 is about wells in the Philistine country around Gerar and Beersheba."
+  },
+  {
+   "text": "Henry on Genesis 26: when the Philistines expelled Isaac and gave him 'continual molestation' and forced him to move from place to place, God visited him; Isaac 'pitched his tent there: and there Isaac's servants digged a well'. This is the setting a father moving between camps is in when Genesis 27 opens.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Genesis 26",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 950986,
+     "quote": "And he builded an altar there, and called upon the name of the Lord, and pitched his tent there: and there Isaac's servants digged a well."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 957421,
+     "quote": "When the Philistines expelled him, forced him to remove from place to place, and gave him continual molestation, then God visited him"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The first quotation is the King James text as printed by Henry; the second is Henry's comment. The link to Genesis 27 is the writer's."
+  },
+  {
+   "text": "Henry on Genesis 27:1: Esau 'though married, had not yet removed', and his parents had not expelled him despite grief over his marriage, so the blind father's household still had grown sons near it.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Genesis 27",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 968893,
+     "quote": "He calls him to him, v. 1. For Esau, though married, had not yet removed; and, though he had greatly grieved his parents by his marriage, yet they had not expelled him"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry is explaining why Esau was within call; he says nothing about daily care of a blind man."
+  },
+  {
+   "text": "Smith's on caring for the infirm in Israel: 'Those who were indigent through bodily infirmities were usually taken care of by their kindred.' This is a general statement about the Hebrews, not about camps.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Beggar, Begging'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 326448,
+     "quote": "Those who were indigent through bodily infirmities were usually taken care of by their kindred."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "General statement; 'usually' is Smith's hedge. Smith's gives no source for it."
+  },
+  {
+   "text": "The 1915 encyclopaedia on the setting for eye disease: the diseases are 'aggravated by sand, and the sun glare', purulent eye disease is spread by flies, and the blindness of old age 'probably from senile cataract' is named in Eli, Ahijah and Isaac.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Blindness', vol 1, pp. 487-488",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3978064,
+     "quote": "All these diseases are aggravated by sand, and the sun glare, to which the unprotected inflamed eyes are exposed."
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3977076,
+     "quote": "a purulent ophthalmia, a highly infectious condition propagated largely by the flies"
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3978973,
+     "quote": "The blindness of old age, probably from senile cataract, is described in the cases of Eli at 98 years of age (1 S 3 2; 4 15), Ahijah (1 K 14 4), and Isaac (Gen 27 1)."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Written by a physician in 1915 who describes some conditions in language not repeated here; the medical claims are a century old."
+  }
+ ],
+ "life-village": [
+  {
+   "text": "Smith's on Shiloh: it lay 'on the north side of Bethel, on the east side of the highway that goeth up from Bethel to Shechem and on the south of Lebonah' (Judges 21:19); the ark was kept there 'from the last days of Joshua to the time of Samuel', and it was one of the earliest and most sacred Hebrew sanctuaries.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Shiloh'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2663811,
+     "quote": "Shiloh was one of the earliest and most sacred of the Hebrew sanctuaries."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2663090,
+     "quote": "it is said that Shiloh is \"on the north side of Bethel, on the east side of the highway that goeth up from Bethel to Shechem and on the south of Lebonah.\""
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Wikipedia's article says people made pilgrimages to Shiloh for major feasts and sacrifices and that Judges 21 records an annual dance of maidens among the vineyards there.",
+   "source": "Wikipedia, 'Shiloh (biblical city)', revision of 26 September 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Shiloh_biblical_city.wiki.txt",
+     "offset": 10593,
+     "quote": "The people made [[pilgrimage]]s there for major feasts and sacrifices, and [[Judges 21]] records the place as the site of an annual dance of maidens among the [[vineyard]]s."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Wikipedia's account of the site's history is partly disputed in the article itself (it notes disagreement over the date and cause of its destruction)."
+  },
+  {
+   "text": "Henry's text of 1 Samuel 1:3 shows the yearly rhythm of the sanctuary town: Elkanah 'went up out of his city yearly to worship and to sacrifice unto the Lord of hosts in Shiloh'; Hannah brought Samuel's little coat 'from year to year'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Samuel 1-2 (text of the verses)",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1580521,
+     "quote": "And this man went up out of his city yearly to worship and to sacrifice unto the Lord of hosts in Shiloh."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1646155,
+     "quote": "Moreover his mother made him a little coat, and brought it to him from year to year, when she came up with her husband to offer the yearly sacrifice."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Both quotations are the King James text as printed in Henry's volume, not Henry's own words."
+  },
+  {
+   "text": "Henry on 1 Samuel 3 pictures young Samuel sleeping 'in some closet near to Eli's room, as his page of the back-stairs, ready within call if the old man should want any thing in the night, perhaps to read to him if he could not sleep'. On this picture the household at the sanctuary supplied the help.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Samuel 3",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1686892,
+     "quote": "Samuel had laid down to sleep, in some closet near to Eli's room, as his page of the back-stairs, ready within call if the old man should want any thing in the night, perhaps to read to him if he could not sleep."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1686807,
+     "quote": "an affliction which came justly upon him for winking at his sons' faults"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The arrangement is Henry's picture, not stated in the text. In the sentence before it Henry says Eli's dim eyes 'came justly upon him for winking at his sons' faults'; that links blindness to the person's sin and is the idea John 9:3 rejects. It is not repeated."
+  },
+  {
+   "text": "The text of 1 Samuel 4:13-18 as printed by Henry shows Eli at the town's entrance: he 'sat upon a seat by the wayside watching', heard the crying and asked 'What meaneth the noise of this tumult?', and 'fell from off the seat backward by the side of the gate'. At 98 'his eyes were dim, that he could not see.'",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Samuel 4 (text of the verses)",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1730743,
+     "quote": "lo, Eli sat upon a seat by the wayside watching: for his heart trembled for the ark of God."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1731066,
+     "quote": "Now Eli was ninety and eight years old; and his eyes were dim, that he could not see."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1730920,
+     "quote": "And when Eli heard the noise of the crying, he said, What meaneth the noise of this tumult?"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1731615,
+     "quote": "he fell from off the seat backward by the side of the gate, and his neck brake, and he died"
+    }
+   ],
+   "confidence": "high",
+   "caution": "King James text as printed in Henry. 'Heard the noise' is what the verse says; the verse does not say who led or seated him."
+  },
+  {
+   "text": "Henry's text of 1 Kings 14:4-6 for Ahijah of Shiloh: 'Ahijah could not see; for his eyes were set by reason of his age', and 'when Ahijah heard the sound of her feet, as she came in at the door', he spoke before she did.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Kings 14 (text of the verses)",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3684349,
+     "quote": "But Ahijah could not see; for his eyes were set by reason of his age."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3684702,
+     "quote": "when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam"
+    }
+   ],
+   "confidence": "high",
+   "caution": "King James text as printed in Henry. Brian has pointed out that the verse does not say he recognised her footsteps; the verse leaves it open how he knew."
+  },
+  {
+   "text": "Smith's on the rural house: 'mere huts of mud or sunburnt bricks', usually one storey and often one room, sometimes with the cattle in the same building; windows 'small apertures high up in the walls'; flat roofs where booths of boughs are raised as sleeping-places in summer.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'House'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1035143,
+     "quote": "The houses of the rural poor in Egypt, as well as in most parts of Syria, Arabia and Persia, are generally mere huts of mud or sunburnt bricks."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1035459,
+     "quote": "The houses are usually of one story only, viz., the ground floor, and often contain only one apartment."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1035639,
+     "quote": "in some cases the cattle are housed in the same building"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1035820,
+     "quote": "The windows are small apertures high up in the walls, sometimes grated with wood."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1036060,
+     "quote": "upon the flat roofs, tents or \"booths\" of boughs or rushes are often raised to be used as sleeping-places in summer."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Describes village houses of the 19th-century East; the Shiloh of Eli is some three thousand years earlier."
+  },
+  {
+   "text": "Smith's on roads: in the East 'the eastern roads are more like our paths', and on villages: Arab villages 'are often mere collections of stone huts'.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Road; Village'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2427037,
+     "quote": "Where a travelled road is meant \"path\" or \"way\" is used, since the eastern roads are more like our paths."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 3125715,
+     "quote": "Arab villages, as found in Arabia, are often mere collections of stone huts"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Dictionary of 1863; general statement, not about Shiloh."
+  }
+ ],
+ "life-town-gate": [
+  {
+   "text": "The 1915 encyclopaedia on the gate: 'most of the men passed through the gate every day, and the gate was the place for meeting others and for assemblages'; open places near it were 'the centers of the public life', markets were held there, and the gate was the place of the legal tribunals.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Gate', vol 2, p. 1170",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 4338900,
+     "quote": "(2) As even farm laborers slept in the cities, most of the men passed through the gate every day, and the gate was the place for meeting others (Ruth 4 1; 2 S 15 2) and for assemblages."
+    },
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 4339477,
+     "quote": "In particular, the \"gate\" was the place of the legal tribunals"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Smith's on the gate: it was a place for public deliberation and justice and for markets, and gates 'were carefully guarded, and closed at nightfall'. Easton's adds that courts were 'frequently held' at the gates of cities, and that prophets delivered their messages there. The 1915 encyclopaedia thinks Jerusalem of the Jebusites was a small place 'encircled with powerful walls, with but one or perhaps two gates'.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Gate'; Easton's Bible Dictionary (1897), entry 'Gate'; International Standard Bible Encyclopaedia (1915), entry 'Jerusalem', vol 3, p. 1614",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 823642,
+     "quote": "Places for public deliberation, administration of Justice, or of audience for kings and rulers or ambassadors."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 823841,
+     "quote": "Public markets. (2 Kings 7:1)"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 824031,
+     "quote": "Regarded therefore as positions of great importance, the gates of cities were carefully guarded, and closed at nightfall."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 1156544,
+     "quote": "At the gates of cities courts of justice were frequently held, and hence \"judges of the gate\" are spoken of"
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 1156715,
+     "quote": "At the gates prophets also frequently delivered their messages"
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 2018440,
+     "quote": "it is probable that Jerus was like other contemporary fortified sites, a compara- t ively small place encircled wit h power-"
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 2018601,
+     "quote": "ful walls, with but one or perhaps two the Jebu- gates;"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The Jerusalem quotation is the 1915 writer's inference about the pre-Davidic city, not a statement about Israelite towns generally; the OCR has the page's side-headings run into the sentence ('3. Site of ... the Jebu-')."
+  },
+  {
+   "text": "Wikipedia's article on city gates: they were built 'to provide a point of controlled access to and departure from a walled city for people, vehicles, goods and animals', and also displayed public information such as announcements and legal texts.",
+   "source": "Wikipedia, 'City gate', revision of 27 September 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_City_gate.wiki.txt",
+     "offset": 596,
+     "quote": "City gates were traditionally built to provide a point of controlled access to and departure from a walled city for people, vehicles, goods and animals."
+    },
+    {
+     "file": "wikipedia_City_gate.wiki.txt",
+     "offset": 956,
+     "quote": "The city gate was also commonly used to display diverse kinds of public information such as announcements, tax and toll schedules, standards of local measures, and legal texts."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "A general article on city gates in many countries and periods; only the opening description is used."
+  },
+  {
+   "text": "Henry on Job 29: Job's 'I was eyes to the blind' comes within a passage about the gate, the 'place of judgment', where 'judgment was administered in the gate, in the street, in the places of concourse, to which every man might have a free access'. Henry reads 'eyes to the blind' as giving advice, 'counselling and advising those for the best that knew not what to do', and says we best help people in the very thing they lack.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Job 29",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 942222,
+     "quote": "Observe, Judgment was administered in the gate, in the street, in the places of concourse, to which every man might have a free access"
+    },
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 950629,
+     "quote": "I was eyes to the blind, counselling and advising those for the best that knew not what to do"
+    },
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 950857,
+     "quote": "Those we best help whom we help out in that very thing wherein they are defective and most need help."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry reads 'the blind' figuratively (people without direction) and does not discuss a person who cannot see."
+  },
+  {
+   "text": "Henry on 1 Samuel 11: the Ammonite king offered the men of Jabesh-gilead a covenant if they would 'thrust out all your right eyes'. Henry explains the purpose: to disable them for war, because soldiers fought with shields in the left hand covering the left eye, 'so that a soldier without his right eye was in effect blind'. Wikipedia says the townspeople were told they had 'a choice of death by sword or having their right eyes gouged out' and Smith's calls Jabesh 'the chief' of the cities of Gilead.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Samuel 11; Wikipedia, 'Jabesh-Gilead', revision of 15 July 2026 (CC BY-SA 4.0); Smith's Bible Dictionary (1884 edition), entry 'Jabesh'",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1927810,
+     "quote": "They must disable them for war, and render them incapable, though not of labour (that would have been a loss to their lords), yet of bearing arms"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1928061,
+     "quote": "so that a soldier without his right eye was in effect blind."
+    },
+    {
+     "file": "wikipedia_Jabesh-Gilead.wiki.txt",
+     "offset": 3867,
+     "quote": "but were told by Nahash that they had a choice of death by sword or having their right eyes gouged out."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's explanation of the military reason is his own; the text says only that it was to be 'a reproach upon all Israel'."
+  },
+  {
+   "text": "Smith's on Jericho: its walls 'were so considerable that houses were built upon them'; Wikipedia says 'copious springs in and around the city have attracted human habitation for thousands of years'.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Jericho'; Wikipedia, 'Jericho', revision of 23 September 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1197951,
+     "quote": "Its walls were so considerable that houses were built upon them."
+    },
+    {
+     "file": "wikipedia_Jericho.wiki.txt",
+     "offset": 6319,
+     "quote": "Copious springs in and around the city have attracted human habitation for thousands of years."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Smith's on the street and the beggar's place: streets of an eastern town are 'generally narrow, tortuous and gloomy' and each street 'is locked up at night'; beggars 'were accustomed, it would seem, to have a fixed place at the corners of the streets, or at the gates of the temple, or of private houses'.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Street'; Smith's Bible Dictionary (1884 edition), entry 'Beggar, Begging'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2799297,
+     "quote": "The streets of a modern Oriental town present a great contrast to those with which we are familiar, being generally narrow, tortuous and gloomy, even in the best towns."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2800652,
+     "quote": "Each street and bazaar in a modern town is locked up at night; the same custom appears to have prevailed in ancient times."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 326673,
+     "quote": "In later times beggars were accustomed, it would seem, to have a fixed place at the corners of the streets, (Mark 10:46) or at the gates of the temple, (Acts 3:2) or of private houses, (Luke 16:20)"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Smith's describes 'a modern Oriental town' of 1863 for the first quotation; the second is about 'later times', meaning New Testament times, not Job's or Jabesh's."
+  },
+  {
+   "text": "Josephus on the Jebusite walls: the inhabitants 'shut their gates, and placed the blind, and the lame, and all their maimed persons, upon the wall, in way of derision of the king'. Henry's alternative is that the blind and lame were invalid or maimed soldiers set on the walls 'in scorn of David'. The 1915 encyclopaedia thinks the words were a challenge, with David turning the term back on the Jebusites as a mocking name.",
+   "source": "Josephus, Antiquities of the Jews (Whiston translation), Book VII, chapter 3, section 1; Matthew Henry, Commentary on the Whole Bible (1706-1721), on 2 Samuel 5; International Standard Bible Encyclopaedia (1915), entry 'Jerusalem', vol 3, p. 1614",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 950769,
+     "quote": "shut their gates, and placed the blind, and the lame, and all their maimed persons, upon the wall, in way of derision of the king"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 2667413,
+     "quote": "Probably they set blind and lame people, invalids or maimed soldiers, to make their appearance upon the walls, in scorn of David and his men"
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 2019477,
+     "quote": "challenged David: \"Thou shalt not come in hither, but the blind and the lame shall turn thee away\" (ver 6 in), and that David directed his followers to go up the \"watercourse\" and smite the \"lame and the blind\" — a term he in his turn applies mockingly to the Jebusites."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "This is a contested verse; the sources do not agree on whether real blind people were on the wall. Josephus is a late retelling."
+  }
+ ],
+ "life-jerusalem": [
+  {
+   "text": "Edersheim on where the man born blind of John 9 probably sat: the entrance to the Temple 'was then ... the chosen spot for those who, as objects of pity, solicited charity', and he thinks the miracle took place at the entering to the Temple or on the Temple Mount. He says the blind beggar was probably asking 'in some such terms as these, which were common at the time: Gain merit by me'.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah (1883), Book IV, chapter IX",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2635977,
+     "quote": "the entrance to the Temple or its Courts was then - as that of churches is on the Continent - the chosen spot for those who, as objects of pity, solicited charity"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2637150,
+     "quote": "Gain merit by me;' or, O tenderhearted, by me gain merit, to thine own benefit."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim says 'presumably' and 'we can scarcely doubt'; it is his inference, not stated in John. 'Objects of pity' is his phrase."
+  },
+  {
+   "text": "Smith's on begging places: 'in later times beggars were accustomed ... to have a fixed place at the corners of the streets, ... or at the gates of the temple, or of private houses' (Mark 10:46, Acts 3:2, Luke 16:20). Smith's also says that in the Old Testament those poor through bodily infirmities were usually cared for by their kindred, and that a beggar 'was regarded and abhorred as a vagabond'.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Beggar, Begging'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 326448,
+     "quote": "Those who were indigent through bodily infirmities were usually taken care of by their kindred."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 326554,
+     "quote": "A beggar was sometimes seen, however, and was regarded and abhorred as a vagabond. (Psalms 109:10)"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 326673,
+     "quote": "In later times beggars were accustomed, it would seem, to have a fixed place at the corners of the streets, (Mark 10:46) or at the gates of the temple, (Acts 3:2) or of private houses, (Luke 16:20)"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "'Abhorred as a vagabond' is Smith's gloss on Psalm 109:10 and describes the Old Testament view of the wicked's children, not the blind. Care or containment: the sources describe the places but do not say who chose them."
+  },
+  {
+   "text": "The 1915 encyclopaedia (article 'Begging', by Geo. B. Eager) says begging grew with the larger cities, that 'beggars formed a considerable class in the gospel age', and names the places: the entrance to Jericho, 'a gateway to pilgrims going up to Jerus to the great festivals', the neighbourhood of rich men's houses, and 'esp. the gates of the Temple'. It gives as causes the lack of any adequate system of relief, the lack of medical science and the resulting ignorance of remedies for common diseases like ophthalmia, and the Roman taxation.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Beg, Beggar, Begging', vol 1, pp. 425-426",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3476422,
+     "quote": "Begging, however, came to be known to the Jews in the course of time with the development of the larger cities"
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3478674,
+     "quote": "Begging was well known and beggars formed a considerable class in the gospel age."
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3479072,
+     "quote": "which was a gateway to pilgrims going up to Jerus to the great festivals and in the neigh borhood of rich men's houses (Lk 16 20), and esp. the gates of the Temple at Jerus (Acts 3 2)."
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3479295,
+     "quote": "This prevalence of begging was due largely to the want of any adequate system of ministering relief, to the lack of any true medical science and the resulting ignorance of remedies for common dis eases like ophthalmia, for instance"
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3479567,
+     "quote": "and to the impoverishment of the land under the excessive taxation of the Rom government"
+    }
+   ],
+   "confidence": "high",
+   "caution": "The same entry goes on to describe modern European Jewish beggars in language that is prejudiced; none of that is used here."
+  },
+  {
+   "text": "Edersheim on charity in the Jewish towns: 'Alms were collected at regular times every week, either in money or in victuals', two people collecting and three distributing, 'so as to avoid the suspicion of dishonesty or partiality'; and a Rabbinic saying that when a poor man stands at your door, God stands at his right hand.",
+   "source": "Edersheim, Sketches of Jewish Social Life (1876), chapters 4 and 18",
+   "evidence": [
+    {
+     "file": "edersheim_sketches.txt",
+     "offset": 509231,
+     "quote": "Alms were collected at regular times every week, either in money or in victuals. At least two were employed in collecting, and three in distributing charity, so as to avoid the suspicion of dishonesty or partiality."
+    },
+    {
+     "file": "edersheim_sketches.txt",
+     "offset": 88089,
+     "quote": "Whenever,\" we read, \"a poor man stands at thy door, the Holy One, blessed be His Name, stands at his right hand."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Rabbinic sources written down after the New Testament; Edersheim writes that 'such collectors' were not employed in every synagogue."
+  },
+  {
+   "text": "Steps and courts of the Temple. Edersheim: 'Fifteen steps led up to the Upper Court' from the Court of the Women, where the Nicanor Gate was; Josephus: the second court 'was ascended to by fourteen steps from the first court', with further steps to the gates. Edersheim also says the Beautiful Gate 'formed the principal entrance into the Court of the Women' and that a 'flight of steps ... led from the Terrace into the Temple-building'. Easton's dictionary names 'the beautiful gate (Acts 3:2)' among the gates of the outer courts.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah (1883), Book II chapter X, Book IV chapter VI and Book V chapter III; Josephus, The Wars of the Jews (Whiston translation), Book V, chapter 5, section 2; Easton's Bible Dictionary (1897), entry 'Gate'",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 798196,
+     "quote": "Fifteen steps led up to the Upper Court, which was bounded by a wall, and where was the celebrated Nicanor Gate, covered with Corinthian brass."
+    },
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 921345,
+     "quote": "was ascended to by fourteen steps from the first court"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2553504,
+     "quote": "faced the Beautiful Gate,' that formed the principal entrance into the Court of the Women,' and so into the Sanctuary."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3233154,
+     "quote": "had ascended the flight of steps which led from the Terrace' into the Temple-building."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The two accounts disagree on the number of steps (fifteen, fourteen); both describe the Temple before AD 70. Edersheim's layout is a reconstruction from rabbinic and Josephus sources, and the exact position of the 'Beautiful Gate' was disputed."
+  },
+  {
+   "text": "Pool and stair. Wikipedia says archaeologists in the 1880s found 'a stairway of 34 rock-hewn steps to the west of the Pool of Siloam leading up from a court in front of the Pool', and that the pool 'would have been a major gathering place' for pilgrims.",
+   "source": "Wikipedia, 'Pool of Siloam', revision of 20 June 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 9362,
+     "quote": "noted that there was a stairway of 34 rock-hewn steps to the west of the Pool of Siloam leading up from a court in front of the Pool of Siloam."
+    },
+    {
+     "file": "wikipedia_Pool_of_Siloam.wiki.txt",
+     "offset": 6707,
+     "quote": "the pool would have been a major gathering place for ancient Jews making religious pilgrimages to the city."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The stair is described from 19th-century excavation of a pool that was rebuilt in the Roman era; its date is not given in these sentences."
+  },
+  {
+   "text": "Crowds and stepped approaches. Wikipedia says the Hasmoneans 'built wide, stepped roads designed to control the massive crowds and guide them smoothly toward the Temple gates', and that at Passover Jerusalem was packed with pilgrims 'perhaps numbering 300,000 to 400,000'. Josephus (Wars, Book II) gives the crowd at one Passover as 'not fewer in number than three millions'.",
+   "source": "Wikipedia, 'Second Temple', revision of 19 September 2026 (CC BY-SA 4.0); Josephus, The Wars of the Jews (Whiston translation), Book II, chapter 14, section 3",
+   "evidence": [
+    {
+     "file": "wikipedia_Second_Temple.wiki.txt",
+     "offset": 20989,
+     "quote": "the Hasmoneans built wide, stepped roads designed to control the massive crowds and guide them smoothly toward the Temple gates."
+    },
+    {
+     "file": "wikipedia_Second_Temple.wiki.txt",
+     "offset": 39226,
+     "quote": "perhaps numbering 300,000 to 400,000."
+    },
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 400765,
+     "quote": "the people came about him not fewer in number than three millions"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The crowd numbers disagree by a factor of ten and are estimates; Josephus's are probably exaggerated."
+  },
+  {
+   "text": "Roads, terrain and the sound of crowds. Smith's quotes Dean Stanley that Jerusalem's ascent from any side but the south is 'perpetual'; Josephus says the hills around are 'surrounded by deep valleys' that are 'every where unpassable'; Edersheim describes the road from Jericho as 'a rough, but still broad and well-defined mountain-track, winding over rock and loose stones; a steep declivity on the left'. At Jericho, Edersheim says, the blind men by the roadside 'heard the tramp of many feet and the sound of many voices'.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Jerusalem'; Josephus, The Wars of the Jews (Whiston translation), Book V, chapter 4, section 1; Edersheim, The Life and Times of Jesus the Messiah (1883), Book V chapter I and Book IV chapter XXIV",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1207861,
+     "quote": "But from any other side the ascent is perpetual"
+    },
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 907721,
+     "quote": "But on the outsides, these hills are surrounded by deep valleys, and by reason of the precipices to them belonging on both sides they are every where unpassable."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3175838,
+     "quote": "It is now a rough, but still broad and well-defined mountain-track, winding over rock and loose stones; a steep declivity on the left"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3151536,
+     "quote": "As they heard the tramp of many feet and the sound of many voices, they learned that Jesus of Nazareth was passing by."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim describes the road as a traveller saw it in the 19th century and applies it to Jesus's last journey; his Jericho sentence is a retelling of Luke 18:36-37 with the sounds added, and the verses do not say who told the blind men."
+  }
+ ],
+ "walk-by-faith": [
+  {
+   "text": "Matthew Henry on 2 Corinthians 5:7: 'We have not the vision and fruition of God, as of an object that is present with us ... Faith is for this world, and sight is reserved for the other world: and it is our duty, and will be our interest, to walk by faith, till we come to live by sight.' For Henry the 'sight' is seeing God face to face after death.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 2 Corinthians 5:7",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 3645737,
+     "quote": "Faith is for this world, and sight is reserved for the other world: and it is our duty, and will be our interest, to walk by faith, till we come to live by sight."
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 3645576,
+     "quote": "We have not the vision and fruition of God, as of an object that is present with us, and as we hope for hereafter, when we shall see as we are seen."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's 'sight' means the vision of God, not physical sight; he does not discuss blindness here. His 'opening our eyes in a world of glory' language is his picture of death and is not used."
+  },
+  {
+   "text": "Henry sets the verse in Paul's argument: the chapter gives reasons they did not faint under afflictions, namely their 'expectation, desire, and assurance of happiness after death'. Believers, he says, 'are pilgrims and strangers in this world' and 'are absent from the Lord'; 'Faith will be turned into sight.'",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 2 Corinthians 5",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 3637856,
+     "quote": "The apostle proceeds in showing the reasons why they did not faint under their afflictions, namely, their expectation, desire, and assurance of happiness after death (ver. 1-5)"
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 3645213,
+     "quote": "they are absent from the Lord (v. 6); they are pilgrims and strangers in this world; they do but sojourn here in their earthly home, or in this tabernacle"
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 3646881,
+     "quote": "Faith will be turned into sight."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry reads the passage mostly as about death and the life to come; the letter's wider context (afflictions, the 'earthly tent') is the part that speaks of weakness."
+  },
+  {
+   "text": "The 1915 encyclopaedia on faith: pistis in the New Testament normally means 'reliance', 'trust'. On Hebrews 11:1 it denies that faith is 'a faculty of second sight' and says the faith of Abraham, Moses and Rahab 'was simply reliance upon a God known to be trustworthy', which 'enabled the believer to treat the future as present and the invisible as seen'.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Faith', vol 2, pp. 1087-1088",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 3593412,
+     "quote": "But in the over- whelming majority of cases, \"faith,\" as rendering pistis, means \"reliance,\" \"trust.\""
+    },
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 3595584,
+     "quote": "This is sometimes interpreted as if faith, in the writer's view, were, so to speak, a faculty of second sight, a mysterious intuition into the spiritual world."
+    },
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 3595874,
+     "quote": "was simply reliance upon a Cod known to be trustworthy. Such reliance enabled the believer to treat the future as present and the invisible as seen."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The entry explains Hebrews 11:1; it does not discuss 2 Corinthians 5:7. The OCR reads 'Cod' for 'God'."
+  },
+  {
+   "text": "Easton's dictionary: faith's 'primary idea is trust. A thing is true, and therefore worthy of trust.'",
+   "source": "Easton's Bible Dictionary (1897), entry 'Faith'",
+   "evidence": [
+    {
+     "file": "easton_ebd.txt",
+     "offset": 1044899,
+     "quote": "Its primary idea is trust. A thing is true, and therefore worthy of trust."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "The 1915 encyclopaedia's entry 'Walk' lists 2 Corinthians 5:7 under the figurative use of 'walk' for 'conduct and of spiritual states', next to 'walk in the light', 'walk in newness of life' and 'walk by the Spirit'.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Walk', vol 5",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol5.txt",
+     "offset": 2085935,
+     "quote": "the word \"walk\" is used figuratively of conduct and of spiritual states."
+    },
+    {
+     "file": "isbe_1915_vol5.txt",
+     "offset": 2086629,
+     "quote": "\"For we walk by faith, not by sight\" (2 Cor 5 7)."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "On the word for 'sight': the 1915 encyclopaedia glosses the Greek eidos as 'thing seen', 'external appearance', 'shape' and, in its entry 'Appearance', gives 'eidos = \"sight\"' for a verse in 1 Thessalonians. Neither entry discusses the eidos of 2 Corinthians 5:7.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Fashion', vol 2, p. 1099; International Standard Bible Encyclopaedia (1915), entry 'Appearance', vol 1",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 3692549,
+     "quote": "lit. \"thing seen,\" \"external appearance,\" \"shape,\" is trd \"fashion\" in Lk 9 29"
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 1784207,
+     "quote": "See also 1 Thess 6 22 ERVm (eidos = \"sight\")."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The shelf does not tell us what eidos means in 2 Corinthians 5:7. These are general glosses of the word elsewhere; the OCR prints the 1 Thessalonians reference as '6 22' for 5:22."
+  }
+ ],
+ "law-as-evidence": [
+  {
+   "text": "Henry says the Jewish writers thought it impossible that anyone would be 'so barbarous as to put a stumbling-block in the way of the blind', and so read Leviticus 19:14 as a figure for giving bad advice. That is a reading in which the literal act was unthinkable, which cuts against taking the law as evidence of a common practice.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Leviticus 19",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 2978430,
+     "quote": "The Jewish writers, thinking it impossible that any should be so barbarous as to put a stumbling-block in the way of the blind, understood it figuratively, that it forbids giving bad counsel to those that are simple and easily imposed upon"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry reports this; the shelf does not say who the 'Jewish writers' were or how early."
+  },
+  {
+   "text": "Henry on the servant's law: it was intended 'to prevent their being abused' and 'to comfort them if they were abused'. The second purpose assumes abuse happened; the first assumes masters could be deterred.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Exodus 21",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 2127262,
+     "quote": "This was intended, 1. To prevent their being abused; masters would be careful not to offer them any violence, lest they should lose their service."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 2127418,
+     "quote": "To comfort them if they were abused; the loss of a limb should be the gaining of their liberty"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "This is Henry's reading of purpose; it is an argument from the law's wording, not evidence from a case."
+  },
+  {
+   "text": "Henry on the curses of Deuteronomy 27 says that some of them cover wrongs a magistrate 'could not take cognizance of', which God, 'who knows the heart', judges. The curse on those who make the blind wander is in the same list, and the people said Amen to each.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Deuteronomy 27",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 4750797,
+     "quote": "But to set light by them in his heart was a thing which the magistrate could not take cognizance of, and therefore it is here laid under the curse of God, who knows the heart."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry says this about the curse on contempt of parents (verse 16), not about the blind; the use here is by analogy and is the writer's."
+  },
+  {
+   "text": "What neighbouring peoples did: Henry on 1 Samuel 11:2 says the Ammonites asked for the right eye of every man in Jabesh-gilead and explains that 'a soldier without his right eye was in effect blind'. Easton's says 'Conquerors sometimes blinded their captives' (2 Kings 25:7; 1 Samuel 11:2) and Smith's says blindness 'willfully inflicted for political or other purposes' is alluded to in Scripture.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Samuel 11; Easton's Bible Dictionary (1897), entry 'Blind'; Smith's Bible Dictionary (1884 edition), entry 'Blindness'",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1928061,
+     "quote": "so that a soldier without his right eye was in effect blind."
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 420406,
+     "quote": "Conquerors sometimes blinded their captives (2 Kings 25:7; 1 Sam. 11:2)."
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 383094,
+     "quote": "Blindness willfully inflicted for political or other purposes is alluded to in Scripture. (1 Samuel 11:2; Jeremiah 39:7)"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Evidence for neighbours' warfare, not for how they treated blind people in daily life."
+  },
+  {
+   "text": "Hammurabi's Code and Moses: the 1915 encyclopaedia (A. Ungnad) says the parallels between Exodus and the Code are not accidental, 'but just as little could one say that they are directly taken from the Code', and that 'numerous marked divergences also exist'. It compares Leviticus 24:19-20 with sections 196 and following of the Code.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Hammurabi', vol 2, p. 1332",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 5660744,
+     "quote": "One can hardly assert that the parallels quoted are accidental, but just as little could one say that they are directly taken from the Code; for they bear quite a definite impression due to the Israelitish culture, and numerous marked divergences also exist."
+    },
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 5660188,
+     "quote": "Lev 24 19 f with CH, §§ 196 ff"
+    }
+   ],
+   "confidence": "high",
+   "caution": "A 1915 scholar's view; later scholarship has revised dating and relationships and none of that is on the shelf."
+  },
+  {
+   "text": "Wikipedia on what the Babylonian Code was: scholars have disputed whether it was legislation, a 'law report' of past cases, or 'an abstract work of jurisprudence', the last having 'gained much support within Assyriology'. It also notes that the Code's laws are all 'if ... then' cases and that 'unlike in the Mosaic Law, there are no apodictic laws (general commands)'. Leviticus 19:14 is a general command.",
+   "source": "Wikipedia, 'Code of Hammurabi', revision of 2 October 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Code_of_Hammurabi.wiki.txt",
+     "offset": 31216,
+     "quote": "Theories fall into three main categories: that it is [[legislation]], whether a [[code of law]] or a body of [[statute]]s; that it is a sort of [[law report]], containing records of past cases and judgments; and that it is an abstract work of [[jurisprudence]]."
+    },
+    {
+     "file": "wikipedia_Code_of_Hammurabi.wiki.txt",
+     "offset": 31478,
+     "quote": "The jurisprudence theory has gained much support within Assyriology."
+    },
+    {
+     "file": "wikipedia_Code_of_Hammurabi.wiki.txt",
+     "offset": 34300,
+     "quote": "The laws are also strictly casuistic (\"if{{nbsp}}... then\"); unlike in the Mosaic Law, there are no apodictic laws (general commands)."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "If the Code is a scholarly work and not enforced legislation, then its sections are weaker evidence of Babylonian practice than once thought. Wikipedia presents this as a debate."
+  },
+  {
+   "text": "The 1915 encyclopaedia's entry 'Beg, Beggar, Begging' opens by saying it is significant that the Mosaic law 'contains no enactment concerning beggars, or begging', and that this omission 'certainly is not accidental'. It adds that begging 'came to be known to the Jews in the course of time with the development of the larger cities'. Easton's says 'there is no mention of beggars properly so called in the Old Testament'.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Beg, Beggar, Begging', vol 1, p. 425; Easton's Bible Dictionary (1897), entry 'Beg'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3475391,
+     "quote": "It is significant that the Mosaic law contains no enactment concerning beggars, or begging"
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3475845,
+     "quote": "This omis sion certainly is not accidental ; it comports with the very nature of the Mosaic law"
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3476422,
+     "quote": "Begging, however, came to be known to the Jews in the course of time with the development of the larger cities"
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 367585,
+     "quote": "there is no mention of beggars properly so called in the Old Testament"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Both entries are from 1897-1915; they argue from the absence of a law or a word, which is a weak sort of proof."
+  },
+  {
+   "text": "The same entry says the Mosaic provisions 'as far as actually practised, have always virtually done away with beggars and begging among the Jews', and that the spirit of the law is shown in the rule against driving a beggar away without alms.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Beg, Beggar, Begging', vol 1, p. 425",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3476287,
+     "quote": "These laws, as far as actually practised, have always virtually done away with beggars and begging among the Jews."
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3478558,
+     "quote": "it is likewise forbidden to drive a beggar away without an alms"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "'Always virtually' is more than a 1915 encyclopaedia could know, and the entry itself later records begging among the Jews in the gospel age."
+  },
+  {
+   "text": "The Talmud, as described by Wikipedia, reasoned about the blind within the law: it rejected a literal reading of 'an eye for an eye' partly because it would be 'inapplicable to blind or eyeless offenders', and the Torah 'requires that penalties be universally applicable'. The argument is attributed to the Talmud (Bava Kamma 83b-84a).",
+   "source": "Wikipedia, 'Eye for an eye', revision of 2 October 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Eye_for_an_eye.wiki.txt",
+     "offset": 10408,
+     "quote": "argues against the interpretations by [[Sadducees]] that the Bible verses refer to physical retaliation in kind, using the argument that such an interpretation would be inapplicable to blind or eyeless offenders."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "A late rabbinic argument, summarised by Wikipedia; it shows blind people were a thinkable test case for the law, not how they were treated."
+  },
+  {
+   "text": "Greek stories, as Wikipedia summarises them: gods inflict blindness as punishment, and 'sometimes, blind people in Greek mythology are granted special abilities by way of compensation', such as prophecy.",
+   "source": "Wikipedia, 'Cultural depictions of blindness', revision of 13 August 2026 (CC BY-SA 4.0)",
+   "evidence": [
+    {
+     "file": "wikipedia_Cultural_depictions_of_blindness.wiki.txt",
+     "offset": 5266,
+     "quote": "Sometimes, blind people in Greek mythology are granted special abilities by way of compensation."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Myth is not evidence of practice. The shelf has nothing on how any neighbouring people actually treated blind persons."
+  }
+ ]
+}

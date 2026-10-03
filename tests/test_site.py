@@ -155,3 +155,21 @@ def test_context_pages_build_with_open_slots(tmp_path):
     for section in ("law", "life"):
         idx = (tmp_path / section / "index.html").read_text(encoding="utf-8")
         assert all(f'{p["slug"]}.html' in idx for p in pg.by_section(section))
+
+
+def test_context_pages_have_sourced_place_and_time_traced_to_candidates():
+    import json
+    import pages as pg
+    cands = json.loads((ROOT / "data" / "reference" / "law_and_life_candidates.json").read_text(encoding="utf-8"))
+    final = json.loads((ROOT / "data" / "reference" / "law_and_life.json").read_text(encoding="utf-8"))
+    for p in pg.PAGES:
+        assert p.get("place_and_time"), p["slug"]
+        for item in p["place_and_time"]:
+            assert item["source"].strip() and len(item["text"]) > 60
+    for slug, items in final.items():
+        for item in items:
+            for key, idx in item["from"]:
+                assert cands[key][idx]["evidence"], (slug, key, idx)
+    # Hammurabi's eye laws really say what the servant page says they say
+    ham = re.sub(r"\s+", " ", (ROOT / "data" / "raw" / "shelf" / "hammurabi_johns_pg17150.txt").read_text(encoding="utf-8"))
+    assert "his eye one shall cause to be lost" in ham and "one mina of silver" in ham

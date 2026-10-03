@@ -1,0 +1,271 @@
+"""Editorial pass over data/reference/law_and_life_candidates.json for the
+law pages, the Living blind pages and the verse page. Same pattern as
+write_place_and_time.py: each final item records the candidates it rests on.
+
+    python src/write_law_and_life.py   -> data/reference/law_and_life.json
+"""
+from __future__ import annotations
+
+import json
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+CANDIDATES = ROOT / "data" / "reference" / "law_and_life_candidates.json"
+OUT = ROOT / "data" / "reference" / "law_and_life.json"
+
+ISBE = "International Standard Bible Encyclopedia (1915)"
+SMITH = "Smith's Bible Dictionary (1884 edition)"
+EASTON = "Easton's Bible Dictionary (1897)"
+ED = "Edersheim, The Life and Times of Jesus the Messiah (1883)"
+SK = "Edersheim, Sketches of Jewish Social Life (1876)"
+HENRY = "Matthew Henry, Commentary on the Whole Bible (1706-1721)"
+JOS = "Josephus, Antiquities of the Jews (Whiston translation)"
+WAR = "Josephus, The Wars of the Jews (Whiston translation)"
+HAM = "The Code of Hammurabi, translated by C. H. W. Johns (1903)"
+
+
+def item(text, source, *frm, caution=None):
+    d = {"text": text, "source": source, "from": [list(f) for f in frm]}
+    if caution:
+        d["caution"] = caution
+    return d
+
+
+FINAL = {
+    "stumbling-block": [
+        item("Matthew Henry read the command as being about the blind person's safety: to trip a blind man is \"to add "
+             "affliction to the afflicted,\" and the law, he said, also implies a duty to clear stumbling blocks out of "
+             "the way. On the words \"fear your God\" he gave the reason that still holds: the deaf and the blind cannot "
+             "answer back or get even, so people who would never do this to someone able to retaliate are reminded that "
+             "God sees and \"will plead their cause.\"",
+             f"{HENRY}, on Leviticus 19.", ("law-stumbling-block", 0), ("law-stumbling-block", 1)),
+        item("Josephus, summarizing the Law for Roman readers in the first century, put it in everyday terms: it is a "
+             "duty to show the road to people who do not know it, and not to treat sending them the wrong way as a "
+             "joke; and \"let no one revile a person blind or dumb.\" The joke is his detail, not Leviticus's, and it "
+             "tells us what he thought the law was guarding against.",
+             f"{JOS}, Book IV, chapter 8.", ("law-stumbling-block", 5)),
+        item("An honest counterweight to the idea that a law proves a practice: Henry reports that Jewish commentators "
+             "thought it unthinkable that anyone would be \"so barbarous as to put a stumbling-block in the way of the "
+             "blind,\" and so read the verse as a figure for giving bad advice. On that reading the literal act was "
+             "not common; it was the extreme case that made the principle clear. Both readings have been held for a "
+             "long time.",
+             f"{HENRY}, on Leviticus 19 and Deuteronomy 27.", ("law-as-evidence", 0), ("law-stumbling-block", 2)),
+        item("The oldest law code we have, Hammurabi's from Babylon, claims in its prologue that the gods gave the king "
+             "his rule \"to prevent the strong from oppressing the weak,\" and names widows and orphans. The word "
+             "\"blind\" does not occur anywhere in its laws. Israel's Law names the blind and the deaf by name, which is "
+             "itself a difference.",
+             f"Wikipedia, \"Code of Hammurabi,\" revision of 2 October 2026 (CC BY-SA 4.0); {HAM}; {ISBE}, entry \"Hammurabi.\"",
+             ("law-stumbling-block", 6),
+             caution="Johns's 1903 translation omits the prologue; the king's claim is reported from the encyclopedia and Wikipedia."),
+        item("The 1915 encyclopedia sums up the Law's two sides in a sentence: blindness barred a man from the "
+             "priesthood, but care of the blind was specially commanded, and wrongs against them were counted as "
+             "breaches of the Law. Smith's and Easton's say the same.",
+             f"{ISBE}, entry \"Blindness\"; {SMITH} and {EASTON}, entries \"Blindness\" and \"Blind.\"",
+             ("law-stumbling-block", 3), ("law-stumbling-block", 4)),
+    ],
+    "servant-blinded": [
+        item("The nearest comparison is Hammurabi's code, written in Babylon some five centuries before Moses. Its rule "
+             "for an eye lost between equals is \"If a man has caused the loss of a gentleman's eye, his eye one shall "
+             "cause to be lost.\" But the penalty changes with the rank of the victim: for a poor man's eye, one mina "
+             "of silver; for the eye of a gentleman's servant, half the servant's price. Teeth follow the same scale. "
+             "Johns's text does not say who received the money for a servant's eye; the loss is priced, not freed.",
+             f"{HAM}, sections 196 to 201; {ISBE}, entry \"Hammurabi.\"",
+             ("law-servant-blinded", 2), ("law-servant-blinded", 3), ("law-servant-blinded", 4), ("law-servant-blinded", 5),
+             caution="Johns's 'gentleman' is rendered 'free man' in other translations."),
+        item("Exodus 21:26 answers the same case differently: the servant goes free. Matthew Henry, writing in 1706, saw "
+             "two purposes in that. It deterred a master, who would lose the servant's labor, and it gave an abused "
+             "servant liberty to set against the pain. Smith's dictionary reads it the same way, as a limit on the "
+             "master's power over the servant's body.",
+             f"{HENRY}, on Exodus 21; {SMITH}, entries \"Law of Moses\" and \"Slave.\"",
+             ("law-servant-blinded", 0), ("law-servant-blinded", 1)),
+        item("The 1915 encyclopedia, in an article by the Assyriologist Arthur Ungnad, judged that the parallels between "
+             "Exodus and Hammurabi are not accidental, but that Israel's laws were not copied from Babylon's either: "
+             "\"numerous marked divergences also exist.\" The servant's freedom is one of them.",
+             f"{ISBE}, entry \"Hammurabi.\"", ("law-as-evidence", 4)),
+        item("By the first century, Josephus says, \"eye for eye\" among free people had become a matter of "
+             "compensation: the offender suffered the same loss \"unless he that is maimed will accept of money instead "
+             "of it,\" and the injured person judged the value. Later rabbis argued against a literal eye for an eye "
+             "partly because it could not be applied to a blind offender, and the Law's penalties had to work for "
+             "everyone.",
+             f"{JOS}, Book IV, chapter 8; Wikipedia, \"Eye for an eye,\" revision of 2 October 2026 (CC BY-SA 4.0), "
+             f"citing Bava Kamma 83b-84a.", ("law-servant-blinded", 7), ("law-as-evidence", 8)),
+        item("A side note from the same Babylonian code: it sets fees and penalties for eye surgery. A doctor who opens "
+             "an abscess of the eye with a bronze lancet and cures it is paid ten shekels; if the patient loses the "
+             "eye, the doctor loses his hands, or, if the patient is a poor man's slave, pays half the slave's price. "
+             "Eyes were already being operated on, and sight lost on the table had a price.",
+             f"{HAM}, sections 215 to 220.", ("law-servant-blinded", 8)),
+    ],
+    "priest": [
+        item("Both Matthew Henry and Josephus make the same point about verse 22: the priest with a blemish kept his "
+             "share of the offerings, including the most holy food. Henry's reason is blunt: the blemishes were ones "
+             "the man could not help, \"therefore, though they might not work, they must not starve,\" and \"none must "
+             "be abused for their natural infirmities.\" Josephus says such a priest \"should have his portion indeed "
+             "among the priests\" but could not go up to the altar.",
+             f"{HENRY}, on Leviticus 21; {JOS}, Book III, chapter 12.", ("law-priest", 1), ("law-priest", 5)),
+        item("Why the rule at all? Leviticus gives none beyond the holiness of the sanctuary. Henry supplied one of his "
+             "own: that the people \"were apt to judge according to outward appearance,\" so the men who served in "
+             "public had to be unblemished for the sanctuary's sake. He also noticed that the list mixes lasting "
+             "conditions such as blindness with passing ones such as a rash, after which the man could serve again. "
+             "Henry then adds that people with such conditions are not thereby kept from offering spiritual sacrifice, "
+             "nor from ministry.",
+             f"{HENRY}, on Leviticus 21.", ("law-priest", 2), ("law-priest", 3),
+             caution="The reason about appearance is Henry's, not the text's."),
+        item("The rule was still read literally a thousand years later. Josephus records that in the first century BC "
+             "Antigonus cut off the ears of his rival, the high priest Hyrcanus, precisely so that he could never hold "
+             "the office again, \"while the law required that this dignity should belong to none but such as had all "
+             "their members entire.\"",
+             f"{JOS}, Book XIV, chapter 13.", ("law-priest", 8)),
+        item("Later rabbinic rules extended the idea to the priestly blessing. The 1915 encyclopedia says a priest blind "
+             "even in one eye was not to pronounce it; Edersheim, describing synagogue worship, says those \"so blind as "
+             "not to be able to discern daylight\" could not lead the prayers or the blessing, and that priests with "
+             "marks on hands, face or feet were kept from the blessing \"so as not to attract attention.\" These are "
+             "rules from the centuries after Leviticus, and the sources do not agree on the details.",
+             f"{ISBE}, entry \"Benediction\"; {SK}, chapter 17; {ED}, Book III, chapter X.",
+             ("law-priest", 6), ("law-priest", 7),
+             caution="Rabbinic practice, not the text of Leviticus; sensitive, and included because Brian asked for the whole picture."),
+    ],
+    "blind-animals": [
+        item("Matthew Henry's reason for the rule is the plain one: everything used for God's honor should be the best "
+             "of its kind, \"he that is the best must have the best.\" He adds that the unblemished animal was fitter to "
+             "stand for Christ, \"a Lamb without blemish and without spot.\"",
+             f"{HENRY}, on Leviticus 22; 1 Peter 1:19.", ("law-blind-animals", 1)),
+        item("A blind firstborn was not wasted. Henry notes on Deuteronomy 15 that it was \"killed and eaten at their own "
+             "houses as common food,\" and the verse says the clean and the unclean could eat it alike. The blemish "
+             "kept it from the altar, not from the table.",
+             f"{HENRY}, on Deuteronomy 15.", ("law-blind-animals", 3)),
+        item("On Malachi's governor, Henry reads an argument from honor: they would not dare offer a blind or lame "
+             "animal to an earthly ruler as tribute, and he would take it as an insult; yet they offered such things to "
+             "God. Easton's and the 1915 encyclopedia both file the animal rule under the same heading as the priest's: "
+             "a blemish kept a man from the altar service and an animal from the altar.",
+             f"{HENRY}, on Malachi 1; {EASTON} and {ISBE}, entries \"Blemish.\"", ("law-blind-animals", 4), ("law-blind-animals", 5)),
+    ],
+    "camp": [
+        item("Isaac's household lived in tents of black goat's hair, held by ropes and pegs, divided inside by a hanging "
+             "carpet. When the pasture around a camp was used up, Smith's dictionary says, the tents were struck, loaded "
+             "on camels and moved; it cites Isaac's own chapter, Genesis 26, where he is pushed from place to place by "
+             "the Philistines and his servants dig well after well. A blind man in such a household had no fixed "
+             "streets to learn. Each move meant learning the ropes again.",
+             f"{SMITH}, entry \"Tent\"; {HENRY}, on Genesis 26.", ("life-camp", 0), ("life-camp", 1), ("life-camp", 4),
+             caution="Smith's describes the Bedouin tent as 19th-century travellers saw it."),
+        item("The wells such a family depended on were cut into limestone, sometimes with steps down into them and a "
+             "stone curb at the mouth, and water was drawn by rope and bucket. In a nomadic household, Smith's says, "
+             "\"every man, from the sheikh down to the slave, is more or less a shepherd,\" out in heat and cold among "
+             "animals and raiders. Open wells, livestock and open country are the hazards of that life for anyone who "
+             "cannot see them.",
+             f"{SMITH}, entries \"Well\" and \"Shepherd.\"", ("life-camp", 3), ("life-camp", 2)),
+        item("Who looked after a blind elder? The shelf's only general answer is Smith's: among the Hebrews those who "
+             "were poor through bodily infirmity \"were usually taken care of by their kindred.\" The text of Genesis "
+             "shows the same: Isaac's grown sons are within call, meals are brought to him, and the family does his "
+             "seeing for him, for better and worse. The 1915 encyclopedia's physician adds that sand, glare and flies "
+             "made eye disease common in that climate, and thought the old men's blindness was probably cataract.",
+             f"{SMITH}, entry \"Beggar, Begging\"; {HENRY}, on Genesis 27; {ISBE}, entry \"Blindness.\"",
+             ("life-camp", 6), ("life-camp", 5), ("life-camp", 7),
+             caution="Nothing on the shelf describes how a blind person actually moved about a camp."),
+    ],
+    "village": [
+        item("Shiloh was a sanctuary town on the highway from Bethel to Shechem, in the hills of Ephraim, where the ark "
+             "was kept from Joshua's time to Samuel's. Families came up to it once a year to worship and sacrifice, as "
+             "Elkanah's did, and Judges records a yearly festival with dancing in its vineyards. For most of the year it "
+             "was a small place; for a few days it filled with pilgrims.",
+             f"{SMITH}, entry \"Shiloh\"; Wikipedia, \"Shiloh (biblical city),\" revision of 26 September 2026 (CC BY-SA 4.0); "
+             f"1 Samuel 1:3.", ("life-village", 0), ("life-village", 1), ("life-village", 2)),
+        item("Village houses in that country were small, often one room of mud or sun-dried brick, sometimes shared with "
+             "the animals, with high small windows and a flat roof slept on in summer. The roads, Smith's says, were "
+             "more like paths. That is the dictionary's picture of villages as 19th-century travellers found them, "
+             "three thousand years after Eli; how much had changed, the shelf cannot say.",
+             f"{SMITH}, entries \"House,\" \"Road\" and \"Village.\"", ("life-village", 6), ("life-village", 7),
+             caution="19th-century observation applied to a much older period."),
+        item("The text shows blind elders placed where the village came to them. Eli sat on a seat by the wayside at the "
+             "gate and learned the news by the noise of the town; Ahijah was at home when the queen came to his door. "
+             "Matthew Henry pictured the boy Samuel sleeping within call of the old priest, ready if he needed anything "
+             "in the night. That arrangement is Henry's guess, but it is the kind of help a sanctuary household could "
+             "give that a lone blind villager could not count on.",
+             f"{HENRY}, on 1 Samuel 3 and 4, and on 1 Kings 14.", ("life-village", 3), ("life-village", 4), ("life-village", 5),
+             caution="Henry also blames Eli's failing sight on his sons' faults, which John 9:3 rejects; that is not repeated."),
+    ],
+    "town-gate": [
+        item("The gate was where a walled town lived. The 1915 encyclopedia says most men passed through it every day, "
+             "that it was the place for meeting and assemblies, that markets were held in the open space beside it, and "
+             "that the courts sat there. Smith's adds that gates were guarded and shut at nightfall, and Easton's that "
+             "prophets delivered their messages there. Whoever needed to be found, or needed to find people, went to "
+             "the gate.",
+             f"{ISBE}, entry \"Gate\"; {SMITH} and {EASTON}, entries \"Gate.\"", ("life-town-gate", 0), ("life-town-gate", 1), ("life-town-gate", 2)),
+        item("That is where Job sat. Henry notes that his \"I was eyes to the blind\" comes in a passage about the gate, "
+             "\"the place of judgment,\" to which every man had free access. Job's help to the blind was given in public, "
+             "in the town's one place of business.",
+             f"{HENRY}, on Job 29.", ("life-town-gate", 3)),
+        item("Streets inside such a town, as Smith's describes eastern towns, were narrow, winding and dark, and each "
+             "street was shut off at night. Beggars, it says of New Testament times, had a fixed place at street "
+             "corners, at the Temple gates or at the gates of private houses. A known place was both a livelihood and a "
+             "boundary.",
+             f"{SMITH}, entries \"Street\" and \"Beggar, Begging.\"", ("life-town-gate", 6),
+             caution="Smith's describes a 19th-century town for the streets, and New Testament times for the begging places."),
+        item("Two gate stories show what blindness meant in war. At Jabesh-gilead the Ammonite king demanded every man's "
+             "right eye; Henry explains that a soldier held his shield on the left, covering the left eye, so \"a soldier "
+             "without his right eye was in effect blind.\" At Jerusalem the Jebusites mocked David with \"the blind and "
+             "the lame,\" and the sources disagree about whether real blind people stood on that wall or the phrase was "
+             "a taunt. Jericho's walls, Smith's notes, were thick enough to build houses on.",
+             f"{HENRY}, on 1 Samuel 11 and 2 Samuel 5; {JOS}, Book VII, chapter 3; {ISBE}, entry \"Jerusalem\"; {SMITH}, entry \"Jericho.\"",
+             ("life-town-gate", 4), ("life-town-gate", 7), ("life-town-gate", 5)),
+    ],
+    "jerusalem": [
+        item("Begging grew with the big cities. The 1915 encyclopedia says beggars \"formed a considerable class in the "
+             "gospel age\" and names their places: the entrance to Jericho, where pilgrims passed on the way up to the "
+             "feasts; the neighborhood of rich men's houses; and above all the gates of the Temple. Its reasons are "
+             "the absence of any organized relief, the absence of medicine for common eye disease, and the poverty of "
+             "a heavily taxed country. Edersheim places the man born blind at the Temple entrance, \"the chosen spot "
+             "for those who solicited charity,\" asking, as beggars then did, \"Gain merit by me.\"",
+             f"{ISBE}, entry \"Beg, Beggar, Begging\"; {ED}, Book IV, chapter IX.", ("life-jerusalem", 2), ("life-jerusalem", 0)),
+        item("There was organized charity too. Edersheim describes alms collected every week in each town, in money or "
+             "in food, by two collectors and distributed by three, \"so as to avoid the suspicion of dishonesty or "
+             "partiality,\" and quotes the rabbinic saying that when a poor man stands at your door, God stands at his "
+             "right hand. A blind beggar at the Temple gate lived somewhere between that system and the crowd's loose "
+             "change.",
+             f"{SK}, chapters 4 and 18.", ("life-jerusalem", 3)),
+        item("The city was built on steps. Fifteen steps, Edersheim says, led up from the Court of the Women to the inner "
+             "court; Josephus counts fourteen, with more at the gates. Thirty-four rock-cut steps led up from the Pool "
+             "of Siloam. The Hasmoneans had built wide stepped roads to carry the feast crowds toward the Temple gates, "
+             "and at Passover the city held somewhere between hundreds of thousands and, by Josephus's probably "
+             "inflated count, millions. For a blind person, Jerusalem was steps and crowds.",
+             f"{ED}, Book II, chapter X; {WAR}, Book V, chapter 5, and Book II, chapter 14; Wikipedia, \"Second Temple\" "
+             f"and \"Pool of Siloam\" (CC BY-SA 4.0).", ("life-jerusalem", 4), ("life-jerusalem", 5), ("life-jerusalem", 6)),
+        item("Getting to the city was its own problem. The ascent to Jerusalem from any side but the south is "
+             "\"perpetual,\" in Dean Stanley's phrase quoted by Smith's; Josephus says the hills around it are ringed by "
+             "deep, impassable valleys; and Edersheim describes the road up from Jericho as a rough track winding over "
+             "rock and loose stones with a steep drop on one side. The blind men at Jericho, in his telling, knew Jesus "
+             "was coming because they \"heard the tramp of many feet.\"",
+             f"{SMITH}, entry \"Jerusalem\"; {WAR}, Book V, chapter 4; {ED}, Book V, chapter I, and Book IV, chapter XXIV.",
+             ("life-jerusalem", 7)),
+    ],
+    "walk-by-faith": [
+        item("Matthew Henry read the verse as being about seeing God. \"We have not the vision and fruition of God, as "
+             "of an object that is present with us,\" he wrote; \"faith is for this world, and sight is reserved for the "
+             "other world,\" and the Christian's duty is \"to walk by faith, till we come to live by sight.\" His "
+             "\"sight\" is the face-to-face vision of God after death. He does not mention blindness.",
+             f"{HENRY}, on 2 Corinthians 5.", ("walk-by-faith", 0), ("walk-by-faith", 1)),
+        item("What is faith in this sentence? The dictionaries agree it is trust. Easton's: its \"primary idea is "
+             "trust.\" The 1915 encyclopedia, explaining Hebrews 11, insists faith is not \"a faculty of second sight\" "
+             "but \"simply reliance upon a God known to be trustworthy,\" which lets the believer \"treat the future as "
+             "present and the invisible as seen.\" That is close to what a blind traveller does with a trusted guide.",
+             f"{EASTON}, entry \"Faith\"; {ISBE}, entry \"Faith.\"", ("walk-by-faith", 3), ("walk-by-faith", 2)),
+        item("\"Walk\" here is the Bible's ordinary word for how a person lives. The 1915 encyclopedia lists this verse "
+             "with \"walk in the light\" and \"walk by the Spirit\" as figures for conduct. The Greek word for \"sight\" "
+             "means a thing seen, an outward appearance; no source on the shelf discusses it in this verse, so what "
+             "exactly Paul set against faith is left for a word study.",
+             f"{ISBE}, entries \"Walk,\" \"Fashion\" and \"Appearance.\"", ("walk-by-faith", 4), ("walk-by-faith", 5)),
+    ],
+}
+
+
+def main() -> None:
+    cands = json.loads(CANDIDATES.read_text(encoding="utf-8"))
+    for slug, items in FINAL.items():
+        for it in items:
+            for key, idx in it["from"]:
+                assert key in cands and idx < len(cands[key]), (slug, key, idx)
+    OUT.write_text(json.dumps(FINAL, indent=1, ensure_ascii=False), encoding="utf-8")
+    print(f"{sum(len(v) for v in FINAL.values())} items for {len(FINAL)} pages -> {OUT}")
+
+
+if __name__ == "__main__":
+    main()
