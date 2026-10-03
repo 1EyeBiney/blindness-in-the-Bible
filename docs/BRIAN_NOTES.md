@@ -109,6 +109,19 @@ in a walled town: let's describe more what life wasl ike at the city gate, gmayb
 in first century Jerusalem: we need to figure out if anyone was using canes or walking sticks or anything like that. I need more of a mental picture of the stairs and streets and layout that the blind people would have to traverse.
 We might just need to go looking for more resource on life as a blind person in general and not just from this point of view.
 
+## 3 October 2026, Brian's third thoughts file (verbatim)
+
+Your Shiloh note suggests a new kind of section: the duties a blind person held, and how you would approach each one today. Would you like that as a third slot on the Living blind pages, "How I would do it now," alongside "From Brian" and "Other voices"? It would give the other people you 
+yes, do that.
+
+
+from reading the law pages:
+stumbling block before the blind.
+doesn't look like Hamurabi's code has anything about treatment of the blind so then is the Bible the first recorded anything that addresses the blind? when was Hamurabi's code written in comparison to when the stuff Moses was doing in Leviticus and Deuteronomy?
+
+on the blind priest page:
+need to know more about priestly duties, would they accidentally touch things they souldnshould not? I have to touch things all the time to figure out what they are, would that factor in? Would trying to allow the blind priest to "fit in" be a hinderence to the rest of the Levites?
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)

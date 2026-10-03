@@ -271,6 +271,14 @@ def slot_html(page: dict) -> str:
     else:
         q = page.get("question") or "What this passage says to someone who lives without sight."
         parts.append(f'<p class="slot">Open for Brian: {e(q)}</p>')
+    if page.get("section") == "life":
+        parts.append("<h2>How I would do it now</h2>")
+        if page.get("how_now"):
+            parts.extend(f"<p>{e(p)}</p>" for p in page["how_now"])
+        else:
+            parts.append('<p class="slot">Open for Brian: take the duties and daily tasks a blind person held in this '
+                         'setting, and say how you would approach each one today, having once done such things with '
+                         'sight and now without it.</p>')
     parts.append("<h2>Other voices</h2>")
     if page.get("voices"):
         for v in page["voices"]:
