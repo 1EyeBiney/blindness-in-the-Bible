@@ -235,6 +235,9 @@ def story_page(story: dict, bible: dict, order: list[dict]) -> str:
              f"<h2>What led up to it</h2><p>{e(story['around'])}</p>",
              f"<h2>What happens</h2><p>{e(story['happens'])}</p>",
              f"<h2>In their shoes</h2><p>{e(story['shoes'])}</p>"]
+    if story.get("brian"):
+        parts.append("<h2>From Brian</h2>")
+        parts.extend(f"<p>{e(para)}</p>" for para in story["brian"])
     if story.get("place_and_time"):
         parts.append("<h2>The place and the time</h2>")
         parts.append("<p>What the old books and the archaeologists can add. Each paragraph names its source.</p>")

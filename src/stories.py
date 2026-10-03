@@ -9,6 +9,8 @@ Three kinds of writing sit in each story, and they are kept apart:
   around   what the surrounding chapters say led up to this moment
   happens  a short retelling of the passage itself
   shoes    what the text lets a reader notice from the blind person's side
+  brian    (optional) Brian's own reflections, in his words, lightly
+           edited for typing; kept verbatim in docs/BRIAN_NOTES.md
   place_and_time  (optional) the place and the time, drawn from the
            reference shelf (data/raw/shelf, see SOURCE.md there); each item
            names its source so a reader can go and check it
@@ -62,6 +64,12 @@ STORIES = [
                  "blindness but his own family, who know exactly which senses he will rely on and prepare a "
                  "disguise for each one. The passage shows what it is to depend on the honesty of the people in "
                  "the room, and what it feels like when that trust is used against you.",
+        "brian": [
+            "Isaac suffered from more than vision loss if he could not tell the difference in a man's hands. His "
+            "sense of touch must also have been affected. The voice he could tell apart, which is standard, and smell "
+            "can be fooled by clothing, but feeling a person's hand, covered in wool or not, would be difficult to fool.",
+            "Later, Jacob proves the point by knowingly placing his hands on the opposite sons of Joseph.",
+        ],
     },
     {
         "slug": "jacob", "title": "Jacob blesses Joseph's sons", "who": "Jacob (Israel)", "group": "not_restored",
@@ -105,10 +113,18 @@ STORIES = [
         "happens": "Ahijah cannot see because of his age. Before the queen arrives, the LORD tells him who is coming, "
                    "why, and that she will be disguised. When he hears her footsteps at the door he greets her by "
                    "name and asks why she is pretending. Then he gives her the hard message for her husband.",
-        "shoes": "The disguise is an odd choice to wear before a blind man, and the story knows it. Jeroboam plans "
-                 "around what Ahijah's eyes might recognize and forgets that the prophet never depended on them. "
-                 "Ahijah knows her by the sound of her feet and by what God has told him. Of everyone in the "
-                 "passage, the blind man is the only one who sees the situation as it is.",
+        "shoes": "The text is careful about how Ahijah knows. It does not say he recognized her footsteps; it says the "
+                 "LORD had told him who was coming and that she would be disguised, and that he spoke when he heard "
+                 "feet at the door. His eyes were dim with age, which may mean low vision rather than none, so a "
+                 "visual disguise might have had some point. Of everyone in the passage, the man who cannot see "
+                 "well is the one who knows the situation as it is, and he knows it because he was told.",
+        "brian": [
+            "It does not say that he recognized the sound of her feet. He likely did not, unless he had been doing "
+            "this a long time. Besides, he was probably low vision and could still see a little, and the disguise "
+            "might have been visual enough to hide her true appearance.",
+            "I can tell Barb's sound if she wears certain shoes, but often in areas without context it is "
+            "difficult to pick out her footsteps among others.",
+        ],
     },
     {
         "slug": "samson", "title": "Samson in Gaza", "who": "Samson", "group": "not_restored", "outcome": "not_restored",
@@ -281,6 +297,40 @@ STORIES = [
                  "thing he knows: \"I was blind, but now I see!\" He also walked to the pool with mud on his eyes, "
                  "still blind, on the word of a man he had never seen. And when everyone else has put him out, "
                  "Jesus comes looking for him.",
+        "brian": [
+            "This one makes me cry because of what Jesus first says: \"Neither this man nor his parents sinned, but "
+            "this happened so that the works of God would be displayed in him.\" That is what I pray for daily: that "
+            "God uses my blindness for His glory in the things I do, the things I say, and the way I treat others, "
+            "especially those who need help the most and who have, according to many, absolutely nothing to give back.",
+            "One of my first true walk-by-faith moments came during rehabilitation training at the Hines VA hospital "
+            "outside Chicago. At the end of training I did a drop-off test: I was let out of a car in a suburban "
+            "business district with the task of finding a grocery store about five blocks away on my own. Unless I got "
+            "into serious physical danger, I was not to be helped. I had to trust my new skills to make that trip "
+            "without any sight. It was terrifying, exhilarating and liberating all at once. I think of the man born "
+            "blind making his way to the Pool of Siloam, on faith.",
+            "He was blind from birth and had never had sight. From a physiological standpoint his visual cortex would "
+            "never have developed; it takes a child about six years of seeing to learn to tell faces apart. He washed "
+            "the mud off and \"received\" sight. Jesus did not only heal the eyes; He must have given the man a way to "
+            "process what the eyes now sent. We have accounts of people who regained sight or got it for the first "
+            "time and could not make sense of the images. Mike May, who had sight restored as an adult, still cannot "
+            "recognize faces and still uses braille and mobility aids.",
+            "People did not recognize him, and I think that is partly the sheer size of what had happened. If I walked "
+            "up to someone who has only known me blind and suddenly I could see, I would talk differently and carry "
+            "myself differently. I would still turn my head toward sounds, that is natural, but I would react to visual "
+            "cues I do not react to now.",
+            "The Pharisees went straight to whether the healing was lawful, not whether it had happened.",
+            "When the parents said \"Ask him. He is old enough to speak for himself,\" it was for the wrong reason, "
+            "fear, but notice what it is. Usually a blind person's escort gets asked what the blind person wants. This "
+            "may be the first recorded moment of self-advocacy for a blind man, and it was unintentional.",
+            "The way he argues with the Pharisees is simply amazing. He would never have had access to Scripture or "
+            "learning, and yet with a plain explanation he cuts through the arguments of the experts, in Jerusalem, "
+            "and wins. That he would even speak back to a Pharisee is remarkable. His parents were obviously terrified.",
+            "It is hard to express what that man must have felt when he finally recognized Jesus, after Jesus sought "
+            "him out. I am so grateful to Jesus for what He did for that one blind man.",
+            "A common plea was \"Gain merit by me.\" How humbling, to call out in effect: I have so little to offer you "
+            "that your kindness to me will gain you righteousness. In Nigeria today, by the figures I have seen, "
+            "about seventy percent of blind people still have to beg to survive.",
+        ],
         "place_and_time": [
             {"text": "The Pool of Siloam lies at the south end of Jerusalem, at the lowest point of the ancient city. "
                      "Josephus, who knew the city before it fell, calls Siloam \"a fountain which hath sweet water in it, "
