@@ -38,6 +38,11 @@ LAW_PAGES = [
                   "sees. The second law is among curses on secret murder, moving a boundary stone and cheating the "
                   "fatherless, which suggests that misleading a blind traveller was counted among the serious, "
                   "hidden cruelties. Laws like these are not written against things nobody does.",
+        "brian": [
+            "It doesn't look like Hammurabi's code has anything about the treatment of the blind. So is the Bible the "
+            "first recorded anything that addresses the blind? And when was Hammurabi's code written compared with "
+            "what Moses was doing in Leviticus and Deuteronomy?",
+        ],
     },
     {
         "slug": "servant-blinded", "section": "law", "title": "The servant blinded by his master",
@@ -66,6 +71,11 @@ LAW_PAGES = [
                   "blind priest inside the priesthood and at its table. And the reason given is about the holiness of "
                   "the sanctuary, not about the worth of the man. Many readers have still found it hard, and Brian's "
                   "thoughts on it belong here more than anyone's.",
+        "brian": [
+            "I need to know more about priestly duties. Would a blind priest accidentally touch things he should not? "
+            "I have to touch things all the time to figure out what they are; would that factor in? And would trying "
+            "to let the blind priest fit in have been a hindrance to the rest of the Levites?",
+        ],
     },
     {
         "slug": "blind-animals", "section": "law", "title": "Blind animals and the altar",
