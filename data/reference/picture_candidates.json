@@ -1,0 +1,1120 @@
+{
+ "blind-guides": [
+  {
+   "text": "Henry on Matthew 15:14: the Pharisees are 'blind leaders of the blind' because they are ignorant of the spiritual meaning of the law and proud enough to lead anyway. He adds that if they had owned they were blind and come to Christ for eye-salve they might have seen. For Luke 6:39 he reads the same saying as a warning to those who put themselves under the guidance of the ignorant. Edersheim, on the same Matthew 15 scene, sums up the warning as 'the leadership of the blind by the blind', ending in ruin for both.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Matthew 15:12-14 and Luke 6:39-49; Alfred Edersheim, The Life and Times of Jesus the Messiah (1883), Book III, ch. xxxi (Matt. xv.)",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1289494,
+     "quote": "They are grossly ignorant in the things of God, and strangers to the spiritual nature of the divine law; and yet so proud, that they think they see better and further than any"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1289910,
+     "quote": "Though they were blind, if they had owned it, and come to Christ for eye-salve, they might have seen, but they disdained the intimation of such a thing"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 3783149,
+     "quote": "Those who put themselves under the guidance of the ignorant and erroneous are likely to perish with them"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2176568,
+     "quote": "as being the leadership of the blind by the blind, [3414] which must end in ruin to both."
+    }
+   ],
+   "confidence": "high",
+   "caution": "All four quotes read the saying as being about knowledge and pride, never about people who cannot see. Henry's 'proud and ignorant' is his judgment on first-century Pharisees as a group. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "What the oath about the Temple gold was (Matthew 23:16-22). Henry: the Pharisees allowed oaths by the temple and the altar but ruled that an oath by the temple itself did not bind, while an oath by the gold of the temple, or by the gift on the altar, did. His charge is that this pushed people to bring gold and gifts to the Temple treasury, which the teachers hoped to profit from. Edersheim calls this fourth woe a rebuke of the guides' 'moral blindness' rather than their hypocrisy, and says the precise allusion is not easy to understand: he thinks Jesus has in mind oaths and vows, where the casuistry was complicated.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Matthew 23:16-22; Alfred Edersheim, The Life and Times of Jesus the Messiah (1883), Book V, ch. iv ('the eight woes')",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1995715,
+     "quote": "They distinguished between an oath by the temple and an oath by the gold of the temple; an oath by the altar and an oath by the gift upon the altar; making the latter binding, but not the former."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1996443,
+     "quote": "they preferred the gold before the temple, and the gift before the altar, to encourage people to bring gifts to the altar, and gold to the treasures of the temple, which they hoped to be gainers by."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3302983,
+     "quote": "The fourth Woe is denounced on the moral blindness of these guides rather than on their hypocrisy. From the nature of things it is not easy to understand the precise allusion of Christ."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry states the gold-versus-temple rule as fact without a source; Edersheim, who knows the Talmud, says the allusion is not easy to pin down. So the detail of the rule is Henry's account, not confirmed by Edersheim. Henry's motive charge (gain for the teachers) is his inference. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Romans 2:19: Paul's 'guide of the blind' is a boast the Jews of his day made of themselves, as teachers of the Gentiles who 'sat in darkness', and the rabbis made of themselves over the common people. The picture in the verse is Paul quoting their self-image back to them, not Paul calling anyone blind.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Romans 2:17-29",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 2236656,
+     "quote": "They thought themselves guides to the poor blind Gentiles that sat in darkness, were very proud of this, that whoever would have the knowledge of God must be beholden to them for it."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry writes 'the poor blind Gentiles': here 'blind' means Gentiles without the Scriptures, and 'poor' is his pity. It is a figurative use that takes nothing from physical blindness, but the phrase reads oddly now. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "The 'gnat and camel' (Matthew 23:24). Easton: the Jews carefully filtered their wine, because the law (Lev. 11:23) forbade insects as unclean, and yet omitted the weightier matters of the law. The 1915 encyclopaedia reads the saying the same way, as inconsistency in taking pains over food while neglecting weightier matters. Edersheim ties it to tithing: the Pharisees' rule extended the law of tithes to the smallest garden herbs such as anise, and he sets that beside the omission of judgement, mercy and faith. Henry: it is not the scruple over a little sin that Christ condemns, but doing that and then swallowing a camel.",
+   "source": "Easton's Bible Dictionary (1897), entries 'Gnat' and 'Camel'; International Standard Bible Encyclopaedia (1915), 'Gnat'; Alfred Edersheim, The Life and Times of Jesus the Messiah (1883), Book V, ch. iv; Matthew Henry, Commentary on the Whole Bible (1706-1721), on Matthew 23:23-24",
+   "evidence": [
+    {
+     "file": "easton_ebd.txt",
+     "offset": 486895,
+     "quote": "The Jews carefully filtered their wine before drinking it, for fear of swallowing along with it some insect forbidden in the law as unclean"
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 1214080,
+     "quote": "The custom of filtering wine for this purpose was common among the Jews. It was founded on Lev. 11:23."
+    },
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 4888660,
+     "quote": "in taking extraordinary pains in some things, as in the preparation of food, while leaving weightier matters unattended to"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3303953,
+     "quote": "which extended the mosaic law of tithing, in most burdensome minuteness, even to the smallest products of the soil that were esculent and could be preserved, [5276] such as anise."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 2006240,
+     "quote": "It is not the scrupling of a little sin that Christ here reproves; if it be a sin, though but a gnat, it must be strained at"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Easton and the encyclopaedia describe the wine-straining as a general Jewish practice; neither is a first-century source and neither cites one. The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling and line-end hyphens. Edersheim (a Jewish-born Christian writing in 1883) sets the New Testament against Pharisaic Judaism throughout, and his language about Pharisees and 'Rabbinism' is often polemical; only the historical and exegetical statements are quoted here (see the digest)."
+  },
+  {
+   "text": "The hand-washing that set off Matthew 15 (Henry and Edersheim agree on the facts). Henry: the tradition was that people should wash their hands often and always before meat, and the Pharisees made it a matter of conscience and a sin to omit. Edersheim: the practice is 'expressly admitted' to have been a tradition of the elders and not a law of Moses; it seems first to have been enjoined to keep sacred offerings from being eaten in defilement; and some Rabbis defended washing after the meal on health grounds, because something left on the hands might injure the eyes.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Matthew 15:1-9; Alfred Edersheim, The Life and Times of Jesus the Messiah (1883), Book III, ch. xxxi",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1261437,
+     "quote": "That people should often wash their hands, and always at meat. This they placed a great deal of religion in, supposing that the meat they touched with unwashen hands would be defiling to them."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2142771,
+     "quote": "this practice is expressly admitted to have been, not a Law of Moses, but a tradition of the elders"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2143777,
+     "quote": "it seems to have been first enjoined in order to ensure that sacred offerings should not be eaten in defilement."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2144604,
+     "quote": "which some, indeed, explained on sanitary grounds, as there might be left about the hands what might prove injurious to the eyes."
+    }
+   ],
+   "confidence": "high",
+   "caution": "This is the occasion of the saying in Matthew 15:14, not a comment on the blind. The eye remark is Edersheim's report of one Rabbinic explanation. Edersheim (a Jewish-born Christian writing in 1883) sets the New Testament against Pharisaic Judaism throughout, and his language about Pharisees and 'Rabbinism' is often polemical; only the historical and exegetical statements are quoted here (see the digest)."
+  },
+  {
+   "text": "The setting of the woes (Matthew 23). Edersheim: it is the third day of Passion Week, 'the last day in the Temple', after the Sadducees' question and the great-commandment exchange; the woes close the public ministry as the Beatitudes opened it, eight woes for eight beatitudes. Henry makes the same count, eight woes 'in opposition to the eight beatitudes'. Edersheim notes that verse 14 is probably not original but the woe is found in Mark 12:40 and Luke 20:47.",
+   "source": "Alfred Edersheim, The Life and Times of Jesus the Messiah (1883), Book V, ch. iv (heading, and the paragraph beginning 'It was not a break in the Discourse'); Matthew Henry, Commentary on the Whole Bible (1706-1721), on Matthew 23:13-33",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3261261,
+     "quote": "THE THIRD DAY IN PASSION-WEEK - THE LAST CONTROVERSIES AND DISCOURSES - THE SADDUCEES AND THE RESURRECTION - THE SCRIBE AND THE GREAT COMMANDMENT"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3261726,
+     "quote": "THE last day in the Temple was not to pass without other temptations"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3299603,
+     "quote": "Corresponding to the eight Beatitudes in the Sermon on the Mount with which His public Ministry began, He now closed it with eight denunciations of woe."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1979447,
+     "quote": "but here are eight woes, in opposition to the eight beatitudes"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3316078,
+     "quote": "Although St. Matt. xxiii. 14 is in all probability spurious, this woe' occurs in St. Mark xii. 40, and in St. Luke xx. 47."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Edersheim says verse 14 is probably not original, so whether the woes number seven or eight depends on the text one reads; both commentators on the shelf count eight. Edersheim (a Jewish-born Christian writing in 1883) sets the New Testament against Pharisaic Judaism throughout, and his language about Pharisees and 'Rabbinism' is often polemical; only the historical and exegetical statements are quoted here (see the digest)."
+  },
+  {
+   "text": "Who the 'watchmen' were (Isaiah 56:10, 'His watchmen are blind'). Henry: they should have been the watchmen of the flock, to see the beasts coming and keep them off; the phrase may mean the false prophets and priests of Isaiah's day, or the wicked princes, or, in Jesus' time, the chief priests and scribes who should have discerned the signs of the times. He ties it to Matthew 15:14. The 1915 encyclopaedia defines a watchman as a sentinel on the city walls (or the hilltops), so the figure is of a guard who cannot see danger.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Isaiah 56:9-12; International Standard Bible Encyclopaedia (1915), 'Watchman'",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1931199,
+     "quote": "should have been the watchmen of the flock, to discover the approaches of the beasts of prey, to keep them off, and protect the sheep"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1932273,
+     "quote": "Or it may refer to those who were the nation's watchmen in our Saviour's time, the chief priests and the scribes, who should have discerned the signs of the times and have given notice to the people of the approach of the Messiah"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1933137,
+     "quote": "Christ describes the Pharisees to be blind leaders of the blind, Matt. xv. 14."
+    },
+    {
+     "file": "isbe_1915_vol5.txt",
+     "offset": 2174649,
+     "quote": "a sentinel on the city walls"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry is offering three possible referents, not choosing one. The encyclopaedia gives the office; it does not comment on Isaiah's use of the picture. The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling and line-end hyphens."
+  },
+  {
+   "text": "Henry on blind Ahijah and what the figure takes for granted. In 1 Kings 14, Jeroboam sends his wife in disguise to Ahijah of Shiloh, 'blind through age'. Henry says Ahijah was 'yet still blest with the visions of the Almighty, which need not bodily eyes, but are rather favoured by the want of them'. The 1915 encyclopaedia lists Ahijah with Eli and Isaac as cases of the blindness of old age, 'probably from senile cataract'. So Henry treats an actual blind guide as seeing well in the way that matters for prophecy.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Kings 14:1-20; International Standard Bible Encyclopaedia (1915), 'Blindness' (Alex. Macalister)",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3687763,
+     "quote": "blind through age, yet still blest with the visions of the Almighty, which need not bodily eyes, but are rather favoured by the want of them, the eyes of the mind being then most intent and least diverted."
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3978973,
+     "quote": "The blindness of old age, probably from senile cataract, is described in the cases of Eli at 98 years of age"
+    }
+   ],
+   "confidence": "high",
+   "caution": "This is Henry's remark on one man, not a general claim, and it is a comment on Ahijah, not on Matthew 23. The 'cataract' diagnosis is the encyclopaedia author's guess. The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling and line-end hyphens."
+  }
+ ],
+ "eyes-that-cannot-see": [
+  {
+   "text": "Henry on John 9:39: the verse 'explains' a 'great truth by a metaphor borrowed from the miracle' just wrought. Christ came to give sight to those 'spiritually blind', revealing the object by his word and healing the organ by his Spirit, and the other half, 'that those who see might be made blind', is the sealing up in ignorance of those with a high opinion of their own wisdom. Henry says the Gentiles who had long lacked revelation might see, and 'the Jews, who had long enjoyed it' might have it hidden from them.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on John 9:39-41",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 5997480,
+     "quote": "This great truth he explains by a metaphor borrowed from the miracle which he had lately wrought. That those who see not might see, and that those who see might be made blind."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 5998244,
+     "quote": "Intentionally and designedly to give sight to those that were spiritually blind; by his word to reveal the object, and by his Spirit to heal the organ"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 5998684,
+     "quote": "those who have a high conceit of their own wisdom, and set up that in contradiction to divine revelation, might be sealed up in ignorance and infidelity"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 5997861,
+     "quote": "the Gentiles, who had long been destitute of the light of divine revelation, might see it; and the Jews, who had long enjoyed it, might have the things of their peace hid from their eyes"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry applies the verse to 'nations and people' as well as individuals, which brings in the Jew-Gentile contrast he repeats throughout (see the digest's flagged section). The word 'metaphor' is his; it is the clearest statement on the shelf that the John 9 saying is a figure drawn from a physical healing. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on John 9:41, 'If you were blind, you would have no sin'. He gives two readings. If they had been really ignorant, their guilt would be lighter: 'invincible ignorance, though it does not justify sin, excuses it, and lessens the guilt'. Or, if they had known they were blind, they would have accepted Christ as guide. He concludes that 'those are most blind who will not see', and that those who fancy they see are in the most danger.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on John 9:39-41",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 6002067,
+     "quote": "The times of ignorance God winked at; invincible ignorance, though it does not justify sin, excuses it, and lessens the guilt."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 6002664,
+     "quote": "Those that are convinced of their disease are in a fair way to be cured, for there is not a greater hindrance to the salvation of souls than self-sufficiency."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 6003166,
+     "quote": "And as those are most blind who will not see, so their blindness is most dangerous who fancy they do see."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's 'those who will not see' is the line the whole page turns on: the blindness here is a refusal. He also says 'the poor Gentiles' might be called blind in the excusable sense. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Edersheim on John 9:39-41 and the place of the miracle. He thinks the healing happened at the Temple entrance, where beggars sat, on the Sabbath after the Feast of Tabernacles, and that the man's begging plea may have been 'Gain merit by me'. He writes that the blind 'were regarded as specially entitled to charity'. On the verdict: the Pharisees' blindness 'was not the calamity of blindness' but a blindness 'in which they were guilty', 'the result of their deliberate choice'; he also speaks of 'the blindness of judgment' that fell on the leaders.",
+   "source": "Alfred Edersheim, The Life and Times of Jesus the Messiah (1883), Book IV, ch. ix (The Healing of the Man Born Blind)",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2636426,
+     "quote": "we can scarcely doubt that the miracle took place at the entering to the Temple, or on the Temple-Mount."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2637150,
+     "quote": "Gain merit by me;' or, O tenderhearted, by me gain merit, to thine own benefit."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2636860,
+     "quote": "It was the Sabbath - the day after the Octave of the Feast"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2637419,
+     "quote": "Indeed, the blind were regarded as specially entitled to charity;"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2662671,
+     "quote": "It was not the calamity of blindness; but it was a blindness in which they were guilty, and for which they were responsible, [4171] which indeed was the result of their deliberate choice: therefore their sin - not their blindness only - remained!"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2661799,
+     "quote": "to the blindness of judgment which had fallen on those who were the leaders of Israel!"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Edersheim says the Temple-gate setting rests on 'strong presumption' and he 'cannot offer actual proof'. His sentence separating 'the calamity of blindness' from guilty blindness is the single most direct answer on the shelf to the question of what the picture assumes about blind people. Edersheim (a Jewish-born Christian writing in 1883) sets the New Testament against Pharisaic Judaism throughout, and his language about Pharisees and 'Rabbinism' is often polemical; only the historical and exegetical statements are quoted here (see the digest)."
+  },
+  {
+   "text": "John 12:37-41, 'they could not believe', on Isaiah's blinded eyes. Henry: 'They could not believe, that is, they would not', with Chrysostom and Augustine; and in the second sense he allows 'a righteous hand of God' in the blinding of those who persist in unbelief, a judgment on resistance already made. Edersheim: 'they did not believe, because they could not believe', after a long history of resisting; he adds in a note that the sentence is 'decreed' but 'not decreed beforehand, and irrespective of their conduct'. He also observes in an appendix that the Targum gives the Isaiah 6 words to God's Memra (Word), which John 12:40 applies to Christ.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on John 12:37-41; Alfred Edersheim, The Life and Times of Jesus the Messiah (1883), Book V, ch. iii (summary of the public ministry) and Appendix II (Philo and Rabbinic theology)",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 6336476,
+     "quote": "They could not believe, that is, they would not; they were obstinately resolved in their infidelity"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 6337125,
+     "quote": "There is a righteous hand of God sometimes to be acknowledged in the blindness and obstinacy of those who persist in impenitency and unbelief"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3249601,
+     "quote": "In face of the clearest evidence, they did not believe, because they could not believe."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3260655,
+     "quote": "We say decreed' - but not decreed beforehand, and irrespective of their conduct."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 4049358,
+     "quote": "It is intensely interesting to notice that in St. John xii. 40, these words are prophetically applied in connection with Christ."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The 'could not' passage is a hard one and both commentators handle it as theology, not as a statement about the eyes. Henry's own phrase 'hard saying' is his. Edersheim's footnote number [5161] points to this note. Both speak of 'Israel' or 'the Jews' as a body in terms that are harsh: not reproduced here. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest). Edersheim (a Jewish-born Christian writing in 1883) sets the New Testament against Pharisaic Judaism throughout, and his language about Pharisees and 'Rabbinism' is often polemical; only the historical and exegetical statements are quoted here (see the digest)."
+  },
+  {
+   "text": "Henry on Romans 11:7-10, 'the rest were blinded'. He says the gospel was 'the savour of life unto life' to believers and 'death unto death' to the unbelieving, 'the same sun softens wax and hardens clay'. On Isaiah's 'eyes that they should not see' he says 'They had the faculties, but in the things that belonged to their peace they had not the use of those faculties': the same kind of blindness as 'senselessness', in his words. He distinguishes their sin ('they shut their eyes') from their punishment ('God... blinded their eyes').",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Romans 11:7-10",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 2637060,
+     "quote": "They had the faculties, but in the things that belonged to their peace they had not the use of those faculties; they were quite infatuated, they saw Christ, but they did not believe in him"
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 2635729,
+     "quote": "The same sun softens wax and hardens clay."
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 2636100,
+     "quote": "Blindness and hardness are expressive of the same senselessness and stupidity of spirit."
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 2636192,
+     "quote": "They shut their eyes, and would not see; this was their sin: and then God, in a way of righteous judgment, blinded their eyes, that they could not see; this was their punishment."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's sentence about 'senselessness and stupidity of spirit' equates blindness with mental dullness: it is a flagged line for what it assumes about the word, even though he means the figure. The rest of this passage in Henry speaks of 'the Jews' in terms that are not reproduced (see the digest). Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on 2 Corinthians 4:4 and 1 John 2:9-11. Paul's 'god of this world has blinded the minds of the unbelieving' is read as the devil darkening the understanding 'with ignorance, and error, and prejudices', which keeps the light of the gospel out of the heart. On 1 John 2:11, 'darkness hath blinded his eyes', Henry says the one who hates his brother 'knows not whither he goes' and 'the mind, the judgment, and the conscience will be darkened'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 2 Corinthians 4:1-7 and 1 John 2:7-11",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 3623597,
+     "quote": "They are under the influence and power of the devil, who is here called the god of this world"
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 3624066,
+     "quote": "so he darkens the understandings of men, and increases their prejudices, and supports his interest by keeping them in the dark, blinding their minds with ignorance, and error, and prejudices"
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 6260781,
+     "quote": "where that darkness dwells, the mind, the judgment, and the conscience will be darkened, and so will mistake the way to heavenly endless life"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Both are figurative uses about the mind and conscience; Henry does not discuss physical blindness at all in either place. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on 2 Peter 1:9, 'he that lacketh these things is blind': he says 'blind, that is, as to spiritual and heavenly things, as the next words explain it'. The next words are 'cannot see afar off'; Henry reads that as a man who sees this present world and 'dotes upon' it but has no sense of the world to come. The 1915 encyclopaedia, in its Blindness entry, says the word is used as a verb ('as Jn 12 40') 'usually in the sense of obscuring spiritual perception', while for physical blindness it appears as a noun or adjective.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 2 Peter 1:5-11; International Standard Bible Encyclopaedia (1915), 'Blindness' (Alex. Macalister)",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 6099531,
+     "quote": "blind, that is, as to spiritual and heavenly things, as the next words explain it: He cannot see far off."
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 6099640,
+     "quote": "This present evil world he can see, and dotes upon, but has no discerning at all of the world to come"
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3976036,
+     "quote": "The word blind is used as a vb., as Jn 12 40, usually in the sense of ob scuring spiritual perception. In reference to physi cal blindness it is used as a noun frequently or else as an adj. with the noun man."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The encyclopaedia's grammatical observation (verb for the figure, noun and adjective for the condition) is a statement about usage in its author's judgment, in the English Bible. It is not checked here against the Greek. The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling and line-end hyphens."
+  },
+  {
+   "text": "The contrast that matters for who is called blind. On Matthew 9:27 (the two blind men who call Jesus Son of David) Henry writes that while the chief priests and Pharisees would not see, 'They who, by the providence of God, are deprived of bodily sight, may yet, by the grace of God, have the eyes of their understanding so enlightened'. On John 9 he says the healed man, asking who the Son of God is, had received 'bodily sight' and that the 'greatest comfort of bodily eyesight is its serviceableness to our faith'; he adds 'If we apply this to the opening of the eyes of the mind' it means spiritual sight is given chiefly that we may see Christ.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Matthew 9:27-31 and John 9:35-38",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 770192,
+     "quote": "They could not see him and his miracles, but faith comes by hearing. Note, They who, by the providence of God, are deprived of bodily sight, may yet, by the grace of God, have the eyes of their understanding so enlightened"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 5992314,
+     "quote": "Note, The Greatest comfort of bodily eyesight is its serviceableness to our faith and the interests of our souls."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 5992571,
+     "quote": "If we apply this to the opening of the eyes of the mind, it intimates that spiritual sight is given principally for this end, that we may see Christ"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's second remark assumes sight's chief value is its use to faith, and he says the man 'might have returned contentedly to his former blindness': a line flagged in the digest, not quoted. The first remark is exactly the contrast: the physically blind see, the leaders do not. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  }
+ ],
+ "gods-people-called-blind": [
+  {
+   "text": "Henry on Isaiah 29:9-10, 'blind', 'drunken, but not with wine', 'a spirit of deep sleep'. He reads this as the prophets, rulers and seers 'themselves blindfolded' and adds 'it is easy to tell what the fatal consequences will be when the blind lead the blind', applying it to the chief priests, scribes and elders who opposed Christ. The sleep is God's judgment 'to punish them for their loving darkness rather than light, their loving sleep'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Isaiah 29:9-16",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 972123,
+     "quote": "that those who should have been their guides were themselves blindfolded; and it is easy to tell what the fatal consequences will be when the blind lead the blind."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 971389,
+     "quote": "but it is in away of righteous judgment, to punish them for their loving darkness rather than light, their loving sleep."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 972293,
+     "quote": "This was fulfilled when, in the latter days of the Jewish church, the chief priests, and the scribes, and the elders of the people, were the great opposers of Christ and his gospel"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry reads Isaiah 29:10 as already prophesying the leaders of Jesus's day, which is typology, not the verse's plain sense. The phrase 'blindfolded' is his and is the closest he comes here to a physical picture. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Isaiah's sealed scroll (29:11-12). Henry: 'the vision of all the prophets' had become to them 'as the words of a book that is sealed up': they knew it was a vision and prophecy but knew nothing of what was in it, 'any more than a man (though a good scholar) is for a book delivered to him sealed up'. He says the learned excused themselves as having a hard style and the unlearned as 'not learned'. In Luke 4 he adds that the books of the Old Testament were 'in a manner shut up till Christ opened them, Isa. xxix. 11'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Isaiah 29:9-12 and Luke 4:16-21",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 973114,
+     "quote": "any more than a man (though a good scholar) is for a book delivered to him sealed up, and which he must not open the seals of."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 973324,
+     "quote": "So they knew that what Isaiah said was a vision and prophecy, but the meaning of it was hidden from them"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 973760,
+     "quote": "The ordinary sort of people excused themselves from regarding what the prophets said with their want of learning"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 3662077,
+     "quote": "The books of the Old Testament were in a manner shut up till Christ opened them, Isa. xxix. 11."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The sealed book is the verse's own image (a letter that cannot be read); the shelf has no first-century description of a sealed scroll. Henry's use of it for blindness is his link, since 29:10-12 speaks of closed eyes and a sealed book together. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Isaiah 42:18-20, 'Who is blind but my servant?'. Verse 18 may be spoken 'to the Gentile idolaters, whom he calls deaf and blind, because they worshipped gods that were so'; verse 19 is God's own people, 'God's servants, and their priests and elders his messengers', who 'were deaf and blind'. Verse 20 (seeing many things but not observing) he describes as 'ruined for want of observing that which they cannot but see; they perish, not through ignorance, but mere carelessness'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Isaiah 42:18-25",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1385910,
+     "quote": "The verse before may be understood as spoken to the Gentile idolaters, whom he calls deaf and blind, because they worshipped gods that were so."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1385758,
+     "quote": "The people of the Jews were in profession God's servants, and their priests and elders his messengers (Mal. ii. 7); but they were deaf and blind."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1387658,
+     "quote": "Multitudes are ruined for want of observing that which they cannot but see; they perish, not through ignorance, but mere carelessness."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's notes on this chapter also contain harsh lines about the Jews 'dispersed unto this day' (see the digest) that are not used. His point that verse 18 may be addressed to idolaters and verse 19 to Israel matters to 'who is called blind': both groups are, and neither is a person who cannot see. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Isaiah 43:8, 'Bring forth the blind people that have eyes': he reads it as a reference to Psalm 115:8, 'the prophet seems here to refer when he calls idolaters blind people that have eyes', so that here the blind are idol-worshippers who 'have the shape, capacities, and faculties, of men' but lack 'reason and common sense'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Isaiah 43:8-13",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1406087,
+     "quote": "to which the prophet seems here to refer when he calls idolaters blind people that have eyes, and deaf people that have ears."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's 'blind people that have eyes' is the verse's phrase, so this is a figure by definition: eyes that work and do not see. His gloss that idolaters lack 'reason and common sense' is his reading of the picture, not a statement about anyone whose eyes do not work. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Revelation 3:17, Laodicea 'blind': 'they could not see their state, nor their way, nor their danger', and 'they thought they saw'. Then the clearest statement of how he reads the word: 'The riches of the body will not enrich the soul; the sight of the body will not enlighten the soul'. He also says the church 'could not see Christ, though evidently set forth'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Revelation 3:14-22",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 6654319,
+     "quote": "They were blind; they could not see their state, nor their way, nor their danger; they could not see into themselves; they could not look before them; they were blind, and yet they thought they saw"
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 6655596,
+     "quote": "The riches of the body will not enrich the soul; the sight of the body will not enlighten the soul; the most convenient house for the body will not afford rest nor safety to the soul."
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 6654618,
+     "quote": "They could not see Christ, though evidently set forth, and crucified, before their eyes."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's 'the sight of the body will not enlighten the soul' places the figure on the soul's side: it says physical sight does not help. It also assumes that the body's sight is the lesser thing. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "The Laodicea behind the 'eye-salve' (Revelation 3:18). The 1915 encyclopaedia: Laodicea became 'a great and wealthy center of industry', famous for black wool and for a Phrygian powder for the eyes made there; near it stood 'a renowned school of medicine'; after the earthquake of A.D. 60 its citizens 'rejected the proffered aid of Rome, and quickly rebuilt it at their own expense' (it cites Rev 3:17). Its entry 'Eyesalve': 'A Phrygian powder mentioned by Galen, for which the medical school of Laodicea seems to have been famous... but the figurative reference is to the restoring of spiritual vision.' Henry says Laodicea was 'a once famous city', with a vast wall, three marble theatres and seven hills.",
+   "source": "International Standard Bible Encyclopaedia (1915), 'Laodicea' (E. J. Banks) and 'Eyesalve'; Matthew Henry, Commentary on the Whole Bible (1706-1721), on Revelation 3:14-22",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 3986819,
+     "quote": "great and wealthy center of industry"
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 3986889,
+     "quote": "the fine black wool of its sheep"
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 3986939,
+     "quote": "the Phrygian powder for the eyes"
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 3987034,
+     "quote": "In the vicinity was the temple of Men Karou and a renowned school of medicine."
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 3987225,
+     "quote": "so wealthy were its citizens that they rejected the proffered aid of Rome, and quickly rebuilt it at their own expense"
+    },
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 3436293,
+     "quote": "A Phrygian powder mentioned by Galen, for which the medical school of Laodicea seems to have been famous"
+    },
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 3436485,
+     "quote": "but the figurative reference is to the restoring of spiritual vision."
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 6648997,
+     "quote": "This was a once famous city near the river Lycus, had a wall of vast compass, and three marble theatres, and, like Rome, was built on seven hills."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The encyclopaedia says the school of medicine was 'in the vicinity' and the powder was 'manufactured there'; its eyesalve entry says the school 'seems to have been famous', so the link between Rev. 3:18 and the local trade is probable, not proved; it refers to Ramsay, which is not on the shelf. Smith's and Easton's entries on Laodicea mention wealth but not the powder or the school. The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling and line-end hyphens."
+  },
+  {
+   "text": "Henry on the counsel of Revelation 3:18: 'they were blind; and he counsels them to buy of him eye-salve, that they might see, to give up their own wisdom and reason, which are but blindness in the things of God'. So the remedy is submission and a changed way of knowing, and then 'a new world furnished with the most beautiful and excellent objects'. On 1 John 2:20 he calls the anointing 'a spiritual eye-salve; it enlightens and strengthens the eyes of the understanding'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Revelation 3:14-22 and 1 John 2:20",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 6281305,
+     "quote": "it is a spiritual eye-salve; it enlightens and strengthens the eyes of the understanding"
+    },
+    {
+     "file": "matthew_henry_vol6.txt",
+     "offset": 6657972,
+     "quote": "They were blind; and he counsels them to buy of him eye-salve, that they might see, to give up their own wisdom and reason, which are but blindness in the things of God, and resign themselves to his word and Spirit, and their eyes shall be opened to see their way and their end"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry offers the 'eye-salve' as a figure and does not mention the medical trade at Laodicea in this passage. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  }
+ ],
+ "like-the-blind": [
+  {
+   "text": "Henry on Deuteronomy 28:28-29, 'the Lord shall smite thee with madness and blindness... thou shalt grope at noonday'. He reads it as a judgment on the mind: 'God's judgments can reach the minds of men to fill them with darkness and horror', so that 'those that are wilfully blind to their duty deserve to be made blind to their interest', and 'let them grope at noon-day as in the dark'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Deuteronomy 28:15-44",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 4781307,
+     "quote": "God's judgments can reach the minds of men to fill them with darkness and horror, as well as their bodies and estates"
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 4781851,
+     "quote": "those that are wilfully blind to their duty deserve to be made blind to their interest, and, seeing they loved darkness rather than light, let them grope at noon-day as in the dark."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry takes 'blindness' here as infatuation in counsel; he does not say whether the curse included loss of eyesight. The comparison 'as the blind gropeth in darkness' is the verse's own. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Isaiah 59:10, 'We grope for the wall like the blind': it is the people's own confession to God, and he glosses 'we see no way open for our relief, nor know which way to expect it, or what to do in order to it'. His principle: 'If we shut our eyes against the light of divine truth, it is just with God to hide from our eyes the things that belong to our peace'; 'Those that will not see their duty shall not see their interest.'",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Isaiah 59:9-15",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 2048395,
+     "quote": "We grope for the wall like the blind; we see no way open for our relief, nor know which way to expect it, or what to do in order to it."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 2048538,
+     "quote": "If we shut our eyes against the light of divine truth, it is just with God to hide from our eyes the things that belong to our peace"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 2048781,
+     "quote": "Those that will not see their duty shall not see their interest."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry reads the groping as being at a loss, a figure of helplessness; he does not describe how blind people actually move, though the wall image does. Right after, he adds a Latin maxim ('Quos Deus vult perdere') that is his, not Isaiah's. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Lamentations 4:13-15, 'They have wandered as blind men in the streets': the prophets and priests are the ones who 'wandered as blind men', that is they 'strayed from the paths of justice, were blind to every thing that is good, but to do evil they were quick-sighted'. On 'men could not touch their garments' he says good men 'were as shy of touching them as of touching a dead body'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Lamentations 4:13-20",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 4310950,
+     "quote": "They strayed from the paths of justice, were blind to every thing that is good, but to do evil they were quick-sighted."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 4311460,
+     "quote": "so that good men were as shy of touching them as of touching a dead body, which contracted a ceremonial pollution"
+    }
+   ],
+   "confidence": "high",
+   "caution": "The sentence about being 'blind to every thing that is good, but... quick-sighted' to evil is Henry's own turn and plays on sight and moral perception together. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Zephaniah 1:17, 'they shall walk like blind men': he reads the verse as the day of the Lord's distress, in which 'their hearts and hands shall fail them' and God will deliver them into the hands of cruel enemies 'because they have sinned against the Lord'. Henry then adds a sentence about how a blind man walks, which is among the lines this digest flags as not used.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Zephaniah 1:14-18",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 7991711,
+     "quote": "I will bring distress upon men, the strongest and stoutest of men; their hearts and hands shall fail them; they shall walk like blind men, wandering endlessly, because they have sinned against the Lord."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 7992114,
+     "quote": "Because they have sinned against the Lord he will deliver them into the hands of cruel enemies"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The first quote is the verse as Henry prints it inside his exposition, not his own comment. His following sentence ('Those that walk as bad men...') assumes what a blind man's walking is like and is flagged in the digest, with its offset, so Brian can look at it. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Blind people in the streets, and the law's protection of them, from the reference works. The 1915 encyclopaedia says 'there is no reason to believe, as has been surmised, that blindness was any less rife in ancient times than it is now'; it adds that 'care of the blind was specially enjoined in the Law (Lev 19 14), and offences against them are regarded as breaches of Law (Dt 27 18)'. Easton: 'The blind are to be treated with compassion (Lev. 19:14; Deut. 27:18).' (Inference, not a source's statement: the writers of the similes lived among blind people whom the law already named.)",
+   "source": "International Standard Bible Encyclopaedia (1915), 'Blindness' (Alex. Macalister); Easton's Bible Dictionary (1897), 'Blind'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3976345,
+     "quote": "there is no reason to believe, as has been surmised, that blindness was any less rife in ancient times than it is now"
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3980593,
+     "quote": "care of the blind was specially enjoined in the Law (Lev 19 14), and offences against them are regarded as breaches of Law (Dt 27 18)"
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 420153,
+     "quote": "The blind are to be treated with compassion (Lev. 19:14; Deut. 27:18)."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The encyclopaedia's 'no reason to believe' is a claim without a figure; nothing on the shelf counts the blind of the biblical world. The same entry speaks harshly of the sight of diseased eyes in Palestinian crowds: flagged in the digest, not quoted. The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling and line-end hyphens."
+  }
+ ],
+ "eyes-dim-with-grief": [
+  {
+   "text": "Henry on Job 17:7, 'My eye also is dim by reason of sorrow': 'He wept so much that he had almost lost his sight'. He adds 'The sorrow of the world thus works darkness and death'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Job 17:1-9",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 598224,
+     "quote": "He wept so much that he had almost lost his sight: My eye is dim by reason of sorrow, ch. xvi. 16. The sorrow of the world thus works darkness and death."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry says 'almost lost his sight'; he takes the dimness as real, from weeping, and does not call it blindness. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Psalm 6:6-7, 'Mine eye is consumed because of grief': 'wept till he had almost wept his eyes out'; he says 'this not only kept his eyes waking, but kept his eyes weeping', and that 'true penitents weep in their retirements', setting David in contrast to the Pharisees who 'disguised their faces' to seem to mourn.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Psalm 6",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 1563939,
+     "quote": "wept till he had almost wept his eyes out (v. 7): My eye is consumed because of grief."
+    },
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 1564397,
+     "quote": "This not only kept his eyes waking, but kept his eyes weeping."
+    },
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 1565058,
+     "quote": "True penitents weep in their retirements."
+    },
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 1565100,
+     "quote": "The Pharisees disguised their faces, that they might appear unto men to mourn"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's 'almost wept his eyes out' is a figure of speech about weeping, not a diagnosis. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Psalm 38:10, 'the light of mine eyes, it also is gone from me': he offers three causes for the lost light: 'either with much weeping or by a defluxion of rheum upon them, or perhaps through the lowness of his spirits and the frequent returns of fainting'. The shelf's commentator is therefore treating this as a real, physical failing of sight in the psalmist, with grief as one cause among several.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Psalm 38",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 2286748,
+     "quote": "As for the light of his eyes, that had gone from him, either with much weeping or by a defluxion of rheum upon them, or perhaps through the lowness of his spirits and the frequent returns of fainting."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's three causes are conjecture; the psalm names none, and the shelf does not define 'defluxion of rheum'. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Psalm 88:9, 'Mine eye mourneth by reason of affliction': 'Sometimes giving vent to grief by weeping gives some ease to a troubled spirit. Yet weeping must not hinder praying'. He ties it to 'My eye mourns, but I cry unto thee daily', so that 'prayers and tears go together, and they shall be accepted together'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Psalm 88",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 3446421,
+     "quote": "Sometimes giving vent to grief by weeping gives some ease to a troubled spirit. Yet weeping must not hinder praying; we must sow in tears: My eye mourns, but I cry unto thee daily. Let prayers and tears go together, and they shall be accepted together."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry reads the verse as weeping and praying together; he does not comment on the state of the speaker's sight here. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Lamentations 5:17, 'for these things our eyes are dim': 'our heart is faint... our eyes are dim, and our sight is gone, as is usual in a deliquium, or fainting fit'. He says the people grieved more for the ruin of the temple than for any other calamity: 'For other desolations our hearts grieve and our eyes weep; but for this our hearts faint and our eyes are dim.'",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Lamentations 5:15-22",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 4341699,
+     "quote": "for these things our eyes are dim, and our sight is gone, as is usual in a deliquium, or fainting fit."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 4341930,
+     "quote": "For other desolations our hearts grieve and our eyes weep; but for this our hearts faint and our eyes are dim."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's own gloss is 'a deliquium, or fainting fit': he takes the dimness as the passing sight-failure of a faint. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "The 1915 encyclopaedia's entry 'Eye' gathers the pattern: 'Eyes may grow dim with sorrow and tears (Job 17 7), they may \"waste away with griefs\" (Ps 6 7; 31 9; 88 9)'. In the same entry, the physical eye is distinguished from the figurative 'eye of the heart or mind, the organ of spiritual perception'.",
+   "source": "International Standard Bible Encyclopaedia (1915), 'Eye'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 3431490,
+     "quote": "Eyes may grow dim with sorrow and tears (Job 17 7), they may \"waste away with griefs\" (Ps 6 7; 31 9; 88 9)."
+    },
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 3432801,
+     "quote": "Figurative : The eye of the heart or mind, the organ of spiritual perception, which may be en- lightened or opened (Ps 119 IS)."
+    }
+   ],
+   "confidence": "high",
+   "caution": "The reference list is a pattern, not a count of any disease. The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling and line-end hyphens."
+  }
+ ],
+ "bribes-and-curses": [
+  {
+   "text": "Henry on Exodus 23:8, 'the gift blindeth the wise': the judge 'must not so much as take a gift, lest it should have a bad influence upon them, and overrule them, contrary to their intentions; for it has a strange tendency to blind those that otherwise would do well'. So the blinding is a slow, unintended corruption of a good judge.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Exodus 23:1-9",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 2160989,
+     "quote": "but they must not so much as take a gift, lest it should have a bad influence upon them, and overrule them, contrary to their intentions; for it has a strange tendency to blind those that otherwise would do well."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry reads the 'blinding' as an effect on judgment and says nothing here about physical blindness. The same law is quoted again in Deuteronomy 16:19. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Where the judges sat, and how many (Deuteronomy 16:18-20). Henry: 'the courts of judgment sat in the gates', and by this law, 'besides the great sanhedrim that sat at the sanctuary, consisting of seventy elders and a president, there was in the larger cities... a court of twenty-three judges, in the smaller cities a court of three judges'. He says Deuteronomy 16:19 repeats Exodus 23:8: 'This law had been given before'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Deuteronomy 16:18-22",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 4502266,
+     "quote": "for the courts of judgment sat in the gates."
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 4502892,
+     "quote": "besides the great sanhedrim that sat at the sanctuary, consisting of seventy elders and a president, there was in the larger cities, such as had in them above 120 families, a court of twenty-three judges, in the smaller cities a court of three judges"
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 4503593,
+     "quote": "This law had been given before, Exod. xxiii. 8."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The figures (seventy elders, twenty-three, three) come from later Jewish practice as Henry reports it; he gives no source and attaches them to Moses's law. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "How common bribery was, and what it meant for the blind picture. The 1915 encyclopaedia (Blindness, Judicial): 'the OT abounds with allusions to the corruption and venality of the magisterial bench'; Exodus 23:8 'a bribe blindeth the eyes of the open-eyed' marks 'a prolific cause of the miscarriage of justice'. Easton gives the Hebrew literally: 'the gift maketh open eyes blind'. Samuel, in 1 Samuel 12:3, asks whose bribe he took 'to blind mine eyes therewith'.",
+   "source": "International Standard Bible Encyclopaedia (1915), 'Blindness, Judicial' and 'Bribery'; Easton's Bible Dictionary (1897), 'Bribe'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3982519,
+     "quote": "According to the Book of the Covenant (Ex 23 8) 'a bribe blindeth the eyes of the open- eyed.'"
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 445020,
+     "quote": "for the gift maketh open eyes blind, and perverteth the cause of the righteous"
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 4242550,
+     "quote": "to blind mine eyes therewith?"
+    }
+   ],
+   "confidence": "high",
+   "caution": "The encyclopaedia entry called 'Blindness, Judicial' is about courts of justice, not about blindness as a judgment; its title is the scholar's phrase and may confuse. The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling and line-end hyphens."
+  },
+  {
+   "text": "Henry on Zechariah 11:17, the idol shepherd whose right eye is 'utterly darkened': he reads the darkened eye as losing sight of danger ('he shall not discern the danger that his flock is in, nor know which way to look for relief'), says it was 'fulfilled when Christ said to the Pharisees, I have come that those who see may be made blind, John ix. 39', and adds that 'those that should have been watchmen, but were sleepy and would never look about them, will justly have their eye blinded'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Zechariah 11:15-17",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 8465080,
+     "quote": "his right eye shall be utterly darkened, that he shall not discern the danger that his flock is in, nor know which way to look for relief."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 8465225,
+     "quote": "This was fulfilled when Christ said to the Pharisees, I have come that those who see may be made blind, John ix. 39."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 8465589,
+     "quote": "those that should have been watchmen, but were sleepy and would never look about them, will justly have their eye blinded."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry says the shepherd's arm and eye are lost 'so that he shall quite lose the use of both', reading a physical penalty as a moral one. The link to John 9:39 is Henry's own. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "The 1915 encyclopaedia on blinding as a punishment ('Eye'): 'A cruel custom therefore sanctioned among heathen nations the putting out of the eyes of an enemy', and 'Such blinding or putting out of the \"right eye\" was also considered a deep humiliation, as it robbed the victim of his beauty, and made him unfit to take his part in war (1 S 11 2; Zee 11 17)'.",
+   "source": "International Standard Bible Encyclopaedia (1915), 'Eye'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 3431225,
+     "quote": "as it robbed the victim of his beauty, and made him unfit to take his part in war (1 S 11 2; Zee 11 17)."
+    },
+    {
+     "file": "isbe_1915_vol2.txt",
+     "offset": 3430879,
+     "quote": "A cruel custom therefore sanc- tioned among heathen nat ions"
+    }
+   ],
+   "confidence": "high",
+   "caution": "'Heathen nations' is the encyclopaedia's phrase for the surrounding peoples; the Hebrew texts it cites (Samson, Zedekiah) show Israel and Judah on the receiving end. The shelf does not describe how a blinded king or soldier lived afterward. The 1915 encyclopaedia text on the shelf is an OCR scan with occasional misread letters; quotations keep the scan's spelling and line-end hyphens."
+  },
+  {
+   "text": "Henry on Zechariah 12:4, 'I will smite every horse of the people with blindness': 'so that they shall be no way serviceable to them; blinding the horses will be as bad as houghing them'. He reads the verse as God making the attackers' cavalry useless, the horses and horsemen 'forget the military exercise to which they were trained'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Zechariah 12:1-9",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 8478552,
+     "quote": "I will smite every horse of the people with blindness, so that they shall be no way serviceable to them; blinding the horses will be as bad as houghing them."
+    }
+   ],
+   "confidence": "high",
+   "caution": "'Houghing' is Henry's word and the shelf does not define it. He reads the curse on the horses literally; the shelf has no further comment on it. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  }
+ ],
+ "eyes-opened": [
+  {
+   "text": "Henry on Psalm 146:8, 'The Lord openeth the eyes of the blind': he reads it both ways at once. 'He gives sight to those that have been long deprived of it', as in Gen. 21:19 and 2 Kings 6:17, which he cites; 'But this has special reference to Christ', since 'since the world began was it not heard that any man opened the eyes of one that was born blind till Christ did it (John ix. 32) and thereby encouraged us to hope in him for spiritual illumination'. He also quotes Dr Hammond, who cites a rabbi that the last verse 'belongs to the days of the Messiah' and ties verses 7-8 to Matthew 11:5.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Psalm 146:5-10",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 4696201,
+     "quote": "He gives sight to those that have been long deprived of it; The Lord can open the eyes of the blind, and has often given to his afflicted people to see that comfort which before they were not aware of"
+    },
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 4696480,
+     "quote": "But this has special reference to Christ; for since the world began was it not heard that any man opened the eyes of one that was born blind till Christ did it (John ix. 32) and thereby encouraged us to hope in him for spiritual illumination."
+    },
+    {
+     "file": "matthew_henry_vol3.txt",
+     "offset": 4692850,
+     "quote": "He quotes one of the rabbies, who says of v. 10 that it belongs to the days of the Messiah."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry cites Genesis 21:19 and 2 Kings 6:17 as earlier instances and does not explain them. He applies the psalm to a physical healing ('the blind receive their sight') and a spiritual one together, without ranking them. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Edersheim on how Isaiah 35:5-6 was read before and in Jesus's day. In an appendix of Rabbinic passages he notes 'Is. xxxv. 5, 6 is repeatedly applied to Messianic times', in Yalkut, Bereshith Rabba and the Midrash on Psalm 146:8. In the body of the book he says that when John the Baptist in prison needed an answer, Jesus 'points for the solution of his doubts to the well-remembered prophecies of Isaiah (Is. xxxv. 5, 6; lxi. 1...)'.",
+   "source": "Alfred Edersheim, The Life and Times of Jesus the Messiah (1883), Book III, ch. iii (footnote on the Baptist in prison) and Appendix IX (Old Testament passages Messianically applied in Rabbinic writings)",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 4285413,
+     "quote": "Is. xxxv. 5, 6 is repeatedly applied to Messianic times. Thus, in Yalkut i. 78 c, and 157 a; in Ber. R. 95; and in Midrash on Ps. cxlvi. 8."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1113089,
+     "quote": "when our Lord would afterwards instruct him in his hour of darkness (St. Matt. xi. 2), He points for the solution of his doubts to the well-remembered prophecies of Isaiah (Is. xxxv. 5, 6; lxi. 1; viii. 14, 15)."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The Rabbinic collections Edersheim cites (Yalkut, Midrash Rabbah) were compiled long after the first century, so they show how the verse was read later, not necessarily in Jesus's time. He does not say whether the Rabbinic readings took the eyes as physical or spiritual. Edersheim (a Jewish-born Christian writing in 1883) sets the New Testament against Pharisaic Judaism throughout, and his language about Pharisees and 'Rabbinism' is often polemical; only the historical and exegetical statements are quoted here (see the digest)."
+  },
+  {
+   "text": "Henry on Isaiah 35:5-6: 'Wonders shall be wrought on men's bodies (v. 5, 6): The eyes of the blind shall be opened'; he lists Christ's healing of the man 'born blind' (John 9:6), the deaf (Ephphatha) and the lame, as 'miracles Christ wrought to prove that he was sent of God', and then: 'Wonders, greater wonders, shall be wrought on men's souls', where 'those that were spiritually blind were enlightened (Acts xxvi. 18)'. He reads the verse as both bodies and souls, bodies first.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Isaiah 35:1-10",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1175369,
+     "quote": "Wonders shall be wrought on men's bodies (v. 5, 6): The eyes of the blind shall be opened; this was often done by our Lord Jesus when he was here upon earth"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1176111,
+     "quote": "These miracles Christ wrought to prove that he was sent of God"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1176501,
+     "quote": "Wonders, greater wonders, shall be wrought on men's souls. By the word and Spirit of Christ those that were spiritually blind were enlightened (Acts xxvi. 18)"
+    }
+   ],
+   "confidence": "high",
+   "caution": "This is the clearest place on the shelf where Henry reads one 'eyes of the blind' verse as physical and spiritual together; he ranks the spiritual as 'greater'. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Isaiah 29:18, 'the eyes of the blind shall see out of obscurity': he reads it as ignorance giving way to understanding: 'Those that were ignorant shall become intelligent', for those who did not understand the prophecy ('as a sealed book') will understand it when fulfilled, 'those that were blind shall see out of obscurity; for the gospel was sent to them to open their eyes, Acts xxvi. 18'. He says nothing here of physical sight.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Isaiah 29:17-24",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 985430,
+     "quote": "Those that were ignorant shall become intelligent, v. 18."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 985488,
+     "quote": "Those that understood not this prophecy (but it was to them as a sealed book, v. 11) shall, when it is accomplished, understand it"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 985930,
+     "quote": "those that sat in darkness shall see a great light, those that were blind shall see out of obscurity; for the gospel was sent to them to open their eyes, Acts xxvi. 18."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's reading is spiritual only in this verse, in contrast to his reading of Isaiah 35. The phrase 'the poor Gentiles' that precedes the quote is his. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Isaiah 42:7, 'To open the blind eyes': Christ is 'given for a light to the Gentiles', not only to reveal what they needed to know 'but to open the blind eyes, that they might know it. By his Spirit in the word he presents the object; by his Spirit in the heart he prepared the organ'. Paul was sent to the Gentiles 'to open their eyes' (Acts 26:18). He reads the promise as about knowledge of God and the removal of spiritual blindness, with 'light and liberty'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Isaiah 42:1-9",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1368666,
+     "quote": "He is given for a light to the Gentiles, not only to reveal to them what they were concerned to know, and which otherwise they could not have known, but to open the blind eyes, that they might know it."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1368874,
+     "quote": "By his Spirit in the word he presents the object; by his Spirit in the heart he prepared the organ."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1369090,
+     "quote": "And St. Paul was sent to the Gentiles to open their eyes, Acts xxvi. 18."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1368552,
+     "quote": "Two glorious blessings Christ, in his gospel, brings with him to the Gentile world--light and liberty."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's 'present the object... prepare the organ' picture treats the eye's working as a pair: something to see and an organ to see it; this phrase also appears in his John 9:39 exposition. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Isaiah 42:16, 'I will bring the blind by a way that they knew not': he writes 'Those who by nature were blind, and those who, being under convictions of sin and wrath are quite at a loss and know not what to do with themselves, God will lead by a way that they knew not'. He gives Paul as his example: 'in the conversion of Paul, he was struck blind first, and then God revealed his Son in him'. He reads 'darkness light' as 'knowledge shall be easy to them' and 'crooked things straight' as 'the yoke easy'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Isaiah 42:10-17",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1380156,
+     "quote": "Those who by nature were blind, and those who, being under convictions of sin and wrath are quite at a loss and know not what to do with themselves, God will lead by a way that they knew not"
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1380526,
+     "quote": "Thus, in the conversion of Paul, he was struck blind first, and then God revealed his Son in him, and made the scales to fall from his eyes."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1380759,
+     "quote": "but God will make darkness light before them, and knowledge shall be easy to them."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 1381021,
+     "quote": "their way shall be plain, and the yoke easy"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's 'by nature blind' means spiritually blind by nature (born in ignorance of God); he says nothing here of a promise of guidance to people who are physically blind. The promise of a guide, as a promise to the physically blind, is the page's own reading, not Henry's. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Henry on Luke 4:18, 'recovering of sight to the blind', preached at Nazareth: he says Christ came 'by the power of his grace to give sight to them that were blind; not only the Gentile world, but every unregenerate soul, that is not only in bondage, but in blindness, like Samson and Zedekiah', and has 'eye-salve for us, which we may have for the asking'. He adds that they had 'seven readers every sabbath, the first a priest, the second a Levite, and the other five Israelites of that synagogue'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Luke 4:14-30",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 3665151,
+     "quote": "but by the power of his grace to give sight to them that were blind; not only the Gentile world, but every unregenerate soul, that is not only in bondage, but in blindness, like Samson and Zedekiah."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 3665359,
+     "quote": "Christ came to tell us that he has eye-salve for us, which we may have for the asking"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 3660803,
+     "quote": "They had in their synagogues seven readers every sabbath, the first a priest, the second a Levite, and the other five Israelites of that synagogue."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's two examples, Samson and Zedekiah, are named in the encyclopaedia's 'Eye' entry among those whose eyes were put out (Jgs 16:21; 2 K 25:7); he uses them as images of spiritual bondage. He does not mention the blind people Jesus healed in this passage. Henry is a commentator of 1706-1721 and writes from inside his own age: he reads the Pharisees as a type of corrupt church leaders of any time, and some of his phrases about the Jews of the Gospels are harsh and are not reproduced here (see the digest)."
+  },
+  {
+   "text": "Edersheim on the Nazareth synagogue (Luke 4:16-21). Jesus 'Himself read the concluding portion from the Prophets, or the so-called Haphtarah'; 'the minister delivered unto Him the book of the prophet Esaias', and when it was unrolled 'much more than the sixty-first chapter of Isaiah must have been within range of His eyes'. He thinks the verses read, Isaiah 61:1 with a clause from 58:6, were Jesus's introductory text, not the whole lesson, and reads 'the healing which He offers to those whom sin had blinded' as part of what the text announced.",
+   "source": "Alfred Edersheim, The Life and Times of Jesus the Messiah (1883), Book III, ch. xi (The First Galilean Ministry), text and footnotes [2177]-[2191]",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1420777,
+     "quote": "There is no reason to disturb the almost traditional idea, that Jesus Himself read the concluding portion from the Prophets, or the so-called Haphtarah."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1421701,
+     "quote": "When unrolling, and holding the scroll, much more than the sixty-first chapter of Isaiah must have been within range of His eyes."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1425152,
+     "quote": "the healing which He offers to those whom sin had blinded"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim's reconstruction of the synagogue service rests on later Talmudic sources and he marks parts of it 'we doubt not' or 'most likely'. His remark about 'those whom sin had blinded' is his summary, in which the physical healings are not mentioned. Edersheim (a Jewish-born Christian writing in 1883) sets the New Testament against Pharisaic Judaism throughout, and his language about Pharisees and 'Rabbinism' is often polemical; only the historical and exegetical statements are quoted here (see the digest)."
+  }
+ ]
+}

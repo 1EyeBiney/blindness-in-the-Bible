@@ -194,3 +194,16 @@ PICTURE_PAGES = [
 
 def by_section() -> list[dict]:
     return PICTURE_PAGES
+
+
+# ---- the place and the time, from the reference shelf (edited in
+# src/write_picture.py, evidence in picture_candidates.json)
+import json as _json
+from pathlib import Path as _Path
+
+_PC = _Path(__file__).resolve().parents[1] / "data" / "reference" / "picture.json"
+if _PC.exists():
+    _extra = _json.loads(_PC.read_text(encoding="utf-8"))
+    for _page in PICTURE_PAGES:
+        for _item in _extra.get(_page["slug"], []):
+            _page.setdefault("place_and_time", []).append({"text": _item["text"], "source": _item["source"]})

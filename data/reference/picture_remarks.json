@@ -1,0 +1,406 @@
+{
+ "remarks": [
+  {
+   "who": "Henry",
+   "locator": "Matthew 9:27 (the two blind men)",
+   "note": "the physically blind can see what the leaders cannot",
+   "file": "matthew_henry_vol5_matthew_to_john.txt",
+   "offset": 770270,
+   "quote": "They who, by the providence of God, are deprived of bodily sight, may yet, by the grace of God, have the eyes of their understanding so enlightened"
+  },
+  {
+   "who": "Henry",
+   "locator": "Matthew 9:27-31 (the cure)",
+   "note": "the blind men's request as a model for the spiritual one",
+   "file": "matthew_henry_vol5_matthew_to_john.txt",
+   "offset": 1748151,
+   "quote": "Lord, that the eyes of our mind may be opened! Many are spiritually blind, and yet say they see, John ix. 41."
+  },
+  {
+   "who": "Henry",
+   "locator": "Luke 18:35-43 (Bartimaeus, near Jericho)",
+   "note": "the bodily healings are a 'token' of giving sight to 'blind souls'",
+   "file": "matthew_henry_vol5_matthew_to_john.txt",
+   "offset": 4573292,
+   "quote": "As a token of this, he cured many of their bodily blindness"
+  },
+  {
+   "who": "Henry",
+   "locator": "John 9:35-38 (the healed man)",
+   "note": "physical sight valued for what it does for faith",
+   "file": "matthew_henry_vol5_matthew_to_john.txt",
+   "offset": 5992314,
+   "quote": "Note, The Greatest comfort of bodily eyesight is its serviceableness to our faith and the interests of our souls."
+  },
+  {
+   "who": "Henry",
+   "locator": "John 9:39 ('those who see might be made blind')",
+   "note": "he says the verse is a metaphor taken from the healing",
+   "file": "matthew_henry_vol5_matthew_to_john.txt",
+   "offset": 5997480,
+   "quote": "This great truth he explains by a metaphor borrowed from the miracle which he had lately wrought."
+  },
+  {
+   "who": "Henry",
+   "locator": "Isaiah 35:5",
+   "note": "physical first, then 'greater wonders... on men's souls'",
+   "file": "matthew_henry_vol4.txt",
+   "offset": 1175369,
+   "quote": "Wonders shall be wrought on men's bodies (v. 5, 6): The eyes of the blind shall be opened"
+  },
+  {
+   "who": "Henry",
+   "locator": "Psalm 146:8",
+   "note": "reads the verse as both",
+   "file": "matthew_henry_vol3.txt",
+   "offset": 4696480,
+   "quote": "But this has special reference to Christ; for since the world began was it not heard that any man opened the eyes of one that was born blind till Christ did it (John ix. 32) and thereby encouraged us to hope in him for spiritual illumination."
+  },
+  {
+   "who": "Henry",
+   "locator": "Isaiah 29:18",
+   "note": "reads the verse as ignorance becoming understanding only",
+   "file": "matthew_henry_vol4.txt",
+   "offset": 985430,
+   "quote": "Those that were ignorant shall become intelligent, v. 18."
+  },
+  {
+   "who": "Henry",
+   "locator": "Isaiah 42:7",
+   "note": "the opened eye is a picture of an enlightened heart",
+   "file": "matthew_henry_vol4.txt",
+   "offset": 1368874,
+   "quote": "By his Spirit in the word he presents the object; by his Spirit in the heart he prepared the organ."
+  },
+  {
+   "who": "Henry",
+   "locator": "Isaiah 42:16",
+   "note": "'blind by nature' = spiritually blind",
+   "file": "matthew_henry_vol4.txt",
+   "offset": 1380156,
+   "quote": "Those who by nature were blind, and those who, being under convictions of sin and wrath are quite at a loss and know not what to do with themselves"
+  },
+  {
+   "who": "Henry",
+   "locator": "Isaiah 42:18-19",
+   "note": "the blind in verse 18 may be idolaters (cf. Ps. 115:8)",
+   "file": "matthew_henry_vol4.txt",
+   "offset": 1385910,
+   "quote": "The verse before may be understood as spoken to the Gentile idolaters, whom he calls deaf and blind, because they worshipped gods that were so."
+  },
+  {
+   "who": "Henry",
+   "locator": "Isaiah 43:8",
+   "note": "'blind people that have eyes': eyes that work and do not see",
+   "file": "matthew_henry_vol4.txt",
+   "offset": 1406087,
+   "quote": "to which the prophet seems here to refer when he calls idolaters blind people that have eyes, and deaf people that have ears."
+  },
+  {
+   "who": "Henry",
+   "locator": "Luke 4:18",
+   "note": "the promise applied to souls, with two physically blinded men as examples",
+   "file": "matthew_henry_vol5_matthew_to_john.txt",
+   "offset": 3665151,
+   "quote": "but by the power of his grace to give sight to them that were blind; not only the Gentile world, but every unregenerate soul, that is not only in bondage, but in blindness, like Samson and Zedekiah."
+  },
+  {
+   "who": "Henry",
+   "locator": "Romans 11:8",
+   "note": "eyes that work but do not see",
+   "file": "matthew_henry_vol6.txt",
+   "offset": 2637060,
+   "quote": "They had the faculties, but in the things that belonged to their peace they had not the use of those faculties"
+  },
+  {
+   "who": "Henry",
+   "locator": "2 Peter 1:9",
+   "note": "he says outright that 'blind' here is spiritual",
+   "file": "matthew_henry_vol6.txt",
+   "offset": 6099531,
+   "quote": "blind, that is, as to spiritual and heavenly things, as the next words explain it: He cannot see far off."
+  },
+  {
+   "who": "Henry",
+   "locator": "Revelation 3:17",
+   "note": "bodily sight is no help to the soul",
+   "file": "matthew_henry_vol6.txt",
+   "offset": 6655596,
+   "quote": "The riches of the body will not enrich the soul; the sight of the body will not enlighten the soul"
+  },
+  {
+   "who": "Henry",
+   "locator": "Ecclesiastes 7:11",
+   "note": "the eye of the understanding is better than bodily sight",
+   "file": "matthew_henry_vol3.txt",
+   "offset": 6109009,
+   "quote": "The clearness of the eye of the understanding is of greater use to us than bodily eye-sight."
+  },
+  {
+   "who": "Henry",
+   "locator": "Acts 9:8-9 (Paul)",
+   "note": "a bodily blindness sent to teach him of the other kind",
+   "file": "matthew_henry_vol6.txt",
+   "offset": 1710227,
+   "quote": "Now Paul was thus struck with bodily blindness to make him sensible of his spiritual blindness"
+  },
+  {
+   "who": "Henry",
+   "locator": "1 Kings 14:4 (Ahijah)",
+   "note": "a blind prophet sees better for it",
+   "file": "matthew_henry_vol2.txt",
+   "offset": 3687763,
+   "quote": "blind through age, yet still blest with the visions of the Almighty, which need not bodily eyes, but are rather favoured by the want of them"
+  },
+  {
+   "who": "Edersheim",
+   "locator": "John 9:41",
+   "note": "physical blindness is a calamity; the Pharisees' kind is guilt",
+   "file": "edersheim_life_and_times.txt",
+   "offset": 2662671,
+   "quote": "It was not the calamity of blindness; but it was a blindness in which they were guilty"
+  },
+  {
+   "who": "Edersheim",
+   "locator": "John 9:2-3 (why was he born blind)",
+   "note": "he separates the natural cause of blindness from the moral one",
+   "file": "edersheim_life_and_times.txt",
+   "offset": 2640441,
+   "quote": "There is a physical, natural reason for them."
+  },
+  {
+   "who": "Edersheim",
+   "locator": "Matthew 9:27-31 (the two blind men)",
+   "note": "he uses 'the blindness of the Gentile world' as a figure beside the physical healing",
+   "file": "edersheim_life_and_times.txt",
+   "offset": 2261600,
+   "quote": "Yet the leprosy of Israel and the blindness of the Gentile world are equally removed by the touch of His Hand at the cry of faith."
+  },
+  {
+   "who": "Edersheim",
+   "locator": "Mark 8:22-26 (Bethsaida)",
+   "note": "he draws a spiritual lesson from the physical healing's two stages",
+   "file": "edersheim_life_and_times.txt",
+   "offset": 2256740,
+   "quote": "Lastly, the confusedness of his sight, when first restored to him, surely conveyed, not only to him but to us all, both a spiritual lesson and a spiritual warning."
+  },
+  {
+   "who": "Edersheim",
+   "locator": "Luke 4:18",
+   "note": "summarises the Nazareth text as healing of sin-blindness",
+   "file": "edersheim_life_and_times.txt",
+   "offset": 1425152,
+   "quote": "the healing which He offers to those whom sin had blinded"
+  },
+  {
+   "who": "ISBE 1915",
+   "locator": "'Blindness'",
+   "note": "the verb is mostly spiritual; physical blindness is noun and adjective",
+   "file": "isbe_1915_vol1.txt",
+   "offset": 3976036,
+   "quote": "The word blind is used as a vb., as Jn 12 40, usually in the sense of ob scuring spiritual perception."
+  },
+  {
+   "who": "ISBE 1915",
+   "locator": "'Blindness' (end)",
+   "note": "lists the figure's meanings and cites exactly the picture pages' texts",
+   "file": "isbe_1915_vol1.txt",
+   "offset": 3980755,
+   "quote": "Figuratively, blindness is used to represent want of mental perception, want of prevision, reckless ness, and incapacity to perceive moral distinctions (Isa 42 16.18.19; Mt 23 16 ff; Jn 9 39 ff)."
+  },
+  {
+   "who": "ISBE 1915",
+   "locator": "'Blindness': the 'scales' of Paul",
+   "note": "the 'scales' are a figure inside a physical healing",
+   "file": "isbe_1915_vol1.txt",
+   "offset": 3979475,
+   "quote": "The \"scales\" mentioned were not material but in the restoration of his sight it seemed as if scales had fallen from his eyes."
+  },
+  {
+   "who": "ISBE 1915",
+   "locator": "'Eye' (2)",
+   "note": "names the figurative eye as its own category",
+   "file": "isbe_1915_vol2.txt",
+   "offset": 3432801,
+   "quote": "Figurative : The eye of the heart or mind, the organ of spiritual perception, which may be en- lightened or opened (Ps 119 IS)."
+  },
+  {
+   "who": "ISBE 1915",
+   "locator": "'Eyesalve'",
+   "note": "the medical detail serves a figurative reference",
+   "file": "isbe_1915_vol2.txt",
+   "offset": 3436485,
+   "quote": "but the figurative reference is to the restoring of spiritual vision."
+  },
+  {
+   "who": "Easton",
+   "locator": "'Blind'",
+   "note": "a reference-work statement of the figure",
+   "file": "easton_ebd.txt",
+   "offset": 420499,
+   "quote": "Blindness denotes ignorance as to spiritual things (Isa. 6:10; 42:18, 19; Matt. 15:14; Eph. 4:18)."
+  },
+  {
+   "who": "Easton",
+   "locator": "'Blind'",
+   "note": "treats the opening promise as a Messianic sign",
+   "file": "easton_ebd.txt",
+   "offset": 420608,
+   "quote": "The opening of the eyes of the blind is peculiar to the Messiah (Isa. 29:18)."
+  },
+  {
+   "who": "Smith's",
+   "locator": "'Blindness'",
+   "note": "same, from Smith's",
+   "file": "smiths_bible_dictionary.txt",
+   "offset": 382840,
+   "quote": "opening the eyes of the blind\" is mentioned in prophecy as a peculiar attribute of the Messiah."
+  }
+ ],
+ "flagged": [
+  {
+   "who": "Henry",
+   "locator": "Zephaniah 1:17",
+   "note": "describes how a blind man walks as dark, doubtful, dangerous and unguided, and ends in a fall; bears directly on what the picture assumes, so Brian may want to read the sentence",
+   "file": "matthew_henry_vol4.txt",
+   "offset": 7991930,
+   "quote": "Those that walk as bad men will justly be left to walk as blind men"
+  },
+  {
+   "who": "Henry",
+   "locator": "Luke 18 (Bartimaeus)",
+   "note": "says of people who are poor and blind that they are wretched and miserable, citing Rev. 3:17, before calling them objects of compassion",
+   "file": "matthew_henry_vol5_matthew_to_john.txt",
+   "offset": 1748634,
+   "quote": "They that are poor and blind are wretched and miserable"
+  },
+  {
+   "who": "Henry",
+   "locator": "Matthew 9:27-31",
+   "note": "treats the blind men's crying out as begging, a mild but real assumption",
+   "file": "matthew_henry_vol5_matthew_to_john.txt",
+   "offset": 769407,
+   "quote": "followed him, as beggars do, with their incessant cries"
+  },
+  {
+   "who": "Henry",
+   "locator": "John 9:35-38",
+   "note": "says the healed man could have gone back to being blind content, having seen the Son of God",
+   "file": "matthew_henry_vol5_matthew_to_john.txt",
+   "offset": 5992434,
+   "quote": "How contentedly might this man have returned to his former blindness"
+  },
+  {
+   "who": "Henry",
+   "locator": "Acts 9:8-9",
+   "note": "calls Israel's blindness lasting, and sets Sodom and Egypt beside the unbelieving Jews",
+   "file": "matthew_henry_vol6.txt",
+   "offset": 1709190,
+   "quote": "Condemned sinners are struck blind, as the Sodomites and Egyptians"
+  },
+  {
+   "who": "Henry",
+   "locator": "Romans 11:7-10",
+   "note": "presents the cry of Matthew 27:25 as a curse entailed on the Jews and their children",
+   "file": "matthew_henry_vol6.txt",
+   "offset": 395842,
+   "quote": "His blood be upon us and upon our children"
+  },
+  {
+   "who": "Henry",
+   "locator": "Romans 11:8",
+   "note": "says Jewish unbelief is inherited by succession",
+   "file": "matthew_henry_vol6.txt",
+   "offset": 2638106,
+   "quote": "the obstinacy and unbelief go by succession from generation to generation"
+  },
+  {
+   "who": "Henry",
+   "locator": "Isaiah 42:18-25",
+   "note": "says Israel was worse than the Gentiles",
+   "file": "matthew_henry_vol4.txt",
+   "offset": 1386302,
+   "quote": "They were even worse than the Gentiles themselves."
+  },
+  {
+   "who": "Henry",
+   "locator": "Isaiah 42:18-25",
+   "note": "says the Jews who rejected Christ are still scattered, under a curse, in his own day",
+   "file": "matthew_henry_vol4.txt",
+   "offset": 1384684,
+   "quote": "remain dispersed unto this day"
+  },
+  {
+   "who": "Henry",
+   "locator": "Revelation 3:14-22",
+   "note": "calls the ruins of Laodicea a monument to the wrath of Christ",
+   "file": "matthew_henry_vol6.txt",
+   "offset": 6649579,
+   "quote": "an awful monument of the wrath of the Lamb"
+  },
+  {
+   "who": "Henry",
+   "locator": "Matthew 15:1-9 and Matthew 23",
+   "note": "uses Roman Catholics as the type of a church of tradition and 'church-oppressors' as the Pharisees' type",
+   "file": "matthew_henry_vol5_matthew_to_john.txt",
+   "offset": 2913602,
+   "quote": "The Papists pretend"
+  },
+  {
+   "who": "Henry",
+   "locator": "1 John 2:9-11",
+   "note": "calls Samaritans poor and ignorant in passing",
+   "file": "matthew_henry_vol6.txt",
+   "offset": 6261092,
+   "quote": "poor ignorant Samaritans"
+  },
+  {
+   "who": "Edersheim",
+   "locator": "Matthew 23:15 (third woe)",
+   "note": "polemical sentence about Judaism",
+   "file": "edersheim_life_and_times.txt",
+   "offset": 3301223,
+   "quote": "Against this charge, rightly understood, Judaism has in vain sought to defend itself."
+  },
+  {
+   "who": "Edersheim",
+   "locator": "Matthew 23 (before the woes)",
+   "note": "polemical sentence about Rabbinic self-assertion",
+   "file": "edersheim_life_and_times.txt",
+   "offset": 3297242,
+   "quote": "But perhaps the climax of blasphemous self-assertion is reached in the story"
+  },
+  {
+   "who": "Edersheim",
+   "locator": "Matthew 15 (purification)",
+   "note": "apology for his own account of Rabbinic purity rules, with a nod to 'blindness in part'",
+   "file": "edersheim_life_and_times.txt",
+   "offset": 2160748,
+   "quote": "These painful details, most reluctantly given"
+  },
+  {
+   "who": "Edersheim",
+   "locator": "Sketches, ch. on the Pharisees",
+   "note": "polemical summary of the Pharisees' system and the 'blind guides'",
+   "file": "edersheim_sketches.txt",
+   "offset": 427282,
+   "quote": "The result was a system of pure externalism"
+  },
+  {
+   "who": "ISBE 1915",
+   "locator": "'Blindness'",
+   "note": "calls the sight of diseased eyes in a Palestinian crowd 'disgusting'",
+   "file": "isbe_1915_vol1.txt",
+   "offset": 3976546,
+   "quote": "among the commonest and most disgusting sights"
+  },
+  {
+   "who": "ISBE 1915",
+   "locator": "'Eye'",
+   "note": "'heathen nations' for the neighbours of Israel (used in an item, with a caution)",
+   "file": "isbe_1915_vol2.txt",
+   "offset": 3430879,
+   "quote": "A cruel custom therefore sanc- tioned among heathen nat ions"
+  }
+ ]
+}

@@ -221,3 +221,16 @@ def test_picture_pages_build_cover_the_figurative_catalog_and_keep_slots_open(tm
     # passages is sighted; the man born blind is not among the "who" of John 9:39-41
     bible = build_site.load_bible()
     assert "Are we blind too" in bible[("John", 9, 40)] and "Pharisees" in bible[("John", 9, 40)]
+
+
+def test_picture_place_and_time_traces_to_candidates():
+    import json
+    import picture as pic
+    cands = json.loads((ROOT / "data" / "reference" / "picture_candidates.json").read_text(encoding="utf-8"))
+    final = json.loads((ROOT / "data" / "reference" / "picture.json").read_text(encoding="utf-8"))
+    for p in pic.PICTURE_PAGES:
+        assert p.get("place_and_time"), p["slug"]
+    for slug, items in final.items():
+        for item in items:
+            for key, idx in item["from"]:
+                assert cands[key][idx]["evidence"], (slug, key, idx)
