@@ -210,7 +210,7 @@ def test_picture_pages_build_cover_the_figurative_catalog_and_keep_slots_open(tm
     for p in pic.PICTURE_PAGES:
         h = (tmp_path / "picture" / f"{p['slug']}.html").read_text(encoding="utf-8")
         assert "What the picture assumes about the blind" in h and "Who is called blind" in h
-        assert "Open for Brian" in h and "Other voices" in h
+        assert ("Open for Brian" in h) == (not p.get("brian")) and "Other voices" in h
         for book, ch, a, z in p["passages"]:
             covered |= {f"{book} {ch}:{v}" for v in range(a, z + 1)}
     loose = [r["reference"] for r in rows() if r["kind"] in ("figurative", "promise") and r["reference"] not in covered]
