@@ -94,7 +94,8 @@ def e(s) -> str:
 
 def page(title: str, body: str, current: str, root: str = "") -> str:
     nav = [("index.html", "Home"), ("stories/index.html", "The stories"), ("law/index.html", "The law"),
-           ("life/index.html", "Living blind, then"), ("walk-by-faith.html", "Walk by faith"),
+           ("life/index.html", "Living blind, then"), ("picture/index.html", "Blindness as a picture"),
+           ("walk-by-faith.html", "Walk by faith"),
            ("catalog.html", "The catalog"), ("about.html", "About")]
     links = "".join(
         f'<li><a href="{root}{href}"{" aria-current=\"page\"" if href == current else ""}>{e(label)}</a></li>'
@@ -296,7 +297,12 @@ def context_page(page: dict, bible: dict, root: str, back: tuple[str, str]) -> s
     parts.append(f'<p class="lede">{e("; ".join(passage_label(p) for p in page["passages"]))}.</p>')
     parts.append(f"<h2>What leads up to it</h2><p>{e(page['around'])}</p>")
     parts.append(f"<h2>What it says</h2><p>{e(page['says'])}</p>")
-    parts.append(f"<h2>What it may tell us</h2><p>{e(page['notice'])}</p>")
+    if page.get("notice"):
+        parts.append(f"<h2>What it may tell us</h2><p>{e(page['notice'])}</p>")
+    if page.get("assumes"):
+        parts.append(f"<h2>What the picture assumes about the blind</h2><p>{e(page['assumes'])}</p>")
+    if page.get("who"):
+        parts.append(f"<h2>Who is called blind</h2><p>{e(page['who'])}</p>")
     parts.append(slot_html(page))
     if page.get("place_and_time"):
         parts.append("<h2>The place and the time</h2>")
@@ -348,7 +354,9 @@ passages they belong to, with what led up to each, what it was like to be there,
 archaeologists can add. <a href="law/index.html">The law</a> reads what God commanded about the blind as evidence of
 how they were treated. <a href="life/index.html">Living blind, then</a> asks what daily life was like for a blind
 person in each kind of place Scripture shows, and leaves room for the people who know to answer.
-<a href="walk-by-faith.html">Walk by faith</a> is the verse this whole site is named for. The
+<a href="picture/index.html">Blindness as a picture</a> reads the verses where blindness stands for something else,
+plainly, and asks who is actually called blind. <a href="walk-by-faith.html">Walk by faith</a> is the verse this whole
+site is named for. The
 <a href="catalog.html">catalog</a> lists every verse that speaks of blindness.</p>
 <ul>
 <li>{n_word} verses in the Berean Standard Bible use the word blind in some form.</li>
@@ -364,7 +372,8 @@ person in each kind of place Scripture shows, and leaves room for the people who
 <li>The stories, with the place and the time behind each. Done in draft and reviewed by Brian.</li>
 <li>The law, read as evidence of how blind people were treated. Pages built; place and time to follow.</li>
 <li>Living blind, then: four settings, with Brian's answers and other voices still to come.</li>
-<li>Blindness as a picture, and the wider themes of sight, light and darkness. Later.</li>
+<li>Blindness as a picture: seven pages, built at Pastor John's suggestion. Place and time to follow.</li>
+<li>The wider themes of sight, light and darkness. Later.</li>
 </ol>
 
 <h2>People and groups found so far</h2>
@@ -446,6 +455,20 @@ def render_all(out: Path = OUT) -> None:
             (out / section / f"{p_['slug']}.html").write_text(
                 page(p_["title"], context_page(p_, bible, "../", ("index.html", pg.SECTIONS[section][0])),
                      f"{section}/index.html", root="../"), encoding="utf-8")
+    import picture as pic
+    (out / "picture").mkdir(exist_ok=True)
+    idx = [f"<h1>{e(pic.OPENING['title'])}</h1>"] + [f'<p class="lede">{e(pic.OPENING["intro"][0])}</p>'] + \
+          [f"<p>{e(p)}</p>" for p in pic.OPENING["intro"][1:]] + ["<h2>The pages</h2><ul>"]
+    for p_ in pic.PICTURE_PAGES:
+        refs = "; ".join(passage_label(x) for x in p_["passages"])
+        idx.append(f'<li><a href="{p_["slug"]}.html">{e(p_["title"])}</a>. {e(refs)}.</li>')
+    idx.append("</ul>")
+    (out / "picture" / "index.html").write_text(
+        page(pic.OPENING["title"], "\n".join(idx), "picture/index.html", root="../"), encoding="utf-8")
+    for p_ in pic.PICTURE_PAGES:
+        (out / "picture" / f"{p_['slug']}.html").write_text(
+            page(p_["title"], context_page(p_, bible, "../", ("index.html", pic.SECTION[0])),
+                 "picture/index.html", root="../"), encoding="utf-8")
     (out / "walk-by-faith.html").write_text(
         page(pg.FAITH_PAGE["title"], context_page(pg.FAITH_PAGE, bible, "", ("index.html", "Home")),
              "walk-by-faith.html", root=""), encoding="utf-8")

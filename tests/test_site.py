@@ -201,3 +201,23 @@ def test_law_question_items_trace_to_candidates_and_key_quotes_exist():
     assert "laughing-stock of the blind" in budge
     ham = re.sub(r"\s+", " ", (shelf / "hammurabi_johns_pg17150.txt").read_text(encoding="utf-8"))
     assert "half his price" in ham
+
+
+def test_picture_pages_build_cover_the_figurative_catalog_and_keep_slots_open(tmp_path):
+    import picture as pic
+    build_site.render_all(tmp_path)
+    covered = set()
+    for p in pic.PICTURE_PAGES:
+        h = (tmp_path / "picture" / f"{p['slug']}.html").read_text(encoding="utf-8")
+        assert "What the picture assumes about the blind" in h and "Who is called blind" in h
+        assert "Open for Brian" in h and "Other voices" in h
+        for book, ch, a, z in p["passages"]:
+            covered |= {f"{book} {ch}:{v}" for v in range(a, z + 1)}
+    loose = [r["reference"] for r in rows() if r["kind"] in ("figurative", "promise") and r["reference"] not in covered]
+    assert loose == [], loose
+    idx = (tmp_path / "picture" / "index.html").read_text(encoding="utf-8")
+    assert all(f'{p["slug"]}.html' in idx for p in pic.PICTURE_PAGES)
+    # the claim that no blind person is called a blind guide or spiritually blind: every subject in these
+    # passages is sighted; the man born blind is not among the "who" of John 9:39-41
+    bible = build_site.load_bible()
+    assert "Are we blind too" in bible[("John", 9, 40)] and "Pharisees" in bible[("John", 9, 40)]
