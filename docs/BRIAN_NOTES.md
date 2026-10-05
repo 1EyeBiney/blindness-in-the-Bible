@@ -122,6 +122,47 @@ doesn't look like Hamurabi's code has anything about treatment of the blind so t
 on the blind priest page:
 need to know more about priestly duties, would they accidentally touch things they souldnshould not? I have to touch things all the time to figure out what they are, would that factor in? Would trying to allow the blind priest to "fit in" be a hinderence to the rest of the Levites?
 
+## 4 October 2026, Brian's fourth thoughts file (verbatim; the site carries an edited version in his voice)
+
+In the herding camp additional thoughts:
+I shudder just to think about the trip hazards these men would have faced. Tent ropes everywhere and nothing to help tell where they were. It would be like being in a parking lot with many parking stops and no cane to know where they were. It would be a constant stumbling and falling over, without being able to see where you are falling.
+As most of the men were shepherds all the time, that job would be virtually impossible. It is very hard for me now to keep track of just 2 dogs running around my feet, and they usually are wearing bells and are not dumb sheep. Being able to tell what an animal is going to do before it does it is a big part of preemptive corrective behavior.
+Then there would be the constant stepping in little sheep presents all over the place. That stuff never quite gets out of your sandals.
+I do a lot of cooking in our house but that is because my heat sources are very controlled, always in the same location, and fairly self-contained. Open fires give me the willies, and not having a cane to let me feel around means I stay far away from fires. Even if I had a cane then, it's well, made of wood and would burn too.
+In a hill country/village
+Initial thoughts: both men still relied on their hearing and both used it to recognize who was around them. Eli recognizes Samuel's voice and I would guess he had often heard the Lord's voice if he could recognize what was happening with Samuel that night.
+Would Samuel been able to fulfill any priestly duties that Eli would have had, especially in regards to handling blood. Sacrificing may not be that big a deal if it is just positioning the knife in a particular way. Handling sharp objects is not that difficult a task. Sprinkling a certain number of blood droplets in a certain spot might have been challenging. Keeping a lamp lit might have been hard.
+Eli probably got led around a lot. The other one might have had to learn how to map things mentally and might have been able to get around better on his own due to experience.
+A worn path in a village would be easily followed, using a stick, and the path need not be absolutely straight as long as it had edges.
+There would be familiar sounds and smells.
+
+in a walled town:
+having a fixed position would allow a blind person to grow familiar with their surroundings, so that sounds and smells would be useful.
+I would worry about getting in the way of people moving through the gate, especially with animals that would be hauling heavy things.
+A blind beggar at the gate would hear an awful lot of things and this would be a hub of activity.
+It would likely be quite possible for a blind person in a small town like this to independently move about unaided.
+
+In Jerusalem
+With conveniences comes more hardships. It would be great to live in a city that had actual streets and walls, but steps would be a great problem and virtually impossible to navigate alone without a cane or stick to guide.
+I would think that the blind in Jerusalem would get to know the city quite well due to the different sounds of the streets..
+It probably was, unfortunately, competitive for spots or for peak times of pilgrim visitations.
+
+
+Blind Guides page in new Picture section
+It does not trouble me when people use the term blind to describe a person being occluded from the truth or reality. I will often say "See you later." or "It's good to see you." when I have no physical vision. It is a statement of recognition and that can be done in a variety of ways.
+I find it interesting to think about flatly disqualifying blind people leading other blind people, and I know we cannot cover every condition, so if we evaluate what conditions were like back then, then the statement can be mostly true.
+I, myself, lead around other blind people all the time, but I'm doing it while using a white cane as assistance to know what is around.
+Furthermore, the usage of blind in the Bible I think typically gets associated with total blindness, like myself, and not visual impairment. I know many people I consider blind, as part of our group that is on a very wide spectrum, that don't even need a white cane to travel but belive me, their hardships are just as real.
+
+The eyes of the blind will be opened
+Isaiah 42:16
+16 I will lead the blind by a way they did not know; I will guide them on unfamiliar paths. I will turn darkness into light before them and rough places into level ground. These things I will do for them, and I will not forsake them.
+So many thoughts here:
+we have to be willing to be led sometimes.
+every blind person needs to hear these words.
+for me personally, He has led me to places I never dreamt I would ever go.
+This is part of why I claim blindness as one of the greatest gift's God has given me, behind my salvation and my wife Barb. Daily I have to rely on Him for so many apparent needs, let alone the things we all take for granted.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)

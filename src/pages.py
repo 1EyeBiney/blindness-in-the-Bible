@@ -127,6 +127,19 @@ LIFE_PAGES = [
             "I am guessing it was hot much of the time, and at least for me, when my eyes were at their worst, heat "
             "was not a good idea. It could have been cataracts, glaucoma, macular degeneration or any of a number of "
             "eye diseases. They all hurt. They make your eyes water, itch and burn, and there were no artificial tears.",
+            "I shudder to think about the trip hazards these men faced. Tent ropes everywhere, and nothing to tell you "
+            "where you were. It would be like crossing a parking lot full of concrete stops with no cane: constant "
+            "stumbling and falling, without being able to see where you are falling.",
+            "Most of the men were shepherds all the time, and that job would have been next to impossible. It is hard "
+            "enough for me to keep track of two dogs running around my feet, and they wear bells and are not sheep. "
+            "A big part of handling animals is telling what one is about to do before it does it. Then there is the "
+            "constant stepping in what sheep leave everywhere. That never quite comes out of your sandals.",
+            "I do a lot of the cooking in our house, but only because my heat sources are controlled, always in the "
+            "same place, and fairly self-contained. Open fires give me the willies. Without a cane to feel my way, I "
+            "would stay far from a fire, and a cane back then would have been wood, and would burn too.",
+        ],
+        "how_now": [
+            "Open for Brian: the daily tasks of a herding camp, one by one, and how you would approach each today.",
         ],
     },
     {
@@ -143,6 +156,21 @@ LIFE_PAGES = [
         "notice": "In a village everyone knew the blind man and the blind man knew the paths. The text shows blind "
                   "elders still at their work, placed where people came to them. What it does not show is how a blind "
                   "person who was not a priest or a prophet, and had no standing, lived in such a place.",
+        "brian": [
+            "Both men still relied on their hearing, and both used it to recognize who was around them. Eli knew "
+            "Samuel's voice, and I would guess he had heard the Lord's voice often enough to recognize what was "
+            "happening to Samuel that night.",
+            "Eli probably got led around a lot. Ahijah may have learned to map things mentally and gotten around "
+            "better on his own, simply from longer experience. A worn path in a village would be easy to follow with "
+            "a stick; it does not need to be straight as long as it has edges. And there would be familiar sounds and "
+            "smells.",
+        ],
+        "how_now": [
+            "Could Eli have kept any of a priest's duties? Sacrificing might not be that hard if it is a matter of "
+            "positioning the knife a particular way; handling sharp objects is not difficult for me. Sprinkling a set "
+            "number of drops of blood in a set place would have been a challenge. Keeping a lamp lit might have been "
+            "hard.",
+        ],
     },
     {
         "slug": "town-gate", "section": "life", "title": "In a walled town, at the gate",
@@ -159,6 +187,13 @@ LIFE_PAGES = [
                   "could be found. Walls, steps and crowds are harder for a blind person than open ground, but a "
                   "fixed place by the gate was also a kind of standing: people knew where to find him. Whether that "
                   "was care or containment is the open question of these pages.",
+        "brian": [
+            "A fixed position would let a blind person grow familiar with his surroundings, so that sounds and smells "
+            "became useful. I would worry about getting in the way of the traffic through the gate, especially the "
+            "animals hauling heavy loads.",
+            "A blind beggar at the gate would hear an awful lot. It was the hub of everything. And in a small town "
+            "like this it seems quite possible that a blind person could move about on his own, unaided.",
+        ],
     },
     {
         "slug": "jerusalem", "section": "life", "title": "In first-century Jerusalem",
@@ -177,6 +212,14 @@ LIFE_PAGES = [
                   "the length of the city to Siloam on a stranger's word. That walk, and the daily walk to a begging "
                   "place and back, are the practical questions these pages want answered by people who have made "
                   "such walks.",
+        "brian": [
+            "With conveniences come more hardships. It would be a fine thing to live in a city with real streets and "
+            "walls, but the steps would be a great problem, and close to impossible to manage alone without a cane or "
+            "stick to guide you.",
+            "I would think the blind in Jerusalem got to know the city well by the different sounds of its streets. "
+            "And it was probably competitive, unfortunately, for the good spots and the peak times when the pilgrims "
+            "came.",
+        ],
     },
 ]
 

@@ -58,6 +58,18 @@ PICTURE_PAGES = [
         "who": "Every person called a blind guide in these passages could see. The scribes and Pharisees, the watchmen "
                "of Israel, the man who boasts of the law. Not one blind person is called a blind guide anywhere in "
                "Scripture. The insult is reserved for the sighted who will not look.",
+        "brian": [
+            "It does not trouble me when people use the word blind for someone cut off from the truth. I say \"See you "
+            "later\" and \"It's good to see you\" all the time, with no physical vision at all. It is a statement of "
+            "recognition, and recognition can be done in a lot of ways.",
+            "I find it interesting to think about flatly disqualifying blind people from leading other blind people. "
+            "We cannot cover every condition, but if we weigh what conditions were like back then, the statement is "
+            "mostly true. I lead other blind people around all the time myself, but I do it with a white cane in my "
+            "hand telling me what is around us.",
+            "I also think the Bible's \"blind\" usually gets read as total blindness, like mine, rather than visual "
+            "impairment. I know many people in our group whom I consider blind, across a very wide spectrum, who do "
+            "not even need a cane to travel. Believe me, their hardships are just as real.",
+        ],
     },
     {
         "slug": "eyes-that-cannot-see", "section": "picture", "title": "Eyes that cannot see",
@@ -169,6 +181,13 @@ PICTURE_PAGES = [
                "and Jesus kept it to actual men by actual roads. Isaiah 42:16 adds a second promise that is easy to "
                "miss: not sight, but a guide. \"I will lead the blind by a way they did not know.\" For a reader who has "
                "not been healed, that is the verse in this group that is addressed to him.",
+        "brian": [
+            "Isaiah 42:16. So many thoughts here. We have to be willing to be led sometimes. Every blind person needs "
+            "to hear these words. For me personally, He has led me to places I never dreamed I would go.",
+            "This is part of why I count blindness among the greatest gifts God has given me, behind my salvation and "
+            "my wife Barb. Daily I have to rely on Him for so many obvious needs, let alone the things everyone takes "
+            "for granted.",
+        ],
     },
 ]
 

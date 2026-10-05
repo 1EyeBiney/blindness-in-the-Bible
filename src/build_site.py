@@ -275,7 +275,8 @@ def slot_html(page: dict) -> str:
     if page.get("section") == "life":
         parts.append("<h2>How I would do it now</h2>")
         if page.get("how_now"):
-            parts.extend(f"<p>{e(p)}</p>" for p in page["how_now"])
+            for p in page["how_now"]:
+                parts.append(f'<p class="slot">{e(p)}</p>' if p.startswith("Open for Brian") else f"<p>{e(p)}</p>")
         else:
             parts.append('<p class="slot">Open for Brian: take the duties and daily tasks a blind person held in this '
                          'setting, and say how you would approach each one today, having once done such things with '
