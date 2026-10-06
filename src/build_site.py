@@ -93,7 +93,7 @@ def e(s) -> str:
 
 
 def page(title: str, body: str, current: str, root: str = "") -> str:
-    nav = [("index.html", "Home"), ("stories/index.html", "The stories"), ("law/index.html", "The law"),
+    nav = [("index.html", "Home"), ("what-blind-means.html", "What blind means"), ("stories/index.html", "The stories"), ("law/index.html", "The law"),
            ("life/index.html", "Living blind, then"), ("picture/index.html", "Blindness as a picture"),
            ("walk-by-faith.html", "Walk by faith"),
            ("catalog.html", "The catalog"), ("about.html", "About")]
@@ -348,6 +348,9 @@ def index_page(rows: list[dict]) -> str:
 <blockquote><p>For we walk by faith, not by sight.</p><p>2 Corinthians 5:7</p></blockquote>
 <p class="lede">A series of studies on blindness in the Bible, written by a blind Christian for blind believers,
 their families, and the church.</p>
+<p>One thing first. Most people read the word blind as total blindness, and so, as far as we can tell, did the
+Bible. But blindness is a spectrum, and only a small share of blind people see nothing at all. Before the
+studies, read <a href="what-blind-means.html">what blind means here</a>.</p>
 
 <h2>Where this stands</h2>
 <p>This site is being built in the open. The <a href="stories/index.html">stories</a> gather the verses into the
@@ -443,7 +446,9 @@ def render_all(out: Path = OUT) -> None:
     (out / "catalog.html").write_text(page("The catalog", catalog_page(rows), "catalog.html"), encoding="utf-8")
     (out / "about.html").write_text(page("About", ABOUT, "about.html"), encoding="utf-8")
     import stories as st
+    import spectrum
     bible = load_bible()
+    (out / spectrum.SLUG).write_text(page(spectrum.TITLE, spectrum.render(bible), spectrum.SLUG), encoding="utf-8")
     (out / "stories").mkdir(exist_ok=True)
     (out / "stories" / "index.html").write_text(
         page("The stories", stories_index(), "stories/index.html", root="../"), encoding="utf-8")

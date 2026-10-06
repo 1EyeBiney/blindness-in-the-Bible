@@ -48,7 +48,7 @@ def test_blindfold_verses_are_set_aside():
 
 def test_site_builds_and_is_accessible(tmp_path):
     build_site.render_all(tmp_path)
-    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "catalog.html", "index.html", "walk-by-faith.html"]
+    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "catalog.html", "index.html", "walk-by-faith.html", "what-blind-means.html"]
     pages = sorted(tmp_path.rglob("*.html"))
     for p in pages:
         h = p.read_text(encoding="utf-8")
@@ -234,3 +234,15 @@ def test_picture_place_and_time_traces_to_candidates():
         for item in items:
             for key, idx in item["from"]:
                 assert cands[key][idx]["evidence"], (slug, key, idx)
+
+
+def test_spectrum_page_quotes_the_dim_eyes_verses(tmp_path):
+    import spectrum
+    bible = build_site.load_bible()
+    assert "could hardly see" in bible[("Genesis", 48, 10)] and "eyes were dim" in bible[("1 Kings", 14, 4)]
+    assert "so weak that he could no longer see" in bible[("Genesis", 27, 1)]
+    build_site.render_all(tmp_path)
+    h = (tmp_path / spectrum.SLUG).read_text(encoding="utf-8")
+    assert "swimming pool" in h and h.count('class="verse"') == len(spectrum.VERSES)
+    home = (tmp_path / "index.html").read_text(encoding="utf-8")
+    assert spectrum.SLUG in home
