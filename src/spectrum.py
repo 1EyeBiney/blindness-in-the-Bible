@@ -19,8 +19,9 @@ blindness in real life is a range, and this page is here to say so before you re
 <p>From Brian: I tell people that blindness is kind of like a swimming pool, with people scattered all
 through it. Some are just dipping their toes in the water. Those are the people who need reading glasses.
 Some are in the shallow end and need corrective lenses to get through the day. Some are in the deep end,
-and that is where I am. It is all right, though. There is plenty of room to swim about, because only a small
-share of the people the world counts as blind have no sight at all. And we are all still in the pool
+and that is where I am. It is all right, though. There is plenty of room to swim about, because fewer than one in ten
+of the people the world counts as blind have no sight at all. I have read a good many studies on that number
+and they do not agree, but none that I would trust puts it above ten percent. And we are all still in the pool
 together.</p>
 <p>In my own blind community, many people do not need to feel along a wall to get around outside. Plenty
 of low-vision people do not grope about the way I would have to without my cane. They may read large print,
