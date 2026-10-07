@@ -181,6 +181,19 @@ tables with headers, and no images or scripts. The author uses a screen reader, 
 
 *Placed:* how-it-was-made now says blind since 2014; the theology bullet rewritten so he is a blind reader with a perspective, not an authority; the images line changed because images are coming. The eyes-opened source paragraph on Isaiah 42:16 reworded the same way.
 
+## 7 October 2026, on the Siloam scene in the audio pilot (from chat, condensed)
+
+Brian: do not make the walk to the pool frightening. He had faith enough to go; imagine someone going up asking
+kindly how he will manage the crowd and the steps, the man answering from faith, and someone who happens to be
+going down to wash deciding to help. Have the man express his joy after telling people he just heard Jesus say
+his blindness was not his sin or his parents' but that God would be glorified through him; keep that state of
+mind throughout. "God provides for the blind, and I almost want to lean into that rather than my natural
+inclination of how frightening it would be." Also: blind people do not count steps when moving through the
+world, because of the slight angles of travel; they use sounds and touch sensations. Keep the cool air rising
+from the pool; add side-street and other familiar sounds.
+
+*Placed:* the scene in audio/build_script.py rewritten to these rules; test added.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)

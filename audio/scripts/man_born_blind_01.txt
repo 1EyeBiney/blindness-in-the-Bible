@@ -5,7 +5,7 @@
 
 # Not By Sight, episode 1: The man born blind (John 9). Pilot script.
 # NARRATOR carries the story and the background. READER speaks Scripture only, word for word from the
-# Berean Standard Bible. BRIAN is Brian Clark, to be recorded in his own voice. MAN, NEIGHBOUR and FATHER
+# Berean Standard Bible. BRIAN is Brian Clark, to be recorded in his own voice. MAN, NEIGHBOUR, HELPER and FATHER
 # appear only inside scenes the narrator introduces with the word 'imagine'.
 
 [NARRATOR] (calm) A man is walking downhill through Jerusalem with mud on his eyes.
@@ -30,15 +30,21 @@
 [NARRATOR] (calm) Saliva and mud. Edersheim notes that saliva was commonly thought to help diseases of the eye, and that making clay and anointing on the Sabbath were among the things the religious teachers counted as work. Hold on to that. It is why the day matters so much in the argument to come.
 [NARRATOR] (calm) And the pool. Siloam lies at the south end of Jerusalem, the lowest point of the ancient city. Josephus, who knew the city before it fell, called it a fountain with sweet water in great plenty. Its water came from the Gihon spring through a tunnel King Hezekiah cut so that a besieging army could not reach the spring. The pool itself was lost for nineteen centuries, until 2004, when workers repairing a sewer uncovered stone steps. Archaeologists found a large stone-lined basin with steps on at least three sides, built in sets of five with landings between.
 [NARRATOR] (calm) How far did he walk? From the Temple Mount down to the pool is about six hundred metres in a straight line, and more than a hundred metres downhill, through a valley Josephus describes with steep slopes on either side. Excavators have found a stepped street running down that valley to the pool. And at the end, a staircase down to the water.
-[NARRATOR] (beat) Now imagine it. This is a scene, not Scripture.
+[NARRATOR] (calm) Scripture does not tell us how he felt on that walk, or whether anyone helped him. It tells us he had just heard, for the first time in his life, a teacher say that his blindness was not a punishment. So we imagine a man who had been given a reason to hope. This is a scene, not Scripture.
 [PAUSE 1.0]
-[MAN] (whisper) Mud. Cool, and wet, and heavy on my eyes. His thumbs pressed it in. Go to Siloam, he said. Wash.
-[MAN] (calm) I know the way down. I know it by the slope under my feet and the sound of the street narrowing. I have begged at the top of this road all my life. I have never been to the bottom.
-[NEIGHBOUR] (curious) Where are you going with your face like that? Who did that to you?
-[MAN] (calm) A man. He said wash. Let me by.
-[MAN] (whisper) Stepped street. Count the steps. Water smell, cold air rising. The crowd thins here. People come up from the pool talking, and nobody is going down but me.
-[MAN] (after a long pause) Stairs. Five. A landing. Five more. My hand finds the edge of the stone. I kneel.
-[MAN] (whisper) Water.
+[MAN] (whisper) Mud. Cool and wet and heavy on my eyes. His thumbs pressed it in. Go to Siloam, he said. Wash.
+[MAN] (calm) I have sat at the top of this road all my life. I know it by the slope under my feet, by the street narrowing, by the bread ovens on the left and the sound of a side street opening on the right. I have never been to the bottom.
+[NEIGHBOUR] (curious) Friend, your face. Where are you going like that, against all these people?
+[MAN] (excited) Down to Siloam, to wash. A man put this on my eyes. They call him Jesus.
+[NEIGHBOUR] (curious) Down? With the whole city coming up for the Sabbath? Do you know the way, and the steps at the bottom?
+[MAN] (calm) I know the way I got here. People have told me all my life that my eyes were a punishment, mine or my parents'. He said no. He said it was so God could do something in me. I do not know what. But I am going to find out, and I am going to go the way he said.
+[HELPER] (calm) I am going down to wash before I go up. Take my arm. The street steps down in a little while, and I will tell you when.
+[MAN] (excited) Thank you. Thank you.
+[PAUSE 1.0]
+[MAN] (whisper) His arm is steady. The crowd parts around us, voices going up, ours going down. The paving changes under my sandals, smooth stone, then a step down. Another. The wall on my right gives way to open air. Somewhere below, water being poured.
+[MAN] (whisper) And the air. Cool air rising up the street to meet us, wet, with the smell of stone that is always in shadow. I have felt that at the Temple when the water was carried up. Now I am walking into it.
+[HELPER] (calm) Stairs here. The landing is wide. Then more stairs, and the water.
+[MAN] (after a long pause) My foot finds the edge of the stone. The water is cold on my hands. I kneel beside him, and I wash.
 [PAUSE 2.0]
 [NARRATOR] (calm) What happened next, Scripture gives in three words. He came back seeing.
 [BRIAN] (calm) One of my first true walk-by-faith moments came during rehabilitation training at the Hines VA hospital outside Chicago. At the end of training I did a drop-off test. I was let out of a car in a suburban business district with the task of finding a grocery store about five blocks away, on my own. Unless I got into serious physical danger, I was not to be helped. I had to trust my new skills to make that trip without any sight. It was terrifying, exhilarating and liberating all at once. I think of the man born blind making his way to the Pool of Siloam, on faith.

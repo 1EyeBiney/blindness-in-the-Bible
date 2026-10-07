@@ -41,7 +41,7 @@
     "NEIGHBOUR": {
       "name": "A neighbour",
       "voice_id": "REPLACE_ME",
-      "description": "Any age, curious, a little suspicious. One or two lines in an imagined scene.",
+      "description": "Any age, on the way up to the Temple, curious and kind. Asks the questions a crowd would ask. Only in an imagined scene.",
       "stability": 0.5
     },
     "FATHER": {
@@ -49,6 +49,12 @@
       "voice_id": "REPLACE_ME",
       "description": "Older male, frightened, careful with every word. Only in an imagined scene.",
       "stability": 0.55
+    },
+    "HELPER": {
+      "name": "A man going down to wash",
+      "voice_id": "REPLACE_ME",
+      "description": "Adult male, unhurried, practical. On his way down to the pool anyway; offers his arm and says only what a guide needs to say. Only in an imagined scene.",
+      "stability": 0.6
     }
   }
 }

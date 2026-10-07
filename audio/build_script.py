@@ -50,7 +50,7 @@ def build(bible: dict) -> list[str]:
     add("")
     add("# Not By Sight, episode 1: The man born blind (John 9). Pilot script.")
     add("# NARRATOR carries the story and the background. READER speaks Scripture only, word for word from the")
-    add("# Berean Standard Bible. BRIAN is Brian Clark, to be recorded in his own voice. MAN, NEIGHBOUR and FATHER")
+    add("# Berean Standard Bible. BRIAN is Brian Clark, to be recorded in his own voice. MAN, NEIGHBOUR, HELPER and FATHER")
     add("# appear only inside scenes the narrator introduces with the word 'imagine'.")
     add("")
 
@@ -98,19 +98,35 @@ def build(bible: dict) -> list[str]:
         "metres in a straight line, and more than a hundred metres downhill, through a valley Josephus describes "
         "with steep slopes on either side. Excavators have found a stepped street running down that valley to the "
         "pool. And at the end, a staircase down to the water.")
-    add("[NARRATOR] (beat) Now imagine it. This is a scene, not Scripture.")
+    add("[NARRATOR] (calm) Scripture does not tell us how he felt on that walk, or whether anyone helped him. "
+        "It tells us he had just heard, for the first time in his life, a teacher say that his blindness was not "
+        "a punishment. So we imagine a man who had been given a reason to hope. This is a scene, not Scripture.")
     add("[PAUSE 1.0]")
-    add("[MAN] (whisper) Mud. Cool, and wet, and heavy on my eyes. His thumbs pressed it in. Go to Siloam, he said. "
+    add("[MAN] (whisper) Mud. Cool and wet and heavy on my eyes. His thumbs pressed it in. Go to Siloam, he said. "
         "Wash.")
-    add("[MAN] (calm) I know the way down. I know it by the slope under my feet and the sound of the street "
-        "narrowing. I have begged at the top of this road all my life. I have never been to the bottom.")
-    add("[NEIGHBOUR] (curious) Where are you going with your face like that? Who did that to you?")
-    add("[MAN] (calm) A man. He said wash. Let me by.")
-    add("[MAN] (whisper) Stepped street. Count the steps. Water smell, cold air rising. The crowd thins here. "
-        "People come up from the pool talking, and nobody is going down but me.")
-    add("[MAN] (after a long pause) Stairs. Five. A landing. Five more. My hand finds the edge of the stone. "
-        "I kneel.")
-    add("[MAN] (whisper) Water.")
+    add("[MAN] (calm) I have sat at the top of this road all my life. I know it by the slope under my feet, by the "
+        "street narrowing, by the bread ovens on the left and the sound of a side street opening on the right. "
+        "I have never been to the bottom.")
+    add("[NEIGHBOUR] (curious) Friend, your face. Where are you going like that, against all these people?")
+    add("[MAN] (excited) Down to Siloam, to wash. A man put this on my eyes. They call him Jesus.")
+    add("[NEIGHBOUR] (curious) Down? With the whole city coming up for the Sabbath? Do you know the way, and the "
+        "steps at the bottom?")
+    add("[MAN] (calm) I know the way I got here. People have told me all my life that my eyes were a punishment, "
+        "mine or my parents'. He said no. He said it was so God could do something in me. I do not know what. "
+        "But I am going to find out, and I am going to go the way he said.")
+    add("[HELPER] (calm) I am going down to wash before I go up. Take my arm. The street steps down in a little "
+        "while, and I will tell you when.")
+    add("[MAN] (excited) Thank you. Thank you.")
+    add("[PAUSE 1.0]")
+    add("[MAN] (whisper) His arm is steady. The crowd parts around us, voices going up, ours going down. The "
+        "paving changes under my sandals, smooth stone, then a step down. Another. The wall on my right gives "
+        "way to open air. Somewhere below, water being poured.")
+    add("[MAN] (whisper) And the air. Cool air rising up the street to meet us, wet, with the smell of stone that "
+        "is always in shadow. I have felt that at the Temple when the water was carried up. Now I am walking into "
+        "it.")
+    add("[HELPER] (calm) Stairs here. The landing is wide. Then more stairs, and the water.")
+    add("[MAN] (after a long pause) My foot finds the edge of the stone. The water is cold on my hands. I kneel "
+        "beside him, and I wash.")
     add("[PAUSE 2.0]")
     add("[NARRATOR] (calm) What happened next, Scripture gives in three words. He came back seeing.")
     add("[BRIAN] (calm) One of my first true walk-by-faith moments came during rehabilitation training at the Hines "

@@ -33,7 +33,7 @@ def test_reader_lines_are_the_official_berean_text_and_cover_all_of_john_9():
 
 def test_every_scene_is_introduced_with_imagine():
     ls = lines()
-    scene_speakers = {"MAN", "NEIGHBOUR", "FATHER"}
+    scene_speakers = {"MAN", "NEIGHBOUR", "HELPER", "FATHER"}
     armed = False
     for ln in ls:
         m = LINE.match(ln)
@@ -88,3 +88,10 @@ def test_labs_pipe_check_passes_if_installed():
     # until Brian picks voices, the only errors allowed are the REPLACE_ME voice ids
     errors = [ln for ln in (r.stdout + r.stderr).splitlines() if "error:" in ln]
     assert all("voice_id is REPLACE_ME" in ln for ln in errors), errors
+
+
+def test_the_siloam_scene_keeps_brians_rules():
+    text = " ".join(ln for ln in lines() if ln.startswith(("[MAN]", "[HELPER]", "[NEIGHBOUR]"))).lower()
+    assert "count" not in text, "blind people do not count steps; the scene uses sound, touch and air"
+    assert "take my arm" in text and "cool air" in text
+    assert "afraid" not in text and "terrif" not in text
