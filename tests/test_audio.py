@@ -9,6 +9,7 @@ sys.path.insert(0, str(ROOT / "src"))
 sys.path.insert(0, str(ROOT / "audio"))
 import build_site  # noqa: E402
 import build_script  # noqa: E402
+import merge_runs  # noqa: E402
 
 SCRIPT = ROOT / "audio" / "scripts" / "man_born_blind_01.txt"
 LINE = re.compile(r"^\[(\w+)\]\s*(?:\(([^)]*)\))?\s*(.*)$")
@@ -95,3 +96,25 @@ def test_the_siloam_scene_keeps_brians_rules():
     assert "count" not in text, "blind people do not count steps; the scene uses sound, touch and air"
     assert "take my arm" in text and "cool air" in text
     assert "afraid" not in text and "terrif" not in text
+
+
+def test_v2_merges_runs_without_changing_a_word():
+    bible = build_site.load_bible()
+    v1 = build_script.build(bible)
+    v2 = merge_runs.merge_runs(v1, "man_born_blind_v2")
+    assert (ROOT / "audio" / "scripts" / "man_born_blind_02.txt").read_text(encoding="utf-8") == "\n".join(v2) + "\n"
+
+    def spoken(ls):
+        return " ".join(LINE.match(ln).group(3) for ln in ls if merge_runs.is_line(ln))
+    assert spoken(v1) == spoken(v2)
+    speakers = []
+    for ln in v2:
+        if merge_runs.is_line(ln):
+            m = LINE.match(ln)
+            speakers.append(m.group(1))
+            assert len(m.group(3)) <= merge_runs.MAX_CHARS
+        else:
+            speakers.append(None)
+    assert all(not (a and a == b) for a, b in zip(speakers, speakers[1:])), "two consecutive sections share a speaker"
+    john9 = " ".join(bible[("John", 9, v)] for v in range(1, 42))
+    assert " ".join(LINE.match(ln).group(3) for ln in v2 if ln.startswith("[READER]")) == john9

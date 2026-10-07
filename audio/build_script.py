@@ -223,6 +223,14 @@ def main() -> None:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     (OUT_DIR / "man_born_blind_01.txt").write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
     (OUT_DIR / "man_born_blind_01.md").write_text(to_markdown(lines), encoding="utf-8", newline="\n")
+    # v2: the same words, each speaker's run rendered as one section; its own project so v1 is never overwritten
+    from merge_runs import merge_runs, section_index, is_line
+    merged = merge_runs(lines, "man_born_blind_v2")
+    (OUT_DIR / "man_born_blind_02.txt").write_text("\n".join(merged) + "\n", encoding="utf-8", newline="\n")
+    (OUT_DIR / "man_born_blind_02_sections.md").write_text(
+        "# Episode 1, version 2: rendered sections\n\nOne row per rendered file. Name a section by its id or its "
+        "first words to have it re-rendered.\n\n" + section_index(merged), encoding="utf-8", newline="\n")
+    print(f"v2: {sum(1 for ln in merged if is_line(ln))} sections")
     words = sum(len(re.sub(r"^\[\w+\]\s*(\([^)]*\))?", "", ln).split())
                 for ln in lines if ln.startswith("[") and not ln.startswith(("[BREAK", "[PAUSE")))
     print(f"wrote {len(lines)} lines, about {words} spoken words, roughly {words / 150:.0f} minutes at 150 wpm")
