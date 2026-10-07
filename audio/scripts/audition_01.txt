@@ -1,0 +1,40 @@
+@project: audition
+@section: 1
+@cast: casts/audition.json
+@defaults: takes=1 keep=pick model=eleven_v3
+
+# Audition: each candidate voice reads one line of its intended role. Cheap by design.
+
+# NARRATOR
+[NARRATOR_RUSS] (calm) A man is walking downhill through Jerusalem with mud on his eyes. He cannot see. He has never seen. A stranger he will not recognise, because he has never seen a face, has just told him to go and wash in a pool at the bottom of the city. He goes.
+[NARRATOR_NATHAN] (calm) A man is walking downhill through Jerusalem with mud on his eyes. He cannot see. He has never seen. A stranger he will not recognise, because he has never seen a face, has just told him to go and wash in a pool at the bottom of the city. He goes.
+[NARRATOR_ARTHUR] (calm) A man is walking downhill through Jerusalem with mud on his eyes. He cannot see. He has never seen. A stranger he will not recognise, because he has never seen a face, has just told him to go and wash in a pool at the bottom of the city. He goes.
+[NARRATOR_GEORGE] (calm) A man is walking downhill through Jerusalem with mud on his eyes. He cannot see. He has never seen. A stranger he will not recognise, because he has never seen a face, has just told him to go and wash in a pool at the bottom of the city. He goes.
+[NARRATOR_HOPE] (calm) A man is walking downhill through Jerusalem with mud on his eyes. He cannot see. He has never seen. A stranger he will not recognise, because he has never seen a face, has just told him to go and wash in a pool at the bottom of the city. He goes.
+
+# READER
+[READER_BILL] (plainly) Jesus answered, “Neither this man nor his parents sinned, but this happened so that the works of God would be displayed in him.
+[READER_DANIEL] (plainly) Jesus answered, “Neither this man nor his parents sinned, but this happened so that the works of God would be displayed in him.
+[READER_ERIC] (plainly) Jesus answered, “Neither this man nor his parents sinned, but this happened so that the works of God would be displayed in him.
+[READER_ALICE] (plainly) Jesus answered, “Neither this man nor his parents sinned, but this happened so that the works of God would be displayed in him.
+
+# BRIAN
+[BRIAN_CHRIS] (calm) One of my first true walk-by-faith moments came during rehabilitation training at the Hines VA hospital outside Chicago. At the end of training I did a drop-off test. It was terrifying, exhilarating and liberating all at once.
+[BRIAN_ROGER] (calm) One of my first true walk-by-faith moments came during rehabilitation training at the Hines VA hospital outside Chicago. At the end of training I did a drop-off test. It was terrifying, exhilarating and liberating all at once.
+[BRIAN_BRIANEL] (calm) One of my first true walk-by-faith moments came during rehabilitation training at the Hines VA hospital outside Chicago. At the end of training I did a drop-off test. It was terrifying, exhilarating and liberating all at once.
+[BRIAN_JOHNDOE] (calm) One of my first true walk-by-faith moments came during rehabilitation training at the Hines VA hospital outside Chicago. At the end of training I did a drop-off test. It was terrifying, exhilarating and liberating all at once.
+
+# MAN
+[MAN_WILL] (calm) I know the way I got here. People have told me all my life that my eyes were a punishment, mine or my parents'. He said no. He said it was so God could do something in me.
+[MAN_JERRY] (calm) I know the way I got here. People have told me all my life that my eyes were a punishment, mine or my parents'. He said no. He said it was so God could do something in me.
+[MAN_LIAM] (calm) I know the way I got here. People have told me all my life that my eyes were a punishment, mine or my parents'. He said no. He said it was so God could do something in me.
+
+# NEIGHBOUR
+[NEIGHBOUR_JUNIPER] (curious) Down? With the whole city coming up for the Sabbath? Do you know the way, and the steps at the bottom?
+[NEIGHBOUR_RIVER] (curious) Down? With the whole city coming up for the Sabbath? Do you know the way, and the steps at the bottom?
+[NEIGHBOUR_MATILDA] (curious) Down? With the whole city coming up for the Sabbath? Do you know the way, and the steps at the bottom?
+
+# HELPER
+[HELPER_HECTOR] (calm) I am going down to wash before I go up. Take my arm. The street steps down in a little while, and I will tell you when.
+[HELPER_CALLUM] (calm) I am going down to wash before I go up. Take my arm. The street steps down in a little while, and I will tell you when.
+[HELPER_ADAM] (calm) I am going down to wash before I go up. Take my arm. The street steps down in a little while, and I will tell you when.

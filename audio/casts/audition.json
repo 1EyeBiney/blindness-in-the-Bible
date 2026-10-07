@@ -1,0 +1,133 @@
+{
+  "cast_name": "audition",
+  "defaults": {
+    "model": "eleven_v3",
+    "stability": 0.6,
+    "similarity_boost": 0.75,
+    "style": 0.0,
+    "speed": 1.0,
+    "use_speaker_boost": true,
+    "output_format": "mp3_44100_192",
+    "takes": 1
+  },
+  "characters": {
+    "NARRATOR_RUSS": {
+      "name": "Narrator candidate Russ",
+      "voice_id": "HKFOb9iktHA85uKXydRT",
+      "description": "Audition for the narrator role."
+    },
+    "NARRATOR_NATHAN": {
+      "name": "Narrator candidate Nathan",
+      "voice_id": "lWDDHwXsJXJM7nv2YgHY",
+      "description": "Audition for the narrator role."
+    },
+    "NARRATOR_ARTHUR": {
+      "name": "Narrator candidate Arthur",
+      "voice_id": "C1npRmjB19a6yNkEucvx",
+      "description": "Audition for the narrator role."
+    },
+    "NARRATOR_GEORGE": {
+      "name": "Narrator candidate George",
+      "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+      "description": "Audition for the narrator role."
+    },
+    "NARRATOR_HOPE": {
+      "name": "Narrator candidate Hope",
+      "voice_id": "iCrDUkL56s3C8sCRl7wb",
+      "description": "Audition for the narrator role."
+    },
+    "READER_BILL": {
+      "name": "Reader candidate Bill",
+      "voice_id": "pqHfZKP75CvOlQylNhV4",
+      "description": "Audition for the reader role.",
+      "stability": 0.8,
+      "speed": 0.95
+    },
+    "READER_DANIEL": {
+      "name": "Reader candidate Daniel",
+      "voice_id": "onwK4e9ZLuTAKqWW03F9",
+      "description": "Audition for the reader role.",
+      "stability": 0.8,
+      "speed": 0.95
+    },
+    "READER_ERIC": {
+      "name": "Reader candidate Eric",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "description": "Audition for the reader role.",
+      "stability": 0.8,
+      "speed": 0.95
+    },
+    "READER_ALICE": {
+      "name": "Reader candidate Alice",
+      "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+      "description": "Audition for the reader role.",
+      "stability": 0.8,
+      "speed": 0.95
+    },
+    "BRIAN_CHRIS": {
+      "name": "Brian candidate Chris",
+      "voice_id": "iP95p4xoKVk53GoZ742B",
+      "description": "Audition for the brian role."
+    },
+    "BRIAN_ROGER": {
+      "name": "Brian candidate Roger",
+      "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+      "description": "Audition for the brian role."
+    },
+    "BRIAN_BRIANEL": {
+      "name": "Brian candidate Brianel",
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "description": "Audition for the brian role."
+    },
+    "BRIAN_JOHNDOE": {
+      "name": "Brian candidate Johndoe",
+      "voice_id": "EiNlNiXeDU1pqqOPrYMO",
+      "description": "Audition for the brian role."
+    },
+    "MAN_WILL": {
+      "name": "Man candidate Will",
+      "voice_id": "bIHbv24MWmeRgasZH58o",
+      "description": "Audition for the man role."
+    },
+    "MAN_JERRY": {
+      "name": "Man candidate Jerry",
+      "voice_id": "XA2bIQ92TabjGbpO2xRr",
+      "description": "Audition for the man role."
+    },
+    "MAN_LIAM": {
+      "name": "Man candidate Liam",
+      "voice_id": "TX3LPaxmHKxFdv7VOQHJ",
+      "description": "Audition for the man role."
+    },
+    "NEIGHBOUR_JUNIPER": {
+      "name": "Neighbour candidate Juniper",
+      "voice_id": "aMSt68OGf4xUZAnLpTU8",
+      "description": "Audition for the neighbour role."
+    },
+    "NEIGHBOUR_RIVER": {
+      "name": "Neighbour candidate River",
+      "voice_id": "SAz9YHcvj6GT2YYXdXww",
+      "description": "Audition for the neighbour role."
+    },
+    "NEIGHBOUR_MATILDA": {
+      "name": "Neighbour candidate Matilda",
+      "voice_id": "XrExE9yKIg1WjnnlVkGX",
+      "description": "Audition for the neighbour role."
+    },
+    "HELPER_HECTOR": {
+      "name": "Helper candidate Hector",
+      "voice_id": "dgkKQcJqyy5AP0dqleUU",
+      "description": "Audition for the helper role."
+    },
+    "HELPER_CALLUM": {
+      "name": "Helper candidate Callum",
+      "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+      "description": "Audition for the helper role."
+    },
+    "HELPER_ADAM": {
+      "name": "Helper candidate Adam",
+      "voice_id": "pNInz6obpgDQGcFmaJgB",
+      "description": "Audition for the helper role."
+    }
+  }
+}
