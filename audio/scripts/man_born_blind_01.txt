@@ -10,8 +10,8 @@
 # appear only inside scenes the narrator introduces with the word 'imagine'.
 
 [NARRATOR] (calm) A man is walking downhill through Jerusalem with mud on his eyes.
-[NARRATOR] (beat) He cannot see. He has never seen. A stranger he will not recognise, because he has never seen a face, has just told him to go and wash in a pool at the bottom of the city.
-[NARRATOR] (calm) He goes.
+[NARRATOR] (beat) He cannot see. He has never seen. And yet a complete stranger has just given him shocking news about his blindness, and told him to go and wash in a pool at the bottom of the city.
+[NARRATOR] (calm) And. He goes.
 [PAUSE 1.5]
 [NARRATOR] (calm) This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for blind believers, their families, and the church. I am the narrator. The Scripture you will hear is the Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. And when we imagine a scene, we will tell you so.
 [BREAK]

@@ -1,6 +1,6 @@
 {
   "cast_name": "not_by_sight",
-  "_comment": "Voice IDs are REPLACE_ME until Brian picks them by ear with `labs_pipe voices list`.",
+  "_comment": "Voices picked by Brian by ear from the audition of 7 October 2026.",
   "defaults": {
     "model": "eleven_v3",
     "stability": 0.6,
@@ -14,41 +14,47 @@
   "characters": {
     "NARRATOR": {
       "name": "Narrator",
-      "voice_id": "REPLACE_ME",
+      "voice_id": "lWDDHwXsJXJM7nv2YgHY",
       "description": "Warm, unhurried, a teacher walking you through a place. Forties to sixties. Never slick, never preachy.",
-      "stability": 0.65
+      "stability": 0.65,
+      "_voice": "Nathan (picked by Brian, 7 October 2026)"
     },
     "READER": {
       "name": "Scripture reader",
-      "voice_id": "REPLACE_ME",
+      "voice_id": "pqHfZKP75CvOlQylNhV4",
       "description": "Plain, slower, clear. Distinct from the narrator so Scripture is never confused with our words. Reads what is written and adds nothing.",
       "stability": 0.8,
-      "speed": 0.95
+      "speed": 0.95,
+      "_voice": "Bill (picked by Brian, 7 October 2026)"
     },
     "BRIAN": {
       "name": "Brian",
-      "voice_id": "REPLACE_ME",
+      "voice_id": "iP95p4xoKVk53GoZ742B",
       "description": "Brian Clark's words, in a voice he picks himself. Male, steady, Midwestern, dry. If he records his own lines later, each BRIAN line and the narrator's introduction are separate files, so they splice out cleanly.",
-      "stability": 0.6
+      "stability": 0.6,
+      "_voice": "Chris (picked by Brian, 7 October 2026)"
     },
     "MAN": {
       "name": "The man born blind",
-      "voice_id": "REPLACE_ME",
+      "voice_id": "TX3LPaxmHKxFdv7VOQHJ",
       "description": "Young adult male, Jerusalem, a beggar all his life. Inner voice during the walk to Siloam: glad, listening, feeling the way. Only in imagined scenes.",
       "stability": 0.45,
-      "style": 0.2
+      "style": 0.2,
+      "_voice": "Liam (picked by Brian, 7 October 2026)"
     },
     "NEIGHBOUR": {
       "name": "A neighbour",
-      "voice_id": "REPLACE_ME",
+      "voice_id": "XrExE9yKIg1WjnnlVkGX",
       "description": "Any age, on the way up to the Temple, curious and kind. Asks the questions a crowd would ask. Only in an imagined scene.",
-      "stability": 0.5
+      "stability": 0.5,
+      "_voice": "Matilda (picked by Brian, 7 October 2026)"
     },
     "HELPER": {
       "name": "A man going down to wash",
-      "voice_id": "REPLACE_ME",
+      "voice_id": "N2lVS1w4EtoT3dr4eOWO",
       "description": "Adult male, unhurried, practical. On his way down to the pool anyway; offers his arm and says only what a guide needs to say. Only in an imagined scene.",
-      "stability": 0.6
+      "stability": 0.6,
+      "_voice": "Callum (picked by Brian, 7 October 2026)"
     }
   }
 }

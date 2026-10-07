@@ -58,9 +58,9 @@ def build(bible: dict) -> list[str]:
 
     # ---- Cold open ------------------------------------------------------------------------------
     add("[NARRATOR] (calm) A man is walking downhill through Jerusalem with mud on his eyes.")
-    add("[NARRATOR] (beat) He cannot see. He has never seen. A stranger he will not recognise, because he has never "
-        "seen a face, has just told him to go and wash in a pool at the bottom of the city.")
-    add("[NARRATOR] (calm) He goes.")
+    add("[NARRATOR] (beat) He cannot see. He has never seen. And yet a complete stranger has just given him shocking "
+        "news about his blindness, and told him to go and wash in a pool at the bottom of the city.")
+    add("[NARRATOR] (calm) And. He goes.")
     add("[PAUSE 1.5]")
     add("[NARRATOR] (calm) This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for "
         "blind believers, their families, and the church. I am the narrator. The Scripture you will hear is the "

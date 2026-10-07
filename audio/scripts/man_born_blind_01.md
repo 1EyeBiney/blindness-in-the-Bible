@@ -4,9 +4,9 @@ Pilot script for reading. Speaker names in bold, cues in italics, Scripture inde
 
 **Narrator** *(calm)* A man is walking downhill through Jerusalem with mud on his eyes.
 
-**Narrator** *(beat)* He cannot see. He has never seen. A stranger he will not recognise, because he has never seen a face, has just told him to go and wash in a pool at the bottom of the city.
+**Narrator** *(beat)* He cannot see. He has never seen. And yet a complete stranger has just given him shocking news about his blindness, and told him to go and wash in a pool at the bottom of the city.
 
-**Narrator** *(calm)* He goes.
+**Narrator** *(calm)* And. He goes.
 
 *(pause 1.5 s)*
 
