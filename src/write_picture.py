@@ -174,10 +174,11 @@ FINAL = {
              "nature blind\" led by a way they knew not, with Paul struck blind on the road as his example. Edersheim "
              "sums up the Nazareth reading as \"the healing which He offers to those whom sin had blinded.\" No "
              "commentator on the shelf reads Isaiah 42:16 as a promise of guidance to people who cannot see. That "
-             "reading, on this page, is Brian's and the site's.",
+             "reading, on this page, is a blind reader's, Brian's, offered as perspective and not as a correction of "
+             "the commentators.",
              f"{HENRY}, on Isaiah 29 and 42 and Luke 4; {ED}, Book III, chapter XI.",
              ("eyes-opened", 3), ("eyes-opened", 4), ("eyes-opened", 5), ("eyes-opened", 6),
-             caution="The site's reading of Isaiah 42:16 is marked as its own."),
+             caution="Brian's reading of Isaiah 42:16 is marked as a blind reader's perspective, at his request."),
         item("How these verses were heard in Jesus's day: Edersheim notes that the rabbinic collections apply Isaiah "
              "35:5-6 to the days of the Messiah, as does the Midrash on Psalm 146:8, which is why Jesus could answer "
              "John the Baptist by pointing to the blind who saw. At Nazareth, he says, Jesus read the prophetic lesson "

@@ -169,6 +169,18 @@ I follow now. That is a good point and something that I had forgotten about as I
 
 *Placed:* new page what-blind-means.html (linked from the home page and the nav), in his voice. On 6 October Brian said his reading found no trustworthy study above 10%, his guess is nearer 5%, his experience says more than 5%; the page says "fewer than one in ten."
 
+## 6 October 2026, Brian's fifth thoughts file (verbatim)
+
+say Brian has been blind since 2014
+this line:
+• Theology is Brian's. Where the site reads a verse one way and the commentators read it another, the page says so and says whose reading it is. The reading of Isaiah 42:16 as a promise of a guide to blind people is one example. It is labeled as this site's reading, because no commentator on the shelf takes it that way.
+That reads awkwardly to me as if I am an expert on theology. I am nothing close to that and don't want to appear so. We might need to change then some of my wording if I am sounding with more authority than I should. This is kind of like blind people latching on to "we walk fy faith and not by sight" as something literal for us. It might just be a matter of perspective.
+
+we are going to have images so there is some wording ehre that needs fixed
+tables with headers, and no images or scripts. The author uses a screen reader, so the site is
+
+*Placed:* how-it-was-made now says blind since 2014; the theology bullet rewritten so he is a blind reader with a perspective, not an authority; the images line changed because images are coming. The eyes-opened source paragraph on Isaiah 42:16 reworded the same way.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)

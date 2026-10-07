@@ -9,7 +9,7 @@ shelf of old books. A few days of work, in October 2026. This page is about how 
 matters as much as the pages it produced.</p>
 
 <h2>The division of labor</h2>
-<p>Brian brought the questions and the experience. He has been blind for most of his adult life, and he knows what
+<p>Brian brought the questions and the experience. He has been blind since 2014, and he knows what
 it is to find a grocery store five blocks away without sight, to tell a wife's footsteps from a stranger's, to
 cook at a stove and keep well away from an open fire. Every "In their shoes" section on this site is checked
 against that experience, and several were corrected by it. He also made the judgment calls: which stories to
@@ -37,11 +37,15 @@ and daily life, not for their opinions of people.</li>
 <li><b>Brian's words are his.</b> He writes his thoughts in plain text files as he reviews the pages. Those files are
 kept verbatim in the project notes. What appears on the site under "From Brian" is edited for flow in his voice, at
 his request, and he reads it afterward.</li>
-<li><b>Theology is Brian's.</b> Where the site reads a verse one way and the commentators read it another, the page
-says so and says whose reading it is. The reading of Isaiah 42:16 as a promise of a guide to blind people is one
-example. It is labeled as this site's reading, because no commentator on the shelf takes it that way.</li>
+<li><b>Brian is not a theologian, and the site does not pretend he is.</b> He is a blind reader of the Bible with
+a pastor he trusts. Where a page reads a verse one way and the commentators read it another, the page says so and says
+whose reading it is. Isaiah 42:16, heard by a blind man as a promise that God will guide him, is one example. The
+commentators on the shelf hear it as a promise about souls. The page carries both and calls Brian's what it is: a
+blind reader's perspective, not a claim to know better. Blind believers do the same with "we walk by faith, not by
+sight," and he knows it.</li>
 <li><b>Screen readers first.</b> Every page has one heading at the top, headings in order, a skip link, real tables
-with headers, and no images or scripts. The author uses a screen reader, so the site is tested the way its first
+with headers, no scripts, and nothing said only in a picture. Where images come, every one will carry a description,
+and the words will never depend on it. The author uses a screen reader, so the site is tested the way its first
 reader will read it.</li>
 <li><b>Ask before acting.</b> Publishing, creating the repository, downloading each new source: all waited for
 Brian's go-ahead, and each source's licence was checked before it was fetched.</li>
