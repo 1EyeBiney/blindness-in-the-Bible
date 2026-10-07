@@ -31,7 +31,9 @@ without reading it. Audio first; video as a wrapper so sighted viewers stay and 
 
 1. Scripture is the Berean Standard Bible, word for word, read by its own voice, never mixed into narration.
 2. Scenes are fiction and the narrator says "imagine" before each one. Scene characters never quote Scripture.
-3. Brian's words are recorded by Brian. The BRIAN cast entry is a placeholder for hearing the draft only.
+3. Brian's words are read by a voice Brian picks (his decision, 7 October 2026, for time's sake). The narrator
+   introduces that voice once, with his joke about being too shy. Every BRIAN line and that introduction are
+   separate files in `selected/`, so his own recordings can be spliced in later without re-rendering anything.
 4. Facts about the place and the time are the ones on the page, with the author named in the narration.
 5. Nothing goes into audio that the site cannot source. Figures Brian has not sourced stay off.
 6. Everything audible must stand alone. The video layer may add but never carry meaning.
@@ -42,8 +44,8 @@ without reading it. Audio first; video as a wrapper so sighted viewers stay and 
 2. Brian picks voices: `labs_pipe voices sync`, then `voices list --search`, and fills the six IDs in the cast.
 3. Draft render, one take: `labs_pipe render scripts/man_born_blind_01.txt --dry-run`, then without
    `--dry-run`; `review man_born_blind/1`; `assemble man_born_blind/1`. Listen end to end.
-4. Brian records his eleven lines. Files go to `selected/man_born_blind/section_1/<id>_brian.mp3`, replacing
-   the placeholder takes, so `assemble` picks them up unchanged. (Line IDs are in the render manifest.)
+4. (Later, optional) Brian records his lines. Files go to `selected/man_born_blind/section_1/<id>_brian.mp3`,
+   replacing the rendered takes, and the narrator's introduction line is dropped; `assemble` picks it up unchanged.
 5. Music and effects stage (new, small): a bed under the narrator, ducked under speech; silence under
    Scripture; footsteps and water for the Siloam scene. ffmpeg filter graph driven by `markers.csv`.
 6. Video stage (new): one still per scene from an image model, captions from `markers.csv`, ffmpeg slideshow.
@@ -56,8 +58,6 @@ without reading it. Audio first; video as a wrapper so sighted viewers stay and 
 ## Open questions for Brian
 
 - Which ElevenLabs voices for narrator and reader. Male or female narrator?
-- Does he want the narrator to say his name ("Brian's words") before each of his sections, or let the voice
-  change carry it?
 - Length target: this draft runs about 15 minutes at 150 words per minute. Shorter?
 - A music source with a licence we can show (public domain recordings, or a CC BY library), since nothing
   on the shelf covers music.

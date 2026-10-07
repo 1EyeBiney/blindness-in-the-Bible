@@ -1,6 +1,6 @@
 {
   "cast_name": "not_by_sight",
-  "_comment": "Voice IDs are REPLACE_ME until Brian picks them by ear with `labs_pipe voices list`. BRIAN is a placeholder voice for the draft only; the finished episode uses Brian's own recordings dropped into selected/ under the line IDs.",
+  "_comment": "Voice IDs are REPLACE_ME until Brian picks them by ear with `labs_pipe voices list`.",
   "defaults": {
     "model": "eleven_v3",
     "stability": 0.6,
@@ -26,9 +26,9 @@
       "speed": 0.95
     },
     "BRIAN": {
-      "name": "Brian (placeholder)",
+      "name": "Brian",
       "voice_id": "REPLACE_ME",
-      "description": "Placeholder for Brian Clark's own voice. Male, steady, Midwestern, dry. Replace every line with his recording before release.",
+      "description": "Brian Clark's words, in a voice he picks himself. Male, steady, Midwestern, dry. If he records his own lines later, each BRIAN line and the narrator's introduction are separate files, so they splice out cleanly.",
       "stability": 0.6
     },
     "MAN": {

@@ -30,6 +30,10 @@ Pilot script for reading. Speaker names in bold, cues in italics, Scripture inde
 
 **Narrator** *(calm)* Notice who speaks first. Not the blind man. The disciples, about him, in front of him, as a question in theology. Alfred Edersheim, writing in 1883, says this was a common question in that day: rabbis meeting such a person would ask by what sin the affliction had come, and many believed the faults of parents showed in their children. Jesus cuts across both ideas with one sentence.
 
+**Narrator** *(dryly)* A word about the voice you are about to hear. Brian decided he was too shy to record his own thoughts. We suspect he was being a scaredy cat. So, against our better judgment, we let him pick his own voice. Whenever you hear it, from here to the end, these are his words.
+
+*(pause 1.0 s)*
+
 **Brian** *(calm)* This one makes me cry because of what Jesus first says. Neither this man nor his parents sinned, but this happened so that the works of God would be displayed in him. That is what I pray for daily: that God uses my blindness for His glory in the things I do, the things I say, and the way I treat others, especially those who need help the most and who have, according to many, absolutely nothing to give back.
 
 ---

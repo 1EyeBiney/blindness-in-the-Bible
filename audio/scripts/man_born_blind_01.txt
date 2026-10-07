@@ -5,7 +5,7 @@
 
 # Not By Sight, episode 1: The man born blind (John 9). Pilot script.
 # NARRATOR carries the story and the background. READER speaks Scripture only, word for word from the
-# Berean Standard Bible. BRIAN is Brian Clark, to be recorded in his own voice. MAN, NEIGHBOUR, HELPER and FATHER
+# Berean Standard Bible. BRIAN is Brian Clark's words in a voice he picks. MAN, NEIGHBOUR, HELPER and FATHER
 # appear only inside scenes the narrator introduces with the word 'imagine'.
 
 [NARRATOR] (calm) A man is walking downhill through Jerusalem with mud on his eyes.
@@ -22,6 +22,8 @@
 [READER] (plainly) While it is daytime, we must do the works of Him who sent Me. Night is coming, when no one can work.
 [READER] (plainly) While I am in the world, I am the light of the world.”
 [NARRATOR] (calm) Notice who speaks first. Not the blind man. The disciples, about him, in front of him, as a question in theology. Alfred Edersheim, writing in 1883, says this was a common question in that day: rabbis meeting such a person would ask by what sin the affliction had come, and many believed the faults of parents showed in their children. Jesus cuts across both ideas with one sentence.
+[NARRATOR] (dryly) A word about the voice you are about to hear. Brian decided he was too shy to record his own thoughts. We suspect he was being a scaredy cat. So, against our better judgment, we let him pick his own voice. Whenever you hear it, from here to the end, these are his words.
+[PAUSE 1.0]
 [BRIAN] (calm) This one makes me cry because of what Jesus first says. Neither this man nor his parents sinned, but this happened so that the works of God would be displayed in him. That is what I pray for daily: that God uses my blindness for His glory in the things I do, the things I say, and the way I treat others, especially those who need help the most and who have, according to many, absolutely nothing to give back.
 [BREAK]
 [NARRATOR] (calm) John chapter 9, verses 6 to 7.

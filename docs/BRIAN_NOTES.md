@@ -194,6 +194,15 @@ from the pool; add side-street and other familiar sounds.
 
 *Placed:* the scene in audio/build_script.py rewritten to these rules; test added.
 
+## 7 October 2026, on his own voice in the audio (from chat)
+
+For time's sake Brian will pick an ElevenLabs voice for his sections instead of recording, at least for now. His
+proposed narrator line, in his words: "Brian decided he is too shy to record his own thoughts. We thought he was
+being a scaredy cat, and unfortunately, we had to let him pick his own voice. These are his thoughts." Later he may
+cut from that intro through the rendered lines and splice his own recordings in.
+
+*Placed:* narrator introduction before his first section in the pilot script; cast and plan updated.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)

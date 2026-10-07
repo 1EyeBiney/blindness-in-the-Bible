@@ -9,8 +9,9 @@ Rules this file keeps:
   time, never retyped. The test in tests/test_audio.py checks it word for word.
 - Every dramatized scene is introduced by the narrator with the word "imagine", so no listener mistakes
   drama for Scripture.
-- BRIAN lines are Brian's own words from the site, in his voice, meant to be recorded by him. They render in a
-  placeholder voice only so the draft can be heard end to end.
+- BRIAN lines are Brian's own words from the site, in his voice, read by an ElevenLabs voice he picks (his
+  decision, 7 October 2026). The narrator's introduction to that voice is one separate line, so it and the BRIAN
+  lines can be swapped for his own recordings later without touching anything else.
 - Facts about the place and the time are the ones on the story page, with their sources named in the narration.
 """
 from __future__ import annotations
@@ -50,7 +51,7 @@ def build(bible: dict) -> list[str]:
     add("")
     add("# Not By Sight, episode 1: The man born blind (John 9). Pilot script.")
     add("# NARRATOR carries the story and the background. READER speaks Scripture only, word for word from the")
-    add("# Berean Standard Bible. BRIAN is Brian Clark, to be recorded in his own voice. MAN, NEIGHBOUR, HELPER and FATHER")
+    add("# Berean Standard Bible. BRIAN is Brian Clark's words in a voice he picks. MAN, NEIGHBOUR, HELPER and FATHER")
     add("# appear only inside scenes the narrator introduces with the word 'imagine'.")
     add("")
 
@@ -76,6 +77,10 @@ def build(bible: dict) -> list[str]:
         "as a question in theology. Alfred Edersheim, writing in 1883, says this was a common question in that "
         "day: rabbis meeting such a person would ask by what sin the affliction had come, and many believed the "
         "faults of parents showed in their children. Jesus cuts across both ideas with one sentence.")
+    add("[NARRATOR] (dryly) A word about the voice you are about to hear. Brian decided he was too shy to record "
+        "his own thoughts. We suspect he was being a scaredy cat. So, against our better judgment, we let him pick "
+        "his own voice. Whenever you hear it, from here to the end, these are his words.")
+    add("[PAUSE 1.0]")
     add("[BRIAN] (calm) This one makes me cry because of what Jesus first says. Neither this man nor his parents "
         "sinned, but this happened so that the works of God would be displayed in him. That is what I pray for "
         "daily: that God uses my blindness for His glory in the things I do, the things I say, and the way I treat "
