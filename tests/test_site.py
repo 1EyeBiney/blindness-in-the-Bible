@@ -48,7 +48,7 @@ def test_blindfold_verses_are_set_aside():
 
 def test_site_builds_and_is_accessible(tmp_path):
     build_site.render_all(tmp_path)
-    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "catalog.html", "index.html", "walk-by-faith.html", "what-blind-means.html"]
+    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "catalog.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html"]
     pages = sorted(tmp_path.rglob("*.html"))
     for p in pages:
         h = p.read_text(encoding="utf-8")
@@ -246,3 +246,13 @@ def test_spectrum_page_quotes_the_dim_eyes_verses(tmp_path):
     assert "swimming pool" in h and h.count('class="verse"') == len(spectrum.VERSES)
     home = (tmp_path / "index.html").read_text(encoding="utf-8")
     assert spectrum.SLUG in home
+
+
+def test_dim_eyes_stories_say_how_much_he_could_see(tmp_path):
+    import stories as st
+    by = {x["slug"]: x for x in st.STORIES}
+    assert all(by[k].get("sight") for k in ("isaac", "jacob", "eli", "ahijah"))
+    assert sum(1 for x in st.STORIES if x.get("sight")) == 4
+    build_site.render_all(tmp_path)
+    h = (tmp_path / "stories" / "jacob.html").read_text(encoding="utf-8")
+    assert "How much could he see?" in h and 'href="../what-blind-means.html"' in h

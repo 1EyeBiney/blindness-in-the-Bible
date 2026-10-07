@@ -96,7 +96,7 @@ def page(title: str, body: str, current: str, root: str = "") -> str:
     nav = [("index.html", "Home"), ("what-blind-means.html", "What blind means"), ("stories/index.html", "The stories"), ("law/index.html", "The law"),
            ("life/index.html", "Living blind, then"), ("picture/index.html", "Blindness as a picture"),
            ("walk-by-faith.html", "Walk by faith"),
-           ("catalog.html", "The catalog"), ("about.html", "About")]
+           ("catalog.html", "The catalog"), ("how-it-was-made.html", "How it was made"), ("about.html", "About")]
     links = "".join(
         f'<li><a href="{root}{href}"{" aria-current=\"page\"" if href == current else ""}>{e(label)}</a></li>'
         for href, label in nav)
@@ -238,6 +238,10 @@ def story_page(story: dict, bible: dict, order: list[dict]) -> str:
              f"<h2>What led up to it</h2><p>{e(story['around'])}</p>",
              f"<h2>What happens</h2><p>{e(story['happens'])}</p>",
              f"<h2>In their shoes</h2><p>{e(story['shoes'])}</p>"]
+    if story.get("sight"):
+        sight = e(story["sight"]).replace("See what blind means here.",
+                                          'See <a href="../what-blind-means.html">what blind means here</a>.')
+        parts.append(f"<h2>How much could he see?</h2><p>{sight}</p>")
     if story.get("brian"):
         parts.append("<h2>From Brian</h2>")
         parts.extend(f"<p>{e(para)}</p>" for para in story["brian"])
@@ -353,7 +357,7 @@ Bible. But blindness is a spectrum, and only a small share of blind people see n
 studies, read <a href="what-blind-means.html">what blind means here</a>.</p>
 
 <h2>Where this stands</h2>
-<p>This site is being built in the open. The <a href="stories/index.html">stories</a> gather the verses into the
+<p>The site is being built in the open, and most of what was planned is now here. The <a href="stories/index.html">stories</a> gather the verses into the
 passages they belong to, with what led up to each, what it was like to be there, and what the old books and the
 archaeologists can add. <a href="law/index.html">The law</a> reads what God commanded about the blind as evidence of
 how they were treated. <a href="life/index.html">Living blind, then</a> asks what daily life was like for a blind
@@ -370,15 +374,24 @@ site is named for. The
 {counts['figurative']} use blindness as a picture of something else.</li>
 </ul>
 
-<h2>What is planned</h2>
+<h2>What is here</h2>
 <ol>
-<li>The catalog: every passage, sorted and open to review. Done in draft.</li>
-<li>The stories, with the place and the time behind each. Done in draft and reviewed by Brian.</li>
-<li>The law, read as evidence of how blind people were treated. Pages built; place and time to follow.</li>
-<li>Living blind, then: four settings, with Brian's answers and other voices still to come.</li>
-<li>Blindness as a picture: seven pages, built at Pastor John's suggestion. Place and time to follow.</li>
-<li>The wider themes of sight, light and darkness. Later.</li>
+<li><a href="what-blind-means.html">What blind means here</a>: blindness is a spectrum, and the Bible's word for it means
+the deep end. Read this first.</li>
+<li><a href="stories/index.html">The stories</a>: twenty-four passages about blind people, each with what led up to it,
+what happens, what it was like to be there, and the place and the time from the old books.</li>
+<li><a href="law/index.html">The law</a>: four pages reading what God commanded about the blind as evidence of how they
+were treated, set beside the older law codes of the region.</li>
+<li><a href="life/index.html">Living blind, then</a>: six pages on daily life without sight in the herding camp, the
+village, the walled town, Jerusalem, with and without a guide, and through the centuries since.</li>
+<li><a href="picture/index.html">Blindness as a picture</a>: seven pages reading the verses where blindness stands for
+something else, plainly, and asking who is actually called blind.</li>
+<li><a href="walk-by-faith.html">Walk by faith</a>: the verse the site is named for.</li>
+<li><a href="catalog.html">The catalog</a>: every verse, sorted and open to review.</li>
+<li><a href="how-it-was-made.html">How it was made</a>: the method, and why the quotations can be trusted.</li>
 </ol>
+<p>Still to come: more of Brian's own answers in the open slots on each page, other voices alongside his, and the
+wider themes of sight, light and darkness.</p>
 
 <h2>People and groups found so far</h2>
 <p>{len(people)} people and groups appear in the passages about physical blindness.</p>
@@ -401,8 +414,10 @@ become my verse.</p>
 <ul>
 <li>Every study starts from the text. The catalog lists each passage so that any reader can check it.</li>
 <li>Sorting passages into groups is a judgment. Where a passage could be read another way, the catalog says so.</li>
-<li>Physical blindness comes first. Blindness as a picture, and the wider themes of sight, light and darkness,
-come later.</li>
+<li>Physical blindness came first, then the law, daily life, and the verses where blindness is a picture. The wider
+themes of sight, light and darkness come later.</li>
+<li>Blindness is a spectrum. The Bible's word for it means total blindness, and so do most pages here; the page on
+<a href="what-blind-means.html">what blind means</a> says so up front.</li>
 <li>The site is built for screen readers first: plain headings, real tables, no images that carry meaning.</li>
 </ul>
 
@@ -422,7 +437,11 @@ Times of Jesus the Messiah</cite> (1883).</li>
 Whiston.</li>
 <li><cite>Smith's Bible Dictionary</cite> (1884 edition) and the <cite>International Standard Bible Encyclopedia</cite>
 (1915).</li>
-<li>Matthew Henry's <cite>Commentary</cite>, the volumes on Genesis to Deuteronomy and Matthew to John.</li>
+<li>Matthew Henry's <cite>Commentary</cite>, all six volumes, and the <cite>Pulpit Commentary</cite> on Job 29.</li>
+<li>The Code of Hammurabi (C. H. W. Johns, 1903) and the Instruction of Amenemope (E. A. Wallis Budge, 1924), for the
+laws and wisdom of the nations around Israel.</li>
+<li>James Wilson's <cite>Biography of the Blind</cite> (1838) and W. Hanks Levy's <cite>Blindness and the Blind</cite>
+(1872), for the history of blind people since.</li>
 <li>Wikipedia articles on the places, under the Creative Commons Attribution-ShareAlike 4.0 license, cited by
 revision date.</li>
 </ul>
@@ -431,7 +450,7 @@ day in ways we would not. They are used for facts about places, customs and dail
 
 <h2>Made with help</h2>
 <p>The research and the site are built by Brian Clark working with Claude, an AI model made by Anthropic. Brian
-decides what the studies conclude.</p>
+decides what the studies conclude. The method is described on <a href="how-it-was-made.html">how it was made</a>.</p>
 """
 
 
@@ -447,7 +466,9 @@ def render_all(out: Path = OUT) -> None:
     (out / "about.html").write_text(page("About", ABOUT, "about.html"), encoding="utf-8")
     import stories as st
     import spectrum
+    import how_made
     bible = load_bible()
+    (out / how_made.SLUG).write_text(page(how_made.TITLE, how_made.BODY, how_made.SLUG), encoding="utf-8")
     (out / spectrum.SLUG).write_text(page(spectrum.TITLE, spectrum.render(bible), spectrum.SLUG), encoding="utf-8")
     (out / "stories").mkdir(exist_ok=True)
     (out / "stories" / "index.html").write_text(

@@ -379,6 +379,15 @@ FINAL = {
              "Serving as someone's eyes and giving someone sight are different things, and Scripture names only the "
              "second as God's prerogative. The first is what a neighbour can do.",
              f"{HENRY}, on Matthew 9.", ("job", 1)),
+        item("Brian asked whether anyone reads Job as physically guiding blind people rather than only advising them. "
+             "Two do, in part. Henry himself, commenting on the blind man of Bethsaida, says Christ did not tell the "
+             "man's friends to lead him but \"himself took him by the hand, and led him, to teach us to be as Job was, "
+             "eyes to the blind.\" So when Henry reads the phrase beside a blind man actually being led, he lets it "
+             "mean leading. The Pulpit Commentary, a generation later, reads it as everyday service: Job gave the blind "
+             "\"the information which their infirmity hindered them from obtaining,\" and ran errands and carried "
+             "messages for the lame, \"not only in great, but also in little matters.\" That is the closest any writer "
+             "on the shelf comes to Brian's reading: being someone's eyes as a practical, daily act.",
+             f"{HENRY}, on Mark 8; The Pulpit Commentary (1880s), on Job 29:15.", ("job", 7), ("job", 8)),
         item("Henry uses Job's phrase again when the blind and lame come home from exile in Jeremiah 31: their "
              "companions will be eyes to the blind and legs to the lame, as fellow travellers ought to be to one "
              "another. He consistently treats being someone's eyes as a service between equals on a journey, not as "

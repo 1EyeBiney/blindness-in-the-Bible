@@ -1106,3 +1106,13 @@ Everything in this folder was retrieved on 2026-10-03 with Brian's approval, usi
 - Licence basis: Public domain in the United States (published 1924, before the 1930 cut-off). The text is the OCR of the Digital Library of India scan on the Internet Archive (item `in.ernet.dli.2015.82818`); a second scan, item `teachingofamenem0000eawa`, was listed in the search but not taken. No new rights are claimed in the scan's OCR by the shelf.
 - Size: 333664 bytes after LF normalisation
 - Odd things: Raw OCR with misread letters and stray carets; the hieroglyphic text is lost, only the English survives. Lines of the Instruction are numbered in Budge's own numbering (the blind-man line is 478). Chosen over F. Ll. Griffith's 1926 article in the Journal of Egyptian Archaeology (not looked for on archive.org). No public-domain English translation of the Hittite laws was found: the archive.org search returned only Hoffner (1997) and Neufeld (1951), neither safely public domain, so none was taken.
+
+## The Pulpit Commentary, on Job 29:15 (Spence and Exell, eds.)
+- File: `pulpit_commentary_job_29_15.txt`
+- Author: H. D. M. Spence and Joseph S. Exell, editors (the Job volume by G. Rawlinson and others)
+- Year: 1880-1919 (London, Kegan Paul, Trench and Company)
+- Source URL: https://biblehub.com/commentaries/job/29-15.htm
+- Retrieved: 2026-10-06
+- Licence basis: Public domain by age (the whole Pulpit Commentary was published before 1930). Only the Pulpit entry for the one verse was kept; the Bible Hub page's HTML was stripped. Bible Hub's transcription of a public-domain text claims no new copyright on the words.
+- Size: 856 bytes
+- Odd things: Fetched to answer Brian's question about Job acting as eyes to the blind. Taken because it is the one commentator found who reads the verse as practical, everyday service (information for the blind, errands for the lame). The same page carries Gill, Barnes, Keil and Delitzsch, Jamieson-Fausset-Brown and Benson, which were read but not kept.

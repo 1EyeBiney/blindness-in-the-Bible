@@ -1734,6 +1734,30 @@
    ],
    "confidence": "medium",
    "caution": "Smith's list is for gates of eastern cities generally."
+  },
+  {
+   "text": "Matthew Henry, on Mark 8:23, says Christ took the blind man of Bethsaida by the hand himself and led him out of the town, 'to teach us to be as Job was, eyes to the blind, Job xxix. 15.' Here Henry links Job's phrase to literal leading by the hand.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, on Mark 8",
+   "confidence": "high",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 2963947,
+     "quote": "himself took him by the hand, and led him, to teach us to be as Job\n   was, eyes to the blind, Job xxix. 15."
+    }
+   ]
+  },
+  {
+   "text": "The Pulpit Commentary reads Job 29:15 as practical service: Job gave the blind the information their infirmity kept from them, and ran errands and carried messages for the lame, being helpful in little matters as well as great.",
+   "source": "The Pulpit Commentary, on Job 29:15",
+   "confidence": "high",
+   "evidence": [
+    {
+     "file": "pulpit_commentary_job_29_15.txt",
+     "offset": 535,
+     "quote": "Job acted as \"eyes\" to the blind of his time, giving them the information which their infirmity hindered them from obtaining. He was also feet to the lame, taking  messages for them, going on their errands, and the like."
+    }
+   ]
   }
  ],
  "jabesh-gilead": [

@@ -51,6 +51,7 @@ STORIES = [
         "slug": "isaac", "title": "Isaac and the stolen blessing", "who": "Isaac", "group": "not_restored",
         "outcome": "not_restored",
         "passages": [("Genesis", 27, 1, 4), ("Genesis", 27, 18, 27), ("Genesis", 27, 30, 35)],
+        "sight": "Genesis says Isaac's eyes were so weak that he could no longer see. That is the Bible's way of describing sight lost to age, and it may mean dim sight rather than none. Either way, the story turns on what he could not see, and the page reads it that way. See what blind means here.",
         "around": "Isaac is the son of Abraham and the father of twins, Esau and Jacob. Esau is the firstborn and his "
                   "father's favourite; Jacob is his mother Rebekah's. Isaac is old, cannot see, and believes he may "
                   "die soon, so he prepares to give Esau the blessing of the firstborn. Rebekah overhears and sends "
@@ -75,6 +76,7 @@ STORIES = [
         "slug": "jacob", "title": "Jacob blesses Joseph's sons", "who": "Jacob (Israel)", "group": "not_restored",
         "outcome": "not_restored",
         "passages": [("Genesis", 48, 8, 20)],
+        "sight": "Genesis says Israel's eyesight was poor because of old age and that he could hardly see. That is low vision, not total blindness. Jacob may have seen two shapes in front of him and still not known which boy was which. See what blind means here.",
         "around": "Many years after deceiving his blind father, Jacob is himself old and can hardly see. He is in "
                   "Egypt, reunited with his son Joseph, whom he had long believed dead. Joseph brings his two sons, "
                   "Manasseh the elder and Ephraim the younger, to be blessed before Jacob dies.",
@@ -89,6 +91,7 @@ STORIES = [
     {
         "slug": "eli", "title": "Eli at Shiloh", "who": "Eli", "group": "not_restored", "outcome": "not_restored",
         "passages": [("1 Samuel", 3, 1, 18), ("1 Samuel", 4, 12, 18)],
+        "sight": "Samuel says Eli's eyesight had grown so dim that he could not see, and later that at ninety-eight he could not see. Dim is the Bible's word for sight going, so Eli likely passed through years of low vision before this. The page reads him as he is described at the end. See what blind means here.",
         "around": "Eli is the priest at Shiloh, where the ark of God is kept. He has raised the boy Samuel in the "
                   "house of the LORD. His own sons, also priests, have abused their office, and Eli has not stopped "
                   "them. A man of God has already told him that judgment is coming on his family.",
@@ -107,6 +110,7 @@ STORIES = [
         "slug": "ahijah", "title": "Ahijah and the disguised queen", "who": "Ahijah the prophet", "group": "not_restored",
         "outcome": "not_restored",
         "passages": [("1 Kings", 14, 1, 13)],
+        "sight": 'Kings says Ahijah could not see, for his eyes were dim because of his age. Brian notes he was probably low vision and could still see a little, which is why a disguise was worth trying. See what blind means here.',
         "around": "Ahijah is the prophet who years earlier told Jeroboam he would be king over the northern tribes. "
                   "Jeroboam has since led the people into idolatry. Now his son is sick, and he sends his wife to "
                   "Ahijah in disguise, with gifts, to learn whether the boy will live.",
