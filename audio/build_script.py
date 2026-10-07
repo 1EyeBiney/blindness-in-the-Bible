@@ -1,0 +1,221 @@
+"""Write the pilot audio script for "The man born blind" in labs_pipe format.
+
+Run from the repository root:  python audio/build_script.py
+Output: audio/scripts/man_born_blind_01.txt (labs_pipe script) and audio/scripts/man_born_blind_01.md
+(the same words laid out for reading).
+
+Rules this file keeps:
+- Every READER line is the official Berean Standard Bible text, pulled from data/raw/berean/bsb.txt at build
+  time, never retyped. The test in tests/test_audio.py checks it word for word.
+- Every dramatized scene is introduced by the narrator with the word "imagine", so no listener mistakes
+  drama for Scripture.
+- BRIAN lines are Brian's own words from the site, in his voice, meant to be recorded by him. They render in a
+  placeholder voice only so the draft can be heard end to end.
+- Facts about the place and the time are the ones on the story page, with their sources named in the narration.
+"""
+from __future__ import annotations
+
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "src"))
+import build_site  # noqa: E402
+
+OUT_DIR = ROOT / "audio" / "scripts"
+
+
+def verses(bible: dict, book: str, ch: int, a: int, z: int) -> list[tuple[int, str]]:
+    return [(v, bible[(book, ch, v)]) for v in range(a, z + 1)]
+
+
+def reader(bible: dict, book: str, ch: int, a: int, z: int, cue: str = "plainly") -> list[str]:
+    """One READER line per verse, Scripture only, verse number spoken by the narrator beforehand."""
+    out = [f"[NARRATOR] (calm) {book} chapter {ch}, verse{'s' if z > a else ''} {a}{f' to {z}' if z > a else ''}."]
+    for v, text in verses(bible, book, ch, a, z):
+        out.append(f"[READER] ({cue}) {text}")
+    return out
+
+
+def build(bible: dict) -> list[str]:
+    L: list[str] = []
+    add = L.append
+    ext = L.extend
+
+    add("@project: man_born_blind")
+    add("@section: 1")
+    add("@cast: casts/not_by_sight.json")
+    add("@defaults: takes=1 keep=pick model=eleven_v3")
+    add("")
+    add("# Not By Sight, episode 1: The man born blind (John 9). Pilot script.")
+    add("# NARRATOR carries the story and the background. READER speaks Scripture only, word for word from the")
+    add("# Berean Standard Bible. BRIAN is Brian Clark, to be recorded in his own voice. MAN, NEIGHBOUR and FATHER")
+    add("# appear only inside scenes the narrator introduces with the word 'imagine'.")
+    add("")
+
+    # ---- Cold open ------------------------------------------------------------------------------
+    add("[NARRATOR] (calm) A man is walking downhill through Jerusalem with mud on his eyes.")
+    add("[NARRATOR] (beat) He cannot see. He has never seen. A stranger he will not recognise, because he has never "
+        "seen a face, has just told him to go and wash in a pool at the bottom of the city.")
+    add("[NARRATOR] (calm) He goes.")
+    add("[PAUSE 1.5]")
+    add("[NARRATOR] (calm) This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for "
+        "blind believers, their families, and the church. I am the narrator. The Scripture you will hear is the "
+        "Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. "
+        "And when we imagine a scene, we will tell you so.")
+    add("[BREAK]")
+
+    # ---- What led up to it ----------------------------------------------------------------------
+    add("[NARRATOR] (calm) First, where we are. Jesus is in Jerusalem. The Feast of Tabernacles has just ended, "
+        "and at the close of the previous chapter the crowd in the Temple picked up stones to throw at Him. "
+        "He slipped away. Now, walking on, He sees a man who has been blind from birth, sitting and begging. "
+        "It is the Sabbath.")
+    ext(reader(bible, "John", 9, 1, 5))
+    add("[NARRATOR] (calm) Notice who speaks first. Not the blind man. The disciples, about him, in front of him, "
+        "as a question in theology. Alfred Edersheim, writing in 1883, says this was a common question in that "
+        "day: rabbis meeting such a person would ask by what sin the affliction had come, and many believed the "
+        "faults of parents showed in their children. Jesus cuts across both ideas with one sentence.")
+    add("[BRIAN] (calm) This one makes me cry because of what Jesus first says. Neither this man nor his parents "
+        "sinned, but this happened so that the works of God would be displayed in him. That is what I pray for "
+        "daily: that God uses my blindness for His glory in the things I do, the things I say, and the way I treat "
+        "others, especially those who need help the most and who have, according to many, absolutely nothing to "
+        "give back.")
+    add("[BREAK]")
+
+    # ---- The healing and the walk ---------------------------------------------------------------
+    ext(reader(bible, "John", 9, 6, 7))
+    add("[NARRATOR] (calm) Saliva and mud. Edersheim notes that saliva was commonly thought to help diseases of "
+        "the eye, and that making clay and anointing on the Sabbath were among the things the religious teachers "
+        "counted as work. Hold on to that. It is why the day matters so much in the argument to come.")
+    add("[NARRATOR] (calm) And the pool. Siloam lies at the south end of Jerusalem, the lowest point of the "
+        "ancient city. Josephus, who knew the city before it fell, called it a fountain with sweet water in great "
+        "plenty. Its water came from the Gihon spring through a tunnel King Hezekiah cut so that a besieging army "
+        "could not reach the spring. The pool itself was lost for nineteen centuries, until 2004, when workers "
+        "repairing a sewer uncovered stone steps. Archaeologists found a large stone-lined basin with steps on at "
+        "least three sides, built in sets of five with landings between.")
+    add("[NARRATOR] (calm) How far did he walk? From the Temple Mount down to the pool is about six hundred "
+        "metres in a straight line, and more than a hundred metres downhill, through a valley Josephus describes "
+        "with steep slopes on either side. Excavators have found a stepped street running down that valley to the "
+        "pool. And at the end, a staircase down to the water.")
+    add("[NARRATOR] (beat) Now imagine it. This is a scene, not Scripture.")
+    add("[PAUSE 1.0]")
+    add("[MAN] (whisper) Mud. Cool, and wet, and heavy on my eyes. His thumbs pressed it in. Go to Siloam, he said. "
+        "Wash.")
+    add("[MAN] (calm) I know the way down. I know it by the slope under my feet and the sound of the street "
+        "narrowing. I have begged at the top of this road all my life. I have never been to the bottom.")
+    add("[NEIGHBOUR] (curious) Where are you going with your face like that? Who did that to you?")
+    add("[MAN] (calm) A man. He said wash. Let me by.")
+    add("[MAN] (whisper) Stepped street. Count the steps. Water smell, cold air rising. The crowd thins here. "
+        "People come up from the pool talking, and nobody is going down but me.")
+    add("[MAN] (after a long pause) Stairs. Five. A landing. Five more. My hand finds the edge of the stone. "
+        "I kneel.")
+    add("[MAN] (whisper) Water.")
+    add("[PAUSE 2.0]")
+    add("[NARRATOR] (calm) What happened next, Scripture gives in three words. He came back seeing.")
+    add("[BRIAN] (calm) One of my first true walk-by-faith moments came during rehabilitation training at the Hines "
+        "VA hospital outside Chicago. At the end of training I did a drop-off test. I was let out of a car in a "
+        "suburban business district with the task of finding a grocery store about five blocks away, on my own. "
+        "Unless I got into serious physical danger, I was not to be helped. I had to trust my new skills to make "
+        "that trip without any sight. It was terrifying, exhilarating and liberating all at once. I think of the man "
+        "born blind making his way to the Pool of Siloam, on faith.")
+    add("[BREAK]")
+
+    # ---- The neighbours -------------------------------------------------------------------------
+    ext(reader(bible, "John", 9, 8, 12))
+    add("[BRIAN] (calm) He was blind from birth and had never had sight. From a physiological standpoint his visual "
+        "cortex would never have developed. It takes a child about six years of seeing to learn to tell faces "
+        "apart. He washed the mud off and received sight. Jesus did not only heal the eyes. He must have given the "
+        "man a way to process what the eyes now sent. I have read accounts of people who regained sight or got it "
+        "for the first time and could not make sense of the images.")
+    add("[BRIAN] (calm) People did not recognise him, and I think that is partly the sheer size of what had "
+        "happened. If I walked up to someone who has only known me blind and suddenly I could see, I would talk "
+        "differently and carry myself differently. I would still turn my head toward sounds. That is natural. But "
+        "I would react to visual cues I do not react to now.")
+    add("[BREAK]")
+
+    # ---- The Pharisees, round one ---------------------------------------------------------------
+    ext(reader(bible, "John", 9, 13, 17))
+    add("[BRIAN] (dryly) The Pharisees went straight to whether the healing was lawful, not whether it had "
+        "happened.")
+    add("[NARRATOR] (calm) Then they send for his parents.")
+    ext(reader(bible, "John", 9, 18, 23))
+    add("[NARRATOR] (beat) Imagine that room for a moment. A scene, not Scripture.")
+    add("[FATHER] (whisper) Say nothing about the man. Say nothing about the Sabbath. He is our son. He was born "
+        "blind. That is all we know, and it is all true.")
+    add("[FATHER] (calm) Ask him. He is old enough to speak for himself.")
+    add("[PAUSE 1.0]")
+    add("[BRIAN] (calm) When the parents said, ask him, he is old enough to speak for himself, it was for the wrong "
+        "reason, fear. But notice what it is. Usually a blind person's escort gets asked what the blind person "
+        "wants. This may be the first recorded moment of self-advocacy for a blind man, and it was unintentional.")
+    add("[BREAK]")
+
+    # ---- The Pharisees, round two ---------------------------------------------------------------
+    ext(reader(bible, "John", 9, 24, 34))
+    add("[BRIAN] (calm) The way he argues with the Pharisees is simply amazing. He would never have had access to "
+        "Scripture or learning, and yet with a plain explanation he cuts through the arguments of the experts, in "
+        "Jerusalem, and wins. That he would even speak back to a Pharisee is remarkable. His parents were obviously "
+        "terrified.")
+    add("[NARRATOR] (calm) A word on begging, since this man had begged all his life. Edersheim says blind beggars "
+        "were a familiar sight at the Temple entrance, that the blind were held to be specially entitled to "
+        "charity, and that a common plea was, gain merit by me.")
+    add("[BRIAN] (calm) How humbling, to call out in effect: I have so little to offer you that your kindness to me "
+        "will gain you righteousness.")
+    add("[BREAK]")
+
+    # ---- Jesus finds him ------------------------------------------------------------------------
+    add("[NARRATOR] (calm) They throw him out. And then the one sentence that holds the whole chapter.")
+    ext(reader(bible, "John", 9, 35, 38))
+    add("[NARRATOR] (calm) He had heard that voice once before, over the mud. He had never seen the face. Now he "
+        "sees it.")
+    add("[BRIAN] (calm) It is hard to express what that man must have felt when he finally recognised Jesus, after "
+        "Jesus sought him out. I am so grateful to Jesus for what He did for that one blind man.")
+    ext(reader(bible, "John", 9, 39, 41))
+    add("[NARRATOR] (calm) Notice where the word blind lands at the end of the chapter. Not on the man who was "
+        "born blind. On the men who could see.")
+    add("[BREAK]")
+
+    # ---- Close ----------------------------------------------------------------------------------
+    add("[NARRATOR] (calm) This has been Not By Sight. The full story, with every source named, is at "
+        "one eye biney dot github dot i o, slash blindness in the Bible. Scripture quotations are from the Holy "
+        "Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are "
+        "our own. Everything else is from the text and the old books.")
+    add("[NARRATOR] (after a long pause) For we walk by faith, not by sight.")
+    return L
+
+
+def to_markdown(lines: list[str]) -> str:
+    out = ["# Not By Sight, episode 1: The man born blind", "",
+           "Pilot script for reading. Speaker names in bold, cues in italics, Scripture indented.", ""]
+    for ln in lines:
+        if ln.startswith("@") or ln.startswith("#") or not ln.strip():
+            continue
+        if ln.startswith("[BREAK]"):
+            out.append("---"); out.append(""); continue
+        m = re.match(r"\[PAUSE ([\d.]+)\]", ln)
+        if m:
+            out.append(f"*(pause {m.group(1)} s)*"); out.append(""); continue
+        m = re.match(r"\[(\w+)\]\s*(\(([^)]*)\))?\s*(.*)", ln)
+        who, cue, text = m.group(1), m.group(3), m.group(4)
+        cue_s = f" *({cue})*" if cue else ""
+        if who == "READER":
+            out.append(f"> **Reader**{cue_s} {text}")
+        else:
+            out.append(f"**{who.title()}**{cue_s} {text}")
+        out.append("")
+    return "\n".join(out)
+
+
+def main() -> None:
+    bible = build_site.load_bible()
+    lines = build(bible)
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    (OUT_DIR / "man_born_blind_01.txt").write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
+    (OUT_DIR / "man_born_blind_01.md").write_text(to_markdown(lines), encoding="utf-8", newline="\n")
+    words = sum(len(re.sub(r"^\[\w+\]\s*(\([^)]*\))?", "", ln).split())
+                for ln in lines if ln.startswith("[") and not ln.startswith(("[BREAK", "[PAUSE")))
+    print(f"wrote {len(lines)} lines, about {words} spoken words, roughly {words / 150:.0f} minutes at 150 wpm")
+
+
+if __name__ == "__main__":
+    main()

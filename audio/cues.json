@@ -1,0 +1,87 @@
+{
+  "_comment": "Cue lexicon (SPEC.md section 6). Maps a lowercase cue phrase, exactly as it appears inside the parenthetical in a script, to an effect. 'tag' is a v3 audio tag string prepended to the text (eleven_v3 only, section 6.1). 'stability', 'style', 'speed' are voice setting overrides. 'pre_silence' is seconds of silence inserted before the line by assemble/export-game only; it is never sent to the TTS backend. Brian can add more phrases here; keys must stay lowercase. Unknown cues are handled per config.cue_policy (section 6.1).",
+  "cues": {
+    "whisper": {
+      "tag": "[whispers]"
+    },
+    "whispering": {
+      "tag": "[whispers]"
+    },
+    "laugh": {
+      "tag": "[laughs]"
+    },
+    "laughing": {
+      "tag": "[laughs]"
+    },
+    "sigh": {
+      "tag": "[sighs]"
+    },
+    "sighing": {
+      "tag": "[sighs]"
+    },
+    "excited": {
+      "tag": "[excited]"
+    },
+    "curious": {
+      "tag": "[curious]"
+    },
+    "sarcastic": {
+      "tag": "[sarcastic]"
+    },
+    "dryly": {
+      "tag": "[sarcastic]"
+    },
+    "crying": {
+      "tag": "[crying]"
+    },
+    "mischievous": {
+      "tag": "[mischievously]"
+    },
+    "mischievously": {
+      "tag": "[mischievously]"
+    },
+    "exhale": {
+      "tag": "[exhales]"
+    },
+    "calm": {
+      "stability": 0.7
+    },
+    "flat": {
+      "stability": 0.85,
+      "style": 0.0
+    },
+    "automated": {
+      "stability": 0.95,
+      "style": 0.0,
+      "speed": 0.95
+    },
+    "urgent": {
+      "stability": 0.35,
+      "speed": 1.05
+    },
+    "bored": {
+      "stability": 0.75,
+      "speed": 0.95
+    },
+    "beat": {
+      "pre_silence": 0.5
+    },
+    "pause": {
+      "pre_silence": 1.0
+    },
+    "pausing": {
+      "pre_silence": 1.0
+    },
+    "long pause": {
+      "pre_silence": 2.0
+    },
+    "after a long pause": {
+      "pre_silence": 2.0
+    },
+    "plainly": {
+      "stability": 0.85,
+      "style": 0.0,
+      "speed": 0.95
+    }
+  }
+}

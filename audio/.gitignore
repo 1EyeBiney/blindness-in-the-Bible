@@ -1,0 +1,8 @@
+.env
+renders/
+selected/
+assembled/
+logs/
+voices.json
+*.mp3
+*.wav

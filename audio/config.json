@@ -1,0 +1,33 @@
+{
+  "backend": "elevenlabs",
+  "concurrency": 4,
+  "max_credits_per_run": 15000,
+  "quota_check": true,
+  "cue_policy": "passthrough",
+  "continuity": "adjacent",
+  "retry": {
+    "attempts": 5,
+    "base_delay": 1.0,
+    "max_delay": 30.0
+  },
+  "stop_after_consecutive_failures": 5,
+  "v3_presets": {
+    "creative": 0.3,
+    "natural": 0.5,
+    "robust": 0.8
+  },
+  "defaults": {
+    "model": "eleven_v3",
+    "takes": 3,
+    "output_format": "mp3_44100_192"
+  },
+  "command_backend": {
+    "command": "",
+    "timeout": 300
+  },
+  "game_export": {
+    "sample_rate": 48000,
+    "channels": 1,
+    "bitrate": "128k"
+  }
+}
