@@ -84,11 +84,11 @@ Pilot script for reading. Speaker names in bold, cues in italics, Scripture inde
 
 **Narrator** *(calm)* What happened next, Scripture gives in three words. He came back seeing.
 
-**Brian** *(calm)* One of my first true walk-by-faith moments came during rehabilitation training at the Hines VA hospital outside Chicago. At the end of training I did a drop-off test. I was let out of a car in a suburban business district with the task of finding a grocery store about five blocks away, on my own. Unless I got into serious physical danger, I was not to be helped. I had to trust my new skills to make that trip without any sight. It was terrifying, exhilarating and liberating all at once. I think of the man born blind making his way to the Pool of Siloam, on faith.
+**Brian** *(calm)* One of my first true walk-by-faith moments came during rehabilitation training at the Hines VA hospital outside Chicago. At the end of training I did a drop-off test. I was let out of a car in a suburban business district with the task of finding a grocery store about five blocks away, on my own. Unless I got into serious physical danger, I was not to be helped. I had to trust my new skills to make that trip without any sight. It was terrifying, exhilarating and liberating all at once. I think of the man born blind making his way to the Pool of Siloam, not using a fancy iPhone while using the latest in cane technology, but by faith.
 
 ---
 
-**Narrator** *(calm)* John chapter 9, verses 8 to 12.
+**Narrator** *(calm)* But it never goes easy, does it? John chapter 9, verses 8 to 12.
 
 > **Reader** *(plainly)* At this, his neighbors and those who had formerly seen him begging began to ask, “Isn’t this the man who used to sit and beg?”
 
@@ -100,9 +100,7 @@ Pilot script for reading. Speaker names in bold, cues in italics, Scripture inde
 
 > **Reader** *(plainly)* “Where is He?” they asked. “I do not know,” he answered.
 
-**Brian** *(calm)* He was blind from birth and had never had sight. From a physiological standpoint his visual cortex would never have developed. It takes a child about six years of seeing to learn to tell faces apart. He washed the mud off and received sight. Jesus did not only heal the eyes. He must have given the man a way to process what the eyes now sent. I have read accounts of people who regained sight or got it for the first time and could not make sense of the images.
-
-**Brian** *(calm)* People did not recognise him, and I think that is partly the sheer size of what had happened. If I walked up to someone who has only known me blind and suddenly I could see, I would talk differently and carry myself differently. I would still turn my head toward sounds. That is natural. But I would react to visual cues I do not react to now.
+**Brian** *(calm)* He was blind from birth and had never had sight. From a physiological standpoint his visual cortex would never have developed. It takes a child about six years of seeing to learn to tell faces apart. He washed the mud off and received sight. Jesus did not only heal the eyes. He must have given the man a way to process what his eyes were now sending to his brain.
 
 ---
 
@@ -135,16 +133,6 @@ Pilot script for reading. Speaker names in bold, cues in italics, Scripture inde
 > **Reader** *(plainly)* His parents said this because they were afraid of the Jews. For the Jews had already determined that anyone who confessed Jesus as the Christ would be put out of the synagogue.
 
 > **Reader** *(plainly)* That was why his parents said, “He is old enough. Ask him.”
-
-**Narrator** *(beat)* Imagine that room for a moment. A scene, not Scripture.
-
-**Father** *(whisper)* Say nothing about the man. Say nothing about the Sabbath. He is our son. He was born blind. That is all we know, and it is all true.
-
-**Father** *(calm)* Ask him. He is old enough to speak for himself.
-
-*(pause 1.0 s)*
-
-**Brian** *(calm)* When the parents said, ask him, he is old enough to speak for himself, it was for the wrong reason, fear. But notice what it is. Usually a blind person's escort gets asked what the blind person wants. This may be the first recorded moment of self-advocacy for a blind man, and it was unintentional.
 
 ---
 
@@ -194,7 +182,7 @@ Pilot script for reading. Speaker names in bold, cues in italics, Scripture inde
 
 **Narrator** *(calm)* He had heard that voice once before, over the mud. He had never seen the face. Now he sees it.
 
-**Brian** *(calm)* It is hard to express what that man must have felt when he finally recognised Jesus, after Jesus sought him out. I am so grateful to Jesus for what He did for that one blind man.
+**Brian** *(calm)* It is hard to express what that man must have felt when he finally recognised Jesus, after Jesus sought him out. I am so grateful to Jesus for what He did for that one blind man. Some day, I will see again, and I can't wait for my moment of seeing Jesus for the first time too.
 
 **Narrator** *(calm)* John chapter 9, verses 39 to 41.
 

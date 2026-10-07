@@ -44,12 +44,6 @@
       "description": "Any age, on the way up to the Temple, curious and kind. Asks the questions a crowd would ask. Only in an imagined scene.",
       "stability": 0.5
     },
-    "FATHER": {
-      "name": "The man's father",
-      "voice_id": "REPLACE_ME",
-      "description": "Older male, frightened, careful with every word. Only in an imagined scene.",
-      "stability": 0.55
-    },
     "HELPER": {
       "name": "A man going down to wash",
       "voice_id": "REPLACE_ME",

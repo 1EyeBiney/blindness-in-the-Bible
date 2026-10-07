@@ -31,9 +31,9 @@ def verses(bible: dict, book: str, ch: int, a: int, z: int) -> list[tuple[int, s
     return [(v, bible[(book, ch, v)]) for v in range(a, z + 1)]
 
 
-def reader(bible: dict, book: str, ch: int, a: int, z: int, cue: str = "plainly") -> list[str]:
+def reader(bible: dict, book: str, ch: int, a: int, z: int, cue: str = "plainly", lead: str = "") -> list[str]:
     """One READER line per verse, Scripture only, verse number spoken by the narrator beforehand."""
-    out = [f"[NARRATOR] (calm) {book} chapter {ch}, verse{'s' if z > a else ''} {a}{f' to {z}' if z > a else ''}."]
+    out = [f"[NARRATOR] (calm) {lead}{book} chapter {ch}, verse{'s' if z > a else ''} {a}{f' to {z}' if z > a else ''}."]
     for v, text in verses(bible, book, ch, a, z):
         out.append(f"[READER] ({cue}) {text}")
     return out
@@ -51,7 +51,7 @@ def build(bible: dict) -> list[str]:
     add("")
     add("# Not By Sight, episode 1: The man born blind (John 9). Pilot script.")
     add("# NARRATOR carries the story and the background. READER speaks Scripture only, word for word from the")
-    add("# Berean Standard Bible. BRIAN is Brian Clark's words in a voice he picks. MAN, NEIGHBOUR, HELPER and FATHER")
+    add("# Berean Standard Bible. BRIAN is Brian Clark's words in a voice he picks. MAN, NEIGHBOUR and HELPER")
     add("# appear only inside scenes the narrator introduces with the word 'imagine'.")
     add("")
 
@@ -139,20 +139,16 @@ def build(bible: dict) -> list[str]:
         "suburban business district with the task of finding a grocery store about five blocks away, on my own. "
         "Unless I got into serious physical danger, I was not to be helped. I had to trust my new skills to make "
         "that trip without any sight. It was terrifying, exhilarating and liberating all at once. I think of the man "
-        "born blind making his way to the Pool of Siloam, on faith.")
+        "born blind making his way to the Pool of Siloam, not using a fancy iPhone while using the latest in cane "
+        "technology, but by faith.")
     add("[BREAK]")
 
     # ---- The neighbours -------------------------------------------------------------------------
-    ext(reader(bible, "John", 9, 8, 12))
+    ext(reader(bible, "John", 9, 8, 12, lead="But it never goes easy, does it? "))
     add("[BRIAN] (calm) He was blind from birth and had never had sight. From a physiological standpoint his visual "
         "cortex would never have developed. It takes a child about six years of seeing to learn to tell faces "
         "apart. He washed the mud off and received sight. Jesus did not only heal the eyes. He must have given the "
-        "man a way to process what the eyes now sent. I have read accounts of people who regained sight or got it "
-        "for the first time and could not make sense of the images.")
-    add("[BRIAN] (calm) People did not recognise him, and I think that is partly the sheer size of what had "
-        "happened. If I walked up to someone who has only known me blind and suddenly I could see, I would talk "
-        "differently and carry myself differently. I would still turn my head toward sounds. That is natural. But "
-        "I would react to visual cues I do not react to now.")
+        "man a way to process what his eyes were now sending to his brain.")
     add("[BREAK]")
 
     # ---- The Pharisees, round one ---------------------------------------------------------------
@@ -161,14 +157,6 @@ def build(bible: dict) -> list[str]:
         "happened.")
     add("[NARRATOR] (calm) Then they send for his parents.")
     ext(reader(bible, "John", 9, 18, 23))
-    add("[NARRATOR] (beat) Imagine that room for a moment. A scene, not Scripture.")
-    add("[FATHER] (whisper) Say nothing about the man. Say nothing about the Sabbath. He is our son. He was born "
-        "blind. That is all we know, and it is all true.")
-    add("[FATHER] (calm) Ask him. He is old enough to speak for himself.")
-    add("[PAUSE 1.0]")
-    add("[BRIAN] (calm) When the parents said, ask him, he is old enough to speak for himself, it was for the wrong "
-        "reason, fear. But notice what it is. Usually a blind person's escort gets asked what the blind person "
-        "wants. This may be the first recorded moment of self-advocacy for a blind man, and it was unintentional.")
     add("[BREAK]")
 
     # ---- The Pharisees, round two ---------------------------------------------------------------
@@ -190,7 +178,8 @@ def build(bible: dict) -> list[str]:
     add("[NARRATOR] (calm) He had heard that voice once before, over the mud. He had never seen the face. Now he "
         "sees it.")
     add("[BRIAN] (calm) It is hard to express what that man must have felt when he finally recognised Jesus, after "
-        "Jesus sought him out. I am so grateful to Jesus for what He did for that one blind man.")
+        "Jesus sought him out. I am so grateful to Jesus for what He did for that one blind man. Some day, I will see "
+        "again, and I can't wait for my moment of seeing Jesus for the first time too.")
     ext(reader(bible, "John", 9, 39, 41))
     add("[NARRATOR] (calm) Notice where the word blind lands at the end of the chapter. Not on the man who was "
         "born blind. On the men who could see.")

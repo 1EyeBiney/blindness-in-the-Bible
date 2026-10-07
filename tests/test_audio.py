@@ -33,7 +33,7 @@ def test_reader_lines_are_the_official_berean_text_and_cover_all_of_john_9():
 
 def test_every_scene_is_introduced_with_imagine():
     ls = lines()
-    scene_speakers = {"MAN", "NEIGHBOUR", "HELPER", "FATHER"}
+    scene_speakers = {"MAN", "NEIGHBOUR", "HELPER"}
     armed = False
     for ln in ls:
         m = LINE.match(ln)

@@ -6,3 +6,4 @@ logs/
 voices.json
 *.mp3
 *.wav
+casts/elevenlabs-voices.json

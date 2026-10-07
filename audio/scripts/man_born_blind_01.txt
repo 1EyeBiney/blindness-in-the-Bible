@@ -5,7 +5,7 @@
 
 # Not By Sight, episode 1: The man born blind (John 9). Pilot script.
 # NARRATOR carries the story and the background. READER speaks Scripture only, word for word from the
-# Berean Standard Bible. BRIAN is Brian Clark's words in a voice he picks. MAN, NEIGHBOUR, HELPER and FATHER
+# Berean Standard Bible. BRIAN is Brian Clark's words in a voice he picks. MAN, NEIGHBOUR and HELPER
 # appear only inside scenes the narrator introduces with the word 'imagine'.
 
 [NARRATOR] (calm) A man is walking downhill through Jerusalem with mud on his eyes.
@@ -49,16 +49,15 @@
 [MAN] (after a long pause) My foot finds the edge of the stone. The water is cold on my hands. I kneel beside him, and I wash.
 [PAUSE 2.0]
 [NARRATOR] (calm) What happened next, Scripture gives in three words. He came back seeing.
-[BRIAN] (calm) One of my first true walk-by-faith moments came during rehabilitation training at the Hines VA hospital outside Chicago. At the end of training I did a drop-off test. I was let out of a car in a suburban business district with the task of finding a grocery store about five blocks away, on my own. Unless I got into serious physical danger, I was not to be helped. I had to trust my new skills to make that trip without any sight. It was terrifying, exhilarating and liberating all at once. I think of the man born blind making his way to the Pool of Siloam, on faith.
+[BRIAN] (calm) One of my first true walk-by-faith moments came during rehabilitation training at the Hines VA hospital outside Chicago. At the end of training I did a drop-off test. I was let out of a car in a suburban business district with the task of finding a grocery store about five blocks away, on my own. Unless I got into serious physical danger, I was not to be helped. I had to trust my new skills to make that trip without any sight. It was terrifying, exhilarating and liberating all at once. I think of the man born blind making his way to the Pool of Siloam, not using a fancy iPhone while using the latest in cane technology, but by faith.
 [BREAK]
-[NARRATOR] (calm) John chapter 9, verses 8 to 12.
+[NARRATOR] (calm) But it never goes easy, does it? John chapter 9, verses 8 to 12.
 [READER] (plainly) At this, his neighbors and those who had formerly seen him begging began to ask, “Isn’t this the man who used to sit and beg?”
 [READER] (plainly) Some claimed that he was, but others said, “No, he just looks like him.” But the man kept saying, “I am the one.”
 [READER] (plainly) “How then were your eyes opened?” they asked.
 [READER] (plainly) He answered, “The man they call Jesus made some mud and anointed my eyes, and He told me to go to Siloam and wash. So I went and washed and received my sight.”
 [READER] (plainly) “Where is He?” they asked. “I do not know,” he answered.
-[BRIAN] (calm) He was blind from birth and had never had sight. From a physiological standpoint his visual cortex would never have developed. It takes a child about six years of seeing to learn to tell faces apart. He washed the mud off and received sight. Jesus did not only heal the eyes. He must have given the man a way to process what the eyes now sent. I have read accounts of people who regained sight or got it for the first time and could not make sense of the images.
-[BRIAN] (calm) People did not recognise him, and I think that is partly the sheer size of what had happened. If I walked up to someone who has only known me blind and suddenly I could see, I would talk differently and carry myself differently. I would still turn my head toward sounds. That is natural. But I would react to visual cues I do not react to now.
+[BRIAN] (calm) He was blind from birth and had never had sight. From a physiological standpoint his visual cortex would never have developed. It takes a child about six years of seeing to learn to tell faces apart. He washed the mud off and received sight. Jesus did not only heal the eyes. He must have given the man a way to process what his eyes were now sending to his brain.
 [BREAK]
 [NARRATOR] (calm) John chapter 9, verses 13 to 17.
 [READER] (plainly) They brought to the Pharisees the man who had been blind.
@@ -75,11 +74,6 @@
 [READER] (plainly) But how he can now see or who opened his eyes, we do not know. Ask him. He is old enough to speak for himself.”
 [READER] (plainly) His parents said this because they were afraid of the Jews. For the Jews had already determined that anyone who confessed Jesus as the Christ would be put out of the synagogue.
 [READER] (plainly) That was why his parents said, “He is old enough. Ask him.”
-[NARRATOR] (beat) Imagine that room for a moment. A scene, not Scripture.
-[FATHER] (whisper) Say nothing about the man. Say nothing about the Sabbath. He is our son. He was born blind. That is all we know, and it is all true.
-[FATHER] (calm) Ask him. He is old enough to speak for himself.
-[PAUSE 1.0]
-[BRIAN] (calm) When the parents said, ask him, he is old enough to speak for himself, it was for the wrong reason, fear. But notice what it is. Usually a blind person's escort gets asked what the blind person wants. This may be the first recorded moment of self-advocacy for a blind man, and it was unintentional.
 [BREAK]
 [NARRATOR] (calm) John chapter 9, verses 24 to 34.
 [READER] (plainly) So a second time they called for the man who had been blind and said, “Give glory to God! We know that this man is a sinner.”
@@ -104,7 +98,7 @@
 [READER] (plainly) “You have already seen Him,” Jesus answered. “He is the One speaking with you.”
 [READER] (plainly) “Lord, I believe,” he said. And he worshiped Jesus.
 [NARRATOR] (calm) He had heard that voice once before, over the mud. He had never seen the face. Now he sees it.
-[BRIAN] (calm) It is hard to express what that man must have felt when he finally recognised Jesus, after Jesus sought him out. I am so grateful to Jesus for what He did for that one blind man.
+[BRIAN] (calm) It is hard to express what that man must have felt when he finally recognised Jesus, after Jesus sought him out. I am so grateful to Jesus for what He did for that one blind man. Some day, I will see again, and I can't wait for my moment of seeing Jesus for the first time too.
 [NARRATOR] (calm) John chapter 9, verses 39 to 41.
 [READER] (plainly) Then Jesus declared, “For judgment I have come into this world, so that the blind may see and those who see may become blind.”
 [READER] (plainly) Some of the Pharisees who were with Him heard this, and they asked Him, “Are we blind too?”
