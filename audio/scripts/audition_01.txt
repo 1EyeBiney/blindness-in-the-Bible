@@ -2,6 +2,7 @@
 @section: 1
 @cast: casts/audition.json
 @defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
 
 # Audition: each candidate voice reads one line of its intended role. Cheap by design.
 

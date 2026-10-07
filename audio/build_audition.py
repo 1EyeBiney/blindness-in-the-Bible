@@ -58,7 +58,7 @@ def main() -> None:
     bible = build_site.load_bible()
     L = lines(bible)
     script = ["@project: audition", "@section: 1", "@cast: casts/audition.json",
-              "@defaults: takes=1 keep=pick model=eleven_v3", "",
+              "@defaults: takes=1 keep=pick model=eleven_v3", "@continuity: off", "",
               "# Audition: each candidate voice reads one line of its intended role. Cheap by design."]
     cast = {"cast_name": "audition",
             "defaults": {"model": "eleven_v3", "stability": 0.6, "similarity_boost": 0.75, "style": 0.0,

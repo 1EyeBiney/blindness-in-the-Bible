@@ -48,6 +48,7 @@ def build(bible: dict) -> list[str]:
     add("@section: 1")
     add("@cast: casts/not_by_sight.json")
     add("@defaults: takes=1 keep=pick model=eleven_v3")
+    add("@continuity: off")
     add("")
     add("# Not By Sight, episode 1: The man born blind (John 9). Pilot script.")
     add("# NARRATOR carries the story and the background. READER speaks Scripture only, word for word from the")

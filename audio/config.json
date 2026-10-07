@@ -4,7 +4,7 @@
   "max_credits_per_run": 15000,
   "quota_check": true,
   "cue_policy": "passthrough",
-  "continuity": "adjacent",
+  "continuity": "off",
   "retry": {
     "attempts": 5,
     "base_delay": 1.0,
