@@ -144,7 +144,7 @@ def main(project: str, mix: str) -> None:
         desc.append(f"- {m:02d}:{s:02d}  {shot['description']}" + ("" if kind == "image" else "  (title card for now)"))
     desc += ["", "Scripture quotations are from the Holy Bible, Berean Standard Bible, BSB, public domain.",
              "Scenes introduced with the word 'imagine' are our own. Voices generated with ElevenLabs; mix by Brian Clark.",
-             "Music: TO BE FILLED IN (title, artist, licence)."]
+             "Original music by Brian Clark, made with Suno. All rights held by the author."]
     (out / "description.md").write_text("\n".join(desc) + "\n", encoding="utf-8")
     # video: stills + mix, captions burned in from the SRT (YouTube also gets the SRT as a closed-caption track)
     mp4 = out / f"{project}.mp4"
