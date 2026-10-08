@@ -87,8 +87,7 @@ def captions(sections: list[dict], texts: dict[str, str]) -> list[tuple[float, f
         for ch in chunks:
             d = dur * len(ch.split()) / total_words
             label = "" if s["speaker"] == "NARRATOR" else f"[{s['speaker'].title()}] "
-            out.append((t, t + d - 0.05, "
-".join(textwrap.wrap(label + ch, CAPTION_CHARS))))
+            out.append((t, t + d - 0.05, "\n".join(textwrap.wrap(label + ch, CAPTION_CHARS))))
             t += d
     return out
 
