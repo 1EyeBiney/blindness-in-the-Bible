@@ -285,6 +285,8 @@ STORIES = [
     },
     {
         "slug": "man-born-blind", "title": "The man born blind", "who": "The man born blind", "group": "given",
+        "listen": {"youtube": "y-fccElFytM", "mp3": "not_by_sight_01_the_man_born_blind.mp3", "minutes": 16,
+                   "title": "Not By Sight, Episode 1: The Man Born Blind"},
         "outcome": "restored",
         "passages": [("John", 9, 1, 41)],
         "around": "Jesus is in Jerusalem and has just escaped an attempt to stone Him in the temple. Walking along, "

@@ -78,6 +78,9 @@ h3 { font-size: 1.2rem; }
 p.verse { margin: .5rem 0; }
 p.slot { border: 1px dashed var(--rule); padding: .75rem; color: var(--muted); }
 p.source { color: var(--muted); font-size: 1rem; margin: -.5rem 0 1.25rem 1rem; }
+audio { display:block; width:100%; max-width: 40rem; margin: .5rem 0 1rem; }
+.video { position:relative; width:100%; max-width: 48rem; aspect-ratio: 16 / 9; margin: .5rem 0 1rem; }
+.video iframe { position:absolute; inset:0; width:100%; height:100%; border:0; }
 blockquote { margin: 1rem 0; padding: .25rem 1rem; border-left: 4px solid var(--rule); }
 .table-scroll { overflow-x: auto; }
 table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
@@ -226,6 +229,25 @@ def stories_index() -> str:
     return "\n".join(parts)
 
 
+def listen_html(listen: dict | None, root: str) -> str:
+    """The episode player: a plain audio file first, then the YouTube video. Nothing on the page depends on it."""
+    if not listen:
+        return ""
+    yt = e(listen["youtube"])
+    return (f"<h2>Listen to this story</h2>"
+            f"<p>This story is also an episode of about {listen['minutes']} minutes: the passage read word for word, "
+            f"the place and the time, two imagined scenes, and Brian's own thoughts, with music. "
+            f"The audio file plays here, or <a href=\"{root}media/{e(listen['mp3'])}\">download the MP3</a>. "
+            f"The same episode is on YouTube with pictures and captions.</p>"
+            f"<audio controls preload=\"none\" src=\"{root}media/{e(listen['mp3'])}\">"
+            f"Your browser cannot play this audio here. <a href=\"{root}media/{e(listen['mp3'])}\">Download the MP3</a>.</audio>"
+            f"<div class=\"video\"><iframe src=\"https://www.youtube-nocookie.com/embed/{yt}\" "
+            f"title=\"{e(listen['title'])}, on YouTube\" loading=\"lazy\" allowfullscreen "
+            f"referrerpolicy=\"strict-origin-when-cross-origin\"></iframe></div>"
+            f"<p>Or watch it <a href=\"https://www.youtube.com/watch?v={yt}\">on YouTube</a>. The pictures in the video "
+            f"are described in its YouTube description, so nothing is said only in a picture.</p>")
+
+
 def story_page(story: dict, bible: dict, order: list[dict]) -> str:
     import stories as st
     i = order.index(story)
@@ -235,6 +257,7 @@ def story_page(story: dict, bible: dict, order: list[dict]) -> str:
              f"<h1>{e(story['title'])}</h1>",
              f'<p class="lede">{e(group_title)}. {e(st.OUTCOMES[story["outcome"]])}. '
              f'{e("; ".join(passage_label(p) for p in story["passages"]))}.</p>',
+             listen_html(story.get("listen"), "../"),
              f"<h2>What led up to it</h2><p>{e(story['around'])}</p>",
              f"<h2>What happens</h2><p>{e(story['happens'])}</p>",
              f"<h2>In their shoes</h2><p>{e(story['shoes'])}</p>"]
@@ -459,6 +482,12 @@ def render_all(out: Path = OUT) -> None:
     out.mkdir(parents=True, exist_ok=True)
     for sub in ("static", "data"):
         (out / sub).mkdir(exist_ok=True)
+    media = ROOT / "media"
+    if media.is_dir():
+        (out / "media").mkdir(exist_ok=True)
+        for f in media.iterdir():
+            if f.is_file():
+                shutil.copy(f, out / "media" / f.name)
     (out / "static" / "style.css").write_text(CSS, encoding="utf-8")
     shutil.copy(DATA, out / "data" / "catalog.csv")
     (out / "index.html").write_text(page("Home", index_page(rows), "index.html"), encoding="utf-8")

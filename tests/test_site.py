@@ -56,6 +56,8 @@ def test_site_builds_and_is_accessible(tmp_path):
         assert 'href="#main"' in h and 'id="main"' in h, p.name
         assert h.count('aria-current="page"') == 1, p.name
         assert "<img" not in h and "<script" not in h, p.name
+        for m in re.finditer(r"<iframe[^>]*>", h):
+            assert 'title="' in m.group(0) and "youtube-nocookie.com/embed/" in m.group(0), p.name
         for href in re.findall(r'href="([^"#]+)"', h):
             if href.startswith("http"):
                 continue
@@ -256,3 +258,15 @@ def test_dim_eyes_stories_say_how_much_he_could_see(tmp_path):
     build_site.render_all(tmp_path)
     h = (tmp_path / "stories" / "jacob.html").read_text(encoding="utf-8")
     assert "How much could he see?" in h and 'href="../what-blind-means.html"' in h
+
+
+def test_the_man_born_blind_has_its_episode(tmp_path):
+    import stories as st
+    story = next(x for x in st.STORIES if x["slug"] == "man-born-blind")
+    assert story["listen"]["youtube"] == "y-fccElFytM"
+    assert (ROOT / "media" / story["listen"]["mp3"]).is_file()
+    build_site.render_all(tmp_path)
+    h = (tmp_path / "stories" / "man-born-blind.html").read_text(encoding="utf-8")
+    assert "Listen to this story" in h and "<audio controls" in h and "embed/y-fccElFytM" in h
+    assert (tmp_path / "media" / story["listen"]["mp3"]).is_file()
+    assert h.index("Listen to this story") < h.index("What led up to it")
