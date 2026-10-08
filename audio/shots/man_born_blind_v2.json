@@ -1,58 +1,132 @@
 {
-  "_comment": "Shot list for episode 1. Each shot starts at the section id named in 'from' and holds until the next shot. 'image' is the file in audio/shots/images/ (missing files fall back to a title card with 'card' text). 'prompt' is for the image model; 'description' is the spoken/written description for blind viewers and the episode notes. Rule: nothing is said only in a picture.",
+  "_comment": "Shot list for episode 1. Each shot starts at the section id named in 'from' and holds until the next shot. 'image' is the file under audio/shots/images/<episode folder>/ (missing files fall back to a title card with 'card' text). 'prompt' is for the image model; 'description' is the spoken/written description for blind viewers and the episode notes. Rule: nothing is said only in a picture.",
   "style": "Painterly, warm, late-afternoon light, first-century Jerusalem. No faces shown close up; figures seen from behind or at a distance. No text in the image. No modern objects. 16:9.",
   "shots": [
-    {"from": "001", "image": "01_downhill.png", "card": "Not By Sight",
-     "prompt": "A narrow stone street in first-century Jerusalem sloping steeply downhill, seen from behind a lone man in a plain robe walking down it, his hand on the wall, late afternoon light, painterly, warm.",
-     "description": "A lone man walks down a steep, narrow stone street, one hand on the wall, seen from behind."},
-    {"from": "002", "image": "02_title.png", "card": "Not By Sight\nEpisode 1: The man born blind",
-     "prompt": "Title card background only: a soft painterly view of Jerusalem's rooftops at dusk from the Mount of Olives, no text.",
-     "description": "Title card over Jerusalem's rooftops at dusk: Not By Sight, episode one, the man born blind."},
-    {"from": "003", "image": "03_temple_court.png", "card": "Jerusalem, the Sabbath after Tabernacles",
-     "prompt": "The outer court of Herod's Temple on a bright morning, pilgrims in robes moving in groups, a beggar seated against a column in the foreground with his back to us, painterly.",
-     "description": "The Temple's outer court, crowds of pilgrims, and a beggar seated against a column with his back to us."},
-    {"from": "004", "image": "04_scripture.png", "card": "John 9:1-5",
-     "prompt": "An open scroll on a wooden table in warm light, Hebrew letters out of focus, nothing legible, painterly.",
-     "description": "An open scroll in warm light. The Scripture reader begins."},
-    {"from": "006", "image": "05_brian.png", "card": "From Brian",
-     "prompt": "A white cane leaning against a wooden church pew, soft window light, no people, painterly.",
-     "description": "A white cane leaning against a church pew in window light. Brian speaks."},
-    {"from": "008", "image": "06_mud.png", "card": "John 9:6-7",
-     "prompt": "Close view of two hands mixing earth and water into mud on a paving stone, dust in sunlight, no faces, painterly.",
-     "description": "Two hands mixing earth into mud on a paving stone."},
-    {"from": "009", "image": "07_siloam_pool.png", "card": "The Pool of Siloam",
-     "prompt": "The Pool of Siloam as excavated: wide stone steps in sets of five with landings, descending to still water, afternoon shadow, no people, painterly.",
-     "description": "Wide stone steps in sets of five, descending to the still water of the Pool of Siloam."},
-    {"from": "010", "image": "08_walk_down.png", "card": "Imagine: the walk down",
-     "prompt": "A steep stepped street in Jerusalem crowded with people walking up toward the Temple, and two men walking down against the flow, one holding the other's arm, seen from above and behind, painterly.",
-     "description": "An imagined scene. Two men walk down a crowded stepped street against the flow, one holding the other's arm."},
-    {"from": "019", "image": "09_water.png", "card": "Imagine: the water",
-     "prompt": "The lowest step of a stone pool, a man kneeling at the water's edge seen from behind, ripples spreading from his hands, cool shadowed light, painterly.",
-     "description": "A man kneels at the edge of the pool, seen from behind, ripples spreading from his hands."},
-    {"from": "021", "image": "05_brian.png", "card": "From Brian",
-     "prompt": "", "description": "The white cane and the church pew again. Brian speaks."},
-    {"from": "023", "image": "10_neighbours.png", "card": "John 9:8-12",
-     "prompt": "A small knot of neighbours in a Jerusalem lane, gesturing in argument, seen from a distance, a doorway and hanging cloth, painterly.",
-     "description": "Neighbours arguing in a lane, seen from a distance."},
-    {"from": "026", "image": "11_pharisees.png", "card": "John 9:13-17",
-     "prompt": "A stone hall with seated men in prayer shawls in a half circle, a single standing figure before them seen from behind, shafts of light, painterly.",
-     "description": "A single figure stands before a half circle of seated religious leaders in a stone hall."},
-    {"from": "029", "image": "12_parents.png", "card": "John 9:18-23",
-     "prompt": "An older couple standing close together in a doorway, heads lowered, lamplight, faces turned away, painterly.",
-     "description": "An older couple stand close in a doorway, heads lowered."},
-    {"from": "031", "image": "11_pharisees.png", "card": "John 9:24-34",
-     "prompt": "", "description": "The stone hall again. The man answers the leaders."},
-    {"from": "033", "image": "13_begging.png", "card": "Gain merit by me",
-     "prompt": "A beggar's bowl on the worn steps of a Temple gate, a few coins in it, feet of passers-by blurred in motion, painterly.",
-     "description": "A beggar's bowl with a few coins on worn Temple steps, passers-by blurred."},
-    {"from": "035", "image": "14_found.png", "card": "John 9:35-38",
-     "prompt": "Two men meeting in an empty street at golden hour, one reaching toward the other, both seen from a distance and behind, long shadows, painterly.",
-     "description": "Two men meet in an empty golden street, one reaching toward the other, seen from a distance."},
-    {"from": "039", "image": "15_blind_guides.png", "card": "John 9:39-41",
-     "prompt": "A group of robed men walking away down a street into shadow while light falls on the empty place where a beggar used to sit, painterly.",
-     "description": "Robed men walk away into shadow; light falls on the empty place where the beggar sat."},
-    {"from": "042", "image": "16_close.png", "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\n1eyebiney.github.io/blindness-in-the-Bible",
-     "prompt": "Jerusalem's rooftops at dusk from the Mount of Olives, first stars, no text, painterly.",
-     "description": "Closing card over Jerusalem at dusk: For we walk by faith, not by sight. The site address."}
+    {
+      "from": "001",
+      "image": "ep01_man_born_blind/01_downhill.png",
+      "card": "Not By Sight",
+      "prompt": "A narrow stone street in first-century Jerusalem sloping steeply downhill, seen from behind a lone man in a plain robe walking down it, his hand on the wall, late afternoon light, painterly, warm.",
+      "description": "A lone man walks down a steep, narrow stone street, one hand on the wall, seen from behind."
+    },
+    {
+      "from": "002",
+      "image": "ep01_man_born_blind/02_title.png",
+      "card": "Not By Sight\nEpisode 1: The man born blind",
+      "prompt": "Title card background only: a soft painterly view of Jerusalem's rooftops at dusk from the Mount of Olives, no text.",
+      "description": "Title card over Jerusalem's rooftops at dusk: Not By Sight, episode one, the man born blind."
+    },
+    {
+      "from": "003",
+      "image": "ep01_man_born_blind/03_temple_court.png",
+      "card": "Jerusalem, the Sabbath after Tabernacles",
+      "prompt": "The outer court of Herod's Temple on a bright morning, pilgrims in robes moving in groups, a beggar seated against a column in the foreground with his back to us, painterly.",
+      "description": "The Temple's outer court, crowds of pilgrims, and a beggar seated against a column with his back to us."
+    },
+    {
+      "from": "004",
+      "image": "ep01_man_born_blind/04_scripture.png",
+      "card": "John 9:1-5",
+      "prompt": "An open scroll on a wooden table in warm light, Hebrew letters out of focus, nothing legible, painterly.",
+      "description": "An open scroll in warm light. The Scripture reader begins."
+    },
+    {
+      "from": "006",
+      "image": "ep01_man_born_blind/05_brian.png",
+      "card": "From Brian",
+      "prompt": "A white cane leaning against a wooden church pew, soft window light, no people, painterly.",
+      "description": "A white cane leaning against a church pew in window light. Brian speaks."
+    },
+    {
+      "from": "008",
+      "image": "ep01_man_born_blind/06_mud.png",
+      "card": "John 9:6-7",
+      "prompt": "Close view of two hands mixing earth and water into mud on a paving stone, dust in sunlight, no faces, painterly.",
+      "description": "Two hands mixing earth into mud on a paving stone."
+    },
+    {
+      "from": "009",
+      "image": "ep01_man_born_blind/07_siloam_pool.png",
+      "card": "The Pool of Siloam",
+      "prompt": "The Pool of Siloam as excavated: wide stone steps in sets of five with landings, descending to still water, afternoon shadow, no people, painterly.",
+      "description": "Wide stone steps in sets of five, descending to the still water of the Pool of Siloam."
+    },
+    {
+      "from": "010",
+      "image": "ep01_man_born_blind/08_walk_down.png",
+      "card": "Imagine: the walk down",
+      "prompt": "A steep stepped street in Jerusalem crowded with people walking up toward the Temple, and two men walking down against the flow, one holding the other's arm, seen from above and behind, painterly.",
+      "description": "An imagined scene. Two men walk down a crowded stepped street against the flow, one holding the other's arm."
+    },
+    {
+      "from": "019",
+      "image": "ep01_man_born_blind/09_water.png",
+      "card": "Imagine: the water",
+      "prompt": "The lowest step of a stone pool, a man kneeling at the water's edge seen from behind, ripples spreading from his hands, cool shadowed light, painterly.",
+      "description": "A man kneels at the edge of the pool, seen from behind, ripples spreading from his hands."
+    },
+    {
+      "from": "021",
+      "image": "ep01_man_born_blind/05_brian.png",
+      "card": "From Brian",
+      "prompt": "",
+      "description": "The white cane and the church pew again. Brian speaks."
+    },
+    {
+      "from": "023",
+      "image": "ep01_man_born_blind/10_neighbours.png",
+      "card": "John 9:8-12",
+      "prompt": "A small knot of neighbours in a Jerusalem lane, gesturing in argument, seen from a distance, a doorway and hanging cloth, painterly.",
+      "description": "Neighbours arguing in a lane, seen from a distance."
+    },
+    {
+      "from": "026",
+      "image": "ep01_man_born_blind/11_pharisees.png",
+      "card": "John 9:13-17",
+      "prompt": "A stone hall with seated men in prayer shawls in a half circle, a single standing figure before them seen from behind, shafts of light, painterly.",
+      "description": "A single figure stands before a half circle of seated religious leaders in a stone hall."
+    },
+    {
+      "from": "029",
+      "image": "ep01_man_born_blind/12_parents.png",
+      "card": "John 9:18-23",
+      "prompt": "An older couple standing close together in a doorway, heads lowered, lamplight, faces turned away, painterly.",
+      "description": "An older couple stand close in a doorway, heads lowered."
+    },
+    {
+      "from": "031",
+      "image": "ep01_man_born_blind/11_pharisees.png",
+      "card": "John 9:24-34",
+      "prompt": "",
+      "description": "The stone hall again. The man answers the leaders."
+    },
+    {
+      "from": "033",
+      "image": "ep01_man_born_blind/13_begging.png",
+      "card": "Gain merit by me",
+      "prompt": "A beggar's bowl on the worn steps of a Temple gate, a few coins in it, feet of passers-by blurred in motion, painterly.",
+      "description": "A beggar's bowl with a few coins on worn Temple steps, passers-by blurred."
+    },
+    {
+      "from": "035",
+      "image": "ep01_man_born_blind/14_found.png",
+      "card": "John 9:35-38",
+      "prompt": "Two men meeting in an empty street at golden hour, one reaching toward the other, both seen from a distance and behind, long shadows, painterly.",
+      "description": "Two men meet in an empty golden street, one reaching toward the other, seen from a distance."
+    },
+    {
+      "from": "039",
+      "image": "ep01_man_born_blind/15_blind_guides.png",
+      "card": "John 9:39-41",
+      "prompt": "A group of robed men walking away down a street into shadow while light falls on the empty place where a beggar used to sit, painterly.",
+      "description": "Robed men walk away into shadow; light falls on the empty place where the beggar sat."
+    },
+    {
+      "from": "042",
+      "image": "ep01_man_born_blind/16_close.png",
+      "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\n1eyebiney.github.io/blindness-in-the-Bible",
+      "prompt": "Jerusalem's rooftops at dusk from the Mount of Olives, first stars, no text, painterly.",
+      "description": "Closing card over Jerusalem at dusk: For we walk by faith, not by sight. The site address."
+    }
   ]
 }
