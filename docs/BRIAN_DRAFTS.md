@@ -8,11 +8,11 @@ Each paragraph below is in the scripts as a BRIAN line but was written by Claude
 
 2. He hears a crowd and has to ask what it is. I do that constantly. A room goes quiet, or everyone laughs, or chairs scrape, and I have to ask the person next to me what just happened. Most of the time people answer. Sometimes they are too busy to. Bartimaeus got an answer, and it was the most important sentence anyone ever said to him.
 
-3. People told him to be quiet. If you are blind and loud in public, people get uncomfortable, because you are the one making a scene and they cannot make eye contact to settle you down. He shouted louder. I love that. Then, the moment Jesus noticed him, the same people said, take courage, he is calling you. The crowd did not change. His standing in it did.
+3. (approved by Brian) People told him to be quiet. If you are blind and loud in public, people get uncomfortable, because you are the one making a scene and they cannot make eye contact to settle you down. He shouted louder. I love that. Then, the moment Jesus noticed him, he suddenly got encouragement from the crowd when they shouted for him to take courage, he is calling you. The crowd did not change. His standing in it did. Jesus lifts everyone up.
 
-4. He threw off his cloak. For a beggar that cloak was his bed, his coat, and the thing he spread out to collect coins. He left it in the dust because he was not planning to come back to that spot. My white cane is the thing I would never leave behind. I would not have thrown it off. I would have run with it.
+4. (approved by Brian) He threw off his cloak. For a beggar that cloak was his bed, his coat, and the thing he spread out to collect coins. He left it in the dust because he was not planning to come back to that spot. My white cane is the thing I would never leave behind. So, for me, there would be a little pile of beat up white canes, and an iPhone. Yes, I would go back to Android.
 
-5. Jesus asks him what he wants. He does not assume. Every blind person I know has a story about someone who grabbed an arm and steered them somewhere they did not want to go, meaning well. Jesus had a blind man standing in front of Him and still asked. That is the model.
+5. (approved by Brian) Jesus asks him what he wants. He does not assume. Every blind person I know has a story about someone who grabbed an arm and steered them somewhere they did not want to go. People mean well, but often assume. Jesus had a blind man standing in front of Him and still asked. Self-advocacy at its finest.
 
 ## Episode 3: The blind man at Bethsaida
 

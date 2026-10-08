@@ -31,8 +31,10 @@ def write_drafts(mods) -> Path:
              "Mark changes in this file or in the script; the generator is the source of truth.", ""]
     for m in mods:
         lines += [f"## Episode {m.NUMBER}: {m.TITLE}", ""]
-        for i, p in enumerate(m.DRAFT_BRIAN, 1):
-            lines += [f"{i}. {p}", ""]
+        approved = getattr(m, "APPROVED", set())
+        for i, p in enumerate(m.DRAFT_BRIAN):
+            tag = " (approved by Brian)" if i in approved else ""
+            lines += [f"{i + 1}.{tag} {p}", ""]
     out = HERE.parent / "docs" / "BRIAN_DRAFTS.md"
     out.write_text("\n".join(lines), encoding="utf-8", newline="\n")
     return out

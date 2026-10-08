@@ -4,9 +4,9 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* A man is sitting in the dust beside the busiest road in Judea, and he hears something change.
 
-**Narrator** *(beat)* Not the usual traffic. Not the mule trains and the pilgrims and the tax men. A crowd, a big one, moving as one thing, with a sound inside it he cannot place. He has sat by this road for years. He knows every sound it makes. Not this one.
+**Narrator** *(beat)* It's not the usual traffic. It's not the mule trains and the pilgrims and the tax men. No, it's a crowd. A big one. And it's moving as one thing. But there's a sound inside it he cannot place. He has sat by this road for years so he knows every sound it makes, but he can't quite place this one. He knows it is something he has not heard before.
 
-**Narrator** *(calm)* So he does what blind people do a hundred times a day. He asks.
+**Narrator** *(calm)* So he does what blind people do so many times each day. He asks.
 
 *(pause 1.5 s)*
 
@@ -14,7 +14,9 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* First, where we are. It is spring, a few days before Passover, and Jesus is on His last journey to Jerusalem. He has told His disciples three times that He is going there to die. A large crowd travels with Him, because everyone is going up to the feast, and the road from Galilee and from across the Jordan funnels through one city before the final climb. That city is Jericho.
+**Narrator** *(calm)* First, where we are. It is spring, a few days before Passover, and Jesus is on His last journey to Jerusalem. He has told His disciples three times that He is going there to die, and yet He continues His work: teaching, ministering, being present in the moment.
+
+**Narrator** *(calm)* A large crowd travels with Him, because everyone is going up to the feast, and the road from Galilee and from across the Jordan funnels through one city before the final climb. That city is Jericho.
 
 **Narrator** *(calm)* Three Gospels tell this story. Mark tells it first and gives the man a name. We will hear Mark, then Luke, then Matthew, and notice where they differ. Mark first.
 
@@ -88,7 +90,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Brian** *(calm)* He hears a crowd and has to ask what it is. I do that constantly. A room goes quiet, or everyone laughs, or chairs scrape, and I have to ask the person next to me what just happened. Most of the time people answer. Sometimes they are too busy to. Bartimaeus got an answer, and it was the most important sentence anyone ever said to him.
 
-**Brian** *(calm)* People told him to be quiet. If you are blind and loud in public, people get uncomfortable, because you are the one making a scene and they cannot make eye contact to settle you down. He shouted louder. I love that. Then, the moment Jesus noticed him, the same people said, take courage, he is calling you. The crowd did not change. His standing in it did.
+**Brian** *(calm)* People told him to be quiet. If you are blind and loud in public, people get uncomfortable, because you are the one making a scene and they cannot make eye contact to settle you down. He shouted louder. I love that. Then, the moment Jesus noticed him, he suddenly got encouragement from the crowd when they shouted for him to take courage, he is calling you. The crowd did not change. His standing in it did. Jesus lifts everyone up.
 
 ---
 
@@ -142,9 +144,9 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Brian** *(calm)* He threw off his cloak. For a beggar that cloak was his bed, his coat, and the thing he spread out to collect coins. He left it in the dust because he was not planning to come back to that spot. My white cane is the thing I would never leave behind. I would not have thrown it off. I would have run with it.
+**Brian** *(calm)* He threw off his cloak. For a beggar that cloak was his bed, his coat, and the thing he spread out to collect coins. He left it in the dust because he was not planning to come back to that spot. My white cane is the thing I would never leave behind. So, for me, there would be a little pile of beat up white canes, and an iPhone. Yes, I would go back to Android.
 
-**Brian** *(calm)* Jesus asks him what he wants. He does not assume. Every blind person I know has a story about someone who grabbed an arm and steered them somewhere they did not want to go, meaning well. Jesus had a blind man standing in front of Him and still asked. That is the model.
+**Brian** *(calm)* Jesus asks him what he wants. He does not assume. Every blind person I know has a story about someone who grabbed an arm and steered them somewhere they did not want to go. People mean well, but often assume. Jesus had a blind man standing in front of Him and still asked. Self-advocacy at its finest.
 
 ---
 

@@ -7,6 +7,8 @@ TITLE = "Bartimaeus at Jericho"
 PASSAGES = [("Mark", 10, 46, 52), ("Luke", 18, 35, 43), ("Matthew", 20, 29, 34)]
 
 # Written in Brian's voice from what he has told Claude, for his approval. Not his until he says so.
+# APPROVED: indices Brian has read and edited himself (8 October 2026): 2, 3, 4. Still drafts: 0, 1.
+APPROVED = {2, 3, 4}
 DRAFT_BRIAN = [
     "Bartimaeus asks to see again. That one word is the whole difference between him and the man born blind. "
     "I lost my sight in 2014, after a lifetime of seeing. I know what a face looks like, what Jericho's palms would "
@@ -18,14 +20,15 @@ DRAFT_BRIAN = [
     "said to him.",
     "People told him to be quiet. If you are blind and loud in public, people get uncomfortable, because you are "
     "the one making a scene and they cannot make eye contact to settle you down. He shouted louder. I love that. "
-    "Then, the moment Jesus noticed him, the same people said, take courage, he is calling you. The crowd did not "
-    "change. His standing in it did.",
+    "Then, the moment Jesus noticed him, he suddenly got encouragement from the crowd when they shouted for him to "
+    "take courage, he is calling you. The crowd did not change. His standing in it did. Jesus lifts everyone up.",
     "He threw off his cloak. For a beggar that cloak was his bed, his coat, and the thing he spread out to collect "
     "coins. He left it in the dust because he was not planning to come back to that spot. My white cane is the "
-    "thing I would never leave behind. I would not have thrown it off. I would have run with it.",
+    "thing I would never leave behind. So, for me, there would be a little pile of beat up white canes, and an "
+    "iPhone. Yes, I would go back to Android.",
     "Jesus asks him what he wants. He does not assume. Every blind person I know has a story about someone who "
-    "grabbed an arm and steered them somewhere they did not want to go, meaning well. Jesus had a blind man standing "
-    "in front of Him and still asked. That is the model.",
+    "grabbed an arm and steered them somewhere they did not want to go. People mean well, but often assume. Jesus "
+    "had a blind man standing in front of Him and still asked. Self-advocacy at its finest.",
 ]
 
 
@@ -41,19 +44,22 @@ def build(bible: dict) -> list[str]:
     # ---- Cold open ------------------------------------------------------------------------------
     add("[NARRATOR] (calm) A man is sitting in the dust beside the busiest road in Judea, and he hears something "
         "change.")
-    add("[NARRATOR] (beat) Not the usual traffic. Not the mule trains and the pilgrims and the tax men. A crowd, "
-        "a big one, moving as one thing, with a sound inside it he cannot place. He has sat by this road for years. "
-        "He knows every sound it makes. Not this one.")
-    add("[NARRATOR] (calm) So he does what blind people do a hundred times a day. He asks.")
+    add("[NARRATOR] (beat) It's not the usual traffic. It's not the mule trains and the pilgrims and the tax men. "
+        "No, it's a crowd. A big one. And it's moving as one thing. But there's a sound inside it he cannot place. "
+        "He has sat by this road for years so he knows every sound it makes, but he can't quite place this one. He "
+        "knows it is something he has not heard before.")
+    add("[NARRATOR] (calm) So he does what blind people do so many times each day. He asks.")
     add("[PAUSE 1.5]")
     add(f"[NARRATOR] (calm) {SERIES_INTRO}")
     add("[BREAK]")
 
     # ---- Where we are ---------------------------------------------------------------------------
     add("[NARRATOR] (calm) First, where we are. It is spring, a few days before Passover, and Jesus is on His last "
-        "journey to Jerusalem. He has told His disciples three times that He is going there to die. A large crowd "
-        "travels with Him, because everyone is going up to the feast, and the road from Galilee and from across the "
-        "Jordan funnels through one city before the final climb. That city is Jericho.")
+        "journey to Jerusalem. He has told His disciples three times that He is going there to die, and yet He "
+        "continues His work: teaching, ministering, being present in the moment.")
+    add("[NARRATOR] (calm) A large crowd travels with Him, because everyone is going up to the feast, and the road "
+        "from Galilee and from across the Jordan funnels through one city before the final climb. That city is "
+        "Jericho.")
     add("[NARRATOR] (calm) Three Gospels tell this story. Mark tells it first and gives the man a name. We will hear "
         "Mark, then Luke, then Matthew, and notice where they differ. Mark first.")
     ext(reader(bible, "Mark", 10, 46, 52))
