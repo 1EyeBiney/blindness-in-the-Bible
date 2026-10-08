@@ -58,7 +58,8 @@ def build(bible: dict) -> list[str]:
         "Mark, then Luke, then Matthew, and notice where they differ. Mark first.")
     ext(reader(bible, "Mark", 10, 46, 52))
     add("[NARRATOR] (calm) Son of Timaeus. Bar means son, so Mark has told us his name twice. He is one of very few "
-        "people Jesus healed whose name we know at all.")
+        "people Jesus healed whose name we know at all. Henry's guess is that Mark names him because he was a "
+        "well known, much talked of beggar, the kind of man a whole city knew by his place on the road.")
     add("[BREAK]")
 
     # ---- The place and the time ------------------------------------------------------------------
@@ -72,8 +73,10 @@ def build(bible: dict) -> list[str]:
         "also the central station for collecting taxes, which is why a chief tax collector named Zacchaeus lived "
         "there. Luke tells his story in the next breath after this one.")
     add("[NARRATOR] (calm) From Jericho the road to Jerusalem climbs about a thousand metres in roughly six hours of "
-        "walking, through dry hills with no town between. Everyone leaving Jericho for the feast was about to start "
-        "that climb, and the edge of the city was the last place to sit and ask for help before the hills.")
+        "walking, through dry rocky hills with no town between. Edersheim, writing about the Good Samaritan, calls "
+        "that road notoriously unsafe, the kind of country robbers hid in. Everyone leaving Jericho for the feast was "
+        "about to start that climb together, for safety as much as company, and the edge of the city was the last "
+        "place to sit and ask for help before the hills.")
     add("[NARRATOR] (calm) Smith's says that beggars in later times had fixed places, at street corners, at the "
         "Temple gates, at the gates of houses, and it cites this very verse. People who could not work were usually "
         "cared for by relatives. A man begging by the road may have had no one. Or he may have had someone who "
@@ -101,7 +104,10 @@ def build(bible: dict) -> list[str]:
         "it.")
     add("[PAUSE 2.0]")
     add("[NARRATOR] (calm) Then the question. Jesus has a blind man standing in front of Him, and He asks what he "
-        "wants.")
+        "wants. Henry says that although Christ knows our needs, He wants to hear them from us, and that having to "
+        "say the thing plainly teaches us the worth of what we ask for. Edersheim notices what came after: the man "
+        "did not go home. He followed Jesus on the way, glorifying God, and all the people praised God when they saw "
+        "it.")
     add("[BREAK]")
 
     # ---- Brian ----------------------------------------------------------------------------------
@@ -115,11 +121,13 @@ def build(bible: dict) -> list[str]:
     # ---- Luke -----------------------------------------------------------------------------------
     add("[NARRATOR] (calm) Luke tells the same story, with one difference you will hear right at the start.")
     ext(reader(bible, "Luke", 18, 35, 43))
-    add("[NARRATOR] (calm) Luke says as Jesus drew near to Jericho. Mark says as He was leaving. The old "
-        "commentators noticed, and they offer an answer: there were two Jerichos. The old city of the Old Testament "
-        "and Herod's new city stood a little apart, and a road between them would be leaving one and approaching "
-        "the other. Edersheim says plainly that it is better to admit the difficulty than to force a harmony. We "
-        "will leave it where he left it.")
+    add("[NARRATOR] (calm) Luke says as Jesus drew near to Jericho. Mark says as He was leaving. There were in "
+        "fact two Jerichos in Jesus's day: the old city of Joshua's time lay in ruins near Elisha's spring, and the "
+        "new town Herod and his son built, with palaces and gardens, stood a short distance off. Some readers since "
+        "have used that to make the accounts agree, with the healing on the road between them. None of our old "
+        "books does. Matthew Henry says only that Luke's word for near can mean leaving as well as arriving. "
+        "Edersheim says plainly that it is better to admit the difficulty than to force a harmony. We will leave "
+        "it where he left it.")
     add("[NARRATOR] (calm) Notice what Luke adds at the end. The man follows, glorifying God, and all the people, "
         "the same people who told him to be quiet, give praise to God. The crowd that shushed him ends up shouting "
         "with him.")

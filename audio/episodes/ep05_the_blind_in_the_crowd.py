@@ -50,8 +50,9 @@ def build(bible: dict) -> list[str]:
 
     add("[NARRATOR] (calm) First, where we are. Matthew chapter fifteen. Jesus has been away in the far north, in "
         "the region of Tyre and Sidon, where He healed a Gentile woman's daughter. Now He comes back toward the Sea "
-        "of Galilee, goes up a mountain, and sits down. In the Gospels, when Jesus sits down on a mountain, "
-        "something is about to happen.")
+        "of Galilee, goes up a mountain, and sits down. Henry says He sat there like a host waiting to welcome "
+        "guests, waiting to be gracious. In the Gospels, when Jesus sits down on a mountain, something is about to "
+        "happen.")
     ext(reader(bible, "Matthew", 15, 29, 31))
     add("[NARRATOR] (calm) Three verses, and in them the lame, the blind, the crippled, the mute and many others. "
         "Then, straight after, the feeding of the four thousand, because these people had been with Him three days "
@@ -96,9 +97,10 @@ def build(bible: dict) -> list[str]:
     ext(reader(bible, "2 Samuel", 5, 6, 8))
     add("[NARRATOR] (calm) The Jebusites taunted David: even the blind and the lame could keep you out. David took "
         "the city anyway, and a saying grew up from the insult. The blind and the lame will never enter the palace. "
-        "Some later teachers took it as a rule about who could come into the Temple. Whether it was ever enforced "
-        "that way is argued. What is certain is that the saying was known in Jerusalem, and that Matthew, who knew "
-        "his Scriptures, chose to tell us exactly who came into the Temple on this day.")
+        "Henry notes that the blind and the lame in the Jebusites' taunt may even have meant their idols, and he is "
+        "the one who reads the saying as a bar on blind and lame people entering the Temple. Our shelf has no "
+        "rabbinic rule that says so, and we found none. What is certain is that the saying was remembered, and that "
+        "Matthew, who knew his Scriptures, chose to tell us exactly who came into the Temple on this day.")
     add("[NARRATOR] (calm) Matthew chapter twenty-one. Jesus has ridden into Jerusalem on a donkey to shouts of "
         "Hosanna. He goes straight to the Temple.")
     ext(reader(bible, "Matthew", 21, 12, 16))
@@ -113,7 +115,8 @@ def build(bible: dict) -> list[str]:
         "explain why they were there and why they knew what to sing.")
     add("[NARRATOR] (calm) Matthew Henry set the scene against David's saying. The blind and the lame had been shut "
         "out of David's palace, and here they were received in God's house. The Temple, he said, was profaned when "
-        "it was made a market and honoured when it was made a hospital.")
+        "it was made a market and honoured when it was made a hospital. And he answers the crowd's question from the "
+        "day before, who is this, with the healings: Christ's works, he says, testified more than the hosannas.")
     add("[NARRATOR] (calm) One more thing from the Law. A blind descendant of Aaron could not serve at the altar, "
         "Leviticus says, though he was still fed from the holy offerings. So blind men had always been in the "
         "Temple, as priests' sons who could not serve and as beggars at the gates. What was new on this day was not "

@@ -34,7 +34,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* Blessed is the one who does not fall away on account of Me.”
 
-**Narrator** *(calm)* Are You the One who was to come, or should we look for someone else? That is the whole question. And Luke tells us what Jesus did before He answered a word. At that very hour He healed many, and gave sight to many who were blind. The messengers stood and watched it. Then He told them what to say.
+**Narrator** *(calm)* Are You the One who was to come, or should we look for someone else? That is the whole question. Henry offers three reasons John might have sent it: he wanted to be sure for himself; the long imprisonment had made him wonder why Jesus did not help him; or he sent his followers so that they would see for themselves and attach themselves to Jesus after he was gone. And Luke tells us what Jesus did before He answered a word. At that very hour He healed many, and gave sight to many who were blind. Henry takes the words literally: they stayed perhaps an hour, and in that hour saw enough. Then He told them what to say.
 
 ---
 

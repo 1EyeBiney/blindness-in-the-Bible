@@ -14,7 +14,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* First, where we are. Matthew chapter fifteen. Jesus has been away in the far north, in the region of Tyre and Sidon, where He healed a Gentile woman's daughter. Now He comes back toward the Sea of Galilee, goes up a mountain, and sits down. In the Gospels, when Jesus sits down on a mountain, something is about to happen.
+**Narrator** *(calm)* First, where we are. Matthew chapter fifteen. Jesus has been away in the far north, in the region of Tyre and Sidon, where He healed a Gentile woman's daughter. Now He comes back toward the Sea of Galilee, goes up a mountain, and sits down. Henry says He sat there like a host waiting to welcome guests, waiting to be gracious. In the Gospels, when Jesus sits down on a mountain, something is about to happen.
 
 **Narrator** *(calm)* Matthew chapter 15, verses 29 to 31.
 
@@ -80,7 +80,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* On that day he said, “Whoever attacks the Jebusites must use the water shaft to reach the lame and blind who are despised by David.” That is why it is said, “The blind and the lame will never enter the palace.”
 
-**Narrator** *(calm)* The Jebusites taunted David: even the blind and the lame could keep you out. David took the city anyway, and a saying grew up from the insult. The blind and the lame will never enter the palace. Some later teachers took it as a rule about who could come into the Temple. Whether it was ever enforced that way is argued. What is certain is that the saying was known in Jerusalem, and that Matthew, who knew his Scriptures, chose to tell us exactly who came into the Temple on this day.
+**Narrator** *(calm)* The Jebusites taunted David: even the blind and the lame could keep you out. David took the city anyway, and a saying grew up from the insult. The blind and the lame will never enter the palace. Henry notes that the blind and the lame in the Jebusites' taunt may even have meant their idols, and he is the one who reads the saying as a bar on blind and lame people entering the Temple. Our shelf has no rabbinic rule that says so, and we found none. What is certain is that the saying was remembered, and that Matthew, who knew his Scriptures, chose to tell us exactly who came into the Temple on this day.
 
 **Narrator** *(calm)* Matthew chapter twenty-one. Jesus has ridden into Jerusalem on a donkey to shouts of Hosanna. He goes straight to the Temple.
 
@@ -100,7 +100,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* As the traders are driven out, Edersheim pictures the blind and the lame coming in from the porches and the Temple Mount to be healed, and the children taking up the shout of Hosanna from the road. He guesses the children may have been sons of the Levites who sang in the Temple choir, which would explain why they were there and why they knew what to sing.
 
-**Narrator** *(calm)* Matthew Henry set the scene against David's saying. The blind and the lame had been shut out of David's palace, and here they were received in God's house. The Temple, he said, was profaned when it was made a market and honoured when it was made a hospital.
+**Narrator** *(calm)* Matthew Henry set the scene against David's saying. The blind and the lame had been shut out of David's palace, and here they were received in God's house. The Temple, he said, was profaned when it was made a market and honoured when it was made a hospital. And he answers the crowd's question from the day before, who is this, with the healings: Christ's works, he says, testified more than the hosannas.
 
 **Narrator** *(calm)* One more thing from the Law. A blind descendant of Aaron could not serve at the altar, Leviticus says, though he was still fed from the holy offerings. So blind men had always been in the Temple, as priests' sons who could not serve and as beggars at the gates. What was new on this day was not that they were present. It was that they were the point.
 

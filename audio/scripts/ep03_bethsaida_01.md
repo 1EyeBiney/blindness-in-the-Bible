@@ -52,13 +52,13 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* The place. Bethsaida means house of fish. It was a fishing town on the north shore of the Sea of Galilee, near where the Jordan runs in, and it was the home town of three of the twelve: Andrew, Peter and Philip. Philip the tetrarch, Herod's son, rebuilt it and renamed it Julias after the emperor's daughter, so in Jesus's day it was half village and half new Roman town.
+**Narrator** *(calm)* The place. Bethsaida means house of fish. It was a fishing town on the north shore of the Sea of Galilee, near where the Jordan runs in, and it was the home town of three of the twelve: Andrew, Peter and Philip. Philip the tetrarch, Herod's son, raised it to the rank of a city and renamed it Julias after a woman of the emperor's family, Josephus says his daughter, so in Jesus's day it was half fishing village and half new Roman town.
 
 **Narrator** *(calm)* Where exactly it stood is still argued. Archaeologists have dug two candidate ruins on that shore, and at both they have found fishing weights and the needles used for mending nets. Whichever ruin is right, the sounds would have been the same: water, boats being hauled, nets, gulls, and the particular silence of a lake in the early morning.
 
 **Narrator** *(calm)* Edersheim calls this the only gradual cure in the Gospels, and notes that saliva was a well known Jewish remedy for the eyes. From the man's words about trees he infers that the blindness was not from birth but came from disease. That inference is his, not the text's, though a man who knows what a tree looks like has seen one.
 
-**Narrator** *(calm)* Why did Jesus lead him out of the village? The text does not say. Matthew Henry suggests it was to teach us to be as Job was, eyes to the blind, by doing the leading Himself rather than leaving it to the man's friends. Edersheim connects it with the woes Jesus pronounced on Bethsaida, which Matthew records.
+**Narrator** *(calm)* Why did Jesus lead him out of the village? The text does not say. Matthew Henry points out that Jesus could have healed him privately in a house, so the walk out of town must mean something, and suggests two things: that Jesus did the leading Himself to teach us to be as Job was, eyes to the blind, and that Bethsaida had forfeited the sight of another miracle. Edersheim adds that the many steps, the leading, the saliva, the hands laid on twice, were there to rule out any idea of a magic cure; everything centred on the person doing it. And both of them connect the walk with the woes Jesus pronounced on Bethsaida, which Matthew records.
 
 **Narrator** *(calm)* Matthew chapter 11, verses 20 to 24.
 

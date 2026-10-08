@@ -57,7 +57,9 @@ def build(bible: dict) -> list[str]:
     add("[NARRATOR] (calm) Son of David. Matthew Henry notes that this was the common name for the Messiah, the "
         "King promised to David's line. These two were not calling a healer. They were naming who they believed He "
         "was, in the street, in a town where that was a dangerous thing to say. Henry pictures them following Him "
-        "through the streets as beggars did, with their incessant cries.")
+        "through the streets as beggars did, with their incessant cries. He also notices the pronoun. They did not each "
+        "say have mercy on me. They said have mercy on us. Two men in the same trouble, with one prayer between "
+        "them.")
     add("[NARRATOR] (calm) Where this happened is not certain. Edersheim places it on the way back into Capernaum, "
         "Jesus's home base on the north shore of the Sea of Galilee, a town of stone houses with flat roofs and "
         "narrow lanes running down to the water. The house would have been one of those: a courtyard, a doorway, a "
@@ -92,10 +94,12 @@ def build(bible: dict) -> list[str]:
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[2]}")
     add("[BREAK]")
 
-    add("[NARRATOR] (calm) Why did Jesus tell them sternly to keep quiet? Edersheim's reading is that a confession "
-        "as far-reaching as theirs, calling Him Son of David and able to open blind eyes with a touch, was not yet "
-        "to be shouted in public. The time for that would come, on a donkey, outside Jerusalem. That is his reading. "
-        "The men did not keep quiet. They went out and spread the news through all that land, which, if you have "
+    add("[NARRATOR] (calm) Why did Jesus tell them sternly to keep quiet? Henry lists four reasons the "
+        "commentators had offered: humility; a judgment on Capernaum, which had seen many miracles and not believed; "
+        "caution, because the rulers were growing jealous; and so as not to stir the crowds before the time. "
+        "Edersheim's reading is that a confession as far-reaching as theirs, calling Him Son of David and able to "
+        "open blind eyes with a touch, was not yet to be shouted in public. The time for that would come, on a "
+        "donkey, outside Jerusalem. The men did not keep quiet. They went out and spread the news through all that land, which, if you have "
         "ever been given back something you thought was gone for good, you will understand.")
     add("[NARRATOR] (calm) Matthew does not pause. In the very next verse, as those two are going out, another man "
         "is being brought in.")
@@ -113,9 +117,10 @@ def build(bible: dict) -> list[str]:
         "much later, when the charge that Jesus worked by the prince of demons had taken shape. That is why the man "
         "himself disappears from the story the moment he can speak.")
     add("[NARRATOR] (calm) A word about the word demon-possessed, since a blind listener may hear it with a wince. "
-        "Edersheim shows that the Gospels distinguish illness from possession; the lame and the blind are healed, "
-        "the possessed are delivered, and the two are listed separately again and again. This man is described as "
-        "both. The 1915 encyclopedia notes that in the ancient Near East eye disease was widely thought to be a "
+        "Edersheim points out that the Gospels do not actually use that phrase; they say demonised, and the phrase "
+        "possession comes from Josephus. He also shows that the Gospels keep illness and this condition apart: being "
+        "blind, deaf, mute or paralysed was not, on its own, called being demonised, and the two are listed "
+        "separately again and again. This man is described as both. The 1915 encyclopedia notes that in the ancient Near East eye disease was widely thought to be a "
         "divine infliction. Matthew, for his part, gives no cause for this man's blindness at all. He gives the "
         "result: he could speak and see.")
     add("[BREAK]")

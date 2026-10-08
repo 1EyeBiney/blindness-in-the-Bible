@@ -1,0 +1,1386 @@
+{
+ "bartimaeus": [
+  {
+   "text": "In Jesus's day there were two Jerichos. The old city of Joshua's time lay in ruins near the spring of Elisha, while the Jericho of the New Testament, rebuilt by Herod and his son Archelaus with palaces and gardens, stood a short distance away at the mouth of the Wady Kelt. So when the Gospels place the healing at Jericho, the reader should picture this newer, Herodian town.",
+   "source": "Smith's Bible Dictionary, entry 'Jericho'; International Standard Bible Encyclopaedia (1915), entry 'Jericho'; Wikipedia, 'Jericho'",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1200306,
+     "quote": "The site of ancient (the first) Jericho is placed by Dr. Robinson in the immediate neighborhood of the fountain of Elisha; and that of the second (the city of the New Testament and of Josephus) at the opening of the Wady Kelt (Cherith), half an hour from the fountain."
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 1851820,
+     "quote": "But the city which Herod rebuilt was on a higher elevation, at the base of the western mountain, probably at Beit Jubr, where there are the ruins of a small fort."
+    },
+    {
+     "file": "wikipedia_Jericho.wiki.txt",
+     "offset": 36385,
+     "quote": "The new site of Jericho was established as a garden city around the palaces, consisting of a group of low mounds on both banks of"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Smith's and the ISBE disagree on the exact spot of Herod's town (Wady Kelt mouth vs. Beit Jubr), and Easton's counts three different Jerichos (Joshua's, Herod's, the Crusaders')."
+  },
+  {
+   "text": "The three Gospels differ: Mark and Matthew say the healing happened as Jesus was leaving Jericho, Luke says as he came near it, and Matthew has two men where Mark names one. Henry points out that Luke's wording, 'when he was near to Jericho', could cover leaving as well as arriving, and that if there were two men, there was still the one Mark names. Edersheim says the one-versus-two difference is probably because Bartimaeus was the spokesman, and openly admits we cannot neatly settle the going-out versus coming-in difference.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comments on Luke 18:35-43 and Mark 10:46-52; Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XXIV",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 4573613,
+     "quote": "Luke says it was en to eggizein auton--when he was near to Jericho, which might be when he was going out of it as well as when he was coming into it."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 3087223,
+     "quote": "Only that there were told of two blind men; here, and Luke xviii. 35, only of one: but if there were two, there was one."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3150195,
+     "quote": "it is better to admit our inability to conciliate these differing notes of time, than to make clumsy attempts at harmonising them."
+    }
+   ],
+   "confidence": "high",
+   "caution": "No source on the shelf uses an 'old Jericho / new Jericho' pair to explain the Gospel differences; that link is only implied by Smith's two sites. Henry and Edersheim give other explanations."
+  },
+  {
+   "text": "The road from Jericho to Jerusalem was a long desert road through rocky hills where robbers hid. Edersheim, writing of the Good Samaritan parable, puts it at twenty-one miles and calls the district notoriously unsafe, while the ISBE gives about 17 miles and says Jericho was the meeting place for Galilean pilgrims avoiding Samaria. Jericho itself lay in a hot, deep valley, about 1,200 feet below sea level by Easton's reckoning, so the journey to Jerusalem was a steady climb.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XV (Good Samaritan); International Standard Bible Encyclopaedia (1915), entry 'Jericho'; Easton's Bible Dictionary, entry 'Jericho'",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2809564,
+     "quote": "pursuing the solitary desert-road, those twenty-one miles to Jericho, a district notoriously insecure"
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 1852014,
+     "quote": "Jericho was the place of rendezvous for Galilean pilgrims desiring to avoid Samaria, both in going to and in departing from Jems"
+    },
+    {
+     "file": "easton_ebd.txt",
+     "offset": 1550240,
+     "quote": "This is accounted for by the depression of the plain, which is about 1,200 feet below the level of the sea."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The distances disagree between authors (17 vs 21 miles; Edersheim elsewhere says about six hours' journey). Jerusalem's own height is not given in these older sources."
+  },
+  {
+   "text": "Jericho was the last stop for pilgrims heading up to Jerusalem for the festival. Edersheim calls it the last station on the road of the festive pilgrims from Galilee and Perea, and describes a busy, mixed crowd in its streets: pilgrims, priests, traders and tax collectors. The Passover was close, so the blind man's roadside spot meant a great many travellers passing by.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XXIV, and Book III, chapter XXIX",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3136998,
+     "quote": "it formed the last station' on the road of the festive pilgrims from Galilee and Per"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3138789,
+     "quote": "And in the streets of Jericho a motley throng meets: pilgrims from Galilee and Per"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2074670,
+     "quote": "most of them were Passover-pilgrims on their way to Jerusalem"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Blind people who could not earn a living commonly sat by the road and begged, and a road crowded with pilgrims was a good place to do it. Henry notes that these men sat by the roadside 'as blind beggars used to do', and that Christ gave a kind look to a common beggar. Henry also holds that people disabled by God's providence are the proper objects of charity.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comments on Matthew 20:29-34, Mark 10:46-52 and Luke 18:35-43",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1740880,
+     "quote": "These blind men were sitting by the way-side, as blind beggars used to do."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 4574398,
+     "quote": "Christ here cast a favourable eye upon a common beggar"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 3087866,
+     "quote": "who by the providence of God are disabled to get a livelihood by their own labour"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's remark that a blind man could not work for his living reflects his own era's view; use it as a description of what he thought, not as a fact about all blind people in the first century."
+  },
+  {
+   "text": "When Jesus called him, Bartimaeus threw off his cloak and came. Henry calls it his loose upper garment, and Edersheim says he 'casts aside his upper garment and hastily comes'. Edersheim also explains elsewhere that the upper garment was a real and fairly costly piece of clothing (he gives 12 denarii as a common price), so it was probably among the few things a poor man owned.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Mark 10:46-52; Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XXIV, and Book III, chapter XXVI (footnote on garments)",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 3089506,
+     "quote": "He cast away his loose upper garment, and came to Jesus"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3153024,
+     "quote": "he casts aside his upper garment and hastily comes"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1945269,
+     "quote": "The more common price, however, seems to have been 12 dinars, or about 7s. 6d."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The Greek word himation does not appear on the shelf, and the 'poor man's main possession' point is an inference, not stated by Edersheim or Henry."
+  },
+  {
+   "text": "'Son of David' was a title for the promised Messiah, the king from David's line. Henry says the promise to David was well known, so the Messiah was commonly called the Son of David. Edersheim says that, coming from Jewish lips in Jericho, the cry carried a deep meaning, and Wikipedia notes that Mark uses the title only here and that it identifies Jesus as the Messiah.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 9:27-31; Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XXIV; Wikipedia, 'Healing the blind near Jericho'",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 769749,
+     "quote": "The promise made to David, that of his loins the Messiah should come, was well known, and the Messiah was therefore commonly called the Son of David."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3151835,
+     "quote": "in the deep significance of that special mode of address, as coming from Jewish lips"
+    },
+    {
+     "file": "wikipedia_Healing_the_blind_near_Jericho.wiki.txt",
+     "offset": 2138,
+     "quote": "serves to identify Jesus as the Messiah"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "The name Bartimaeus means 'son of Timaeus', from Aramaic bar, 'son', and a Greek name. Henry notes that Mark names him because he was a well-known, much talked-of beggar, and guesses the name might mean 'son of a blind man'. The ISBE calls it a mixed Aramaic-Greek word and rejects an allegorical reading. Wikipedia notes he is one of the few people healed in the Gospels whose name is given.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Mark 10:46-52; International Standard Bible Encyclopaedia (1915), entry 'Bartimaeus'; Wikipedia, 'Healing the blind near Jericho'",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 3087423,
+     "quote": "he was called Bartimeus, that is, the son of Timeus"
+    },
+    {
+     "file": "isbe_1915_vol1.txt",
+     "offset": 3334747,
+     "quote": "A hybrid word from Aram. bar"
+    },
+    {
+     "file": "wikipedia_Healing_the_blind_near_Jericho.wiki.txt",
+     "offset": 1242,
+     "quote": "He is one of the few recipients of healing whose name is provided in the Gospels."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's guess that the name means 'son of a blind man' is speculation."
+  },
+  {
+   "text": "Edersheim retells the scene: the crowd was following Jesus, the blind men sat begging by the roadside, and when they heard the tramp of many feet and learned that Jesus of Nazareth was passing, they cried out. Some in the crowd wanted them quiet, but the cry only grew louder. Jesus stopped and had the blind man called, and the same people then comforted him with the words 'He calleth thee'.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XXIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3151536,
+     "quote": "As they heard the tramp of many feet and the sound of many voices, they learned that Jesus of Nazareth was passing by."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3152556,
+     "quote": "He stood still, and commanded the blind to be called."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3152777,
+     "quote": "they comforted the blind in the agony of rising despair with the words, He calleth thee."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Both Henry and Edersheim stress Jesus's question 'What do you want me to do for you?' Henry says that although Christ knows our needs, he wants to hear them from us, and that being specific teaches us to value the mercy we ask for. Edersheim thinks the question was partly for the crowd, because the cry so far had only asked for mercy. The man's answer was a request for sight.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comments on Luke 18:35-43 and Mark 10:46-52; Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XXIV",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 4577004,
+     "quote": "Though Christ knows all our wants, he will know them from us (v. 41): What wilt thou that I shall do unto thee?"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3153079,
+     "quote": "That question: what he would that Jesus should do unto him, must have been meant for those around more than for the blind."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 3089998,
+     "quote": "The particular favour he begged, was, that his eyes might be opened; that so he might be able to work for his living"
+    }
+   ],
+   "confidence": "high",
+   "caution": "'See again' as a Greek word (anablepo) is not discussed on the shelf; Henry says 'receive my sight' and 'opened'. Henry's comment about earning bread reflects his era's attitudes."
+  },
+  {
+   "text": "After the healing Bartimaeus did not simply go home. Edersheim writes that he immediately received his sight and followed Jesus on the way, glorifying God, and that all the people praised God when they saw it. Edersheim calls this a kind of disobedience that is really the obedience of the spirit over the letter.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book IV, chapter XXIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3154031,
+     "quote": "all the people, when they saw it gave praise unto God"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3154157,
+     "quote": "yet, immediately he received his sight,' he followed Jesus in the way,' glorifying God."
+    }
+   ],
+   "confidence": "high"
+  }
+ ],
+ "bethsaida": [
+  {
+   "text": "Bethsaida means 'house of fishing' and was a fishing village at the north end of the Sea of Galilee, near where the Jordan flows into the lake. Wikipedia gives the Hebrew and Aramaic meaning as 'House of Fishing, or House of the Hunt', and Smith's gives 'house of fish'.",
+   "source": "Wikipedia, 'Bethsaida'; Smith's Bible Dictionary, entry 'Bethsaida'",
+   "evidence": [
+    {
+     "file": "wikipedia_Bethsaida.wiki.txt",
+     "offset": 607,
+     "quote": "House of Fishing, or House of the Hunt"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 359736,
+     "quote": "Bethsaida (house of fish) of Galilee"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Philip the tetrarch ruled the district east of the Jordan, and Josephus says he promoted the village of Bethsaida by the lake to the status of a city and renamed it Julias after the emperor's daughter. Smith's adds that the village straddled the Jordan, with the western part in Galilee and the eastern part in Gaulonitis within Philip's territory, and that Philip built the eastern part up into a beautiful city.",
+   "source": "Josephus, Antiquities of the Jews, Book XVIII, chapter 2; Smith's Bible Dictionary, entry 'Bethsaida'",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 2629717,
+     "quote": "He also advanced the village Bethsaida, situate at the lake of Gennesareth, unto the dignity of a city"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 360412,
+     "quote": "The fact is that Bethsaida was a village on both sides of the Jordan as it enters the sea of Galilee on the north"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 360694,
+     "quote": "This eastern portion was built up into a beautiful city by Herod Philip"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Josephus says here that Julias was named for the emperor's daughter, while Wikipedia says for Livia (Augustus's wife); the sources disagree on the namesake."
+  },
+  {
+   "text": "Nobody today knows for sure exactly where Bethsaida stood. Wikipedia says three sites are candidates, with el-Araj now favoured because of recent discoveries such as a Roman bathhouse, and et-Tell displaced as the front-runner. The et-Tell site is about 2 km from the shore, which raises the problem of calling it a fishing village.",
+   "source": "Wikipedia, 'Bethsaida'",
+   "evidence": [
+    {
+     "file": "wikipedia_Bethsaida.wiki.txt",
+     "offset": 5637,
+     "quote": "The location of ancient Bethsaida or Julias has not been positively identified by modern researchers"
+    },
+    {
+     "file": "wikipedia_Bethsaida.wiki.txt",
+     "offset": 5786,
+     "quote": "being lately favoured due to the most recent discoveries"
+    },
+    {
+     "file": "wikipedia_Bethsaida.wiki.txt",
+     "offset": 19690,
+     "quote": "However, this distance poses a problem"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Archaeological identification is still disputed; do not state a single confirmed site."
+  },
+  {
+   "text": "Peter, Andrew and Philip came from Bethsaida. Smith's says it was the native place of Andrew, Peter and Philip. Henry adds that Christ took at least three of his apostles out of it, so the town was highly favoured, yet it still fell under his woe.",
+   "source": "Smith's Bible Dictionary, entry 'Bethsaida'; Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 11:20-24",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 359797,
+     "quote": "a city which was the native place of Andrew, Peter and Philip"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 952680,
+     "quote": "out of it Christ took at least three of his apostles: thus highly were these places favoured!"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Jesus pronounced woes on Chorazin and Bethsaida for not repenting after the miracles done there. Henry says Bethsaida had been honoured with miracles and with three apostles, yet fell under the woe and soon dwindled into an obscure village. He suggests Jesus led the blind man out of the village partly to show the town it was no longer worthy of more miracles.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comments on Matthew 11:20-24 and Mark 8:22-26",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 952261,
+     "quote": "Woe unto thee, Chorazin, woe unto thee, Bethsaida."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 2964259,
+     "quote": "he intended hereby to upbraid Bethsaida with the mighty works that had in vain been done in her"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's reading of why Jesus led the man out is his own inference; he gives a second, practical reason (a wider view to test the man's sight)."
+  },
+  {
+   "text": "Mark says Jesus took the blind man by the hand and led him out of the village before healing him. Henry notes that Jesus himself led the man and could have healed him privately in a house, so the walk out of town means something. He offers two reasons: a rebuke to Bethsaida, and that the open fields gave a longer view to test the man's sight.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Mark 8:22-26",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 2963852,
+     "quote": "He did not bid his friends lead him, but (which bespeaks his wonderful condescension) he himself took him by the hand, and led him"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 2964469,
+     "quote": "Perhaps Christ took the blind man out of the town, that he might have a larger prospect in the open fields"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Jesus used spittle and touch with this man. Edersheim says saliva was a well-known remedy for the eyes, and that the many steps were meant to rule out any idea of a magical cure, since everything centred on the person of Jesus. Henry says the spittle and touch were signs that helped the man's weak faith, and that the spittle pictured the eye-salve Christ gives.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXXIV; Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Mark 8:22-26",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2255617,
+     "quote": "We may here recall, that the use of saliva was a well-known Jewish remedy for affections of the eyes."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2255370,
+     "quote": "to disabuse the man of any idea of magical cure"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 2964975,
+     "quote": "He could have cured him, as he did others, with a word speaking, but thus he was pleased to assist his faith which was very weak"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "This is the only miracle in the Gospels done in two stages. Edersheim calls it the only instance of a gradual cure. Henry says the man saw men 'as trees walking', able to tell them from trees only by their movement, and that Christ never leaves his work half done.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXXIV; Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Mark 8:22-26",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2255178,
+     "quote": "this is the only instance in which a miraculous cure was performed gradually, and not at once and completely"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 2965593,
+     "quote": "I see men as trees walking; he could not distinguish men from trees, otherwise than he could discern them to move."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 2965905,
+     "quote": "Christ never doeth his work by the halves"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Edersheim thinks the man's blindness was not from birth but the result of disease; the Gospel text does not say this."
+  },
+  {
+   "text": "Edersheim places this healing in the largely non-Jewish region east of the lake and takes the man to have been a Gentile. He notes the same direct use of saliva here and in the healing of the deaf man, and that silence was ordered afterward in both. He says the blurred sight at first teaches a spiritual lesson.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXXIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2254539,
+     "quote": "It was in Bethsaida-Julias, that one blind was brought unto Him, with the entreaty that He would touch him"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2249662,
+     "quote": "We read of the direct application of saliva only here and in the healing of the blind man at Bethsaida."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2256748,
+     "quote": "the confusedness of his sight, when first restored to him, surely conveyed"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim's view that the man was a Gentile is his own inference ('as we infer')."
+  },
+  {
+   "text": "Henry connects Bethsaida with the feeding of the multitude: Jesus and the disciples withdrew by ship to the 'desert of Bethsaida' while the crowd followed on foot. That places the town at the edge of open, thinly settled country by the lake.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Mark 6:30-44",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 2889139,
+     "quote": "They withdrew, accordingly, by ship; not crossing the water, but making a coasting voyage to the desert of Bethsaida"
+    }
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "two-blind-men": [
+  {
+   "text": "Capernaum was a lakeside town with its own synagogue and a customs post, and Jesus had a base there. Smith's says Mark 2:1 speaks of him being 'in the house' when he returned. Edersheim pictures Peter's house as a good middle-class home with a courtyard and a covered gallery round it, large enough that a crowd filled the court and spilled into the street.",
+   "source": "Smith's Bible Dictionary, entry 'Capernaum'; Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XVI",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 419899,
+     "quote": "It was when he returned thither that he is said to have been \"in the house.\""
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1561009,
+     "quote": "We regard it as one of the better dwellings of the middle classes."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1561208,
+     "quote": "the covered gallery that ran round the courtyard of such houses, and opened into the various apartments"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Edersheim describes Peter's house in the paralytic story, not in the story of the two blind men. Matthew 9:28 only says 'the house' without naming it."
+  },
+  {
+   "text": "The two blind men followed Jesus through the streets, calling out as he walked. Henry says he was returning from the ruler's house to his own lodgings, and they followed him 'as beggars do' with their steady cries, and that they announced in the streets of Capernaum that the promised Messiah had come. He suggests Jesus did not stop at first, to test their faith.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 9:27-34",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 769320,
+     "quote": "He was returning from the ruler's house to his own lodgings, and these blind men followed him, as beggars do, with their incessant cries"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 769971,
+     "quote": "these blind men know, and own, and proclaim it in the streets of Capernaum, that he is come, and that this is he"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 771400,
+     "quote": "It seems, he did not take notice of them at first, for he would try their faith, which he knew to be strong"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "The cry 'Son of David, have mercy on us' is the first time in Matthew's Gospel that anyone calls out this royal title to Jesus in need. Henry explains that the Messiah was commonly called the Son of David because of God's promise to David. Edersheim notes that at this point Jesus had hardly been hailed as Messiah except by his closest followers, and he thinks the title would be especially natural on the lips of non-Jews living in the land.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 9:27-31; Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXXIV",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 769749,
+     "quote": "The promise made to David, that of his loins the Messiah should come, was well known, and the Messiah was therefore commonly called the Son of David."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2258157,
+     "quote": "Besides, Jesus had not as yet been hailed as the Messiah, except by His most intimate disciples"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2258636,
+     "quote": "On the other hand, we can understand, how to Gentiles, who resided in Palestine, the Messiah of Israel would chiefly stand out as the Son of David."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "'First time in Matthew' is the writer's own reading of the Gospel text, not a claim made by Henry or Edersheim. Edersheim assigns this story to the Gentile region east of the lake in this chapter but to the road back to Capernaum in chapter XXII, so his own placement of it is not settled."
+  },
+  {
+   "text": "The two men shared one prayer. Henry notes that they did not each say 'have mercy on me' but both said 'have mercy on us', and takes this as a picture of people in the same trouble praying together. He adds that they followed Jesus and even pushed into the house after him, and were welcomed rather than blamed.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 9:27-34",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 771030,
+     "quote": "They did not each of them say for himself, Have mercy on me, but both for one another, Have mercy on us."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 772186,
+     "quote": "it seemed rude in them to rush into the house after him, when he desired to retire; but, such is the tenderness of our Lord Jesus, that they were not more bold than welcome"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Once indoors, Jesus asked them directly, 'Do you believe that I am able to do this?' and they answered, 'Yes, Lord.' Henry says faith is the main condition of Christ's favours, and that Jesus asked about their faith, not their money or reputation, before he touched their eyes.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 9:27-34",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 772541,
+     "quote": "Note, Faith is the great condition of Christ's favours."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 775249,
+     "quote": "He did not enquire into their wealth, whether they were able to pay him for a cure; nor into their reputation, should he get credit by curing them; but into their faith"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "'According to your faith be it done to you' was the word Jesus spoke as he touched their eyes. Henry reads it as Jesus both recognising their faith and treating faith as the thing that matters: people are dealt with according to their faith, not their fancies or their profession. He says the touch was meant to encourage their faith.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 9:27-34",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 768218,
+     "quote": "Then touched he their eyes, saying, According to your faith be it unto you."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 776076,
+     "quote": "Note, They who apply themselves to Jesus Christ, shall be dealt with according to their faith; not according to their fancies, nor according to their profession, but according to their faith"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Jesus sternly told them to tell no one, and Henry lists four reasons given by commentators: humility, a judgment on Capernaum which had seen many miracles and not believed, caution because the rulers were growing jealous, and to avoid feeding the idea that the Messiah would be an earthly prince who might provoke an uprising. Henry says the men's spreading the news was zeal rather than wisdom, and could not be justified because it went against a direct charge.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 9:27-34",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 776603,
+     "quote": "The charge he gave them to keep it private (v. 30), See that no man know it."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 777595,
+     "quote": "He did it in discretion, for his own preservation; because the more he was proclaimed, the more jealous would the rulers of the Jews be of his growing interest among the people."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 778770,
+     "quote": "This was more an act of zeal, than of prudence"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Edersheim reads the silence order differently: the men's faith was so complete that it needed no public advertising, and proclaiming it would only draw crowds who could not understand it and whose noisy acclaim would hinder the work. He notes the only other time Jesus insisted on silence in the same way was with the leper who also showed absolute faith, and that in both cases Jesus healed by touch.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXXIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2260885,
+     "quote": "It would, and in point of fact did, bring to Him crowds which, unable spiritually to understand the meaning of such a confession, would only embarrass and hinder"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2259480,
+     "quote": "Only on one other occasion do we read of the same insistence."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim describes Jewish crowds in sweeping terms; also see flag on his general comments about Jewish crowds in the same paragraph."
+  },
+  {
+   "text": "Where and when did this happen? Edersheim gives two places in different chapters: once on the return journey to Capernaum from the borders of Galilee, probably not far from Capernaum, and once as the third of a group of miracles in the largely non-Jewish region east of the lake. He says Matthew arranges his Gospel by theme rather than by date.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapters XXII and XXXIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1768080,
+     "quote": "It was on this return-journey to Capernaum, probably not far from the latter place, that the two blind men had their sight restored."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2257051,
+     "quote": "But we have learned enough of the structure of the First Gospel to know, that its arrangement is determined by the plan of the writer rather than by the chronological succession of events."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim is inconsistent with himself on the setting (book III, chapter XXII vs. chapter XXXIV). Use Capernaum as the setting from Matthew's own text and Henry, and treat Edersheim's Gentile-region view as his hypothesis."
+  },
+  {
+   "text": "Wikipedia notes that Matthew has two unnamed blind men in this story and in the Jericho story, where Mark and Luke have one, and says Matthew tends to double figures. It also says that in Matthew 9 Jesus asks the men whether they believe he can cure them, commends their faith, touches their eyes, and warns them to tell no one, but they spread the news throughout the district.",
+   "source": "Wikipedia, 'Healing the blind near Jericho'",
+   "evidence": [
+    {
+     "file": "wikipedia_Healing_the_blind_near_Jericho.wiki.txt",
+     "offset": 3225,
+     "quote": "as the gospel tends to double where other gospels present one figure"
+    },
+    {
+     "file": "wikipedia_Healing_the_blind_near_Jericho.wiki.txt",
+     "offset": 3999,
+     "quote": "He warns them to tell nobody of this, but they go and spread the news throughout the district."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "'Matthew tends to double figures' is a modern scholarly view reported by Wikipedia, not a view of Henry or Edersheim."
+  }
+ ],
+ "blind-and-mute-man": [
+  {
+   "text": "In Matthew 12 a man is brought to Jesus who is both blind and unable to speak, and he is healed so that he both spoke and saw. Henry describes the man as unable to see to help himself and unable to speak to ask others for help, and reads the cure as Christ undoing Satan's hold.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 12:22-37",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1023163,
+     "quote": "Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1025995,
+     "quote": "he could neither see to help himself, nor speak to others to help him"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry also uses the man as a picture of a soul 'blind in the things of God' under Satan, a spiritual-blindness comparison the episode should not repeat as a statement about blind people."
+  },
+  {
+   "text": "The crowd's reaction was to ask, 'Is this not the Son of David?' Henry says it could be a real question or a yes, and notes that the common people reached the conclusion while the Pharisees did not, because they were less tied to worldly interests. The title is the same one the blind men used in Matthew 9, and the people hear it in the healing.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 12:22-37",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1027064,
+     "quote": "They inferred from it, \"Is not this the Son of David? The Messiah promised, that was to spring from the loins of David?"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1028127,
+     "quote": "they were less prejudiced and biassed by worldly interest"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Faced with a healing they could not deny, the Pharisees said Jesus cast out demons by the prince of demons. Edersheim explains that they regarded Jesus as permanently possessed by a demon, Beelzebub, so in their view the miracles were Satan's work, and he adds a point about the name Beelzebul: it may also be a play on the word for the Temple, 'Master of the Temple'.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapters XXII and XXVII; Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 9:32-34",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1773282,
+     "quote": "They regarded Jesus, as not only temporarily, but permanently, possessed by a demon, that is, as the constant vehicle of Satanic influence."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1984676,
+     "quote": "Zebhul, ({hebrew}) means in Rabbinic language, not any ordinary dwelling, but specifically the Temple"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 781974,
+     "quote": "When they could not gainsay the convincing evidence of these miracles, they fathered them upon the devil"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Edersheim's language about the Pharisees and 'Rabbinism' in the surrounding paragraphs is prejudiced; use only his explanation of the accusation. Henry's Pharisee comments are likewise harsh."
+  },
+  {
+   "text": "Edersheim separates the two similar stories: the healing of the dumb demonised man in Matthew 9:32-35 and the later one in Matthew 12:22-32 and Luke 11:14-26. He says the later one came when the opposition of the Pharisees had grown much larger and Jesus spoke more strongly against them.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXII",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1768383,
+     "quote": "This narrative must, of course, not be confounded with the somewhat similar event told in St. Matt. xii. 22-32, and in St. Luke xi. 14-26."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1768528,
+     "quote": "The latter occurred at a much later period in our Lord's life"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "The Gospels speak of 'demonised' people rather than of 'demon possession', and Edersheim says that phrase comes from Josephus, not the New Testament. He argues that Jesus and the Evangelists shared the same view of this phenomenon, and that the Gospel writers did not describe every illness that way.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1496403,
+     "quote": "The term demoniacal possession' occurs not in the New Testament. We owe it to Josephus"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1500371,
+     "quote": "it is evident that all physical, or even mental distempers of the same class were not ascribed to the same cause: some might be natural, while others were demoniacal"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "How did people tell illness from possession? Edersheim notes that being dumb, deaf or paralysed was not on its own called being 'demonised', so some such conditions were treated as natural. He thinks the demonised had violent symptoms, often attributed to the nervous system, and that neither the New Testament nor Rabbinic writing teaches a permanent indwelling. He also writes that personal faith did not seem to be needed for healing.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1500279,
+     "quote": "as all who were dumb, deaf, or paralysed would not have been described as demonised,' it is evident"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1501838,
+     "quote": "Neither the New Testament, nor even Rabbinic literature, conveys the idea of permanent demoniac indwelling"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1500104,
+     "quote": "personal faith does not seem to have been a requisite condition of healing"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Edersheim's medical explanation (nervous system, a mesmerism comparison) is a nineteenth-century theory and should not be presented as established."
+  },
+  {
+   "text": "Josephus shows how a first-century Jew spoke of such conditions. He says 'strange and demoniacal disorders' came upon King Saul, bringing on suffocations, and that the doctors advised music to charm these passions. Later, Jonathan says that David had cast out the evil spirit and demons that seized Saul.",
+   "source": "Josephus, Antiquities of the Jews, Book VI, chapters 8 and 11",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 823608,
+     "quote": "some strange and demoniacal disorders came upon him, and brought upon him such suffocations as were ready to choke him"
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 841696,
+     "quote": "when an evil spirit and demons had seized upon thee, he cast them out, and procured rest to thy soul from their incursions"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Josephus writes about Saul, not a blind or mute person; it is shown only for the wording of demon language in the period."
+  },
+  {
+   "text": "Matthew pairs a healing of two blind men with the healing of a mute man in the same short passage, and Henry says it shows how many kinds of affliction there are, and that we should be thankful for our sight and speech. He adds that it was better he be unable to speak than be forced to speak as the demoniacs did.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 9:27-34",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 779440,
+     "quote": "We have no sooner dismissed two blind men, but we meet with a dumb man."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 779515,
+     "quote": "How thankful should we be to God for our sight and speech!"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's remarks that this was a 'sad case' and that sighted people should be thankful for their sight reflect his era's attitudes about disability; do not repeat as fact."
+  },
+  {
+   "text": "In Matthew 12:25 and following, Jesus answers the charge, and Edersheim says that to the Pharisees, healing and exorcism were not themselves proof of anything, because they believed such cures were done by their own people too; the question for them was by what power Jesus did them. Edersheim says that is why they could believe in the miracles and still deny that he was the Christ.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXII",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1772622,
+     "quote": "They could believe in the miracles,' and yet not in the Christ."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1772689,
+     "quote": "To them the question would not be, as to us, whether they were miracles - but, By what power, or in what Name, He did these deeds?"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "This is Edersheim's account of Pharisaic reasoning, written from outside; he judges them harshly nearby."
+  },
+  {
+   "text": "When the demon is cast out, the effect ends at once. Henry reads the healing as Christ's mercy standing opposite to Satan's malice: the eyes are opened to see God's glory and the lips to speak his praise. Henry also contrasts the wonder of the ordinary people with the jealousy of the Pharisees, whom he says were annoyed at the people's praise more than at the miracle.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 12:22-37",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1026469,
+     "quote": "And the cause being removed, immediately the effect ceased; the blind and dumb both spake and saw."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1029157,
+     "quote": "they were extremely irritated, more at that than at the miracle itself"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's spiritual reading (blindness as the soul under Satan) is a metaphor, not a description of blind people."
+  }
+ ],
+ "the-temple": [
+  {
+   "text": "In Matthew 21 the blind and the lame come to Jesus in the temple right after he drives out the buyers and sellers. Edersheim says that as the traffickers were driven out and Jesus taught, the blind and the lame flocked in from the porches and the Temple Mount to be healed. Henry says that after Jesus had cleared out the buyers and sellers he invited the blind and lame in.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book V, chapter II; Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 21:12-17",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3209720,
+     "quote": "there flocked in from porches and Temple-Mount the poor sufferers - the blind and the lame - to get healing to body and soul"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1779616,
+     "quote": "When he had driven the buyers and sellers out of the temple, he invited the blind and lame into it"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Edersheim's phrase 'poor sufferers' is his own wording."
+  },
+  {
+   "text": "The courts of the Temple were not all open to everyone. The outermost court, the Court of the Gentiles, was where the money-changers sat and where sacrificial animals were sold, which is the area Jesus cleansed. Wikipedia says the Court of the Gentiles was primarily a market with vendors selling souvenirs, sacrificial animals and food. The Gospel does not say which court the blind and lame entered, but the outer courts and porches are where Edersheim places them.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book II, chapter I and Book V, chapter II; Wikipedia, 'Second Temple'",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 399170,
+     "quote": "In the Court of the Gentiles (or in its porches) sat the official money-changers"
+    },
+    {
+     "file": "wikipedia_Second_Temple.wiki.txt",
+     "offset": 38914,
+     "quote": "with vendors selling souvenirs, sacrificial animals, food"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3209720,
+     "quote": "there flocked in from porches and Temple-Mount"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The shelf does not say which court the blind could enter; this is an inference from where the market and the cleansing were."
+  },
+  {
+   "text": "There is an old story behind the phrase 'the blind and the lame'. In 2 Samuel 5, the Jebusites taunted David, saying he could not enter their city unless he took away the blind and the lame, and the text records that they then said the blind and the lame shall not come into the house. Henry explains it as a boast that even blind and lame defenders would keep David out, or a sneer at their idols.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 2, comment on 2 Samuel 5:6-10; International Standard Bible Encyclopaedia (1915), entry 'Lame'",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 2664926,
+     "quote": "Wherefore they said, The blind and the lame shall not come into the house."
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 2666498,
+     "quote": "which David, in contempt, had called the blind and the lame, for they have eyes and see not, feet and walk not"
+    },
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 3877552,
+     "quote": "In 2 S 5 6 it was a taunt on the part of the Jebusites that even a garrison of cripples would suffice to keep out the Israelites."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry notes the 'blind and lame' here may mean the Jebusites' idols or their defenders, not disabled people at all. The ISBE says David's phrase 'hated of David's soul' is mocking, aimed at the Jebusites."
+  },
+  {
+   "text": "Henry draws the contrast: the blind and the lame were kept away from David's palace in the saying from 2 Samuel, but were welcomed into God's house. He says the Temple's honour does not lie in the splendour of a prince's palace; it was dishonoured when made a market-place and honoured when it became a place of healing, like a hospital.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 21:12-17",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1780169,
+     "quote": "The blind and the lame were debarred David's palace (2 Sam. v. 8), but were admitted into God's house"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1780521,
+     "quote": "The temple was profane and abused when it was made a market-place, but it was graced and honoured when it was made an hospital"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's reading of 2 Samuel 5:8 as a rule barring blind and lame people from the palace is an interpretation of an obscure verse."
+  },
+  {
+   "text": "The Law's rule about bodily blemishes in Leviticus 21 applied to priests who served at the altar, not to ordinary worshippers. Henry says a priest who was blind or otherwise blemished could still eat the holy food with the other priests but could not serve at the altar or burn incense. Wikipedia likewise says a priest could be disqualified from serving by certain physical blemishes. The shelf contains no rule that barred blind or lame worshippers from the Temple courts.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 1, comment on Leviticus 21:16-24; Wikipedia, 'Kohen'",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 3042785,
+     "quote": "Yet they must not serve at the altar, at either of the altars, nor be admitted to attend or assist the other priests in offering sacrifice or burning incense"
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 3042653,
+     "quote": "Note, None must be abused for their natural infirmities."
+    },
+    {
+     "file": "wikipedia_Kohen.wiki.txt",
+     "offset": 20950,
+     "quote": "prohibited marriages, and certain physical blemishes"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry also says God wanted only 'sightly' servants for the credit of the sanctuary, which treats disability as a defect of appearance; do not repeat. No passage on the shelf states a rabbinic rule excluding blind people from the Temple."
+  },
+  {
+   "text": "After the healings, children were in the temple shouting 'Hosanna to the Son of David', which angered the chief priests and scribes. Edersheim says it rang through the courts and porches of the Temple, and that the boys had seen the healed people and took up the welcome from the day before. Henry notes the children learned the cry from the adults and that Christ took the children's part against the priests.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book V, chapters I and II; Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 21:12-17",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3210280,
+     "quote": "It rang through the courts and porches of the Temple, this Children's Hosanna."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1783006,
+     "quote": "They were there crying Hosanna to the Son of David."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3181166,
+     "quote": "the Hosanna,' [5061] or Save now,'"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Edersheim's footnote mark [5061] appears in the quote as in the raw text."
+  },
+  {
+   "text": "Matthew 21:14 is the only action in the temple that Matthew records for the day of the cleansing besides the children's praise. The ISBE says no other incidents are recorded of this visit except the healing of certain blind and lame people and the praises of the children, which echoed the previous day's welcome.",
+   "source": "International Standard Bible Encyclopaedia (1915), entry 'Jesus Christ'",
+   "evidence": [
+    {
+     "file": "isbe_1915_vol3.txt",
+     "offset": 2383629,
+     "quote": "No other incidents are recorded of this visit, to the temple, except the healing of certain blind and lame, and the praises of the children"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Edersheim sets the Temple healing at the end of Jesus's work, when he had entered Jerusalem as King. He says this second cleansing was a symbolic judgment, unlike the first, and that the purified House became the scene of his teaching, fulfilling the promise of a House of Prayer for all nations, with the healed blind and lame as part of that picture.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book V, chapter II",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3208147,
+     "quote": "At the first it had been for teaching and warning, now it was in symbolic judgment"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 3209553,
+     "quote": "thus truly realising the prophetic promise of a House of Prayer for all the nations"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "This is Edersheim's reading of the two cleansings; he writes sharply about the Temple authorities in the same paragraph."
+  },
+  {
+   "text": "The healing in the temple answered the question the crowds asked the day before about who Jesus was. Henry says Christ's healing was a real answer to the question 'Who is this?', and that his works testified more than the hosannas. He also says the healing fulfilled the promise that the glory of the latter house would be greater than the former.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 21:12-17",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1780766,
+     "quote": "Christ's healing was a real answer to that question, Who is this? His works testified of him more than the hosannas"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1780923,
+     "quote": "the fulfilling of the promise, that the glory of the latter house should be greater than the glory of the former"
+    }
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "crowds-by-the-sea": [
+  {
+   "text": "After going to the region of Tyre and Sidon, Jesus came back along the Sea of Galilee. Edersheim traces the route: out through Sidon's territory, down into the land of Philip, then through the middle of the Decapolis region to the eastern or south-eastern shore of the lake. Henry says he sat down on a mountain by the sea, not on a throne, so that all could reach him.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXXIV; Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 15:29-39",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2246580,
+     "quote": "Making a long circuit through the territory of Sidon"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2246760,
+     "quote": "Thence He continued through the midst of the borders of Decapolis,' till He once more reached the eastern, or south-eastern, shore of the Lake of Galilee."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1332194,
+     "quote": "He sat down on a mountain, that all might see him, and have free access to him; for he is an open Saviour."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "The Decapolis was the 'Ten Cities' region, a group of Greek-style cities east and south-east of the lake. Edersheim says it was essentially non-Jewish territory, with temples to Greek gods, free Greek city governments under the Roman governor of Syria, and with privileges dating from Pompey's time. Hippos on the south-east shore was the most northern and Philadelphia the most southern.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXXIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2247467,
+     "quote": "This extensive Ten Cities' district was essentially heathen territory."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2247723,
+     "quote": "Their political constitution was that of the free Greek cities."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2247189,
+     "quote": "Of these cities Hippos, on the southeastern shore of the Lake, was the most northern"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Edersheim uses the word 'heathen' for non-Jews; the audio script should say 'non-Jewish' or 'Gentile'."
+  },
+  {
+   "text": "The people laid the sick at Jesus's feet. Matthew lists the lame, blind, mute and maimed, and many others. Henry says they were 'cast down' at his feet as objects of pity, with no words needed, and that this is the way to bring a trouble to Christ. Edersheim pictures it too: tongues loosed, the lame made straight, and film passing from eyes long closed to light.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 15:29-39; Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXXIV",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1333588,
+     "quote": "and cast them down at Jesus' feet, v. 30"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1333951,
+     "quote": "Whatever our case is, the only way to find ease and relief, is, to lay it at Christ's feet"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2251081,
+     "quote": "and they have brought to Him the lame, blind, dumb, maimed, [3508] and many others,' and laid them at His Feet."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry also says 'See what work sin has made! It has turned the world into a hospital', linking disability to sin in general; do not repeat as fact."
+  },
+  {
+   "text": "When Matthew says the crowd 'glorified the God of Israel', Edersheim takes this as a sign the crowd was largely non-Jewish: people who would not be expected to use that title for God. Henry reads it differently, as a crowd praising the God who is in covenant with Israel and who had sent the promised Messiah.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXXIV; Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 15:29-39",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2248515,
+     "quote": "This, of course, confirms the impression that the scene is laid among a population chiefly heathen"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1336266,
+     "quote": "They glorified him as the God of Israel, his church's God, a God in covenant with his people, who hath sent the Messiah promised"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Matthew does not say the crowd was Gentile; that is Edersheim's inference from the place. Henry does not make that point."
+  },
+  {
+   "text": "Edersheim reads the scene as a hopeful picture: the non-Jewish crowd being healed was Israel winning over the wider world by love, not by force. He calls it a new era and the Messianic conquest. He says they glorified the God of Israel as the crowd saw the healing.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXXIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2251543,
+     "quote": "Israel conquers the heathen world, not by force, but by love; not by outward means, but by the manifestation of life-power from above."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2251684,
+     "quote": "Truly, this is the Messianic conquest and reign: and they glorified the God of Israel."
+    }
+   ],
+   "confidence": "medium",
+   "caution": "This is Edersheim's own interpretation, in rhetorical language."
+  },
+  {
+   "text": "Matthew says that Jesus then called his disciples and said the crowd had been with him three days and had nothing to eat, and he did not want to send them away hungry. Henry takes this as a sign of how much the crowd cared about his teaching and healing, since they had stayed three days without food. Four thousand men besides women and children were fed from seven loaves.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 15:29-39",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1330044,
+     "quote": "I have compassion on the multitude, because they continue with me now three days, and have nothing to eat"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1338879,
+     "quote": "but these people staid together three days, and yet snuffed not at it, nor said, Behold, what a weariness is it!"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1330808,
+     "quote": "And they that did eat were four thousand men, beside women and children."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Henry calls Jesus's way of healing here a kind of wholesale curing, with no one turned away. He says Christ admitted all sorts of people, poor and rich, and healed all sorts of diseases, and never complained of crowds. He also notes the place: near the Sea of Galilee, a part of the country Christ knew well.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 15:29-39",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1330980,
+     "quote": "Here is, I. A general account of Christ's cures, his curing by wholesale."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1333214,
+     "quote": "He never complained of crowds or throngs of seekers, or looked with contempt upon the vulgar, the herd, as they are called"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Henry's phrase 'the vulgar, the herd' is his own period language."
+  },
+  {
+   "text": "Edersheim says the same stay in the Decapolis region includes the healing of the deaf man (Mark 7:31-37) and a blind man at Bethsaida, and treats them as a group of miracles among a mostly Gentile population: the man and the people who brought him were non-Jews living in close contact with Jews. The healing of the deaf man used touch and spit, which he sees as tied to this mixed audience.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXXIV",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2249238,
+     "quote": "Remembering, that alike the subject of the miracle and they who brought him were heathens, but in constant and close contact with Jews"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2245832,
+     "quote": "A GROUP OF MIRACLES AMONG A SEMI-HEATHEN POPULATION"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "Edersheim's chapter title and wording use 'heathen' and 'semi-heathen'; the audio script should say Gentile or non-Jewish."
+  },
+  {
+   "text": "Matthew says Jesus 'went up into a mountain, and sat down there'. Henry comments that he sat there like a host waiting to welcome guests, 'waiting to be gracious'. The picture is of a teacher who stays put and lets the people come to him.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 15:29-39",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 1332307,
+     "quote": "He sat down there, as one tired with his journey, and willing to have a little rest; or rather, as one waiting to be gracious."
+    }
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "answer-to-john": [
+  {
+   "text": "John the Baptist was in prison at Machaerus, a fortress in the hills east of the Dead Sea. Josephus says Herod, fearing John's influence over the crowds, had him sent as a prisoner to Machaerus 'the castle' and put to death there. Josephus also says Machaerus stood on the border between the lands of Aretas and Herod.",
+   "source": "Josephus, Antiquities of the Jews, Book XVIII, chapter 5",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 2662578,
+     "quote": "Accordingly he was sent a prisoner, out of Herod's suspicious temper, to Macherus, the castle I before mentioned, and was there put to death."
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 2660067,
+     "quote": "Macherus, which is a place in the borders of the dominions of Aretas and Herod"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Josephus gives Herod's fear of a revolt as the reason for John's arrest, while the Gospels give Herod's marriage as the reason; Josephus spells the fortress Macherus here."
+  },
+  {
+   "text": "Machaerus was a very strong place on a high rocky hill. Josephus says later, during the war with Rome, that it stood on a very rocky hill 'elevated to a very great height', that it could not easily be climbed, and that deep valleys ran round it. The Romans resolved to destroy it so it would not draw people into rebellion.",
+   "source": "Josephus, The Wars of the Jews, Book VII, chapter 6",
+   "evidence": [
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 1222164,
+     "quote": "for what was walled in was itself a very rocky hill, elevated to a very great height; which circumstance alone made it very hard to be subdued"
+    },
+    {
+     "file": "josephus_wars_pg2850.txt",
+     "offset": 1221797,
+     "quote": "resolved to make war upon Machaerus; for it was highly necessary that this citadel should be demolished"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Josephus describes John as a good man who told the Jews to practise virtue, justice toward each other and piety toward God. He says Herod feared that John's great influence over the people might lead to a rebellion, and so imprisoned him. This gives a second account of why he was in prison.",
+   "source": "Josephus, Antiquities of the Jews, Book XVIII, chapter 5",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 2662187,
+     "quote": "Herod, who feared lest the great influence John had over the people might put it into his power and inclination to raise a rebellion"
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 2661611,
+     "quote": "for Herod slew him, who was a good man, and commanded the Jews to exercise virtue"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "John's question was 'Are you the one who is to come, or should we look for another?' Henry offers three possible reasons: John wanted to be sure for himself, his long imprisonment made him doubt why Jesus did not help, or he sent his disciples to settle their doubts. Edersheim imagines dark questions in the dungeon, but says his very question, sent straight to Jesus, was already a sign of faith.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 11:2-6; Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXVIII",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 899985,
+     "quote": "John's doubt might arise from his own present circumstances. He was a prisoner"
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 901562,
+     "quote": "Others think that John sent his disciples to Christ with this question, not so much for his own satisfaction as for theirs."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2041533,
+     "quote": "When he sent his disciples with this question straight to Christ, he had already conquered"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Edersheim's long description of John's inner state is imaginative; it is not in the Gospels."
+  },
+  {
+   "text": "Jesus answered by pointing to Isaiah. Edersheim says that when Jesus wanted to settle John's doubt, he pointed to the well-known prophecies of Isaiah 35:5-6 and 61:1. Henry says Isaiah 35 had foretold that when God came, the eyes of the blind would be opened, so if Jesus's works match the prophet's words, this must be the one who was to come.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter III (a footnote-style remark in the chapter on John the Baptist); Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 11:2-6",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1113182,
+     "quote": "He points for the solution of his doubts to the well-remembered prophecies of Isaiah (Is. xxxv. 5, 6; lxi. 1; viii. 14, 15)."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 905159,
+     "quote": "It was foretold (Isa. xxxv. 5, 6), that our God should come, and that then the eyes of the blind should be opened."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "'The blind receive their sight' is the first item Jesus lists in his answer: the blind receive sight, the lame walk, lepers are cleansed, the deaf hear, the dead are raised, and the poor have good news preached to them. Henry underlines that Jesus asked them to report what they saw and heard, and the first thing he names is the blind receiving sight.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 11:2-6",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 892822,
+     "quote": "The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 904119,
+     "quote": "you see how, by the word of Jesus, the blind receive their sight, the lame walk, &c."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Luke adds that right while John's messengers were there, Jesus healed many people, including giving sight to many blind. Henry points out the words 'in that same hour': it suggests they stayed only an hour with Jesus, and that in that short time he did much work. Edersheim says the messengers came just as Jesus was engaged in healing body and soul.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Luke 7:18-35; Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXVIII",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 3813683,
+     "quote": "And in that same hour he cured many of their infirmities and plagues, and of evil spirits; and unto many that were blind he gave sight."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 3817458,
+     "quote": "While John's messengers were with him, he wrought many miraculous cures, in that same hour"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2042973,
+     "quote": "The messengers came just as He was engaged in healing body and soul."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Henry says the cures in front of the messengers were more than proof: they explained what the Messiah is for. The Messiah comes to heal a sick world and to give light to those who sit in darkness, and since Jesus did this to bodies, one should conclude he would do it to souls and look for no other. Henry also calls miracles 'the broad seal of heaven'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comments on Luke 7:18-35 and Matthew 11:2-6",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 3818194,
+     "quote": "These cures, which they saw him work, were not only confirmations of his commission, but explications of it."
+    },
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 904640,
+     "quote": "Miracles are therefore the broad seal of heaven"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Jesus's answer did not say 'yes' directly. Henry says it was an answer in fact, and that Christ wants us to work out the convincing evidence ourselves. Edersheim adds that Jesus added a beatitude, 'Blessed is he who is not scandalised in me', and that to faith this was the most complete answer to John.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, comment on Matthew 11:2-6; Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXVIII",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 903295,
+     "quote": "It was not so direct and express, as when he said, I that speak unto thee am he; but it was a real answer, an answer in fact."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2043460,
+     "quote": "To faith, but only to faith, this was the most satisfactory and complete answer to John's inquiry."
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "The question 'the one who is to come' was a known way of speaking of the coming age, though it was not an ordinary title for the Messiah. Edersheim says it carried the sense of the Messiah setting things right and showing His power, so John might have meant: are you the one to set up the kingdom in outward power, or must we wait for another? Jesus's answer, healing and good news to the poor, redirected that expectation.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XXVIII",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2042241,
+     "quote": "The designation The Coming One' (habba), though a most truthful expression of Jewish expectancy, was not one ordinarily used of the Messiah."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 2042765,
+     "quote": "Art Thou He that is to establish the Messianic Kingdom in its outward power, or have we to wait for another?"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "text": "Isaiah 61 is the other background text. Luke 4 shows Jesus reading Isaiah 61 in the synagogue at Nazareth, 'recovering of sight to the blind'. Henry's text of Luke 4:18 includes the line, and Edersheim notes the Nazareth passage is mainly Isaiah 61:1 with a line from Isaiah 58:6.",
+   "source": "Matthew Henry, Commentary on the Whole Bible, vol. 5, Luke 4:18 (biblical text); Edersheim, The Life and Times of Jesus the Messiah, Book III, chapter XI (Nazareth sermon)",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol5_matthew_to_john.txt",
+     "offset": 3656303,
+     "quote": "he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised"
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1422227,
+     "quote": "Now the passage quoted by St. Luke consists really of only one verse (Is. lxi. 1), together with a clause from Is. lviii. 6"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Henry's first quote is the Bible text itself as printed in the commentary."
+  }
+ ]
+}

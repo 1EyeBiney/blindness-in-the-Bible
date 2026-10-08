@@ -54,8 +54,12 @@ def build(bible: dict) -> list[str]:
     add("[NARRATOR] (calm) From that place he sends his question. Luke tells it with the most detail.")
     ext(reader(bible, "Luke", 7, 18, 23))
     add("[NARRATOR] (calm) Are You the One who was to come, or should we look for someone else? That is the whole "
-        "question. And Luke tells us what Jesus did before He answered a word. At that very hour He healed many, and "
-        "gave sight to many who were blind. The messengers stood and watched it. Then He told them what to say.")
+        "question. Henry offers three reasons John might have sent it: he wanted to be sure for himself; the long "
+        "imprisonment had made him wonder why Jesus did not help him; or he sent his followers so that they would "
+        "see for themselves and attach themselves to Jesus after he was gone. And Luke tells us what Jesus did "
+        "before He answered a word. At that very hour He healed many, and gave sight to many who were blind. Henry "
+        "takes the words literally: they stayed perhaps an hour, and in that hour saw enough. Then He told them what "
+        "to say.")
     add("[BREAK]")
 
     add("[NARRATOR] (calm) To hear the answer the way John heard it, you have to know what John knew. Jesus's "
