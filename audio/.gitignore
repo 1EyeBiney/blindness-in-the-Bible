@@ -7,3 +7,7 @@ voices.json
 *.mp3
 *.wav
 casts/elevenlabs-voices.json
+*.mp4
+deliver/*/frames/
+deliver/*/frames.txt
+shots/images/
