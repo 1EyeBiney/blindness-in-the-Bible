@@ -1,0 +1,157 @@
+"""Episode 2: Bartimaeus at Jericho (Mark 10:46-52; Luke 18:35-43; Matthew 20:29-34)."""
+from episode_lib import BRIAN_VOICE_NOTE, CLOSE, SERIES_INTRO, header, reader
+
+SLUG = "bartimaeus"
+NUMBER = 2
+TITLE = "Bartimaeus at Jericho"
+PASSAGES = [("Mark", 10, 46, 52), ("Luke", 18, 35, 43), ("Matthew", 20, 29, 34)]
+
+# Written in Brian's voice from what he has told Claude, for his approval. Not his until he says so.
+DRAFT_BRIAN = [
+    "Bartimaeus asks to see again. That one word is the whole difference between him and the man born blind. "
+    "I lost my sight in 2014, after a lifetime of seeing. I know what a face looks like, what Jericho's palms would "
+    "have looked like, what a road looks like going uphill into the distance. The man born blind had nothing to "
+    "compare the dark to. Bartimaeus did. Every day he sat by that road he knew exactly what he was missing.",
+    "He hears a crowd and has to ask what it is. I do that constantly. A room goes quiet, or everyone laughs, or "
+    "chairs scrape, and I have to ask the person next to me what just happened. Most of the time people answer. "
+    "Sometimes they are too busy to. Bartimaeus got an answer, and it was the most important sentence anyone ever "
+    "said to him.",
+    "People told him to be quiet. If you are blind and loud in public, people get uncomfortable, because you are "
+    "the one making a scene and they cannot make eye contact to settle you down. He shouted louder. I love that. "
+    "Then, the moment Jesus noticed him, the same people said, take courage, he is calling you. The crowd did not "
+    "change. His standing in it did.",
+    "He threw off his cloak. For a beggar that cloak was his bed, his coat, and the thing he spread out to collect "
+    "coins. He left it in the dust because he was not planning to come back to that spot. My white cane is the "
+    "thing I would never leave behind. I would not have thrown it off. I would have run with it.",
+    "Jesus asks him what he wants. He does not assume. Every blind person I know has a story about someone who "
+    "grabbed an arm and steered them somewhere they did not want to go, meaning well. Jesus had a blind man standing "
+    "in front of Him and still asked. That is the model.",
+]
+
+
+def build(bible: dict) -> list[str]:
+    L = header("ep02_bartimaeus")
+    add = L.append
+    ext = L.extend
+
+    add("# Not By Sight, episode 2: Bartimaeus at Jericho. Draft script.")
+    add("# BARTIMAEUS and VOICE appear only inside scenes the narrator introduces with the word 'imagine'.")
+    add("")
+
+    # ---- Cold open ------------------------------------------------------------------------------
+    add("[NARRATOR] (calm) A man is sitting in the dust beside the busiest road in Judea, and he hears something "
+        "change.")
+    add("[NARRATOR] (beat) Not the usual traffic. Not the mule trains and the pilgrims and the tax men. A crowd, "
+        "a big one, moving as one thing, with a sound inside it he cannot place. He has sat by this road for years. "
+        "He knows every sound it makes. Not this one.")
+    add("[NARRATOR] (calm) So he does what blind people do a hundred times a day. He asks.")
+    add("[PAUSE 1.5]")
+    add(f"[NARRATOR] (calm) {SERIES_INTRO}")
+    add("[BREAK]")
+
+    # ---- Where we are ---------------------------------------------------------------------------
+    add("[NARRATOR] (calm) First, where we are. It is spring, a few days before Passover, and Jesus is on His last "
+        "journey to Jerusalem. He has told His disciples three times that He is going there to die. A large crowd "
+        "travels with Him, because everyone is going up to the feast, and the road from Galilee and from across the "
+        "Jordan funnels through one city before the final climb. That city is Jericho.")
+    add("[NARRATOR] (calm) Three Gospels tell this story. Mark tells it first and gives the man a name. We will hear "
+        "Mark, then Luke, then Matthew, and notice where they differ. Mark first.")
+    ext(reader(bible, "Mark", 10, 46, 52))
+    add("[NARRATOR] (calm) Son of Timaeus. Bar means son, so Mark has told us his name twice. He is one of very few "
+        "people Jesus healed whose name we know at all.")
+    add("[BREAK]")
+
+    # ---- The place and the time ------------------------------------------------------------------
+    add("[NARRATOR] (calm) The place. Jericho lies in the Jordan Valley about two hundred and fifty metres below "
+        "sea level, the lowest city in the world. It was warm when Jerusalem was cold, which is why Herod built "
+        "palaces there and why Jerusalem's wealthy wintered there. Josephus called the plain the most fruitful "
+        "country in Judea, with its palms and its balsam trees, whose sap was gathered as it dripped, he said, like "
+        "tears. Smith's dictionary says that in Jesus's day Jericho was once more a city of palms.")
+    add("[NARRATOR] (calm) Edersheim pictures its streets at Passover full of pilgrims from Galilee and from beyond "
+        "the Jordan, priests going up to serve, traders, and the caravan traffic from Arabia and Damascus. It was "
+        "also the central station for collecting taxes, which is why a chief tax collector named Zacchaeus lived "
+        "there. Luke tells his story in the next breath after this one.")
+    add("[NARRATOR] (calm) From Jericho the road to Jerusalem climbs about a thousand metres in roughly six hours of "
+        "walking, through dry hills with no town between. Everyone leaving Jericho for the feast was about to start "
+        "that climb, and the edge of the city was the last place to sit and ask for help before the hills.")
+    add("[NARRATOR] (calm) Smith's says that beggars in later times had fixed places, at street corners, at the "
+        "Temple gates, at the gates of houses, and it cites this very verse. People who could not work were usually "
+        "cared for by relatives. A man begging by the road may have had no one. Or he may have had someone who "
+        "walked him to his place each morning and came back for him at dusk. The text does not say.")
+    add("[BREAK]")
+
+    # ---- Imagined scene -------------------------------------------------------------------------
+    add("[NARRATOR] (calm) Scripture does not tell us what Bartimaeus heard before he heard the name, or who "
+        "answered him. We imagine a man who knew his road by ear. This is a scene, not Scripture.")
+    add("[PAUSE 1.0]")
+    add("[BARTIMAEUS] (whisper) Hooves. A cart with one wheel that squeaks, the same cart every morning. Sandals, "
+        "hundreds of them, going up. Pilgrims. They talk about the feast and about the price of lambs.")
+    add("[BARTIMAEUS] (calm) But this is different. This crowd is slower, and it is turned inward, like people "
+        "walking around something. And under the talk there is one voice they are all listening to.")
+    add("[BARTIMAEUS] (curious) Friend. You, with the basket, I can hear it creak. What is this? Who is passing?")
+    add("[VOICE] (calm) Jesus. The Nazarene. The teacher who healed in Galilee. He is going up to the feast.")
+    add("[BARTIMAEUS] (excited) Jesus. Son of David. Son of David, have mercy on me!")
+    add("[VOICE] (calm) Quiet. He is teaching. You will not be heard over this crowd anyway.")
+    add("[BARTIMAEUS] (excited) Son of David! Have mercy on me!")
+    add("[PAUSE 1.0]")
+    add("[BARTIMAEUS] (whisper) The crowd stops. I hear it stop, the way a river sound stops when you put your "
+        "hand over your ears. Feet shuffling. Someone far ahead has said something.")
+    add("[VOICE] (excited) Take courage. Get up. He is calling you. Here, your hand, this way.")
+    add("[BARTIMAEUS] (whisper) My cloak is on the ground with the morning's coins in it. Leave it. Leave all of "
+        "it.")
+    add("[PAUSE 2.0]")
+    add("[NARRATOR] (calm) Then the question. Jesus has a blind man standing in front of Him, and He asks what he "
+        "wants.")
+    add("[BREAK]")
+
+    # ---- Brian ----------------------------------------------------------------------------------
+    add(f"[NARRATOR] (dryly) {BRIAN_VOICE_NOTE}")
+    add("[PAUSE 1.0]")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[0]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[1]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[2]}")
+    add("[BREAK]")
+
+    # ---- Luke -----------------------------------------------------------------------------------
+    add("[NARRATOR] (calm) Luke tells the same story, with one difference you will hear right at the start.")
+    ext(reader(bible, "Luke", 18, 35, 43))
+    add("[NARRATOR] (calm) Luke says as Jesus drew near to Jericho. Mark says as He was leaving. The old "
+        "commentators noticed, and they offer an answer: there were two Jerichos. The old city of the Old Testament "
+        "and Herod's new city stood a little apart, and a road between them would be leaving one and approaching "
+        "the other. Edersheim says plainly that it is better to admit the difficulty than to force a harmony. We "
+        "will leave it where he left it.")
+    add("[NARRATOR] (calm) Notice what Luke adds at the end. The man follows, glorifying God, and all the people, "
+        "the same people who told him to be quiet, give praise to God. The crowd that shushed him ends up shouting "
+        "with him.")
+    add("[BREAK]")
+
+    # ---- Matthew --------------------------------------------------------------------------------
+    add("[NARRATOR] (calm) Matthew tells it last, and shortest, and he counts differently.")
+    ext(reader(bible, "Matthew", 20, 29, 34))
+    add("[NARRATOR] (calm) Two blind men. Mark and Luke have one, and Mark names him. Edersheim suggests "
+        "Bartimaeus was the spokesman of two, the one whose voice carried and whose name was remembered. That is a "
+        "reasonable guess and it is only a guess. What all three agree on is the shout, the crowd telling them to "
+        "be quiet, Jesus stopping, and the question.")
+    add("[NARRATOR] (calm) Matthew also adds a detail the others leave out. Jesus touched their eyes. In Mark and "
+        "Luke the healing is by a word alone. Your faith has healed you. Receive your sight. In Matthew there is a "
+        "hand on the face first.")
+    add("[BREAK]")
+
+    # ---- Brian, part two ------------------------------------------------------------------------
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[3]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[4]}")
+    add("[BREAK]")
+
+    # ---- What the word tells us ----------------------------------------------------------------
+    add("[NARRATOR] (calm) One more thing about the word. Bartimaeus asks to see again, and Luke's man asks the "
+        "same, to receive his sight back. The man born blind, in our first episode, had never seen at all. Scripture "
+        "does not tell us how Bartimaeus lost his sight, or when, or how much he had left. He may have seen light and "
+        "shadow. He may have seen nothing. Blindness then, as now, was a range, and the Bible's one word covers all "
+        "of it. What the text does tell us is that he knew what he had lost, and that when he could see again the "
+        "first thing he chose to look at was the road to Jerusalem, following Jesus up it.")
+    add("[BREAK]")
+
+    # ---- Close ----------------------------------------------------------------------------------
+    add(f"[NARRATOR] (calm) {CLOSE}")
+    add("[NARRATOR] (after a long pause) For we walk by faith, not by sight.")
+    return L

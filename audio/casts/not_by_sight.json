@@ -55,6 +55,38 @@
       "description": "Adult male, unhurried, practical. On his way down to the pool anyway; offers his arm and says only what a guide needs to say. Only in an imagined scene.",
       "stability": 0.6,
       "_voice": "Callum (picked by Brian, 7 October 2026)"
+    },
+    "BARTIMAEUS": {
+      "name": "Bartimaeus",
+      "voice_id": "REPLACE_ME",
+      "description": "Adult male, a roadside beggar at Jericho who once could see. Quick, loud when he needs to be, glad. Only in an imagined scene.",
+      "stability": 0.45,
+      "style": 0.2
+    },
+    "VOICE": {
+      "name": "A voice in the crowd",
+      "voice_id": "REPLACE_ME",
+      "description": "Any adult, a passer-by or bystander who answers a question or offers an arm. One or two lines. Only in imagined scenes.",
+      "stability": 0.55
+    },
+    "FRIEND": {
+      "name": "A friend",
+      "voice_id": "REPLACE_ME",
+      "description": "Adult, the person who brings or guides a blind man: steady, practical, kind, a little out of breath. Only in imagined scenes.",
+      "stability": 0.55
+    },
+    "JOHN": {
+      "name": "John the Baptist",
+      "voice_id": "REPLACE_ME",
+      "description": "Older male, a prophet in prison: low, worn, direct. Only in an imagined scene.",
+      "stability": 0.6
+    },
+    "DISCIPLE": {
+      "name": "A disciple of John",
+      "voice_id": "REPLACE_ME",
+      "description": "Adult male, tired from the road, carrying news he can hardly believe. Only in an imagined scene.",
+      "stability": 0.5,
+      "style": 0.1
     }
   }
 }

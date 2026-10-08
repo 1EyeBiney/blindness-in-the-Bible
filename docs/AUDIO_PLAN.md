@@ -61,3 +61,30 @@ without reading it. Audio first; video as a wrapper so sighted viewers stay and 
 - Length target: this draft runs about 15 minutes at 150 words per minute. Shorter?
 - A music source with a licence we can show (public domain recordings, or a CC BY library), since nothing
   on the shelf covers music.
+
+## Episodes 2 to 6: the healings (drafted overnight, 8 October 2026)
+
+Brian asked for the whole "Sight given by Jesus" group as scripts, 10 to 18 minutes each, drafts only, no
+rendering, using my judgment and noting decisions. Decisions:
+
+- Five episodes, not seven (Brian agreed): 2 Bartimaeus; 3 Bethsaida (with the disciples' "having eyes, do you
+  not see?" from the same chapter); 4 The ones who followed (Matthew 9's two blind men and Matthew 12's blind
+  and mute man); 5 The blind in the crowd (the mountain in Matthew 15 and the Temple in Matthew 21, with
+  2 Samuel 5:6-8 read for the saying about the blind and the lame); 6 The answer to John (Luke 7, Isaiah 35 and
+  61, Matthew 11), which closes the run by letting Jesus say what the healings were for.
+- Extra Scripture read to reach length honestly rather than padding: Mark 8:14-21, Matthew 11:20-24, Matthew
+  12:25-28, 2 Samuel 5:6-8, Isaiah 35:4-6 and 61:1. Every READER line is tested against the Berean file.
+- One imagined scene per episode, under the Siloam rules: announced, hopeful, by ear and touch, no step
+  counting, a guide's arm where one is natural. New scene voices: BARTIMAEUS, VOICE, FRIEND, JOHN, DISCIPLE
+  (cast entries added, voice ids REPLACE_ME).
+- Brian's sections are DRAFTS written in his voice from what he has told Claude (2014, the cane, Barb's
+  footsteps, leading other blind people, being asked through an escort, the spectrum, the drop-off test). They
+  are collected in docs/BRIAN_DRAFTS.md and a test refuses any BRIAN line that is not either his words from the
+  site or a listed draft. He approves, edits or strikes each before anything renders.
+- Episode 6 carries the hardest draft: a blind believer whose eyes have not been opened, and what the signs are
+  for. Written carefully, flagged for his judgment above all the others.
+- Generator split into audio/episode_lib.py (shared rules), audio/episodes/epNN_*.py (one per episode),
+  audio/build_episodes.py (writes scripts and the drafts file); tests/test_episodes.py runs the rules over every
+  episode. Episode 1 keeps its own builder for now.
+- Place-and-time: a Sonnet subagent gathered new shelf quotes into data/reference/episode_candidates.json; the
+  scripts use what the story pages already carried plus that material where it checked out.

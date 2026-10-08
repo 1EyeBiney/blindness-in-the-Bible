@@ -1,0 +1,125 @@
+# Not By Sight, episode 5: The blind in the crowd
+
+Script for reading. Speaker names in bold, cues in italics, Scripture indented.
+
+**Narrator** *(calm)* Somebody is being carried up a mountain.
+
+**Narrator** *(beat)* Not one somebody. Dozens. The lame on stretchers, the crippled on backs, the mute led by the hand, and the blind, who can walk perfectly well, holding an arm because the path is rock and they have never been here. At the top a man is sitting down, waiting for them.
+
+**Narrator** *(calm)* Nobody in this crowd gets a name. This episode is about them, and about another crowd like them, in the Temple, a few days before the end.
+
+*(pause 1.5 s)*
+
+**Narrator** *(calm)* This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for blind believers, their families, and the church. The Scripture you will hear is the Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. And when we imagine a scene, we will tell you so.
+
+---
+
+**Narrator** *(calm)* First, where we are. Matthew chapter fifteen. Jesus has been away in the far north, in the region of Tyre and Sidon, where He healed a Gentile woman's daughter. Now He comes back toward the Sea of Galilee, goes up a mountain, and sits down. In the Gospels, when Jesus sits down on a mountain, something is about to happen.
+
+**Narrator** *(calm)* Matthew chapter 15, verses 29 to 31.
+
+> **Reader** *(plainly)* Moving on from there, Jesus went along the Sea of Galilee. Then He went up on a mountain and sat down.
+
+> **Reader** *(plainly)* Large crowds came to Him, bringing the lame, the blind, the crippled, the mute, and many others, and laid them at His feet, and He healed them.
+
+> **Reader** *(plainly)* The crowd was amazed when they saw the mute speaking, the crippled restored, the lame walking, and the blind seeing. And they glorified the God of Israel.
+
+**Narrator** *(calm)* Three verses, and in them the lame, the blind, the crippled, the mute and many others. Then, straight after, the feeding of the four thousand, because these people had been with Him three days and had nothing to eat.
+
+**Narrator** *(calm)* The place. Edersheim puts this scene on the eastern side of the lake, in the Decapolis, the ten Greek cities, among people who were not strictly Jewish. That fits the last line, which says they glorified the God of Israel, the way outsiders speak of someone else's God. Other commentators put it on the western shore. Matthew says only the Sea of Galilee and a mountain. Either way it was steep, rocky ground above the water, and these people climbed it carrying each other.
+
+**Narrator** *(calm)* Matthew Henry noticed two things. The people brought their sick relations and friends along with them and cast them down at Jesus's feet, and, he says, we read not of any thing they said to him. Their condition spoke for them. Every blind person on that hillside had been led up it by someone.
+
+---
+
+**Narrator** *(calm)* Scripture gives us the crowd and the mountain and the three days. It does not give us one pair of them. We imagine a blind man and the friend who got him there. This is a scene, not Scripture.
+
+*(pause 1.0 s)*
+
+**Friend** *(calm)* Rock here, big one, step up. Good. Now it levels off for a while.
+
+**Man** *(calm)* How many are up there? It sounds like a market.
+
+**Friend** *(calm)* Hundreds. More coming up behind us. There are men carrying a boy on a door. A woman with a child who does not talk. Everybody.
+
+**Man** *(curious)* And him?
+
+**Friend** *(calm)* Sitting on a rock at the top, like he has all day. People go up to him one at a time and then they, I do not know how to say it. They stand up different.
+
+**Man** *(whisper)* Wind up here. Thyme crushed under everyone's feet. The lake below, I can hear it even over the crowd. We have been walking since before dawn and my friend has not let go of my arm once.
+
+**Friend** *(calm)* Nearly there. I am going to sit you down right in front of him. Then I will step back.
+
+**Man** *(calm)* Do not go far.
+
+**Friend** *(calm)* I am not going anywhere. I did not carry you up a mountain to lose you at the top.
+
+*(pause 2.0 s)*
+
+**Narrator** *(calm)* Matthew says they laid them at His feet, and He healed them.
+
+---
+
+**Narrator** *(dryly)* A word about the voice you are about to hear. Brian decided he was too shy to record his own thoughts. We suspect he was being a scaredy cat. So, against our better judgment, we let him pick his own voice. Whenever you hear it, from here to the end, these are his words.
+
+*(pause 1.0 s)*
+
+**Brian** *(calm)* Nobody on that mountain has a name. That is most of us. Most blind people in history did not get a verse of their own. They got carried up a hill by a brother or a daughter or a neighbor who decided that day was the day, and they were laid down at somebody's feet, and that was that. I think about the carriers as much as the carried. Every one of those people had someone who said, I will get you there.
+
+**Brian** *(calm)* Laid at His feet. I have been laid at people's feet, in a manner of speaking. Sat down in a chair at a party and left there, because the person who brought me had to go do something and I did not know the room. It is not a bad feeling if you trust the person. The crowd on the mountain trusted Him enough to set their people down and step back.
+
+---
+
+**Narrator** *(calm)* Now the second crowd, and to understand it we have to go back a thousand years, to the day David took Jerusalem.
+
+**Narrator** *(calm)* 2 Samuel chapter 5, verses 6 to 8.
+
+> **Reader** *(plainly)* Now the king and his men marched to Jerusalem against the Jebusites who inhabited the land. The Jebusites said to David: “You will never get in here. Even the blind and lame can repel you.” For they thought, “David cannot get in here.”
+
+> **Reader** *(plainly)* Nevertheless, David captured the fortress of Zion (that is, the City of David).
+
+> **Reader** *(plainly)* On that day he said, “Whoever attacks the Jebusites must use the water shaft to reach the lame and blind who are despised by David.” That is why it is said, “The blind and the lame will never enter the palace.”
+
+**Narrator** *(calm)* The Jebusites taunted David: even the blind and the lame could keep you out. David took the city anyway, and a saying grew up from the insult. The blind and the lame will never enter the palace. Some later teachers took it as a rule about who could come into the Temple. Whether it was ever enforced that way is argued. What is certain is that the saying was known in Jerusalem, and that Matthew, who knew his Scriptures, chose to tell us exactly who came into the Temple on this day.
+
+**Narrator** *(calm)* Matthew chapter twenty-one. Jesus has ridden into Jerusalem on a donkey to shouts of Hosanna. He goes straight to the Temple.
+
+**Narrator** *(calm)* Matthew chapter 21, verses 12 to 16.
+
+> **Reader** *(plainly)* Then Jesus entered the temple courts and drove out all who were buying and selling there. He overturned the tables of the money changers and the seats of those selling doves.
+
+> **Reader** *(plainly)* And He declared to them, “It is written: ‘My house will be called a house of prayer.’ But you are making it ‘a den of robbers.’”
+
+> **Reader** *(plainly)* The blind and the lame came to Him at the temple, and He healed them.
+
+> **Reader** *(plainly)* But the chief priests and scribes were indignant when they saw the wonders He performed and the children shouting in the temple courts, “Hosanna to the Son of David!”
+
+> **Reader** *(plainly)* “Do You hear what these children are saying?” they asked. “Yes,” Jesus answered. “Have you never read: ‘From the mouths of children and infants You have ordained praise’?”
+
+**Narrator** *(calm)* The place. The outer court of Herod's Temple, the Court of the Gentiles, worked as a market. Edersheim describes the official money changers who, for a fee, turned foreign coins into the Temple's own coin, and what he calls that great mart for sacrificial animals. Herod had doubled the size of the Temple Mount to about fourteen hectares, and the long porches around the edge were where the business was done. Into that noise of coins and cattle Jesus walks and turns the tables over.
+
+**Narrator** *(calm)* As the traders are driven out, Edersheim pictures the blind and the lame coming in from the porches and the Temple Mount to be healed, and the children taking up the shout of Hosanna from the road. He guesses the children may have been sons of the Levites who sang in the Temple choir, which would explain why they were there and why they knew what to sing.
+
+**Narrator** *(calm)* Matthew Henry set the scene against David's saying. The blind and the lame had been shut out of David's palace, and here they were received in God's house. The Temple, he said, was profaned when it was made a market and honoured when it was made a hospital.
+
+**Narrator** *(calm)* One more thing from the Law. A blind descendant of Aaron could not serve at the altar, Leviticus says, though he was still fed from the holy offerings. So blind men had always been in the Temple, as priests' sons who could not serve and as beggars at the gates. What was new on this day was not that they were present. It was that they were the point.
+
+---
+
+**Brian** *(calm)* The blind and the lame will never enter the palace. For a thousand years that saying hung around Jerusalem, and whether or not it was ever an actual rule at the Temple, people repeated it. Then Jesus clears the market out of the Temple courts, and the first people through the gap are the blind and the lame. I do not think that is an accident of timing. I think He made room and they knew it.
+
+**Brian** *(calm)* The leaders were angry about the children shouting. Matthew puts the healing and the anger in the same breath. The blind could see, the lame could walk, kids were singing, and the men in charge were indignant. When something good happens to people who are usually kept at the edges, somebody in charge is usually annoyed. That has not changed much in two thousand years.
+
+---
+
+**Narrator** *(calm)* Set the two crowds side by side. On the mountain, in Gentile country, people laid their blind at His feet and glorified the God of Israel. In the Temple, the holiest ground in the Jewish world, the blind came to Him through the space where the market had been, and the men in charge were indignant. Different ground, different crowd, same thing in the middle: blind people, brought or coming, and Jesus healing them in front of everyone. Matthew wants us to see that it happened everywhere He went, and that the only people who minded were the ones who had been keeping the gate.
+
+---
+
+**Brian** *(calm)* Here is what I take from these two crowds. The mountain was Gentile country, and the people glorified the God of Israel. The Temple was the holiest place in the Jewish world, and the people who had been shut out came in. Blind people were in the middle of both. We were never the edge of what Jesus was doing. We were the evidence.
+
+---
+
+**Narrator** *(calm)* This has been Not By Sight. The full story, with every source named, is at one eye biney dot github dot i o, slash blindness in the Bible. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
+
+**Narrator** *(after a long pause)* For we walk by faith, not by sight.

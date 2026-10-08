@@ -1,0 +1,76 @@
+@project: ep03_bethsaida
+@section: 1
+@cast: casts/not_by_sight.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Not By Sight, episode 3: The blind man at Bethsaida. Draft script.
+# MAN and FRIEND appear only inside scenes the narrator introduces with the word 'imagine'.
+
+[NARRATOR] (calm) Jesus has a man by the hand, and they are walking out of town.
+[NARRATOR] (beat) Behind them, a crowd that wanted to watch. Ahead, open ground, the lake somewhere to the right, the smell of fish drying. The man cannot see any of it. He can feel the hand, and the ground changing from packed street to grass.
+[NARRATOR] (calm) In a minute Jesus is going to do something He does nowhere else in the Gospels. He is going to heal a man, and then ask him whether it worked.
+[PAUSE 1.5]
+[NARRATOR] (calm) This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for blind believers, their families, and the church. The Scripture you will hear is the Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. And when we imagine a scene, we will tell you so.
+[BREAK]
+[NARRATOR] (calm) First, where we are, and it matters more than usual for this one. Jesus has just fed four thousand people on the far side of the Sea of Galilee. He gets into a boat with His disciples, and on the water He has an argument with them. Mark tells it just before the healing, and the two belong together. Listen for the word eyes.
+[NARRATOR] (calm) Mark chapter 8, verses 14 to 21.
+[READER] (plainly) Now the disciples had forgotten to take bread, except for one loaf they had with them in the boat.
+[READER] (plainly) “Watch out!” He cautioned them. “Beware of the leaven of the Pharisees and of Herod.”
+[READER] (plainly) So they began to discuss with one another the fact that they had no bread.
+[READER] (plainly) Aware of their conversation, Jesus asked them, “Why are you debating about having no bread? Do you still not see or understand? Do you have such hard hearts?
+[READER] (plainly) ‘Having eyes, do you not see? And having ears, do you not hear?’ And do you not remember?
+[READER] (plainly) When I broke the five loaves for the five thousand, how many basketfuls of broken pieces did you collect?” “Twelve,” they answered.
+[READER] (plainly) “And when I broke the seven loaves for the four thousand, how many basketfuls of broken pieces did you collect?” “Seven,” they said.
+[READER] (plainly) Then He asked them, “Do you still not understand?”
+[NARRATOR] (calm) Having eyes, do you not see? He says it to twelve sighted men. Then the boat lands at Bethsaida, and the first thing that happens is this.
+[NARRATOR] (calm) Mark chapter 8, verses 22 to 26.
+[READER] (plainly) When they arrived at Bethsaida, some people brought a blind man and begged Jesus to touch him.
+[READER] (plainly) So He took the blind man by the hand and led him out of the village. Then He spit on the man’s eyes and placed His hands on him. “Can you see anything?” He asked.
+[READER] (plainly) The man looked up and said, “I can see the people, but they look like trees walking around.”
+[READER] (plainly) Once again Jesus placed His hands on the man’s eyes, and when he opened them his sight was restored, and he could see everything clearly.
+[READER] (plainly) Jesus sent him home and said, “Do not go back into the village.”
+[NARRATOR] (calm) Mark puts the two stories side by side on purpose. Sighted men who cannot see what is in front of them, and a blind man who, halfway through, sees a little and says so honestly. We will come back to that.
+[BREAK]
+[NARRATOR] (calm) The place. Bethsaida means house of fish. It was a fishing town on the north shore of the Sea of Galilee, near where the Jordan runs in, and it was the home town of three of the twelve: Andrew, Peter and Philip. Philip the tetrarch, Herod's son, rebuilt it and renamed it Julias after the emperor's daughter, so in Jesus's day it was half village and half new Roman town.
+[NARRATOR] (calm) Where exactly it stood is still argued. Archaeologists have dug two candidate ruins on that shore, and at both they have found fishing weights and the needles used for mending nets. Whichever ruin is right, the sounds would have been the same: water, boats being hauled, nets, gulls, and the particular silence of a lake in the early morning.
+[NARRATOR] (calm) Edersheim calls this the only gradual cure in the Gospels, and notes that saliva was a well known Jewish remedy for the eyes. From the man's words about trees he infers that the blindness was not from birth but came from disease. That inference is his, not the text's, though a man who knows what a tree looks like has seen one.
+[NARRATOR] (calm) Why did Jesus lead him out of the village? The text does not say. Matthew Henry suggests it was to teach us to be as Job was, eyes to the blind, by doing the leading Himself rather than leaving it to the man's friends. Edersheim connects it with the woes Jesus pronounced on Bethsaida, which Matthew records.
+[NARRATOR] (calm) Matthew chapter 11, verses 20 to 24.
+[READER] (plainly) Then Jesus began to denounce the cities in which most of His miracles had been performed, because they did not repent.
+[READER] (plainly) “Woe to you, Chorazin! Woe to you, Bethsaida! For if the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.
+[READER] (plainly) But I tell you, it will be more bearable for Tyre and Sidon on the day of judgment than for you.
+[READER] (plainly) And you, Capernaum, will you be lifted up to heaven? No, you will be brought down to Hades! For if the miracles that were performed in you had been performed in Sodom, it would have remained to this day.
+[READER] (plainly) But I tell you that it will be more bearable for Sodom on the day of judgment than for you.”
+[NARRATOR] (calm) A town that had seen so much and believed so little. Jesus takes the man away from it, heals him outside it, and tells him not to go back into it. Whatever else that means, it means the healing was not a show for Bethsaida.
+[BREAK]
+[NARRATOR] (calm) Scripture tells us he was brought, that Jesus led him by the hand, and what he said halfway through. It does not tell us who brought him or what the walk was like. We imagine a man who had once seen and had learned to live without it. This is a scene, not Scripture.
+[PAUSE 1.0]
+[FRIEND] (excited) He is here. The boat is in. Come on, up, take my arm, they are all going down to the shore.
+[MAN] (calm) Slow down. I know the way to the shore. Left at the net racks, the ground drops after the last house.
+[FRIEND] (excited) Teacher! This man, our friend. Touch him. Please. Just touch him.
+[PAUSE 1.0]
+[MAN] (whisper) A hand takes mine. Not my friend's hand. Warmer, and not in a hurry. We walk. The crowd noise falls behind us like a door closing. Street, then dirt, then grass. The lake is on my right. I can smell it and hear it.
+[MAN] (whisper) He stops. He touches my eyes, and his hands stay there. Then he asks me, do you see anything.
+[MAN] (curious) I see. I see people. But they are like trees walking. Tall, moving, no faces.
+[MAN] (whisper) He does not say anything. He puts his hands on my eyes again.
+[PAUSE 2.0]
+[MAN] (excited) Oh. Oh, there is the lake.
+[PAUSE 1.0]
+[NARRATOR] (calm) Mark says he looked intently and his sight was restored and he saw everything clearly. Three verbs for one moment of seeing.
+[BREAK]
+[NARRATOR] (dryly) A word about the voice you are about to hear. Brian decided he was too shy to record his own thoughts. We suspect he was being a scaredy cat. So, against our better judgment, we let him pick his own voice. Whenever you hear it, from here to the end, these are his words.
+[PAUSE 1.0]
+[BRIAN] (calm) People like trees walking. Of every line about blindness in the Bible, this is the one my low-vision friends quote back to me. They know exactly what he means. Shapes that move, that are the right height to be people, but with no faces and no edges. You can see something, and you cannot trust it. The Bible has one word for blindness, and most of the time it means the deep end of the pool. This verse is the one time it describes the shallow end from the inside.
+[BRIAN] (calm) Jesus asked him how it was going. Think about that. He had put His hands on the man's eyes, and instead of announcing a result, He asked. And the man told the truth. Not yet. It is better, but not yet. Half the trouble blind people get into with well-meaning helpers is that we are too polite to say not yet. The man at Bethsaida said it to Jesus, and Jesus did not mind. He put His hands on him again.
+[BREAK]
+[NARRATOR] (calm) Back to the boat for a moment, because Mark wants us there. Jesus asked His disciples, having eyes, do you not see? Then He lands and meets a man who, after the first touch, sees a little and says so. The disciples had seen two miracles of bread and still did not understand. The blind man had seen shapes like trees and understood exactly how much he could and could not see. Mark is making a point about which of them was really blind, and it is not the beggar.
+[NARRATOR] (calm) The commentators have always read it that way. Henry calls the disciples' blindness a matter of dullness, not eyes. And the chapter does not end here. Right after this, Jesus asks the disciples who people say He is, and Peter answers, You are the Christ. Peter sees clearly. Then Jesus tells them He must suffer and die, and Peter rebukes Him. Trees walking. Peter, too, saw in two stages.
+[BREAK]
+[BRIAN] (calm) Jesus led him by the hand. Not a disciple, not the friends who brought him. The same Jesus who was about to put mud on another man's eyes and send him walking across Jerusalem alone took this man by the hand and walked him out of the village Himself. Both are right. Some days you need to be sent, and some days you need an arm, and the trick is knowing which day it is. He knew.
+[BRIAN] (calm) He knew what trees looked like. That means he had seen before. Like Bartimaeus, like me, he lost it. I have noticed that the Gospels never explain how anyone lost their sight, and I have come to be grateful for that. Nobody asked him what happened. Jesus just asked whether he could see.
+[BREAK]
+[NARRATOR] (calm) A last word for anyone listening who lives in the middle of the pool, with some sight and not enough. The Bible notices you once, here, in one sentence, and the sentence is true. Men like trees walking. It does not pretend you see nothing and it does not pretend you see. And in the story, the man who said it was not told to be satisfied with it. Jesus put His hands on him again.
+[BREAK]
+[NARRATOR] (calm) This has been Not By Sight. The full story, with every source named, is at one eye biney dot github dot i o, slash blindness in the Bible. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
+[NARRATOR] (after a long pause) For we walk by faith, not by sight.
