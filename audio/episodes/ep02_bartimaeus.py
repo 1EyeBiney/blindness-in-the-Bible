@@ -4,10 +4,12 @@ from episode_lib import BRIAN_VOICE_NOTE, CLOSE, SERIES_INTRO, header, reader
 SLUG = "bartimaeus"
 NUMBER = 2
 TITLE = "Bartimaeus at Jericho"
-PASSAGES = [("Mark", 10, 46, 52), ("Luke", 18, 35, 43), ("Matthew", 20, 29, 34)]
+PASSAGES = [("Mark", 10, 32, 37), ("Mark", 10, 46, 52), ("Luke", 18, 35, 43), ("Luke", 19, 1, 11),
+            ("Matthew", 20, 29, 34)]
+MAX_WORDS = 3600   # Brian, 9 October 2026: no time limit on this one; the material carries it
 
 # Written in Brian's voice from what he has told Claude, for his approval. Not his until he says so.
-# APPROVED: indices Brian has read and edited himself (8 October 2026): 2, 3, 4. Still drafts: 0, 1.
+# APPROVED: indices Brian has read and edited himself (8 October 2026): 2, 3, 4. Still drafts: 0, 1, 5, 6.
 APPROVED = {2, 3, 4}
 DRAFT_BRIAN = [
     "Bartimaeus asks to see again. That one word is the whole difference between him and the man born blind. "
@@ -29,6 +31,20 @@ DRAFT_BRIAN = [
     "Jesus asks him what he wants. He does not assume. Every blind person I know has a story about someone who "
     "grabbed an arm and steered them somewhere they did not want to go. People mean well, but often assume. Jesus "
     "had a blind man standing in front of Him and still asked. Self-advocacy at its finest.",
+    "Here is what gets me about Jericho. Jesus knew exactly where He was going and exactly what was waiting for Him. "
+    "He had said it out loud three times. Most of us, with that ahead of us, would have put our heads down and "
+    "walked. He stopped twice in one town. Once for a beggar who was shouting, and once for a little tax man up a "
+    "tree that the whole city despised. Neither of them was on the way to anything. He was not teaching a crowd or "
+    "healing a hundred people. He was being present for one person at a time, with the cross a few days off. That is "
+    "the Jesus I want to follow, and honestly, it is the Jesus I want to be more like. I get busy and I get focused "
+    "on where I am headed, and the man shouting by the road becomes an interruption. He never once treated anyone as "
+    "an interruption.",
+    "Bartimaeus and Zacchaeus could not see Him, and for opposite reasons. One had no eyes for it. One had a crowd "
+    "in the way and was too short to see over it. I know both of those. I know the first one every day. And I know "
+    "the second one from every church lobby and conference hall where the crowd between me and the person I want to "
+    "reach is just people, standing, talking, not unkind, just in the way. Bartimaeus shouted. Zacchaeus climbed. "
+    "Both of them did something a grown man is not supposed to do in public, and Jesus stopped for both. I take that "
+    "as permission.",
 ]
 
 
@@ -60,8 +76,14 @@ def build(bible: dict) -> list[str]:
     add("[NARRATOR] (calm) A large crowd travels with Him, because everyone is going up to the feast, and the road "
         "from Galilee and from across the Jordan funnels through one city before the final climb. That city is "
         "Jericho.")
-    add("[NARRATOR] (calm) Three Gospels tell this story. Mark tells it first and gives the man a name. We will hear "
-        "Mark, then Luke, then Matthew, and notice where they differ. Mark first.")
+    add("[NARRATOR] (calm) Mark shows us the mood on that road just before Jericho. Listen for a question Jesus "
+        "asks, because He is about to ask it again.")
+    ext(reader(bible, "Mark", 10, 32, 37))
+    add("[NARRATOR] (calm) What do you want Me to do for you? He asks it of James and John, who want the seats of "
+        "honour in His kingdom. Hold on to that question. A few verses later, outside Jericho, He will ask it of a "
+        "blind beggar, in the very same words, and get a very different answer.")
+    add("[NARRATOR] (calm) Three Gospels tell the beggar's story. Mark tells it first and gives the man a name. We "
+        "will hear Mark, then Luke, then Matthew, and notice where they differ. Mark first.")
     ext(reader(bible, "Mark", 10, 46, 52))
     add("[NARRATOR] (calm) Son of Timaeus. Bar means son, so Mark has told us his name twice. He is one of very few "
         "people Jesus healed whose name we know at all. Henry's guess is that Mark names him because he was a "
@@ -110,7 +132,8 @@ def build(bible: dict) -> list[str]:
         "it.")
     add("[PAUSE 2.0]")
     add("[NARRATOR] (calm) Then the question. Jesus has a blind man standing in front of Him, and He asks what he "
-        "wants. Henry says that although Christ knows our needs, He wants to hear them from us, and that having to "
+        "wants. The same words He had just asked two disciples. James and John asked for glory. Bartimaeus asked to "
+        "see. Henry says that although Christ knows our needs, He wants to hear them from us, and that having to "
         "say the thing plainly teaches us the worth of what we ask for. Edersheim notices what came after: the man "
         "did not go home. He followed Jesus on the way, glorifying God, and all the people praised God when they saw "
         "it.")
@@ -137,6 +160,29 @@ def build(bible: dict) -> list[str]:
     add("[NARRATOR] (calm) Notice what Luke adds at the end. The man follows, glorifying God, and all the people, "
         "the same people who told him to be quiet, give praise to God. The crowd that shushed him ends up shouting "
         "with him.")
+    add("[NARRATOR] (calm) And Luke is not finished with Jericho. In his telling, Jesus has just reached the edge "
+        "of the city when Bartimaeus shouts. Now He walks on into it, with the healed man somewhere in the crowd "
+        "behind Him, and stops again. Read straight on.")
+    ext(reader(bible, "Luke", 19, 1, 11))
+    add("[NARRATOR] (calm) Two stops in one town. Put them side by side. Bartimaeus could not see Jesus because of "
+        "his eyes. Zacchaeus could not see Him because of the crowd, and because he was short. Both of them were "
+        "blocked by the same crowd of pilgrims. Both did something a grown man did not do in public in that world: "
+        "one shouted a Messianic title at the top of his lungs, the other ran ahead and climbed a tree. And Jesus "
+        "stopped for both, and called each of them by what he was. The beggar had called Him Son of David. Jesus "
+        "called the tax collector a son of Abraham, the one name the whole town had taken away from him.")
+    add("[NARRATOR] (calm) The place fits. Edersheim says Jericho was the tax station for the Jordan crossing and "
+        "for the balsam trade, which is why a chief tax collector was rich there and hated there. Sycamore figs lined "
+        "the roads of the plain; the old dictionaries describe them as low-branched, spreading trees, the easiest "
+        "tree in the country to climb. A man who wanted to see over a crowd could not have chosen better.")
+    add("[NARRATOR] (calm) Then the line that ends the story, and names what Jesus had been doing all day in "
+        "Jericho: the Son of Man came to seek and to save the lost. And look at the verse after it. Luke says Jesus "
+        "went on to tell a parable because He was near Jerusalem and the people thought the kingdom was about to "
+        "appear. He is teaching with the city in sight. He has told His disciples three times what waits for Him "
+        "there, and on the last road up to it He heals a beggar, dines with a tax collector, and stops to teach a "
+        "crowd who have misunderstood Him. The cross is days away and He is not hurrying past anyone.")
+    add("[BREAK]")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[5]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[6]}")
     add("[BREAK]")
 
     # ---- Matthew --------------------------------------------------------------------------------

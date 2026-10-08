@@ -18,7 +18,25 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* A large crowd travels with Him, because everyone is going up to the feast, and the road from Galilee and from across the Jordan funnels through one city before the final climb. That city is Jericho.
 
-**Narrator** *(calm)* Three Gospels tell this story. Mark tells it first and gives the man a name. We will hear Mark, then Luke, then Matthew, and notice where they differ. Mark first.
+**Narrator** *(calm)* Mark shows us the mood on that road just before Jericho. Listen for a question Jesus asks, because He is about to ask it again.
+
+**Narrator** *(calm)* Mark chapter 10, verses 32 to 37.
+
+> **Reader** *(plainly)* As they were going up the road to Jerusalem, Jesus was walking ahead of them. The disciples were amazed, but those who followed were afraid. Again Jesus took the Twelve aside and began to tell them what was going to happen to Him:
+
+> **Reader** *(plainly)* “Look, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and scribes. They will condemn Him to death and will deliver Him over to the Gentiles,
+
+> **Reader** *(plainly)* who will mock Him and spit on Him and flog Him and kill Him. And after three days He will rise again.”
+
+> **Reader** *(plainly)* Then James and John, the sons of Zebedee, came to Jesus and declared, “Teacher, we want You to do for us whatever we ask.”
+
+> **Reader** *(plainly)* “What do you want Me to do for you?” He inquired.
+
+> **Reader** *(plainly)* They answered, “Grant that one of us may sit at Your right hand and the other at Your left in Your glory.”
+
+**Narrator** *(calm)* What do you want Me to do for you? He asks it of James and John, who want the seats of honour in His kingdom. Hold on to that question. A few verses later, outside Jericho, He will ask it of a blind beggar, in the very same words, and get a very different answer.
+
+**Narrator** *(calm)* Three Gospels tell the beggar's story. Mark tells it first and gives the man a name. We will hear Mark, then Luke, then Matthew, and notice where they differ. Mark first.
 
 **Narrator** *(calm)* Mark chapter 10, verses 46 to 52.
 
@@ -78,7 +96,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 2.0 s)*
 
-**Narrator** *(calm)* Then the question. Jesus has a blind man standing in front of Him, and He asks what he wants. Henry says that although Christ knows our needs, He wants to hear them from us, and that having to say the thing plainly teaches us the worth of what we ask for. Edersheim notices what came after: the man did not go home. He followed Jesus on the way, glorifying God, and all the people praised God when they saw it.
+**Narrator** *(calm)* Then the question. Jesus has a blind man standing in front of Him, and He asks what he wants. The same words He had just asked two disciples. James and John asked for glory. Bartimaeus asked to see. Henry says that although Christ knows our needs, He wants to hear them from us, and that having to say the thing plainly teaches us the worth of what we ask for. Edersheim notices what came after: the man did not go home. He followed Jesus on the way, glorifying God, and all the people praised God when they saw it.
 
 ---
 
@@ -119,6 +137,44 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 **Narrator** *(calm)* Luke says as Jesus drew near to Jericho. Mark says as He was leaving. There were in fact two Jerichos in Jesus's day: the old city of Joshua's time lay in ruins near Elisha's spring, and the new town Herod and his son built, with palaces and gardens, stood a short distance off. Some readers since have used that to make the accounts agree, with the healing on the road between them. None of our old books does. Matthew Henry says only that Luke's word for near can mean leaving as well as arriving. Edersheim says plainly that it is better to admit the difficulty than to force a harmony. We will leave it where he left it.
 
 **Narrator** *(calm)* Notice what Luke adds at the end. The man follows, glorifying God, and all the people, the same people who told him to be quiet, give praise to God. The crowd that shushed him ends up shouting with him.
+
+**Narrator** *(calm)* And Luke is not finished with Jericho. In his telling, Jesus has just reached the edge of the city when Bartimaeus shouts. Now He walks on into it, with the healed man somewhere in the crowd behind Him, and stops again. Read straight on.
+
+**Narrator** *(calm)* Luke chapter 19, verses 1 to 11.
+
+> **Reader** *(plainly)* Then Jesus entered Jericho and was passing through.
+
+> **Reader** *(plainly)* And there was a man named Zacchaeus, a chief tax collector, who was very wealthy.
+
+> **Reader** *(plainly)* He was trying to see who Jesus was, but could not see over the crowd because he was small in stature.
+
+> **Reader** *(plainly)* So he ran on ahead and climbed a sycamore tree to see Him, since Jesus was about to pass that way.
+
+> **Reader** *(plainly)* When Jesus came to that place, He looked up and said, “Zacchaeus, hurry down, for I must stay at your house today.”
+
+> **Reader** *(plainly)* So Zacchaeus hurried down and welcomed Him joyfully.
+
+> **Reader** *(plainly)* And all who saw this began to grumble, saying, “He has gone to be the guest of a sinful man!”
+
+> **Reader** *(plainly)* But Zacchaeus stood up and said to the Lord, “Look, Lord, half of my possessions I give to the poor, and if I have cheated anyone, I will repay it fourfold.”
+
+> **Reader** *(plainly)* Jesus said to him, “Today salvation has come to this house, because this man too is a son of Abraham.
+
+> **Reader** *(plainly)* For the Son of Man came to seek and to save the lost.”
+
+> **Reader** *(plainly)* While the people were listening to this, Jesus proceeded to tell them a parable, because He was near Jerusalem and they thought the kingdom of God would appear imminently.
+
+**Narrator** *(calm)* Two stops in one town. Put them side by side. Bartimaeus could not see Jesus because of his eyes. Zacchaeus could not see Him because of the crowd, and because he was short. Both of them were blocked by the same crowd of pilgrims. Both did something a grown man did not do in public in that world: one shouted a Messianic title at the top of his lungs, the other ran ahead and climbed a tree. And Jesus stopped for both, and called each of them by what he was. The beggar had called Him Son of David. Jesus called the tax collector a son of Abraham, the one name the whole town had taken away from him.
+
+**Narrator** *(calm)* The place fits. Edersheim says Jericho was the tax station for the Jordan crossing and for the balsam trade, which is why a chief tax collector was rich there and hated there. Sycamore figs lined the roads of the plain; the old dictionaries describe them as low-branched, spreading trees, the easiest tree in the country to climb. A man who wanted to see over a crowd could not have chosen better.
+
+**Narrator** *(calm)* Then the line that ends the story, and names what Jesus had been doing all day in Jericho: the Son of Man came to seek and to save the lost. And look at the verse after it. Luke says Jesus went on to tell a parable because He was near Jerusalem and the people thought the kingdom was about to appear. He is teaching with the city in sight. He has told His disciples three times what waits for Him there, and on the last road up to it He heals a beggar, dines with a tax collector, and stops to teach a crowd who have misunderstood Him. The cross is days away and He is not hurrying past anyone.
+
+---
+
+**Brian** *(calm)* Here is what gets me about Jericho. Jesus knew exactly where He was going and exactly what was waiting for Him. He had said it out loud three times. Most of us, with that ahead of us, would have put our heads down and walked. He stopped twice in one town. Once for a beggar who was shouting, and once for a little tax man up a tree that the whole city despised. Neither of them was on the way to anything. He was not teaching a crowd or healing a hundred people. He was being present for one person at a time, with the cross a few days off. That is the Jesus I want to follow, and honestly, it is the Jesus I want to be more like. I get busy and I get focused on where I am headed, and the man shouting by the road becomes an interruption. He never once treated anyone as an interruption.
+
+**Brian** *(calm)* Bartimaeus and Zacchaeus could not see Him, and for opposite reasons. One had no eyes for it. One had a crowd in the way and was too short to see over it. I know both of those. I know the first one every day. And I know the second one from every church lobby and conference hall where the crowd between me and the person I want to reach is just people, standing, talking, not unkind, just in the way. Bartimaeus shouted. Zacchaeus climbed. Both of them did something a grown man is not supposed to do in public, and Jesus stopped for both. I take that as permission.
 
 ---
 

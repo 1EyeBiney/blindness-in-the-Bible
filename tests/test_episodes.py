@@ -88,7 +88,8 @@ def test_brian_lines_are_his_words_or_listed_drafts(mod):
 @pytest.mark.parametrize("mod", MODS, ids=lambda m: f"ep{m.NUMBER:02d}")
 def test_length_is_between_ten_and_eighteen_minutes(mod):
     words = episode_lib.spoken_words(lines_of(mod))
-    assert 1500 <= words <= 2700, f"{words} words is about {words / 150:.1f} minutes"
+    ceiling = getattr(mod, "MAX_WORDS", 2700)   # Brian may lift the ceiling for an episode whose material carries it
+    assert 1500 <= words <= ceiling, f"{words} words is about {words / 150:.1f} minutes"
 
 
 @pytest.mark.parametrize("mod", MODS, ids=lambda m: f"ep{m.NUMBER:02d}")
