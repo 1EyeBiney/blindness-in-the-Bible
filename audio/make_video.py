@@ -100,7 +100,7 @@ def main(project: str, mix: str) -> None:
         sections = [{"id": r["id"], "speaker": r["speaker"], "start": float(r["start_sec"]), "end": float(r["end_sec"])}
                     for r in csv.DictReader(fh)]
     shots = json.loads((root / "shots" / f"{project}.json").read_text(encoding="utf-8"))
-    script = root / "scripts" / "man_born_blind_02.txt"
+    script = root / "scripts" / ("man_born_blind_02.txt" if project == "man_born_blind_v2" else project.replace("_v2", "_02") + ".txt")
     texts, n = {}, 0
     for ln in script.read_text(encoding="utf-8").splitlines():
         if ln.startswith("[") and not ln.startswith(("[BREAK]", "[PAUSE")):

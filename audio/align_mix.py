@@ -1,6 +1,7 @@
 """Find where each rendered section sits inside Brian's Reaper mix, by cross-correlation.
 
-Run from audio/:  python align_mix.py man_born_blind_v2 renders/man_born_blind_v2/section_1/man_born_blind_v2.wav
+Run from audio/:  python align_mix.py <project> <mix.wav> [script.txt]
+  e.g. python align_mix.py ep02_bartimaeus_v2 renders/ep02_bartimaeus_v2/section_1/ep02_bartimaeus_v2.wav
 Writes deliver/<project>/timing.csv: id, speaker, start_sec, end_sec, confidence, first words.
 
 Why: the mix adds music and effects and may shift timing, so labs_pipe's markers.csv no longer applies.
@@ -44,7 +45,8 @@ def main(project: str, mix_path: str) -> None:
     sel = root / "selected" / project / "section_1"
     files = sorted(p for p in sel.glob("*.mp3"))
     texts = {}
-    script = root / "scripts" / ("man_born_blind_02.txt" if project.endswith("v2") else "man_born_blind_01.txt")
+    script = root / "scripts" / (sys.argv[3] if len(sys.argv) > 3 else
+                                 ("man_born_blind_02.txt" if project == "man_born_blind_v2" else project.replace("_v2", "_02") + ".txt"))
     n = 0
     for ln in script.read_text(encoding="utf-8").splitlines():
         if ln.startswith("[") and not ln.startswith(("[BREAK]", "[PAUSE")):
