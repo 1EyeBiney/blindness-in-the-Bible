@@ -9,8 +9,8 @@ PASSAGES = [("Mark", 10, 32, 37), ("Mark", 10, 46, 52), ("Luke", 18, 35, 43), ("
 MAX_WORDS = 3600   # Brian, 9 October 2026: no time limit on this one; the material carries it
 
 # Written in Brian's voice from what he has told Claude, for his approval. Not his until he says so.
-# APPROVED: indices Brian has read and edited himself (8 October 2026): 2, 3, 4. Still drafts: 0, 1, 5, 6.
-APPROVED = {2, 3, 4}
+# APPROVED: indices Brian has read and edited himself (8-9 October 2026): 2, 3, 4, 6. Still drafts: 0, 1, 5.
+APPROVED = {2, 3, 4, 6}
 DRAFT_BRIAN = [
     "Bartimaeus asks to see again. That one word is the whole difference between him and the man born blind. "
     "I lost my sight in 2014, after a lifetime of seeing. I know what a face looks like, what Jericho's palms would "
@@ -43,8 +43,8 @@ DRAFT_BRIAN = [
     "in the way and was too short to see over it. I know both of those. I know the first one every day. And I know "
     "the second one from every church lobby and conference hall where the crowd between me and the person I want to "
     "reach is just people, standing, talking, not unkind, just in the way. Bartimaeus shouted. Zacchaeus climbed. "
-    "Both of them did something a grown man is not supposed to do in public, and Jesus stopped for both. I take that "
-    "as permission.",
+    "Both actions are not something a grown man is supposed to do in public, but hey. If they get to do it, watch "
+    "out Tom and Treesa, and anyone else in the pews in front of me at church.",
 ]
 
 
