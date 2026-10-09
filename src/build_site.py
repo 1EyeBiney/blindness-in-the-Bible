@@ -260,6 +260,7 @@ def story_page(story: dict, bible: dict, order: list[dict]) -> str:
              listen_html(story.get("listen"), "../"),
              f"<h2>What led up to it</h2><p>{e(story['around'])}</p>",
              f"<h2>What happens</h2><p>{e(story['happens'])}</p>",
+             (f"<h2>Before and after</h2><p>{e(story['before_after'])}</p>" if story.get("before_after") else ""),
              f"<h2>In their shoes</h2><p>{e(story['shoes'])}</p>"]
     if story.get("sight"):
         sight = e(story["sight"]).replace("See what blind means here.",

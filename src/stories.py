@@ -267,6 +267,15 @@ STORIES = [
     },
     {
         "slug": "bartimaeus", "title": "Bartimaeus at Jericho", "who": "Bartimaeus", "group": "given",
+        "listen": {"youtube": "zzAgXrX9NEM", "mp3": "not_by_sight_02_bartimaeus_at_jericho.mp3", "minutes": 22,
+                   "title": "Not By Sight, Episode 2: Bartimaeus at Jericho"},
+        "before_after": "Just before Jericho, Mark records James and John asking Jesus for the seats of honour, and "
+                        "Jesus asking them, \"What do you want Me to do for you?\" A few verses later He asks a blind "
+                        "beggar the very same words. And Luke carries the story straight on into the town: Jesus stops "
+                        "a second time, for Zacchaeus the tax collector, who could not see Him over the crowd and "
+                        "climbed a sycamore fig (Luke 19:1-10). Two men in one town who could not see Him, for opposite "
+                        "reasons, and He stopped for both, a few days from the cross. Then He told a parable because He "
+                        "was near Jerusalem (Luke 19:11). He was still teaching with the city in sight.",
         "outcome": "restored",
         "passages": [("Mark", 10, 46, 52), ("Luke", 18, 35, 43), ("Matthew", 20, 29, 34)],
         "around": "Jesus is on His last journey to Jerusalem, a few days before His death, with a large crowd "
