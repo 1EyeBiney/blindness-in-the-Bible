@@ -1,0 +1,17 @@
+[
+  {"slug": "crowd_approach_far",
+   "prompt": "A large crowd of people walking slowly along a dusty dirt road, heard from far away and gradually getting closer over the whole clip, many sandals on packed earth, murmured voices, no music, outdoors, dry air, ancient Middle East, first century, no vehicles",
+   "seconds": 22, "variants": 4, "influence": 0.5},
+  {"slug": "crowd_approach_murmur",
+   "prompt": "Distant crowd murmur approaching on foot, hundreds of people talking quietly as they walk, footsteps growing louder and nearer, occasional donkey bray far off, open-air road, no music, no modern sounds",
+   "seconds": 22, "variants": 3, "influence": 0.45},
+  {"slug": "road_cart_squeak",
+   "prompt": "A wooden cart with one squeaking wheel pulled slowly by a mule along a dirt road, hooves, creaking wood, the squeak repeating every turn, outdoors, no voices, no music, ancient road",
+   "seconds": 12, "variants": 3, "influence": 0.6},
+  {"slug": "road_animals_far",
+   "prompt": "Sheep bleating and a few goats in a field off to one side, chickens pecking and clucking nearby, a cow lowing once in the distance, warm open-air countryside, light breeze, no music, no people, ancient farmland",
+   "seconds": 20, "variants": 3, "influence": 0.5},
+  {"slug": "crowd_stops",
+   "prompt": "A walking crowd on a dirt road suddenly stops, footsteps and voices cut off together within a second, then a held outdoor silence with a faint breeze and one distant bird, no music",
+   "seconds": 10, "variants": 3, "influence": 0.6}
+]
