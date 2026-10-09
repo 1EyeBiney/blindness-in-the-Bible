@@ -58,16 +58,18 @@
     },
     "BARTIMAEUS": {
       "name": "Bartimaeus",
-      "voice_id": "REPLACE_ME",
+      "voice_id": "IKne3meq5aSn9XLyUdCD",
       "description": "Adult male, a roadside beggar at Jericho who once could see. Quick, loud when he needs to be, glad. Only in an imagined scene.",
       "stability": 0.45,
-      "style": 0.2
+      "style": 0.2,
+      "_voice": "Charlie (picked by Brian, 9 October 2026)"
     },
     "VOICE": {
       "name": "A voice in the crowd",
-      "voice_id": "REPLACE_ME",
+      "voice_id": "SAz9YHcvj6GT2YYXdXww",
       "description": "Any adult, a passer-by or bystander who answers a question or offers an arm. One or two lines. Only in imagined scenes.",
-      "stability": 0.55
+      "stability": 0.55,
+      "_voice": "River (picked by Brian, 9 October 2026)"
     },
     "FRIEND": {
       "name": "A friend",
