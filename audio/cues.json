@@ -82,6 +82,16 @@
       "stability": 0.85,
       "style": 0.0,
       "speed": 0.95
+    },
+    "calling out": {
+      "tag": "[shouts]",
+      "stability": 0.4,
+      "style": 0.3
+    },
+    "raised voice": {
+      "stability": 0.45,
+      "style": 0.2,
+      "speed": 1.05
     }
   }
 }

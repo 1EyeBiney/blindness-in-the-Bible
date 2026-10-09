@@ -122,12 +122,13 @@ def build(bible: dict) -> list[str]:
     add("[BARTIMAEUS] (curious) Friend. You, with the basket, I can hear it creak. What is this? Who is passing?")
     add("[VOICE] (calm) Jesus. The Nazarene. The teacher who healed in Galilee. He is going up to the feast.")
     add("[BARTIMAEUS] (excited) Jesus. Son of David. Son of David, have mercy on me!")
-    add("[VOICE] (calm) Quiet. He is teaching. You will not be heard over this crowd anyway.")
+    add("[VOICE] (raised voice) Quiet. He is teaching. You will not be heard over this crowd anyway.")
     add("[BARTIMAEUS] (excited) Son of David! Have mercy on me!")
     add("[PAUSE 1.0]")
     add("[BARTIMAEUS] (whisper) The crowd stops. I hear it stop, the way a river sound stops when you put your "
         "hand over your ears. Feet shuffling. Someone far ahead has said something.")
-    add("[VOICE] (excited) Take courage. Get up. He is calling you. Here, your hand, this way.")
+    add("[VOICE] (calling out) Take courage! Get up, he is calling you!")
+    add("[VOICE] (calm) Here, your hand, this way.")
     add("[BARTIMAEUS] (whisper) My cloak is on the ground with the morning's coins in it. Leave it. Leave all of "
         "it.")
     add("[PAUSE 2.0]")

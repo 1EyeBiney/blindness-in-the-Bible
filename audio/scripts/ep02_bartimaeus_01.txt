@@ -47,11 +47,12 @@
 [BARTIMAEUS] (curious) Friend. You, with the basket, I can hear it creak. What is this? Who is passing?
 [VOICE] (calm) Jesus. The Nazarene. The teacher who healed in Galilee. He is going up to the feast.
 [BARTIMAEUS] (excited) Jesus. Son of David. Son of David, have mercy on me!
-[VOICE] (calm) Quiet. He is teaching. You will not be heard over this crowd anyway.
+[VOICE] (raised voice) Quiet. He is teaching. You will not be heard over this crowd anyway.
 [BARTIMAEUS] (excited) Son of David! Have mercy on me!
 [PAUSE 1.0]
 [BARTIMAEUS] (whisper) The crowd stops. I hear it stop, the way a river sound stops when you put your hand over your ears. Feet shuffling. Someone far ahead has said something.
-[VOICE] (excited) Take courage. Get up. He is calling you. Here, your hand, this way.
+[VOICE] (calling out) Take courage! Get up, he is calling you!
+[VOICE] (calm) Here, your hand, this way.
 [BARTIMAEUS] (whisper) My cloak is on the ground with the morning's coins in it. Leave it. Leave all of it.
 [PAUSE 2.0]
 [NARRATOR] (calm) Then the question. Jesus has a blind man standing in front of Him, and He asks what he wants. The same words He had just asked two disciples. James and John asked for glory. Bartimaeus asked to see. Henry says that although Christ knows our needs, He wants to hear them from us, and that having to say the thing plainly teaches us the worth of what we ask for. Edersheim notices what came after: the man did not go home. He followed Jesus on the way, glorifying God, and all the people praised God when they saw it.
