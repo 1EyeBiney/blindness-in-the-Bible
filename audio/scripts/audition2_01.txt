@@ -1,0 +1,34 @@
+@project: audition2
+@section: 1
+@cast: casts/audition2.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Second audition: each candidate reads one line of its intended role.
+
+# BARTIMAEUS
+[BARTIMAEUS_WILL] (excited) Friend. You, with the basket, I can hear it creak. What is this? Who is passing? Jesus. Son of David. Son of David, have mercy on me!
+[BARTIMAEUS_JERRY] (excited) Friend. You, with the basket, I can hear it creak. What is this? Who is passing? Jesus. Son of David. Son of David, have mercy on me!
+[BARTIMAEUS_CHARLIE] (excited) Friend. You, with the basket, I can hear it creak. What is this? Who is passing? Jesus. Son of David. Son of David, have mercy on me!
+[BARTIMAEUS_ERIC] (excited) Friend. You, with the basket, I can hear it creak. What is this? Who is passing? Jesus. Son of David. Son of David, have mercy on me!
+
+# VOICE
+[VOICE_RIVER] (calm) Take courage. Get up. He is calling you. Here, your hand, this way.
+[VOICE_JUNIPER] (calm) Take courage. Get up. He is calling you. Here, your hand, this way.
+[VOICE_SARAH] (calm) Take courage. Get up. He is calling you. Here, your hand, this way.
+
+# FRIEND
+[FRIEND_ROGER] (calm) Nearly there. I am going to sit you down right in front of him. Then I will step back. I am not going anywhere. I did not carry you up a mountain to lose you at the top.
+[FRIEND_ARTHUR] (calm) Nearly there. I am going to sit you down right in front of him. Then I will step back. I am not going anywhere. I did not carry you up a mountain to lose you at the top.
+[FRIEND_HECTOR] (calm) Nearly there. I am going to sit you down right in front of him. Then I will step back. I am not going anywhere. I did not carry you up a mountain to lose you at the top.
+
+# JOHN
+[JOHN_GEORGE] (calm) Well? Did you ask him? And what did he say? Say it.
+[JOHN_JOHNDOE] (calm) Well? Did you ask him? And what did he say? Say it.
+[JOHN_ADAM] (calm) Well? Did you ask him? And what did he say? Say it.
+[JOHN_DANIEL] (calm) Well? Did you ask him? And what did he say? Say it.
+
+# DISCIPLE
+[DISCIPLE_RUSS] (calm) Then he turned to us and said, go back and tell John what you have seen and heard. The blind see. The lame walk. And then he said one more thing, and I think it was for you.
+[DISCIPLE_JERRY2] (calm) Then he turned to us and said, go back and tell John what you have seen and heard. The blind see. The lame walk. And then he said one more thing, and I think it was for you.
+[DISCIPLE_ARTHUR2] (calm) Then he turned to us and said, go back and tell John what you have seen and heard. The blind see. The lame walk. And then he said one more thing, and I think it was for you.
