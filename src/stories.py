@@ -250,6 +250,8 @@ STORIES = [
     },
     {
         "slug": "bethsaida", "title": "The blind man at Bethsaida", "who": "The blind man at Bethsaida",
+        "listen": {"youtube": "M_LW64UXuxY", "mp3": "not_by_sight_03_the_blind_man_at_bethsaida.mp3", "minutes": 18,
+                   "title": "Not By Sight, Episode 3: The blind man at Bethsaida"},
         "group": "given", "outcome": "restored",
         "passages": [("Mark", 8, 22, 26)],
         "around": "Jesus has just fed four thousand and has rebuked His disciples in the boat for not understanding: "
