@@ -1,0 +1,23 @@
+{
+  "slug": "bethsaida_village",
+  "takes": [
+    {
+      "file": "bethsaida_village_v1.mp3",
+      "prompt": "A small ancient fishing village by a lake in the morning: goats bleating, a hammer on wood, voices in narrow lanes, a cockerel, gulls, a cart, water somewhere near, no music, no modern sounds",
+      "seconds": 22.0,
+      "influence": 0.5,
+      "loop": true,
+      "bytes": 353219,
+      "made": "2026-10-10T11:49:09"
+    },
+    {
+      "file": "bethsaida_village_v2.mp3",
+      "prompt": "A small ancient fishing village by a lake in the morning: goats bleating, a hammer on wood, voices in narrow lanes, a cockerel, gulls, a cart, water somewhere near, no music, no modern sounds",
+      "seconds": 22.0,
+      "influence": 0.5,
+      "loop": true,
+      "bytes": 353219,
+      "made": "2026-10-10T11:49:14"
+    }
+  ]
+}

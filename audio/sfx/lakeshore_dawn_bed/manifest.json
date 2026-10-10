@@ -1,0 +1,32 @@
+{
+  "slug": "lakeshore_dawn_bed",
+  "takes": [
+    {
+      "file": "lakeshore_dawn_bed_v1.mp3",
+      "prompt": "Small waves lapping gently on a stony lake shore at dawn, light steady breeze, a few distant gulls, calm fresh water, no music, no people, no modern sounds, seamless ambient bed",
+      "seconds": 22.0,
+      "influence": 0.45,
+      "loop": true,
+      "bytes": 353219,
+      "made": "2026-10-10T11:47:44"
+    },
+    {
+      "file": "lakeshore_dawn_bed_v2.mp3",
+      "prompt": "Small waves lapping gently on a stony lake shore at dawn, light steady breeze, a few distant gulls, calm fresh water, no music, no people, no modern sounds, seamless ambient bed",
+      "seconds": 22.0,
+      "influence": 0.45,
+      "loop": true,
+      "bytes": 353219,
+      "made": "2026-10-10T11:47:49"
+    },
+    {
+      "file": "lakeshore_dawn_bed_v3.mp3",
+      "prompt": "Small waves lapping gently on a stony lake shore at dawn, light steady breeze, a few distant gulls, calm fresh water, no music, no people, no modern sounds, seamless ambient bed",
+      "seconds": 22.0,
+      "influence": 0.45,
+      "loop": true,
+      "bytes": 353219,
+      "made": "2026-10-10T11:47:55"
+    }
+  ]
+}

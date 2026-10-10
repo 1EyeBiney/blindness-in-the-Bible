@@ -1,0 +1,32 @@
+{
+  "slug": "quiet_by_the_water",
+  "takes": [
+    {
+      "file": "quiet_by_the_water_v1.mp3",
+      "prompt": "Very quiet lakeside close-up: gentle water lapping a stone edge a few feet away, one gull far off, a soft breeze, a man's slow breathing, no crowd, no music, held stillness",
+      "seconds": 16.0,
+      "influence": 0.5,
+      "loop": false,
+      "bytes": 257088,
+      "made": "2026-10-10T11:48:54"
+    },
+    {
+      "file": "quiet_by_the_water_v2.mp3",
+      "prompt": "Very quiet lakeside close-up: gentle water lapping a stone edge a few feet away, one gull far off, a soft breeze, a man's slow breathing, no crowd, no music, held stillness",
+      "seconds": 16.0,
+      "influence": 0.5,
+      "loop": false,
+      "bytes": 257088,
+      "made": "2026-10-10T11:48:57"
+    },
+    {
+      "file": "quiet_by_the_water_v3.mp3",
+      "prompt": "Very quiet lakeside close-up: gentle water lapping a stone edge a few feet away, one gull far off, a soft breeze, a man's slow breathing, no crowd, no music, held stillness",
+      "seconds": 16.0,
+      "influence": 0.5,
+      "loop": false,
+      "bytes": 257088,
+      "made": "2026-10-10T11:49:01"
+    }
+  ]
+}

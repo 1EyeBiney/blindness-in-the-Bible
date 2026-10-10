@@ -2,9 +2,17 @@
 
 Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
-**Narrator** *(calm)* Two men are walking fast down a road they cannot see, after a crowd they can only hear, shouting a title at a man who will not turn around.
+**Narrator** *(calm)* Two men are sitting at the side of a road, and a crowd is coming.
 
-**Narrator** *(beat)* He keeps walking. They keep following. Into the town, down a street, through a doorway, into a house. Only then does He turn and speak to them, and what He says is a question.
+*(pause 1.0 s)*
+
+**Narrator** *(beat)* Stay with them a moment, because they will hear it long before anyone could see it. A crowd in a small town is not one sound. It is a hundred. Sandals on packed earth, first a few and then so many that the footsteps blur into one long shuffle. Voices on top of voices, nobody shouting yet, everybody talking at once, the way people talk when something has just happened and they were there. A child being carried and complaining about it. A dog. And somewhere in the middle of it all, one quieter space, where the talking stops for a step or two as people pass whoever it is they are following.
+
+**Narrator** *(calm)* Two blind men know what that sound means before anyone tells them. A crowd like that has a centre, and the centre is moving. They have heard the news for days, the synagogue ruler's daughter, dead and then not dead. Now the man who did it is walking past them, close enough to hear His sandals, and He is not stopping.
+
+*(pause 1.0 s)*
+
+**Narrator** *(beat)* So they do the thing a blind man in a crowd almost never does. They get up and walk into it.
 
 *(pause 1.5 s)*
 
@@ -30,29 +38,39 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* Son of David. Matthew Henry notes that this was the common name for the Messiah, the King promised to David's line. These two were not calling a healer. They were naming who they believed He was, in the street, in a town where that was a dangerous thing to say. Henry pictures them following Him through the streets as beggars did, with their incessant cries. He also notices the pronoun. They did not each say have mercy on me. They said have mercy on us. Two men in the same trouble, with one prayer between them.
 
+**Narrator** *(calm)* And notice what Jesus does with their shouting. Nothing. He keeps walking. Matthew says they followed Him, and only when He had gone into the house did He turn and speak. Henry says it plainly: He did not take notice of them at first, for He would try their faith, which He knew to be strong. And when they pushed into the house after Him, which Henry admits looked rude, they were, in his words, not more bold than welcome. A faith that walks after Him down a street and through a door is a different thing from a faith that shouts from the roadside. The healing waited until they had followed Him all the way in.
+
 **Narrator** *(calm)* Where this happened is not certain. Edersheim places it on the way back into Capernaum, Jesus's home base on the north shore of the Sea of Galilee, a town of stone houses with flat roofs and narrow lanes running down to the water. The house would have been one of those: a courtyard, a doorway, a dim room. Elsewhere Edersheim wonders whether the details point somewhere else, and does not settle it. The place is uncertain. The path is not: road, street, door, house.
 
 ---
 
-**Narrator** *(calm)* Scripture tells us they followed and what they shouted. It does not tell us how two blind men kept up with a moving crowd. We imagine two men who had worked it out between them. This is a scene, not Scripture.
+**Narrator** *(calm)* Scripture tells us they followed and what they shouted. It does not tell us how two blind men kept up with a moving crowd, or how they got through it at the door. We imagine two men who had worked the first part out long ago, and had to work the second part out that day. This is a scene, not Scripture.
 
 *(pause 1.0 s)*
 
-**Man** *(excited)* He is coming out. The gate, the gate is opening, hear it? Hand on my shoulder, stay close.
+**Man** *(whisper)* Here they come. Hear it? That is not market noise. That is one crowd, all going the same way.
+
+**Friend** *(whisper)* There is a gap in it. A quiet place in the middle. Somebody they are all walking around.
+
+**Man** *(excited)* It is him. Up. Hand on my shoulder, stay close. Son of David, have mercy on us!
 
 **Friend** *(excited)* Son of David, have mercy on us!
 
-**Man** *(calm)* He is not stopping. The crowd is moving left, toward the lake road. Come on.
+**Man** *(calm)* He is not stopping. The crowd is moving left, toward the lake road. Come on. We do not need eyes for this part. The loudest thing in this town is going exactly where we want to go.
 
 **Friend** *(curious)* How do you know it is left?
 
 **Man** *(calm)* The gulls are on the left. The lake is always on the left in this town. Son of David, have mercy on us!
 
-**Voice** *(calm)* Mind the step. There is a step down here. Are you two following the teacher? He has gone into Simon's house.
+**Friend** *(whisper)* Street now. Walls close on both sides, the sound bounces. The crowd is bunching up ahead. They have stopped. A doorway, it must be. They are all trying to get in.
 
-**Man** *(excited)* Then so are we. Which door?
+**Man** *(whisper)* And here is the hard part. Not the road. This. A crowd standing still is a wall of backs and elbows, and if we push, we are the blind men knocking into everyone. Every day of my life I would stop right here and wait.
 
-**Voice** *(calm)* Here. Give me your hand. Low lintel.
+**Friend** *(calm)* Not today.
+
+**Man** *(calm)* No. Not today. Keep your hand on me. Pardon us. Pardon us, we are going in. Son of David!
+
+**Voice** *(calm)* Mind the step. There is a step down here. Are you two following the teacher? He has gone inside. Here. Give me your hand. Low lintel.
 
 **Friend** *(whisper)* Dark in here. Cooler. Oil lamps. A lot of people breathing, and then they go quiet.
 
@@ -70,7 +88,9 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Brian** *(calm)* Two blind men following a crowd down a road and into a house. I want you to picture how that actually works, because it is not what sighted people imagine. You do not follow with your eyes. You follow the sound of the crowd, and you follow each other. One of them has a hand on the other's shoulder, or they are side by side with elbows touching, and whichever one hears better calls the turns. I have done exactly that with another blind friend in a convention hotel, and we got where we were going. It is slower, and it works.
 
-**Brian** *(calm)* Jesus did not stop on the road. He let them follow Him all the way into the house. I used to think that was a little hard. Now I think He was letting them do the thing they could do. They could follow. Every step of that road was them saying we believe you are worth following, before He ever asked whether they believed.
+**Brian** *(calm)* Finding the crowd was never going to be their problem. A crowd that size is the loudest thing in a town, and a house with a crowd inside it leaks noise out of every door and window. Two blind men could have walked straight to it. The problem is the last ten feet. I have stood at the edge of a packed room more times than I can count, and what I do is stop. I stand still, because if I move I bump into people, and if I bump into people I am the blind man knocking into everyone. Standing still is safe. Those two men were desperate to get to Jesus, and they could not get to Him by standing still. So they went into the crowd. That is the bravest thing in the whole story and it gets no verse at all.
+
+**Brian** *(calm)* Jesus did not stop on the road. He let them follow Him all the way into the house. I used to think that was a little hard. Now I think He was letting them do the thing they could do, and maybe testing it. They could follow. Every step of that road was them saying we believe you are worth following, before He ever asked whether they believed. By the time He asked the question, they had already answered it with their feet.
 
 **Brian** *(calm)* Then He asked. Do you believe I am able to do this? He asked two blind men a question and waited for the answer. He did not ask the crowd about them. He did not ask whoever was with them. He asked them. In my experience that is rarer than healing.
 
@@ -124,7 +144,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Brian** *(calm)* According to your faith it will be done to you. I do not read that as a formula, as if the right amount of faith buys the right amount of sight. If it were, I would have been seeing years ago, and so would a lot of people I know who have more faith than I do. I read it as Jesus honoring what those two men had already done with their faith, which was follow Him down a road they could not see, into a house they had never been in, to ask for something nobody could give them. He met them where their faith had already taken them.
+**Brian** *(calm)* According to your faith it will be done to you. I do not read that as a formula, as if the right amount of faith buys the right amount of sight. If it were, I would have been seeing years ago, and so would a lot of people I know who have more faith than I do. I read it as Jesus honoring what those two men had already done with their faith, which was follow Him down a road they could not see, into a house they had never been in, through a crowd they could not push past, to ask for something nobody could give them. He met them where their faith had already taken them.
 
 ---
 

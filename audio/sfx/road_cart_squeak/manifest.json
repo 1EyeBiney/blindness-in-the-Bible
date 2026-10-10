@@ -1,0 +1,32 @@
+{
+  "slug": "road_cart_squeak",
+  "takes": [
+    {
+      "file": "road_cart_squeak_v1.mp3",
+      "prompt": "A wooden cart with one squeaking wheel pulled slowly by a mule along a dirt road, hooves, creaking wood, the squeak repeating every turn, outdoors, no voices, no music, ancient road",
+      "seconds": 12.0,
+      "influence": 0.6,
+      "loop": false,
+      "bytes": 193141,
+      "made": "2026-10-09T01:20:11"
+    },
+    {
+      "file": "road_cart_squeak_v2.mp3",
+      "prompt": "A wooden cart with one squeaking wheel pulled slowly by a mule along a dirt road, hooves, creaking wood, the squeak repeating every turn, outdoors, no voices, no music, ancient road",
+      "seconds": 12.0,
+      "influence": 0.6,
+      "loop": false,
+      "bytes": 193141,
+      "made": "2026-10-09T01:20:14"
+    },
+    {
+      "file": "road_cart_squeak_v3.mp3",
+      "prompt": "A wooden cart with one squeaking wheel pulled slowly by a mule along a dirt road, hooves, creaking wood, the squeak repeating every turn, outdoors, no voices, no music, ancient road",
+      "seconds": 12.0,
+      "influence": 0.6,
+      "loop": false,
+      "bytes": 193141,
+      "made": "2026-10-09T01:20:18"
+    }
+  ]
+}

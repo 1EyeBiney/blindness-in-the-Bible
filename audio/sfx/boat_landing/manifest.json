@@ -1,0 +1,32 @@
+{
+  "slug": "boat_landing",
+  "takes": [
+    {
+      "file": "boat_landing_v1.mp3",
+      "prompt": "A wooden fishing boat being run up onto a gravel shore, hull grinding on stones, oars pulled in and knocked against wood, two or three men jumping down into shallow water, a rope thrown, lake water lapping, no music, no modern sounds, first-century Galilee",
+      "seconds": 14.0,
+      "influence": 0.55,
+      "loop": false,
+      "bytes": 224906,
+      "made": "2026-10-10T11:48:01"
+    },
+    {
+      "file": "boat_landing_v2.mp3",
+      "prompt": "A wooden fishing boat being run up onto a gravel shore, hull grinding on stones, oars pulled in and knocked against wood, two or three men jumping down into shallow water, a rope thrown, lake water lapping, no music, no modern sounds, first-century Galilee",
+      "seconds": 14.0,
+      "influence": 0.55,
+      "loop": false,
+      "bytes": 224906,
+      "made": "2026-10-10T11:48:05"
+    },
+    {
+      "file": "boat_landing_v3.mp3",
+      "prompt": "A wooden fishing boat being run up onto a gravel shore, hull grinding on stones, oars pulled in and knocked against wood, two or three men jumping down into shallow water, a rope thrown, lake water lapping, no music, no modern sounds, first-century Galilee",
+      "seconds": 14.0,
+      "influence": 0.55,
+      "loop": false,
+      "bytes": 224906,
+      "made": "2026-10-10T11:48:09"
+    }
+  ]
+}

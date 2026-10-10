@@ -1,0 +1,23 @@
+{
+  "slug": "boat_on_water",
+  "takes": [
+    {
+      "file": "boat_on_water_v1.mp3",
+      "prompt": "A wooden rowing boat on open lake water, oars dipping and pulling in rhythm, hull creaking, water slapping against planks, a light wind, no voices, no music, no modern sounds",
+      "seconds": 18.0,
+      "influence": 0.55,
+      "loop": true,
+      "bytes": 289271,
+      "made": "2026-10-10T11:49:22"
+    },
+    {
+      "file": "boat_on_water_v2.mp3",
+      "prompt": "A wooden rowing boat on open lake water, oars dipping and pulling in rhythm, hull creaking, water slapping against planks, a light wind, no voices, no music, no modern sounds",
+      "seconds": 18.0,
+      "influence": 0.55,
+      "loop": true,
+      "bytes": 289271,
+      "made": "2026-10-10T11:49:27"
+    }
+  ]
+}

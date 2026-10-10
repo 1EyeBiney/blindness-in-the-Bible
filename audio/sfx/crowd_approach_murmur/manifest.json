@@ -1,0 +1,32 @@
+{
+  "slug": "crowd_approach_murmur",
+  "takes": [
+    {
+      "file": "crowd_approach_murmur_v1.mp3",
+      "prompt": "Distant crowd murmur approaching on foot, hundreds of people talking quietly as they walk, footsteps growing louder and nearer, occasional donkey bray far off, open-air road, no music, no modern sounds",
+      "seconds": 22.0,
+      "influence": 0.45,
+      "loop": false,
+      "bytes": 353219,
+      "made": "2026-10-09T01:19:57"
+    },
+    {
+      "file": "crowd_approach_murmur_v2.mp3",
+      "prompt": "Distant crowd murmur approaching on foot, hundreds of people talking quietly as they walk, footsteps growing louder and nearer, occasional donkey bray far off, open-air road, no music, no modern sounds",
+      "seconds": 22.0,
+      "influence": 0.45,
+      "loop": false,
+      "bytes": 353219,
+      "made": "2026-10-09T01:20:01"
+    },
+    {
+      "file": "crowd_approach_murmur_v3.mp3",
+      "prompt": "Distant crowd murmur approaching on foot, hundreds of people talking quietly as they walk, footsteps growing louder and nearer, occasional donkey bray far off, open-air road, no music, no modern sounds",
+      "seconds": 22.0,
+      "influence": 0.45,
+      "loop": false,
+      "bytes": 353219,
+      "made": "2026-10-09T01:20:05"
+    }
+  ]
+}

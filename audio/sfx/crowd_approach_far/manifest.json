@@ -1,0 +1,41 @@
+{
+  "slug": "crowd_approach_far",
+  "takes": [
+    {
+      "file": "crowd_approach_far_v1.mp3",
+      "prompt": "A large crowd of people walking slowly along a dusty dirt road, heard from far away and gradually getting closer over the whole clip, many sandals on packed earth, murmured voices, no music, outdoors, dry air, ancient Middle East, first century, no vehicles",
+      "seconds": 22.0,
+      "influence": 0.5,
+      "loop": false,
+      "bytes": 353219,
+      "made": "2026-10-09T01:19:38"
+    },
+    {
+      "file": "crowd_approach_far_v2.mp3",
+      "prompt": "A large crowd of people walking slowly along a dusty dirt road, heard from far away and gradually getting closer over the whole clip, many sandals on packed earth, murmured voices, no music, outdoors, dry air, ancient Middle East, first century, no vehicles",
+      "seconds": 22.0,
+      "influence": 0.5,
+      "loop": false,
+      "bytes": 353219,
+      "made": "2026-10-09T01:19:42"
+    },
+    {
+      "file": "crowd_approach_far_v3.mp3",
+      "prompt": "A large crowd of people walking slowly along a dusty dirt road, heard from far away and gradually getting closer over the whole clip, many sandals on packed earth, murmured voices, no music, outdoors, dry air, ancient Middle East, first century, no vehicles",
+      "seconds": 22.0,
+      "influence": 0.5,
+      "loop": false,
+      "bytes": 353219,
+      "made": "2026-10-09T01:19:47"
+    },
+    {
+      "file": "crowd_approach_far_v4.mp3",
+      "prompt": "A large crowd of people walking slowly along a dusty dirt road, heard from far away and gradually getting closer over the whole clip, many sandals on packed earth, murmured voices, no music, outdoors, dry air, ancient Middle East, first century, no vehicles",
+      "seconds": 22.0,
+      "influence": 0.5,
+      "loop": false,
+      "bytes": 353219,
+      "made": "2026-10-09T01:19:51"
+    }
+  ]
+}

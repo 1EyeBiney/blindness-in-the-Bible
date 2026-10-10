@@ -1,0 +1,32 @@
+{
+  "slug": "walk_out_of_village",
+  "takes": [
+    {
+      "file": "walk_out_of_village_v1.mp3",
+      "prompt": "Two people walking slowly at an even pace, sandals on a packed earth street that changes to loose dirt and then to soft grass, while a crowd's noise behind them fades steadily away like a door closing, a lake breeze rising, no music, no modern sounds",
+      "seconds": 22.0,
+      "influence": 0.55,
+      "loop": false,
+      "bytes": 353219,
+      "made": "2026-10-10T11:48:29"
+    },
+    {
+      "file": "walk_out_of_village_v2.mp3",
+      "prompt": "Two people walking slowly at an even pace, sandals on a packed earth street that changes to loose dirt and then to soft grass, while a crowd's noise behind them fades steadily away like a door closing, a lake breeze rising, no music, no modern sounds",
+      "seconds": 22.0,
+      "influence": 0.55,
+      "loop": false,
+      "bytes": 353219,
+      "made": "2026-10-10T11:48:33"
+    },
+    {
+      "file": "walk_out_of_village_v3.mp3",
+      "prompt": "Two people walking slowly at an even pace, sandals on a packed earth street that changes to loose dirt and then to soft grass, while a crowd's noise behind them fades steadily away like a door closing, a lake breeze rising, no music, no modern sounds",
+      "seconds": 22.0,
+      "influence": 0.55,
+      "loop": false,
+      "bytes": 353219,
+      "made": "2026-10-10T11:48:37"
+    }
+  ]
+}

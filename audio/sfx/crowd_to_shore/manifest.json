@@ -1,0 +1,32 @@
+{
+  "slug": "crowd_to_shore",
+  "takes": [
+    {
+      "file": "crowd_to_shore_v1.mp3",
+      "prompt": "A village crowd hurrying downhill toward a lake shore on dirt and stone, dozens of sandals, excited murmuring voices with no clear words, a child calling, gulls overhead, outdoors, no music, no modern sounds",
+      "seconds": 18.0,
+      "influence": 0.5,
+      "loop": false,
+      "bytes": 289271,
+      "made": "2026-10-10T11:48:15"
+    },
+    {
+      "file": "crowd_to_shore_v2.mp3",
+      "prompt": "A village crowd hurrying downhill toward a lake shore on dirt and stone, dozens of sandals, excited murmuring voices with no clear words, a child calling, gulls overhead, outdoors, no music, no modern sounds",
+      "seconds": 18.0,
+      "influence": 0.5,
+      "loop": false,
+      "bytes": 289271,
+      "made": "2026-10-10T11:48:19"
+    },
+    {
+      "file": "crowd_to_shore_v3.mp3",
+      "prompt": "A village crowd hurrying downhill toward a lake shore on dirt and stone, dozens of sandals, excited murmuring voices with no clear words, a child calling, gulls overhead, outdoors, no music, no modern sounds",
+      "seconds": 18.0,
+      "influence": 0.5,
+      "loop": false,
+      "bytes": 289271,
+      "made": "2026-10-10T11:48:23"
+    }
+  ]
+}
