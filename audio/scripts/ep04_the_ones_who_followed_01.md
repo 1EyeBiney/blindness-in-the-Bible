@@ -128,6 +128,6 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* This has been Not By Sight. The full story, with every source named, is at one eye biney dot github dot i o, slash blindness in the Bible. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
+**Narrator** *(calm)* This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot com. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
 
 **Narrator** *(after a long pause)* For we walk by faith, not by sight.

@@ -1,5 +1,5 @@
 """Episode 2: Bartimaeus at Jericho (Mark 10:46-52; Luke 18:35-43; Matthew 20:29-34)."""
-from episode_lib import BRIAN_VOICE_NOTE, CLOSE, SERIES_INTRO, header, reader
+from episode_lib import BRIAN_VOICE_NOTE, CLOSE_AS_AIRED, SERIES_INTRO, header, reader
 
 SLUG = "bartimaeus"
 NUMBER = 2
@@ -213,6 +213,6 @@ def build(bible: dict) -> list[str]:
     add("[BREAK]")
 
     # ---- Close ----------------------------------------------------------------------------------
-    add(f"[NARRATOR] (calm) {CLOSE}")
+    add(f"[NARRATOR] (calm) {CLOSE_AS_AIRED}")
     add("[NARRATOR] (after a long pause) For we walk by faith, not by sight.")
     return L

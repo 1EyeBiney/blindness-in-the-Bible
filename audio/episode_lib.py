@@ -36,8 +36,17 @@ BRIAN_VOICE_NOTE = ("A word about the voice you are about to hear. Brian decided
                     "thoughts. We suspect he was being a scaredy cat. So, against our better judgment, we let him pick "
                     "his own voice. Whenever you hear it, from here to the end, these are his words.")
 
-CLOSE = ("This has been Not By Sight. The full story, with every source named, is at one eye biney dot github dot "
-         "i o, slash blindness in the Bible. Scripture quotations are from the Holy Bible, Berean Standard Bible, "
+# Episodes 1 and 2 went out before blindnessinthebible.com was registered and
+# say the old github.io address out loud. Their scripts keep the as-aired
+# wording so they still match the published videos. Episode 3 onward says the
+# domain. When 1 and 2 are re-recorded, switch them to CLOSE and delete this.
+CLOSE_AS_AIRED = ("This has been Not By Sight. The full story, with every source named, is at one eye biney dot github dot "
+                  "i o, slash blindness in the Bible. Scripture quotations are from the Holy Bible, Berean Standard Bible, "
+                  "which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is "
+                  "from the text and the old books.")
+
+CLOSE = ("This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot "
+         "com. Scripture quotations are from the Holy Bible, Berean Standard Bible, "
          "which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is "
          "from the text and the old books.")
 
