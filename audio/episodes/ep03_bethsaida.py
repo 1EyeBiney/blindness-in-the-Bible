@@ -7,10 +7,6 @@ TITLE = "The blind man at Bethsaida"
 PASSAGES = [("Mark", 8, 14, 21), ("Mark", 8, 22, 26), ("Matthew", 11, 20, 24)]
 MAX_WORDS = 3000   # Brian, 10 October 2026: the trust material is worth the extra minutes
 
-# APPROVED: Brian read the whole script and approved every line in his voice
-# (10 October 2026). Nothing here is a draft any more.
-APPROVED = set(range(len(DRAFT_BRIAN)))
-
 DRAFT_BRIAN = [
     "People like trees walking. Of every line about blindness in the Bible, this is the one my low-vision friends "
     "can relate to most. They know exactly what he means. Shapes that move, that are the right height to be people, "
@@ -51,6 +47,10 @@ DRAFT_BRIAN = [
     "not think he spent that walk managing anybody. I think he knew, the way you know, that this hand was not "
     "going to let him trip. That is the part that undoes me. Not the eyes. The hand.",
 ]
+
+# Brian read the whole script and approved every line in his voice (10 October
+# 2026). Nothing here is a draft any more.
+APPROVED = set(range(len(DRAFT_BRIAN)))
 
 
 def build(bible: dict) -> list[str]:
