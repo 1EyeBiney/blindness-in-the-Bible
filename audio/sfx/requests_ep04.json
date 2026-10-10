@@ -1,0 +1,20 @@
+[
+  {"slug": "crowd_passes_roadside",
+   "prompt": "A large crowd walking past a listener sitting at the side of a dirt road in a small town, starting far off, growing loud as it passes close with many sandals, overlapping excited voices with no clear words, a child complaining, a dog, then receding down the road, no music, no modern sounds, first-century Galilee",
+   "seconds": 22, "variants": 4, "influence": 0.5},
+  {"slug": "quiet_centre_of_crowd",
+   "prompt": "A crowd walking on a dirt road where the voices fall quiet for a few steps as people pass one figure at the centre, then resume, footsteps continuous throughout, outdoors, no music, no modern sounds",
+   "seconds": 14, "variants": 3, "influence": 0.55},
+  {"slug": "street_echo_following",
+   "prompt": "Two people walking quickly behind a crowd into a narrow stone street, footsteps and voices echoing off close walls, gulls far off on one side, the crowd bunching and slowing ahead, no music, no modern sounds",
+   "seconds": 18, "variants": 3, "influence": 0.55},
+  {"slug": "crowd_at_doorway",
+   "prompt": "A dense crowd pressed around a doorway of a stone house, standing still, murmuring, shuffling, a few people squeezing through with pardon-us sounds and no clear words, then a step down and the muffled interior of a packed room with oil lamps and many people breathing, no music, no modern sounds",
+   "seconds": 20, "variants": 3, "influence": 0.55},
+  {"slug": "packed_room_goes_quiet",
+   "prompt": "The inside of a crowded stone-walled room, dozens of people breathing and shifting, low murmur, then everyone falls silent at once and only breathing and a lamp flicker remain, no music, no modern sounds",
+   "seconds": 12, "variants": 3, "influence": 0.6},
+  {"slug": "capernaum_lane_bed",
+   "prompt": "A quiet lane in a lakeside town in the morning: distant gulls, a goat, a door, voices far off, water somewhere below, light wind, no music, no modern sounds, seamless ambient bed",
+   "seconds": 22, "variants": 2, "influence": 0.45, "loop": true}
+]
