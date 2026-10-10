@@ -4,7 +4,31 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* Jesus has a man by the hand, and they are walking out of town.
 
-**Narrator** *(beat)* Behind them, a crowd that wanted to watch. Ahead, open ground, the lake somewhere to the right, the smell of fish drying. The man cannot see any of it. He can feel the hand, and the ground changing from packed street to grass.
+*(pause 1.0 s)*
+
+**Narrator** *(beat)* Before that, though, stand in the town a while, because the man we are following knew it without seeing any of it.
+
+**Narrator** *(calm)* Bethsaida is a fishing town, and a fishing town tells you what it is before you look at it. Gulls, all day. Water slapping the hulls of the boats drawn up on the shingle. Men calling to each other across the beach about the night's catch, in that flat, tired half-shout of people who have been working since before dawn. The long dry rasp of a net dragged over stone. Wood knocking against wood somewhere behind you.
+
+*(pause 1.0 s)*
+
+**Narrator** *(beat)* And the smell of the place, which is two smells at once. Fish in the water, and fish drying on the racks in the sun. They are not the same smell. Anyone who lived there could tell you which way the wind had turned without lifting their head.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* A blind man in a town like that is not lost, and he is not helpless. He knows it the way you know your own house in the dark. The street is packed earth, beaten hard by every foot that has gone down it since morning. He knows where it narrows and where it opens out again. He knows which wall throws his footsteps back at him and which doorway swallows them. He knows the turns by what he can smell at each one.
+
+**Narrator** *(beat)* He is not feeling his way along. He is walking a road he has walked more times than he could count, in a town that has been telling him where he is for as long as he has needed it to.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* Hold on to that, because he is about to let go of it. He is about to put his hand into the hand of a man he has never touched, and be walked out past the last house, onto ground he has never learned, where not one of those things helps him any more.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* Today there is something else in it. A crowd, somewhere down the hill, and a crowd moves all one way, and the noise of this one is going toward the water.
+
+*(pause 1.5 s)*
 
 **Narrator** *(calm)* In a minute Jesus is going to do something He does nowhere else in the Gospels. He is going to heal a man, and then ask him whether it worked.
 
@@ -34,7 +58,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* Then He asked them, “Do you still not understand?”
 
-**Narrator** *(calm)* Having eyes, do you not see? He says it to twelve sighted men. Then the boat lands at Bethsaida, and the first thing that happens is this.
+**Narrator** *(calm)* Having eyes, do you not see? He says it to His disciples, men whose eyes worked perfectly well. Then the boat lands at Bethsaida, and the first thing that happens is this.
 
 **Narrator** *(calm)* Mark chapter 8, verses 22 to 26.
 
@@ -59,6 +83,8 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 **Narrator** *(calm)* Edersheim calls this the only gradual cure in the Gospels, and notes that saliva was a well known Jewish remedy for the eyes. From the man's words about trees he infers that the blindness was not from birth but came from disease. That inference is his, not the text's, though a man who knows what a tree looks like has seen one.
 
 **Narrator** *(calm)* Why did Jesus lead him out of the village? The text does not say. Matthew Henry points out that Jesus could have healed him privately in a house, so the walk out of town must mean something, and suggests two things: that Jesus did the leading Himself to teach us to be as Job was, eyes to the blind, and that Bethsaida had forfeited the sight of another miracle. Edersheim adds that the many steps, the leading, the saliva, the hands laid on twice, were there to rule out any idea of a magic cure; everything centred on the person doing it. And both of them connect the walk with the woes Jesus pronounced on Bethsaida, which Matthew records.
+
+**Narrator** *(calm)* One thing to have straight before we read it. These woes are not about the man we are following. Matthew says what they are about: the towns where most of Jesus's miracles had already been done. Bethsaida had seen many of them, and almost none of them were written down anywhere. Whatever the healing on the road was for, it was not the evidence against the town. That evidence was already in.
 
 **Narrator** *(calm)* Matthew chapter 11, verses 20 to 24.
 
@@ -110,7 +136,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 1.0 s)*
 
-**Brian** *(calm)* People like trees walking. Of every line about blindness in the Bible, this is the one my low-vision friends quote back to me. They know exactly what he means. Shapes that move, that are the right height to be people, but with no faces and no edges. You can see something, and you cannot trust it. The Bible has one word for blindness, and most of the time it means the deep end of the pool. This verse is the one time it describes the shallow end from the inside.
+**Brian** *(calm)* People like trees walking. Of every line about blindness in the Bible, this is the one my low-vision friends can relate to most. They know exactly what he means. Shapes that move, that are the right height to be people, but with no faces and no edges. You can see something, and you cannot trust it. The Bible has one word for blindness, and most of the time it means the deep end of the pool, where I swim. This verse is the one time it describes the middle.
 
 **Brian** *(calm)* Jesus asked him how it was going. Think about that. He had put His hands on the man's eyes, and instead of announcing a result, He asked. And the man told the truth. Not yet. It is better, but not yet. Half the trouble blind people get into with well-meaning helpers is that we are too polite to say not yet. The man at Bethsaida said it to Jesus, and Jesus did not mind. He put His hands on him again.
 
@@ -122,16 +148,36 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Brian** *(calm)* Jesus led him by the hand. Not a disciple, not the friends who brought him. The same Jesus who was about to put mud on another man's eyes and send him walking across Jerusalem alone took this man by the hand and walked him out of the village Himself. Both are right. Some days you need to be sent, and some days you need an arm, and the trick is knowing which day it is. He knew.
+**Brian** *(calm)* Jesus led him by the hand. Not a disciple, not the friends who brought him. The same Jesus who was about to put mud on another man's eyes and send him walking across Jerusalem alone took this man by the hand and walked him out of the village Himself. Both are right. Some days you need to be sent, and some days you need a hand or an arm, and the real trick is knowing which days you need a hand and which days you don't.
 
 **Brian** *(calm)* He knew what trees looked like. That means he had seen before. Like Bartimaeus, like me, he lost it. I have noticed that the Gospels never explain how anyone lost their sight, and I have come to be grateful for that. Nobody asked him what happened. Jesus just asked whether he could see.
 
+*(pause 1.5 s)*
+
+**Brian** *(calm)* Let me tell you what it is actually like to take a stranger's arm. You do not know how they walk. You do not know whether they will tell you about the kerb or let you find it. Most people mean well and have no idea how to do it, and you spend the whole walk managing them, a half step behind, reading the arm for what the mouth forgot to say. Every blind person knows that walk. It is not restful. You are trusting someone who has not earned it yet, because the alternative is not moving.
+
+**Brian** *(calm)* Now think about this man. He had a town he could cross without help, and he let go of it. He let a man he had never touched take his hand and walk him out past the last house, onto ground he had never learned. And I do not think he spent that walk managing anybody. I think he knew, the way you know, that this hand was not going to let him trip. That is the part that undoes me. Not the eyes. The hand.
+
+*(pause 1.5 s)*
+
+**Brian** *(calm)* I am saying this next part while being in the middle of something, not from having reached the far shore. Something we depend on has broken this week, we cannot fix it, and we do not yet know how it gets replaced. So take what follows as a report, not as advice. My family is three disabled people, and since going blind 12 years ago, I have not watched a need go unmet. Not once. And it has even been a time of great plenty. It was only after going blind that I was given my own home and many of the comforts we enjoy.
+
+**Brian** *(calm)* Looking back, I can see God's providence as clearly as the man saw the lake at the end of this story. Looking forward, from where I am standing this week, I see only trees. That is the honest position, and I have come to think it is the one this story is actually about.
+
+*(pause 1.5 s)*
+
+**Brian** *(calm)* I may not always be able to see the path clearly, but I always know I can put my hand in His and trust Him to lead the way.
+
 ---
 
-**Narrator** *(calm)* A last word for anyone listening who lives in the middle of the pool, with some sight and not enough. The Bible notices you once, here, in one sentence, and the sentence is true. Men like trees walking. It does not pretend you see nothing and it does not pretend you see. And in the story, the man who said it was not told to be satisfied with it. Jesus put His hands on him again.
+**Narrator** *(calm)* A last word for anyone listening who lives in the middle of the pool, with some sight and not enough. The Bible notices you once, here, in one sentence, and the sentence is true. Men like trees walking. It does not pretend you see nothing, and it does not pretend you see well. And in the story, the man who said his sight was not yet right was not told to be satisfied with it. Jesus laid His hands on him again, the same hands that would soon be nailed to a cross, and made his sight whole.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* Jesus makes it right.
 
 ---
 
-**Narrator** *(calm)* This has been Not By Sight. The full story, with every source named, is at one eye biney dot github dot i o, slash blindness in the Bible. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
+**Narrator** *(calm)* This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot com. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
 
 **Narrator** *(after a long pause)* For we walk by faith, not by sight.

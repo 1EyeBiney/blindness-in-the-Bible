@@ -5,13 +5,18 @@ SLUG = "bethsaida"
 NUMBER = 3
 TITLE = "The blind man at Bethsaida"
 PASSAGES = [("Mark", 8, 14, 21), ("Mark", 8, 22, 26), ("Matthew", 11, 20, 24)]
+MAX_WORDS = 3000   # Brian, 10 October 2026: the trust material is worth the extra minutes
+
+# APPROVED: 0 and 2 Brian rewrote himself; 4, 5 and 6 are his own words; 7 and 8 he read
+# and approved with one change (10 October 2026). Still drafts: 1, 3.
+APPROVED = {0, 2, 4, 5, 6, 7, 8}
 
 DRAFT_BRIAN = [
     "People like trees walking. Of every line about blindness in the Bible, this is the one my low-vision friends "
-    "quote back to me. They know exactly what he means. Shapes that move, that are the right height to be people, "
+    "can relate to most. They know exactly what he means. Shapes that move, that are the right height to be people, "
     "but with no faces and no edges. You can see something, and you cannot trust it. The Bible has one word for "
-    "blindness, and most of the time it means the deep end of the pool. This verse is the one time it describes "
-    "the shallow end from the inside.",
+    "blindness, and most of the time it means the deep end of the pool, where I swim. This verse is the one time "
+    "it describes the middle.",
     "Jesus asked him how it was going. Think about that. He had put His hands on the man's eyes, and instead of "
     "announcing a result, He asked. And the man told the truth. Not yet. It is better, but not yet. Half the "
     "trouble blind people get into with well-meaning helpers is that we are too polite to say not yet. The man "
@@ -19,10 +24,32 @@ DRAFT_BRIAN = [
     "Jesus led him by the hand. Not a disciple, not the friends who brought him. The same Jesus who was about to "
     "put mud on another man's eyes and send him walking across Jerusalem alone took this man by the hand and "
     "walked him out of the village Himself. Both are right. Some days you need to be sent, and some days you need "
-    "an arm, and the trick is knowing which day it is. He knew.",
+    "a hand or an arm, and the real trick is knowing which days you need a hand and which days you don't.",
     "He knew what trees looked like. That means he had seen before. Like Bartimaeus, like me, he lost it. I have "
     "noticed that the Gospels never explain how anyone lost their sight, and I have come to be grateful for that. "
     "Nobody asked him what happened. Jesus just asked whether he could see.",
+    # Brian's own words, written 10 October 2026.
+    "I am saying this next part while being in the middle of something, not from having reached the far shore. "
+    "Something we depend on has broken this week, we cannot fix it, and we do not yet know how it gets replaced. "
+    "So take what follows as a report, not as advice. My family is three disabled people, and since going blind "
+    "12 years ago, I have not watched a need go unmet. Not once. And it has even been a time of great plenty. It "
+    "was only after going blind that I was given my own home and many of the comforts we enjoy.",
+    "Looking back, I can see God's providence as clearly as the man saw the lake at the end of this story. Looking "
+    "forward, from where I am standing this week, I see only trees. That is the honest position, and I have come "
+    "to think it is the one this story is actually about.",
+    "I may not always be able to see the path clearly, but I always know I can put my hand in His and trust Him to "
+    "lead the way.",
+    # Drafted from what Brian said about being guided, 10 October 2026, and approved
+    # by him the same day with one change: "the alternative is not moving".
+    "Let me tell you what it is actually like to take a stranger's arm. You do not know how they walk. You do not "
+    "know whether they will tell you about the kerb or let you find it. Most people mean well and have no idea how "
+    "to do it, and you spend the whole walk managing them, a half step behind, reading the arm for what the mouth "
+    "forgot to say. Every blind person knows that walk. It is not restful. You are trusting someone who has not "
+    "earned it yet, because the alternative is not moving.",
+    "Now think about this man. He had a town he could cross without help, and he let go of it. He let a man he had "
+    "never touched take his hand and walk him out past the last house, onto ground he had never learned. And I do "
+    "not think he spent that walk managing anybody. I think he knew, the way you know, that this hand was not "
+    "going to let him trip. That is the part that undoes me. Not the eyes. The hand.",
 ]
 
 
@@ -35,9 +62,34 @@ def build(bible: dict) -> list[str]:
     add("")
 
     add("[NARRATOR] (calm) Jesus has a man by the hand, and they are walking out of town.")
-    add("[NARRATOR] (beat) Behind them, a crowd that wanted to watch. Ahead, open ground, the lake somewhere to "
-        "the right, the smell of fish drying. The man cannot see any of it. He can feel the hand, and the ground "
-        "changing from packed street to grass.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (beat) Before that, though, stand in the town a while, because the man we are following knew "
+        "it without seeing any of it.")
+    add("[NARRATOR] (calm) Bethsaida is a fishing town, and a fishing town tells you what it is before you look at "
+        "it. Gulls, all day. Water slapping the hulls of the boats drawn up on the shingle. Men calling to each "
+        "other across the beach about the night's catch, in that flat, tired half-shout of people who have been "
+        "working since before dawn. The long dry rasp of a net dragged over stone. Wood knocking against wood "
+        "somewhere behind you.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (beat) And the smell of the place, which is two smells at once. Fish in the water, and fish "
+        "drying on the racks in the sun. They are not the same smell. Anyone who lived there could tell you which "
+        "way the wind had turned without lifting their head.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) A blind man in a town like that is not lost, and he is not helpless. He knows it the "
+        "way you know your own house in the dark. The street is packed earth, beaten hard by every foot that has "
+        "gone down it since morning. He knows where it narrows and where it opens out again. He knows which wall "
+        "throws his footsteps back at him and which doorway swallows them. He knows the turns by what he can smell "
+        "at each one.")
+    add("[NARRATOR] (beat) He is not feeling his way along. He is walking a road he has walked more times than he "
+        "could count, in a town that has been telling him where he is for as long as he has needed it to.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) Hold on to that, because he is about to let go of it. He is about to put his hand into "
+        "the hand of a man he has never touched, and be walked out past the last house, onto ground he has never "
+        "learned, where not one of those things helps him any more.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) Today there is something else in it. A crowd, somewhere down the hill, and a crowd "
+        "moves all one way, and the noise of this one is going toward the water.")
+    add("[PAUSE 1.5]")
     add("[NARRATOR] (calm) In a minute Jesus is going to do something He does nowhere else in the Gospels. He is "
         "going to heal a man, and then ask him whether it worked.")
     add("[PAUSE 1.5]")
@@ -49,7 +101,8 @@ def build(bible: dict) -> list[str]:
         "water He has an argument with them. Mark tells it just before the healing, and the two belong together. "
         "Listen for the word eyes.")
     ext(reader(bible, "Mark", 8, 14, 21))
-    add("[NARRATOR] (calm) Having eyes, do you not see? He says it to twelve sighted men. Then the boat lands at "
+    add("[NARRATOR] (calm) Having eyes, do you not see? He says it to His disciples, men whose eyes worked "
+        "perfectly well. Then the boat lands at "
         "Bethsaida, and the first thing that happens is this.")
     ext(reader(bible, "Mark", 8, 22, 26))
     add("[NARRATOR] (calm) Mark puts the two stories side by side on purpose. Sighted men who cannot see what is in "
@@ -77,6 +130,10 @@ def build(bible: dict) -> list[str]:
         "steps, the leading, the saliva, the hands laid on twice, were there to rule out any idea of a magic cure; "
         "everything centred on the person doing it. And both of them connect the walk with the woes Jesus "
         "pronounced on Bethsaida, which Matthew records.")
+    add("[NARRATOR] (calm) One thing to have straight before we read it. These woes are not about the man we are "
+        "following. Matthew says what they are about: the towns where most of Jesus's miracles had already been "
+        "done. Bethsaida had seen many of them, and almost none of them were written down anywhere. Whatever the "
+        "healing on the road was for, it was not the evidence against the town. That evidence was already in.")
     ext(reader(bible, "Matthew", 11, 20, 24))
     add("[NARRATOR] (calm) A town that had seen so much and believed so little. Jesus takes the man away from "
         "it, heals him outside it, and tells him not to go back into it. Whatever else that means, it means the "
@@ -126,12 +183,23 @@ def build(bible: dict) -> list[str]:
 
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[2]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[3]}")
+    add("[PAUSE 1.5]")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[7]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[8]}")
+    add("[PAUSE 1.5]")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[4]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[5]}")
+    add("[PAUSE 1.5]")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[6]}")
     add("[BREAK]")
 
     add("[NARRATOR] (calm) A last word for anyone listening who lives in the middle of the pool, with some sight and "
         "not enough. The Bible notices you once, here, in one sentence, and the sentence is true. Men like trees "
-        "walking. It does not pretend you see nothing and it does not pretend you see. And in the story, the man "
-        "who said it was not told to be satisfied with it. Jesus put His hands on him again.")
+        "walking. It does not pretend you see nothing, and it does not pretend you see well. And in the story, the "
+        "man who said his sight was not yet right was not told to be satisfied with it. Jesus laid His hands on him "
+        "again, the same hands that would soon be nailed to a cross, and made his sight whole.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) Jesus makes it right.")
     add("[BREAK]")
     add(f"[NARRATOR] (calm) {CLOSE}")
     add("[NARRATOR] (after a long pause) For we walk by faith, not by sight.")

@@ -20,13 +20,23 @@ Each paragraph below is in the scripts as a BRIAN line but was written by Claude
 
 ## Episode 3: The blind man at Bethsaida
 
-1. People like trees walking. Of every line about blindness in the Bible, this is the one my low-vision friends quote back to me. They know exactly what he means. Shapes that move, that are the right height to be people, but with no faces and no edges. You can see something, and you cannot trust it. The Bible has one word for blindness, and most of the time it means the deep end of the pool. This verse is the one time it describes the shallow end from the inside.
+1. (approved by Brian) People like trees walking. Of every line about blindness in the Bible, this is the one my low-vision friends can relate to most. They know exactly what he means. Shapes that move, that are the right height to be people, but with no faces and no edges. You can see something, and you cannot trust it. The Bible has one word for blindness, and most of the time it means the deep end of the pool, where I swim. This verse is the one time it describes the middle.
 
 2. Jesus asked him how it was going. Think about that. He had put His hands on the man's eyes, and instead of announcing a result, He asked. And the man told the truth. Not yet. It is better, but not yet. Half the trouble blind people get into with well-meaning helpers is that we are too polite to say not yet. The man at Bethsaida said it to Jesus, and Jesus did not mind. He put His hands on him again.
 
-3. Jesus led him by the hand. Not a disciple, not the friends who brought him. The same Jesus who was about to put mud on another man's eyes and send him walking across Jerusalem alone took this man by the hand and walked him out of the village Himself. Both are right. Some days you need to be sent, and some days you need an arm, and the trick is knowing which day it is. He knew.
+3. (approved by Brian) Jesus led him by the hand. Not a disciple, not the friends who brought him. The same Jesus who was about to put mud on another man's eyes and send him walking across Jerusalem alone took this man by the hand and walked him out of the village Himself. Both are right. Some days you need to be sent, and some days you need a hand or an arm, and the real trick is knowing which days you need a hand and which days you don't.
 
 4. He knew what trees looked like. That means he had seen before. Like Bartimaeus, like me, he lost it. I have noticed that the Gospels never explain how anyone lost their sight, and I have come to be grateful for that. Nobody asked him what happened. Jesus just asked whether he could see.
+
+5. (approved by Brian) I am saying this next part while being in the middle of something, not from having reached the far shore. Something we depend on has broken this week, we cannot fix it, and we do not yet know how it gets replaced. So take what follows as a report, not as advice. My family is three disabled people, and since going blind 12 years ago, I have not watched a need go unmet. Not once. And it has even been a time of great plenty. It was only after going blind that I was given my own home and many of the comforts we enjoy.
+
+6. (approved by Brian) Looking back, I can see God's providence as clearly as the man saw the lake at the end of this story. Looking forward, from where I am standing this week, I see only trees. That is the honest position, and I have come to think it is the one this story is actually about.
+
+7. (approved by Brian) I may not always be able to see the path clearly, but I always know I can put my hand in His and trust Him to lead the way.
+
+8. (approved by Brian) Let me tell you what it is actually like to take a stranger's arm. You do not know how they walk. You do not know whether they will tell you about the kerb or let you find it. Most people mean well and have no idea how to do it, and you spend the whole walk managing them, a half step behind, reading the arm for what the mouth forgot to say. Every blind person knows that walk. It is not restful. You are trusting someone who has not earned it yet, because the alternative is not moving.
+
+9. (approved by Brian) Now think about this man. He had a town he could cross without help, and he let go of it. He let a man he had never touched take his hand and walk him out past the last house, onto ground he had never learned. And I do not think he spent that walk managing anybody. I think he knew, the way you know, that this hand was not going to let him trip. That is the part that undoes me. Not the eyes. The hand.
 
 ## Episode 4: The ones who followed
 
