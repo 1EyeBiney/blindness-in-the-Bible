@@ -2,7 +2,7 @@
 
 Studies on blindness in the Bible, by Brian Clark. "For we walk by faith, not by sight." (2 Corinthians 5:7)
 
-Live site: https://1eyebiney.github.io/blindness-in-the-Bible/
+Live site: https://blindnessinthebible.com
 
 - `docs/CONCEPT.md` is the agreed concept and the decisions made so far.
 - `docs/BRIAN_NOTES.md` holds Brian's own words, used for the personal sections.

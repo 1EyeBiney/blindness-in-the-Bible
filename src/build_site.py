@@ -22,6 +22,10 @@ OUT = ROOT / "site"
 
 SITE_NAME = "Not By Sight"
 TAGLINE = "Studies on blindness in the Bible"
+# The custom domain for GitHub Pages. Pages takes the domain from a CNAME file
+# in the published artifact, and site/ is generated (and gitignored), so it has
+# to be written on every build or the domain is dropped on the next deploy.
+DOMAIN = "blindnessinthebible.com"
 
 KIND_ORDER = ["physical", "legal", "promise", "figurative", "other"]
 KIND_TITLES = {
@@ -481,6 +485,7 @@ decides what the studies conclude. The method is described on <a href="how-it-wa
 def render_all(out: Path = OUT) -> None:
     rows = load()
     out.mkdir(parents=True, exist_ok=True)
+    (out / "CNAME").write_text(DOMAIN + "\n", encoding="utf-8", newline="\n")
     for sub in ("static", "data"):
         (out / sub).mkdir(exist_ok=True)
     media = ROOT / "media"

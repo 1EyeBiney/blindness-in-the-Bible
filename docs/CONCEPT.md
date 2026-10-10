@@ -14,7 +14,8 @@ blind.
 ## Where it lives
 
 - Repository: `blindness-in-the-Bible` (the local folder name, Brian's
-  choice). Address: https://1eyebiney.github.io/blindness-in-the-Bible/
+  choice). Address: https://blindnessinthebible.com (registered 10 October
+  2026; the github.io address still works and redirects there)
 
 - Brian's portal for most of his work is to be notbysite.com, which he
   thinks of as NBS.
