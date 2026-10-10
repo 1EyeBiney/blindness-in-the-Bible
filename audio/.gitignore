@@ -11,3 +11,7 @@ casts/elevenlabs-voices.json
 deliver/*/frames/
 deliver/*/frames.txt
 shots/images/
+# Reaper's caches and backups: regenerated locally, no use to anyone cloning.
+*.reapeaks
+*.rpp-bak
+*.log

@@ -75,9 +75,7 @@ stories describe dim eyes and a man who sees people as walking trees, which is t
 thousand years before anyone drew a chart of it.</p>
 
 <h2>Everything is open</h2>
-<p>The code, the catalog, the gathering notes, the editorial decisions, the tests and the shelf index are in the
-public repository at
-<a href="https://github.com/1EyeBiney/blindness-in-the-Bible">github.com/1EyeBiney/blindness-in-the-Bible</a>.
-Scripture is from the Berean Standard Bible, dedicated to the public domain in 2023. If you find a word of
-Scripture misquoted, or a fact about the place and the time that is wrong, the repository is the place to say so.</p>
+<p>The code, the catalog, the gathering notes, the editorial decisions, the tests and the shelf are all public, and
+free for anyone to use. <a href="check-our-work.html">Check our work</a> is the practical guide: how to verify a
+claim, take the data, rebuild the site yourself, and where to write if you think something here is wrong.</p>
 """

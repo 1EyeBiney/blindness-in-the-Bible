@@ -48,7 +48,7 @@ def test_blindfold_verses_are_set_aside():
 
 def test_site_builds_and_is_accessible(tmp_path):
     build_site.render_all(tmp_path)
-    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "catalog.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html"]
+    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "catalog.html", "check-our-work.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html"]
     pages = sorted(tmp_path.rglob("*.html"))
     for p in pages:
         h = p.read_text(encoding="utf-8")
@@ -59,7 +59,9 @@ def test_site_builds_and_is_accessible(tmp_path):
         for m in re.finditer(r"<iframe[^>]*>", h):
             assert 'title="' in m.group(0) and "youtube-nocookie.com/embed/" in m.group(0), p.name
         for href in re.findall(r'href="([^"#]+)"', h):
-            if href.startswith("http"):
+            # Anything with a scheme points off the site; only relative links
+            # name a file that has to exist in the build.
+            if href.startswith(("http", "mailto:", "tel:")):
                 continue
             assert (p.parent / href).resolve().exists(), f"{p.name}: broken link {href}"
         # headings do not skip levels

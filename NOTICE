@@ -1,0 +1,89 @@
+Not By Sight — studies on blindness in the Bible
+https://blindnessinthebible.com
+
+WHAT IS LICENSED HOW
+===================================================================
+
+This repository holds three kinds of thing, and they are not all under the
+same terms. Brian Clark can give away his own work; he cannot give away the
+rights to material he is only passing on.
+
+1. The writing — the pages of the site, the stories, the reflections marked
+   as Brian's, and the project notes in docs/.
+
+   Licence: Creative Commons Attribution 4.0 International (CC BY 4.0).
+   Full text in LICENSE. https://creativecommons.org/licenses/by/4.0/
+
+   You may copy, republish, adapt and build on it, including commercially,
+   for any purpose, as long as you give credit. See "HOW TO CITE" below.
+
+2. The code — everything in src/, audio/*.py, tests/, and the build
+   workflow.
+
+   Licence: MIT. Full text in LICENSE-CODE.
+
+3. The sources in data/raw/ — the Bible text and the shelf of reference
+   works. These are NOT Brian's to relicense. Each keeps its own terms, set
+   out below. Every source file is recorded in a SOURCE.md beside it with
+   where it came from, when it was downloaded, and under what licence.
+
+THE SOURCES
+===================================================================
+
+Scripture
+  Berean Standard Bible (data/raw/berean/bsb.txt).
+  Dedicated to the public domain on 30 April 2023 by its publisher.
+  https://berean.bible/terms.htm
+  Quoted here word for word, never edited. A test checks every quoted verse
+  against this file on every build.
+
+Older reference works (data/raw/shelf/)
+  Alfred Edersheim, "The Life and Times of Jesus the Messiah".
+  Matthew Henry, commentary.
+  Flavius Josephus, "The Wars of the Jews" and "Antiquities".
+  The International Standard Bible Encyclopedia.
+  Smith's Bible Dictionary.
+  The Pulpit Commentary.
+  C. H. W. Johns, translation of the Code of Hammurabi.
+  E. A. Wallis Budge, "The Teaching of Amen-em-apt".
+
+  All published long enough ago to be in the public domain in the United
+  States. Sourced mainly from Project Gutenberg and the Internet Archive;
+  each file's SOURCE.md names its edition and where it was fetched.
+
+Wikipedia articles (data/raw/shelf/wikipedia_*.wiki.txt, wikipedia_*.json)
+  Licence: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
+  https://creativecommons.org/licenses/by-sa/4.0/
+
+  74 of the files on the shelf come from Wikipedia. They are redistributed
+  here under CC BY-SA, with the article title and the exact revision date
+  recorded for each one, as that licence requires. They remain CC BY-SA:
+  reusing those files, or any substantial adaptation of their text, carries
+  the share-alike obligation with it.
+
+  The site quotes these articles briefly and with attribution, in the way
+  any work quotes a source. The pages themselves are Brian's own writing and
+  are offered under CC BY 4.0.
+
+A NOTE ON THE OLD BOOKS
+===================================================================
+
+The commentators of 1700 and 1880 wrote about blind people, and about the
+Jewish people and the teachers of Jesus's day, in ways we would not. Those
+passages were found, recorded with their locations, and deliberately left
+off the pages. The shelf is used for facts about places, customs and daily
+life, not for its authors' opinions of people. The raw files are kept in the
+repository unedited, so that anyone checking a quotation sees exactly what
+was on the page it came from.
+
+HOW TO CITE
+===================================================================
+
+  Brian Clark, "Not By Sight: studies on blindness in the Bible",
+  https://blindnessinthebible.com, accessed <date>.
+
+For a particular page, add its title and address. For the catalog as data,
+cite data/catalog.csv in this repository.
+
+Attribution is the only thing CC BY asks for, and it is what lets a reader
+trace a claim back to its source. Please keep it.

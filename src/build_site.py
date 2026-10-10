@@ -86,6 +86,9 @@ audio { display:block; width:100%; max-width: 40rem; margin: .5rem 0 1rem; }
 .video { position:relative; width:100%; max-width: 48rem; aspect-ratio: 16 / 9; margin: .5rem 0 1rem; }
 .video iframe { position:absolute; inset:0; width:100%; height:100%; border:0; }
 blockquote { margin: 1rem 0; padding: .25rem 1rem; border-left: 4px solid var(--rule); }
+code { font-family: ui-monospace, Consolas, "Courier New", monospace; font-size: .95em; background: var(--head); padding: .1rem .3rem; }
+pre { background: var(--head); border: 1px solid var(--rule); padding: .75rem; overflow-x: auto; font-size: 1rem; }
+pre code { background: none; padding: 0; }
 .table-scroll { overflow-x: auto; }
 table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
 caption { text-align: left; font-weight: bold; padding: .5rem 0; }
@@ -103,7 +106,8 @@ def page(title: str, body: str, current: str, root: str = "") -> str:
     nav = [("index.html", "Home"), ("what-blind-means.html", "What blind means"), ("stories/index.html", "The stories"), ("law/index.html", "The law"),
            ("life/index.html", "Living blind, then"), ("picture/index.html", "Blindness as a picture"),
            ("walk-by-faith.html", "Walk by faith"),
-           ("catalog.html", "The catalog"), ("how-it-was-made.html", "How it was made"), ("about.html", "About")]
+           ("catalog.html", "The catalog"), ("how-it-was-made.html", "How it was made"),
+           ("check-our-work.html", "Check our work"), ("about.html", "About")]
     links = "".join(
         f'<li><a href="{root}{href}"{" aria-current=\"page\"" if href == current else ""}>{e(label)}</a></li>'
         for href, label in nav)
@@ -502,8 +506,11 @@ def render_all(out: Path = OUT) -> None:
     import stories as st
     import spectrum
     import how_made
+    import check_our_work
     bible = load_bible()
     (out / how_made.SLUG).write_text(page(how_made.TITLE, how_made.BODY, how_made.SLUG), encoding="utf-8")
+    (out / check_our_work.SLUG).write_text(
+        page(check_our_work.TITLE, check_our_work.BODY, check_our_work.SLUG), encoding="utf-8")
     (out / spectrum.SLUG).write_text(page(spectrum.TITLE, spectrum.render(bible), spectrum.SLUG), encoding="utf-8")
     (out / "stories").mkdir(exist_ok=True)
     (out / "stories" / "index.html").write_text(
