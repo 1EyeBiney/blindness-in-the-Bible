@@ -7,9 +7,9 @@ TITLE = "The blind man at Bethsaida"
 PASSAGES = [("Mark", 8, 14, 21), ("Mark", 8, 22, 26), ("Matthew", 11, 20, 24)]
 MAX_WORDS = 3000   # Brian, 10 October 2026: the trust material is worth the extra minutes
 
-# APPROVED: 0 and 2 Brian rewrote himself; 4, 5 and 6 are his own words; 7 and 8 he read
-# and approved with one change (10 October 2026). Still drafts: 1, 3.
-APPROVED = {0, 2, 4, 5, 6, 7, 8}
+# APPROVED: Brian read the whole script and approved every line in his voice
+# (10 October 2026). Nothing here is a draft any more.
+APPROVED = set(range(len(DRAFT_BRIAN)))
 
 DRAFT_BRIAN = [
     "People like trees walking. Of every line about blindness in the Bible, this is the one my low-vision friends "

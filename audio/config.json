@@ -1,7 +1,7 @@
 {
   "backend": "elevenlabs",
   "concurrency": 4,
-  "max_credits_per_run": 15000,
+  "max_credits_per_run": 20000,
   "quota_check": true,
   "cue_policy": "passthrough",
   "continuity": "off",
