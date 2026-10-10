@@ -73,9 +73,10 @@
     },
     "FRIEND": {
       "name": "A friend",
-      "voice_id": "REPLACE_ME",
+      "voice_id": "dgkKQcJqyy5AP0dqleUU",
       "description": "Adult, the person who brings or guides a blind man: steady, practical, kind, a little out of breath. Only in imagined scenes.",
-      "stability": 0.55
+      "stability": 0.55,
+      "_voice": "Hector (picked by Brian, 10 October 2026)"
     },
     "JOHN": {
       "name": "John the Baptist",
