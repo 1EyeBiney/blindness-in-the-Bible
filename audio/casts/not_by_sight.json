@@ -1,6 +1,6 @@
 {
   "cast_name": "not_by_sight",
-  "_comment": "Voices picked by Brian by ear from the audition of 7 October 2026.",
+  "_comment": "Voices picked by Brian by ear from the auditions of 7, 9 and 10 October 2026. Every role is cast.",
   "defaults": {
     "model": "eleven_v3",
     "stability": 0.6,
@@ -80,16 +80,18 @@
     },
     "JOHN": {
       "name": "John the Baptist",
-      "voice_id": "REPLACE_ME",
+      "voice_id": "onwK4e9ZLuTAKqWW03F9",
       "description": "Older male, a prophet in prison: low, worn, direct. Only in an imagined scene.",
-      "stability": 0.6
+      "stability": 0.6,
+      "_voice": "Daniel (picked by Brian, 10 October 2026)"
     },
     "DISCIPLE": {
       "name": "A disciple of John",
-      "voice_id": "REPLACE_ME",
+      "voice_id": "HKFOb9iktHA85uKXydRT",
       "description": "Adult male, tired from the road, carrying news he can hardly believe. Only in an imagined scene.",
       "stability": 0.5,
-      "style": 0.1
+      "style": 0.1,
+      "_voice": "Russ (picked by Brian, 10 October 2026)"
     }
   }
 }
