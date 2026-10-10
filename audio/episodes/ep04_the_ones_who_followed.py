@@ -86,12 +86,16 @@ def build(bible: dict) -> list[str]:
         "through the streets as beggars did, with their incessant cries. He also notices the pronoun. They did not each "
         "say have mercy on me. They said have mercy on us. Two men in the same trouble, with one prayer between "
         "them.")
-    add("[NARRATOR] (calm) And notice what Jesus does with their shouting. Nothing. He keeps walking. Matthew says "
-        "they followed Him, and only when He had gone into the house did He turn and speak. Henry says it plainly: "
-        "He did not take notice of them at first, for He would try their faith, which He knew to be strong. And "
-        "when they pushed into the house after Him, which Henry admits looked rude, they were, in his words, not "
-        "more bold than welcome. A faith that walks after Him down a street and through a door is a different thing "
-        "from a faith that shouts from the roadside. The healing waited until they had followed Him all the way in.")
+    add("[NARRATOR] (calm) Notice what Jesus does when they shout. He keeps walking. He does not stop in the "
+        "street, and He does not answer. The two men follow Him anyway, all the way to the house and inside it. Only "
+        "then does He turn and speak to them.")
+    add("[NARRATOR] (calm) Matthew Henry gives a reason. Jesus did not take notice of them at first, Henry says, "
+        "because He meant to test their faith, and He already knew it was strong. Then Henry adds something kind. "
+        "Pushing into a house after a man who wanted to be alone looked rude. But Jesus did not treat it as rude. "
+        "In Henry's words, they were not more bold than welcome.")
+    add("[NARRATOR] (calm) So the shouting was not the test. The following was. Anyone can call out from the side "
+        "of a road. These two walked after Him down a street they could not see and through a door into a crowded "
+        "room, and the healing waited until they had done it.")
     add("[NARRATOR] (calm) Where this happened is not certain. Edersheim places it on the way back into Capernaum, "
         "Jesus's home base on the north shore of the Sea of Galilee, a town of stone houses with flat roofs and "
         "narrow lanes running down to the water. The house would have been one of those: a courtyard, a doorway, a "
