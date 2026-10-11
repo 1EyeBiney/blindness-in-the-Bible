@@ -207,7 +207,7 @@ def render(ep_key: str | None) -> tuple[Path, str]:
         for ln in textwrap.wrap(para, 44):
             d.text((MAP_W + 70, yy), ln, font=f_xs, fill=INK); yy += 44
         yy += 18
-    for o in DATA["off_map"][:2]:
+    for o in ([] if ep_key else DATA["off_map"][:2]):   # episode panels keep their lower half free for captions
         for ln in textwrap.wrap(f"{o['name']}: {o['direction']}, beyond the map.", 44):
             d.text((MAP_W + 70, yy), ln, font=f_xs, fill=FAINT); yy += 44
     OUT.mkdir(parents=True, exist_ok=True)

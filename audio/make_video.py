@@ -65,28 +65,54 @@ def fit_image(src: Path, path: Path) -> None:
     img.crop((left, top, left + W, top + H)).save(path)
 
 
-def captions(sections: list[dict], texts: dict[str, str]) -> list[tuple[float, float, str]]:
-    """Split each section's text into captions at sentence ends, spread over the section's time by word share."""
+def _chunks(pieces: list[str]) -> list[list[int]]:
+    """Group consecutive pieces into captions of at most two lines."""
+    groups, cur, n = [], [], 0
+    for i, pc in enumerate(pieces):
+        if cur and n + 1 + len(pc) > CAPTION_CHARS * 2:
+            groups.append(cur)
+            cur, n = [], 0
+        cur.append(i)
+        n += len(pc) + 1
+    if cur:
+        groups.append(cur)
+    return groups
+
+
+def captions(sections: list[dict], texts: dict[str, str], sent_times: dict | None = None) -> list[tuple[float, float, str]]:
+    """Captions of at most two lines. Where the sentence starts are known from the voice file's pauses
+    (speech_times.py) each caption begins with its sentence; otherwise the section's time is shared out by words."""
     out = []
     for s in sections:
         text = texts.get(s["id"], "")
         if not text:
             continue
+        label = "" if s["speaker"] == "NARRATOR" else f"[{s['speaker'].title()}] "
+        known = (sent_times or {}).get(s["id"])
+        if known:
+            sents = [k[0] for k in known]
+            starts = [k[1] for k in known] + [s["end"]]
+            for g in _chunks(sents):
+                a, b = starts[g[0]], starts[g[-1] + 1]
+                body = " ".join(sents[i] for i in g)
+                parts = [body]
+                if len(body) > CAPTION_CHARS * 2:       # one very long sentence: break at clause ends, by length
+                    bits = re.split(r"(?<=[,;:])\s+", body)
+                    parts = [" ".join(bits[i] for i in gg) for gg in _chunks(bits)]
+                tot = sum(len(x) for x in parts) or 1
+                t = a
+                for x in parts:
+                    d = (b - a) * len(x) / tot
+                    out.append((t, t + d - 0.05, "\n".join(textwrap.wrap(label + x, CAPTION_CHARS))))
+                    t += d
+            continue
         pieces = re.split(r"(?<=[.!?;:])\s+", text)
-        chunks, cur = [], ""
-        for pc in pieces:
-            if cur and len(cur) + 1 + len(pc) > CAPTION_CHARS * 2:
-                chunks.append(cur); cur = pc
-            else:
-                cur = f"{cur} {pc}".strip()
-        if cur:
-            chunks.append(cur)
+        chunks = [" ".join(pieces[i] for i in g) for g in _chunks(pieces)]
         total_words = sum(len(c.split()) for c in chunks) or 1
         dur = s["end"] - s["start"]
         t = s["start"]
         for ch in chunks:
             d = dur * len(ch.split()) / total_words
-            label = "" if s["speaker"] == "NARRATOR" else f"[{s['speaker'].title()}] "
             out.append((t, t + d - 0.05, "\n".join(textwrap.wrap(label + ch, CAPTION_CHARS))))
             t += d
     return out
@@ -111,6 +137,15 @@ def main(project: str, mix: str) -> None:
                                  capture_output=True, text=True, check=True).stdout.strip())
     start_of = {s["id"]: s["start"] for s in sections}
     span_of = {s["id"]: (s["start"], s["end"]) for s in sections}
+    import speech_times
+    sel = root / "selected" / project / "section_1"
+    sent_times = {}
+    for sec in sections:
+        f = sel / f"{sec['id']}_{sec['speaker'].lower()}.mp3"
+        got = speech_times.sentence_starts(f, texts.get(sec["id"], "")) if f.exists() else None
+        if got:
+            sent_times[sec["id"]] = [(snt, sec["start"] + t) for snt, t in got]
+    print(f"sentence timing from pauses: {len(sent_times)} of {len(sections)} sections")
 
     def shot_time(shot: dict) -> float:
         """A shot starts with its section, or, with 'at_phrase', partway through it: the phrase is found in the
@@ -123,6 +158,9 @@ def main(project: str, mix: str) -> None:
         pos = text.find(phrase)
         if pos < 0:
             raise SystemExit(f"shot at_phrase not found in section {shot['from']}: {phrase!r}")
+        for snt, t in sent_times.get(shot["from"], []):
+            if snt.startswith(phrase[:40]) or phrase in snt:
+                return t - 0.3
         frac = len(text[:pos].split()) / max(1, len(text.split()))
         return a + (b - a) * frac - 0.3
 
@@ -149,9 +187,49 @@ def main(project: str, mix: str) -> None:
         fh.write(f"file '{cues[-1][1].as_posix()}'\n")
     # captions
     srt = out / "captions.srt"
-    with srt.open("w", encoding="utf-8") as fh:
-        for k, (a, b, text) in enumerate(captions(sections, texts), 1):
+    burn = out / "captions_burn.ass"
+    caps = captions(sections, texts, sent_times)
+    shot_starts = [c[0] for c in cues] + [total]
+
+    def panel(t: float) -> bool:
+        for i, (t0, _, _, sh) in enumerate(cues):
+            if t0 <= t < shot_starts[i + 1]:
+                return sh.get("captions") == "panel" or sh["image"].startswith("maps/")
+        return False
+
+    def ass_time(t: float) -> str:
+        cs = int(round(max(0.0, t) * 100))
+        h, cs = divmod(cs, 360000)
+        m, cs = divmod(cs, 6000)
+        sec, cs = divmod(cs, 100)
+        return f"{h}:{m:02d}:{sec:02d}.{cs:02d}"
+
+    # The burned-in captions are written as an ASS file so their place and size are ours to set: large, light
+    # and outlined along the bottom of a painting; on a map, dark and smaller in the lower half of the side panel,
+    # so nothing on the map is covered. captions.srt stays plain, for YouTube's closed-caption track.
+    panel_left = int(W * 1750 / 2752) + 44
+    head = f"""[Script Info]
+ScriptType: v4.00+
+PlayResX: {W}
+PlayResY: {H}
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,64,&H00F0E8D6,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,90,90,60,1
+Style: Panel,Georgia,44,&H001E2C3C,&H000000FF,&H00CCE2EC,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,{panel_left},44,{int(H * 0.60)},1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+"""
+    with srt.open("w", encoding="utf-8") as fh, burn.open("w", encoding="utf-8") as fb:
+        fb.write(head)
+        for k, (a, b, text) in enumerate(caps, 1):
             fh.write(f"{k}\n{srt_time(a)} --> {srt_time(b)}\n{text}\n\n")
+            style = "Panel" if panel((a + b) / 2) else "Default"
+            flat = text.replace("\n", " ").replace("{", "(").replace("}", ")")
+            fb.write(f"Dialogue: 0,{ass_time(a)},{ass_time(b)},{style},,0,0,0,,{flat}\n")
     # description for YouTube and the site
     desc = [f"# {project}: shots and credits", "",
             "Each still, with its written description (for blind viewers and for the record):", ""]
@@ -164,9 +242,11 @@ def main(project: str, mix: str) -> None:
     (out / "description.md").write_text("\n".join(desc) + "\n", encoding="utf-8")
     # video: stills + mix, captions burned in from the SRT (YouTube also gets the SRT as a closed-caption track)
     mp4 = out / f"{project}.mp4"
-    srt_f = srt.as_posix().replace(":", "\\:")
-    vf = (f"subtitles='{srt_f}':force_style='FontName=Segoe UI,FontSize=22,PrimaryColour=&H00F0E8D6,"
-          f"OutlineColour=&H00000000,BorderStyle=1,Outline=2,Shadow=0,MarginV=48'")
+    srt_f = burn.as_posix().replace(":", "\\:")
+    # fps first: a still arrives as ONE frame, and a caption burned onto it would be frozen for the whole shot
+    # (that was the case in episodes 1 to 3 as first published). Making 24 frames a second before the subtitles
+    # filter lets every caption appear and leave on time.
+    vf = f"fps=24,subtitles='{srt_f}'"
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", str(lst), "-i", mix,
                     "-vf", vf, "-r", "24", "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p",
                     "-c:a", "aac", "-b:a", "192k", "-t", f"{total:.3f}", "-movflags", "+faststart", str(mp4)], check=True)
