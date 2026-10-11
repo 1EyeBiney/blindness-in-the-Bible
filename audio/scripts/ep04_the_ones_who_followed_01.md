@@ -2,17 +2,17 @@
 
 Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
-**Narrator** *(calm)* Two men are sitting at the side of a road, and a crowd is coming.
+**Narrator** *(calm)* Two blind men are sitting at the side of a road, and a crowd is coming.
 
 *(pause 1.0 s)*
 
-**Narrator** *(beat)* Stay with them a moment, because they will hear it long before anyone could see it. A crowd in a small town is not one sound. It is a hundred. Sandals on packed earth, first a few and then so many that the footsteps blur into one long shuffle. Voices on top of voices, nobody shouting yet, everybody talking at once, the way people talk when something has just happened and they were there. A child being carried and complaining about it. A dog. And somewhere in the middle of it all, one quieter space, where the talking stops for a step or two as people pass whoever it is they are following.
+**Narrator** *(beat)* Stay with them a moment, because they will hear the crowd long before anyone else could see it. A crowd in a small town is not one sound. It is a hundred. Sandals on packed earth, first a few and then so many that the footsteps blur into one long shuffle. Voices on top of voices, nobody shouting yet, everybody talking at once, the way people talk when something has just happened and they can't believe what they saw. A child being carried and complaining about it. A dog. Snippets of excited conversation. Fragments of a familiar name. 
 
-**Narrator** *(calm)* Two blind men know what that sound means before anyone tells them. A crowd like that has a centre, and the centre is moving. They have heard the news for days, the synagogue ruler's daughter, dead and then not dead. Now the man who did it is walking past them, close enough to hear His sandals, and He is not stopping.
+**Narrator** *(calm)* Two blind men know what that sound means before anyone tells them. They have heard the news for days, the synagogue ruler's daughter, dead and then not dead. Now the man who did it is walking past them, close enough to hear His sandals, and He is not stopping. No, He is definitely not stopping. Why is He not stopping?
 
 *(pause 1.0 s)*
 
-**Narrator** *(beat)* So they do the thing a blind man in a crowd almost never does. They get up and walk into it.
+**Narrator** *(beat)* So they do the thing blind men almost never do in a crowd. They get up and walk right into the middle of it.
 
 *(pause 1.5 s)*
 
@@ -22,7 +22,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* First, where we are. Matthew chapter nine. Jesus has just done something that has set the whole region talking: He has gone into the house of a synagogue leader named Jairus and raised his daughter from the dead. Matthew says the news spread through all that land. As Jesus leaves that house, two men who cannot see have heard the news, and they do not intend to let Him pass.
+**Narrator** *(calm)* First, where we are. Matthew chapter nine. Jesus has just done something that has set the whole region talking: He has gone into the house of a synagogue leader named Jairus and raised his daughter from the dead. Matthew says the news spread through all that land. As Jesus leaves that house, two men who cannot see have heard the news, and they do not intend to let Him simply pass by.
 
 **Narrator** *(calm)* Matthew chapter 9, verses 27 to 31.
 
@@ -40,13 +40,13 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* Notice what Jesus does when they shout. He keeps walking. He does not stop in the street, and He does not answer. The two men follow Him anyway, all the way to the house and inside it. Only then does He turn and speak to them.
 
-**Narrator** *(calm)* Matthew Henry gives a reason. Jesus did not take notice of them at first, Henry says, because He meant to test their faith, and He already knew it was strong. Then Henry adds something kind. Pushing into a house after a man who wanted to be alone looked rude. But Jesus did not treat it as rude. In Henry's words, they were not more bold than welcome.
+**Narrator** *(calm)* Matthew Henry gives a reason. Jesus did not take notice of them at first, Henry says, because He meant to test their faith, and He already knew it was strong. Then Henry adds something kind. Pushing into a house after a man who wanted to be alone looked rude. But Jesus did not treat it as rude. In Henry's words, they were not more bold than they were welcome.
 
 **Narrator** *(calm)* So the shouting was not the test. The following was. Anyone can call out from the side of a road. These two walked after Him down a street they could not see and through a door into a crowded room, and the healing waited until they had done it.
 
 **Narrator** *(calm)* Where this happened is not certain. Edersheim places it on the way back into Capernaum, Jesus's home base on the north shore of the Sea of Galilee, a town of stone houses with flat roofs and narrow lanes running down to the water. The house would have been one of those: a courtyard, a doorway, a dim room. Elsewhere Edersheim wonders whether the details point somewhere else, and does not settle it. The place is uncertain. The path is not: road, street, door, house.
 
-**Narrator** *(calm)* Where this is. Capernaum sits at the north tip of the Sea of Galilee. Stand there and face north, with north at twelve o'clock. Bethsaida, where we were last episode, is about two hours' walk at two o'clock, round the top of the lake. Everything else we have visited is straight behind you at six o'clock, down the Jordan valley: Jericho first, about three days' walk, and Jerusalem beyond it, about three and a half, which is what a Galilean pilgrim reckoned for the road to a feast. A family with children took longer. On the map, this is the farthest north the series has been. From here the journey of these episodes runs south, the way the Jordan runs, toward the city where it ends.
+**Narrator** *(calm)* Where this is. Capernaum sits at the north tip of the Sea of Galilee. Stand there and face north, with north at twelve o'clock. Bethsaida, where we were last episode, is about two hours' walk at two o'clock, round the top of the lake. Everything else we have visited is straight behind you at six o'clock, down the Jordan valley: Jericho first, about three days' walk, and Jerusalem beyond it, about three and a half, which is what a Galilean pilgrim planned for them to take for travelling the road up to a feast in Jerusalem. A family with children took longer. On the map, this is the farthest north the series has been. 
 
 ---
 
@@ -56,25 +56,21 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Man** *(whisper)* Here they come. Hear it? That is not market noise. That is one crowd, all going the same way.
 
-**Friend** *(whisper)* There is a gap in it. A quiet place in the middle. Somebody they are all walking around.
+**Friend** *(whisper)* There is a center to it. A quiet place in the middle. Somebody they are all following.
 
-**Man** *(excited)* It is him. Up. Hand on my shoulder, stay close. Son of David, have mercy on us!
+**Man** *(excited)* It's him! Can't you hear it? Up. Hurry! Hand on my shoulder. Let's go! Stay close. Son of David, have mercy on us !
 
-**Friend** *(excited)* Son of David, have mercy on us!
+**Friend** *(excited)* Yes! Son of David, have mercy on us!
 
-**Man** *(calm)* He is not stopping. The crowd is moving left, toward the lake road. Come on. We do not need eyes for this part. The loudest thing in this town is going exactly where we want to go.
-
-**Friend** *(curious)* How do you know it is left?
-
-**Man** *(calm)* The gulls are on the left. The lake is always on the left in this town. Son of David, have mercy on us!
+**Man** *(calm)* He is not stopping. The crowd is moving left, toward the lake road. Come on. We do not  need eyes for this part. The loudest thing in this town is telling us exactly where we want to go.
 
 **Friend** *(whisper)* Street now. Walls close on both sides, the sound bounces. The crowd is bunching up ahead. They have stopped. A doorway, it must be. They are all trying to get in.
 
 **Man** *(whisper)* And here is the hard part. Not the road. This. A crowd standing still is a wall of backs and elbows, and if we push, we are the blind men knocking into everyone. Every day of my life I would stop right here and wait.
 
-**Friend** *(calm)* Not today.
+**Friend** *(calm)* Not today. Have faith!
 
-**Man** *(calm)* No. Not today. Keep your hand on me. Pardon us. Pardon us, we are going in. Son of David!
+**Man** *(calm)* No. You are right. Not today. Keep your hand on me. Pardon us. Pardon us, we are going in. Son of David!
 
 **Voice** *(calm)* Mind the step. There is a step down here. Are you two following the teacher? He has gone inside. Here. Give me your hand. Low lintel.
 
@@ -92,17 +88,17 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 1.0 s)*
 
-**Brian** *(calm)* Two blind men following a crowd down a road and into a house. I want you to picture how that actually works, because it is not what sighted people imagine. You do not follow with your eyes. You follow the sound of the crowd, and you follow each other. One of them has a hand on the other's shoulder, or they are side by side with elbows touching, and whichever one hears better calls the turns. I have done exactly that with another blind friend in a convention hotel, and we got where we were going. It is slower, and it works.
+**Brian** *(calm)* Two blind men following a crowd down a road and into a house. I want you to picture how that actually works, because it is not what sighted people imagine. You do not follow with your eyes, but you hear which ways sounds go. You follow the sound of the crowd, and you follow each other. One of them has a hand on the other's shoulder, or holding an arm. I have done exactly this countless times when it has just been me and a blind brother or sister, and we work as a team and eventually get where we need to be. It is slower, but it works.
 
-**Brian** *(calm)* Finding the crowd was never going to be their problem. A crowd that size is the loudest thing in a town, and a house with a crowd inside it leaks noise out of every door and window. Two blind men could have walked straight to it. The problem is the last ten feet. I have stood at the edge of a packed room more times than I can count, and what I do is stop. I stand still, because if I move I bump into people, and if I bump into people I am the blind man knocking into everyone. Standing still is safe. Those two men were desperate to get to Jesus, and they could not get to Him by standing still. So they went into the crowd. That is the bravest thing in the whole story and it gets no verse at all.
+**Brian** *(calm)* Finding the crowd was never going to be their problem. A crowd that size is the loudest thing in a town, and a house with a crowd inside it leaks noise out of every door and window. Two blind men could have walked straight to it. The problem is the last ten feet. I have stood at the edge of a packed room more times than I can count, and what I do is stop. I stand still, because if I move I bump into people, and if I bump into people I am the blind man knocking into everyone. Standing still is safe. Those two men were desperate to get to Jesus, and they could not get to Him by standing still. So they went into the crowd. That is one of the bravest thing in the whole story and it gets no verse at all.
 
 **Brian** *(calm)* Jesus did not stop on the road. He let them follow Him all the way into the house. I used to think that was a little hard. Now I think He was letting them do the thing they could do, and maybe testing it. They could follow. Every step of that road was them saying we believe you are worth following, before He ever asked whether they believed. By the time He asked the question, they had already answered it with their feet.
 
-**Brian** *(calm)* Then He asked. Do you believe I am able to do this? He asked two blind men a question and waited for the answer. He did not ask the crowd about them. He did not ask whoever was with them. He asked them. In my experience that is rarer than healing.
+**Brian** *(calm)* Then He asked. Do you believe I am able to do this? He asked two blind men a question and waited for the answer. He did not ask the crowd about them. He did not ask whoever was with them. He did not assume that everyone knew what they wanted. He asked them. In my experience that is often half the battle.
 
 ---
 
-**Narrator** *(calm)* Why did Jesus tell them sternly to keep quiet? Henry lists four reasons the commentators had offered: humility; a judgment on Capernaum, which had seen many miracles and not believed; caution, because the rulers were growing jealous; and so as not to stir the crowds before the time. Edersheim's reading is that a confession as far-reaching as theirs, calling Him Son of David and able to open blind eyes with a touch, was not yet to be shouted in public. The time for that would come, on a donkey, outside Jerusalem. The men did not keep quiet. They went out and spread the news through all that land, which, if you have ever been given back something you thought was gone for good, you will understand.
+**Narrator** *(calm)* Why did Jesus tell them sternly to keep quiet? Henry lists four reasons the commentators had offered: humility; a judgment on Capernaum, which had seen many miracles and not believed; caution, because the rulers were growing jealous; and so as not to stir the crowds before the time. Edersheim's reading is that a confession as far-reaching as theirs, calling Him Son of David and able to open blind eyes with a touch, was not yet to be shouted in public. The time for that would come, on a donkey, outside Jerusalem. But the men did not keep quiet. They went out and spread the news through all that land, which, if you have ever been given back something you thought was gone for good, you will understand.
 
 **Narrator** *(calm)* Matthew does not pause. In the very next verse, as those two are going out, another man is being brought in.
 
@@ -142,7 +138,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Brian** *(calm)* The second man could not see and could not speak. Somebody had to bring him, and somebody had to speak for him, and then once he could speak, the argument started over his head and he never got a line. I notice that every time I read it. The man gets his sight and his voice, and the Pharisees immediately make it about themselves. I have been in that room. Not healed, but talked over. It is a particular feeling.
+**Brian** *(calm)* The second man could not see and could not speak. Somebody had to bring him, and somebody had to speak for him, and then once he could speak, the argument started over his head and he never got a line. I notice that every time I read it. The man gets his sight and his voice, and the Pharisees immediately make it about themselves. I have been in that room. Not healed, but talked over. It is a particularly frustrating feeling.
 
 ---
 
