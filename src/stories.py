@@ -225,6 +225,8 @@ STORIES = [
     {
         "slug": "two-blind-men", "title": "Two blind men follow Jesus", "who": "Two blind men (Galilee)",
         "group": "given", "outcome": "restored",
+        "listen": {"youtube": "kOQtHFpQvzs", "mp3": "not_by_sight_04_the_ones_who_followed.mp3", "minutes": 22,
+                   "title": "Not By Sight, Episode 4: The Ones Who Followed"},
         "passages": [("Matthew", 9, 27, 31)],
         "around": "Jesus has just raised a synagogue leader's daughter, and news of it is spreading through the "
                   "region. As He leaves, two blind men follow Him.",
@@ -239,6 +241,8 @@ STORIES = [
     {
         "slug": "blind-and-mute-man", "title": "A man who was blind and mute", "who": "A blind and mute man",
         "group": "given", "outcome": "restored",
+        "listen": {"youtube": "kOQtHFpQvzs", "mp3": "not_by_sight_04_the_ones_who_followed.mp3", "minutes": 22,
+                   "title": "Not By Sight, Episode 4: The Ones Who Followed"},
         "passages": [("Matthew", 12, 22, 24)],
         "around": "Jesus is healing many and is in growing conflict with the Pharisees over the Sabbath.",
         "happens": "A man who is blind and mute, and described as demon-possessed, is brought to Jesus. He heals him "
