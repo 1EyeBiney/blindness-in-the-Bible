@@ -17,3 +17,5 @@ shots/images/
 *.log
 !shots/images/maps/
 !shots/images/maps/*.png
+sfx/*/
+deliver/*/captions_burn.*
