@@ -1,5 +1,5 @@
 """Episode 4: The ones who followed (Matthew 9:27-34 and Matthew 12:22-28): two blind men, and a man blind and mute."""
-from episode_lib import BRIAN_VOICE_NOTE, CLOSE, SERIES_INTRO, header, reader
+from episode_lib import BRIAN_VOICE_NOTE_SHORT, CLOSE, SERIES_INTRO, header, reader
 
 SLUG = "the_ones_who_followed"
 NUMBER = 4
@@ -143,7 +143,7 @@ def build(bible: dict) -> list[str]:
     add("[BREAK]")
 
     # ---- Brian ----------------------------------------------------------------------------------
-    add(f"[NARRATOR] (dryly) {BRIAN_VOICE_NOTE}")
+    add(f"[NARRATOR] (dryly) {BRIAN_VOICE_NOTE_SHORT}")
     add("[PAUSE 1.0]")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[0]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[1]}")

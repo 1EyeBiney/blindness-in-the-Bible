@@ -1,5 +1,5 @@
 """Episode 6: The answer to John (Matthew 11:2-6; Luke 7:18-23; Isaiah 35:4-6; Isaiah 61:1)."""
-from episode_lib import BRIAN_VOICE_NOTE, CLOSE, SERIES_INTRO, header, reader
+from episode_lib import BRIAN_VOICE_NOTE_SHORT, CLOSE, SERIES_INTRO, header, reader
 
 SLUG = "the_answer_to_john"
 NUMBER = 6
@@ -102,7 +102,7 @@ def build(bible: dict) -> list[str]:
         "was other people's sight.")
     add("[BREAK]")
 
-    add(f"[NARRATOR] (dryly) {BRIAN_VOICE_NOTE}")
+    add(f"[NARRATOR] (dryly) {BRIAN_VOICE_NOTE_SHORT}")
     add("[PAUSE 1.0]")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[0]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[1]}")

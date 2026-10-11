@@ -90,7 +90,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(dryly)* A word about the voice you are about to hear. Brian decided he was too shy to record his own thoughts. We suspect he was being a scaredy cat. So, against our better judgment, we let him pick his own voice. Whenever you hear it, from here to the end, these are his words.
+**Narrator** *(dryly)* And now, a word from Brian. Or rather, from the voice Brian picked for himself, since he would not use his own. Around here we call it Mister Scaredy Cat. The words are all his.
 
 *(pause 1.0 s)*
 

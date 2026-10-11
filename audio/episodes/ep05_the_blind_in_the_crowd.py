@@ -1,5 +1,5 @@
 """Episode 5: The blind in the crowd (Matthew 15:29-31, the mountain; Matthew 21:12-16, the Temple; 2 Samuel 5:6-8)."""
-from episode_lib import BRIAN_VOICE_NOTE, CLOSE, SERIES_INTRO, header, reader
+from episode_lib import BRIAN_VOICE_NOTE_SHORT, CLOSE, SERIES_INTRO, header, reader
 
 SLUG = "the_blind_in_the_crowd"
 NUMBER = 5
@@ -86,7 +86,7 @@ def build(bible: dict) -> list[str]:
     add("[NARRATOR] (calm) Matthew says they laid them at His feet, and He healed them.")
     add("[BREAK]")
 
-    add(f"[NARRATOR] (dryly) {BRIAN_VOICE_NOTE}")
+    add(f"[NARRATOR] (dryly) {BRIAN_VOICE_NOTE_SHORT}")
     add("[PAUSE 1.0]")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[0]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[1]}")

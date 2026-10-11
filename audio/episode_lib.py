@@ -45,6 +45,9 @@ CLOSE_AS_AIRED = ("This has been Not By Sight. The full story, with every source
                   "which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is "
                   "from the text and the old books.")
 
+BRIAN_VOICE_NOTE_SHORT = ("And now, a word from Brian. Or rather, from the voice Brian picked for himself, since he "
+                          "would not use his own. Around here we call it Mister Scaredy Cat. The words are all his.")
+
 CLOSE = ("This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot "
          "com. Scripture quotations are from the Holy Bible, Berean Standard Bible, "
          "which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is "
