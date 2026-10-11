@@ -6,7 +6,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 1.0 s)*
 
-**Narrator** *(beat)* Stay with them a moment, because they will hear the crowd long before anyone else could see it. A crowd in a small town is not one sound. It is a hundred. Sandals on packed earth, first a few and then so many that the footsteps blur into one long shuffle. Voices on top of voices, nobody shouting yet, everybody talking at once, the way people talk when something has just happened and they can't believe what they saw. A child being carried and complaining about it. A dog. Snippets of excited conversation. Fragments of a familiar name. 
+**Narrator** *(beat)* Stay with them a moment, because they will hear the crowd long before anyone else could see it. A crowd in a small town is not one sound. It is a hundred. Sandals on packed earth, first a few and then so many that the footsteps blur into one long shuffle. Voices on top of voices, nobody shouting yet, everybody talking at once, the way people talk when something has just happened and they can't believe what they saw. A child being carried and complaining about it. A dog. Snippets of excited conversation. Fragments of a familiar name.
 
 **Narrator** *(calm)* Two blind men know what that sound means before anyone tells them. They have heard the news for days, the synagogue ruler's daughter, dead and then not dead. Now the man who did it is walking past them, close enough to hear His sandals, and He is not stopping. No, He is definitely not stopping. Why is He not stopping?
 
@@ -46,7 +46,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* Where this happened is not certain. Edersheim places it on the way back into Capernaum, Jesus's home base on the north shore of the Sea of Galilee, a town of stone houses with flat roofs and narrow lanes running down to the water. The house would have been one of those: a courtyard, a doorway, a dim room. Elsewhere Edersheim wonders whether the details point somewhere else, and does not settle it. The place is uncertain. The path is not: road, street, door, house.
 
-**Narrator** *(calm)* Where this is. Capernaum sits at the north tip of the Sea of Galilee. Stand there and face north, with north at twelve o'clock. Bethsaida, where we were last episode, is about two hours' walk at two o'clock, round the top of the lake. Everything else we have visited is straight behind you at six o'clock, down the Jordan valley: Jericho first, about three days' walk, and Jerusalem beyond it, about three and a half, which is what a Galilean pilgrim planned for them to take for travelling the road up to a feast in Jerusalem. A family with children took longer. On the map, this is the farthest north the series has been. 
+**Narrator** *(calm)* Where this is. Capernaum sits at the north tip of the Sea of Galilee. Stand there and face north, with north at twelve o'clock. Bethsaida, where we were last episode, is about two hours' walk at two o'clock, round the top of the lake. Everything else we have visited is straight behind you at six o'clock, down the Jordan valley: Jericho first, about three days' walk, and Jerusalem beyond it, about three and a half, which is what a Galilean pilgrim planned for them to take for travelling the road up to a feast in Jerusalem. A family with children took longer. On the map, this is the farthest north the series has been.
 
 ---
 
@@ -58,11 +58,11 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Friend** *(whisper)* There is a center to it. A quiet place in the middle. Somebody they are all following.
 
-**Man** *(excited)* It's him! Can't you hear it? Up. Hurry! Hand on my shoulder. Let's go! Stay close. Son of David, have mercy on us !
+**Man** *(excited)* It's him! Can't you hear it? Up. Hurry! Hand on my shoulder. Let's go! Stay close. Son of David, have mercy on us!
 
 **Friend** *(excited)* Yes! Son of David, have mercy on us!
 
-**Man** *(calm)* He is not stopping. The crowd is moving left, toward the lake road. Come on. We do not  need eyes for this part. The loudest thing in this town is telling us exactly where we want to go.
+**Man** *(calm)* He is not stopping. The crowd is moving left, toward the lake road. Come on. We do not need eyes for this part. The loudest thing in this town is telling us exactly where we want to go.
 
 **Friend** *(whisper)* Street now. Walls close on both sides, the sound bounces. The crowd is bunching up ahead. They have stopped. A doorway, it must be. They are all trying to get in.
 
@@ -90,7 +90,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Brian** *(calm)* Two blind men following a crowd down a road and into a house. I want you to picture how that actually works, because it is not what sighted people imagine. You do not follow with your eyes, but you hear which ways sounds go. You follow the sound of the crowd, and you follow each other. One of them has a hand on the other's shoulder, or holding an arm. I have done exactly this countless times when it has just been me and a blind brother or sister, and we work as a team and eventually get where we need to be. It is slower, but it works.
 
-**Brian** *(calm)* Finding the crowd was never going to be their problem. A crowd that size is the loudest thing in a town, and a house with a crowd inside it leaks noise out of every door and window. Two blind men could have walked straight to it. The problem is the last ten feet. I have stood at the edge of a packed room more times than I can count, and what I do is stop. I stand still, because if I move I bump into people, and if I bump into people I am the blind man knocking into everyone. Standing still is safe. Those two men were desperate to get to Jesus, and they could not get to Him by standing still. So they went into the crowd. That is one of the bravest thing in the whole story and it gets no verse at all.
+**Brian** *(calm)* Finding the crowd was never going to be their problem. A crowd that size is the loudest thing in a town, and a house with a crowd inside it leaks noise out of every door and window. Two blind men could have walked straight to it. The problem is the last ten feet. I have stood at the edge of a packed room more times than I can count, and what I do is stop. I stand still, because if I move I bump into people, and if I bump into people I am the blind man knocking into everyone. Standing still is safe. Those two men were desperate to get to Jesus, and they could not get to Him by standing still. So they went into the crowd. That is one of the bravest things in the whole story and it gets no verse at all.
 
 **Brian** *(calm)* Jesus did not stop on the road. He let them follow Him all the way into the house. I used to think that was a little hard. Now I think He was letting them do the thing they could do, and maybe testing it. They could follow. Every step of that road was them saying we believe you are worth following, before He ever asked whether they believed. By the time He asked the question, they had already answered it with their feet.
 
@@ -132,9 +132,17 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* But if I drive out demons by the Spirit of God, then the kingdom of God has come upon you.
 
-**Narrator** *(calm)* One verse for the healing. Six, and the rest of the chapter, for the argument. Edersheim is careful to keep this man separate from the mute man of chapter nine; this one, told also in Luke, came much later, when the charge that Jesus worked by the prince of demons had taken shape. That is why the man himself disappears from the story the moment he can speak.
+**Narrator** *(calm)* Count the verses. One for the healing. Six, and then the rest of the chapter, for the argument about it. Matthew is not being careless with the man. He is showing us where the attention in that room went. A man who could neither see nor speak was made whole, and within a sentence the people with power were talking about Jesus, and about themselves, and the man was forgotten.
 
-**Narrator** *(calm)* A word about the word demon-possessed, since a blind listener may hear it with a wince. Edersheim points out that the Gospels do not actually use that phrase; they say demonised, and the phrase possession comes from Josephus. He also shows that the Gospels keep illness and this condition apart: being blind, deaf, mute or paralysed was not, on its own, called being demonised, and the two are listed separately again and again. This man is described as both. The 1915 encyclopedia notes that in the ancient Near East eye disease was widely thought to be a divine infliction. Matthew, for his part, gives no cause for this man's blindness at all. He gives the result: he could speak and see.
+**Narrator** *(calm)* Edersheim keeps this man apart from the mute man of chapter nine. That first healing came early, when the crowds were still amazed. This one, which Luke also tells, came much later, after the Pharisees had settled on their explanation: that Jesus did His works by the prince of demons. So by the time this man is carried in, the argument is already waiting for him. That is why he disappears from the story the moment he can speak. The room had stopped looking at him before he opened his mouth.
+
+**Narrator** *(calm)* Stay with the man himself for a moment, because the text does not. Blind, he cannot find his own way to Jesus. Mute, he cannot ask for anything when he gets there, or tell anyone what he wants, or answer the question Jesus asked the two men in the house. Everything that the two blind men did for themselves, shouting, following, answering, this man cannot do. Someone has to carry him, and someone has to speak for him, and he has no way to say whether they have spoken rightly. In a world with no sign language that anyone recorded, and no way to write for a man who could not see, a hand on his arm may have been the whole of his conversation with other people. Matthew gives his healing one verse. It may be the loneliest verse in the Gospels.
+
+**Narrator** *(calm)* Now a word about the phrase demon-possessed, because a blind listener may hear it with a wince, as if Scripture were saying that blindness is the devil's work. It is not saying that, and it helps to know why.
+
+**Narrator** *(calm)* First, the words. Edersheim points out that the Gospels never actually say possessed. Their word is demonised, and the language of possession comes from Josephus, the historian, not from Matthew or Luke. Second, the Gospels keep two things apart that we tend to run together. Being blind, or deaf, or mute, or paralysed was not, by itself, called being demonised. The lists of people Jesus healed name the sick and the demonised as separate groups, again and again. Blindness on its own was an illness. This one man is described as both, and that is unusual.
+
+**Narrator** *(calm)* Third, the times. The 1915 Bible encyclopedia notes that across the ancient Near East, eye disease was widely thought to be sent by God. People then would have assumed a cause for this man's condition. Matthew does not. He gives no cause at all for the blindness, no sin, no judgment, nothing. He gives the result: the man could speak and see. The only time the Gospels record anyone asking Jesus whose sin caused a blindness, in John chapter nine, He answered, neither.
 
 ---
 
@@ -146,7 +154,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Brian** *(calm)* According to your faith it will be done to you. I do not read that as a formula, as if the right amount of faith buys the right amount of sight. If it were, I would have been seeing years ago, and so would a lot of people I know who have more faith than I do. I read it as Jesus honoring what those two men had already done with their faith, which was follow Him down a road they could not see, into a house they had never been in, through a crowd they could not push past, to ask for something nobody could give them. He met them where their faith had already taken them.
+**Brian** *(calm)* I think about my friends who have lost both sight and hearing, the deaf-blind. This man in Matthew was blind and mute, which is a different pairing, but the wall is the same: you cannot take the world in, or you cannot give anything back, and either way you are cut off from people. In that world, as far as I know, there was no manual alphabet and no sign language that anyone wrote down. Helen Keller had a teacher and a system. A man like this had nothing, and the people who loved him had nothing to reach him with except a hand on his arm. I remind myself of that whenever I feel sorry for myself. My hearing is excellent, and my brain has learned to use sound in ways most sighted people never will. Blindness is a spectrum, and so is this. There were people in that crowd far worse off than me, and somebody carried one of them to Jesus.
 
 ---
 

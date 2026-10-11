@@ -8,32 +8,41 @@ PASSAGES = [("Matthew", 9, 27, 31), ("Matthew", 9, 32, 34), ("Matthew", 12, 22, 
 MAX_WORDS = 3200   # Brian, 11 October 2026: the opening and the scene were stretched on purpose
 
 # Written in Brian's voice from what he has told Claude, for his approval. Not his until he says so.
-# APPROVED: none yet. Brian asked (11 October) that his dialogue here be adjusted freely; he will edit.
-APPROVED = set()
+# APPROVED: Brian read and edited 0, 1, 3, 4 on 11 October 2026 and left 2 and 5 as written. 6 is new, a draft.
+APPROVED = {0, 1, 2, 3, 4, 5}
 DRAFT_BRIAN = [
     "Two blind men following a crowd down a road and into a house. I want you to picture how that actually works, "
-    "because it is not what sighted people imagine. You do not follow with your eyes. You follow the sound of the "
-    "crowd, and you follow each other. One of them has a hand on the other's shoulder, or they are side by side "
-    "with elbows touching, and whichever one hears better calls the turns. I have done exactly that with another "
-    "blind friend in a convention hotel, and we got where we were going. It is slower, and it works.",
+    "because it is not what sighted people imagine. You do not follow with your eyes, but you hear which ways "
+    "sounds go. You follow the sound of the crowd, and you follow each other. One of them has a hand on the "
+    "other's shoulder, or holding an arm. I have done exactly this countless times when it has just been me and a "
+    "blind brother or sister, and we work as a team and eventually get where we need to be. It is slower, but it "
+    "works.",
     "Finding the crowd was never going to be their problem. A crowd that size is the loudest thing in a town, and "
     "a house with a crowd inside it leaks noise out of every door and window. Two blind men could have walked "
     "straight to it. The problem is the last ten feet. I have stood at the edge of a packed room more times than I "
     "can count, and what I do is stop. I stand still, because if I move I bump into people, and if I bump into "
     "people I am the blind man knocking into everyone. Standing still is safe. Those two men were desperate to get "
-    "to Jesus, and they could not get to Him by standing still. So they went into the crowd. That is the bravest "
-    "thing in the whole story and it gets no verse at all.",
+    "to Jesus, and they could not get to Him by standing still. So they went into the crowd. That is one "
+    "of the bravest things in the whole story and it gets no verse at all.",
     "Jesus did not stop on the road. He let them follow Him all the way into the house. I used to think that was "
     "a little hard. Now I think He was letting them do the thing they could do, and maybe testing it. They could "
     "follow. Every step of that road was them saying we believe you are worth following, before He ever asked "
     "whether they believed. By the time He asked the question, they had already answered it with their feet.",
     "Then He asked. Do you believe I am able to do this? He asked two blind men a question and waited for the "
-    "answer. He did not ask the crowd about them. He did not ask whoever was with them. He asked them. In my "
-    "experience that is rarer than healing.",
+    "answer. He did not ask the crowd about them. He did not ask whoever was with them. He did not assume that "
+    "everyone knew what they wanted. He asked them. In my experience that is often half the battle.",
     "The second man could not see and could not speak. Somebody had to bring him, and somebody had to speak for "
     "him, and then once he could speak, the argument started over his head and he never got a line. I notice that "
     "every time I read it. The man gets his sight and his voice, and the Pharisees immediately make it about "
-    "themselves. I have been in that room. Not healed, but talked over. It is a particular feeling.",
+    "themselves. I have been in that room. Not healed, but talked over. It is a particularly frustrating feeling.",
+    "I think about my friends who have lost both sight and hearing, the deaf-blind. This man in Matthew was blind "
+    "and mute, which is a different pairing, but the wall is the same: you cannot take the world in, or you cannot "
+    "give anything back, and either way you are cut off from people. In that world, as far as I know, there was no "
+    "manual alphabet and no sign language that anyone wrote down. Helen Keller had a teacher and a system. A man "
+    "like this had nothing, and the people who loved him had nothing to reach him with except a hand on his arm. "
+    "I remind myself of that whenever I feel sorry for myself. My hearing is excellent, and my brain has learned to "
+    "use sound in ways most sighted people never will. Blindness is a spectrum, and so is this. There were people "
+    "in that crowd far worse off than me, and somebody carried one of them to Jesus.",
     "According to your faith it will be done to you. I do not read that as a formula, as if the right amount of "
     "faith buys the right amount of sight. If it were, I would have been seeing years ago, and so would a lot of "
     "people I know who have more faith than I do. I read it as Jesus honoring what those two men had already done "
@@ -52,21 +61,21 @@ def build(bible: dict) -> list[str]:
     add("")
 
     # ---- Cold open: two men at the roadside hear the crowd come past -----------------------------
-    add("[NARRATOR] (calm) Two men are sitting at the side of a road, and a crowd is coming.")
+    add("[NARRATOR] (calm) Two blind men are sitting at the side of a road, and a crowd is coming.")
     add("[PAUSE 1.0]")
-    add("[NARRATOR] (beat) Stay with them a moment, because they will hear it long before anyone could see it. A "
-        "crowd in a small town is not one sound. It is a hundred. Sandals on packed earth, first a few and then so "
-        "many that the footsteps blur into one long shuffle. Voices on top of voices, nobody shouting yet, everybody "
-        "talking at once, the way people talk when something has just happened and they were there. A child being "
-        "carried and complaining about it. A dog. And somewhere in the middle of it all, one quieter space, where "
-        "the talking stops for a step or two as people pass whoever it is they are following.")
-    add("[NARRATOR] (calm) Two blind men know what that sound means before anyone tells them. A crowd like that "
-        "has a centre, and the centre is moving. They have heard the news for days, the synagogue ruler's daughter, "
-        "dead and then not dead. Now the man who did it is walking past them, close enough to hear His sandals, "
-        "and He is not stopping.")
+    add("[NARRATOR] (beat) Stay with them a moment, because they will hear the crowd long before anyone else could "
+        "see it. A crowd in a small town is not one sound. It is a hundred. Sandals on packed earth, first a few and "
+        "then so many that the footsteps blur into one long shuffle. Voices on top of voices, nobody shouting yet, "
+        "everybody talking at once, the way people talk when something has just happened and they can't believe "
+        "what they saw. A child being carried and complaining about it. A dog. Snippets of excited conversation. "
+        "Fragments of a familiar name.")
+    add("[NARRATOR] (calm) Two blind men know what that sound means before anyone tells them. They have heard the "
+        "news for days, the synagogue ruler's daughter, dead and then not dead. Now the man who did it is walking "
+        "past them, close enough to hear His sandals, and He is not stopping. No, He is definitely not stopping. "
+        "Why is He not stopping?")
     add("[PAUSE 1.0]")
-    add("[NARRATOR] (beat) So they do the thing a blind man in a crowd almost never does. They get up and walk into "
-        "it.")
+    add("[NARRATOR] (beat) So they do the thing blind men almost never do in a crowd. They get up and walk right "
+        "into the middle of it.")
     add("[PAUSE 1.5]")
     add(f"[NARRATOR] (calm) {SERIES_INTRO}")
     add("[NARRATOR] (calm) This episode gathers two short accounts from Matthew, a few chapters apart, about blind "
@@ -78,7 +87,7 @@ def build(bible: dict) -> list[str]:
     add("[NARRATOR] (calm) First, where we are. Matthew chapter nine. Jesus has just done something that has set "
         "the whole region talking: He has gone into the house of a synagogue leader named Jairus and raised his "
         "daughter from the dead. Matthew says the news spread through all that land. As Jesus leaves that house, two "
-        "men who cannot see have heard the news, and they do not intend to let Him pass.")
+        "men who cannot see have heard the news, and they do not intend to let Him simply pass by.")
     ext(reader(bible, "Matthew", 9, 27, 31))
     add("[NARRATOR] (calm) Son of David. Matthew Henry notes that this was the common name for the Messiah, the "
         "King promised to David's line. These two were not calling a healer. They were naming who they believed He "
@@ -92,7 +101,7 @@ def build(bible: dict) -> list[str]:
     add("[NARRATOR] (calm) Matthew Henry gives a reason. Jesus did not take notice of them at first, Henry says, "
         "because He meant to test their faith, and He already knew it was strong. Then Henry adds something kind. "
         "Pushing into a house after a man who wanted to be alone looked rude. But Jesus did not treat it as rude. "
-        "In Henry's words, they were not more bold than welcome.")
+        "In Henry's words, they were not more bold than they were welcome.")
     add("[NARRATOR] (calm) So the shouting was not the test. The following was. Anyone can call out from the side "
         "of a road. These two walked after Him down a street they could not see and through a door into a crowded "
         "room, and the healing waited until they had done it.")
@@ -105,9 +114,9 @@ def build(bible: dict) -> list[str]:
         "north, with north at twelve o'clock. Bethsaida, where we were last episode, is about two hours' walk at two "
         "o'clock, round the top of the lake. Everything else we have visited is straight behind you at six o'clock, "
         "down the Jordan valley: Jericho first, about three days' walk, and Jerusalem beyond it, about three and a "
-        "half, which is what a Galilean pilgrim reckoned for the road to a feast. A family with children took "
-        "longer. On the map, this is the farthest north the series has been. From here the journey of these "
-        "episodes runs south, the way the Jordan runs, toward the city where it ends.")
+        "half, which is what a Galilean pilgrim planned for them to take for travelling the road up to a feast in "
+        "Jerusalem. A family with children took longer. On the map, this is the farthest north the series has "
+        "been.")
     add("[BREAK]")
 
     # ---- Imagined scene -------------------------------------------------------------------------
@@ -118,22 +127,20 @@ def build(bible: dict) -> list[str]:
     add("[PAUSE 1.0]")
     add("[MAN] (whisper) Here they come. Hear it? That is not market noise. That is one crowd, all going the same "
         "way.")
-    add("[FRIEND] (whisper) There is a gap in it. A quiet place in the middle. Somebody they are all walking "
-        "around.")
-    add("[MAN] (excited) It is him. Up. Hand on my shoulder, stay close. Son of David, have mercy on us!")
-    add("[FRIEND] (excited) Son of David, have mercy on us!")
+    add("[FRIEND] (whisper) There is a center to it. A quiet place in the middle. Somebody they are all following.")
+    add("[MAN] (excited) It's him! Can't you hear it? Up. Hurry! Hand on my shoulder. Let's go! Stay close. Son of "
+        "David, have mercy on us!")
+    add("[FRIEND] (excited) Yes! Son of David, have mercy on us!")
     add("[MAN] (calm) He is not stopping. The crowd is moving left, toward the lake road. Come on. We do not need "
-        "eyes for this part. The loudest thing in this town is going exactly where we want to go.")
-    add("[FRIEND] (curious) How do you know it is left?")
-    add("[MAN] (calm) The gulls are on the left. The lake is always on the left in this town. Son of David, have "
-        "mercy on us!")
+        "eyes for this part. The loudest thing in this town is telling us exactly where we want to go.")
     add("[FRIEND] (whisper) Street now. Walls close on both sides, the sound bounces. The crowd is bunching up ahead. "
         "They have stopped. A doorway, it must be. They are all trying to get in.")
     add("[MAN] (whisper) And here is the hard part. Not the road. This. A crowd standing still is a wall of backs "
         "and elbows, and if we push, we are the blind men knocking into everyone. Every day of my life I would stop "
         "right here and wait.")
-    add("[FRIEND] (calm) Not today.")
-    add("[MAN] (calm) No. Not today. Keep your hand on me. Pardon us. Pardon us, we are going in. Son of David!")
+    add("[FRIEND] (calm) Not today. Have faith!")
+    add("[MAN] (calm) No. You are right. Not today. Keep your hand on me. Pardon us. Pardon us, we are going in. "
+        "Son of David!")
     add("[VOICE] (calm) Mind the step. There is a step down here. Are you two following the teacher? He has gone "
         "inside. Here. Give me your hand. Low lintel.")
     add("[FRIEND] (whisper) Dark in here. Cooler. Oil lamps. A lot of people breathing, and then they go quiet.")
@@ -157,7 +164,7 @@ def build(bible: dict) -> list[str]:
         "caution, because the rulers were growing jealous; and so as not to stir the crowds before the time. "
         "Edersheim's reading is that a confession as far-reaching as theirs, calling Him Son of David and able to "
         "open blind eyes with a touch, was not yet to be shouted in public. The time for that would come, on a "
-        "donkey, outside Jerusalem. The men did not keep quiet. They went out and spread the news through all that "
+        "donkey, outside Jerusalem. But the men did not keep quiet. They went out and spread the news through all that "
         "land, which, if you have ever been given back something you thought was gone for good, you will "
         "understand.")
     add("[NARRATOR] (calm) Matthew does not pause. In the very next verse, as those two are going out, another man "
@@ -172,17 +179,37 @@ def build(bible: dict) -> list[str]:
         "healed on the Sabbath and defended it, and Matthew says they have begun to plot how to destroy Him. Into "
         "that, a man is brought who cannot see and cannot speak.")
     ext(reader(bible, "Matthew", 12, 22, 28))
-    add("[NARRATOR] (calm) One verse for the healing. Six, and the rest of the chapter, for the argument. Edersheim "
-        "is careful to keep this man separate from the mute man of chapter nine; this one, told also in Luke, came "
-        "much later, when the charge that Jesus worked by the prince of demons had taken shape. That is why the man "
-        "himself disappears from the story the moment he can speak.")
-    add("[NARRATOR] (calm) A word about the word demon-possessed, since a blind listener may hear it with a wince. "
-        "Edersheim points out that the Gospels do not actually use that phrase; they say demonised, and the phrase "
-        "possession comes from Josephus. He also shows that the Gospels keep illness and this condition apart: being "
-        "blind, deaf, mute or paralysed was not, on its own, called being demonised, and the two are listed "
-        "separately again and again. This man is described as both. The 1915 encyclopedia notes that in the "
-        "ancient Near East eye disease was widely thought to be a divine infliction. Matthew, for his part, gives no "
-        "cause for this man's blindness at all. He gives the result: he could speak and see.")
+    add("[NARRATOR] (calm) Count the verses. One for the healing. Six, and then the rest of the chapter, for the "
+        "argument about it. Matthew is not being careless with the man. He is showing us where the attention in "
+        "that room went. A man who could neither see nor speak was made whole, and within a sentence the people "
+        "with power were talking about Jesus, and about themselves, and the man was forgotten.")
+    add("[NARRATOR] (calm) Edersheim keeps this man apart from the mute man of chapter nine. That first healing "
+        "came early, when the crowds were still amazed. This one, which Luke also tells, came much later, after the "
+        "Pharisees had settled on their explanation: that Jesus did His works by the prince of demons. So by the "
+        "time this man is carried in, the argument is already waiting for him. That is why he disappears from the "
+        "story the moment he can speak. The room had stopped looking at him before he opened his mouth.")
+    add("[NARRATOR] (calm) Stay with the man himself for a moment, because the text does not. Blind, he cannot find "
+        "his own way to Jesus. Mute, he cannot ask for anything when he gets there, or tell anyone what he wants, "
+        "or answer the question Jesus asked the two men in the house. Everything that the two blind men did for "
+        "themselves, shouting, following, answering, this man cannot do. Someone has to carry him, and someone has "
+        "to speak for him, and he has no way to say whether they have spoken rightly. In a world with no sign "
+        "language that anyone recorded, and no way to write for a man who could not see, a hand on his arm may "
+        "have been the whole of his conversation with other people. Matthew gives his healing one verse. It may be "
+        "the loneliest verse in the Gospels.")
+    add("[NARRATOR] (calm) Now a word about the phrase demon-possessed, because a blind listener may hear it with "
+        "a wince, as if Scripture were saying that blindness is the devil's work. It is not saying that, and it helps "
+        "to know why.")
+    add("[NARRATOR] (calm) First, the words. Edersheim points out that the Gospels never actually say possessed. "
+        "Their word is demonised, and the language of possession comes from Josephus, the historian, not from "
+        "Matthew or Luke. Second, the Gospels keep two things apart that we tend to run together. Being blind, or "
+        "deaf, or mute, or paralysed was not, by itself, called being demonised. The lists of people Jesus healed "
+        "name the sick and the demonised as separate groups, again and again. Blindness on its own was an illness. "
+        "This one man is described as both, and that is unusual.")
+    add("[NARRATOR] (calm) Third, the times. The 1915 Bible encyclopedia notes that across the ancient Near East, "
+        "eye disease was widely thought to be sent by God. People then would have assumed a cause for this man's "
+        "condition. Matthew does not. He gives no cause at all for the blindness, no sin, no judgment, nothing. He "
+        "gives the result: the man could speak and see. The only time the Gospels record anyone asking Jesus whose "
+        "sin caused a blindness, in John chapter nine, He answered, neither.")
     add("[BREAK]")
 
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[4]}")
