@@ -68,6 +68,38 @@ def km(a: dict, b: dict) -> float:
     return 2 * r * math.asin(math.sqrt(h))
 
 
+def walk_words(straight_km: float) -> str:
+    """Straight-line km to spoken walking time. Roads wind, so the distance is lengthened by a quarter. Short
+    stretches: 4 km an hour, which gives Edersheim's six hours from Jericho up to Jerusalem. Long journeys: 45 km
+    a day, which gives Josephus's three days from Galilee to Jerusalem (Life 269) for a pilgrim walking hard."""
+    road = straight_km * 1.25
+    hours = road / 4.0
+    if hours < 1:
+        return "under an hour's walk"
+    if hours < 1.5:
+        return "about an hour's walk"
+    if hours <= 9:
+        return f"about {int(round(hours))} hours' walk"
+    days = road / 45.0
+    half = round(days * 2) / 2
+    if half <= 1:
+        return "about a day's walk"
+    if half == int(half):
+        return f"about {int(half)} days' walk"
+    return f"about {int(half)} and a half days' walk"
+
+
+def clock_word(a: dict, b: dict) -> str:
+    """Direction from a to b as a clock face, north at twelve."""
+    p1, p2 = math.radians(a["lat"]), math.radians(b["lat"])
+    dl = math.radians(b["lon"] - a["lon"])
+    y = math.sin(dl) * math.cos(p2)
+    x = math.cos(p1) * math.sin(p2) - math.sin(p1) * math.cos(p2) * math.cos(dl)
+    deg = (math.degrees(math.atan2(y, x)) + 360) % 360
+    hour = int(round(deg / 30)) % 12
+    return f"{12 if hour == 0 else hour} o'clock"
+
+
 def bearing_word(a: dict, b: dict) -> str:
     p1, p2 = math.radians(a["lat"]), math.radians(b["lat"])
     dl = math.radians(b["lon"] - a["lon"])
@@ -193,7 +225,8 @@ def describe(ep_key: str | None) -> str:
         for k, p in places.items():
             if p["kind"] in ("water", "river") or k == "jerusalem":
                 continue
-            lines.append(f"- {p['name']}: {km(jer, p):.0f} km to the {bearing_word(jer, p)}. {p.get('note', '')}".rstrip())
+            lines.append(f"- {p['name']}: {walk_words(km(jer, p))}, at {clock_word(jer, p)} from Jerusalem. "
+                         f"{p.get('note', '')}".rstrip())
         for o in DATA["off_map"]:
             lines.append(f"- {o['name']}: {o['direction']}, beyond the map. {o['note']}")
         return "\n".join(lines)
@@ -202,15 +235,15 @@ def describe(ep_key: str | None) -> str:
     lines = [f"Episode {int(ep_key[2:])}, {ep['title']}. The map highlights {fp['name']} in gold. {fp.get('note', '')}".rstrip()]
     if ep.get("focus2"):
         p2 = places[ep["focus2"]]
-        lines.append(f"A second gold mark is {p2['name']}, {km(fp, p2):.0f} km to the {bearing_word(fp, p2)} of "
-                     f"{fp['name']}. {p2.get('note', '')}".rstrip())
+        lines.append(f"A second gold mark is {p2['name']}, {walk_words(km(fp, p2))} from {fp['name']}, at "
+                     f"{clock_word(fp, p2)}. {p2.get('note', '')}".rstrip())
     if ep["visited"]:
-        lines.append("The places already visited in the series are marked and joined by a line, in the order of the "
-                     "episodes:")
+        lines.append(f"Stand at {fp['name']} and face north; north is twelve o'clock. The places already visited "
+                     "in the series are marked and joined by a line, in the order of the episodes:")
         for k in ep["visited"]:
             p = places[k]
-            lines.append(f"- {p['name']}: {km(fp, p):.0f} km to the {bearing_word(fp, p)} of {fp['name']}.")
-    lines.append(f"From {fp['name']} it is {km(fp, jer):.0f} km to Jerusalem, to the {bearing_word(fp, jer)}."
+            lines.append(f"- {p['name']}: {walk_words(km(fp, p))}, at {clock_word(fp, p)}.")
+    lines.append(f"From {fp['name']}, Jerusalem is {walk_words(km(fp, jer))}, at {clock_word(fp, jer)}."
                  if ep["focus"] != "jerusalem" else "Jerusalem is the city itself.")
     return "\n".join(lines)
 
@@ -218,7 +251,7 @@ def describe(ep_key: str | None) -> str:
 def main() -> None:
     md = ["# The series map, in words", "",
           "Each map is drawn from real coordinates (audio/maps/places.json). The description below each one is the "
-          "map for a listener who cannot see it. Distances are straight-line kilometres.", ""]
+          "map for a listener who cannot see it. Distances are given as walking time on the roads of the day, and directions as a clock face with north at twelve.", ""]
     out, text = render(None)
     md += [f"## base.png", "", text, ""]
     print("wrote", out.name)
