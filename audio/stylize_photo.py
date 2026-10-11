@@ -32,18 +32,34 @@ def stylize(src: Image.Image) -> Image.Image:
     return Image.fromarray(np.clip(np.asarray(im) * vig[..., None] + grain, 0, 255).astype(np.uint8))
 
 
-def frame(pic: Image.Image) -> Image.Image:
+def frame(pic: Image.Image, label: str | None = None, label_x_frac: float = 0.3) -> Image.Image:
     w, h = pic.size
-    pic = pic.resize((int(w * (H - 160) / h), H - 160), Image.LANCZOS)
+    ph = H - 260 if label else H - 160
+    pic = pic.resize((int(w * ph / h), ph), Image.LANCZOS)
     out = Image.new("RGB", (W, H), MATTE)
     sh = Image.new("L", (pic.width + 80, pic.height + 80), 0)
     ImageDraw.Draw(sh).rectangle([40, 40, 40 + pic.width, 40 + pic.height], fill=110)
     sh = sh.filter(ImageFilter.GaussianBlur(28))
     out.paste(Image.new("RGB", sh.size, (90, 70, 50)), ((W - sh.width) // 2, (H - sh.height) // 2 + 12), sh)
-    out.paste(pic, ((W - pic.width) // 2, 80))
+    left, top = (W - pic.width) // 2, 70
+    out.paste(pic, (left, top))
+    if label:
+        # a small museum-style caption plate below the photo, with a short pointer line up to the person
+        from PIL import ImageFont
+        font = ImageFont.truetype(r"C:\Windows\Fonts\georgiai.ttf", 44)
+        d = ImageDraw.Draw(out)
+        tw = d.textlength(label, font=font)
+        px = left + int(pic.width * label_x_frac)
+        plate = [px - tw / 2 - 28, H - 130, px + tw / 2 + 28, H - 60]
+        d.rectangle(plate, fill=(236, 226, 204), outline=(120, 100, 70), width=3)
+        d.text((px, H - 95), label, font=font, fill=(60, 44, 30), anchor="mm")
+        d.line([(px, H - 130), (px, top + pic.height + 6)], fill=(120, 100, 70), width=5)
     return out
 
 
 if __name__ == "__main__":
-    frame(stylize(Image.open(sys.argv[1]))).save(sys.argv[2])
+    # usage: stylize_photo.py <in> <out> [label] [x-fraction of the photo width where the person stands]
+    label = sys.argv[3] if len(sys.argv) > 3 else None
+    xf = float(sys.argv[4]) if len(sys.argv) > 4 else 0.3
+    frame(stylize(Image.open(sys.argv[1])), label, xf).save(sys.argv[2])
     print("wrote", sys.argv[2])
