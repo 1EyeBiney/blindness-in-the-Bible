@@ -60,7 +60,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(dryly)* And now, a word from Brian. Or rather, from the voice Brian picked for himself, since he would not use his own. Around here we call it Mister Scaredy Cat. The words are all his.
+**Narrator** *(dryly)* And now, a word from Brian. Or rather, from the voice Brian picked for himself, since he would not use his own. Around here we call it Mister Scaredy Cat. The voice is not his, but the words are.
 
 *(pause 1.0 s)*
 
