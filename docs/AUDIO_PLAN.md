@@ -88,3 +88,34 @@ rendering, using my judgment and noting decisions. Decisions:
   episode. Episode 1 keeps its own builder for now.
 - Place-and-time: a Sonnet subagent gathered new shelf quotes into data/reference/episode_candidates.json; the
   scripts use what the story pages already carried plus that material where it checked out.
+
+## State at the end of 11 October 2026
+
+Published: episodes 1 (y-fccElFytM), 2 (zzAgXrX9NEM), 3 (M_LW64UXuxY), 4 (kOQtHFpQvzs), each embedded on its story
+page with its MP3 in media/. Episode 4 is on two pages: two-blind-men and blind-and-mute-man.
+
+Decisions Brian made today:
+
+- Episodes 1 to 3 stay as published. They are NOT being re-uploaded. That means their burned-in captions stay as
+  they are (each picture holds one caption; found and fixed in make_video.py on 11 October), and they get no map
+  and no photograph. Episode 3 has an uploaded closed-caption track; 1 and 2 have YouTube's automatic one.
+- The series map is standard from episode 4 on: one base map (audio/maps/), the episode's place in gold, earlier
+  places joined in episode order, described in walking time and clock-face directions, with a "Where this is"
+  passage read by the narrator in the place section.
+- Brian's Navy photograph with the "Mister Scaredy Cat" plate is standard from episode 4 on, shown on the short
+  introduction line: "... Around here we call it Mister Scaredy Cat. The voice is not his, but the words are."
+- Assets may be reused freely between episodes (sound beds, music families, the scroll, the pew).
+
+The rule that must not be broken: Brian edits audio/scripts/epNN_*_01.md by hand. Fold his edits into
+audio/episodes/epNN_*.py and commit BEFORE any rebuild. episode_lib refuses to overwrite a reading file that has
+uncommitted edits; do not bypass it.
+
+Next, in order:
+
+1. Episode 5, The blind in the crowd: Brian's read-through of the script and its draft paragraphs; add the "Where
+   this is" passage (two places: the mountain by the lake, and Jerusalem); add the last-week finding (Bartimaeus on
+   the road and the blind in the Temple both fall in the final week, and the Temple healing is the last healing
+   Matthew records). Do not say "three healings in ten days"; the shelf does not support it.
+2. Episode 6, The answer to John: read-through, "Where this is" (Machaerus, and Nazareth for Isaiah 61).
+3. Sound-effect request lists for 5 and 6 (audio/sfx.py, 200 credits a clip), shot lists, Gemini stills, video.
+4. Open slots on the site that still wait for Brian, and Pastor John's voice memo.
