@@ -12,9 +12,9 @@ MAX_WORDS = 3200   # Brian, 11 October 2026: the opening and the scene were stre
 APPROVED = {0, 1, 2, 3, 4, 5}
 DRAFT_BRIAN = [
     "Two blind men following a crowd down a road and into a house. I want you to picture how that actually works, "
-    "because it is not what sighted people imagine. You do not follow with your eyes, but you hear which ways "
-    "sounds go. You follow the sound of the crowd, and you follow each other. One of them has a hand on the "
-    "other's shoulder, or holding an arm. I have done exactly this countless times when it has just been me and a "
+    "because it is not what sighted people imagine. You do not follow with your eyes, but you can hear which way "
+    "the sounds are going. You follow the sound of the crowd, and you follow each other. One of them has a hand on the "
+    "other's shoulder, or is holding an arm. I have done exactly this countless times when it has just been me and a "
     "blind brother or sister, and we work as a team and eventually get where we need to be. It is slower, but it "
     "works.",
     "Finding the crowd was never going to be their problem. A crowd that size is the loudest thing in a town, and "
@@ -101,7 +101,7 @@ def build(bible: dict) -> list[str]:
     add("[NARRATOR] (calm) Matthew Henry gives a reason. Jesus did not take notice of them at first, Henry says, "
         "because He meant to test their faith, and He already knew it was strong. Then Henry adds something kind. "
         "Pushing into a house after a man who wanted to be alone looked rude. But Jesus did not treat it as rude. "
-        "In Henry's words, they were not more bold than they were welcome.")
+        "In Henry's words, they were not more bold than welcome: as bold as they were, they were just as welcome.")
     add("[NARRATOR] (calm) So the shouting was not the test. The following was. Anyone can call out from the side "
         "of a road. These two walked after Him down a street they could not see and through a door into a crowded "
         "room, and the healing waited until they had done it.")
@@ -114,7 +114,7 @@ def build(bible: dict) -> list[str]:
         "north, with north at twelve o'clock. Bethsaida, where we were last episode, is about two hours' walk at two "
         "o'clock, round the top of the lake. Everything else we have visited is straight behind you at six o'clock, "
         "down the Jordan valley: Jericho first, about three days' walk, and Jerusalem beyond it, about three and a "
-        "half, which is what a Galilean pilgrim planned for them to take for travelling the road up to a feast in "
+        "half, which is what a Galilean pilgrim planned on for the road up to a feast in "
         "Jerusalem. A family with children took longer. On the map, this is the farthest north the series has "
         "been.")
     add("[BREAK]")
