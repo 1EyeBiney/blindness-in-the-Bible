@@ -46,6 +46,8 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* Where this happened is not certain. Edersheim places it on the way back into Capernaum, Jesus's home base on the north shore of the Sea of Galilee, a town of stone houses with flat roofs and narrow lanes running down to the water. The house would have been one of those: a courtyard, a doorway, a dim room. Elsewhere Edersheim wonders whether the details point somewhere else, and does not settle it. The place is uncertain. The path is not: road, street, door, house.
 
+**Narrator** *(calm)* Where this is. Capernaum sits at the north tip of the Sea of Galilee. Stand there and face north, with north at twelve o'clock. Bethsaida, where we were last episode, is about two hours' walk at two o'clock, round the top of the lake. Everything else we have visited is straight behind you at six o'clock, down the Jordan valley: Jericho first, about three days' walk, and Jerusalem beyond it, about three and a half, which is what a Galilean pilgrim reckoned for the road to a feast. A family with children took longer. On the map, this is the farthest north the series has been. From here the journey of these episodes runs south, the way the Jordan runs, toward the city where it ends.
+
 ---
 
 **Narrator** *(calm)* Scripture tells us they followed and what they shouted. It does not tell us how two blind men kept up with a moving crowd, or how they got through it at the door. We imagine two men who had worked the first part out long ago, and had to work the second part out that day. This is a scene, not Scripture.
@@ -116,7 +118,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* Matthew chapter twelve. By now the conflict with the Pharisees has hardened. Jesus has healed on the Sabbath and defended it, and Matthew says they have begun to plot how to destroy Him. Into that, a man is brought who cannot see and cannot speak.
+**Narrator** *(calm)* Matthew chapter twelve. We are still in Galilee, by Edersheim's reckoning, more than a year before the end. By now the conflict with the Pharisees has hardened. Jesus has healed on the Sabbath and defended it, and Matthew says they have begun to plot how to destroy Him. Into that, a man is brought who cannot see and cannot speak.
 
 **Narrator** *(calm)* Matthew chapter 12, verses 22 to 28.
 

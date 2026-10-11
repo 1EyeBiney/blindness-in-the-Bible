@@ -101,6 +101,13 @@ def build(bible: dict) -> list[str]:
         "narrow lanes running down to the water. The house would have been one of those: a courtyard, a doorway, a "
         "dim room. Elsewhere Edersheim wonders whether the details point somewhere else, and does not settle it. "
         "The place is uncertain. The path is not: road, street, door, house.")
+    add("[NARRATOR] (calm) Where this is. Capernaum sits at the north tip of the Sea of Galilee. Stand there and face "
+        "north, with north at twelve o'clock. Bethsaida, where we were last episode, is about two hours' walk at two "
+        "o'clock, round the top of the lake. Everything else we have visited is straight behind you at six o'clock, "
+        "down the Jordan valley: Jericho first, about three days' walk, and Jerusalem beyond it, about three and a "
+        "half, which is what a Galilean pilgrim reckoned for the road to a feast. A family with children took "
+        "longer. On the map, this is the farthest north the series has been. From here the journey of these "
+        "episodes runs south, the way the Jordan runs, toward the city where it ends.")
     add("[BREAK]")
 
     # ---- Imagined scene -------------------------------------------------------------------------
@@ -160,7 +167,8 @@ def build(bible: dict) -> list[str]:
         "going to show them to us again, louder, three chapters later, with a man who is both blind and mute.")
     add("[BREAK]")
 
-    add("[NARRATOR] (calm) Matthew chapter twelve. By now the conflict with the Pharisees has hardened. Jesus has "
+    add("[NARRATOR] (calm) Matthew chapter twelve. We are still in Galilee, by Edersheim's reckoning, more than a "
+        "year before the end. By now the conflict with the Pharisees has hardened. Jesus has "
         "healed on the Sabbath and defended it, and Matthew says they have begun to plot how to destroy Him. Into "
         "that, a man is brought who cannot see and cannot speak.")
     ext(reader(bible, "Matthew", 12, 22, 28))
