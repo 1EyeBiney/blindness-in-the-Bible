@@ -110,11 +110,27 @@ def main(project: str, mix: str) -> None:
     total = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", mix],
                                  capture_output=True, text=True, check=True).stdout.strip())
     start_of = {s["id"]: s["start"] for s in sections}
+    span_of = {s["id"]: (s["start"], s["end"]) for s in sections}
+
+    def shot_time(shot: dict) -> float:
+        """A shot starts with its section, or, with 'at_phrase', partway through it: the phrase is found in the
+        section's text and placed by its share of the words, which is close enough for a still."""
+        a, b = span_of[shot["from"]]
+        phrase = shot.get("at_phrase")
+        if not phrase:
+            return a - 0.3
+        text = texts[shot["from"]]
+        pos = text.find(phrase)
+        if pos < 0:
+            raise SystemExit(f"shot at_phrase not found in section {shot['from']}: {phrase!r}")
+        frac = len(text[:pos].split()) / max(1, len(text.split()))
+        return a + (b - a) * frac - 0.3
+
     frames = out / "frames"
     frames.mkdir(exist_ok=True)
     cues = []
     for i, shot in enumerate(shots["shots"]):
-        t0 = 0.0 if i == 0 else start_of[shot["from"]] - 0.3
+        t0 = 0.0 if i == 0 else shot_time(shot)
         png = frames / f"shot_{i:02d}.png"
         src = root / "shots" / "images" / shot["image"]
         if src.exists():
