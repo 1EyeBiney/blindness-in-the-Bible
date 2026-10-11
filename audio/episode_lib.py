@@ -93,14 +93,36 @@ def to_markdown(lines: list[str], title: str, number: int) -> str:
     return "\n".join(out)
 
 
+class EditsWouldBeLost(RuntimeError):
+    pass
+
+
+def guard_brians_edits(md_path: Path) -> None:
+    """Brian edits the generated reading file by hand. If it differs from the last committed version, those edits
+    have not been folded into the generator yet, and rebuilding would erase them. Stop instead (11 October 2026,
+    after it happened twice)."""
+    import subprocess
+    if not md_path.exists():
+        return
+    try:
+        r = subprocess.run(["git", "diff", "--quiet", "--", str(md_path)], cwd=ROOT, capture_output=True)
+    except FileNotFoundError:
+        return
+    if r.returncode == 1:
+        raise EditsWouldBeLost(f"{md_path.name} has uncommitted hand edits. Fold them into the generator (or commit "
+                               f"them) before rebuilding; nothing was written.")
+
+
 def write_episode(mod) -> dict:
     """Write <slug>_01.txt/.md (line by line), <slug>_02.txt (speaker runs merged) and the section index."""
     bible = build_site.load_bible()
     lines = mod.build(bible)
     base = f"ep{mod.NUMBER:02d}_{mod.SLUG}"
     OUT_DIR.mkdir(parents=True, exist_ok=True)
+    md_path = OUT_DIR / f"{base}_01.md"
+    guard_brians_edits(md_path)
     (OUT_DIR / f"{base}_01.txt").write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
-    (OUT_DIR / f"{base}_01.md").write_text(to_markdown(lines, mod.TITLE, mod.NUMBER), encoding="utf-8", newline="\n")
+    md_path.write_text(to_markdown(lines, mod.TITLE, mod.NUMBER), encoding="utf-8", newline="\n")
     merged = merge_runs(lines, f"{base}_v2")
     (OUT_DIR / f"{base}_02.txt").write_text("\n".join(merged) + "\n", encoding="utf-8", newline="\n")
     (OUT_DIR / f"{base}_02_sections.md").write_text(
