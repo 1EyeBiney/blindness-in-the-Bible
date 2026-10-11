@@ -15,3 +15,5 @@ shots/images/
 *.reapeaks
 *.rpp-bak
 *.log
+!shots/images/maps/
+!shots/images/maps/*.png
