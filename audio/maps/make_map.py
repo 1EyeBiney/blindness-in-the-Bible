@@ -184,6 +184,8 @@ def render(ep_key: str | None) -> tuple[Path, str]:
         if len(pts) > 1:
             d.line(pts, fill=ROUTE, width=7, joint="curve")
         for k in visited:
+            if k in focus:          # a place that is both visited and this episode's: draw it once, as the focus
+                continue
             dot(d, places[k], 16, (235, 225, 200), outline=ROUTE, width=5)
             label(d, places[k], f_s, INK, key=k)
         for k in focus:
@@ -203,7 +205,7 @@ def render(ep_key: str | None) -> tuple[Path, str]:
     for ln in textwrap.wrap(title, 26):
         d.text((MAP_W + 70, yy), ln, font=f_l, fill=INK); yy += 80
     yy += 20
-    for para in (describe(ep_key).split(chr(10))[1:] if ep_key else describe(None).split(chr(10))[1:8]):
+    for para in (panel_lines(ep_key) if ep_key else describe(None).split(chr(10))[1:8]):
         for ln in textwrap.wrap(para, 44):
             d.text((MAP_W + 70, yy), ln, font=f_xs, fill=INK); yy += 44
         yy += 18
@@ -214,6 +216,25 @@ def render(ep_key: str | None) -> tuple[Path, str]:
     out = OUT / f"{ep_key or 'base'}.png"
     img.save(out)
     return out, describe(ep_key)
+
+
+def panel_lines(ep_key: str) -> list[str]:
+    """The short version for the picture's side panel. It must end by the middle of the frame, because captions
+    are shown in the panel's lower half on map shots. The full wording is in describe()."""
+    places = DATA["places"]
+    ep = DATA["episodes"][ep_key]
+    fp = places[ep["focus"]]
+    gold = fp["name"] + (f" and {places[ep['focus2']]['name']}" if ep.get("focus2") else "")
+    out = [f"In gold: {gold}.", f"Facing north from {fp['name']}, north at twelve o'clock:"]
+    seen = []
+    for k in ([ep["focus2"]] if ep.get("focus2") else []) + list(reversed(ep["visited"])):
+        if k in seen or k == ep["focus"]:
+            continue
+        seen.append(k)
+        p = places[k]
+        walk = walk_words(km(fp, p)).replace("about ", "").replace("' walk", "").replace("'s walk", "")
+        out.append(f"- {p['name']}: {walk}, {clock_word(fp, p)}")
+    return out
 
 
 def describe(ep_key: str | None) -> str:
