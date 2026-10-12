@@ -5,10 +5,11 @@ SLUG = "the_blind_in_the_crowd"
 NUMBER = 5
 TITLE = "The blind in the crowd"
 PASSAGES = [("Matthew", 15, 29, 31), ("Matthew", 15, 32, 38), ("2 Samuel", 5, 6, 8), ("Matthew", 21, 12, 16)]
-MAX_WORDS = 3400   # Brian, 12 October 2026: longer opening, the mountain explored, the map; the ending untouched
+MAX_WORDS = 3700   # Brian, 12 October 2026: longer opening, the mountain explored, the map; the ending untouched
 
 # Written in Brian's voice from what he has told Claude, for his approval. Not his until he says so.
-# 0-4 are the first drafts he read on 12 October. 5-7 are new, drawn from his notes after that reading.
+# 0-4 are the first drafts he read on 12 October. 5-7 are drawn from his notes after that reading, and
+# 8-9 from his second set of notes the same day (stamina, staying to watch, his song line, the companions' joy).
 DRAFT_BRIAN = [
     "Nobody on that mountain has a name. That is most of us. Most blind people in history did not get a verse of "
     "their own. They got carried up a hill by a brother or a daughter or a neighbor who decided that day was the "
@@ -45,6 +46,18 @@ DRAFT_BRIAN = [
     "know that needing an arm has pointed me toward Him more times than being able to manage on my own ever did. "
     "I do not say that is why any of us is blind. I only say it is what happened on that mountain, and it is what "
     "happens to me.",
+    "There is another thing sighted people may not think of. I have lost a lot of endurance and stamina since I "
+    "went blind, because I do not get to do the physical things I used to do. A long walk on flat ground is harder "
+    "for me than it was. An uneven, unpaved road is harder still. So walking up a mountain over rough ground would "
+    "have been very difficult for a blind person, and that is before you remember that nobody thought to bring "
+    "food. And yet if I had been given my sight up there, I sure would have hung around. I would not have missed a "
+    "moment of it. It would have been a sight to behold.",
+    "I wrote a song recently, and one of the lines goes, I will sing before I see. It is about trusting Jesus, and "
+    "the people on that mountain were doing just that. They were singing and praising without knowing where their "
+    "next meal was coming from, and He fed them afterward. And I think of the joy of the companions. The people who "
+    "help us carry our burdens too. They made that climb with somebody on their arm or on their back, and they "
+    "went hungry for three days alongside us. When their friend stood up healed, they must have felt great joy "
+    "too.",
 ]
 
 
@@ -159,7 +172,9 @@ def build(bible: dict) -> list[str]:
     add(f"[NARRATOR] (dryly) {BRIAN_VOICE_NOTE_SHORT}")
     add("[PAUSE 1.0]")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[5]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[8]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[6]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[9]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[0]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[1]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[7]}")

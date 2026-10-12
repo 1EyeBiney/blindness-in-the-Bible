@@ -72,6 +72,10 @@ Each paragraph below is in the scripts as a BRIAN line but was written by Claude
 
 8. I keep asking myself whether this is about needing help in order to get our attention on Jesus. Every one of those people had to be brought. Not one of them could have done it alone. I did not choose blindness, but I know that needing an arm has pointed me toward Him more times than being able to manage on my own ever did. I do not say that is why any of us is blind. I only say it is what happened on that mountain, and it is what happens to me.
 
+9. There is another thing sighted people may not think of. I have lost a lot of endurance and stamina since I went blind, because I do not get to do the physical things I used to do. A long walk on flat ground is harder for me than it was. An uneven, unpaved road is harder still. So walking up a mountain over rough ground would have been very difficult for a blind person, and that is before you remember that nobody thought to bring food. And yet if I had been given my sight up there, I sure would have hung around. I would not have missed a moment of it. It would have been a sight to behold.
+
+10. I wrote a song recently, and one of the lines goes, I will sing before I see. It is about trusting Jesus, and the people on that mountain were doing just that. They were singing and praising without knowing where their next meal was coming from, and He fed them afterward. And I think of the joy of the companions. The people who help us carry our burdens too. They made that climb with somebody on their arm or on their back, and they went hungry for three days alongside us. When their friend stood up healed, they must have felt great joy too.
+
 ## Episode 6: The answer to John
 
 1. John the Baptist doubted. The man who pointed at Jesus and said, behold the Lamb of God, sat in a dungeon and sent people to ask, are you the one, or should we wait for somebody else. I find that enormously comforting. Doubt in a dark place is not a failure of faith. It is what faith sounds like when it is being tested, and it is allowed to ask.

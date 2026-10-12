@@ -203,6 +203,14 @@ cut from that intro through the rendered lines and splice his own recordings in.
 
 *Placed:* narrator introduction before his first section in the pilot script; cast and plan updated.
 
+## 12 October 2026, on episode 5, The blind in the crowd (from chat, verbatim)
+
+**After his first read:** do we have any idea of how high this mountain was? I think this factors into the experience the blind people would have. "Up a Mmountain" sounds awful scary to most blind people not named Lonnie Bedwell, and I know I can tell when I get to places that are not usual. Up a mountain would feel very different, the cooler air, the way the wind might blow without anything to slow it down, the sounds would be different, and I would start to get nervous the higher we got. This is where we need to have a sense of "mountain" especially if He was feeding 4000 people up there. Did these people gateh for 3 days like a party? I think it might be joyous and happy and we counter the fear a blind person would feel with hearing the celebration up ahead. This for a blind person is trusting the  person guiding you along with trusting that at the top you wilwill be healed. Is there any specuation about faith getting these people to the top of the mountain to meet Jesus? Is this about receiving help to get our attention on Jesus? I do not want to take away from how the last part of the episode went as I think it is powerful and want to end with that.
+
+**Later the same day:** I've lost a lot of endurance and stamina as a blind person because I don't get to engage in the physical activities that I used to be able to do, so longer walks on flat areas are harder for me, especially waling on uneven, non-paved roads, so walking up a mountain, up rough terrain would be very difficult, plus nobody thought to bring food, and if I was given sight again, I sure would hang around up there and not miss a moment! It would be a sight to behold for sure. I wrote a song recentlly and one of the lines goes "I will sing before I see" and it is a reference to trusting Jesus and the people up on the mountain were doing jsut that, singing and praising while not knowing where their sustanance would come from,a nd He fed them after. (I think this is the feeding of the 4000). I also think of the joy of the companions for they too have to carry our burdens when they help us. They must have felt great joy too.
+
+*Placed:* five draft paragraphs in his voice in audio/episodes/ep05_the_blind_in_the_crowd.py (indices 5 to 9), awaiting his edit. What the shelf could and could not answer is in the episode's place section.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
