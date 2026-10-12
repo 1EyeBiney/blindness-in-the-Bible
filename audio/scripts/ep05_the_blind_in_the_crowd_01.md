@@ -118,8 +118,6 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Brian** *(calm)* Nobody on that mountain has a name. That is most of us. Most blind people in history did not get a verse of their own. They got carried up a hill by a brother or a daughter or a neighbor who decided that day was the day, and they were laid down at somebody's feet, and that was that. I think about the carriers as much as the carried. Every one of those people had someone who said, I will get you there.
 
-**Brian** *(calm)* Laid at His feet. I have been laid at people's feet, in a manner of speaking. Sat down in a chair at a party and left there, because the person who brought me had to go do something and I did not know the room. It is not a bad feeling if you trust the person. The crowd on the mountain trusted Him enough to set their people down and step back.
-
 **Brian** *(calm)* I keep asking myself whether this is about needing help in order to get our attention on Jesus. Every one of those people had to be brought. Not one of them could have done it alone. I did not choose blindness, but I know that needing an arm has pointed me toward Him more times than being able to manage on my own ever did. I do not say that is why any of us is blind. I only say it is what happened on that mountain, and it is what happens to me.
 
 ---
@@ -174,7 +172,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Brian** *(calm)* Here is what I take from these two crowds. The mountain was Gentile country, and the people glorified the God of Israel. The Temple was the holiest place in the Jewish world, and the people who had been shut out came in. Blind people were in the middle of both. We were never the edge of what Jesus was doing. We were the evidence.
+**Brian** *(calm)* Here is what I take from these two crowds. The mountain was Gentile country, and the people glorified the God of Israel. The Temple was the holiest place in the Jewish world, and the people who had been shut out came in. Blind people were in the middle of both. We were never just simply the edge of what Jesus was doing. We ... were the evidence.
 
 ---
 
