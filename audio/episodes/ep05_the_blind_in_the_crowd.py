@@ -7,18 +7,15 @@ TITLE = "The blind in the crowd"
 PASSAGES = [("Matthew", 15, 29, 31), ("Matthew", 15, 32, 38), ("2 Samuel", 5, 6, 8), ("Matthew", 21, 12, 16)]
 MAX_WORDS = 3700   # Brian, 12 October 2026: longer opening, the mountain explored, the map; the ending untouched
 
-# Written in Brian's voice from what he has told Claude, for his approval. Not his until he says so.
-# 0-4 are the first drafts he read on 12 October. 5-7 are drawn from his notes after that reading, and
-# 8-9 from his second set of notes the same day (stamina, staying to watch, his song line, the companions' joy).
+# Written in Brian's voice from his notes of 12 October 2026. He read and edited the whole script that day:
+# he struck the "Laid at His feet" paragraph and reworded the closing line (the ellipsis is his, on purpose).
+DRAFT_BRIAN_COUNT = 9
+APPROVED = set(range(DRAFT_BRIAN_COUNT))
 DRAFT_BRIAN = [
     "Nobody on that mountain has a name. That is most of us. Most blind people in history did not get a verse of "
     "their own. They got carried up a hill by a brother or a daughter or a neighbor who decided that day was the "
     "day, and they were laid down at somebody's feet, and that was that. I think about the carriers as much as the "
     "carried. Every one of those people had someone who said, I will get you there.",
-    "Laid at His feet. I have been laid at people's feet, in a manner of speaking. Sat down in a chair at a party "
-    "and left there, because the person who brought me had to go do something and I did not know the room. It is "
-    "not a bad feeling if you trust the person. The crowd on the mountain trusted Him enough to set their people "
-    "down and step back.",
     "The blind and the lame will never enter the palace. For a thousand years that saying hung around Jerusalem, "
     "and whether or not it was ever an actual rule at the Temple, people repeated it. Then Jesus clears the "
     "market out of the Temple courts, and the first people through the gap are the blind and the lame. I do not "
@@ -29,8 +26,8 @@ DRAFT_BRIAN = [
     "annoyed. That has not changed much in two thousand years.",
     "Here is what I take from these two crowds. The mountain was Gentile country, and the people glorified the "
     "God of Israel. The Temple was the holiest place in the Jewish world, and the people who had been shut out came "
-    "in. Blind people were in the middle of both. We were never the edge of what Jesus was doing. We were the "
-    "evidence.",
+    "in. Blind people were in the middle of both. We were never just simply the edge of what Jesus was doing. "
+    "We ... were the evidence.",
     "Up a mountain. That sounds awfully scary to most blind people not named Lonnie Bedwell, who is a blind Navy "
     "veteran and climbs the kind of mountains the rest of us read about. I can tell when I have come to a place "
     "that is not usual. Up high it would feel very different. The air is cooler. The wind blows with nothing to "
@@ -55,7 +52,7 @@ DRAFT_BRIAN = [
     "I wrote a song recently, and one of the lines goes, I will sing before I see. It is about trusting Jesus, and "
     "the people on that mountain were doing just that. They were singing and praising without knowing where their "
     "next meal was coming from, and He fed them afterward. And I think of the joy of the companions. The people who "
-    "help us carry our burdens too. They made that climb with somebody on their arm or on their back, and they "
+    "help us are carrying our burdens too. They made that climb with somebody on their arm or on their back, and they "
     "went hungry for three days alongside us. When their friend stood up healed, they must have felt great joy "
     "too.",
 ]
@@ -171,13 +168,12 @@ def build(bible: dict) -> list[str]:
     # ---- Brian ----------------------------------------------------------------------------------
     add(f"[NARRATOR] (dryly) {BRIAN_VOICE_NOTE_SHORT}")
     add("[PAUSE 1.0]")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[4]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[7]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[5]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[8]}")
-    add(f"[BRIAN] (calm) {DRAFT_BRIAN[6]}")
-    add(f"[BRIAN] (calm) {DRAFT_BRIAN[9]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[0]}")
-    add(f"[BRIAN] (calm) {DRAFT_BRIAN[1]}")
-    add(f"[BRIAN] (calm) {DRAFT_BRIAN[7]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[6]}")
     add("[BREAK]")
 
     # ---- The second crowd: the Temple. From here to the end the episode is as Brian first read it, ----
@@ -222,8 +218,8 @@ def build(bible: dict) -> list[str]:
         "that they were present. It was that they were the point.")
     add("[BREAK]")
 
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[1]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[2]}")
-    add(f"[BRIAN] (calm) {DRAFT_BRIAN[3]}")
     add("[BREAK]")
 
     add("[NARRATOR] (calm) Set the two crowds side by side. On the mountain, in Gentile country, people laid their "
@@ -233,7 +229,7 @@ def build(bible: dict) -> list[str]:
         "healing them in front of everyone. Matthew wants us to see that it happened everywhere He went, and that "
         "the only people who minded were the ones who had been keeping the gate.")
     add("[BREAK]")
-    add(f"[BRIAN] (calm) {DRAFT_BRIAN[4]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[3]}")
     add("[BREAK]")
     add(f"[NARRATOR] (calm) {CLOSE}")
     add("[NARRATOR] (after a long pause) For we walk by faith, not by sight.")
