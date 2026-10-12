@@ -2,9 +2,19 @@
 
 Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
-**Narrator** *(calm)* Somebody is being carried up a mountain.
+**Narrator** *(calm)* Somebody is being led up a mountain.
 
-**Narrator** *(beat)* Not one somebody. Dozens. The lame on stretchers, the crippled on backs, the mute led by the hand, and the blind, who can walk perfectly well, holding an arm because the path is rock and they have never been here. At the top a man is sitting down, waiting for them.
+*(pause 1.0 s)*
+
+**Narrator** *(beat)* Start at the bottom with them, at the edge of the lake, where the air is hot and close and smells of water and reeds. Then the path turns uphill and everything a blind person steers by begins to change. The ground goes from sand to stone. The lake, which was beside you, is now below you, and its sound thins out and drops away. There are no walls up here, no doorways, nothing for a voice to bounce off, so the world goes wide and far and hard to read.
+
+**Narrator** *(calm)* Then the air. It cools as you climb, and it starts to move. Down at the shore the wind came in pieces, round a house, through a lane. Up here it comes all at once across open ground with nothing to slow it. Anyone who cannot see knows what that means without being told. It means height. It means there is an edge somewhere, and no way of knowing where.
+
+*(pause 1.0 s)*
+
+**Narrator** *(beat)* And then, from higher up, another sound comes down the hill. Not one voice. Hundreds. Shouting, and laughing, and somebody crying the way people cry when they cannot believe what has just happened to them. It has been going on for three days.
+
+**Narrator** *(calm)* That sound is the reason for the climb. Dozens are making it: the lame on stretchers, the crippled on backs, the mute led by the hand, and the blind, who can walk perfectly well, holding on to an arm because the path is rock and they have never been here. At the top a man is sitting down, waiting for them.
 
 **Narrator** *(calm)* Nobody in this crowd gets a name. This episode is about them, and about another crowd like them, in the Temple, a few days before the end.
 
@@ -14,7 +24,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* First, where we are. Matthew chapter fifteen. Jesus has been away in the far north, in the region of Tyre and Sidon, where He healed a Gentile woman's daughter. Now He comes back toward the Sea of Galilee, goes up a mountain, and sits down. Henry says He sat there like a host waiting to welcome guests, waiting to be gracious. In the Gospels, when Jesus sits down on a mountain, something is about to happen.
+**Narrator** *(calm)* First, where we are. Matthew chapter fifteen. Jesus has been away in the far north, in the region of Tyre and Sidon, where He healed a Gentile woman's daughter. Now He comes back toward the Sea of Galilee, goes up a mountain, and sits down. Matthew Henry says He sat on a mountain so that all might see Him and have free access to Him, and he calls Him an open Saviour. He sat there, Henry says, like a host waiting to welcome guests, waiting to be gracious.
 
 **Narrator** *(calm)* Matthew chapter 15, verses 29 to 31.
 
@@ -24,11 +34,35 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* The crowd was amazed when they saw the mute speaking, the crippled restored, the lame walking, and the blind seeing. And they glorified the God of Israel.
 
-**Narrator** *(calm)* Three verses, and in them the lame, the blind, the crippled, the mute and many others. Then, straight after, the feeding of the four thousand, because these people had been with Him three days and had nothing to eat.
+**Narrator** *(calm)* Three verses, and in them the lame, the blind, the crippled, the mute and many others. Then Matthew tells us how long they had been up there, and what happened next.
 
-**Narrator** *(calm)* The place. Edersheim puts this scene on the eastern side of the lake, in the Decapolis, the ten Greek cities, among people who were not strictly Jewish. That fits the last line, which says they glorified the God of Israel, the way outsiders speak of someone else's God. Other commentators put it on the western shore. Matthew says only the Sea of Galilee and a mountain. Either way it was steep, rocky ground above the water, and these people climbed it carrying each other.
+**Narrator** *(calm)* Matthew chapter 15, verses 32 to 38.
 
-**Narrator** *(calm)* Matthew Henry noticed two things. The people brought their sick relations and friends along with them and cast them down at Jesus's feet, and, he says, we read not of any thing they said to him. Their condition spoke for them. Every blind person on that hillside had been led up it by someone.
+> **Reader** *(plainly)* Then Jesus called His disciples to Him and said, “I have compassion for this crowd, because they have already been with Me three days and have nothing to eat. I do not want to send them away hungry, or they may faint along the way.”
+
+> **Reader** *(plainly)* The disciples replied, “Where in this desolate place could we find enough bread to feed such a large crowd?”
+
+> **Reader** *(plainly)* “How many loaves do you have?” Jesus asked. “Seven,” they replied, “and a few small fish.”
+
+> **Reader** *(plainly)* And He instructed the crowd to sit down on the ground.
+
+> **Reader** *(plainly)* Taking the seven loaves and the fish, He gave thanks and broke them. Then He gave them to the disciples, and the disciples gave them to the people.
+
+> **Reader** *(plainly)* They all ate and were satisfied, and the disciples picked up seven basketfuls of broken pieces that were left over.
+
+> **Reader** *(plainly)* A total of four thousand men were fed, besides women and children.
+
+---
+
+**Narrator** *(calm)* The place. Edersheim puts this scene on the eastern side of the lake, in the Decapolis, the ten Greek cities, among people who were not strictly Jewish. That fits the last line of the healing, which says they glorified the God of Israel, the way outsiders speak of someone else's God. Other commentators put it on the western shore. Matthew says only the Sea of Galilee and a mountain.
+
+**Narrator** *(calm)* How high was it? Nobody knows. Matthew does not name the mountain and no one has identified it. What the old dictionaries can tell us is what any climb from that shore was like. The surface of the lake lies nearly seven hundred feet below the level of the sea. Smith's dictionary says it is surrounded by a high and almost unbroken wall of hills, and that the deep hollow makes the climate of the shore almost tropical, with intense heat in summer. So whichever hill this was, going up it meant climbing out of the heat into cooler, moving air, with the lake falling away below. And Matthew adds one detail himself. The disciples call it a desolate place. There was no village at the top, and no bread to be had.
+
+**Narrator** *(calm)* Three days. What were those days like? Not a feast, at least not until the end. Henry says the people went without their natural rest and lay like soldiers in the field, and that they had scarcely enough food to keep life and soul together. Edersheim says whatever they had brought with them must have run out. But it was not a grim camp either. Matthew says the crowd was amazed, and that they glorified God. Every time a lame man stood up, or a mute woman spoke, or a blind man looked around him, several thousand people saw it happen. Hungry, sleeping on the ground, and loud with wonder: that is the mountain. Then, at the end of it, He fed them all.
+
+**Narrator** *(calm)* Was it faith that got them up there? Notice what the text leaves out. In our last episode Jesus asked two blind men, do you believe I am able to do this? On the mountain He asks no one anything. Henry noticed it. The people brought their sick relations and friends along with them and laid them down at His feet, and, he says, we read not of any thing they said to Him. Their condition spoke for them. No commentator on our shelf says in so many words that faith carried them up the hill. But the climb is the only statement these people make, and they made it carrying each other. Every blind person on that hillside had been led up it by someone.
+
+**Narrator** *(calm)* Where this is. Take Edersheim's placing, on the hills east of the lake. Stand there and face north, with north at twelve o'clock. Capernaum and Bethsaida, from our last two episodes, are about five hours' walk at eleven o'clock, round the top of the lake. Behind you, down the Jordan valley, Jericho is about three days' walk at six o'clock, and Jerusalem about three and a half days at seven o'clock. Hold on to Jerusalem. The second half of this episode happens there.
 
 ---
 
@@ -38,21 +72,31 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Friend** *(calm)* Rock here, big one, step up. Good. Now it levels off for a while.
 
-**Man** *(calm)* How many are up there? It sounds like a market.
+**Man** *(whisper)* The air has changed. It is cooler, and the wind is coming from everywhere at once. I cannot hear the lake beside me any more. I can hear it under me.
 
-**Friend** *(calm)* Hundreds. More coming up behind us. There are men carrying a boy on a door. A woman with a child who does not talk. Everybody.
+**Man** *(calm)* How high are we? Tell me the truth.
+
+**Friend** *(calm)* High enough that I am not looking down either. Keep hold of me. The path is wide.
+
+**Man** *(curious)* Wait. Listen. What is that, up ahead?
+
+**Friend** *(excited)* That is them. That is the crowd. Somebody up there has just started shouting, and now the rest of them have joined in.
+
+**Man** *(calm)* They sound glad. How many are up there? It sounds like a market on a feast day.
+
+**Friend** *(calm)* Thousands. More coming up behind us. There are men carrying a boy on a door. A woman with a child who does not talk. Everybody.
 
 **Man** *(curious)* And him?
 
 **Friend** *(calm)* Sitting on a rock at the top, like he has all day. People go up to him one at a time and then they, I do not know how to say it. They stand up different.
 
-**Man** *(whisper)* Wind up here. Thyme crushed under everyone's feet. The lake below, I can hear it even over the crowd. We have been walking since before dawn and my friend has not let go of my arm once.
+**Man** *(whisper)* Thyme crushed under everyone's feet. Smoke from somebody's fire. We have been walking since before dawn and my friend has not let go of my arm once. I was nervous at the bottom. I am not now.
 
 **Friend** *(calm)* Nearly there. I am going to sit you down right in front of him. Then I will step back.
 
 **Man** *(calm)* Do not go far.
 
-**Friend** *(calm)* I am not going anywhere. I did not carry you up a mountain to lose you at the top.
+**Friend** *(calm)* I am not going anywhere. I did not walk you up a mountain to lose you at the top.
 
 *(pause 2.0 s)*
 
@@ -64,9 +108,15 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 1.0 s)*
 
+**Brian** *(calm)* Up a mountain. That sounds awfully scary to most blind people not named Lonnie Bedwell, who is a blind Navy veteran and climbs the kind of mountains the rest of us read about. I can tell when I have come to a place that is not usual. Up high it would feel very different. The air is cooler. The wind blows with nothing to slow it down. The sounds change, because there is nothing around you for them to bounce off. And I would get more nervous the higher we went, because I would know there was an edge somewhere and not know where.
+
+**Brian** *(calm)* So think about what it took. A blind person going up that mountain is trusting two things at once. He is trusting the person on his arm, every single step. And he is trusting that at the top there is someone worth the climb. I think what would have carried me up is the sound. If people were being healed up there for three days, it was not quiet. I would have heard shouting and laughing and crying coming down the hill toward me, and that would have done more for my nerves than anything my guide could say.
+
 **Brian** *(calm)* Nobody on that mountain has a name. That is most of us. Most blind people in history did not get a verse of their own. They got carried up a hill by a brother or a daughter or a neighbor who decided that day was the day, and they were laid down at somebody's feet, and that was that. I think about the carriers as much as the carried. Every one of those people had someone who said, I will get you there.
 
 **Brian** *(calm)* Laid at His feet. I have been laid at people's feet, in a manner of speaking. Sat down in a chair at a party and left there, because the person who brought me had to go do something and I did not know the room. It is not a bad feeling if you trust the person. The crowd on the mountain trusted Him enough to set their people down and step back.
+
+**Brian** *(calm)* I keep asking myself whether this is about needing help in order to get our attention on Jesus. Every one of those people had to be brought. Not one of them could have done it alone. I did not choose blindness, but I know that needing an arm has pointed me toward Him more times than being able to manage on my own ever did. I do not say that is why any of us is blind. I only say it is what happened on that mountain, and it is what happens to me.
 
 ---
 
@@ -95,6 +145,10 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 > **Reader** *(plainly)* But the chief priests and scribes were indignant when they saw the wonders He performed and the children shouting in the temple courts, “Hosanna to the Son of David!”
 
 > **Reader** *(plainly)* “Do You hear what these children are saying?” they asked. “Yes,” Jesus answered. “Have you never read: ‘From the mouths of children and infants You have ordained praise’?”
+
+**Narrator** *(calm)* Where this is. We are back in the city where this series began, three and a half days' walk south of that mountain. The Temple Mount stands on the east side of Jerusalem. The Pool of Siloam, where the man born blind washed in our first episode, is a short walk downhill from it, at the south end of the city. And the road Bartimaeus's crowd climbed in our second episode comes in from Jericho, about six hours' walk away at two o'clock.
+
+**Narrator** *(calm)* And notice when this is. Bartimaeus was healed on that road, on the way up to this Passover. Now, within a day or so of Jesus riding into the city, the blind come to Him in the Temple and He heals them. Two healings of blind people in His last week, with the cross a few days off. In Matthew's Gospel this one in the Temple is the last healing of all.
 
 **Narrator** *(calm)* The place. The outer court of Herod's Temple, the Court of the Gentiles, worked as a market. Edersheim describes the official money changers who, for a fee, turned foreign coins into the Temple's own coin, and what he calls that great mart for sacrificial animals. Herod had doubled the size of the Temple Mount to about fourteen hectares, and the long porches around the edge were where the business was done. Into that noise of coins and cattle Jesus walks and turns the tables over.
 

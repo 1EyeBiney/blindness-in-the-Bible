@@ -66,6 +66,12 @@ Each paragraph below is in the scripts as a BRIAN line but was written by Claude
 
 5. Here is what I take from these two crowds. The mountain was Gentile country, and the people glorified the God of Israel. The Temple was the holiest place in the Jewish world, and the people who had been shut out came in. Blind people were in the middle of both. We were never the edge of what Jesus was doing. We were the evidence.
 
+6. Up a mountain. That sounds awfully scary to most blind people not named Lonnie Bedwell, who is a blind Navy veteran and climbs the kind of mountains the rest of us read about. I can tell when I have come to a place that is not usual. Up high it would feel very different. The air is cooler. The wind blows with nothing to slow it down. The sounds change, because there is nothing around you for them to bounce off. And I would get more nervous the higher we went, because I would know there was an edge somewhere and not know where.
+
+7. So think about what it took. A blind person going up that mountain is trusting two things at once. He is trusting the person on his arm, every single step. And he is trusting that at the top there is someone worth the climb. I think what would have carried me up is the sound. If people were being healed up there for three days, it was not quiet. I would have heard shouting and laughing and crying coming down the hill toward me, and that would have done more for my nerves than anything my guide could say.
+
+8. I keep asking myself whether this is about needing help in order to get our attention on Jesus. Every one of those people had to be brought. Not one of them could have done it alone. I did not choose blindness, but I know that needing an arm has pointed me toward Him more times than being able to manage on my own ever did. I do not say that is why any of us is blind. I only say it is what happened on that mountain, and it is what happens to me.
+
 ## Episode 6: The answer to John
 
 1. John the Baptist doubted. The man who pointed at Jesus and said, behold the Lamb of God, sat in a dungeon and sent people to ask, are you the one, or should we wait for somebody else. I find that enormously comforting. Doubt in a dark place is not a failure of faith. It is what faith sounds like when it is being tested, and it is allowed to ask.

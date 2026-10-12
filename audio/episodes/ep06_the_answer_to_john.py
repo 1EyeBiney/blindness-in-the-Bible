@@ -51,6 +51,13 @@ def build(bible: dict) -> list[str]:
         "prison. Josephus, the Jewish historian, names the prison: Machaerus, a fortress east of the Dead Sea, on "
         "the frontier. Edersheim describes it as a stronghold on sheer cliffs, built by one Jewish king and enlarged "
         "by Herod the Great, with a palace at the top and dungeons cut into the rock below. John would die there.")
+    add("[NARRATOR] (calm) Where this is. Machaerus stands on the far side of the Dead Sea from everything else in "
+        "this series, and it is the farthest south we go. Stand on its walls and face north, with north at twelve "
+        "o'clock. Jericho is at eleven o'clock and Jerusalem at ten, and although both are close as the bird flies, "
+        "the Dead Sea lies in between, so a messenger had to walk round its northern end: about two days to "
+        "Jerusalem by way of Jericho. Straight ahead at twelve o'clock, up the whole length of the Jordan, is "
+        "Galilee, where Jesus was. Nazareth, Capernaum and Bethsaida are all about four days' walk. That is how far "
+        "John's two friends had to go to ask one question, and how far they had to come back with the answer.")
     add("[NARRATOR] (calm) From that place he sends his question. Luke tells it with the most detail.")
     ext(reader(bible, "Luke", 7, 18, 23))
     add("[NARRATOR] (calm) Are You the One who was to come, or should we look for someone else? That is the whole "
