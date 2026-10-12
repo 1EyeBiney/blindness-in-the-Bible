@@ -394,6 +394,8 @@ STORIES = [
     {
         "slug": "the-temple", "title": "The blind and the lame in the temple", "who": "The blind and the lame in the temple",
         "group": "given", "outcome": "restored",
+        "listen": {"youtube": "lk5kVwj0D8k", "mp3": "not_by_sight_05_the_blind_in_the_crowd.mp3", "minutes": 22,
+               "title": "Not By Sight, Episode 5: The Blind in the Crowd"},
         "passages": [("Matthew", 21, 12, 16)],
         "around": "Jesus has entered Jerusalem to shouts of \"Hosanna.\" He goes into the temple courts and drives out "
                   "those buying and selling.",
@@ -407,6 +409,8 @@ STORIES = [
     {
         "slug": "crowds-by-the-sea", "title": "The crowds on the mountain", "who": "Crowds by the Sea of Galilee",
         "group": "given", "outcome": "restored",
+        "listen": {"youtube": "lk5kVwj0D8k", "mp3": "not_by_sight_05_the_blind_in_the_crowd.mp3", "minutes": 22,
+               "title": "Not By Sight, Episode 5: The Blind in the Crowd"},
         "passages": [("Matthew", 15, 29, 31)],
         "around": "Jesus has returned from the region of Tyre and Sidon to the Sea of Galilee. He goes up a mountain "
                   "and sits down. The feeding of the four thousand follows.",
