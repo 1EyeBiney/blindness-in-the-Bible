@@ -48,7 +48,7 @@ def test_blindfold_verses_are_set_aside():
 
 def test_site_builds_and_is_accessible(tmp_path):
     build_site.render_all(tmp_path)
-    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "accessibility.html", "catalog.html", "check-our-work.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html"]
+    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "accessibility.html", "catalog.html", "check-our-work.html", "episodes.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html"]
     pages = sorted(tmp_path.rglob("*.html"))
     for p in pages:
         h = p.read_text(encoding="utf-8")
@@ -398,3 +398,27 @@ def test_every_story_and_every_study_page_has_a_banner(tmp_path):
     assert len(names) == len(set(names))
     for b in images.thumbs():
         assert (ROOT / "media" / "images" / f"{b['name']}-{images.THUMB_WIDTH}.jpg").is_file(), b["name"]
+
+
+def test_episodes_page_lists_every_episode_once_with_audio_mp3_and_youtube(tmp_path):
+    """Every story with an episode appears under exactly one episode, and each episode has its audio, its MP3,
+    its YouTube link and links to its story pages. Numbers run 1, 2, 3 with none skipped."""
+    import episode_list as ep
+    import stories as st
+    build_site.render_all(tmp_path)
+    h = (tmp_path / "episodes.html").read_text(encoding="utf-8")
+    assert [n for n, *_ in ep.EPISODES] == list(range(1, len(ep.EPISODES) + 1))
+    covered = [slug for _, _, _, slugs, _ in ep.EPISODES for slug in slugs]
+    assert sorted(covered) == sorted(s["slug"] for s in st.STORIES if s.get("listen"))
+    by_slug = {s["slug"]: s for s in st.STORIES}
+    for number, title, _, slugs, about in ep.EPISODES:
+        listens = {(by_slug[x]["listen"]["youtube"], by_slug[x]["listen"]["mp3"]) for x in slugs}
+        assert len(listens) == 1, title                       # the pages of one episode share one player
+        yt, mp3 = listens.pop()
+        assert f"_{number:02d}_" in mp3 and f"Episode {number}:" in by_slug[slugs[0]]["listen"]["title"], title
+        assert f"<h2>Episode {number}: " in h and f"watch?v={yt}" in h, title
+        assert h.count(f'src="media/{mp3}"') == 1 and (tmp_path / "media" / mp3).is_file(), title
+        assert all(f'href="stories/{x}.html"' in h for x in slugs) and len(about) > 80, title
+    assert h.count("<audio controls") == len(ep.EPISODES) and "<iframe" not in h
+    story = (tmp_path / "stories" / "bartimaeus.html").read_text(encoding="utf-8")
+    assert 'href="../episodes.html">All the episodes</a>' in story

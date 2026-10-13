@@ -76,6 +76,7 @@ img { max-width: 100%; height: auto; }
 figure.pic { margin: 1.5rem 0; max-width: 44rem; }
 figure.pic.banner { max-width: none; margin-top: 1rem; }
 figure.pic.portrait { max-width: 22rem; }
+section.episode img { display: block; width: 100%; max-width: 26rem; border: 1px solid var(--rule); border-radius: .25rem; margin: .75rem 0; }
 ul.cards { list-style: none; padding: 0; }
 ul.cards li { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1rem; margin: 0 0 1rem; max-width: none; }
 ul.cards img { width: 11rem; flex: none; border: 1px solid var(--rule); border-radius: .25rem; display: block; }
@@ -131,7 +132,7 @@ def page(title: str, body: str, current: str, root: str = "", share: dict | None
     share = share or {"file": "share-card.jpg",
                       "alt": "A painting of two men on the shore of the Sea of Galilee, one lifting his hands toward "
                              "the water, with the words Not By Sight, studies on blindness in the Bible."}
-    nav = [("index.html", "Home"), ("what-blind-means.html", "What blind means"), ("stories/index.html", "The stories"), ("law/index.html", "The law"),
+    nav = [("index.html", "Home"), ("what-blind-means.html", "What blind means"), ("stories/index.html", "The stories"), ("episodes.html", "Episodes"), ("law/index.html", "The law"),
            ("life/index.html", "Living blind, then"), ("picture/index.html", "Blindness as a picture"),
            ("walk-by-faith.html", "Walk by faith"),
            ("catalog.html", "The catalog"), ("how-it-was-made.html", "How it was made"),
@@ -303,6 +304,34 @@ def figure_html(pic: dict, root: str) -> str:
             f'<figcaption>{e(pic["caption"])}</figcaption></figure>')
 
 
+def episodes_page() -> str:
+    """Every episode, newest last: what it is about, the audio, the MP3, YouTube, and the story pages it covers."""
+    import episode_list as ep
+    import images
+    import stories as st
+    by_slug = {x["slug"]: x for x in st.STORIES}
+    parts = [f"<h1>{e(ep.TITLE)}</h1>", f'<p class="lede">{e(ep.INTRO[0])}</p>'] + [f"<p>{e(x)}</p>" for x in ep.INTRO[1:]]
+    for number, title, passage, slugs, about in ep.EPISODES:
+        first = by_slug[slugs[0]]
+        listen = first["listen"]
+        mp3 = f"media/{e(listen['mp3'])}"
+        pic = images.STORY_PICTURES[slugs[0]][0]
+        pages_ = " and ".join(f'<a href="stories/{x}.html">{e(by_slug[x]["title"])}</a>' for x in slugs)
+        # the picture is decoration here: the heading and the paragraph beside it already say what the episode is
+        parts.append(
+            f'<section class="episode"><h2>Episode {number}: {e(title)}</h2>'
+            f'<img src="media/images/{e(pic["name"])}-800.jpg" alt="" width="800" height="{round(800 * 1536 / 2752)}" loading="lazy">'
+            f"<p>{e(about)}</p>"
+            f"<p>{e(passage)}. About {listen['minutes']} minutes.</p>"
+            f'<audio controls preload="none" src="{mp3}">Your browser cannot play this audio here. '
+            f'<a href="{mp3}">Download the MP3 of episode {number}</a>.</audio>'
+            f'<ul><li><a href="{mp3}">Download the MP3 of episode {number}</a></li>'
+            f'<li><a href="https://www.youtube.com/watch?v={e(listen["youtube"])}">Watch episode {number} on YouTube</a>, '
+            f"with pictures and captions</li>"
+            f"<li>Read the study: {pages_}</li></ul></section>")
+    return "\n".join(parts)
+
+
 def story_share(story: dict) -> dict | None:
     """A story with a banner is shared with that banner."""
     import images
@@ -328,7 +357,8 @@ def listen_html(listen: dict | None, root: str) -> str:
             f"title=\"{e(listen['title'])}, on YouTube\" loading=\"lazy\" allowfullscreen "
             f"referrerpolicy=\"strict-origin-when-cross-origin\"></iframe></div>"
             f"<p>Or watch it <a href=\"https://www.youtube.com/watch?v={yt}\">on YouTube</a>. The pictures in the video "
-            f"are described in its YouTube description, so nothing is said only in a picture.</p>")
+            f"are described in its YouTube description, so nothing is said only in a picture. "
+            f"<a href=\"{root}episodes.html\">All the episodes</a> are on one page.</p>")
 
 
 def story_page(story: dict, bible: dict, order: list[dict]) -> str:
@@ -592,6 +622,7 @@ def render_all(out: Path = OUT) -> None:
         return (images.PAGE_PICTURES.get(key) or [None])[0]
     (out / "index.html").write_text(page("Home", index_page(rows), "index.html", banner=banner("index")), encoding="utf-8")
     (out / "catalog.html").write_text(page("The catalog", catalog_page(rows), "catalog.html"), encoding="utf-8")
+    (out / "episodes.html").write_text(page("Episodes", episodes_page(), "episodes.html"), encoding="utf-8")
     about = ABOUT.replace("BRIAN_PORTRAIT", figure_html(images.PAGE_PICTURES["about"][0], ""))
     (out / "about.html").write_text(page("About", about, "about.html"), encoding="utf-8")
     import stories as st
