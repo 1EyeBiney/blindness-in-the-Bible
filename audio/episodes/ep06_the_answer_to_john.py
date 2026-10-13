@@ -13,13 +13,13 @@ MAX_WORDS = 3300   # Brian, 13 October 2026: longer opening, and three more para
 
 DRAFT_BRIAN = [
     "John the Baptist doubted. The man who pointed at Jesus and said, behold the Lamb of God, sat in a dungeon and "
-    "sent people to ask, are you the one, or should we wait for somebody else. I find that enormously comforting. "
-    "I think it means that having doubt while in a dark place is not a failure of faith. It is what faith sounds "
-    "like when it is being tested, and it is allowed to ask.",
+    "sent people to ask, are you the one, or should we wait for somebody else. For some reason, I find that enormously comforting. "
+    "I think it means that having doubt while in a dark place is not a failure of faith. I think it is what faith "
+    "sounds like when it is being tested, and it is allowed to ask.",
     "Jesus did not answer with a sermon, or an argument, or a proclamation. He answered with people. Luke says "
     "that at that very hour He healed many, and gave sight to many who were blind, and then told John's messengers, "
     "go tell him what you have seen. When the question was, who are you, the answer began with blind people "
-    "seeing. I have read that verse a hundred times and it still stops me.",
+    "seeing. I have heard that verse so many times and it still stops me.",
     "I have to be honest about the other side of it. I am a blind believer, and my eyes have not been opened. "
     "The healings in these episodes were signs, and signs point to something. They pointed John to who Jesus was. "
     "They point me there too, without my sight coming back. I would be lying if I said I never asked for it. I "
@@ -29,7 +29,7 @@ DRAFT_BRIAN = [
     "happen when God came. The healings were the proof of who He is. That proof still stands, whether or not my "
     "own eyes are ever opened on this side of heaven. I do not need my sight back to know who He is. I know who He "
     "is.",
-    "Blessed is the one who does not fall away on account of me. That is the last line of the answer, and I think "
+    "Blessed is the one who does not fall away on account of Me. That is the last line of the answer, and I think "
     "it was aimed at John, in prison, who was not going to be healed or rescued and knew it. Jesus was telling "
     "him: do not let what I am not doing for you make you doubt what I am. Every blind believer who has prayed for "
     "sight and gotten up the next morning still blind has heard that line.",
@@ -91,7 +91,7 @@ def build(bible: dict) -> list[str]:
         "by Herod the Great, with a palace at the top and dungeons cut into the rock below. John the Baptist would die there.")
     add("[NARRATOR] (calm) Where this is. Machaerus stands on the far side of the Dead Sea from everything else in "
         "this series, and it is the farthest south we go. Stand on its walls and face north, with north at twelve "
-        "o'clock. Jericho is at eleven o'clock and Jerusalem at ten, and although both are close as the bird flies, "
+        "o'clock. Jericho is at eleven o'clock and Jerusalem at ten, and although both are close as the crow flies, "
         "the Dead Sea lies in between, so a messenger had to walk round its northern end: about two days to "
         "Jerusalem by way of Jericho. Straight ahead at twelve o'clock, up the whole length of the Jordan, is "
         "Galilee, where Jesus was. Nazareth, Capernaum and Bethsaida are all about four days' walk. That is how far "
@@ -139,7 +139,7 @@ def build(bible: dict) -> list[str]:
     add("[DISCIPLE] (calm) Teacher. We are back. Yes, it is us, both of us. Sit, please, you should sit.")
     add("[JOHN] (calm) Well? Did you ask him? What did he say?")
     add("[DISCIPLE] (calm) We asked him exactly as you said. Are you the one who was to come, or do we wait for "
-        "another.")
+        "another?")
     add("[JOHN] (curious) And his answer?")
     add("[DISCIPLE] (calm) At first, nothing. He went on with what he was doing. There was a crowd, as there "
         "always is, and people were being brought to him. We stood there an hour. A man who had been carried in "

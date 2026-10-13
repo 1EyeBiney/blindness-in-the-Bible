@@ -30,7 +30,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* First, where we are. John the Baptist baptised Jesus in the Jordan and pointed Him out to his own followers. Then John rebuked Herod Antipas for taking his brother's wife, and Herod put him in prison. Josephus, the Jewish historian, names the prison: Machaerus, a fortress east of the Dead Sea, on the frontier. Edersheim describes it as a stronghold on sheer cliffs, built by one Jewish king and enlarged by Herod the Great, with a palace at the top and dungeons cut into the rock below. John the Baptist would die there.
 
-**Narrator** *(calm)* Where this is. Machaerus stands on the far side of the Dead Sea from everything else in this series, and it is the farthest south we go. Stand on its walls and face north, with north at twelve o'clock. Jericho is at eleven o'clock and Jerusalem at ten, and although both are close as the bird flies, the Dead Sea lies in between, so a messenger had to walk round its northern end: about two days to Jerusalem by way of Jericho. Straight ahead at twelve o'clock, up the whole length of the Jordan, is Galilee, where Jesus was. Nazareth, Capernaum and Bethsaida are all about four days' walk. That is how far John's two friends had to go to ask one question, and how far they had to come back with the answer.
+**Narrator** *(calm)* Where this is. Machaerus stands on the far side of the Dead Sea from everything else in this series, and it is the farthest south we go. Stand on its walls and face north, with north at twelve o'clock. Jericho is at eleven o'clock and Jerusalem at ten, and although both are close as the crow flies, the Dead Sea lies in between, so a messenger had to walk round its northern end: about two days to Jerusalem by way of Jericho. Straight ahead at twelve o'clock, up the whole length of the Jordan, is Galilee, where Jesus was. Nazareth, Capernaum and Bethsaida are all about four days' walk. That is how far John's two friends had to go to ask one question, and how far they had to come back with the answer.
 
 **Narrator** *(calm)* From that place he sends his question. Luke tells it with the most detail.
 
@@ -96,7 +96,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **John** *(calm)* Well? Did you ask him? What did he say?
 
-**Disciple** *(calm)* We asked him exactly as you said. Are you the one who was to come, or do we wait for another.
+**Disciple** *(calm)* We asked him exactly as you said. Are you the one who was to come, or do we wait for another?
 
 **John** *(curious)* And his answer?
 
@@ -162,7 +162,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Brian** *(calm)* I have to be honest about the other side of it. I am a blind believer, and my eyes have not been opened. The healings in these episodes were signs, and signs point to something. They pointed John to who Jesus was. They point me there too, without my sight coming back. I would be lying if I said I never asked for it. I would also be lying if I said that is what this verse is about. This verse is not a promise that every blind person who believes will be healed in this life. It is Jesus answering a question about Himself. John asked, are You the One. And Jesus said, look at what is happening around Me, and remember what Isaiah said would happen when God came. The healings were the proof of who He is. That proof still stands, whether or not my own eyes are ever opened on this side of heaven. I do not need my sight back to know who He is. I know who He is.
 
-**Brian** *(calm)* Blessed is the one who does not fall away on account of me. That is the last line of the answer, and I think it was aimed at John, in prison, who was not going to be healed or rescued and knew it. Jesus was telling him: do not let what I am not doing for you make you doubt what I am. Every blind believer who has prayed for sight and gotten up the next morning still blind has heard that line.
+**Brian** *(calm)* Blessed is the one who does not fall away on account of Me. That is the last line of the answer, and I think it was aimed at John, in prison, who was not going to be healed or rescued and knew it. Jesus was telling him: do not let what I am not doing for you make you doubt what I am. Every blind believer who has prayed for sight and gotten up the next morning still blind has heard that line.
 
 ---
 
