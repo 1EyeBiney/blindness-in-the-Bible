@@ -1,91 +1,157 @@
 {
-  "_comment": "Site pictures, second group of 19: a banner for each page under the law, living blind, and blindness as a picture, plus the picture section's front and the walk by faith page. Three remakes from the first group come first in the same Gemini chat (R1 to R3), so the chat holds 22 images in this order. The prompt follows the standing prompt in docs/IMAGE_STYLE.md.",
-  "folder": "site_batch2",
-  "style": "Generate a 16:9 image. Painterly oil-sketch look, visible brushwork, warm natural light, the land and buildings of ancient Israel and its neighbours. No faces shown close up: people are seen from behind or at a distance. No text or lettering anywhere in the image. No modern objects. Calm and hopeful in mood, never frightening or graphic.",
-  "remakes": [
-    {"replaces": "site_batch1 07_men_of_sodom (never downloaded)", "name": "R1_men_of_sodom",
-     "prompt": "A narrow street in a walled town at night under a starry sky. A group of men feel their way along a house wall with outstretched hands, facing different directions, while a few steps away a closed wooden door goes unnoticed, warm lamplight showing beneath it. Seen from a distance and from behind. Quiet, not violent."},
-    {"replaces": "site_batch1 02_jacob (arms were not crossed)", "name": "R2_jacob",
-     "prompt": "In a simple room in ancient Egypt, a very old man sits on the edge of a bed. His forearms are clearly crossed over each other in an X, so that his right hand rests on the head of the boy on his left and his left hand on the head of the boy on his right. The two boys kneel in front of him and their father stands beside them. Seen from behind the boys, so the crossed arms are plain to see."},
-    {"replaces": "site_batch1 04_ahijah (hooded figure looked sinister)", "name": "R3_ahijah",
-     "prompt": "Inside a plain stone house, an old prophet sits on a stool facing the open doorway, seen from behind. In the sunny doorway a woman in a plain brown cloak with a light shawl over her hair is just stepping in, carrying a basket of bread and a small jar. She is seen at a distance, in soft daylight, gentle and ordinary, not sinister."}
-  ],
-  "pictures": [
-    {"page": "law/stumbling-block", "name": "01_stumbling_block",
-     "prompt": "A footpath along the edge of a barley field at harvest, with gleaners gathering behind the reapers. A man with a staff walks the path, and ahead of him a farmer drags a fallen branch off the path to clear his way. Both seen from behind.",
-     "alt": "A footpath along the edge of a barley field at harvest. A man with a staff walks the path, and ahead of him a farmer drags a fallen branch out of his way. Gleaners work in the field behind.",
-     "caption": "The law that guards the blind sits among laws about gleanings, wages and honest courts."},
-    {"page": "law/servant-blinded", "name": "02_servant_blinded",
-     "prompt": "Early morning at the gate of a household compound of mud brick. A servant walks out through the open gate into open country with a small bundle over his shoulder, seen from behind, a wide road and hills ahead of him. The master stands back in the gateway, small and in shadow.",
-     "alt": "Early morning at the gate of a household compound. A servant walks out into open country with a small bundle over his shoulder, seen from behind, while the master stands back in the gateway.",
-     "caption": "He must let the servant go free as compensation for the eye. Exodus 21:26."},
-    {"page": "law/priest", "name": "03_priest",
-     "prompt": "In the court of the tent sanctuary, a group of priests in white linen sit together on the ground sharing bread from a common dish. One of them has a wooden staff lying beside him. In the background smoke rises from the altar, where other priests serve. Seen from behind and at a distance.",
-     "alt": "In the court of the tent sanctuary, priests in white linen sit together sharing bread from a common dish, one with a staff lying beside him. In the background smoke rises from the altar.",
-     "caption": "He may eat the most holy food of his God as well as the holy food. Leviticus 21:22."},
-    {"page": "law/blind-animals", "name": "04_blind_animals",
-     "prompt": "At the entrance to the court of the tent sanctuary, a shepherd, seen from behind, holds a young lamb while a priest in white linen bends to look it over carefully. A small flock waits behind them on the dry ground. Morning light.",
-     "alt": "At the entrance to the sanctuary court, a shepherd, seen from behind, holds a young lamb while a priest in white linen bends to look it over. A small flock waits behind them.",
-     "caption": "The rule was about what a worshipper gave, not about what a blind creature was worth."},
-    {"page": "life/camp", "name": "05_camp",
-     "prompt": "A herding camp of black goat-hair tents at evening in dry grassland. Flocks of sheep and goats are being driven in, cooking fires are lit, and an old man sits at the door of the largest tent with family and servants around him. Seen from a distance.",
-     "alt": "A herding camp of black goat-hair tents at evening. Flocks are being driven in, cooking fires are lit, and an old man sits at the door of the largest tent with family and servants around him.",
-     "caption": "In a herding camp, the people around a blind man were his own family and servants."},
-    {"page": "life/village", "name": "06_village",
-     "prompt": "A hill-country village of stone houses among terraced fields, with a tent sanctuary on the crest of the hill. Beside the road at the edge of the village an old man sits on a wooden seat facing down the road, seen from behind, as if waiting for news.",
-     "alt": "A hill-country village of stone houses among terraced fields, a tent sanctuary on the crest. Beside the road at its edge an old man sits on a wooden seat facing down the road, seen from behind.",
-     "caption": "Eli, sitting on his chair beside the road. From 1 Samuel 4:13."},
-    {"page": "life/town-gate", "name": "07_town_gate",
-     "prompt": "The outside of the gate of a walled town on a busy morning: traders with laden donkeys, baskets of produce, travellers coming and going. Against the wall beside the gate a man sits on the ground with a bowl in front of him, seen from behind. Elders sit on benches in the shade of the gate.",
-     "alt": "Outside the gate of a walled town on a busy morning, with traders, donkeys and travellers. Against the wall beside the gate a man sits on the ground with a bowl before him, seen from behind.",
-     "caption": "The gate was the town's public square: the place of trade, news, judgment and begging."},
-    {"page": "life/jerusalem", "name": "08_jerusalem",
-     "prompt": "A steep stepped street in first-century Jerusalem crowded with pilgrims, with the white and gold Temple high above the rooftops in morning light. At the side of the street a man sits on a step with a bowl, and a passer-by, seen from behind, stoops to put something in it.",
-     "alt": "A steep stepped street in Jerusalem crowded with pilgrims, the white and gold Temple high above the rooftops. At the side a man sits on a step with a bowl, and a passer-by stoops to put something in it.",
-     "caption": "Isn't this the man who used to sit and beg? John 9:8."},
-    {"page": "life/canes-and-guides", "name": "09_canes_and_guides",
-     "prompt": "A country road between low stone walls and olive trees. In front, an old man walks alone with a long wooden staff held a little ahead of him. Further along the road a child leads a grown man by the hand. All seen from behind.",
-     "alt": "A country road between stone walls and olive trees. An old man walks alone with a long wooden staff held a little ahead of him, and further along a child leads a grown man by the hand. All seen from behind.",
-     "caption": "A staff in the hand, or a hand to hold: the two ways the text shows a blind person moving."},
-    {"page": "life/through-history", "name": "10_through_history",
-     "prompt": "This one scene is set in Europe in the 1830s, not in ancient Israel. A plain room with a tall window. A man in a dark coat sits at a wooden table, seen from behind, reading a large book of raised letters with his fingertips. Shelves of thick books stand behind him. Same painterly oil-sketch style.",
-     "alt": "A plain room in the 1830s with a tall window. A man in a dark coat sits at a wooden table, seen from behind, reading a large book of raised letters with his fingertips.",
-     "caption": "Much of what we know of blind people's history was first gathered in the 1800s, some of it by blind authors."},
-    {"page": "picture/blind-guides", "name": "11_blind_guides",
-     "prompt": "A hillside path in late afternoon. A teacher in a fine fringed robe strides confidently at the head of a line of followers, looking back over his shoulder at them, not noticing that the path just ahead of him ends at a wide ditch. Seen from behind the followers and at a distance.",
-     "alt": "A hillside path in late afternoon. A teacher in a fine robe strides at the head of a line of followers, looking back at them, not noticing that the path just ahead ends at a wide ditch.",
-     "caption": "The blind guides Jesus spoke of could see perfectly well."},
-    {"page": "picture/eyes-that-cannot-see", "name": "12_eyes_that_cannot_see",
-     "prompt": "A dark stone room with one oil lamp burning brightly on a tall stand. A group of robed men stand with their backs to the lamp, facing the dark wall, while one man has turned around and faces the light with his hands open. All seen from a distance.",
-     "alt": "A dark stone room with one oil lamp burning brightly on a stand. A group of robed men stand with their backs to it, facing the dark wall, while one has turned to face the light with open hands.",
-     "caption": "Let light shine out of darkness. From 2 Corinthians 4:6."},
-    {"page": "picture/gods-people-called-blind", "name": "13_gods_people_called_blind",
-     "prompt": "A rough mountain path just before dawn. A single figure walks ahead holding the hand of the first in a long line of people, each holding the hand of the next. Ahead of them the darkness is turning to golden light and the stony path is becoming smooth and level. All seen from behind.",
-     "alt": "A rough mountain path just before dawn. One figure leads a long line of people hand in hand. Ahead of them the darkness turns to golden light and the stony path becomes level.",
-     "caption": "I will lead the blind by a way they did not know. From Isaiah 42:16."},
-    {"page": "picture/like-the-blind", "name": "14_like_the_blind",
-     "prompt": "A street in a damaged city in full bright midday sun, with broken walls and fallen stones. A few people walk slowly, each with one hand on the wall beside them, as if they could not trust the light. Seen from a distance and from behind. Sad but calm, not violent.",
-     "alt": "A street in a damaged city in bright midday sun, with broken walls and fallen stones. A few people walk slowly, each with one hand on the wall, as if they could not trust the light.",
-     "caption": "Like the blind, we feel our way along the wall. From Isaiah 59:10."},
-    {"page": "picture/eyes-dim-with-grief", "name": "15_eyes_dim_with_grief",
-     "prompt": "A small bare room at the end of the night. A figure sits on a sleeping mat with head bowed and shoulders bent, seen from behind, a low oil lamp beside the mat. Through the small window the first pale light of dawn is beginning to show.",
-     "alt": "A small bare room at the end of the night. A figure sits on a sleeping mat with head bowed, seen from behind, a low oil lamp beside the mat, the first pale light of dawn at the window.",
-     "caption": "My eyes fail from grief. From Psalm 6:7."},
-    {"page": "picture/bribes-and-curses", "name": "16_bribes_and_curses",
-     "prompt": "The shaded gate of a town where a judge sits on a stone bench. A man in rich clothes holds out a small pouch of coins toward him. The judge has raised a hand to refuse it and has turned toward a poor widow who waits with her child at the other side. Seen from a distance, from behind the widow.",
-     "alt": "The shaded gate of a town where a judge sits on a stone bench. A man in rich clothes holds out a pouch of coins. The judge raises a hand to refuse it and turns toward a poor widow waiting with her child.",
-     "caption": "A bribe blinds those who see. From Exodus 23:8."},
-    {"page": "picture/eyes-opened", "name": "17_eyes_opened",
-     "prompt": "Inside a small village synagogue of plain stone with benches along the walls. A figure in a simple robe stands at the front holding an open scroll, seen from behind, with light falling on the scroll from a high window. The villagers on the benches lean forward to listen.",
-     "alt": "Inside a small village synagogue. A figure in a simple robe stands at the front holding an open scroll, seen from behind, light falling on the scroll from a high window, the villagers leaning forward to listen.",
-     "caption": "Today this Scripture is fulfilled in your hearing. Luke 4:21."},
-    {"page": "picture/index", "name": "18_picture_front",
-     "prompt": "A single clay oil lamp burning on a stone window ledge. Through the window opening is a wide night landscape of hills, with the first line of dawn along the horizon. No people.",
-     "alt": "A single clay oil lamp burns on a stone window ledge. Through the window is a wide night landscape of hills, with the first line of dawn along the horizon.",
-     "caption": "The Bible's writers used blindness and sight, darkness and light, as pictures of something else."},
-    {"page": "walk-by-faith", "name": "19_walk_by_faith",
-     "prompt": "A tentmaker's workshop at night in a Greek city of the first century. A man sits at a rough table, seen from behind, writing a letter on a scroll by the light of an oil lamp. Rolls of goat-hair cloth, awls and thread lie around him, and through the open door is a quiet street.",
-     "alt": "A tentmaker's workshop at night. A man sits at a rough table, seen from behind, writing a letter by the light of an oil lamp, with rolls of goat-hair cloth and tools around him.",
-     "caption": "Paul, the tentmaker, writing to Corinth: for we walk by faith, not by sight."}
-  ]
+ "_comment": "Site pictures, second group of 19: a banner for each page under the law, living blind, and blindness as a picture, plus the picture section's front and the walk by faith page. Three remakes from the first group come first in the same Gemini chat (R1 to R3), so the chat holds 22 images in this order. The prompt follows the standing prompt in docs/IMAGE_STYLE.md.",
+ "folder": "site_batch2",
+ "style": "Generate a 16:9 image. Painterly oil-sketch look, visible brushwork, warm natural light, the land and buildings of ancient Israel and its neighbours. No faces shown close up: people are seen from behind or at a distance. No text or lettering anywhere in the image. No modern objects. Calm and hopeful in mood, never frightening or graphic.",
+ "remakes": [
+  {
+   "replaces": "site_batch1 07_men_of_sodom (never downloaded)",
+   "name": "R1_men_of_sodom",
+   "prompt": "A narrow street in a walled town at night under a starry sky. A group of men feel their way along a house wall with outstretched hands, facing different directions, while a few steps away a closed wooden door goes unnoticed, warm lamplight showing beneath it. Seen from a distance and from behind. Quiet, not violent."
+  },
+  {
+   "replaces": "site_batch1 02_jacob (arms were not crossed)",
+   "name": "R2_jacob",
+   "prompt": "In a simple room in ancient Egypt, a very old man sits on the edge of a bed. His forearms are clearly crossed over each other in an X, so that his right hand rests on the head of the boy on his left and his left hand on the head of the boy on his right. The two boys kneel in front of him and their father stands beside them. Seen from behind the boys, so the crossed arms are plain to see."
+  },
+  {
+   "replaces": "site_batch1 04_ahijah (hooded figure looked sinister)",
+   "name": "R3_ahijah",
+   "prompt": "Inside a plain stone house, an old prophet sits on a stool facing the open doorway, seen from behind. In the sunny doorway a woman in a plain brown cloak with a light shawl over her hair is just stepping in, carrying a basket of bread and a small jar. She is seen at a distance, in soft daylight, gentle and ordinary, not sinister."
+  }
+ ],
+ "pictures": [
+  {
+   "page": "law/stumbling-block",
+   "name": "01_stumbling_block",
+   "prompt": "A footpath along the edge of a barley field at harvest, with gleaners gathering behind the reapers. A man with a staff walks the path, and ahead of him a farmer drags a fallen branch off the path to clear his way. Both seen from behind.",
+   "alt": "A footpath along the edge of a barley field at harvest. A man with a staff walks the path, and ahead of him a farmer drags a fallen branch out of his way. Reapers work in the field beside them.",
+   "caption": "The law that guards the blind sits among laws about gleanings, wages and honest courts."
+  },
+  {
+   "page": "law/servant-blinded",
+   "name": "02_servant_blinded",
+   "prompt": "Early morning at the gate of a household compound of mud brick. A servant walks out through the open gate into open country with a small bundle over his shoulder, seen from behind, a wide road and hills ahead of him. The master stands back in the gateway, small and in shadow.",
+   "alt": "Early morning at the gate of a household compound. A servant walks out into open country with a small bundle over his shoulder, seen from behind, while the master stands back in the gateway.",
+   "caption": "He must let the servant go free as compensation for the eye. Exodus 21:26."
+  },
+  {
+   "page": "law/priest",
+   "name": "03_priest",
+   "prompt": "In the court of the tent sanctuary, a group of priests in white linen sit together on the ground sharing bread from a common dish. One of them has a wooden staff lying beside him. In the background smoke rises from the altar, where other priests serve. Seen from behind and at a distance.",
+   "alt": "In the court of the tent sanctuary, priests in white linen sit together sharing bread from a common dish, one with a staff lying beside him. In the background smoke rises from the altar.",
+   "caption": "He may eat the most holy food of his God as well as the holy food. Leviticus 21:22."
+  },
+  {
+   "page": "law/blind-animals",
+   "name": "04_blind_animals",
+   "prompt": "At the entrance to the court of the tent sanctuary, a shepherd, seen from behind, holds a young lamb while a priest in white linen bends to look it over carefully. A small flock waits behind them on the dry ground. Morning light.",
+   "alt": "At the entrance to the sanctuary court, a shepherd, seen from behind, holds a young lamb while a priest in white linen bends to look it over. A small flock waits behind them.",
+   "caption": "The rule was about what a worshipper gave, not about what a blind creature was worth."
+  },
+  {
+   "page": "life/camp",
+   "name": "05_camp",
+   "prompt": "A herding camp of black goat-hair tents at evening in dry grassland. Flocks of sheep and goats are being driven in, cooking fires are lit, and an old man sits at the door of the largest tent with family and servants around him. Seen from a distance.",
+   "alt": "A herding camp of black goat-hair tents at evening. Flocks are being driven in, cooking fires are lit, and an old man sits at the door of the largest tent with family and servants around him.",
+   "caption": "In a herding camp, the people around a blind man were his own family and servants."
+  },
+  {
+   "page": "life/village",
+   "name": "06_village",
+   "prompt": "A hill-country village of stone houses among terraced fields, with a tent sanctuary on the crest of the hill. Beside the road at the edge of the village an old man sits on a wooden seat facing down the road, seen from behind, as if waiting for news.",
+   "alt": "A hill-country village of stone houses among terraced fields, a tent sanctuary on the crest. Beside the road at its edge an old man sits on a wooden seat facing down the road, seen from behind.",
+   "caption": "Eli, sitting on his chair beside the road. From 1 Samuel 4:13."
+  },
+  {
+   "page": "life/town-gate",
+   "name": "07_town_gate",
+   "prompt": "The outside of the gate of a walled town on a busy morning: traders with laden donkeys, baskets of produce, travellers coming and going. Against the wall beside the gate a man sits on the ground with a bowl in front of him, seen from behind. Elders sit on benches in the shade of the gate.",
+   "alt": "Outside the gate of a walled town on a busy morning, with traders, donkeys and travellers. Against the wall beside the gate a man sits on the ground with a bowl before him, seen from behind.",
+   "caption": "The gate was the town's public square: the place of trade, news, judgment and begging."
+  },
+  {
+   "page": "life/jerusalem",
+   "name": "08_jerusalem",
+   "prompt": "A steep stepped street in first-century Jerusalem crowded with pilgrims, with the white and gold Temple high above the rooftops in morning light. At the side of the street a man sits on a step with a bowl, and a passer-by, seen from behind, stoops to put something in it.",
+   "alt": "A steep stepped street in Jerusalem crowded with pilgrims, the white and gold Temple high above the rooftops. At the side a man sits on a step with a bowl, and a passer-by stoops to put something in it.",
+   "caption": "Isn't this the man who used to sit and beg? John 9:8."
+  },
+  {
+   "page": "life/canes-and-guides",
+   "name": "09_canes_and_guides",
+   "prompt": "A country road between low stone walls and olive trees. In front, an old man walks alone with a long wooden staff held a little ahead of him. Further along the road a child leads a grown man by the hand. All seen from behind.",
+   "alt": "A country road between stone walls and olive trees. An old man walks alone with a long wooden staff held a little ahead of him, and further along a child leads a grown man by the hand. All seen from behind.",
+   "caption": "A staff in the hand, or a hand to hold: the two ways the text shows a blind person moving."
+  },
+  {
+   "page": "life/through-history",
+   "name": "10_through_history",
+   "prompt": "This one scene is set in Europe in the 1830s, not in ancient Israel. A plain room with a tall window. A man in a dark coat sits at a wooden table, seen from behind, reading a large book of raised letters with his fingertips. Shelves of thick books stand behind him. Same painterly oil-sketch style.",
+   "alt": "A plain room in the 1830s with a tall window. A man in a dark coat sits at a wooden table, seen from behind, reading a large book of raised letters with his fingertips.",
+   "caption": "Much of what we know of blind people's history was first gathered in the 1800s, some of it by blind authors."
+  },
+  {
+   "page": "picture/blind-guides",
+   "name": "11_blind_guides",
+   "prompt": "A hillside path in late afternoon. A teacher in a fine fringed robe strides confidently at the head of a line of followers, looking back over his shoulder at them, not noticing that the path just ahead of him ends at a wide ditch. Seen from behind the followers and at a distance.",
+   "alt": "A hillside path in late afternoon. A teacher in a fine robe strides at the head of a line of followers, looking back at them, not noticing that the path just ahead ends at a wide ditch.",
+   "caption": "The blind guides Jesus spoke of could see perfectly well."
+  },
+  {
+   "page": "picture/eyes-that-cannot-see",
+   "name": "12_eyes_that_cannot_see",
+   "prompt": "A dark stone room with one oil lamp burning brightly on a tall stand. A group of robed men stand with their backs to the lamp, facing the dark wall, while one man has turned around and faces the light with his hands open. All seen from a distance.",
+   "alt": "A dark stone room with one oil lamp burning on a tall stand. One man in a light robe has turned to face the lamp with open hands, while the rest of the group stand behind him in the shadow.",
+   "caption": "Let light shine out of darkness. From 2 Corinthians 4:6."
+  },
+  {
+   "page": "picture/gods-people-called-blind",
+   "name": "13_gods_people_called_blind",
+   "prompt": "A rough mountain path just before dawn. A single figure walks ahead holding the hand of the first in a long line of people, each holding the hand of the next. Ahead of them the darkness is turning to golden light and the stony path is becoming smooth and level. All seen from behind.",
+   "alt": "A rough mountain path just before dawn. One figure leads a long line of people hand in hand. Ahead of them the darkness turns to golden light and the stony path becomes level.",
+   "caption": "I will lead the blind by a way they did not know. From Isaiah 42:16."
+  },
+  {
+   "page": "picture/like-the-blind",
+   "name": "14_like_the_blind",
+   "prompt": "A street in a damaged city in full bright midday sun, with broken walls and fallen stones. A few people walk slowly, each with one hand on the wall beside them, as if they could not trust the light. Seen from a distance and from behind. Sad but calm, not violent.",
+   "alt": "A street in a damaged city in bright midday sun, with broken walls and fallen stones. A few people walk slowly, each with one hand on the wall, as if they could not trust the light.",
+   "caption": "Like the blind, we feel our way along the wall. From Isaiah 59:10."
+  },
+  {
+   "page": "picture/eyes-dim-with-grief",
+   "name": "15_eyes_dim_with_grief",
+   "prompt": "A small bare room at the end of the night. A figure sits on a sleeping mat with head bowed and shoulders bent, seen from behind, a low oil lamp beside the mat. Through the small window the first pale light of dawn is beginning to show.",
+   "alt": "A small bare room at the end of the night. A figure sits on a sleeping mat with head bowed, seen from behind, a low oil lamp beside the mat, the first pale light of dawn at the window.",
+   "caption": "My eyes fail from grief. From Psalm 6:7."
+  },
+  {
+   "page": "picture/bribes-and-curses",
+   "name": "16_bribes_and_curses",
+   "prompt": "The shaded gate of a town where a judge sits on a stone bench. A man in rich clothes holds out a small pouch of coins toward him. The judge has raised a hand to refuse it and has turned toward a poor widow who waits with her child at the other side. Seen from a distance, from behind the widow.",
+   "alt": "The shaded gate of a town where a judge sits on a stone bench. A man in rich clothes holds out a pouch of coins. The judge raises a hand to refuse it and turns toward a poor widow waiting with her child.",
+   "caption": "A bribe blinds those who see. From Exodus 23:8."
+  },
+  {
+   "page": "picture/eyes-opened",
+   "name": "17_eyes_opened",
+   "prompt": "Inside a small village synagogue of plain stone with benches along the walls. A figure in a simple robe stands at the front holding an open scroll, seen from behind, with light falling on the scroll from a high window. The villagers on the benches lean forward to listen.",
+   "alt": "Inside a small village synagogue. A figure in a simple robe stands at the front holding an open scroll, seen from behind, light falling on the scroll from a high window, the villagers leaning forward to listen.",
+   "caption": "Today this Scripture is fulfilled in your hearing. Luke 4:21."
+  },
+  {
+   "page": "picture/index",
+   "name": "18_picture_front",
+   "prompt": "A single clay oil lamp burning on a stone window ledge. Through the window opening is a wide night landscape of hills, with the first line of dawn along the horizon. No people.",
+   "alt": "A single clay oil lamp burns on a stone window ledge. Through the window is a wide night landscape of hills, with the first line of dawn along the horizon.",
+   "caption": "The Bible's writers used blindness and sight, darkness and light, as pictures of something else."
+  },
+  {
+   "page": "walk-by-faith",
+   "name": "19_walk_by_faith",
+   "prompt": "A tentmaker's workshop at night in a Greek city of the first century. A man sits at a rough table, seen from behind, writing a letter on a scroll by the light of an oil lamp. Rolls of goat-hair cloth, awls and thread lie around him, and through the open door is a quiet street.",
+   "alt": "A tentmaker's workshop at night. A man sits at a rough table, seen from behind, writing a letter by the light of an oil lamp, with rolls of goat-hair cloth and tools around him.",
+   "caption": "Paul, the tentmaker, writing to Corinth: for we walk by faith, not by sight."
+  }
+ ]
 }

@@ -14,7 +14,7 @@
    "page": "stories/jacob",
    "name": "02_jacob",
    "prompt": "In a simple room in ancient Egypt, a very old man sits on the edge of a bed with his arms crossed over one another, a hand resting on the head of each of two boys kneeling in front of him. Their father stands at the side, reaching toward the old man's hand. Seen from behind the boys.",
-   "alt": "A very old man sits on a bed with his arms crossed, a hand on the head of each of two kneeling boys, while their father reaches to move one hand. Seen from behind the boys.",
+   "alt": "A very old man sits on the edge of a bed with his forearms crossed, one hand reaching to the head of a boy kneeling before him. A second boy kneels beside the first and their father stands over them.",
    "caption": "Jacob crosses his hands, and will not be corrected."
   },
   {
@@ -28,7 +28,7 @@
    "page": "stories/ahijah",
    "name": "04_ahijah",
    "prompt": "Inside a plain stone house, an old prophet sits facing the open doorway, seen from behind. On the threshold, dark against the bright daylight outside, a cloaked and hooded woman carrying loaves of bread and a jar is just stepping in.",
-   "alt": "An old prophet sits inside a plain stone house, seen from behind, facing the bright doorway where a cloaked, hooded woman carrying bread and a jar is just stepping in.",
+   "alt": "An old prophet sits on a stool inside a plain stone house, seen from behind, facing the sunny doorway where a woman in a brown cloak and a light shawl is stepping in with a basket of bread and a jar.",
    "caption": "He heard her footsteps at the door and greeted her by name."
   },
   {
@@ -49,7 +49,7 @@
    "page": "stories/men-of-sodom",
    "name": "07_men_of_sodom",
    "prompt": "A narrow street in a walled town at night. A crowd of men feel their way along a house wall with outstretched hands, turned in every direction, while a few steps away a closed wooden door goes unnoticed, warm lamplight showing beneath it. Seen from a distance, from behind.",
-   "alt": "A narrow street at night. A crowd of men feel their way along a house wall with outstretched hands, turned every way, while a closed door a few steps off goes unnoticed, lamplight showing beneath it.",
+   "alt": "A narrow street at night under the stars. A group of men feel their way along a house wall with their hands, while across the street a closed door goes unnoticed, lamplight showing at its edge.",
    "caption": "They wearied themselves trying to find the door. Genesis 19:11."
   },
   {

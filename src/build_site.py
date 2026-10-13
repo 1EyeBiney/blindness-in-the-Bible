@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import csv
 import html
+import re
 import shutil
 import sys
 from collections import Counter, OrderedDict
@@ -75,6 +76,10 @@ img { max-width: 100%; height: auto; }
 figure.pic { margin: 1.5rem 0; max-width: 44rem; }
 figure.pic.banner { max-width: none; margin-top: 1rem; }
 figure.pic.portrait { max-width: 22rem; }
+ul.cards { list-style: none; padding: 0; }
+ul.cards li { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1rem; margin: 0 0 1rem; max-width: none; }
+ul.cards img { width: 11rem; flex: none; border: 1px solid var(--rule); border-radius: .25rem; display: block; }
+ul.cards li > div { flex: 1 1 16rem; max-width: 44rem; }
 header.site .brand { display: flex; align-items: center; gap: .75rem; }
 header.site img.emblem { width: 3rem; height: 3rem; flex: none; }
 figure.pic img { display: block; width: 100%; border: 1px solid var(--rule); border-radius: .25rem; }
@@ -113,9 +118,16 @@ def e(s) -> str:
     return html.escape(str(s), quote=True)
 
 
-def page(title: str, body: str, current: str, root: str = "", share: dict | None = None) -> str:
+def page(title: str, body: str, current: str, root: str = "", share: dict | None = None,
+         banner: dict | None = None) -> str:
     """share: the picture shown when a link to this page is pasted into a message or a post, as
     {"file": path under media/, "alt": its description}. Without one, the site's own share card is used."""
+    if banner:                       # under the heading and its opening lines, as on a story page
+        import images
+        body, n = re.subn(r'(<h1>.*?</h1>(?:\s*<p class="lede">.*?</p>)*)',
+                          lambda m: m.group(1) + "\n" + figure_html(banner, root), body, count=1, flags=re.S)
+        assert n == 1, title
+        share = share or {"file": f"images/{banner['name']}-{images.widths(banner)[-1]}.jpg", "alt": banner["alt"]}
     share = share or {"file": "share-card.jpg",
                       "alt": "A painting of two men on the shore of the Sea of Galilee, one lifting his hands toward "
                              "the water, with the words Not By Sight, studies on blindness in the Bible."}
@@ -249,6 +261,7 @@ def catalog_page(rows: list[dict]) -> str:
 
 
 def stories_index() -> str:
+    import images
     import stories as st
     parts = ["<h1>The stories</h1>",
              f'<p class="lede">The verses in the catalog are not scattered sayings. Most belong to a story: a person, '
@@ -259,11 +272,16 @@ def stories_index() -> str:
              "they stood.</p>"]
     for key, title, intro in st.GROUPS:
         group = [x for x in st.STORIES if x["group"] == key]
-        parts.append(f"<h2>{e(title)}</h2><p>{e(intro)}</p><ul>")
+        parts.append(f'<h2>{e(title)}</h2><p>{e(intro)}</p><ul class="cards">')
         for x in group:
             refs = "; ".join(passage_label(p) for p in x["passages"])
-            parts.append(f'<li><a href="{x["slug"]}.html">{e(x["title"])}</a>. {e(refs)}. '
-                         f'{e(st.OUTCOMES[x["outcome"]])}.</li>')
+            pic = images.STORY_PICTURES.get(x["slug"])
+            # the small picture is decoration beside a link that already says where it goes, so it has no description
+            thumb = (f'<img src="../media/images/{e(pic[0]["name"])}-{images.THUMB_WIDTH}.jpg" alt="" '
+                     f'width="{images.THUMB_WIDTH}" height="{round(images.THUMB_WIDTH * 1536 / 2752)}" loading="lazy">'
+                     if pic else "")
+            parts.append(f'<li>{thumb}<div><a href="{x["slug"]}.html">{e(x["title"])}</a>. {e(refs)}. '
+                         f'{e(st.OUTCOMES[x["outcome"]])}.</div></li>')
         parts.append("</ul>")
     return "\n".join(parts)
 
@@ -568,9 +586,12 @@ def render_all(out: Path = OUT) -> None:
     (out / "static" / "display.js").write_text(display.script(), encoding="utf-8", newline="\n")
     (out / display.SLUG).write_text(page(display.TITLE, display.BODY, display.SLUG), encoding="utf-8")
     shutil.copy(DATA, out / "data" / "catalog.csv")
-    (out / "index.html").write_text(page("Home", index_page(rows), "index.html"), encoding="utf-8")
-    (out / "catalog.html").write_text(page("The catalog", catalog_page(rows), "catalog.html"), encoding="utf-8")
     import images
+
+    def banner(key):
+        return (images.PAGE_PICTURES.get(key) or [None])[0]
+    (out / "index.html").write_text(page("Home", index_page(rows), "index.html", banner=banner("index")), encoding="utf-8")
+    (out / "catalog.html").write_text(page("The catalog", catalog_page(rows), "catalog.html"), encoding="utf-8")
     about = ABOUT.replace("BRIAN_PORTRAIT", figure_html(images.PAGE_PICTURES["about"][0], ""))
     (out / "about.html").write_text(page("About", about, "about.html"), encoding="utf-8")
     import stories as st
@@ -584,16 +605,18 @@ def render_all(out: Path = OUT) -> None:
     (out / spectrum.SLUG).write_text(page(spectrum.TITLE, spectrum.render(bible), spectrum.SLUG), encoding="utf-8")
     (out / "stories").mkdir(exist_ok=True)
     (out / "stories" / "index.html").write_text(
-        page("The stories", stories_index(), "stories/index.html", root="../"), encoding="utf-8")
+        page("The stories", stories_index(), "stories/index.html", root="../", banner=banner("stories/index")),
+        encoding="utf-8")
     import pages as pg
     for section in ("law", "life"):
         (out / section).mkdir(exist_ok=True)
         (out / section / "index.html").write_text(
-            page(pg.SECTIONS[section][0], section_index(section), f"{section}/index.html", root="../"), encoding="utf-8")
+            page(pg.SECTIONS[section][0], section_index(section), f"{section}/index.html", root="../",
+                 banner=banner(f"{section}/index")), encoding="utf-8")
         for p_ in pg.by_section(section):
             (out / section / f"{p_['slug']}.html").write_text(
                 page(p_["title"], context_page(p_, bible, "../", ("index.html", pg.SECTIONS[section][0])),
-                     f"{section}/index.html", root="../"), encoding="utf-8")
+                     f"{section}/index.html", root="../", banner=banner(f"{section}/{p_['slug']}")), encoding="utf-8")
     import picture as pic
     (out / "picture").mkdir(exist_ok=True)
     idx = [f"<h1>{e(pic.OPENING['title'])}</h1>"] + [f'<p class="lede">{e(pic.OPENING["intro"][0])}</p>'] + \
@@ -603,14 +626,15 @@ def render_all(out: Path = OUT) -> None:
         idx.append(f'<li><a href="{p_["slug"]}.html">{e(p_["title"])}</a>. {e(refs)}.</li>')
     idx.append("</ul>")
     (out / "picture" / "index.html").write_text(
-        page(pic.OPENING["title"], "\n".join(idx), "picture/index.html", root="../"), encoding="utf-8")
+        page(pic.OPENING["title"], "\n".join(idx), "picture/index.html", root="../", banner=banner("picture/index")),
+        encoding="utf-8")
     for p_ in pic.PICTURE_PAGES:
         (out / "picture" / f"{p_['slug']}.html").write_text(
             page(p_["title"], context_page(p_, bible, "../", ("index.html", pic.SECTION[0])),
-                 "picture/index.html", root="../"), encoding="utf-8")
+                 "picture/index.html", root="../", banner=banner(f"picture/{p_['slug']}")), encoding="utf-8")
     (out / "walk-by-faith.html").write_text(
         page(pg.FAITH_PAGE["title"], context_page(pg.FAITH_PAGE, bible, "", ("index.html", "Home")),
-             "walk-by-faith.html", root=""), encoding="utf-8")
+             "walk-by-faith.html", root="", banner=banner("walk-by-faith")), encoding="utf-8")
     order = [x for key, _, _ in st.GROUPS for x in st.STORIES if x["group"] == key]
     for story in st.STORIES:
         (out / "stories" / f"{story['slug']}.html").write_text(

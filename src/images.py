@@ -158,6 +158,44 @@ PAGE_PICTURES = {
     ],
 }
 
+STORY_PICTURES["answer-to-john"] = [
+    # Until episode 6 is made, this page borrows the painting from episode 5 of the kind of scene Jesus pointed John to.
+    {"slot": "banner", "source": "ep05_the_blind_in_the_crowd/06_laid_at_his_feet.png",
+     "name": "crowds-by-the-sea-laid-at-his-feet",
+     "alt": "People set down a stretcher and help others to sit on the ground before a seated figure, seen from behind the helpers.",
+     "caption": "The blind receive sight, the lame walk. From Matthew 11:5. The picture is a painting, imagined, not a record."},
+]
+
+IMAGINED = " The picture is a painting, imagined, not a record."
+
+
+def _site_batches() -> None:
+    """The paintings made for the site itself, listed in audio/shots/site_batch*.json with their prompts. A page
+    named stories/<slug> gets a story banner; any other page gets a banner under its heading."""
+    import json
+    from pathlib import Path
+    shots = Path(__file__).resolve().parents[1] / "audio" / "shots"
+    for f in sorted(shots.glob("site_batch*.json")):
+        batch = json.loads(f.read_text(encoding="utf-8"))
+        for x in batch["pictures"]:
+            page = x["page"]
+            pic = {"slot": "banner", "source": f"{batch['folder']}/{x['name']}.jpg",
+                   "name": page.replace("/", "-") + "-banner", "alt": x["alt"], "caption": x["caption"] + IMAGINED}
+            if page.startswith("stories/") and page != "stories/index":
+                STORY_PICTURES[page.split("/", 1)[1]] = [pic]
+            else:
+                PAGE_PICTURES[page] = [pic]
+
+
+_site_batches()
+
+
+def thumbs() -> list[dict]:
+    """Story banners, which are also made small for the list of stories."""
+    return [pics[0] for pics in STORY_PICTURES.values()]
+
+
+THUMB_WIDTH = 400
 SOURCE_SIZE = (2752, 1536)   # every painting and map comes out of the tools at this size
 
 

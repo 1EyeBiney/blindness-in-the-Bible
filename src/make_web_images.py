@@ -22,9 +22,11 @@ OUT = ROOT / "media" / "images"
 def main(remake: bool = False) -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     made = 0
+    thumbs = {t["name"] for t in images.thumbs()}
     for pic in images.all_pictures():
         src = SRC / pic["source"]
-        for w in images.widths(pic):
+        extra = (images.THUMB_WIDTH,) if pic["name"] in thumbs else ()
+        for w in extra + tuple(images.widths(pic)):
             dst = OUT / f"{pic['name']}-{w}.jpg"
             if dst.exists() and not remake:
                 continue

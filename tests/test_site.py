@@ -353,7 +353,7 @@ def test_story_pictures_are_described_made_and_placed(tmp_path):
                 f = ROOT / "media" / "images" / f"{p['name']}-{w}.jpg"
                 assert f.is_file() and f.stat().st_size < 600_000, f.name
                 assert (tmp_path / "media" / "images" / f.name).is_file(), f.name
-        assert "imagined, not records" in pics[0]["caption"], slug   # paintings are announced as imagined
+        assert "imagined, not" in pics[0]["caption"], slug   # paintings are announced as imagined
 
 
 def test_every_page_has_its_icons_and_a_share_picture_that_exists(tmp_path):
@@ -368,3 +368,33 @@ def test_every_page_has_its_icons_and_a_share_picture_that_exists(tmp_path):
     assert "media/images/bartimaeus-the-crowd-stops-1600.jpg" in story.split("</head>")[0]
     about = (tmp_path / "about.html").read_text(encoding="utf-8")
     assert about.count("<figure") == 1 and "Mister Scaredy Cat" in about and "BRIAN_PORTRAIT" not in about
+
+
+def test_every_story_and_every_study_page_has_a_banner(tmp_path):
+    """Every story, every page under the law, living blind and blindness as a picture, the section fronts, the
+    home page and the walk by faith page open with a described, captioned painting. The list of stories shows a
+    small picture beside each story, with no description, because the link beside it already names the story."""
+    import images
+    import pages as pg
+    import picture as pic
+    import stories as st
+    build_site.render_all(tmp_path)
+    assert {s["slug"] for s in st.STORIES} == set(images.STORY_PICTURES)
+    want = ["index", "stories/index", "law/index", "life/index", "picture/index", "walk-by-faith"]
+    want += [f"{sec}/{p['slug']}" for sec in ("law", "life") for p in pg.by_section(sec)]
+    want += [f"picture/{p['slug']}" for p in pic.PICTURE_PAGES]
+    assert set(want) == set(images.PAGE_PICTURES) - {"about"}
+    for key in want:
+        h = (tmp_path / f"{key}.html").read_text(encoding="utf-8")
+        assert h.count('<figure class="pic banner">') == 1, key
+        assert h.index("<h1>") < h.index("<figure") and "imagined, not a record" in h, key
+        b = images.PAGE_PICTURES[key][0]
+        assert f"media/images/{b['name']}-1600.jpg" in h.split("</head>")[0], key     # shared with its own picture
+        if "<h2" in h:
+            assert h.index("<figure") < h.index("<h2"), key
+    idx = (tmp_path / "stories" / "index.html").read_text(encoding="utf-8")
+    assert idx.count('-400.jpg" alt=""') == len(st.STORIES)
+    names = [p["name"] for p in images.all_pictures()]
+    assert len(names) == len(set(names))
+    for b in images.thumbs():
+        assert (ROOT / "media" / "images" / f"{b['name']}-{images.THUMB_WIDTH}.jpg").is_file(), b["name"]
