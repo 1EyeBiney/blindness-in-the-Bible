@@ -211,6 +211,14 @@ cut from that intro through the rendered lines and splice his own recordings in.
 
 *Placed:* five draft paragraphs in his voice in audio/episodes/ep05_the_blind_in_the_crowd.py (indices 5 to 9), awaiting his edit. What the shelf could and could not answer is in the episode's place section.
 
+## 13 October 2026, on a trailer for the home page, and why he did the study (from chat, verbatim)
+
+**The idea:** Because of how well the YouTube videos are being received, I am contemplating putting a kind of trailer on the Home page. I want to use this to introduce the YouTube material and point people right to it as I think it will be a popular feature based on the replies I am getting so far. I need feedback on this idea as I do not want to overpopulate or ruin what we hvae now. I need suggestions on how to best make the trailer, whethdr we have enough now or need more develope YouTube episodes. I think I can re-use my suno music or we can create new.
+
+**His lines, and the opening:** I think I like the opening to episode 1, especially as we can include most all of it. as far as my lines: I wanted to do this study to see what the Bible says about blindness now that I am on this side of the curtain (something similar to this analogy or visualization). I was very surprised by the amount of comfort that I got from it. I was very surprised at how many times the blind are mentioned and how important they were to the work of Jesus, especially as it seems each healing pointed others towards his divinity and true nature. I am seeing these things not only as someone with a new perspecitive on the world but I am a much more mature person now, obth physically and spiritually. Our church has a mission statement that is best summed up as "We want to help people in their walk with Jesus.: and this is what I ultimately hope fellow blindChristians willdiscover and for those new to these, that they will realize how prescious we all are, regardless of visual impairment, to Jesus. Some of this probably needs to make it over to the About page, which will carry more of my testamony as I get to it.
+
+*Placed:* a draft trailer script in audio/scripts/trailer_01.md, awaiting his edit. Not yet on the About page: he will bring more of his testimony there when he gets to it, and these words should be offered to him then.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
