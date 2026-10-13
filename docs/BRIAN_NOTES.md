@@ -219,6 +219,18 @@ cut from that intro through the rendered lines and splice his own recordings in.
 
 *Placed:* a draft trailer script in audio/scripts/trailer_01.md, awaiting his edit. Not yet on the About page: he will bring more of his testimony there when he gets to it, and these words should be offered to him then.
 
+## 13 October 2026, on episode 6, The answer to John (from chat, and from the foot of his reading script, verbatim)
+
+**In chat:** I have started to go through the script for EP6 and would like some changes. I want to expand the opening like we've been doing with more visuals and trying to get the listening directly into that place. I did some minor editing to I think it was Narrator stuff. I have added some of my own thoughts at the bottom and want you to keep the essence but re-write to atch what other dialog we have in there for me.
+
+**His edit to the disciple's line:** There were so many! More than one. So many. We lost count.
+
+**Written at the foot of the script:** additional thoughts: surprisingly the part of this episode that rings true to me today is the part Jesus binding up the broken hearted. Truth be told, the lines of work that all in our house do put us directly in the path of the broken hearted. It is a lifestyle, one that is far more difficult that most can imagine, but I am grateful for what it has done to my heart. It keeps me humble. It helps me honor othors as God wants us to do for we are all created in His image. I know that someday I will see again.I've always known that because I was blessed to have my parents lead me to the Lord when I was very young.
+
+Blindness is the second worst fear amongst people and I take no solace from that, but I can tell you that it is not something to fear at all. scares me are those that have to csarry this burden without knowing the grace and mercy of our Savior and what lies ahead for those of us that belong to Him.
+
+*Placed:* the disciple's line as he wrote it; three draft paragraphs in his voice at the end of the episode (audio/episodes/ep06_the_answer_to_john.py, indices 4 to 6), awaiting his edit; the opening rewritten. His earlier four paragraphs he read and left unchanged.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)

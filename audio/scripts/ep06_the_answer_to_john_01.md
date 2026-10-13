@@ -1,10 +1,20 @@
-	# Not By Sight, episode 6: The answer to John
+# Not By Sight, episode 6: The answer to John
 
 Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
-**Narrator** *(calm)* A man in a fortress above the Dead Sea has a question, and he cannot go and ask it himself.
+**Narrator** *(calm)* Somewhere underneath a palace, a man is sitting in the dark.
 
-**Narrator** *(beat)* He is a prisoner. The walls are a hundred metres of sheer rock. He has heard things, secondhand, through the people allowed to visit him. And what he has heard does not sound like what he expected. So he sends two friends with one question.
+*(pause 1.0 s)*
+
+**Narrator** *(beat)* Imagine going down to him. Start at the top, on the ridge, where the fortress stands out in the open. It is hot up here, the dry heat of the country east of the Dead Sea, and the wind never quite stops. Far below, the sea lies flat and heavy and makes no sound at all. There is a palace on this height, with courtyards and cool rooms, and from somewhere inside it comes music, and the noise of people who have had plenty to eat.
+
+**Narrator** *(calm)* Now the stairs. They are cut into the rock, and they go down. The heat stays behind you. So does the wind. The music thins out, and then it is gone, and what takes its place is the sound of a place with stone on every side: your own footsteps coming back at you, water dripping somewhere, a door so heavy it takes two hands to move. The air is cool and still, and it smells of damp rock. And the light goes. Not all at once. A little less at every turn of the stair, until all that is left is what comes in under the door.
+
+*(pause 1.0 s)*
+
+**Narrator** *(beat)* This is where he lives now. He was a man of the open air. He preached out of doors, in the wilderness, beside a river, to crowds. Now the world reaches him the way it reaches a blind man: by sound, and by what other people tell him. A guard's footsteps. A key. A friend let in for an hour, with news.
+
+**Narrator** *(calm)* And it is the news that troubles him. He has been hearing things, secondhand, about a man he once pointed out to his own followers. What he hears does not sound like what he expected. He cannot go and see for himself. So he sends two friends, on a walk of four days, with one question.
 
 **Narrator** *(calm)* The answer he gets back begins with blind people.
 
@@ -130,10 +140,14 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
+**Brian** *(calm)* The part of this episode that comes closest to home for me is not about eyes at all. It is in the verse from Isaiah that Jesus read at Nazareth. He has sent Me to bind up the brokenhearted. The work that everyone in our house does puts us straight in the path of the brokenhearted. It is less a job than a way of life, and it is far harder than most people can imagine. But I am grateful for what it has done to my heart. It keeps me humble. It teaches me to honor other people the way God wants us to, because every one of us is made in His image.
+
+**Brian** *(calm)* I know that someday I will see again. I have always known it, because I was blessed to have parents who led me to the Lord when I was very young.
+
+**Brian** *(calm)* They say blindness is the second greatest fear people have. I take no comfort in that. But I can tell you, from inside it, that blindness is not something to fear at all. What scares me is something else. It is the people who have to carry this burden without knowing the grace and mercy of our Savior, and without knowing what lies ahead for those of us who belong to Him.
+
+---
+
 **Narrator** *(calm)* This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot com. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
 
 **Narrator** *(after a long pause)* For we walk by faith, not by sight.
-
-
-additional thoughts: surprisingly the part of this episode that rings true to me today is the part Jesus binding up the broken hearted. Truth be told, the lines of work that all in our house do put us directly in the path of the broken hearted. It is a lifestyle, one that is far more difficult that most can imagine, but I am grateful for what it has done to my heart. It keeps me humble. It helps me honor othors as God wants us to do for we are all created in His image. I know that someday I will see again.I've always known that because I was blessed to have my parents lead me to the Lord when I was very young.
-Blindness is the second worst fear amongst people and I take no solace from that, but I can tell you that it is not something to fear at all. scares me are those that have to csarry this burden without knowing the grace and mercy of our Savior and what lies ahead for those of us that belong to Him.

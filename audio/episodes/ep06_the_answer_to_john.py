@@ -6,6 +6,8 @@ NUMBER = 6
 TITLE = "The answer to John"
 PASSAGES = [("Luke", 7, 18, 23), ("Isaiah", 35, 4, 6), ("Isaiah", 61, 1, 1), ("Matthew", 11, 2, 6)]
 
+MAX_WORDS = 3300   # Brian, 13 October 2026: longer opening, and three more paragraphs of his own at the end
+
 DRAFT_BRIAN = [
     "John the Baptist doubted. The man who pointed at Jesus and said, behold the Lamb of God, sat in a dungeon and "
     "sent people to ask, are you the one, or should we wait for somebody else. I find that enormously comforting. "
@@ -23,6 +25,20 @@ DRAFT_BRIAN = [
     "it was aimed at John, in prison, who was not going to be healed or rescued and knew it. Jesus was telling "
     "him: do not let what I am not doing for you make you doubt what I am. Every blind believer who has prayed for "
     "sight and gotten up the next morning still blind has heard that line.",
+    # Drafted 13 October 2026 from the "additional thoughts" Brian wrote at the foot of the reading script
+    # (kept verbatim in docs/BRIAN_NOTES.md). His to change.
+    "The part of this episode that comes closest to home for me is not about eyes at all. It is in the verse from "
+    "Isaiah that Jesus read at Nazareth. He has sent Me to bind up the brokenhearted. The work that everyone in our "
+    "house does puts us straight in the path of the brokenhearted. It is less a job than a way of life, and it is "
+    "far harder than most people can imagine. But I am grateful for what it has done to my heart. It keeps me "
+    "humble. It teaches me to honor other people the way God wants us to, because every one of us is made in His "
+    "image.",
+    "I know that someday I will see again. I have always known it, because I was blessed to have parents who led me "
+    "to the Lord when I was very young.",
+    "They say blindness is the second greatest fear people have. I take no comfort in that. But I can tell you, "
+    "from inside it, that blindness is not something to fear at all. What scares me is something else. It is the "
+    "people who have to carry this burden without knowing the grace and mercy of our Savior, and without knowing "
+    "what lies ahead for those of us who belong to Him.",
 ]
 
 
@@ -34,11 +50,28 @@ def build(bible: dict) -> list[str]:
     add("# JOHN and DISCIPLE appear only inside scenes the narrator introduces with the word 'imagine'.")
     add("")
 
-    add("[NARRATOR] (calm) A man in a fortress above the Dead Sea has a question, and he cannot go and ask it "
-        "himself.")
-    add("[NARRATOR] (beat) He is a prisoner. The walls are a hundred metres of sheer rock. He has heard things, "
-        "secondhand, through the people allowed to visit him. And what he has heard does not sound like what he "
-        "expected. So he sends two friends with one question.")
+    # ---- Cold open: down from the heat and the wind into the dark, by sound and touch -----------------
+    add("[NARRATOR] (calm) Somewhere underneath a palace, a man is sitting in the dark.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (beat) Imagine going down to him. Start at the top, on the ridge, where the fortress stands out "
+        "in the open. It is hot up here, the dry heat of the country east of the Dead Sea, and the wind never quite "
+        "stops. Far below, the sea lies flat and heavy and makes no sound at all. There is a palace on this height, "
+        "with courtyards and cool rooms, and from somewhere inside it comes music, and the noise of people who have "
+        "had plenty to eat.")
+    add("[NARRATOR] (calm) Now the stairs. They are cut into the rock, and they go down. The heat stays behind you. "
+        "So does the wind. The music thins out, and then it is gone, and what takes its place is the sound of a "
+        "place with stone on every side: your own footsteps coming back at you, water dripping somewhere, a door so "
+        "heavy it takes two hands to move. The air is cool and still, and it smells of damp rock. And the light goes. "
+        "Not all at once. A little less at every turn of the stair, until all that is left is what comes in under "
+        "the door.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (beat) This is where he lives now. He was a man of the open air. He preached out of doors, in "
+        "the wilderness, beside a river, to crowds. Now the world reaches him the way it reaches a blind man: by "
+        "sound, and by what other people tell him. A guard's footsteps. A key. A friend let in for an hour, with "
+        "news.")
+    add("[NARRATOR] (calm) And it is the news that troubles him. He has been hearing things, secondhand, about a man "
+        "he once pointed out to his own followers. What he hears does not sound like what he expected. He cannot go "
+        "and see for himself. So he sends two friends, on a walk of four days, with one question.")
     add("[NARRATOR] (calm) The answer he gets back begins with blind people.")
     add("[PAUSE 1.5]")
     add(f"[NARRATOR] (calm) {SERIES_INTRO}")
@@ -97,7 +130,7 @@ def build(bible: dict) -> list[str]:
     add("[JOHN] (calm) Go on.")
     add("[DISCIPLE] (excited) He was old, and someone had him by the arm, and Jesus touched his face, and the man "
         "looked up, and he started to cry and to laugh at the same time, and he kept looking at his own hands. "
-        "More than one. Many. We lost count.")
+        "There were so many! More than one. So many. We lost count.")
     add("[JOHN] (whisper) The eyes of the blind will be opened.")
     add("[DISCIPLE] (calm) Then he turned to us and said, go back and tell John what you have seen and heard. The "
         "blind see. The lame walk. Lepers are cleansed, the deaf hear, the dead are raised, and the poor are told the "
@@ -136,6 +169,10 @@ def build(bible: dict) -> list[str]:
         "blindness was the worst thing, and not because sight was the point, but because Isaiah had said that when "
         "God came, this is what it would look like. Blind people were not at the edge of that. We were the first "
         "thing on the list.")
+    add("[BREAK]")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[4]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[5]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[6]}")
     add("[BREAK]")
     add(f"[NARRATOR] (calm) {CLOSE}")
     add("[NARRATOR] (after a long pause) For we walk by faith, not by sight.")
