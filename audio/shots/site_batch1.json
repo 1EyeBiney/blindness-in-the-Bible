@@ -35,7 +35,7 @@
    "page": "stories/samson",
    "name": "05_samson",
    "prompt": "A vast pillared stone hall crowded with small distant figures on its roof and floor. In the middle, seen from behind and far off, a big man with cropped hair stands between two great central pillars, a hand on each, and a young servant stands beside him holding his arm. A shaft of light falls on him from above.",
-   "alt": "A vast pillared hall crowded with distant figures. In the middle, seen from behind, a big man with cropped hair stands between two great pillars, a hand on each, with a young servant beside him and light falling from above.",
+   "alt": "A vast pillared hall crowded with distant figures on its floor and roof. In the middle a big man stands with one hand on a great pillar, a young servant beside him holding his other hand, light falling on them from above.",
    "caption": "Samson asked the servant who held his hand to lead him to the pillars."
   },
   {
@@ -105,7 +105,7 @@
    "page": "stories/jabesh-gilead",
    "name": "15_jabesh_gilead",
    "prompt": "A small walled town on a hill at first light. In the valley below, a rescuing army in three columns streams toward a camp of tents. Seen from far off and high up, with the people of the town watching from their wall, seen from behind.",
-   "alt": "A small walled town on a hill at first light. In the valley below, an army in three columns streams toward a camp of tents, while the townspeople watch from their wall.",
+   "alt": "A small walled town on a hill at first light. In the valley below, an army streams in a long column toward a camp of tents, while the townspeople watch from their wall, seen from behind.",
    "caption": "Rescue came at dawn, before the sentence could be carried out."
   },
   {
