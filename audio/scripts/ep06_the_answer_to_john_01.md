@@ -16,7 +16,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* And it is the news that troubles him. He has been hearing things, secondhand, about a man he once pointed out to his own followers. What he hears does not sound like what he expected. He cannot go and see for himself. So he sends two friends, on a walk of four days, with one question.
 
-**Narrator** *(calm)* The answer he gets back begins with blind people.
+**Narrator** *(calm)* The answer he gets back ... begins with blind people.
 
 *(pause 1.5 s)*
 
