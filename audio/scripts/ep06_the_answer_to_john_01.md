@@ -124,9 +124,9 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 1.0 s)*
 
-**Brian** *(calm)* John the Baptist doubted. The man who pointed at Jesus and said, behold the Lamb of God, sat in a dungeon and sent people to ask, are you the one, or should we wait for somebody else. I find that enormously comforting. I think it means that having doubt while in a dark place is not a failure of faith. It is what faith sounds like when it is being tested, and it is allowed to ask.
+**Brian** *(calm)* John the Baptist doubted. The man who pointed at Jesus and said, behold the Lamb of God, sat in a dungeon and sent people to ask, are you the one, or should we wait for somebody else. For some reason, I find that enormously comforting. I think it means that having doubt while in a dark place is not a failure of faith. I think it is what faith sounds like when it is being tested, and it is allowed to ask.
 
-**Brian** *(calm)* Jesus did not answer with a sermon, or an argument, or a proclamation. He answered with people. Luke says that at that very hour He healed many, and gave sight to many who were blind, and then told John's messengers, go tell him what you have seen. When the question was, who are you, the answer began with blind people seeing. I have read that verse a hundred times and it still stops me.
+**Brian** *(calm)* Jesus did not answer with a sermon, or an argument, or a proclamation. He answered with people. Luke says that at that very hour He healed many, and gave sight to many who were blind, and then told John's messengers, go tell him what you have seen. When the question was, who are you, the answer began with blind people seeing. I have heard that verse so many times and it still stops me.
 
 ---
 
