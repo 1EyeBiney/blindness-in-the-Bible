@@ -139,10 +139,37 @@ STORY_PICTURES = {
     ],
 }
 
+# Pictures on other pages, by page name. "crop" is the part of the source to keep (left, top, right, bottom, in
+# source pixels) and "widths" overrides WIDTHS for a picture that is shown small.
+PAGE_PICTURES = {
+    "about": [
+        {"slot": "portrait", "source": "ep01_man_born_blind/00_brian_navy.png", "name": "about-brian-navy",
+         "crop": (860, 40, 1900, 1500), "widths": (400, 800),
+         "alt": "An old photograph, softened to match the site's paintings. Brian as a young sailor in Navy whites "
+                "and a white hat, smiling, with Patti beside him holding his arm. A small plate under the photograph "
+                "reads Mister Scaredy Cat.",
+         "caption": "Brian in his Navy days, with Patti. In the episodes, the voice that speaks Brian's words is "
+                    "introduced as Mister Scaredy Cat, because he would not use his own."},
+    ],
+}
+
+SOURCE_SIZE = (2752, 1536)   # every painting and map comes out of the tools at this size
+
+
+def widths(pic: dict) -> tuple:
+    return pic.get("widths", WIDTHS)
+
+
+def size(pic: dict) -> tuple:
+    """Width and height of the larger web file, so the page can reserve the space before the picture loads."""
+    left, top, right, bottom = pic.get("crop", (0, 0) + SOURCE_SIZE)
+    large = widths(pic)[-1]
+    return large, round(large * (bottom - top) / (right - left))
+
 
 def all_pictures() -> list[dict]:
     seen, found = set(), []
-    for pics in STORY_PICTURES.values():
+    for pics in list(STORY_PICTURES.values()) + list(PAGE_PICTURES.values()):
         for p in pics:
             if p["name"] not in seen:
                 seen.add(p["name"])

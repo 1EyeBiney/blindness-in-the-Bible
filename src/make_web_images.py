@@ -24,13 +24,17 @@ def main(remake: bool = False) -> None:
     made = 0
     for pic in images.all_pictures():
         src = SRC / pic["source"]
-        for w in images.WIDTHS:
+        for w in images.widths(pic):
             dst = OUT / f"{pic['name']}-{w}.jpg"
             if dst.exists() and not remake:
                 continue
             if not src.exists():
                 raise SystemExit(f"missing source painting: {src}")
             im = Image.open(src).convert("RGB")
+            if im.size != images.SOURCE_SIZE:
+                raise SystemExit(f"{src.name} is {im.size}, expected {images.SOURCE_SIZE}")
+            if "crop" in pic:
+                im = im.crop(pic["crop"])
             h = round(im.height * w / im.width)
             im.resize((w, h), Image.LANCZOS).save(dst, "JPEG", quality=82, optimize=True, progressive=True)
             made += 1

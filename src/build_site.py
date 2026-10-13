@@ -74,6 +74,9 @@ main p, main li, main blockquote, main dd { max-width: 44rem; }
 img { max-width: 100%; height: auto; }
 figure.pic { margin: 1.5rem 0; max-width: 44rem; }
 figure.pic.banner { max-width: none; margin-top: 1rem; }
+figure.pic.portrait { max-width: 22rem; }
+header.site .brand { display: flex; align-items: center; gap: .75rem; }
+header.site img.emblem { width: 3rem; height: 3rem; flex: none; }
 figure.pic img { display: block; width: 100%; border: 1px solid var(--rule); border-radius: .25rem; }
 figure.pic figcaption { color: var(--muted); font-size: 1rem; margin-top: .4rem; max-width: 44rem; }
 header.site { border-bottom: 2px solid var(--rule); padding: 1rem 0; }
@@ -110,7 +113,12 @@ def e(s) -> str:
     return html.escape(str(s), quote=True)
 
 
-def page(title: str, body: str, current: str, root: str = "") -> str:
+def page(title: str, body: str, current: str, root: str = "", share: dict | None = None) -> str:
+    """share: the picture shown when a link to this page is pasted into a message or a post, as
+    {"file": path under media/, "alt": its description}. Without one, the site's own share card is used."""
+    share = share or {"file": "share-card.jpg",
+                      "alt": "A painting of two men on the shore of the Sea of Galilee, one lifting his hands toward "
+                             "the water, with the words Not By Sight, studies on blindness in the Bible."}
     nav = [("index.html", "Home"), ("what-blind-means.html", "What blind means"), ("stories/index.html", "The stories"), ("law/index.html", "The law"),
            ("life/index.html", "Living blind, then"), ("picture/index.html", "Blindness as a picture"),
            ("walk-by-faith.html", "Walk by faith"),
@@ -127,14 +135,25 @@ def page(title: str, body: str, current: str, root: str = "") -> str:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(title)} | {SITE_NAME}</title>
 <meta name="description" content="{e(TAGLINE)}. For we walk by faith, not by sight.">
+<link rel="icon" href="{root}media/favicon.ico" sizes="any">
+<link rel="icon" href="{root}media/emblem.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{root}media/apple-touch-icon.png">
+<meta property="og:site_name" content="{SITE_NAME}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{e(title)} | {SITE_NAME}">
+<meta property="og:description" content="{e(TAGLINE)}. For we walk by faith, not by sight.">
+<meta property="og:image" content="https://{DOMAIN}/media/{e(share["file"])}">
+<meta property="og:image:alt" content="{e(share["alt"])}">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="{root}static/style.css">
 <script src="{root}static/display.js"></script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to main content</a>
 <header class="site"><div class="wrap">
-<p class="name">{SITE_NAME}</p>
-<p class="tag">{e(TAGLINE)}</p>
+<div class="brand"><img class="emblem" src="{root}media/emblem.svg" alt="" width="48" height="48">
+<div><p class="name">{SITE_NAME}</p>
+<p class="tag">{e(TAGLINE)}</p></div></div>
 <nav aria-label="Site"><ul>{links}</ul></nav>
 {display.panel_html(root)}
 </div></header>
@@ -253,16 +272,26 @@ def figure_html(pic: dict, root: str) -> str:
     """One picture: the description for screen readers, the caption for everyone, two sizes so a phone does not
     fetch the large file. The banner is fetched at once; the rest wait until the reader scrolls near them."""
     import images
-    small, large = images.WIDTHS
+    small, large = images.widths(pic)
     base = f"{root}media/images/{e(pic['name'])}"
-    height = round(large * 893 / 1600)
+    height = images.size(pic)[1]
     banner = pic["slot"] == "banner"
     wide = banner or pic["slot"] == "map"          # a map needs the full width for its lettering to be read
-    return (f'<figure class="pic{" banner" if wide else ""}">'
+    kind = " banner" if wide else (" portrait" if pic["slot"] == "portrait" else "")
+    return (f'<figure class="pic{kind}">'
             f'<img src="{base}-{large}.jpg" srcset="{base}-{small}.jpg {small}w, {base}-{large}.jpg {large}w" '
             f'sizes="(max-width: 60rem) 100vw, {"60rem" if wide else "44rem"}" width="{large}" height="{height}" '
             f'alt="{e(pic["alt"])}"{"" if banner else " loading=\"lazy\""}>'
             f'<figcaption>{e(pic["caption"])}</figcaption></figure>')
+
+
+def story_share(story: dict) -> dict | None:
+    """A story with a banner is shared with that banner."""
+    import images
+    pics = images.STORY_PICTURES.get(story["slug"])
+    if not pics:
+        return None
+    return {"file": f"images/{pics[0]['name']}-{images.widths(pics[0])[-1]}.jpg", "alt": pics[0]["alt"]}
 
 
 def listen_html(listen: dict | None, root: str) -> str:
@@ -474,6 +503,7 @@ ABOUT = """<h1>About</h1>
 trust new methods and new tools, like a white cane or a screen reader. That is why 2 Corinthians 5:7 has slowly
 become my verse.</p>
 <p>Brian Clark</p>
+BRIAN_PORTRAIT
 
 <h2>How the work is done</h2>
 <ul>
@@ -483,7 +513,8 @@ become my verse.</p>
 themes of sight, light and darkness come later.</li>
 <li>Blindness is a spectrum. The Bible's word for it means total blindness, and so do most pages here; the page on
 <a href="what-blind-means.html">what blind means</a> says so up front.</li>
-<li>The site is built for screen readers first: plain headings, real tables, no images that carry meaning.</li>
+<li>The site is built for screen readers first: plain headings, real tables, and a written description for every
+picture. Nothing is said only in a picture. The <a href="accessibility.html">accessibility page</a> has the rest.</li>
 </ul>
 
 <h2>The text</h2>
@@ -539,7 +570,9 @@ def render_all(out: Path = OUT) -> None:
     shutil.copy(DATA, out / "data" / "catalog.csv")
     (out / "index.html").write_text(page("Home", index_page(rows), "index.html"), encoding="utf-8")
     (out / "catalog.html").write_text(page("The catalog", catalog_page(rows), "catalog.html"), encoding="utf-8")
-    (out / "about.html").write_text(page("About", ABOUT, "about.html"), encoding="utf-8")
+    import images
+    about = ABOUT.replace("BRIAN_PORTRAIT", figure_html(images.PAGE_PICTURES["about"][0], ""))
+    (out / "about.html").write_text(page("About", about, "about.html"), encoding="utf-8")
     import stories as st
     import spectrum
     import how_made
@@ -581,7 +614,8 @@ def render_all(out: Path = OUT) -> None:
     order = [x for key, _, _ in st.GROUPS for x in st.STORIES if x["group"] == key]
     for story in st.STORIES:
         (out / "stories" / f"{story['slug']}.html").write_text(
-            page(story["title"], story_page(story, bible, order), "stories/index.html", root="../"), encoding="utf-8")
+            page(story["title"], story_page(story, bible, order), "stories/index.html", root="../",
+                 share=story_share(story)), encoding="utf-8")
 
 
 if __name__ == "__main__":

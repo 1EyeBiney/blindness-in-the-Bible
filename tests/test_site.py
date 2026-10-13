@@ -349,8 +349,22 @@ def test_story_pictures_are_described_made_and_placed(tmp_path):
         for p in pics:
             assert len(p["alt"]) >= 30 and p["caption"].endswith((".", "?")), p["name"]
             assert p["alt"] != p["caption"], p["name"]
-            for w in images.WIDTHS:
+            for w in images.widths(p):
                 f = ROOT / "media" / "images" / f"{p['name']}-{w}.jpg"
                 assert f.is_file() and f.stat().st_size < 600_000, f.name
                 assert (tmp_path / "media" / "images" / f.name).is_file(), f.name
         assert "imagined, not records" in pics[0]["caption"], slug   # paintings are announced as imagined
+
+
+def test_every_page_has_its_icons_and_a_share_picture_that_exists(tmp_path):
+    build_site.render_all(tmp_path)
+    for p in tmp_path.rglob("*.html"):
+        h = p.read_text(encoding="utf-8")
+        og = re.search(r'<meta property="og:image" content="https://blindnessinthebible.com/([^"]+)">', h)
+        assert og and (tmp_path / og.group(1)).is_file(), p.name
+        assert re.search(r'<meta property="og:image:alt" content="[^"]{30,}">', h), p.name
+        assert h.count('class="emblem"') == 1 and 'class="emblem" src' in h and 'alt="" width="48"' in h, p.name
+    story = (tmp_path / "stories" / "bartimaeus.html").read_text(encoding="utf-8")
+    assert "media/images/bartimaeus-the-crowd-stops-1600.jpg" in story.split("</head>")[0]
+    about = (tmp_path / "about.html").read_text(encoding="utf-8")
+    assert about.count("<figure") == 1 and "Mister Scaredy Cat" in about and "BRIAN_PORTRAIT" not in about
