@@ -32,6 +32,9 @@ EPISODES = [
 TRAILER = {"youtube": "2TDaUBlFbgc", "mp3": "not_by_sight_00_trailer.mp3", "minutes": 4,
            "title": "Not By Sight: the trailer"}
 
+# The YouTube playlist that joins the trailer and every episode, in order.
+PLAYLIST = "https://www.youtube.com/playlist?list=PLSZO9vlYl7pE"
+
 INTRO = [
     "Each story of sight given by Jesus is also an episode of about twenty minutes, made for listening. You will "
     "hear the passage read word for word from the Berean Standard Bible, the place and the time, an imagined scene "

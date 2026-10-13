@@ -438,3 +438,4 @@ def test_the_trailer_is_on_the_home_page_and_the_episodes_page(tmp_path):
     assert 'href="episodes.html">All the episodes</a>' in home
     eps = (tmp_path / "episodes.html").read_text(encoding="utf-8")
     assert eps.index("Start here: the trailer") < eps.index("Episode 1:") and f'watch?v={t["youtube"]}' in eps
+    assert ep.PLAYLIST.startswith("https://www.youtube.com/playlist?list=") and eps.count(ep.PLAYLIST) == 1

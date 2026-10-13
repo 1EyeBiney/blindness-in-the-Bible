@@ -333,7 +333,9 @@ def episodes_page() -> str:
         + trailer_html("", video=False) +
         f'<ul><li><a href="media/{e(ep.TRAILER["mp3"])}">Download the trailer as an MP3</a></li>'
         f'<li><a href="https://www.youtube.com/watch?v={e(ep.TRAILER["youtube"])}">Watch the trailer on YouTube</a>, '
-        f"with pictures and captions</li></ul></section>")
+        f"with pictures and captions</li>"
+        f'<li><a href="{e(ep.PLAYLIST)}">Watch everything in order as a YouTube playlist</a>: the trailer, then each episode</li>'
+        f"</ul></section>")
     for number, title, passage, slugs, about in ep.EPISODES:
         first = by_slug[slugs[0]]
         listen = first["listen"]
