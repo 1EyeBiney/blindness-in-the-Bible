@@ -1,0 +1,26 @@
+@project: trailer_v1
+@section: 1
+@cast: casts/not_by_sight.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Not By Sight: the trailer. The NEW lines only, as approved by Brian on 13 October 2026 (audio/scripts/trailer_01.md).
+# Two clips are reused from episode 1 and are not rendered here: the cold open (section 001) before line 001,
+# and the man's first words (section 010, trimmed after "Wash.") after line 002.
+
+[NARRATOR] (calm) This is Not By Sight. Stories of blind people in the Bible, made for listening, by a blind man who went looking for what Scripture says about people like him.
+[BREAK]
+[NARRATOR] (calm) In every episode you will hear the passage itself, read word for word. You will hear about the place and the time. And you will be asked to imagine.
+[BREAK]
+[NARRATOR] (calm) And you will hear from Brian. Or rather, from the voice Brian picked for himself. Around here we call it Mister Scaredy Cat. The voice is not his, but the words are.
+[PAUSE 1.0]
+[BRIAN] (calm) I started this study to find out what the Bible says about blindness, now that I am on this side of the curtain. I did not expect how much comfort I would find. I did not expect how often the blind are there, or how much they mattered to the work of Jesus. Again and again, when a blind person is healed, it points everyone around them to who He really is.
+[BREAK]
+[BRIAN] (calm) I come to these stories with a new view of the world. I also come to them a more mature man than I was, in body and in spirit.
+[BREAK]
+[BRIAN] (calm) Our church wants to help people in their walk with Jesus. That is my hope here. For my fellow blind Christians, and for anyone hearing these stories for the first time, I hope you discover how precious we all are to Jesus, whatever our eyes can or cannot do.
+[PAUSE 1.0]
+[READER] (plainly) For we walk by faith, not by sight.
+[NARRATOR] (calm) Second Corinthians, chapter 5, verse 7.
+[BREAK]
+[NARRATOR] (calm) Not By Sight. Every episode is free, on YouTube and at blindness in the Bible dot com. Start anywhere. Come and listen.
