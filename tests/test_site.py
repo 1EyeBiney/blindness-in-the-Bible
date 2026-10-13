@@ -48,14 +48,17 @@ def test_blindfold_verses_are_set_aside():
 
 def test_site_builds_and_is_accessible(tmp_path):
     build_site.render_all(tmp_path)
-    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "catalog.html", "check-our-work.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html"]
+    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "accessibility.html", "catalog.html", "check-our-work.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html"]
     pages = sorted(tmp_path.rglob("*.html"))
     for p in pages:
         h = p.read_text(encoding="utf-8")
         assert '<html lang="en">' in h and h.count("<h1>") == 1, p.name
         assert 'href="#main"' in h and 'id="main"' in h, p.name
         assert h.count('aria-current="page"') == 1, p.name
-        assert "<img" not in h and "<script" not in h, p.name
+        # the only script is the reading-settings one, and every picture has a description (or alt="" if decorative)
+        assert re.findall(r"<script[^>]*>", h) == [f'<script src="{"../" if p.parent != tmp_path else ""}static/display.js">'], p.name
+        assert all(re.search(r'\balt="', m) for m in re.findall(r"<img[^>]*>", h)), p.name
+        assert "style=" not in h, p.name
         for m in re.finditer(r"<iframe[^>]*>", h):
             assert 'title="' in m.group(0) and "youtube-nocookie.com/embed/" in m.group(0), p.name
         for href in re.findall(r'href="([^"#]+)"', h):
@@ -272,3 +275,52 @@ def test_the_man_born_blind_has_its_episode(tmp_path):
     assert "Listen to this story" in h and "<audio controls" in h and "embed/y-fccElFytM" in h
     assert (tmp_path / "media" / story["listen"]["mp3"]).is_file()
     assert h.index("Listen to this story") < h.index("What led up to it")
+
+
+def _luminance(hex_colour):
+    def chan(v):
+        v /= 255
+        return v / 12.92 if v <= 0.03928 else ((v + 0.055) / 1.055) ** 2.4
+    r, g, b = (int(hex_colour[i:i + 2], 16) for i in (1, 3, 5))
+    return 0.2126 * chan(r) + 0.7152 * chan(g) + 0.0722 * chan(b)
+
+
+def _contrast(a, b):
+    hi, lo = sorted((_luminance(a), _luminance(b)), reverse=True)
+    return (hi + 0.05) / (lo + 0.05)
+
+
+def test_every_colour_set_meets_enhanced_contrast():
+    """WCAG AAA asks 7 to 1 for text. Every colour set meets it for text, quiet text and links, on the page
+    background and on the table-head background. Rules and borders meet the 3 to 1 asked of non-text parts."""
+    import display
+    for name, t in display.THEMES.items():
+        for part in ("fg", "muted", "link"):
+            for ground in ("bg", "head"):
+                assert _contrast(t[part], t[ground]) >= 7, f"{name}: {part} on {ground} is {_contrast(t[part], t[ground]):.2f}"
+        assert _contrast(t["rule"], t["bg"]) >= 3, f"{name}: rule on bg"
+    for name in ("contrast-light", "contrast-dark", "yellow"):
+        assert _contrast(display.THEMES[name]["fg"], display.THEMES[name]["bg"]) >= 15, name
+
+
+def test_reading_settings_panel_is_on_every_page_and_is_labelled(tmp_path):
+    import display
+    build_site.render_all(tmp_path)
+    js = (tmp_path / "static" / "display.js").read_text(encoding="utf-8")
+    css = (tmp_path / "static" / "style.css").read_text(encoding="utf-8")
+    for key, (legend, choices) in display.OPTIONS.items():
+        assert choices[0][0] == "", key              # the first choice is always the standard one
+        for value, _ in choices[1:]:
+            assert f'data-{key}="{value}"' in css, (key, value)   # every choice offered does something
+    assert set(v for v, _ in display.OPTIONS["theme"][1] if v) == set(display.THEMES)
+    assert "localStorage" in js and "http" not in js  # kept on the device, sent nowhere
+    for p in tmp_path.rglob("*.html"):
+        h = p.read_text(encoding="utf-8")
+        panel = h[h.index('<details class="display"'):h.index("</details>", h.index('<details class="display"'))]
+        assert " hidden>" in panel.split("<summary>")[0], p.name      # hidden until the script is known to run
+        assert panel.count("<fieldset>") == panel.count("<legend>") == len(display.OPTIONS), p.name
+        assert panel.count("<label>") == panel.count('type="radio"'), p.name
+        assert 'role="status"' in panel and "accessibility.html" in panel, p.name
+        assert h.index("</nav>") < h.index('<details class="display"') < h.index('<main id="main">'), p.name
+    cat = (tmp_path / "catalog.html").read_text(encoding="utf-8")
+    assert cat.count('class="table-scroll" role="region" tabindex="0" aria-label="') == cat.count("<table>")

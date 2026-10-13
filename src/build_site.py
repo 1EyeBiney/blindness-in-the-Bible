@@ -59,22 +59,25 @@ SUB_TITLES = {
 FOUND = {"word": "Uses the word", "described": "Described without the word"}
 CONF = {"high": "Clear", "medium": "Open to another reading", "low": "Uncertain"}
 
-CSS = """
-:root { --bg:#ffffff; --fg:#1a1a1a; --muted:#4a4a4a; --link:#0b3d91; --rule:#b8b8b8; --head:#f0f0f0; }
-@media (prefers-color-scheme: dark) {
-  :root { --bg:#121212; --fg:#f2f2f2; --muted:#cfcfcf; --link:#9cc4ff; --rule:#5a5a5a; --head:#222222; }
-}
+import display  # noqa: E402  (colour sets, the reading-settings panel and its script)
+
+CSS = display.theme_css() + """
 * { box-sizing: border-box; }
 body { margin:0; background:var(--bg); color:var(--fg); font: 1.125rem/1.6 Georgia, "Times New Roman", serif; }
 .wrap { max-width: 60rem; margin: 0 auto; padding: 0 1rem; }
-a { color: var(--link); }
-a:focus, summary:focus { outline: 3px solid var(--link); outline-offset: 2px; }
+a { color: var(--link); text-decoration: underline; text-decoration-thickness: .08em; text-underline-offset: .15em; }
+a:hover { text-decoration-thickness: .16em; }
+:focus-visible { outline: 3px solid var(--link); outline-offset: 2px; }
 .skip { position:absolute; left:-999px; }
-.skip:focus { position:static; display:inline-block; padding:.5rem; }
+.skip:focus { position:static; display:inline-block; padding:.5rem; font-weight:bold; }
+main p, main li, main blockquote, main dd { max-width: 44rem; }
+img { max-width: 100%; height: auto; }
 header.site { border-bottom: 2px solid var(--rule); padding: 1rem 0; }
 header.site p.name { font-size: 1.5rem; font-weight: bold; margin: 0; }
 header.site p.tag { margin: 0; color: var(--muted); }
-nav ul { list-style: none; padding: 0; margin: .5rem 0 0; display: flex; flex-wrap: wrap; gap: 1rem; }
+nav ul { list-style: none; padding: 0; margin: .5rem 0 0; display: flex; flex-wrap: wrap; gap: .25rem 1rem; }
+nav a { display: inline-block; padding: .2rem 0; }
+nav a[aria-current="page"] { font-weight: bold; text-decoration-thickness: .16em; }
 h1 { font-size: 2rem; line-height: 1.25; }
 h2 { font-size: 1.5rem; margin-top: 2.5rem; border-top: 1px solid var(--rule); padding-top: 1rem; }
 h3 { font-size: 1.2rem; }
@@ -90,12 +93,13 @@ code { font-family: ui-monospace, Consolas, "Courier New", monospace; font-size:
 pre { background: var(--head); border: 1px solid var(--rule); padding: .75rem; overflow-x: auto; font-size: 1rem; }
 pre code { background: none; padding: 0; }
 .table-scroll { overflow-x: auto; }
+@media (forced-colors: active) { details.display summary, thead th { border: 2px solid CanvasText; } }
 table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
 caption { text-align: left; font-weight: bold; padding: .5rem 0; }
 th, td { border: 1px solid var(--rule); padding: .5rem; text-align: left; vertical-align: top; }
 thead th { background: var(--head); }
 footer { border-top: 2px solid var(--rule); margin-top: 3rem; padding: 1rem 0 2rem; color: var(--muted); font-size: 1rem; }
-"""
+""" + display.CSS
 
 
 def e(s) -> str:
@@ -107,7 +111,8 @@ def page(title: str, body: str, current: str, root: str = "") -> str:
            ("life/index.html", "Living blind, then"), ("picture/index.html", "Blindness as a picture"),
            ("walk-by-faith.html", "Walk by faith"),
            ("catalog.html", "The catalog"), ("how-it-was-made.html", "How it was made"),
-           ("check-our-work.html", "Check our work"), ("about.html", "About")]
+           ("check-our-work.html", "Check our work"), ("accessibility.html", "Accessibility"),
+           ("about.html", "About")]
     links = "".join(
         f'<li><a href="{root}{href}"{" aria-current=\"page\"" if href == current else ""}>{e(label)}</a></li>'
         for href, label in nav)
@@ -119,6 +124,7 @@ def page(title: str, body: str, current: str, root: str = "") -> str:
 <title>{e(title)} | {SITE_NAME}</title>
 <meta name="description" content="{e(TAGLINE)}. For we walk by faith, not by sight.">
 <link rel="stylesheet" href="{root}static/style.css">
+<script src="{root}static/display.js"></script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to main content</a>
@@ -126,6 +132,7 @@ def page(title: str, body: str, current: str, root: str = "") -> str:
 <p class="name">{SITE_NAME}</p>
 <p class="tag">{e(TAGLINE)}</p>
 <nav aria-label="Site"><ul>{links}</ul></nav>
+{display.panel_html(root)}
 </div></header>
 <main id="main"><div class="wrap">
 {body}
@@ -184,7 +191,8 @@ def table(rows: list[dict], caption: str) -> str:
         f'<td>{story_cell(r)}</td>'
         f'<td>{e(FOUND[r["found_by"]])}</td><td>{e(CONF[r["confidence"]])}</td><td>{e(r["note"])}</td></tr>'
         for r in rows)
-    return (f'<div class="table-scroll"><table><caption>{e(caption)}</caption>'
+    return (f'<div class="table-scroll" role="region" tabindex="0" aria-label="{e(caption)}, table">'
+            f'<table><caption>{e(caption)}</caption>'
             f"<thead><tr>{head}</tr></thead><tbody>{body}</tbody></table></div>")
 
 
@@ -499,6 +507,8 @@ def render_all(out: Path = OUT) -> None:
             if f.is_file():
                 shutil.copy(f, out / "media" / f.name)
     (out / "static" / "style.css").write_text(CSS, encoding="utf-8")
+    (out / "static" / "display.js").write_text(display.script(), encoding="utf-8", newline="\n")
+    (out / display.SLUG).write_text(page(display.TITLE, display.BODY, display.SLUG), encoding="utf-8")
     shutil.copy(DATA, out / "data" / "catalog.csv")
     (out / "index.html").write_text(page("Home", index_page(rows), "index.html"), encoding="utf-8")
     (out / "catalog.html").write_text(page("The catalog", catalog_page(rows), "catalog.html"), encoding="utf-8")
