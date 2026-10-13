@@ -1,0 +1,140 @@
+{
+ "_comment": "Site pictures, first group of 19: a banner for each story without an episode (the Jebusite taunt reuses episode 5's painting of David's city, and the answer to John waits for episode 6), plus the home page and three section fronts. 'page' is where it goes; 'name' is the file name; the prompt follows the standing prompt in docs/IMAGE_STYLE.md.",
+ "folder": "site_batch1",
+ "style": "Generate a 16:9 image. Painterly oil-sketch look, visible brushwork, warm natural light, the land and buildings of ancient Israel and its neighbours. No faces shown close up: people are seen from behind or at a distance. No text or lettering anywhere in the image. No modern objects. Calm and hopeful in mood, never frightening or graphic.",
+ "pictures": [
+  {
+   "page": "stories/isaac",
+   "name": "01_isaac",
+   "prompt": "Inside a goat-hair tent in lamplight, a very old man seated on cushions reaches out both hands to feel the forearm of a younger man kneeling before him, who holds a bowl of food and has goatskin wrapped on his arms. Seen from behind the kneeling man.",
+   "alt": "Inside a tent in lamplight, a very old man on cushions reaches out both hands to feel the forearm of a younger man kneeling before him with a bowl of food, seen from behind.",
+   "caption": "The voice is the voice of Jacob, but the hands are the hands of Esau. Genesis 27:22."
+  },
+  {
+   "page": "stories/jacob",
+   "name": "02_jacob",
+   "prompt": "In a simple room in ancient Egypt, a very old man sits on the edge of a bed with his arms crossed over one another, a hand resting on the head of each of two boys kneeling in front of him. Their father stands at the side, reaching toward the old man's hand. Seen from behind the boys.",
+   "alt": "A very old man sits on a bed with his arms crossed, a hand on the head of each of two kneeling boys, while their father reaches to move one hand. Seen from behind the boys.",
+   "caption": "Jacob crosses his hands, and will not be corrected."
+  },
+  {
+   "page": "stories/eli",
+   "name": "03_eli",
+   "prompt": "Night inside the tent sanctuary at Shiloh. An old priest lies on a sleeping mat, raised on one elbow, and a small boy stands beside him. A single golden lampstand burns in the background before heavy woven curtains. Seen from a distance.",
+   "alt": "Night in the sanctuary at Shiloh. An old priest raised on one elbow on his sleeping mat, a small boy standing beside him, one lampstand burning before heavy curtains.",
+   "caption": "The boy heard the voice. The old blind priest knew whose it was."
+  },
+  {
+   "page": "stories/ahijah",
+   "name": "04_ahijah",
+   "prompt": "Inside a plain stone house, an old prophet sits facing the open doorway, seen from behind. On the threshold, dark against the bright daylight outside, a cloaked and hooded woman carrying loaves of bread and a jar is just stepping in.",
+   "alt": "An old prophet sits inside a plain stone house, seen from behind, facing the bright doorway where a cloaked, hooded woman carrying bread and a jar is just stepping in.",
+   "caption": "He heard her footsteps at the door and greeted her by name."
+  },
+  {
+   "page": "stories/samson",
+   "name": "05_samson",
+   "prompt": "A vast pillared stone hall crowded with small distant figures on its roof and floor. In the middle, seen from behind and far off, a big man with cropped hair stands between two great central pillars, a hand on each, and a young servant stands beside him holding his arm. A shaft of light falls on him from above.",
+   "alt": "A vast pillared hall crowded with distant figures. In the middle, seen from behind, a big man with cropped hair stands between two great pillars, a hand on each, with a young servant beside him and light falling from above.",
+   "caption": "Samson asked the servant who held his hand to lead him to the pillars."
+  },
+  {
+   "page": "stories/zedekiah",
+   "name": "06_zedekiah",
+   "prompt": "A long column of captives walks away across a wide flat plain beside a broad river toward a far-off city with a stepped tower, in evening light. Near the back one man in a torn royal robe is guided by the arm by another captive. All seen from behind and at a distance.",
+   "alt": "A long column of captives walks across a flat plain by a broad river toward a far city with a stepped tower. Near the back a man in a torn royal robe is guided by the arm. All seen from behind.",
+   "caption": "The last king of Judah, led to Babylon."
+  },
+  {
+   "page": "stories/men-of-sodom",
+   "name": "07_men_of_sodom",
+   "prompt": "A narrow street in a walled town at night. A crowd of men feel their way along a house wall with outstretched hands, turned in every direction, while a few steps away a closed wooden door goes unnoticed, warm lamplight showing beneath it. Seen from a distance, from behind.",
+   "alt": "A narrow street at night. A crowd of men feel their way along a house wall with outstretched hands, turned every way, while a closed door a few steps off goes unnoticed, lamplight showing beneath it.",
+   "caption": "They wearied themselves trying to find the door. Genesis 19:11."
+  },
+  {
+   "page": "stories/aramean-raiders",
+   "name": "08_aramean_raiders",
+   "prompt": "Dawn over a small walled hill town. On the wall, two small figures seen from behind look out. Below them an army camp rings the town, and above the camp the surrounding hills are filled with glowing horses and chariots of fire, bright gold against the dark slopes.",
+   "alt": "Dawn over a small walled hill town. Two small figures on the wall look out past an army camped below, to hills filled with glowing horses and chariots of fire.",
+   "caption": "The servant's eyes were opened first, and he saw that the hills were full of horses and chariots of fire."
+  },
+  {
+   "page": "stories/saul-on-the-damascus-road",
+   "name": "09_saul",
+   "prompt": "A dusty road in bright noon light leading to the gate of a walled city among orchards. A man walks with his head lowered, led by the hand by one companion while another steadies his shoulder. All seen from behind.",
+   "alt": "A dusty road in bright noon light, leading to the gate of a walled city among orchards. A man with his head lowered is led by the hand by one companion while another steadies his shoulder, all seen from behind.",
+   "caption": "So they led him by the hand into Damascus. Acts 9:8."
+  },
+  {
+   "page": "stories/elymas",
+   "name": "10_elymas",
+   "prompt": "A Roman governor's hall with marble columns and a tiled floor. A man in a dark robe, seen from behind, reaches out with both hands as a pale mist gathers around him, and bystanders step back. At the far end a Roman official sits forward in his chair. Seen from a distance.",
+   "alt": "A Roman governor's hall with marble columns. A man in a dark robe, seen from behind, reaches out with both hands as a pale mist gathers around him, and a Roman official at the far end sits forward in his chair.",
+   "caption": "He groped about, seeking someone to lead him by the hand. Acts 13:11."
+  },
+  {
+   "page": "stories/pool-of-bethesda",
+   "name": "11_pool_of_bethesda",
+   "prompt": "A large rectangular stone pool surrounded by shaded colonnades in Jerusalem. Many people lie and sit on mats in the shade along its edge. In the middle distance one man is getting to his feet from his mat, seen from behind. Sunlight on the water.",
+   "alt": "A large stone pool surrounded by shaded colonnades. Many people lie and sit on mats along its edge, and in the middle distance one man is getting to his feet.",
+   "caption": "On these walkways lay a great number of the sick, the blind, the lame, and the paralyzed. John 5:3."
+  },
+  {
+   "page": "stories/the-banquet",
+   "name": "12_the_banquet",
+   "prompt": "A lamplit courtyard at evening with a long low table spread with bread, fruit and wine. At the open gate a servant is welcoming in people from the street: one led by the hand, one on a crutch, one in patched clothes. Seen from behind the newcomers.",
+   "alt": "A lamplit courtyard with a long table spread for a feast. At the open gate a servant welcomes in people from the street: one led by the hand, one on a crutch, one in patched clothes, seen from behind.",
+   "caption": "Bring in the poor, the crippled, the blind, and the lame. Luke 14:21."
+  },
+  {
+   "page": "stories/the-return",
+   "name": "13_the_return",
+   "prompt": "A great company of people walks a broad, level road beside a clear stream toward green hills in morning light. Among them are people led by the hand, people on crutches, and mothers carrying infants. All seen from behind.",
+   "alt": "A great company walks a broad, level road beside a clear stream toward green hills in morning light. Among them are people led by the hand, people on crutches, and mothers carrying infants.",
+   "caption": "Beside streams of waters, on a level path where they will not stumble. Jeremiah 31:9."
+  },
+  {
+   "page": "stories/job",
+   "name": "14_job",
+   "prompt": "The gate of an ancient town with elders seated on stone benches in its shade. A well-dressed man walks through the gate with a second man's hand resting on his arm, guiding him over the uneven paving. Both seen from behind.",
+   "alt": "The gate of an ancient town, elders seated on stone benches in its shade. A well-dressed man walks through with a second man's hand resting on his arm, guiding him over the paving. Both seen from behind.",
+   "caption": "I served as eyes to the blind and as feet to the lame. Job 29:15."
+  },
+  {
+   "page": "stories/jabesh-gilead",
+   "name": "15_jabesh_gilead",
+   "prompt": "A small walled town on a hill at first light. In the valley below, a rescuing army in three columns streams toward a camp of tents. Seen from far off and high up, with the people of the town watching from their wall, seen from behind.",
+   "alt": "A small walled town on a hill at first light. In the valley below, an army in three columns streams toward a camp of tents, while the townspeople watch from their wall.",
+   "caption": "Rescue came at dawn, before the sentence could be carried out."
+  },
+  {
+   "page": "index",
+   "name": "16_home",
+   "prompt": "A dirt road climbs from a shadowed valley toward bare golden hills at sunrise. A single traveller with a wooden staff, seen from behind, walks up the road into the light. Wide sky, the lower third of the picture calm and dark.",
+   "alt": "A dirt road climbs from a shadowed valley toward golden hills at sunrise. A single traveller with a staff, seen from behind, walks up the road into the light.",
+   "caption": "For we walk by faith, not by sight. 2 Corinthians 5:7."
+  },
+  {
+   "page": "stories/index",
+   "name": "17_stories_front",
+   "prompt": "A long road winding through the whole land, from goat-hair tents in the foreground, past a village and a lake, to a walled city on a hill far away. Small groups of travellers are scattered along it, some walking arm in arm. Seen from high up, soft morning light.",
+   "alt": "A long road winds through the land, from tents in the foreground, past a village and a lake, to a walled city on a far hill, with small groups of travellers along it, some arm in arm.",
+   "caption": "From the tents of Genesis to the streets of Jerusalem."
+  },
+  {
+   "page": "law/index",
+   "name": "18_law_front",
+   "prompt": "A great camp of tents on a desert plain at the foot of a tall bare mountain at dawn. In the foreground a clear footpath runs between the tents, and a man, seen from behind, is lifting a large stone out of the path.",
+   "alt": "A great camp of tents at the foot of a tall bare mountain at dawn. In the foreground a man, seen from behind, lifts a large stone out of a footpath between the tents.",
+   "caption": "You must not place a stumbling block before the blind. From Leviticus 19:14."
+  },
+  {
+   "page": "life/index",
+   "name": "19_life_front",
+   "prompt": "A village street in ancient Israel in the morning. A woman grinds grain at a doorway, a potter works at a wheel, people draw water at a well, and a man with a staff walks down the street with his hand on a boy's shoulder. Seen from behind and at a distance.",
+   "alt": "A village street in the morning. A woman grinds grain at a doorway, a potter works at a wheel, people draw water at a well, and a man with a staff walks with his hand on a boy's shoulder.",
+   "caption": "An ordinary morning, in a village where a blind neighbour was part of the street."
+  }
+ ]
+}

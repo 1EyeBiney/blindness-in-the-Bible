@@ -137,6 +137,11 @@ STORY_PICTURES = {
          "alt": "The series map, with Jerusalem marked in gold.",
          "caption": "The map, in words. Jerusalem sits in the hills west of the north end of the Dead Sea. The Temple Mount is on the east side of the city. The road from Jericho comes in from two o'clock, about seven hours' walk."},
     ],
+    "the-jebusite-taunt": [
+        {"slot": "banner", "source": "ep05_the_blind_in_the_crowd/10_davids_city.png", "name": "the-temple-davids-city",
+         "alt": "An ancient walled fortress on a narrow ridge above a deep valley, an army camped far below: Jerusalem on the day David took it.",
+         "caption": "The fortress the Jebusites said even the blind and the lame could hold. The pictures on this page are paintings made for the episode. They are imagined, not records."},
+    ],
 }
 
 # Pictures on other pages, by page name. "crop" is the part of the source to keep (left, top, right, bottom, in
