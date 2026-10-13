@@ -1,4 +1,4 @@
-# Not By Sight, episode 6: The answer to John
+	# Not By Sight, episode 6: The answer to John
 
 Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
@@ -76,7 +76,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **John** *(calm)* Go on.
 
-**Disciple** *(excited)* He was old, and someone had him by the arm, and Jesus touched his face, and the man looked up, and he started to cry and to laugh at the same time, and he kept looking at his own hands. More than one. Many. We lost count.
+**Disciple** *(excited)* He was old, and someone had him by the arm, and Jesus touched his face, and the man looked up, and he started to cry and to laugh at the same time, and he kept looking at his own hands. There were so many! More than one. So many. We lost count.
 
 **John** *(whisper)* The eyes of the blind will be opened.
 
@@ -133,3 +133,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 **Narrator** *(calm)* This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot com. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
 
 **Narrator** *(after a long pause)* For we walk by faith, not by sight.
+
+
+additional thoughts: surprisingly the part of this episode that rings true to me today is the part Jesus binding up the broken hearted. Truth be told, the lines of work that all in our house do put us directly in the path of the broken hearted. It is a lifestyle, one that is far more difficult that most can imagine, but I am grateful for what it has done to my heart. It keeps me humble. It helps me honor othors as God wants us to do for we are all created in His image. I know that someday I will see again.I've always known that because I was blessed to have my parents lead me to the Lord when I was very young.
+Blindness is the second worst fear amongst people and I take no solace from that, but I can tell you that it is not something to fear at all. scares me are those that have to csarry this burden without knowing the grace and mercy of our Savior and what lies ahead for those of us that belong to Him.
