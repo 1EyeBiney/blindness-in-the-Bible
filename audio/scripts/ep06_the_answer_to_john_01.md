@@ -28,7 +28,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* First, where we are. John the Baptist baptised Jesus in the Jordan and pointed Him out to his own followers. Then John rebuked Herod Antipas for taking his brother's wife, and Herod put him in prison. Josephus, the Jewish historian, names the prison: Machaerus, a fortress east of the Dead Sea, on the frontier. Edersheim describes it as a stronghold on sheer cliffs, built by one Jewish king and enlarged by Herod the Great, with a palace at the top and dungeons cut into the rock below. John the Baptist, would die there.
+**Narrator** *(calm)* First, where we are. John the Baptist baptised Jesus in the Jordan and pointed Him out to his own followers. Then John rebuked Herod Antipas for taking his brother's wife, and Herod put him in prison. Josephus, the Jewish historian, names the prison: Machaerus, a fortress east of the Dead Sea, on the frontier. Edersheim describes it as a stronghold on sheer cliffs, built by one Jewish king and enlarged by Herod the Great, with a palace at the top and dungeons cut into the rock below. John the Baptist would die there.
 
 **Narrator** *(calm)* Where this is. Machaerus stands on the far side of the Dead Sea from everything else in this series, and it is the farthest south we go. Stand on its walls and face north, with north at twelve o'clock. Jericho is at eleven o'clock and Jerusalem at ten, and although both are close as the bird flies, the Dead Sea lies in between, so a messenger had to walk round its northern end: about two days to Jerusalem by way of Jericho. Straight ahead at twelve o'clock, up the whole length of the Jordan, is Galilee, where Jesus was. Nazareth, Capernaum and Bethsaida are all about four days' walk. That is how far John's two friends had to go to ask one question, and how far they had to come back with the answer.
 
@@ -48,8 +48,24 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* Blessed is the one who does not fall away on account of Me.”
 
-**Narrator** *(calm)* Are You the One who was to come, or should we look for someone else? That is the whole question. Henry offers three reasons John might have sent it: he wanted to be sure for himself; the long imprisonment had made him wonder why Jesus did not help him; or he sent his followers so that they would see for themselves and attach themselves to Jesus after he was gone. And Luke tells us what Jesus did before He answered a word. At that very hour He healed many, and gave sight to many who were blind. Henry takes the words literally: they stayed perhaps an hour, and in that hour saw enough. Then He told them what to say.
-[expand that, give the 3 reasons room to breather and be digested]
+**Narrator** *(calm)* Are You the One who was to come, or should we look for someone else? That is the whole question. And it comes from the last man you would expect to ask it. Why would John, of all people, send it? Matthew Henry offers three possible reasons, and they are worth taking one at a time.
+
+**Narrator** *(calm)* The first is the plainest. John wanted to be sure, for himself. He had given his whole life to announcing this man, and a prisoner has a great deal of time to think.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* The second is harder to hear. John had been in that cell a long time. The One he had announced was free, and healing strangers, and had not come for him. Henry suggests that the long imprisonment had made John wonder why Jesus did not help him.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* The third is the kindest to John. Perhaps he was not asking for himself at all. He knew he might never leave that place. So he sent his followers to see Jesus with their own eyes, so that when he was gone, they would know whom to follow.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* We are not told which it was. And a person can ask one question for more than one reason.
+
+**Narrator** *(calm)* Whatever the reason, Luke tells us what Jesus did before He answered a word. At that very hour He healed many, and gave sight to many who were blind. Henry takes the words literally: the messengers stayed perhaps an hour, and in that hour saw enough. Then He told them what to say.
+
 ---
 
 **Narrator** *(calm)* To hear the answer the way John heard it, you have to know what John knew. Jesus's reply is built out of the prophet Isaiah. Here is the first passage, from a chapter about the day God Himself would come.
@@ -78,11 +94,11 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Disciple** *(calm)* Teacher. We are back. Yes, it is us, both of us. Sit, please, you should sit.
 
-**John** *(calm)* Well? Did you ask him? What did He say?
+**John** *(calm)* Well? Did you ask him? What did he say?
 
 **Disciple** *(calm)* We asked him exactly as you said. Are you the one who was to come, or do we wait for another.
 
-**John** *(curious)* And what did he say?
+**John** *(curious)* And his answer?
 
 **Disciple** *(calm)* At first, nothing. He went on with what he was doing. There was a crowd, as there always is, and people were being brought to him. We stood there an hour. A man who had been carried in walked out. A woman who was bent double stood up straight. And there was a blind man.
 
@@ -108,15 +124,15 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 1.0 s)*
 
-**Brian** *(calm)* John the Baptist doubted. The man who pointed at Jesus and said, behold the Lamb of God, sat in a dungeon and sent people to ask, are you the one, or should we wait for somebody else. I find that enormously comforting. I think it means that having Doubt while in a dark place is not a failure of faith. It is what faith sounds like when it is being tested, and it is allowed to ask.
+**Brian** *(calm)* John the Baptist doubted. The man who pointed at Jesus and said, behold the Lamb of God, sat in a dungeon and sent people to ask, are you the one, or should we wait for somebody else. I find that enormously comforting. I think it means that having doubt while in a dark place is not a failure of faith. It is what faith sounds like when it is being tested, and it is allowed to ask.
 
 **Brian** *(calm)* Jesus did not answer with a sermon, or an argument, or a proclamation. He answered with people. Luke says that at that very hour He healed many, and gave sight to many who were blind, and then told John's messengers, go tell him what you have seen. When the question was, who are you, the answer began with blind people seeing. I have read that verse a hundred times and it still stops me.
 
 ---
 
-**Narrator** *(calm)* Matthew tells the same exchange more briefly, and we will hear it, because it adds one thing: Matthew says John heard in prison about the works of Christ. It was the works that reached him, through the walls.
+**Narrator** *(calm)* Matthew tells the same exchange more briefly, and we will hear it, for two reasons. Matthew says John heard in prison about the works of Christ. It was the works that reached him, through the walls. And Matthew goes straight on to what Jesus said next, once John's friends had started for home.
 
-**Narrator** *(calm)* Matthew chapter 11, verses 2 to 6.
+**Narrator** *(calm)* Matthew chapter 11, verses 2 to 11.
 
 > **Reader** *(plainly)* Meanwhile John heard in prison about the works of Christ, and he sent his disciples
 
@@ -127,18 +143,30 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 > **Reader** *(plainly)* The blind receive sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, and the good news is preached to the poor.
 
 > **Reader** *(plainly)* Blessed is the one who does not fall away on account of Me.”
-[would it make sense to read the passage where Jesus refers to John like we say below? if it is right after, we can just extend the Reader section, if not, we can evaluate how to add that]
-**Narrator** *(calm)* Right after this, in both Gospels, Jesus turns to the crowd and praises John: among those born of women there is none greater. The doubt did not lower John in His eyes. The question was allowed. It was answered. And the man who asked it was called the greatest of the prophets in the same hour.
+
+> **Reader** *(plainly)* As John’s disciples were leaving, Jesus began to speak to the crowds about John: “What did you go out into the wilderness to see? A reed swaying in the wind?
+
+> **Reader** *(plainly)* Otherwise, what did you go out to see? A man dressed in fine clothes? Look, those who wear fine clothing are found in kings’ palaces.
+
+> **Reader** *(plainly)* What then did you go out to see? A prophet? Yes, I tell you, and more than a prophet.
+
+> **Reader** *(plainly)* This is the one about whom it is written: ‘Behold, I will send My messenger ahead of You, who will prepare Your way before You.’
+
+> **Reader** *(plainly)* Truly I tell you, among those born of women there has risen no one greater than John the Baptist. Yet even the least in the kingdom of heaven is greater than he.
+
+**Narrator** *(calm)* Did you hear when He said it? As John's disciples were leaving. Jesus waited until they were on the road, and then He turned to the crowd and spoke about the man in the cell. Not a reed swaying in the wind. Not a man in fine clothes. Those, He says, are found in kings' palaces. John was underneath one. A prophet, and more than a prophet. Among those born of women there has risen no one greater.
+
+**Narrator** *(calm)* So the doubt did not lower John in His eyes. The question was allowed. It was answered. And the man who asked it was given the highest praise Jesus ever gave anyone, in the same hour.
 
 ---
 
-**Brian** *(calm)* I have to be honest about the other side of it. I am a blind believer, and my eyes have not been opened. The healings in these episodes were signs, and signs point to something. They pointed John to who Jesus was. They point me there too, without my sight coming back. I would be lying if I said I never asked for it. I would also be lying if I said that is what this verse is about. It is about who He is. I know who He is.
-[the last 2 sentences need expanded and explained btter]
+**Brian** *(calm)* I have to be honest about the other side of it. I am a blind believer, and my eyes have not been opened. The healings in these episodes were signs, and signs point to something. They pointed John to who Jesus was. They point me there too, without my sight coming back. I would be lying if I said I never asked for it. I would also be lying if I said that is what this verse is about. This verse is not a promise that every blind person who believes will be healed in this life. It is Jesus answering a question about Himself. John asked, are You the One. And Jesus said, look at what is happening around Me, and remember what Isaiah said would happen when God came. The healings were the proof of who He is. That proof still stands, whether or not my own eyes are ever opened on this side of heaven. I do not need my sight back to know who He is. I know who He is.
+
 **Brian** *(calm)* Blessed is the one who does not fall away on account of me. That is the last line of the answer, and I think it was aimed at John, in prison, who was not going to be healed or rescued and knew it. Jesus was telling him: do not let what I am not doing for you make you doubt what I am. Every blind believer who has prayed for sight and gotten up the next morning still blind has heard that line.
 
 ---
 
-**Narrator** *(calm)* Look back over the six episodes. A man born blind sent to wash. Bartimaeus shouting by the road. A man at Bethsaida who saw trees walking and said so. Two men who followed by sound into a house, and one who could not speak for himself. Crowds on a mountain and in the Temple. And now this: when the greatest prophet asked who Jesus was, Jesus pointed at all of them. The blind receive sight. Not because blindness was the worst thing, and not because sight was the point, but because Isaiah had said that when God came, this is what it would look like. Blind people were not left at the edges , They were at the top of the list.
+**Narrator** *(calm)* Look back over the six episodes. A man born blind sent to wash. Bartimaeus shouting by the road. A man at Bethsaida who saw trees walking and said so. Two men who followed by sound into a house, and one who could not speak for himself. Crowds on a mountain and in the Temple. And now this: when the greatest prophet asked who Jesus was, Jesus pointed at all of them. The blind receive sight. Not because blindness was the worst thing, and not because sight was the point, but because Isaiah had said that when God came, this is what it would look like. Blind people were not left at the edges. They were at the top of the list.
 
 ---
 

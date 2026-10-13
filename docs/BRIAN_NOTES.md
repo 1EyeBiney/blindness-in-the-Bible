@@ -231,6 +231,18 @@ Blindness is the second worst fear amongst people and I take no solace from that
 
 *Placed:* the disciple's line as he wrote it; three draft paragraphs in his voice at the end of the episode (audio/episodes/ep06_the_answer_to_john.py, indices 4 to 6), awaiting his edit; the opening rewritten. His earlier four paragraphs he read and left unchanged.
 
+## 13 October 2026, his edit pass on episode 6 (from the script, verbatim)
+
+His notes in brackets, where he left them:
+
+- After the narrator's paragraph on why John sent the question: [expand that, give the 3 reasons room to breather and be digested]
+- After the Matthew reading: [would it make sense to read the passage where Jesus refers to John like we say below? if it is right after, we can just extend the Reader section, if not, we can evaluate how to add that]
+- After his paragraph ending "It is about who He is. I know who He is.": [the last 2 sentences need expanded and explained btter]
+
+His word changes: "John the Baptist, would die there"; John: "Well? Did you ask him? What did He say?" and "I see. ... Go on."; the narrator's "The answer he got was wonders and signs for others."; "I think it means that having Doubt while in a dark place is not a failure of faith."; "Jesus did not answer with a sermon, or an argument, or a proclamation."; he struck "The first thing on the list was us."; "Blind people were not left at the edges , They were at the top of the list."; "the great joys that lie ahead for those of us who belong to Him."
+
+*Placed:* all of the above in audio/episodes/ep06_the_answer_to_john.py. The Matthew reading now runs on through 11:7-11, which follows straight after. His paragraph 2 has a new ending, drafted, awaiting him. Two small things changed around his edits and reported to him: John's later line "And what did he say?" became "And his answer?" so he does not ask the same thing twice, and "He" in John's mouth is lower case to match the rest of the scene.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)

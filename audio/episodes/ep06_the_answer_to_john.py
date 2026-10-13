@@ -1,26 +1,34 @@
-"""Episode 6: The answer to John (Matthew 11:2-6; Luke 7:18-23; Isaiah 35:4-6; Isaiah 61:1)."""
+"""Episode 6: The answer to John (Matthew 11:2-11; Luke 7:18-23; Isaiah 35:4-6; Isaiah 61:1)."""
 from episode_lib import BRIAN_VOICE_NOTE_SHORT, CLOSE, SERIES_INTRO, header, reader
 
 SLUG = "the_answer_to_john"
 NUMBER = 6
 TITLE = "The answer to John"
-PASSAGES = [("Luke", 7, 18, 23), ("Isaiah", 35, 4, 6), ("Isaiah", 61, 1, 1), ("Matthew", 11, 2, 6)]
+PASSAGES = [("Luke", 7, 18, 23), ("Isaiah", 35, 4, 6), ("Isaiah", 61, 1, 1), ("Matthew", 11, 2, 11)]
 
+# Brian's edit pass of 13 October 2026: 0, 1, 3, 4, 5 and 6 he read and edited or let stand. 2 has a new ending he
+# asked for ("the last 2 sentences need expanded and explained better") and waits for him.
+APPROVED = {0, 1, 3, 4, 5, 6}
 MAX_WORDS = 3300   # Brian, 13 October 2026: longer opening, and three more paragraphs of his own at the end
 
 DRAFT_BRIAN = [
     "John the Baptist doubted. The man who pointed at Jesus and said, behold the Lamb of God, sat in a dungeon and "
     "sent people to ask, are you the one, or should we wait for somebody else. I find that enormously comforting. "
-    "Doubt in a dark place is not a failure of faith. It is what faith sounds like when it is being tested, and it "
-    "is allowed to ask.",
-    "Jesus did not answer with a sermon. He answered with people. Luke says that at that very hour He healed many, "
-    "and gave sight to many who were blind, and then told John's messengers, go tell him what you have seen. The "
-    "first thing on the list was us. When the question was, who are you, the answer began with blind people "
+    "I think it means that having doubt while in a dark place is not a failure of faith. It is what faith sounds "
+    "like when it is being tested, and it is allowed to ask.",
+    "Jesus did not answer with a sermon, or an argument, or a proclamation. He answered with people. Luke says "
+    "that at that very hour He healed many, and gave sight to many who were blind, and then told John's messengers, "
+    "go tell him what you have seen. When the question was, who are you, the answer began with blind people "
     "seeing. I have read that verse a hundred times and it still stops me.",
     "I have to be honest about the other side of it. I am a blind believer, and my eyes have not been opened. "
     "The healings in these episodes were signs, and signs point to something. They pointed John to who Jesus was. "
     "They point me there too, without my sight coming back. I would be lying if I said I never asked for it. I "
-    "would also be lying if I said that is what this verse is about. It is about who He is. I know who He is.",
+    "would also be lying if I said that is what this verse is about. This verse is not a promise that every blind "
+    "person who believes will be healed in this life. It is Jesus answering a question about Himself. John asked, "
+    "are You the One. And Jesus said, look at what is happening around Me, and remember what Isaiah said would "
+    "happen when God came. The healings were the proof of who He is. That proof still stands, whether or not my "
+    "own eyes are ever opened on this side of heaven. I do not need my sight back to know who He is. I know who He "
+    "is.",
     "Blessed is the one who does not fall away on account of me. That is the last line of the answer, and I think "
     "it was aimed at John, in prison, who was not going to be healed or rescued and knew it. Jesus was telling "
     "him: do not let what I am not doing for you make you doubt what I am. Every blind believer who has prayed for "
@@ -38,7 +46,7 @@ DRAFT_BRIAN = [
     "They say blindness is the second greatest fear people have. I take no comfort in that. But I can tell you, "
     "from inside it, that blindness is not something to fear at all. What scares me is something else. It is the "
     "people who have to carry this burden without knowing the grace and mercy of our Savior, and without knowing "
-    "what lies ahead for those of us who belong to Him.",
+    "the great joys that lie ahead for those of us who belong to Him.",
 ]
 
 
@@ -80,7 +88,7 @@ def build(bible: dict) -> list[str]:
         "to his own followers. Then John rebuked Herod Antipas for taking his brother's wife, and Herod put him in "
         "prison. Josephus, the Jewish historian, names the prison: Machaerus, a fortress east of the Dead Sea, on "
         "the frontier. Edersheim describes it as a stronghold on sheer cliffs, built by one Jewish king and enlarged "
-        "by Herod the Great, with a palace at the top and dungeons cut into the rock below. John would die there.")
+        "by Herod the Great, with a palace at the top and dungeons cut into the rock below. John the Baptist would die there.")
     add("[NARRATOR] (calm) Where this is. Machaerus stands on the far side of the Dead Sea from everything else in "
         "this series, and it is the farthest south we go. Stand on its walls and face north, with north at twelve "
         "o'clock. Jericho is at eleven o'clock and Jerusalem at ten, and although both are close as the bird flies, "
@@ -90,13 +98,25 @@ def build(bible: dict) -> list[str]:
         "John's two friends had to go to ask one question, and how far they had to come back with the answer.")
     add("[NARRATOR] (calm) From that place he sends his question. Luke tells it with the most detail.")
     ext(reader(bible, "Luke", 7, 18, 23))
+    # Brian, 13 October 2026: "expand that, give the 3 reasons room to breathe and be digested"
     add("[NARRATOR] (calm) Are You the One who was to come, or should we look for someone else? That is the whole "
-        "question. Henry offers three reasons John might have sent it: he wanted to be sure for himself; the long "
-        "imprisonment had made him wonder why Jesus did not help him; or he sent his followers so that they would "
-        "see for themselves and attach themselves to Jesus after he was gone. And Luke tells us what Jesus did "
-        "before He answered a word. At that very hour He healed many, and gave sight to many who were blind. Henry "
-        "takes the words literally: they stayed perhaps an hour, and in that hour saw enough. Then He told them what "
-        "to say.")
+        "question. And it comes from the last man you would expect to ask it. Why would John, of all people, send "
+        "it? Matthew Henry offers three possible reasons, and they are worth taking one at a time.")
+    add("[NARRATOR] (calm) The first is the plainest. John wanted to be sure, for himself. He had given his whole "
+        "life to announcing this man, and a prisoner has a great deal of time to think.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) The second is harder to hear. John had been in that cell a long time. The One he had "
+        "announced was free, and healing strangers, and had not come for him. Henry suggests that the long "
+        "imprisonment had made John wonder why Jesus did not help him.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) The third is the kindest to John. Perhaps he was not asking for himself at all. He knew "
+        "he might never leave that place. So he sent his followers to see Jesus with their own eyes, so that when "
+        "he was gone, they would know whom to follow.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) We are not told which it was. And a person can ask one question for more than one reason.")
+    add("[NARRATOR] (calm) Whatever the reason, Luke tells us what Jesus did before He answered a word. At that "
+        "very hour He healed many, and gave sight to many who were blind. Henry takes the words literally: the "
+        "messengers stayed perhaps an hour, and in that hour saw enough. Then He told them what to say.")
     add("[BREAK]")
 
     add("[NARRATOR] (calm) To hear the answer the way John heard it, you have to know what John knew. Jesus's "
@@ -117,14 +137,14 @@ def build(bible: dict) -> list[str]:
         "not Scripture.")
     add("[PAUSE 1.0]")
     add("[DISCIPLE] (calm) Teacher. We are back. Yes, it is us, both of us. Sit, please, you should sit.")
-    add("[JOHN] (calm) Well? Did you ask him?")
+    add("[JOHN] (calm) Well? Did you ask him? What did he say?")
     add("[DISCIPLE] (calm) We asked him exactly as you said. Are you the one who was to come, or do we wait for "
         "another.")
-    add("[JOHN] (curious) And what did he say?")
+    add("[JOHN] (curious) And his answer?")
     add("[DISCIPLE] (calm) At first, nothing. He went on with what he was doing. There was a crowd, as there "
         "always is, and people were being brought to him. We stood there an hour. A man who had been carried in "
         "walked out. A woman who was bent double stood up straight. And there was a blind man.")
-    add("[JOHN] (calm) Go on.")
+    add("[JOHN] (calm) I see. ... Go on.")
     add("[DISCIPLE] (excited) He was old, and someone had him by the arm, and Jesus touched his face, and the man "
         "looked up, and he started to cry and to laugh at the same time, and he kept looking at his own hands. "
         "There were so many! More than one. So many. We lost count.")
@@ -136,7 +156,7 @@ def build(bible: dict) -> list[str]:
     add("[DISCIPLE] (calm) Blessed is the one who does not fall away on account of me.")
     add("[PAUSE 2.0]")
     add("[NARRATOR] (calm) John stayed in Machaerus. He was not healed, and he was not rescued. The answer he got "
-        "was other people's sight.")
+        "was wonders and signs for others.")
     add("[BREAK]")
 
     add(f"[NARRATOR] (dryly) {BRIAN_VOICE_NOTE_SHORT}")
@@ -145,14 +165,17 @@ def build(bible: dict) -> list[str]:
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[1]}")
     add("[BREAK]")
 
-    add("[NARRATOR] (calm) Matthew tells the same exchange more briefly, and we will hear it, because it adds "
-        "one thing: Matthew says John heard in prison about the works of Christ. It was the works that reached him, "
-        "through the walls.")
-    ext(reader(bible, "Matthew", 11, 2, 6))
-    add("[NARRATOR] (calm) Right after this, in both Gospels, Jesus turns to the crowd and praises John: among "
-        "those born of women there is none greater. The doubt did not lower John in His eyes. The question was "
-        "allowed. It was answered. And the man who asked it was called the greatest of the prophets in the same "
-        "hour.")
+    # Brian, 13 October 2026: read what Jesus said about John. It follows straight on, so the reading runs on.
+    add("[NARRATOR] (calm) Matthew tells the same exchange more briefly, and we will hear it, for two reasons. "
+        "Matthew says John heard in prison about the works of Christ. It was the works that reached him, through the "
+        "walls. And Matthew goes straight on to what Jesus said next, once John's friends had started for home.")
+    ext(reader(bible, "Matthew", 11, 2, 11))
+    add("[NARRATOR] (calm) Did you hear when He said it? As John's disciples were leaving. Jesus waited until they "
+        "were on the road, and then He turned to the crowd and spoke about the man in the cell. Not a reed swaying "
+        "in the wind. Not a man in fine clothes. Those, He says, are found in kings' palaces. John was underneath "
+        "one. A prophet, and more than a prophet. Among those born of women there has risen no one greater.")
+    add("[NARRATOR] (calm) So the doubt did not lower John in His eyes. The question was allowed. It was answered. "
+        "And the man who asked it was given the highest praise Jesus ever gave anyone, in the same hour.")
     add("[BREAK]")
 
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[2]}")
@@ -164,8 +187,8 @@ def build(bible: dict) -> list[str]:
         "and one who could not speak for himself. Crowds on a mountain and in the Temple. And now this: when the "
         "greatest prophet asked who Jesus was, Jesus pointed at all of them. The blind receive sight. Not because "
         "blindness was the worst thing, and not because sight was the point, but because Isaiah had said that when "
-        "God came, this is what it would look like. Blind people were not at the edge of that. We were the first "
-        "thing on the list.")
+        "God came, this is what it would look like. Blind people were not left at the edges. They were at the top of "
+        "the list.")
     add("[BREAK]")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[4]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[5]}")
