@@ -304,6 +304,21 @@ def figure_html(pic: dict, root: str) -> str:
             f'<figcaption>{e(pic["caption"])}</figcaption></figure>')
 
 
+def trailer_html(root: str, video: bool) -> str:
+    """The trailer: the audio file first, then (on the home page) the YouTube video, then the way to the episodes."""
+    import episode_list as ep
+    t = ep.TRAILER
+    mp3 = f"{root}media/{e(t['mp3'])}"
+    yt = e(t["youtube"])
+    out = (f'<audio controls preload="none" src="{mp3}">Your browser cannot play this audio here. '
+           f'<a href="{mp3}">Download the trailer as an MP3</a>.</audio>')
+    if video:
+        out += (f'<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/{yt}" '
+                f'title="{e(t["title"])}, on YouTube" loading="lazy" allowfullscreen '
+                f'referrerpolicy="strict-origin-when-cross-origin"></iframe></div>')
+    return out
+
+
 def episodes_page() -> str:
     """Every episode, newest last: what it is about, the audio, the MP3, YouTube, and the story pages it covers."""
     import episode_list as ep
@@ -311,6 +326,14 @@ def episodes_page() -> str:
     import stories as st
     by_slug = {x["slug"]: x for x in st.STORIES}
     parts = [f"<h1>{e(ep.TITLE)}</h1>", f'<p class="lede">{e(ep.INTRO[0])}</p>'] + [f"<p>{e(x)}</p>" for x in ep.INTRO[1:]]
+    parts.append(
+        f'<section class="episode"><h2>Start here: the trailer</h2>'
+        f"<p>About {ep.TRAILER['minutes']} minutes. The opening of the first episode, an imagined walk down to the Pool "
+        f"of Siloam, and Brian on why he began this study and what he hopes you will find in it.</p>"
+        + trailer_html("", video=False) +
+        f'<ul><li><a href="media/{e(ep.TRAILER["mp3"])}">Download the trailer as an MP3</a></li>'
+        f'<li><a href="https://www.youtube.com/watch?v={e(ep.TRAILER["youtube"])}">Watch the trailer on YouTube</a>, '
+        f"with pictures and captions</li></ul></section>")
     for number, title, passage, slugs, about in ep.EPISODES:
         first = by_slug[slugs[0]]
         listen = first["listen"]
@@ -498,6 +521,13 @@ their families, and the church.</p>
 Bible. But blindness is a spectrum, and only a small share of blind people see nothing at all. Before the
 studies, read <a href="what-blind-means.html">what blind means here</a>.</p>
 
+<h2>Listen to the stories</h2>
+<p>The stories of sight given by Jesus are also episodes of about twenty minutes each, made for listening. This
+trailer, about four minutes long, gives a taste: the opening of the first episode, an imagined walk down to the
+Pool of Siloam, and Brian on why he began. It plays here as audio, or below it as a video with pictures and captions.</p>
+{trailer_html("", video=True)}
+<p><a href="episodes.html">All the episodes</a> are on one page, to play or download.</p>
+
 <h2>Where this stands</h2>
 <p>The site is being built in the open, and most of what was planned is now here. The <a href="stories/index.html">stories</a> gather the verses into the
 passages they belong to, with what led up to each, what it was like to be there, and what the old books and the
@@ -522,6 +552,8 @@ site is named for. The
 the deep end. Read this first.</li>
 <li><a href="stories/index.html">The stories</a>: twenty-four passages about blind people, each with what led up to it,
 what happens, what it was like to be there, and the place and the time from the old books.</li>
+<li><a href="episodes.html">Episodes</a>: the stories of sight given by Jesus, made for listening, with the
+passage read word for word, music, and Brian's own thoughts.</li>
 <li><a href="law/index.html">The law</a>: four pages reading what God commanded about the blind as evidence of how they
 were treated, set beside the older law codes of the region.</li>
 <li><a href="life/index.html">Living blind, then</a>: six pages on daily life without sight in the herding camp, the

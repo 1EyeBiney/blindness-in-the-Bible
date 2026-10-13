@@ -419,6 +419,22 @@ def test_episodes_page_lists_every_episode_once_with_audio_mp3_and_youtube(tmp_p
         assert f"<h2>Episode {number}: " in h and f"watch?v={yt}" in h, title
         assert h.count(f'src="media/{mp3}"') == 1 and (tmp_path / "media" / mp3).is_file(), title
         assert all(f'href="stories/{x}.html"' in h for x in slugs) and len(about) > 80, title
-    assert h.count("<audio controls") == len(ep.EPISODES) and "<iframe" not in h
+    assert h.count("<audio controls") == len(ep.EPISODES) + 1 and "<iframe" not in h      # the episodes and the trailer
     story = (tmp_path / "stories" / "bartimaeus.html").read_text(encoding="utf-8")
     assert 'href="../episodes.html">All the episodes</a>' in story
+
+
+def test_the_trailer_is_on_the_home_page_and_the_episodes_page(tmp_path):
+    """The home page gains one short section and no more: a heading, the audio, the video, a link to the episodes."""
+    import episode_list as ep
+    build_site.render_all(tmp_path)
+    t = ep.TRAILER
+    assert (ROOT / "media" / t["mp3"]).is_file()
+    home = (tmp_path / "index.html").read_text(encoding="utf-8")
+    assert home.count("<h2>Listen to the stories</h2>") == 1
+    assert home.count("<audio controls") == 1 and home.count("<iframe") == 1
+    assert f'embed/{t["youtube"]}' in home and f'src="media/{t["mp3"]}"' in home
+    assert home.index("what blind means here") < home.index("Listen to the stories") < home.index("Where this stands")
+    assert 'href="episodes.html">All the episodes</a>' in home
+    eps = (tmp_path / "episodes.html").read_text(encoding="utf-8")
+    assert eps.index("Start here: the trailer") < eps.index("Episode 1:") and f'watch?v={t["youtube"]}' in eps

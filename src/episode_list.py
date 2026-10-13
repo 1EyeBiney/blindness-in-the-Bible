@@ -28,6 +28,10 @@ EPISODES = [
      "last week."),
 ]
 
+# The trailer: a short taste of the episodes, on the home page and at the top of the Episodes page.
+TRAILER = {"youtube": "2TDaUBlFbgc", "mp3": "not_by_sight_00_trailer.mp3", "minutes": 4,
+           "title": "Not By Sight: the trailer"}
+
 INTRO = [
     "Each story of sight given by Jesus is also an episode of about twenty minutes, made for listening. You will "
     "hear the passage read word for word from the Berean Standard Bible, the place and the time, an imagined scene "
