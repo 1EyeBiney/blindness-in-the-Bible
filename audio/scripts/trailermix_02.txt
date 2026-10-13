@@ -1,0 +1,24 @@
+@project: trailermix_v2
+@section: 1
+@cast: casts/not_by_sight.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Not By Sight: the trailer as Brian mixed it on 13 October 2026 (renders/trailer_v1/Trailer.wav). For captions and timing only;
+# nothing is rendered from this file. Lines 001 and 004 to 008 are episode 1's own recordings; the rest are from trailer_02.txt.
+
+[NARRATOR] (calm) A man is walking downhill through Jerusalem with mud on his eyes. He cannot see. He has never seen. And yet a complete stranger has just given him shocking news about his blindness, and told him to go and wash in a pool at the bottom of the city. And. He goes.
+[NARRATOR] (calm) This is Not By Sight. Stories of blind people in the Bible, made for listening, by a blind man who went looking for what Scripture says about people like him.
+[NARRATOR] (calm) In every episode you will hear the passage itself, read word for word. You will hear about the place and the time. And you will be asked to imagine.
+[MAN] (whisper) Mud. Cool and wet and heavy on my eyes. His thumbs pressed it in. Go to Siloam, he said. Wash. I have sat at the top of this road all my life. I know it by the slope under my feet, by the street narrowing, by the bread ovens on the left and the sound of a side street opening on the right. I have never been to the bottom.
+[NEIGHBOUR] (curious) Friend, your face. Where are you going like that, against all these people?
+[MAN] (excited) Down to Siloam, to wash. A man put this on my eyes. They call him Jesus.
+[NEIGHBOUR] (curious) Down? With the whole city coming up for the Sabbath? Do you know the way, and the steps at the bottom?
+[MAN] (calm) I know the way I got here. People have told me all my life that my eyes were a punishment, mine or my parents'. He said no. He said it was so God could do something in me. I do not know what. But I am going to find out, and I am going to go the way he said.
+[NARRATOR] (calm) And you will hear from Brian. Or rather, from the voice Brian picked for himself. Around here we call it Mister Scaredy Cat. The voice is not his, but the words are.
+[BRIAN] (calm) I started this study to find out what the Bible says about blindness, now that I am on this side of the curtain. I did not expect how much comfort I would find. I did not expect how often the blind are there, or how much they mattered to the work of Jesus. Again and again, when a blind person is healed, it points everyone around them to who He really is.
+[BRIAN] (calm) I come to these stories with a new view of the world. I also come to them a more mature man than I was, in body and in spirit.
+[BRIAN] (calm) Our church wants to help people in their walk with Jesus. That is my hope here. For my fellow blind Christians, and for anyone hearing these stories for the first time, I hope you discover how precious we all are to Jesus, whatever our eyes can or cannot do.
+[READER] (plainly) For we walk by faith, not by sight.
+[NARRATOR] (calm) Second Corinthians, chapter 5, verse 7.
+[NARRATOR] (calm) Not By Sight. Every episode is free, on YouTube and at blindness in the Bible dot com. Start anywhere. Come and listen.
