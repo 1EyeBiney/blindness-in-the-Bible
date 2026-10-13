@@ -18,7 +18,7 @@ Each still, with its written description (for blind viewers and for the record):
 - 02:38  A great crowd along the crest of a hill above the Sea of Galilee, arms raised, climbers on the path below.
 - 02:43  Two men follow a crowd down a narrow lane in Capernaum, one with a hand on the other's shoulder.
 - 02:56  The open scroll. For we walk by faith, not by sight.
-- 03:05  Closing card over Jerusalem at dusk: For we walk by faith, not by sight. The site address.
+- 03:05  Closing card over Jerusalem at dusk, with the words Not By Sight, stories of blind people in the Bible, made for listening, and the address blindnessinthebible.com.
 
 Scripture quotations are from the Holy Bible, Berean Standard Bible, BSB, public domain.
 Scenes introduced with the word 'imagine' are our own. Voices generated with ElevenLabs; mix by Brian Clark.
