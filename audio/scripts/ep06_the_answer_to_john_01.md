@@ -28,7 +28,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* First, where we are. John the Baptist baptised Jesus in the Jordan and pointed Him out to his own followers. Then John rebuked Herod Antipas for taking his brother's wife, and Herod put him in prison. Josephus, the Jewish historian, names the prison: Machaerus, a fortress east of the Dead Sea, on the frontier. Edersheim describes it as a stronghold on sheer cliffs, built by one Jewish king and enlarged by Herod the Great, with a palace at the top and dungeons cut into the rock below. John would die there.
+**Narrator** *(calm)* First, where we are. John the Baptist baptised Jesus in the Jordan and pointed Him out to his own followers. Then John rebuked Herod Antipas for taking his brother's wife, and Herod put him in prison. Josephus, the Jewish historian, names the prison: Machaerus, a fortress east of the Dead Sea, on the frontier. Edersheim describes it as a stronghold on sheer cliffs, built by one Jewish king and enlarged by Herod the Great, with a palace at the top and dungeons cut into the rock below. John the Baptist, would die there.
 
 **Narrator** *(calm)* Where this is. Machaerus stands on the far side of the Dead Sea from everything else in this series, and it is the farthest south we go. Stand on its walls and face north, with north at twelve o'clock. Jericho is at eleven o'clock and Jerusalem at ten, and although both are close as the bird flies, the Dead Sea lies in between, so a messenger had to walk round its northern end: about two days to Jerusalem by way of Jericho. Straight ahead at twelve o'clock, up the whole length of the Jordan, is Galilee, where Jesus was. Nazareth, Capernaum and Bethsaida are all about four days' walk. That is how far John's two friends had to go to ask one question, and how far they had to come back with the answer.
 
@@ -49,7 +49,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 > **Reader** *(plainly)* Blessed is the one who does not fall away on account of Me.”
 
 **Narrator** *(calm)* Are You the One who was to come, or should we look for someone else? That is the whole question. Henry offers three reasons John might have sent it: he wanted to be sure for himself; the long imprisonment had made him wonder why Jesus did not help him; or he sent his followers so that they would see for themselves and attach themselves to Jesus after he was gone. And Luke tells us what Jesus did before He answered a word. At that very hour He healed many, and gave sight to many who were blind. Henry takes the words literally: they stayed perhaps an hour, and in that hour saw enough. Then He told them what to say.
-
+[expand that, give the 3 reasons room to breather and be digested]
 ---
 
 **Narrator** *(calm)* To hear the answer the way John heard it, you have to know what John knew. Jesus's reply is built out of the prophet Isaiah. Here is the first passage, from a chapter about the day God Himself would come.
@@ -78,7 +78,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Disciple** *(calm)* Teacher. We are back. Yes, it is us, both of us. Sit, please, you should sit.
 
-**John** *(calm)* Well? Did you ask him?
+**John** *(calm)* Well? Did you ask him? What did He say?
 
 **Disciple** *(calm)* We asked him exactly as you said. Are you the one who was to come, or do we wait for another.
 
@@ -86,7 +86,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Disciple** *(calm)* At first, nothing. He went on with what he was doing. There was a crowd, as there always is, and people were being brought to him. We stood there an hour. A man who had been carried in walked out. A woman who was bent double stood up straight. And there was a blind man.
 
-**John** *(calm)* Go on.
+**John** *(calm)* I see. ... Go on.
 
 **Disciple** *(excited)* He was old, and someone had him by the arm, and Jesus touched his face, and the man looked up, and he started to cry and to laugh at the same time, and he kept looking at his own hands. There were so many! More than one. So many. We lost count.
 
@@ -100,7 +100,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 2.0 s)*
 
-**Narrator** *(calm)* John stayed in Machaerus. He was not healed, and he was not rescued. The answer he got was other people's sight.
+**Narrator** *(calm)* John stayed in Machaerus. He was not healed, and he was not rescued. The answer he got was wonders and signs for others.
 
 ---
 
@@ -108,9 +108,9 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 1.0 s)*
 
-**Brian** *(calm)* John the Baptist doubted. The man who pointed at Jesus and said, behold the Lamb of God, sat in a dungeon and sent people to ask, are you the one, or should we wait for somebody else. I find that enormously comforting. Doubt in a dark place is not a failure of faith. It is what faith sounds like when it is being tested, and it is allowed to ask.
+**Brian** *(calm)* John the Baptist doubted. The man who pointed at Jesus and said, behold the Lamb of God, sat in a dungeon and sent people to ask, are you the one, or should we wait for somebody else. I find that enormously comforting. I think it means that having Doubt while in a dark place is not a failure of faith. It is what faith sounds like when it is being tested, and it is allowed to ask.
 
-**Brian** *(calm)* Jesus did not answer with a sermon. He answered with people. Luke says that at that very hour He healed many, and gave sight to many who were blind, and then told John's messengers, go tell him what you have seen. The first thing on the list was us. When the question was, who are you, the answer began with blind people seeing. I have read that verse a hundred times and it still stops me.
+**Brian** *(calm)* Jesus did not answer with a sermon, or an argument, or a proclamation. He answered with people. Luke says that at that very hour He healed many, and gave sight to many who were blind, and then told John's messengers, go tell him what you have seen. When the question was, who are you, the answer began with blind people seeing. I have read that verse a hundred times and it still stops me.
 
 ---
 
@@ -127,18 +127,18 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 > **Reader** *(plainly)* The blind receive sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, and the good news is preached to the poor.
 
 > **Reader** *(plainly)* Blessed is the one who does not fall away on account of Me.”
-
+[would it make sense to read the passage where Jesus refers to John like we say below? if it is right after, we can just extend the Reader section, if not, we can evaluate how to add that]
 **Narrator** *(calm)* Right after this, in both Gospels, Jesus turns to the crowd and praises John: among those born of women there is none greater. The doubt did not lower John in His eyes. The question was allowed. It was answered. And the man who asked it was called the greatest of the prophets in the same hour.
 
 ---
 
 **Brian** *(calm)* I have to be honest about the other side of it. I am a blind believer, and my eyes have not been opened. The healings in these episodes were signs, and signs point to something. They pointed John to who Jesus was. They point me there too, without my sight coming back. I would be lying if I said I never asked for it. I would also be lying if I said that is what this verse is about. It is about who He is. I know who He is.
-
+[the last 2 sentences need expanded and explained btter]
 **Brian** *(calm)* Blessed is the one who does not fall away on account of me. That is the last line of the answer, and I think it was aimed at John, in prison, who was not going to be healed or rescued and knew it. Jesus was telling him: do not let what I am not doing for you make you doubt what I am. Every blind believer who has prayed for sight and gotten up the next morning still blind has heard that line.
 
 ---
 
-**Narrator** *(calm)* Look back over the six episodes. A man born blind sent to wash. Bartimaeus shouting by the road. A man at Bethsaida who saw trees walking and said so. Two men who followed by sound into a house, and one who could not speak for himself. Crowds on a mountain and in the Temple. And now this: when the greatest prophet asked who Jesus was, Jesus pointed at all of them. The blind receive sight. Not because blindness was the worst thing, and not because sight was the point, but because Isaiah had said that when God came, this is what it would look like. Blind people were not at the edge of that. We were the first thing on the list.
+**Narrator** *(calm)* Look back over the six episodes. A man born blind sent to wash. Bartimaeus shouting by the road. A man at Bethsaida who saw trees walking and said so. Two men who followed by sound into a house, and one who could not speak for himself. Crowds on a mountain and in the Temple. And now this: when the greatest prophet asked who Jesus was, Jesus pointed at all of them. The blind receive sight. Not because blindness was the worst thing, and not because sight was the point, but because Isaiah had said that when God came, this is what it would look like. Blind people were not left at the edges , They were at the top of the list.
 
 ---
 
@@ -146,7 +146,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Brian** *(calm)* I know that someday I will see again. I have always known it, because I was blessed to have parents who led me to the Lord when I was very young.
 
-**Brian** *(calm)* They say blindness is the second greatest fear people have. I take no comfort in that. But I can tell you, from inside it, that blindness is not something to fear at all. What scares me is something else. It is the people who have to carry this burden without knowing the grace and mercy of our Savior, and without knowing what lies ahead for those of us who belong to Him.
+**Brian** *(calm)* They say blindness is the second greatest fear people have. I take no comfort in that. But I can tell you, from inside it, that blindness is not something to fear at all. What scares me is something else. It is the people who have to carry this burden without knowing the grace and mercy of our Savior, and without knowing the great joys that lie ahead for those of us who belong to Him.
 
 ---
 
