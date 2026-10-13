@@ -50,29 +50,26 @@ def build(bible: dict) -> list[str]:
     add("# JOHN and DISCIPLE appear only inside scenes the narrator introduces with the word 'imagine'.")
     add("")
 
-    # ---- Cold open: down from the heat and the wind into the dark, by sound and touch -----------------
-    add("[NARRATOR] (calm) Somewhere underneath a palace, a man is sitting in the dark.")
+    # ---- Cold open: inside the cell, by sound. Brian, 13 October 2026: keep it in one place, built from sounds
+    # he can make (a drip, straw, far-off music, a guard's walk, a key and a heavy door), and shorter than before.
+    add("[NARRATOR] (calm) A man is sitting in the dark, listening.")
     add("[PAUSE 1.0]")
-    add("[NARRATOR] (beat) Imagine going down to him. Start at the top, on the ridge, where the fortress stands out "
-        "in the open. It is hot up here, the dry heat of the country east of the Dead Sea, and the wind never quite "
-        "stops. Far below, the sea lies flat and heavy and makes no sound at all. There is a palace on this height, "
-        "with courtyards and cool rooms, and from somewhere inside it comes music, and the noise of people who have "
-        "had plenty to eat.")
-    add("[NARRATOR] (calm) Now the stairs. They are cut into the rock, and they go down. The heat stays behind you. "
-        "So does the wind. The music thins out, and then it is gone, and what takes its place is the sound of a "
-        "place with stone on every side: your own footsteps coming back at you, water dripping somewhere, a door so "
-        "heavy it takes two hands to move. The air is cool and still, and it smells of damp rock. And the light goes. "
-        "Not all at once. A little less at every turn of the stair, until all that is left is what comes in under "
-        "the door.")
+    add("[NARRATOR] (beat) Imagine the cell with him. It is cut out of solid rock, and rock keeps every sound. "
+        "Water is dripping somewhere, slowly, always in the same place. When he shifts, the straw under him rustles, "
+        "and the sound comes straight back off the walls. The air is cool and still, and it smells of damp stone.")
+    add("[NARRATOR] (calm) From far above, through all that rock, comes something else. Music. Faint, like "
+        "something half remembered. There is a palace up there, and people in it who have had plenty to eat.")
     add("[PAUSE 1.0]")
-    add("[NARRATOR] (beat) This is where he lives now. He was a man of the open air. He preached out of doors, in "
-        "the wilderness, beside a river, to crowds. Now the world reaches him the way it reaches a blind man: by "
-        "sound, and by what other people tell him. A guard's footsteps. A key. A friend let in for an hour, with "
-        "news.")
+    add("[NARRATOR] (beat) Then footsteps in the passage outside. A guard, in no hurry. They come closer, pass the "
+        "door, and go on. He knows that walk by now. He was a man of the open air, who preached in the wilderness, "
+        "beside a river, to crowds. Now the world reaches him the way it reaches a blind man: by sound, and by what "
+        "other people tell him.")
+    add("[NARRATOR] (calm) So there is one sound he listens for above all the rest. A key in the lock. A bolt drawn "
+        "back. A door so heavy that it groans. That sound means a friend, let in for an hour, with news.")
     add("[NARRATOR] (calm) And it is the news that troubles him. He has been hearing things, secondhand, about a man "
         "he once pointed out to his own followers. What he hears does not sound like what he expected. He cannot go "
         "and see for himself. So he sends two friends, on a walk of four days, with one question.")
-    add("[NARRATOR] (calm) The answer he gets back begins with blind people.")
+    add("[NARRATOR] (calm) The answer he gets back ... begins with blind people.")   # the pause is Brian's
     add("[PAUSE 1.5]")
     add(f"[NARRATOR] (calm) {SERIES_INTRO}")
     add("[NARRATOR] (calm) This is the last episode in our run through the healings in the Gospels, and it is the "
