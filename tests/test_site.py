@@ -59,6 +59,10 @@ def test_site_builds_and_is_accessible(tmp_path):
         assert re.findall(r"<script[^>]*>", h) == [f'<script src="{"../" if p.parent != tmp_path else ""}static/display.js">'], p.name
         assert all(re.search(r'\balt="', m) for m in re.findall(r"<img[^>]*>", h)), p.name
         assert "style=" not in h, p.name
+        for src in re.findall(r'<img[^>]*\bsrc="([^"]+)"', h):
+            assert (p.parent / src).resolve().is_file(), f"{p.name}: missing picture {src}"
+        for fig in re.findall(r"<figure.*?</figure>", h, flags=re.S):
+            assert "<figcaption>" in fig and re.search(r'alt="[^"]{20,}"', fig), p.name   # described and captioned
         for m in re.finditer(r"<iframe[^>]*>", h):
             assert 'title="' in m.group(0) and "youtube-nocookie.com/embed/" in m.group(0), p.name
         for href in re.findall(r'href="([^"#]+)"', h):
@@ -324,3 +328,29 @@ def test_reading_settings_panel_is_on_every_page_and_is_labelled(tmp_path):
         assert h.index("</nav>") < h.index('<details class="display"') < h.index('<main id="main">'), p.name
     cat = (tmp_path / "catalog.html").read_text(encoding="utf-8")
     assert cat.count('class="table-scroll" role="region" tabindex="0" aria-label="') == cat.count("<table>")
+
+
+def test_story_pictures_are_described_made_and_placed(tmp_path):
+    """Every picture listed has a real description, a caption, both web sizes on disk, and a place on its page.
+    Stories with every slot filled never carry more than a banner, four pictures and a map."""
+    import images
+    import stories as st
+    slugs = {s["slug"] for s in st.STORIES}
+    build_site.render_all(tmp_path)
+    for slug, pics in images.STORY_PICTURES.items():
+        assert slug in slugs, slug
+        slots = [p["slot"] for p in pics]
+        assert slots[0] == "banner" and len(slots) == len(set(slots)), slug
+        assert set(slots) <= {"banner", "around", "happens", "shoes", "place", "map"}, slug
+        h = (tmp_path / "stories" / f"{slug}.html").read_text(encoding="utf-8")
+        assert h.count("<figure") == len(pics), slug
+        assert h.index("<figure") < h.index("What led up to it"), slug
+        assert h.count('loading="lazy"') >= len(pics) - 1, slug
+        for p in pics:
+            assert len(p["alt"]) >= 30 and p["caption"].endswith((".", "?")), p["name"]
+            assert p["alt"] != p["caption"], p["name"]
+            for w in images.WIDTHS:
+                f = ROOT / "media" / "images" / f"{p['name']}-{w}.jpg"
+                assert f.is_file() and f.stat().st_size < 600_000, f.name
+                assert (tmp_path / "media" / "images" / f.name).is_file(), f.name
+        assert "imagined, not records" in pics[0]["caption"], slug   # paintings are announced as imagined

@@ -72,6 +72,10 @@ a:hover { text-decoration-thickness: .16em; }
 .skip:focus { position:static; display:inline-block; padding:.5rem; font-weight:bold; }
 main p, main li, main blockquote, main dd { max-width: 44rem; }
 img { max-width: 100%; height: auto; }
+figure.pic { margin: 1.5rem 0; max-width: 44rem; }
+figure.pic.banner { max-width: none; margin-top: 1rem; }
+figure.pic img { display: block; width: 100%; border: 1px solid var(--rule); border-radius: .25rem; }
+figure.pic figcaption { color: var(--muted); font-size: 1rem; margin-top: .4rem; max-width: 44rem; }
 header.site { border-bottom: 2px solid var(--rule); padding: 1rem 0; }
 header.site p.name { font-size: 1.5rem; font-weight: bold; margin: 0; }
 header.site p.tag { margin: 0; color: var(--muted); }
@@ -245,6 +249,22 @@ def stories_index() -> str:
     return "\n".join(parts)
 
 
+def figure_html(pic: dict, root: str) -> str:
+    """One picture: the description for screen readers, the caption for everyone, two sizes so a phone does not
+    fetch the large file. The banner is fetched at once; the rest wait until the reader scrolls near them."""
+    import images
+    small, large = images.WIDTHS
+    base = f"{root}media/images/{e(pic['name'])}"
+    height = round(large * 893 / 1600)
+    banner = pic["slot"] == "banner"
+    wide = banner or pic["slot"] == "map"          # a map needs the full width for its lettering to be read
+    return (f'<figure class="pic{" banner" if wide else ""}">'
+            f'<img src="{base}-{large}.jpg" srcset="{base}-{small}.jpg {small}w, {base}-{large}.jpg {large}w" '
+            f'sizes="(max-width: 60rem) 100vw, {"60rem" if wide else "44rem"}" width="{large}" height="{height}" '
+            f'alt="{e(pic["alt"])}"{"" if banner else " loading=\"lazy\""}>'
+            f'<figcaption>{e(pic["caption"])}</figcaption></figure>')
+
+
 def listen_html(listen: dict | None, root: str) -> str:
     """The episode player: a plain audio file first, then the YouTube video. Nothing on the page depends on it."""
     if not listen:
@@ -269,15 +289,18 @@ def story_page(story: dict, bible: dict, order: list[dict]) -> str:
     i = order.index(story)
     prev_, next_ = (order[i - 1] if i > 0 else None), (order[i + 1] if i + 1 < len(order) else None)
     group_title = next(t for k, t, _ in st.GROUPS if k == story["group"])
+    import images
+    pics = {x["slot"]: figure_html(x, "../") for x in images.STORY_PICTURES.get(story["slug"], [])}
     parts = ['<p><a href="index.html">All the stories</a></p>',
              f"<h1>{e(story['title'])}</h1>",
              f'<p class="lede">{e(group_title)}. {e(st.OUTCOMES[story["outcome"]])}. '
              f'{e("; ".join(passage_label(p) for p in story["passages"]))}.</p>',
+             pics.get("banner", ""),
              listen_html(story.get("listen"), "../"),
-             f"<h2>What led up to it</h2><p>{e(story['around'])}</p>",
-             f"<h2>What happens</h2><p>{e(story['happens'])}</p>",
+             f"<h2>What led up to it</h2><p>{e(story['around'])}</p>" + pics.get("around", ""),
+             f"<h2>What happens</h2><p>{e(story['happens'])}</p>" + pics.get("happens", ""),
              (f"<h2>Before and after</h2><p>{e(story['before_after'])}</p>" if story.get("before_after") else ""),
-             f"<h2>In their shoes</h2><p>{e(story['shoes'])}</p>"]
+             f"<h2>In their shoes</h2><p>{e(story['shoes'])}</p>" + pics.get("shoes", "")]
     if story.get("sight"):
         sight = e(story["sight"]).replace("See what blind means here.",
                                           'See <a href="../what-blind-means.html">what blind means here</a>.')
@@ -288,8 +311,10 @@ def story_page(story: dict, bible: dict, order: list[dict]) -> str:
     if story.get("place_and_time"):
         parts.append("<h2>The place and the time</h2>")
         parts.append("<p>What the old books and the archaeologists can add. Each paragraph names its source.</p>")
+        parts.append(pics.get("place", ""))
         for item in story["place_and_time"]:
             parts.append(f"<p>{e(item['text'])}</p><p class=\"source\">Source: {e(item['source'])}</p>")
+        parts.append(pics.get("map", ""))
     parts.append("<h2>The passage</h2>")
     for p in story["passages"]:
         book, ch, a, z = p
@@ -506,6 +531,8 @@ def render_all(out: Path = OUT) -> None:
         for f in media.iterdir():
             if f.is_file():
                 shutil.copy(f, out / "media" / f.name)
+        if (media / "images").is_dir():
+            shutil.copytree(media / "images", out / "media" / "images", dirs_exist_ok=True)
     (out / "static" / "style.css").write_text(CSS, encoding="utf-8")
     (out / "static" / "display.js").write_text(display.script(), encoding="utf-8", newline="\n")
     (out / display.SLUG).write_text(page(display.TITLE, display.BODY, display.SLUG), encoding="utf-8")
