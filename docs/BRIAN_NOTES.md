@@ -243,6 +243,16 @@ His word changes: "John the Baptist, would die there"; John: "Well? Did you ask 
 
 *Placed:* all of the above in audio/episodes/ep06_the_answer_to_john.py. The Matthew reading now runs on through 11:7-11, which follows straight after. His paragraph 2 has a new ending, drafted, awaiting him. Two small things changed around his edits and reported to him: John's later line "And what did he say?" became "And his answer?" so he does not ask the same thing twice, and "He" in John's mouth is lower case to match the rest of the scene.
 
+## 14 October 2026, reading the Law pages (from chat, verbatim; nothing done yet, by his request)
+
+**On the section front:** right at the top of this landing page for The Law, we say: What God commanded about the blind. A law is evidence of a problem: nobody forbids what no one is doing. Read that way, these verses are a window into how blind people were being treated.. seems a bit presumptuous to say that. I thini think I got that out of my head rather than this being a well known doctrine or anything like that so I want to be really careful ehre. To me, it sounds perfecrt, but that's cause it likely came from my head and I heard it from somewhere that I cannot place
+
+*Placed:* the front and the stumbling block page now say the reading is his and claim less for it (14 October).
+
+**On the stumbling block page, "From Brian":** reading my thoughts on the stumbilng block page. those are my questions rather than my thoughts, so to include those, I think we would want to go along the lines of "reading that first section caused me to question ... and put my questions in like that. I also need some suggestions for either additional questions that qwould naturally follow, or some other potential things to put in here, and we might even have my thoughts later down. In fact, don't do anything yet, hang on to this as I continue reading to see if anything pops in myhead, just note these and stand by until the next prompt
+
+*Standing by.* When he says go: reframe his "From Brian" on that page as questions ("reading that first section caused me to question..."), offer follow-on questions and other things that could sit there, and leave room for his thoughts further down. The same may apply to the priest page, where his "From Brian" is also a question.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
