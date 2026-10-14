@@ -1,104 +1,308 @@
 {
-  "_comment": "Shot list for episode 6. 14 new paintings (prompts below, generated in this order), plus shared stills: the scroll, the pew, Brian's Navy photograph, the series map (maps/ep06.png), the Nazareth synagogue and the lamp at the window from the site paintings, and one still from each earlier episode for the look back. The title and close cards have their lettering added afterwards (title_card.jpg, close_card.jpg).",
-  "style": "Painterly oil-sketch look, visible brushwork. The fortress of Machaerus on its ridge east of the Dead Sea, a rock-cut cell lit only by a low lamp or the light under a door, and the green country of Galilee. No faces shown close up; figures seen from behind or at a distance. No text in the image. No modern objects. Calm and hopeful, never frightening. 16:9.",
-  "shots": [
-    {"from": "001", "image": "ep06_the_answer_to_john/01_cell_dark.jpg", "card": "Not By Sight",
-     "prompt": "A small cell cut out of solid rock, almost dark. A man in a rough camel-hair cloak sits on straw with his back against the wall, seen from behind and to one side, his head tilted as if listening. The only light is a warm line under a heavy wooden door. Calm, not frightening.",
-     "description": "A small cell cut out of solid rock, almost dark. A man in a rough cloak sits on straw, seen from behind, his head tilted as if listening. The only light is a line under a heavy door."},
-    {"from": "002", "at_phrase": "Water is dripping somewhere", "image": "ep06_the_answer_to_john/02_drip.jpg", "card": "Listening",
-     "prompt": "A close view of a rough rock floor in a dim underground cell: a single drop of water falling into a small shallow pool, rings spreading on the water, a little straw nearby, soft warm light from one side. No people.",
-     "description": "A drop of water falls into a small pool on the rock floor of the cell, rings spreading, a little straw nearby."},
-    {"from": "002", "at_phrase": "From far above, through all that rock", "image": "ep06_the_answer_to_john/06_machaerus.jpg", "card": "A palace up there",
-     "prompt": "", "description": "The fortress high on its ridge, a palace at the top, the Dead Sea far below."},
-    {"from": "003", "image": "ep06_the_answer_to_john/03_guard_passage.jpg", "card": "Footsteps",
-     "prompt": "A narrow passage cut through rock, lit by one torch in a bracket. On the left a heavy wooden door with an iron bolt and a large lock. A guard in a plain tunic walks away down the passage, seen from behind and small. Warm torchlight on stone.",
-     "description": "A narrow rock-cut passage lit by one torch. A heavy wooden door with an iron bolt, and a guard walking away down the passage, seen from behind."},
-    {"from": "003", "at_phrase": "And it is the news that troubles him", "image": "ep06_the_answer_to_john/01_cell_dark.jpg", "card": "The news",
-     "prompt": "", "description": "The man in the dark cell again, listening."},
-    {"from": "003", "at_phrase": "So he sends two friends", "image": "ep06_the_answer_to_john/07_two_on_the_road.jpg", "card": "One question",
-     "prompt": "Two men with walking staffs and small packs walk north along a dusty road in the Jordan valley, seen from behind, the river and its green banks to one side and bare hills beyond, morning light, a long road ahead of them.",
-     "description": "Two men with staffs and small packs walk north along a dusty road in the Jordan valley, seen from behind, a long road ahead."},
-    {"from": "004", "image": "ep06_the_answer_to_john/title_card.jpg", "card": "Not By Sight\nEpisode 6: The answer to John",
-     "prompt": "Title card background only: the fortress of Machaerus on a high bare ridge at dusk, seen from a distance, the Dead Sea a long way below and behind it, first stars, no people, no text, keep the lower third calm.",
-     "description": "Title card over the fortress of Machaerus on its ridge at dusk: Not By Sight, episode six, the answer to John."},
-    {"from": "005", "image": "ep06_the_answer_to_john/05_john_at_the_jordan.jpg", "card": "John the Baptist",
-     "prompt": "A man in a rough camel-hair cloak stands waist-deep in the Jordan river with one arm raised toward a crowd gathered on the bank, seen from behind and at a distance, reeds and tamarisk along the water, bright open daylight.",
-     "description": "A man in a rough cloak stands waist-deep in the Jordan with one arm raised toward a crowd on the bank, seen from behind and at a distance."},
-    {"from": "005", "at_phrase": "Josephus, the Jewish historian", "image": "ep06_the_answer_to_john/06_machaerus.jpg", "card": "Machaerus",
-     "prompt": "The fortress of Machaerus in daylight: a walled stronghold with a palace on the flat top of a steep, bare, cone-shaped hill with sheer cliffs, the Dead Sea far below in the distance, heat haze, no people close up.",
-     "description": "The fortress of Machaerus in daylight: a walled stronghold with a palace on top of a steep bare hill with sheer cliffs, the Dead Sea far below."},
-    {"from": "005", "at_phrase": "Where this is.", "image": "maps/ep06.png", "card": "Where this is",
-     "prompt": "",
-     "description": "The series map. Machaerus is marked in gold, east of the Dead Sea. Jericho is at eleven o'clock and Jerusalem at ten, about two days' walk round the north end of the sea. Straight ahead at twelve o'clock is Galilee: Nazareth, Capernaum and Bethsaida are all about four days' walk."},
-    {"from": "005", "at_phrase": "From that place he sends his question", "image": "ep06_the_answer_to_john/07_two_on_the_road.jpg", "card": "Luke 7:18-23",
-     "prompt": "", "description": "The two men on the road north again."},
-    {"from": "006", "image": "ep01_man_born_blind/04_scripture.png", "card": "Luke 7:18-23",
-     "prompt": "", "description": "The open scroll in warm light. The Scripture reader begins."},
-    {"from": "007", "image": "ep06_the_answer_to_john/01_cell_dark.jpg", "card": "Why did he ask?",
-     "prompt": "", "description": "The man in the cell again, as the narrator weighs why he asked."},
-    {"from": "009", "image": "ep06_the_answer_to_john/07_two_on_the_road.jpg", "card": "So they would see for themselves",
-     "prompt": "", "description": "The two friends on the road again."},
-    {"from": "010", "at_phrase": "Whatever the reason", "image": "ep06_the_answer_to_john/08_that_very_hour.jpg", "card": "At that very hour",
-     "prompt": "A crowd on a green hillside in Galilee. At its centre a figure in a plain robe, seen from behind, reaches out to an old man who is being steadied by a friend. At the near edge of the crowd two dusty travellers with staffs stand watching, seen from behind. Bright clear light.",
-     "description": "A crowd on a green hillside in Galilee. A figure in a plain robe, seen from behind, reaches out to an old man steadied by a friend, while two dusty travellers watch from the edge."},
-    {"from": "011", "image": "ep01_man_born_blind/04_scripture.png", "card": "Isaiah 35:4-6",
-     "prompt": "", "description": "The open scroll. The prophet Isaiah."},
-    {"from": "013", "image": "site_batch2/17_eyes_opened.jpg", "card": "Isaiah 61:1",
-     "prompt": "", "description": "Inside the small synagogue at Nazareth, a figure seen from behind stands holding an open scroll, the villagers leaning forward to listen."},
-    {"from": "014", "image": "ep01_man_born_blind/04_scripture.png", "card": "Isaiah 61:1",
-     "prompt": "", "description": "The open scroll again."},
-    {"from": "015", "image": "ep06_the_answer_to_john/08_that_very_hour.jpg", "card": "Go and tell John what you see",
-     "prompt": "", "description": "The crowd in Galilee again, the two travellers watching."},
-    {"from": "016", "image": "ep06_the_answer_to_john/10_the_climb_back.jpg", "card": "Imagine: the return",
-     "prompt": "Evening. Two tired men with staffs climb a steep rocky path toward the gate of a fortress high above them on a bare ridge, seen from behind, long shadows, the Dead Sea far below catching the last light.",
-     "description": "An imagined scene. Two tired men climb a steep rocky path toward the gate of the fortress high above them, seen from behind, the Dead Sea far below."},
-    {"from": "017", "image": "ep06_the_answer_to_john/11_in_the_cell.jpg", "card": "Imagine: the return",
-     "prompt": "Inside a rock-cut cell lit by one small oil lamp on the floor. A man in a rough cloak sits on straw, seen from behind, and two travellers crouch in front of him, leaning in to speak, their faces lost in shadow. Warm lamplight on the rock walls.",
-     "description": "Inside the cell, lit by one small lamp. The prisoner sits on straw, seen from behind, and two travellers crouch before him, leaning in to speak."},
-    {"from": "021", "image": "ep06_the_answer_to_john/08_that_very_hour.jpg", "card": "We stood there an hour",
-     "prompt": "", "description": "The crowd in Galilee again."},
-    {"from": "023", "image": "ep06_the_answer_to_john/12_his_own_hands.jpg", "card": "He kept looking at his own hands",
-     "prompt": "An old man with white hair, seen from behind and over his shoulder, holds up his two open hands in front of him and looks at them in bright daylight. A friend's hand rests on his arm. A crowd is a soft blur beyond. His face is not shown.",
-     "description": "An old man, seen from behind, holds up his two open hands and looks at them in bright daylight, a friend's hand on his arm."},
-    {"from": "024", "image": "ep06_the_answer_to_john/11_in_the_cell.jpg", "card": "The eyes of the blind will be opened",
-     "prompt": "", "description": "The lamplit cell again, the prisoner listening."},
-    {"from": "028", "image": "ep06_the_answer_to_john/13_the_door.jpg", "card": "John stayed",
-     "prompt": "The heavy wooden door of the cell seen from the passage outside, shut, its iron bolt across, a thin line of warm lamplight showing underneath it. The passage is empty and quiet. One torch burning low.",
-     "description": "The heavy door of the cell seen from the passage, shut and bolted, a thin line of lamplight showing beneath it."},
-    {"from": "029", "image": "ep01_man_born_blind/00_brian_navy.png", "card": "Mister Scaredy Cat",
-     "prompt": "",
-     "description": "A photograph treated to match the paintings: Brian as a young sailor in Navy whites, with Patti beside him. A small plate beneath him reads Mister Scaredy Cat."},
-    {"from": "030", "image": "ep01_man_born_blind/05_brian.png", "card": "From Brian",
-     "prompt": "", "description": "The white cane leaning against a church pew. Brian speaks."},
-    {"from": "031", "image": "ep06_the_answer_to_john/06_machaerus.jpg", "card": "Through the walls",
-     "prompt": "", "description": "The fortress on its ridge again."},
-    {"from": "032", "image": "ep01_man_born_blind/04_scripture.png", "card": "Matthew 11:2-11",
-     "prompt": "", "description": "The open scroll. Matthew's account, and what Jesus said about John."},
-    {"from": "033", "image": "ep06_the_answer_to_john/14_about_john.jpg", "card": "More than a prophet",
-     "prompt": "A figure in a plain robe, seen from behind, stands speaking to a large crowd seated on a hillside in Galilee. Far off down the road behind the crowd, two small figures with staffs are walking away toward the south. Clear afternoon light.",
-     "description": "A figure in a plain robe, seen from behind, speaks to a crowd on a hillside, while far off two small figures with staffs walk away down the road."},
-    {"from": "034", "image": "ep01_man_born_blind/05_brian.png", "card": "From Brian",
-     "prompt": "", "description": "The white cane and the pew. Brian speaks."},
-    {"from": "035", "image": "ep01_man_born_blind/09_water.png", "card": "Six episodes",
-     "prompt": "", "description": "Looking back. Episode one: a man kneels at the edge of the Pool of Siloam."},
-    {"from": "035", "at_phrase": "Bartimaeus shouting by the road.", "image": "ep02_bartimaeus/08_the_crowd_stops.png", "card": "Six episodes",
-     "prompt": "", "description": "Episode two: the crowd on the Jericho road stands still."},
-    {"from": "035", "at_phrase": "A man at Bethsaida", "image": "ep03_bethsaida/10_there_is_the_lake.png", "card": "Six episodes",
-     "prompt": "", "description": "Episode three: a man looks out at the whole lake in clear light."},
-    {"from": "035", "at_phrase": "Two men who followed by sound", "image": "ep04_the_ones_who_followed/06_following_down_the_street.png", "card": "Six episodes",
-     "prompt": "", "description": "Episode four: two men follow a crowd down a lane, one with a hand on the other's shoulder."},
-    {"from": "035", "at_phrase": "Crowds on a mountain and in the Temple.", "image": "ep05_the_blind_in_the_crowd/03_glad_crowd_above.png", "card": "Six episodes",
-     "prompt": "", "description": "Episode five: the glad crowd on the crest of the hill."},
-    {"from": "035", "at_phrase": "And now this", "image": "ep06_the_answer_to_john/08_that_very_hour.jpg", "card": "The top of the list",
-     "prompt": "", "description": "And this episode: the crowd in Galilee, at the hour the answer was given."},
-    {"from": "036", "image": "ep01_man_born_blind/05_brian.png", "card": "From Brian",
-     "prompt": "", "description": "The white cane and the pew. Brian's closing thoughts."},
-    {"from": "036", "at_phrase": "I know that someday I will see again.", "image": "site_batch2/18_picture_front.jpg", "card": "From Brian",
-     "prompt": "", "description": "A single clay lamp burning on a window ledge, the first line of dawn along the horizon beyond."},
-    {"from": "036", "at_phrase": "They say blindness is the second greatest fear", "image": "ep01_man_born_blind/05_brian.png", "card": "From Brian",
-     "prompt": "", "description": "The white cane and the pew again."},
-    {"from": "037", "image": "ep06_the_answer_to_john/close_card.jpg", "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
-     "prompt": "Closing card background only: dawn over the Dead Sea seen from a high bare ridge, the water turning gold, hills on the far side, a wide clear sky, no people, no text, keep the upper half calm.",
-     "description": "Closing card over the Dead Sea at dawn: For we walk by faith, not by sight, and the address blindnessinthebible.com."}
-  ]
+ "_comment": "Shot list for episode 6. 14 new paintings (prompts below, generated in this order), plus shared stills: the scroll, the pew, Brian's Navy photograph, the series map (maps/ep06.png), the Nazareth synagogue and the lamp at the window from the site paintings, and one still from each earlier episode for the look back. The title and close cards have their lettering added afterwards (title_card.jpg, close_card.jpg).",
+ "style": "Painterly oil-sketch look, visible brushwork. The fortress of Machaerus on its ridge east of the Dead Sea, a rock-cut cell lit only by a low lamp or the light under a door, and the green country of Galilee. No faces shown close up; figures seen from behind or at a distance. No text in the image. No modern objects. Calm and hopeful, never frightening. 16:9.",
+ "shots": [
+  {
+   "from": "001",
+   "image": "ep06_the_answer_to_john/01_cell_dark.jpg",
+   "card": "Not By Sight",
+   "prompt": "A small cell cut out of solid rock, almost dark. A man in a rough camel-hair cloak sits on straw with his back against the wall, seen from behind and to one side, his head tilted as if listening. The only light is a warm line under a heavy wooden door. Calm, not frightening.",
+   "description": "A small cell cut out of solid rock, almost dark. A man in a rough cloak sits on straw, seen from behind, his head tilted as if listening. The only light is a line under a heavy door."
+  },
+  {
+   "from": "002",
+   "at_phrase": "Water is dripping somewhere",
+   "image": "ep06_the_answer_to_john/02_drip.jpg",
+   "card": "Listening",
+   "prompt": "A close view of a rough rock floor in a dim underground cell: a single drop of water falling into a small shallow pool, rings spreading on the water, a little straw nearby, soft warm light from one side. No people.",
+   "description": "A drop of water falls into a small pool on the rock floor of the cell, rings spreading, a little straw nearby."
+  },
+  {
+   "from": "002",
+   "at_phrase": "From far above, through all that rock",
+   "image": "ep06_the_answer_to_john/06_machaerus.jpg",
+   "card": "A palace up there",
+   "prompt": "",
+   "description": "The fortress high on its ridge, a palace at the top, the Dead Sea far below."
+  },
+  {
+   "from": "003",
+   "image": "ep06_the_answer_to_john/03_guard_passage.jpg",
+   "card": "Footsteps",
+   "prompt": "A narrow passage cut through rock, lit by one torch in a bracket. On the left a heavy wooden door with an iron bolt and a large lock. A guard in a plain tunic walks away down the passage, seen from behind and small. Warm torchlight on stone.",
+   "description": "A narrow rock-cut passage lit by one torch. A heavy wooden door with an iron bolt, and a guard walking away down the passage, seen from behind."
+  },
+  {
+   "from": "003",
+   "at_phrase": "And it is the news that troubles him",
+   "image": "ep06_the_answer_to_john/01_cell_dark.jpg",
+   "card": "The news",
+   "prompt": "",
+   "description": "The man in the dark cell again, listening."
+  },
+  {
+   "from": "003",
+   "at_phrase": "So he sends two friends",
+   "image": "ep06_the_answer_to_john/07_two_on_the_road.jpg",
+   "card": "One question",
+   "prompt": "Two men with walking staffs and small packs walk north along a dusty road in the Jordan valley, seen from behind, the river and its green banks to one side and bare hills beyond, morning light, a long road ahead of them.",
+   "description": "Two men with staffs and small packs walk north along a dusty road in the Jordan valley, seen from behind, a long road ahead."
+  },
+  {
+   "from": "004",
+   "image": "ep06_the_answer_to_john/title_card.jpg",
+   "card": "Not By Sight\nEpisode 6: The answer to John",
+   "prompt": "Title card background only: the fortress of Machaerus on a high bare ridge at dusk, seen from a distance, the Dead Sea a long way below and behind it, first stars, no people, no text, keep the lower third calm.",
+   "description": "Title card over the fortress of Machaerus on its ridge at dusk: Not By Sight, episode six, the answer to John."
+  },
+  {
+   "from": "005",
+   "image": "ep06_the_answer_to_john/05_john_at_the_jordan.jpg",
+   "card": "John the Baptist",
+   "prompt": "A man in a rough camel-hair cloak stands waist-deep in the Jordan river with one arm raised toward a crowd gathered on the bank, seen from behind and at a distance, reeds and tamarisk along the water, bright open daylight.",
+   "description": "A man in a rough cloak stands waist-deep in the Jordan with one arm raised toward a crowd on the bank, seen from behind and at a distance."
+  },
+  {
+   "from": "005",
+   "at_phrase": "Josephus, the Jewish historian",
+   "image": "ep06_the_answer_to_john/06_machaerus.jpg",
+   "card": "Machaerus",
+   "prompt": "The fortress of Machaerus in daylight: a walled stronghold with a palace on the flat top of a steep, bare, cone-shaped hill with sheer cliffs, the Dead Sea far below in the distance, heat haze, no people close up.",
+   "description": "The fortress of Machaerus in daylight: a walled stronghold with a palace on top of a steep bare hill with sheer cliffs, the Dead Sea far below."
+  },
+  {
+   "from": "005",
+   "at_phrase": "Where this is.",
+   "image": "maps/ep06.png",
+   "card": "Where this is",
+   "prompt": "",
+   "description": "The series map. Machaerus is marked in gold, east of the Dead Sea. Jericho is at eleven o'clock and Jerusalem at ten, about two days' walk round the north end of the sea. Straight ahead at twelve o'clock is Galilee: Nazareth, Capernaum and Bethsaida are all about four days' walk."
+  },
+  {
+   "from": "005",
+   "at_phrase": "From that place he sends his question",
+   "image": "ep06_the_answer_to_john/07_two_on_the_road.jpg",
+   "card": "Luke 7:18-23",
+   "prompt": "",
+   "description": "The two men on the road north again."
+  },
+  {
+   "from": "006",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Luke 7:18-23",
+   "prompt": "",
+   "description": "The open scroll in warm light. The Scripture reader begins."
+  },
+  {
+   "from": "007",
+   "image": "ep06_the_answer_to_john/01_cell_dark.jpg",
+   "card": "Why did he ask?",
+   "prompt": "",
+   "description": "The man in the cell again, as the narrator weighs why he asked."
+  },
+  {
+   "from": "009",
+   "image": "ep06_the_answer_to_john/07_two_on_the_road.jpg",
+   "card": "So they would see for themselves",
+   "prompt": "",
+   "description": "The two friends on the road again."
+  },
+  {
+   "from": "010",
+   "at_phrase": "Whatever the reason",
+   "image": "ep06_the_answer_to_john/08_that_very_hour.jpg",
+   "card": "At that very hour",
+   "prompt": "A crowd on a green hillside in Galilee. At its centre a figure in a plain robe, seen from behind, reaches out to an old man who is being steadied by a friend. At the near edge of the crowd two dusty travellers with staffs stand watching, seen from behind. Bright clear light.",
+   "description": "A crowd on a green hillside in Galilee. A figure in a plain robe, seen from behind, reaches out to an old man steadied by a friend, while two dusty travellers watch from the edge."
+  },
+  {
+   "from": "011",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Isaiah 35:4-6",
+   "prompt": "",
+   "description": "The open scroll. The prophet Isaiah."
+  },
+  {
+   "from": "013",
+   "image": "site_batch2/17_eyes_opened.jpg",
+   "card": "Isaiah 61:1",
+   "prompt": "",
+   "description": "Inside the small synagogue at Nazareth, a figure seen from behind stands holding an open scroll, the villagers leaning forward to listen."
+  },
+  {
+   "from": "014",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Isaiah 61:1",
+   "prompt": "",
+   "description": "The open scroll again."
+  },
+  {
+   "from": "015",
+   "image": "ep06_the_answer_to_john/08_that_very_hour.jpg",
+   "card": "Go and tell John what you see",
+   "prompt": "",
+   "description": "The crowd in Galilee again, the two travellers watching."
+  },
+  {
+   "from": "016",
+   "image": "ep06_the_answer_to_john/10_the_climb_back.jpg",
+   "card": "Imagine: the return",
+   "prompt": "Evening. Two tired men with staffs climb a steep rocky path toward the gate of a fortress high above them on a bare ridge, seen from behind, long shadows, the Dead Sea far below catching the last light.",
+   "description": "An imagined scene. Two tired men climb a steep rocky path toward the gate of the fortress high above them, seen from behind, the Dead Sea far below."
+  },
+  {
+   "from": "017",
+   "image": "ep06_the_answer_to_john/11_in_the_cell.jpg",
+   "card": "Imagine: the return",
+   "prompt": "Inside a rock-cut cell lit by one small oil lamp on the floor. A man in a rough cloak sits on straw, seen from behind, and two travellers crouch in front of him, leaning in to speak, their faces lost in shadow. Warm lamplight on the rock walls.",
+   "description": "Inside the cell, lit by one small lamp. The prisoner sits on straw, seen from behind, and two travellers crouch before him, leaning in to speak."
+  },
+  {
+   "from": "021",
+   "image": "ep06_the_answer_to_john/08_that_very_hour.jpg",
+   "card": "We stood there an hour",
+   "prompt": "",
+   "description": "The crowd in Galilee again."
+  },
+  {
+   "from": "023",
+   "image": "ep06_the_answer_to_john/12_his_own_hands.jpg",
+   "card": "He kept looking at his own hands",
+   "prompt": "An old man with white hair, seen from behind and over his shoulder, holds up his two open hands in front of him and looks at them in bright daylight. A friend's hand rests on his arm. A crowd is a soft blur beyond. His face is not shown.",
+   "description": "An old man with white hair, seen from behind his shoulder, holds up his two open hands and looks at them in bright daylight, a friend's hand on his arm."
+  },
+  {
+   "from": "024",
+   "image": "ep06_the_answer_to_john/11_in_the_cell.jpg",
+   "card": "The eyes of the blind will be opened",
+   "prompt": "",
+   "description": "The lamplit cell again, the prisoner listening."
+  },
+  {
+   "from": "028",
+   "image": "ep06_the_answer_to_john/13_the_door.jpg",
+   "card": "John stayed",
+   "prompt": "The heavy wooden door of the cell seen from the passage outside, shut, its iron bolt across, a thin line of warm lamplight showing underneath it. The passage is empty and quiet. One torch burning low.",
+   "description": "The heavy door of the cell, shut and bolted, a torch burning beside it in the empty passage."
+  },
+  {
+   "from": "029",
+   "image": "ep01_man_born_blind/00_brian_navy.png",
+   "card": "Mister Scaredy Cat",
+   "prompt": "",
+   "description": "A photograph treated to match the paintings: Brian as a young sailor in Navy whites, with Patti beside him. A small plate beneath him reads Mister Scaredy Cat."
+  },
+  {
+   "from": "030",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane leaning against a church pew. Brian speaks."
+  },
+  {
+   "from": "031",
+   "image": "ep06_the_answer_to_john/06_machaerus.jpg",
+   "card": "Through the walls",
+   "prompt": "",
+   "description": "The fortress on its ridge again."
+  },
+  {
+   "from": "032",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Matthew 11:2-11",
+   "prompt": "",
+   "description": "The open scroll. Matthew's account, and what Jesus said about John."
+  },
+  {
+   "from": "033",
+   "image": "ep06_the_answer_to_john/14_about_john.jpg",
+   "card": "More than a prophet",
+   "prompt": "A figure in a plain robe, seen from behind, stands speaking to a large crowd seated on a hillside in Galilee. Far off down the road behind the crowd, two small figures with staffs are walking away toward the south. Clear afternoon light.",
+   "description": "A figure in a plain robe, seen from behind, speaks to a crowd on a hillside, while far off two small figures with staffs walk away down the road."
+  },
+  {
+   "from": "034",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane and the pew. Brian speaks."
+  },
+  {
+   "from": "035",
+   "image": "ep01_man_born_blind/09_water.png",
+   "card": "Six episodes",
+   "prompt": "",
+   "description": "Looking back. Episode one: a man kneels at the edge of the Pool of Siloam."
+  },
+  {
+   "from": "035",
+   "at_phrase": "Bartimaeus shouting by the road.",
+   "image": "ep02_bartimaeus/08_the_crowd_stops.png",
+   "card": "Six episodes",
+   "prompt": "",
+   "description": "Episode two: the crowd on the Jericho road stands still."
+  },
+  {
+   "from": "035",
+   "at_phrase": "A man at Bethsaida",
+   "image": "ep03_bethsaida/10_there_is_the_lake.png",
+   "card": "Six episodes",
+   "prompt": "",
+   "description": "Episode three: a man looks out at the whole lake in clear light."
+  },
+  {
+   "from": "035",
+   "at_phrase": "Two men who followed by sound",
+   "image": "ep04_the_ones_who_followed/06_following_down_the_street.png",
+   "card": "Six episodes",
+   "prompt": "",
+   "description": "Episode four: two men follow a crowd down a lane, one with a hand on the other's shoulder."
+  },
+  {
+   "from": "035",
+   "at_phrase": "Crowds on a mountain and in the Temple.",
+   "image": "ep05_the_blind_in_the_crowd/03_glad_crowd_above.png",
+   "card": "Six episodes",
+   "prompt": "",
+   "description": "Episode five: the glad crowd on the crest of the hill."
+  },
+  {
+   "from": "035",
+   "at_phrase": "And now this",
+   "image": "ep06_the_answer_to_john/08_that_very_hour.jpg",
+   "card": "The top of the list",
+   "prompt": "",
+   "description": "And this episode: the crowd in Galilee, at the hour the answer was given."
+  },
+  {
+   "from": "036",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane and the pew. Brian's closing thoughts."
+  },
+  {
+   "from": "036",
+   "at_phrase": "I know that someday I will see again.",
+   "image": "site_batch2/18_picture_front.jpg",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "A single clay lamp burning on a window ledge, the first line of dawn along the horizon beyond."
+  },
+  {
+   "from": "036",
+   "at_phrase": "They say blindness is the second greatest fear",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane and the pew again."
+  },
+  {
+   "from": "037",
+   "image": "ep06_the_answer_to_john/close_card.jpg",
+   "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
+   "prompt": "Closing card background only: dawn over the Dead Sea seen from a high bare ridge, the water turning gold, hills on the far side, a wide clear sky, no people, no text, keep the upper half calm.",
+   "description": "Closing card over the Dead Sea at dawn: For we walk by faith, not by sight, and the address blindnessinthebible.com."
+  }
+ ]
 }

@@ -132,6 +132,8 @@ def main(project: str, mix: str) -> None:
         if ln.startswith("[") and not ln.startswith(("[BREAK]", "[PAUSE")):
             n += 1
             texts[f"{n:03d}"] = re.match(r"^\[(\w+)\]\s*(?:\(([^)]*)\))?\s*(.*)$", ln).group(3)
+            # the script spells the address the way it is spoken; a caption shows it the way it is typed
+            texts[f"{n:03d}"] = texts[f"{n:03d}"].replace("blindness in the Bible dot com", "blindnessinthebible.com")
 
     total = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", mix],
                                  capture_output=True, text=True, check=True).stdout.strip())
