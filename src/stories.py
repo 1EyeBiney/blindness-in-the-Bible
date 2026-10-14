@@ -423,6 +423,8 @@ STORIES = [
     {
         "slug": "answer-to-john", "title": "Jesus's answer to John the Baptist", "who": "Jesus's answer to John the Baptist",
         "group": "given", "outcome": "restored",
+        "listen": {"youtube": "wPhIZnMfdao", "mp3": "not_by_sight_06_the_answer_to_john.mp3", "minutes": 19,
+               "title": "Not By Sight, Episode 6: The Answer to John"},
         "passages": [("Matthew", 11, 2, 6), ("Luke", 7, 18, 23)],
         "around": "John the Baptist is in prison. He sends his disciples to ask Jesus whether He is the One who was "
                   "to come.",

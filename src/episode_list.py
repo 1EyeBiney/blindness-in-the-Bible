@@ -26,6 +26,10 @@ EPISODES = [
      "Twice the blind are healed as part of a crowd, with no names given. Once on a mountain above the Sea of Galilee, "
      "where people carried each other up the hill and stayed three days. Once in the Temple at Jerusalem, in Jesus's "
      "last week."),
+    (6, "The Answer to John", "Matthew 11 and Luke 7", ["answer-to-john"],
+     "John the Baptist, in prison at Machaerus, sends two friends to ask Jesus one question: are You the One who was "
+     "to come? The answer he gets back begins with blind people. This is the episode where Jesus Himself says what "
+     "the healings were for."),
 ]
 
 # The trailer: a short taste of the episodes, on the home page and at the top of the Episodes page.

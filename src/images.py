@@ -159,11 +159,24 @@ PAGE_PICTURES = {
 }
 
 STORY_PICTURES["answer-to-john"] = [
-    # Until episode 6 is made, this page borrows the painting from episode 5 of the kind of scene Jesus pointed John to.
-    {"slot": "banner", "source": "ep05_the_blind_in_the_crowd/06_laid_at_his_feet.png",
-     "name": "crowds-by-the-sea-laid-at-his-feet",
-     "alt": "People set down a stretcher and help others to sit on the ground before a seated figure, seen from behind the helpers.",
-     "caption": "The blind receive sight, the lame walk. From Matthew 11:5. The picture is a painting, imagined, not a record."},
+    {"slot": "banner", "source": "ep06_the_answer_to_john/08_that_very_hour.jpg", "name": "answer-to-john-that-very-hour",
+     "alt": "A crowd on a green hillside in Galilee. A figure in a plain robe, seen from behind, reaches out to an old man steadied by a friend, while two dusty travellers with staffs watch from the edge.",
+     "caption": "He gave sight to many who were blind. From Luke 7:21. The pictures on this page are paintings made for the episode. They are imagined, not records."},
+    {"slot": "around", "source": "ep06_the_answer_to_john/01_cell_dark.jpg", "name": "answer-to-john-cell-dark",
+     "alt": "A small cell cut out of solid rock, almost dark. A man in a rough cloak sits on straw, seen from behind, his head tilted as if listening. The only light is a line under a heavy door.",
+     "caption": "John heard in prison about the works of Christ."},
+    {"slot": "happens", "source": "ep06_the_answer_to_john/07_two_on_the_road.jpg", "name": "answer-to-john-two-on-the-road",
+     "alt": "Two men with staffs and small packs walk north along a dusty road in the Jordan valley, seen from behind, the river to one side and a long road ahead.",
+     "caption": "Two friends, a walk of about four days, and one question."},
+    {"slot": "shoes", "source": "ep06_the_answer_to_john/12_his_own_hands.jpg", "name": "answer-to-john-his-own-hands",
+     "alt": "An old man with white hair, seen from behind his shoulder, holds up his two open hands and looks at them in bright daylight, a friend's hand on his arm.",
+     "caption": "What the messengers were told to report: the blind receive sight."},
+    {"slot": "place", "source": "ep06_the_answer_to_john/06_machaerus.jpg", "name": "answer-to-john-machaerus",
+     "alt": "The fortress of Machaerus in daylight: a walled stronghold with a palace on top of a steep bare hill with sheer cliffs, the Dead Sea far below.",
+     "caption": "Machaerus, the fortress east of the Dead Sea that Josephus names as John's prison."},
+    {"slot": "map", "source": "maps/ep06.png", "name": "map-ep06",
+     "alt": "The series map, with Machaerus marked in gold east of the Dead Sea.",
+     "caption": "The map, in words. Machaerus stands east of the Dead Sea. Stand on its walls facing north. Jericho is at eleven o'clock and Jerusalem at ten, about two days' walk round the north end of the sea. Straight ahead at twelve o'clock is Galilee: Nazareth, Capernaum and Bethsaida are all about four days' walk."},
 ]
 
 IMAGINED = " The picture is a painting, imagined, not a record."
