@@ -13,8 +13,10 @@ page shows an open slot until they are filled.
 from __future__ import annotations
 
 SECTIONS = {
-    "law": ("The law", "What God commanded about the blind. A law is evidence of a problem: nobody forbids what no one "
-                       "is doing. Read that way, these verses are a window into how blind people were being treated."),
+    "law": ("The law", "What God commanded about the blind. Brian's way of reading these laws is to ask what they were "
+                       "written to prevent. A law is not proof that a thing was common, but it is a sign that someone thought "
+                       "it worth forbidding. Read that way, these verses say something about how blind people were treated, "
+                       "and the old books on each page say where that reading holds and where it does not."),
     "life": ("Living blind, then", "What daily life would have been like for a blind person in each kind of place "
                                    "Scripture shows. Written from what the text says and what the reference shelf "
                                    "adds, with room for the people who know: Brian and others who live without sight."),
@@ -37,7 +39,8 @@ LAW_PAGES = [
                   "appeals to the fear of God rather than to any court: no witness would come forward, so only God "
                   "sees. The second law is among curses on secret murder, moving a boundary stone and cheating the "
                   "fatherless, which suggests that misleading a blind traveller was counted among the serious, "
-                  "hidden cruelties. Laws like these are not written against things nobody does.",
+                  "hidden cruelties. None of this proves such things were common. It does show that someone thought them "
+                  "worth forbidding, and worth a curse said aloud by a whole nation.",
         "brian": [
             "It doesn't look like Hammurabi's code has anything about the treatment of the blind. So is the Bible the "
             "first recorded anything that addresses the blind? And when was Hammurabi's code written compared with "
