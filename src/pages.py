@@ -42,9 +42,16 @@ LAW_PAGES = [
                   "hidden cruelties. None of this proves such things were common. It does show that someone thought them "
                   "worth forbidding, and worth a curse said aloud by a whole nation.",
         "brian": [
-            "It doesn't look like Hammurabi's code has anything about the treatment of the blind. So is the Bible the "
-            "first recorded anything that addresses the blind? And when was Hammurabi's code written compared with "
-            "what Moses was doing in Leviticus and Deuteronomy?",
+            "Reading that first section caused me to question a few things, and the answers are now on this page, in the "
+            "sections on the word and on the place and the time. It doesn't look like Hammurabi's code has anything "
+            "about the treatment of the blind. So is the Bible the first recorded anything that addresses the blind? "
+            "And when was Hammurabi's code written compared with what Moses was doing in Leviticus and Deuteronomy?",
+            "Then the stumbling block itself. For me, a stumbling block is an annoyance more than anything: something "
+            "I would stumble over, but not necessarily fall down. I stumble over curbs and parking stops all the time "
+            "and somehow always seem to catch myself. I am fortunate to have enough of a sense of balance and spatial "
+            "awareness for this to work. Most blind people I know will easily trip over curbs and parking stops, "
+            "usually resulting in serious pain of some sort. So is this notion of a stumbling block more like me "
+            "tripping slightly, or more like a blind person falling down and breaking or spraining something?",
         ],
     },
     {

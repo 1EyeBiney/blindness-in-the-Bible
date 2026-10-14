@@ -462,6 +462,28 @@ def slot_html(page: dict) -> str:
     return "\n".join(parts)
 
 
+def word_html(page: dict, bible: dict, root: str) -> str:
+    """The Hebrew word a law turns on, with the verses that share it, in the Berean text."""
+    import words as wd
+    entries = wd.WORDS.get(page["slug"])
+    if not entries:
+        return ""
+    parts = ["<h2>The word</h2>",
+             "<p>The Hebrew word this law turns on, and where else the Bible uses it. The spelling is a plain one for "
+             "saying aloud; the meaning is from Strong's dictionary of 1894, and every verse listed really uses the "
+             "word, which the build checks against the tagged Hebrew text.</p>"]
+    for w in entries:
+        parts.append(f'<h3>{e(w["spelling"])}, said {e(w["say"])}: {e(w["gloss"])}</h3>')
+        parts.extend(f"<p>{e(t)}</p>" for t in w["text"])
+        parts.append("<p>Where the word is used:</p><ul>")
+        for book, ch, v in w["verses"]:
+            parts.append(f'<li><b>{e(passage_label((book, ch, v, v)))}</b> {e(bible[(book, ch, v)])}</li>')
+        parts.append("</ul>")
+        parts.append(f'<p class="source">Source: Strong\'s Hebrew dictionary (1894), entry {e(w["number"])}; the Open '
+                     f'Scriptures Hebrew Bible, which tags every word of the Hebrew text with its dictionary number.</p>')
+    return "\n".join(parts)
+
+
 def context_page(page: dict, bible: dict, root: str, back: tuple[str, str]) -> str:
     parts = [f'<p><a href="{back[0]}">{e(back[1])}</a></p>', f"<h1>{e(page['title'])}</h1>"]
     if page.get("question"):
@@ -475,6 +497,7 @@ def context_page(page: dict, bible: dict, root: str, back: tuple[str, str]) -> s
         parts.append(f"<h2>What the picture assumes about the blind</h2><p>{e(page['assumes'])}</p>")
     if page.get("who"):
         parts.append(f"<h2>Who is called blind</h2><p>{e(page['who'])}</p>")
+    parts.append(word_html(page, bible, root))
     parts.append(slot_html(page))
     if page.get("place_and_time"):
         parts.append("<h2>The place and the time</h2>")
@@ -616,6 +639,9 @@ Whiston.</li>
 <li><cite>Smith's Bible Dictionary</cite> (1884 edition) and the <cite>International Standard Bible Encyclopedia</cite>
 (1915).</li>
 <li>Matthew Henry's <cite>Commentary</cite>, all six volumes, and the <cite>Pulpit Commentary</cite> on Job 29.</li>
+<li>Strong's Hebrew dictionary (1894), in Open Scriptures' free edition, and the Open Scriptures Hebrew Bible, the
+Hebrew text with every word tagged with its dictionary number (CC BY 4.0), for the pages that say which Hebrew word a law
+uses.</li>
 <li>The Code of Hammurabi (C. H. W. Johns, 1903) and the Instruction of Amenemope (E. A. Wallis Budge, 1924), for the
 laws and wisdom of the nations around Israel.</li>
 <li>James Wilson's <cite>Biography of the Blind</cite> (1838) and W. Hanks Levy's <cite>Blindness and the Blind</cite>

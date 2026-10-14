@@ -1116,3 +1116,23 @@ Everything in this folder was retrieved on 2026-10-03 with Brian's approval, usi
 - Licence basis: Public domain by age (the whole Pulpit Commentary was published before 1930). Only the Pulpit entry for the one verse was kept; the Bible Hub page's HTML was stripped. Bible Hub's transcription of a public-domain text claims no new copyright on the words.
 - Size: 856 bytes
 - Odd things: Fetched to answer Brian's question about Job acting as eyes to the blind. Taken because it is the one commentator found who reads the verse as practical, everyday service (information for the blind, errands for the lame). The same page carries Gill, Barnes, Keil and Delitzsch, Jamieson-Fausset-Brown and Benson, which were read but not kept.
+
+## Strong's Hebrew dictionary (1894)
+
+- File: `strongs-hebrew-dictionary.js`
+- Author: James Strong; JSON edition by Open Scriptures
+- Year: 1894 (edition 2010)
+- Source URL: https://raw.githubusercontent.com/openscriptures/strongs/master/hebrew/strongs-hebrew-dictionary.js
+- Retrieved: 2026-10-14, with Brian's approval
+- Licence basis: Public-domain text (1894); the Open Scriptures edition is CC BY-SA, as its header states.
+- Size: 2,003,130 bytes
+- Odd things: A JavaScript file holding one JSON object keyed by Strong's number ("H4383"). Read by src/hebrew.py.
+
+## The Open Scriptures Hebrew Bible (tagged Hebrew text)
+
+- Files: `oshb_Exod.xml`, `oshb_Lev.xml`, `oshb_Deut.xml`, `oshb_Judg.xml`, `oshb_2Sam.xml`, `oshb_2Kgs.xml`, `oshb_Ps.xml`, `oshb_Song.xml`, `oshb_Isa.xml`, `oshb_Jer.xml`, `oshb_Ezek.xml`, `oshb_Mal.xml`, `oshb_README.md`
+- Author: Open Scriptures; the text is the Westminster Leningrad Codex
+- Source URL: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/<Book>.xml
+- Retrieved: 2026-10-14, with Brian's approval
+- Licence basis: Lemma and morphology data CC BY 4.0 (oshb_README.md); the Leningrad Codex text is public domain.
+- Odd things: OSIS XML; each word carries a `lemma` attribute with its Strong's number, sometimes with a prefix such as "c/" for an attached conjunction. Only the books the site needs were fetched. Read by src/hebrew.py.

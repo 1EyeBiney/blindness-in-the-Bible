@@ -439,3 +439,29 @@ def test_the_trailer_is_on_the_home_page_and_the_episodes_page(tmp_path):
     eps = (tmp_path / "episodes.html").read_text(encoding="utf-8")
     assert eps.index("Start here: the trailer") < eps.index("Episode 1:") and f'watch?v={t["youtube"]}' in eps
     assert ep.PLAYLIST.startswith("https://www.youtube.com/playlist?list=") and eps.count(ep.PLAYLIST) == 1
+
+
+def test_the_word_sections_rest_on_the_tagged_hebrew_text(tmp_path):
+    """Every verse listed under a Hebrew word really uses that word, by Strong's number, in the tagged text; the
+    gloss is Strong's own; and the section sits on each Law page between What to notice and From Brian."""
+    import hebrew
+    import pages as pg
+    import words as wd
+    assert set(wd.WORDS) == {p["slug"] for p in pg.by_section("law")}
+    bible = build_site.load_bible()
+    for slug, entries in wd.WORDS.items():
+        for w in entries:
+            entry = hebrew.entry(w["number"])
+            first = w["gloss"].split(",")[0].split(";")[0].split(" from ")[0].strip().lower()
+            assert first in entry["strongs_def"].lower(), (w["number"], first)
+            for book, ch, v in w["verses"]:
+                assert hebrew.has(book, ch, v, w["number"]), (slug, w["spelling"], book, ch, v)
+                assert (book, ch, v) in bible, (book, ch, v)
+    build_site.render_all(tmp_path)
+    for slug in wd.WORDS:
+        h = (tmp_path / "law" / f"{slug}.html").read_text(encoding="utf-8")
+        assert h.count("<h2>The word</h2>") == 1, slug
+        assert h.index("What it may tell us") < h.index("<h2>The word</h2>") < h.index("<h2>From Brian</h2>"), slug
+        assert h.count("entry H") == len(wd.WORDS[slug]), slug
+    sb = (tmp_path / "law" / "stumbling-block.html").read_text(encoding="utf-8")
+    assert "mikshol" in sb and "parking stops" in sb and sb.index("mikshol") < sb.index("parking stops")

@@ -48,7 +48,7 @@ def test_index_rows_point_to_real_text():
 
 def test_request_log_hosts_and_count():
     lines = (SHELF / "request_log.txt").read_text(encoding="utf-8").splitlines()
-    assert 0 < len(lines) <= 60
+    assert 0 < len(lines) <= 80   # 2026-10-14: 16 more requests for the Hebrew dictionary and tagged text
     for ln in lines:
         t, status, url, size = ln.split("\t")
         host = urlparse(url).hostname or ""
