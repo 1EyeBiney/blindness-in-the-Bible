@@ -253,6 +253,14 @@ His word changes: "John the Baptist, would die there"; John: "Well? Did you ask 
 
 *Standing by.* When he says go: reframe his "From Brian" on that page as questions ("reading that first section caused me to question..."), offer follow-on questions and other things that could sit there, and leave room for his thoughts further down. The same may apply to the priest page, where his "From Brian" is also a question.
 
+## 14 October 2026, the stumbling block as trip or fall, and the Hebrew words (from chat, verbatim)
+
+**His question:** For me, a stumbling block is an annoyance more than anything, meaning, something I would stumble over, but not necessarily fall down. I stumble over curbs and parking stops all the time and somehow always seem to catch myself. I am fortunate to have anough of a sense of balance and spatial awareness for this to work. Most blind people I know will easily trip over curbs and parking stops, usually resulting in seriou pain of some sort. Is this notion of a stumbling block more like me tripping slightly or more like a blind person falling down, and breaking or spraining something?
+
+**His decision:** yes, we definitely need to develop this question and answer fully, using my thoughts and perhaps a section just to answer it if it does not fall into another category. We absolutely need to include the actual Hebrew word and include the other passages. In fact, I think this is one of the elements we could likely do in place of the imagined scenes. We need to see if we can do this likewise on the other 3 Law pages where we have a Hebrwe word and tie that in, thiskind of stuff is fascinating to the people in our target audience. [...] yes to all of it, do not wait on doing stumbling block first. Incorporate my new questiosn with the existing ones iinto my thoughts section.
+
+*Placed:* a section called "The word" on all four Law pages (src/words.py), checked on every build against the tagged Hebrew text; Strong's and the Open Scriptures Hebrew Bible added to the shelf with his approval; his "From Brian" on the stumbling block page reframed as questions with the new one added, in his words. The "From Brian" on the priest page was left as it was.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)

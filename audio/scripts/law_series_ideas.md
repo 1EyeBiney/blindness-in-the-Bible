@@ -31,7 +31,15 @@ one is doing. Every episode asks what this law shows about how blind people were
 Alternative: put the priest last, so the series ends on the hardest question and Brian's fullest answer.
 Claude leans toward page order, because Malachi gives a natural look back across the whole Law.
 
-## What replaces the imagined scenes: five options
+## Decided 14 October: "The word" replaces the imagined scenes
+
+Each Law page now has a section called The word: the Hebrew word the law turns on, Strong's gloss, where else the
+Bible uses it, and what that does to the law (src/words.py). Brian chose this as the segment that stands in for the
+imagined scenes. In the episodes it can be its own voice or the narrator's; the pronunciations are on the pages
+(mikshol, mik-SHOLE; ayin; chophshi, khof-SHEE; mum, moom; avveret; yare, yah-RAY) and must be tested in the
+voices before rendering. The other options below are still open as additions.
+
+## The other options that were on the table
 
 **A. A second voice: the comparison.** A new voice reads the other law codes of the region, word for word from
 the translations on the shelf: Hammurabi on the eye, Ur-Nammu, the Egyptian Instruction of Amenemope. The
