@@ -39,10 +39,16 @@ FINAL = {
              "answer back or get even, so people who would never do this to someone able to retaliate are reminded that "
              "God sees and \"will plead their cause.\"",
              f"{HENRY}, on Leviticus 19.", ("law-stumbling-block", 0), ("law-stumbling-block", 1)),
-        item("Josephus, summarizing the Law for Roman readers in the first century, put it in everyday terms: it is a "
-             "duty to show the road to people who do not know it, and not to treat sending them the wrong way as a "
-             "joke; and \"let no one revile a person blind or dumb.\" The joke is his detail, not Leviticus's, and it "
-             "tells us what he thought the law was guarding against.",
+        item("Josephus, retelling the Law for Roman readers about AD 93, turned this command into everyday terms. In "
+             "William Whiston's translation his words are: \"It is also a duty to show the roads to those who do not "
+             "know them, and not to esteem it a matter for sport, when we hinder others' advantages, by setting them in "
+             "a wrong way. In like manner, let no one revile a person blind or dumb.\" Three things in that are his, "
+             "not Leviticus's. The law only forbids; Josephus adds a positive duty, to show the way to anyone who does "
+             "not know it. The law gives no motive; Josephus names one, sport, the pleasure of watching someone go "
+             "wrong. And he pairs the blind with the dumb, those unable to speak, as the deaf are paired with the blind "
+             "in Leviticus: people who cannot catch the offender or answer back. Taken together, his retelling says "
+             "what he thought the law was guarding against. Not an accident on the road, but a cruel joke played on "
+             "someone who would never know who played it.",
              f"{JOS}, Book IV, chapter 8.", ("law-stumbling-block", 5)),
         item("An honest counterweight to the idea that a law proves a practice: Henry reports that Jewish commentators "
              "thought it unthinkable that anyone would be \"so barbarous as to put a stumbling-block in the way of the "
