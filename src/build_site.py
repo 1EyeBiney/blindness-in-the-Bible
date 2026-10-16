@@ -187,7 +187,7 @@ def page(title: str, body: str, current: str, root: str = "", share: dict | None
 <footer><div class="wrap">
 <p>Scripture quotations are from the Holy Bible, Berean Standard Bible, BSB, which has been dedicated to the public
 domain. The text is used exactly as published at <a href="https://berean.bible">berean.bible</a>.</p>
-<p>Not By Sight is Brian Clark's work, and he counts it a gift from God through him. So it is given on: free to copy,
+<p>This site is Brian Clark's work, and he counts it a gift from God through him. So it is given on: free to copy,
 quote and share, under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution licence</a>.
 The rest is on <a href="{root}check-our-work.html">Check our work</a>.</p>
 </div></footer>
