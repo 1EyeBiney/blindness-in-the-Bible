@@ -261,6 +261,12 @@ His word changes: "John the Baptist, would die there"; John: "Well? Did you ask 
 
 *Placed:* a section called "The word" on all four Law pages (src/words.py), checked on every build against the tagged Hebrew text; Strong's and the Open Scriptures Hebrew Bible added to the shelf with his approval; his "From Brian" on the stumbling block page reframed as questions with the new one added, in his words. The "From Brian" on the priest page was left as it was.
 
+## 16 October 2026, first thoughts on The servant blinded by his master (from chat, verbatim)
+
+I have read Stumbling Block and have no changes at this time. I am reading the Servent Blinded and want some help to shape my thoughts for this page., just initially: seems a bit unbalanced to equate an eye with a tooth. I have losst two teeth since I lost 2 eyes and the adjustment wasn't nearly the same. (I don't know how to say this without being snarky but) Someone with a loose tooth could get slapped and go free and this is equal to losing an eye? [I think there is significance to the Hebrew slave being set free after 7 years, but I also thought thta there was a yearly event, maybe not annually, that also freed slaves even when theyhad not done 7 years service. Before we add this we need to check into my memory heere and see if that matters at all] I see other monetary amounts listed and have a couple of thoughts that are polar opposites. On one hand, how can you put a monetary price on reduced sight or even sight loss? I would imagine that in some cases, the servent was completelyl blinded, so is that worth the price of freedom? On the other hand, I have lived without light since 2014 and my freedom, especially to freely worship God in the manner of my choosing, is worth more than my sight ever was. I have adapted, adjusted and found God's purpose for me. In so many ways, my blindness has been an incredible gift from God (3rd behind my salvation and my wife), and it has brought us so mmany blessings and shaped my character to better suit His purposes. [we can edit and clean that up but those are initial thoughts and we can add to those with appropriate/related ideas] Please draft any content you propose from me and where and how to use it
+
+*Status:* drafts proposed to him; nothing on the page yet.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
