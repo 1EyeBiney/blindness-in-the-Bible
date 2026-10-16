@@ -309,6 +309,19 @@ DATA["law-priest"] = [
 
 # ================================================================ law-blind-animals
 DATA["law-blind-animals"] = [
+    item("Edersheim on the Temple market: because an offering had to pass inspection for blemishes, qualified examiners "
+         "charged fees, and a market grew up inside the Temple enclosure selling animals already inspected and paid for. "
+         "He says the poor were taken advantage of there, and gives the case of a pair of pigeons run up to a gold denar.",
+         f"{ED_LT}, Book III, chapter 5.",
+         [ev(LT, "when an animal was brought, it had to be examined as to its Levitical fitness by persons regularly qualified and appointed."),
+          ev(LT, "all trouble and difficulty would be avoided by a regular market within the Temple-enclosure, where sacrificial animals could be purchased, having presumably been duly inspected, and all fees paid before being offered for sale."),
+          ev(LT, "most improper transactions were carried on, to the taking undue advantage of the poor people who came to offer their sacrifices.")],
+         caution="Edersheim draws on rabbinic sources for the fees and the pigeon price; he gives the market as the explanation of the traffic Jesus drove out."),
+    item("Henry on Malachi 1: the prophet is 'calling the priests to account, though they were themselves appointed judges, "
+         "to call the people to an account', and what is said to the priests is said to all.",
+         henry("Malachi 1"),
+         [ev(H4, "The prophet is here, by a special commission, calling the priests to account, though they were themselves appointed judges, to call the people to an account."),
+          ev(H4, "so that what is said to the priests is said to all")]),
     item("Matthew Henry on Leviticus 22: the first of the four laws is that whatever was offered had to be without blemish, and the "
          "chapter now says what counted as a blemish: if the beast 'was blind, or lame, had a wen, or the mange' (verse 22).",
          henry("Leviticus 22"),

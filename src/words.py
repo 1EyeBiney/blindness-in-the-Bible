@@ -95,6 +95,18 @@ WORDS = {
              "what a blind person may do."]},
     ],
     "blind-animals": [
+        {"number": "H8549", "spelling": "tamim", "say": "tah-MEEM",
+         "gloss": "entire; whole, complete",
+         "verses": [("Leviticus", 22, 19), ("Leviticus", 22, 21), ("Exodus", 12, 5), ("Deuteronomy", 18, 13),
+                    ("Psalm", 15, 2)],
+         "text": [
+             "The law has a positive word as well as a negative one. The animal must be tamim, which the Berean text gives "
+             "as unblemished and Strong's as entire, whole, complete. It is the Passover lamb's word in Exodus 12. And it "
+             "is a word the Bible uses of people far more often than of animals. You must be tamim before the LORD your "
+             "God, says Deuteronomy, where the English is blameless. The man who may dwell on God's holy hill walks "
+             "tamim, says the psalm, where the English is with integrity. So the thing the altar asked of a lamb is the "
+             "thing God asks of a person's walk, and in neither case does it have anything to do with eyes. A blind man "
+             "can walk tamim. That is the whole of the Law's answer to the word defect."]},
         {"number": "H3971", "spelling": "mum", "say": "moom",
          "gloss": "a blemish, physically or morally",
          "verses": [("Leviticus", 22, 20), ("Leviticus", 22, 21), ("Deuteronomy", 15, 21), ("Deuteronomy", 17, 1),

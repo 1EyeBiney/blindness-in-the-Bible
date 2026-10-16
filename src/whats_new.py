@@ -13,9 +13,11 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
-    ("2026-10-16", "Blind animals and the altar: Brian's thoughts",
+    ("2026-10-16", "Blind animals and the altar: Brian's thoughts, and more on the page",
      "Brian on the word broken, on doing the same things by different steps, and on the blind firstborn that was eaten "
-     "at home as ordinary meat. All four Law pages now carry his thoughts.", "law/blind-animals.html"),
+     "at home as ordinary meat. The page also gains the word tamim, whole; the Temple market that this law created, "
+     "which Jesus cleared; Malachi's argument in order; and what a gift cost the giver, from Abel to the widow's two "
+     "coins. All four Law pages now carry Brian's thoughts.", "law/blind-animals.html"),
     ("2026-10-16", "The blind priest: Brian's thoughts",
      "Brian's three questions about the blind priest, now answered on the page, and his thoughts on blind pastors "
      "today and on the low expectations that shackle more than any law did.", "law/priest.html"),

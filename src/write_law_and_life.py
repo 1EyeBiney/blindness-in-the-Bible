@@ -137,16 +137,32 @@ FINAL = {
         item("Matthew Henry's reason for the rule is the plain one: everything used for God's honor should be the best "
              "of its kind, \"he that is the best must have the best.\" He adds that the unblemished animal was fitter to "
              "stand for Christ, \"a Lamb without blemish and without spot.\"",
-             f"{HENRY}, on Leviticus 22; 1 Peter 1:19.", ("law-blind-animals", 1)),
+             f"{HENRY}, on Leviticus 22; 1 Peter 1:19.", ("law-blind-animals", 3)),
         item("A blind firstborn was not wasted. Henry notes on Deuteronomy 15 that it was \"killed and eaten at their own "
              "houses as common food,\" and the verse says the clean and the unclean could eat it alike. The blemish "
              "kept it from the altar, not from the table.",
-             f"{HENRY}, on Deuteronomy 15.", ("law-blind-animals", 3)),
+             f"{HENRY}, on Deuteronomy 15.", ("law-blind-animals", 5)),
+        item("This law is why there was a market in the Temple. Edersheim explains that because every offering had to "
+             "pass inspection for blemishes, qualified examiners charged a fee for the work, and a market grew up inside "
+             "the Temple enclosure selling animals already inspected and paid for. He adds that \"most improper "
+             "transactions were carried on, to the taking undue advantage of the poor people who came to offer their "
+             "sacrifices,\" and gives the case of a pair of pigeons run up to a gold coin. Those were the tables Jesus "
+             "overturned on the day the blind and the lame came to Him in the Temple, the story told on the page about "
+             "the Temple and in episode 5.",
+             f"{ED}, Book III, chapter 5.", ("law-blind-animals", 0)),
+        item("Malachi builds to the governor by steps, and the order matters. A son honors his father and a servant his "
+             "master; then where is My honor, and where is your fear of Me? You call My table contemptible. You say, what "
+             "a nuisance, and turn up your nose. You bring the stolen, the lame and the sick. Only then the test: try "
+             "offering that to your governor. And last, the curse on the man who had a sound animal in his flock, vowed "
+             "it, and gave a blemished one instead. Henry notes that the prophet is \"calling the priests to account, "
+             "though they were themselves appointed judges, to call the people to an account,\" and that what is said "
+             "to the priests is said to all. The fear in verse 6 is yare, the word the stumbling block law rests on.",
+             f"{HENRY}, on Malachi 1; Malachi 1:6-14.", ("law-blind-animals", 1)),
         item("On Malachi's governor, Henry reads an argument from honor: they would not dare offer a blind or lame "
              "animal to an earthly ruler as tribute, and he would take it as an insult; yet they offered such things to "
              "God. Easton's and the 1915 encyclopedia both file the animal rule under the same heading as the priest's: "
              "a blemish kept a man from the altar service and an animal from the altar.",
-             f"{HENRY}, on Malachi 1; {EASTON} and {ISBE}, entries \"Blemish.\"", ("law-blind-animals", 4), ("law-blind-animals", 5)),
+             f"{HENRY}, on Malachi 1; {EASTON} and {ISBE}, entries \"Blemish.\"", ("law-blind-animals", 6), ("law-blind-animals", 7)),
     ],
     "camp": [
         item("Isaac's household lived in tents of black goat's hair, held by ropes and pegs, divided inside by a hanging "

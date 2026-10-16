@@ -430,6 +430,46 @@
  ],
  "law-blind-animals": [
   {
+   "text": "Edersheim on the Temple market: because an offering had to pass inspection for blemishes, qualified examiners charged fees, and a market grew up inside the Temple enclosure selling animals already inspected and paid for. He says the poor were taken advantage of there, and gives the case of a pair of pigeons run up to a gold denar.",
+   "source": "Edersheim, The Life and Times of Jesus the Messiah (1883), Book III, chapter 5.",
+   "evidence": [
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1176060,
+     "quote": "when an animal was brought, it had to be examined as to its Levitical fitness by persons regularly qualified and appointed."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1176966,
+     "quote": "all trouble and difficulty would be avoided by a regular market within the Temple-enclosure, where sacrificial animals could be purchased, having presumably been duly inspected, and all fees paid before being offered for sale."
+    },
+    {
+     "file": "edersheim_life_and_times.txt",
+     "offset": 1177373,
+     "quote": "most improper transactions were carried on, to the taking undue advantage of the poor people who came to offer their sacrifices."
+    }
+   ],
+   "confidence": "high",
+   "caution": "Edersheim draws on rabbinic sources for the fees and the pigeon price; he gives the market as the explanation of the traffic Jesus drove out."
+  },
+  {
+   "text": "Henry on Malachi 1: the prophet is 'calling the priests to account, though they were themselves appointed judges, to call the people to an account', and what is said to the priests is said to all.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Malachi 1",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 8587456,
+     "quote": "The prophet is here, by a special commission, calling the priests to account, though they were themselves appointed judges, to call the people to an account."
+    },
+    {
+     "file": "matthew_henry_vol4.txt",
+     "offset": 8588344,
+     "quote": "so that what is said to the priests is said to all"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
    "text": "Matthew Henry on Leviticus 22: the first of the four laws is that whatever was offered had to be without blemish, and the chapter now says what counted as a blemish: if the beast 'was blind, or lame, had a wen, or the mange' (verse 22).",
    "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Leviticus 22",
    "evidence": [

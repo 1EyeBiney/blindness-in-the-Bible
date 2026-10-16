@@ -141,7 +141,12 @@ LAW_PAGES = [
                 "that to your governor and see whether he is pleased.",
         "notice": "These laws are about gifts to God, not about blind people, and they belong here only so the whole "
                   "list is honest. The principle is that God is given the best, not the leftover. Malachi shows what "
-                  "happened when the rule was ignored: the blind animal became the sign of a gift given with contempt.",
+                  "happened when the rule was ignored: the blind animal became the sign of a gift given with contempt. "
+                  "The rest of the Bible puts the measure where Malachi puts it, on what the gift cost the giver rather "
+                  "than on what the gift was worth. Abel brought \"the best portions of the firstborn of his flock.\" "
+                  "David, offered a threshing floor for nothing, answered, \"I will not offer to the LORD my God burnt "
+                  "offerings that cost me nothing.\" And Jesus said of the widow's two coins that she had put in more "
+                  "than all the others, because they gave from their surplus and she from her poverty.",
         "brian": [
             "This one was harder to read than I expected, and not because of what it asks of a lamb. It is because it "
             "puts blindness straight into the category of broken. In society's terms I am disabled. But when I hear of "
