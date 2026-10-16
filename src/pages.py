@@ -65,6 +65,27 @@ LAW_PAGES = [
                   "way. And it does not apply \"eye for eye\" to the master; instead the injured servant is set free. "
                   "Whether that was more or less protection than a slave had under neighboring law codes is a "
                   "question the reference shelf can help with, and the place-and-time section below takes it up.",
+        "brian": [
+            "Reading this law, the first thing that struck me was the pairing of an eye with a tooth. I have lost two "
+            "teeth since I lost my two eyes, and the adjustment was not remotely the same. Put plainly: a servant with "
+            "a loose tooth could be struck once and walk out free, and the law sets that beside a man who will never "
+            "see again. It seemed unbalanced. Then I read it as the old commentators did. The tooth is not there "
+            "because it equals an eye. It is there because it is the smallest lasting harm anyone would bother to name. "
+            "If even that freed a servant, then nothing a master could do to a servant's body was free of cost. The eye "
+            "was never in question.",
+            "The second thing was the money. The tables from Babylon on this page put silver on an eye, less silver on "
+            "a tooth, and for a servant's eye, a payment to the owner. How do you price reduced sight, or no sight at "
+            "all? I would guess that some of these servants were left completely blind. Is that worth the price of "
+            "freedom? The Law of Moses does not try to answer in silver. It names no sum. It gives the servant the one "
+            "thing the master cannot keep back, which is himself.",
+            "Here is the other side of it, and I mean this. I have lived without light since 2014. My freedom, and "
+            "above all my freedom to worship God in the way I choose, is worth more to me than my sight ever was. I "
+            "have adapted, adjusted, and found God's purpose for me. In so many ways my blindness has been a gift from "
+            "God, the third greatest after my salvation and my wife. It has brought us more blessings than I can list, "
+            "and it has shaped my character to fit His purposes better than it did.",
+            "So I read this law two ways at once. Freedom is not a price for an eye, and the law does not pretend it "
+            "is. But freedom is also not a small thing to hand a blind man, and I know that from the inside.",
+        ],
     },
     {
         "slug": "priest", "section": "law", "title": "The blind priest",

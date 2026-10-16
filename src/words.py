@@ -59,6 +59,17 @@ WORDS = {
              "oppressed free. So the law does not invent a new kind of release for the blinded servant. It gives him "
              "the release the Law already knew, the seventh-year freedom, at once. An eye bought what six years "
              "of service bought."]},
+        {"number": "H1865", "spelling": "deror", "say": "deh-RORE",
+         "gloss": "freedom; liberty",
+         "verses": [("Leviticus", 25, 10), ("Isaiah", 61, 1), ("Jeremiah", 34, 8), ("Jeremiah", 34, 17)],
+         "text": [
+             "The Law knew a second release besides the seventh year. Every fiftieth year was the Jubilee, when liberty "
+             "was proclaimed in the land and anyone who had sold himself went home with his children, however long he "
+             "had served. Its word for liberty is deror, not the servant's chophshi, and it is the word Isaiah uses for "
+             "what the Anointed One comes to proclaim to the captives, in the passage Jesus read at Nazareth. Jeremiah "
+             "34 holds both words: Zedekiah's people proclaimed deror and freed their servants, then took them back, "
+             "and God answered with a freedom of His own, to fall by sword, plague and famine. The blinded servant's "
+             "release did not wait for the seventh year or the fiftieth. It came that day."]},
     ],
     "priest": [
         {"number": "H3971", "spelling": "mum", "say": "moom",

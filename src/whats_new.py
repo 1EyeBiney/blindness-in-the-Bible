@@ -13,6 +13,10 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-16", "The servant blinded by his master: Brian's thoughts, and the Jubilee",
+     "Brian on the eye and the tooth, on pricing sight, and on what freedom is worth to a blind man. The page's word "
+     "section adds deror, the Jubilee's word for liberty, which is also Isaiah's word for what the Anointed One "
+     "proclaims.", "law/servant-blinded.html"),
     ("2026-10-16", "The bookshelf, and this page",
      "A page listing every source on the reference shelf, what it is for and which pages cite it; and this page, "
      "which remembers your last visit on your own device and marks what is new since.", "bookshelf.html"),

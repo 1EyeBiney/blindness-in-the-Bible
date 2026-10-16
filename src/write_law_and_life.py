@@ -80,8 +80,11 @@ FINAL = {
              caution="Johns's 'gentleman' is rendered 'free man' in other translations."),
         item("Exodus 21:26 answers the same case differently: the servant goes free. Matthew Henry, writing in 1706, saw "
              "two purposes in that. It deterred a master, who would lose the servant's labor, and it gave an abused "
-             "servant liberty to set against the pain. Smith's dictionary reads it the same way, as a limit on the "
-             "master's power over the servant's body.",
+             "servant liberty to set against the pain. He also read the two verses together and saw why the tooth is "
+             "there: \"If their masters maimed them, though it was only striking out a tooth, that should be their "
+             "discharge.\" The tooth is the smallest lasting harm the law could name. Setting the threshold there put "
+             "every greater harm, the eye above all, beyond doubt. Smith's dictionary reads the law the same way, as a "
+             "limit on the master's power over the servant's body.",
              f"{HENRY}, on Exodus 21; {SMITH}, entries \"Law of Moses\" and \"Slave.\"",
              ("law-servant-blinded", 0), ("law-servant-blinded", 1)),
         item("The 1915 encyclopedia, in an article by the Assyriologist Arthur Ungnad, judged that the parallels between "
