@@ -61,6 +61,7 @@ FOUND = {"word": "Uses the word", "described": "Described without the word"}
 CONF = {"high": "Clear", "medium": "Open to another reading", "low": "Uncertain"}
 
 import display  # noqa: E402  (colour sets, the reading-settings panel and its script)
+import whats_new  # noqa: E402
 
 CSS = display.theme_css() + """
 * { box-sizing: border-box; }
@@ -78,6 +79,14 @@ figure.pic.banner { max-width: none; margin-top: 1rem; }
 figure.pic.portrait { max-width: 22rem; }
 section.episode img { display: block; width: 100%; max-width: 26rem; border: 1px solid var(--rule); border-radius: .25rem; margin: .75rem 0; }
 ul.cards { list-style: none; padding: 0; }
+ol.changes { list-style: none; padding: 0; }
+ol.changes li { margin: 0 0 1.25rem; padding-left: 1rem; border-left: 4px solid var(--rule); }
+ol.changes time { color: var(--muted); font-size: 1rem; display: block; }
+ol.changes .new-mark { font-weight: bold; }
+ol.changes li.is-new { border-left-color: var(--link); }
+dl.shelf dt { font-weight: bold; margin-top: 1.5rem; }
+dl.shelf dd { margin: .25rem 0 0 0; }
+dl.shelf dd.source { color: var(--muted); font-size: 1rem; }
 ul.cards li { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1rem; margin: 0 0 1rem; max-width: none; }
 ul.cards img { width: 11rem; flex: none; border: 1px solid var(--rule); border-radius: .25rem; display: block; }
 ul.cards li > div { flex: 1 1 16rem; max-width: 44rem; }
@@ -136,10 +145,11 @@ def page(title: str, body: str, current: str, root: str = "", share: dict | None
            ("life/index.html", "Living blind, then"), ("picture/index.html", "Blindness as a picture"),
            ("walk-by-faith.html", "Walk by faith"),
            ("catalog.html", "The catalog"), ("how-it-was-made.html", "How it was made"),
-           ("check-our-work.html", "Check our work"), ("accessibility.html", "Accessibility"),
-           ("about.html", "About")]
+           ("check-our-work.html", "Check our work"), ("bookshelf.html", "The bookshelf"),
+           ("whats-new.html", "What's new"), ("accessibility.html", "Accessibility"), ("about.html", "About")]
     links = "".join(
-        f'<li><a href="{root}{href}"{" aria-current=\"page\"" if href == current else ""}>{e(label)}</a></li>'
+        f'<li><a href="{root}{href}"{" aria-current=\"page\"" if href == current else ""}'
+        f'{" id=\"nav-whats-new\" data-latest=\"" + whats_new.ENTRIES[0][0] + "\"" if href == "whats-new.html" else ""}>{e(label)}</a></li>'
         for href, label in nav)
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -158,6 +168,7 @@ def page(title: str, body: str, current: str, root: str = "", share: dict | None
 <meta property="og:image" content="https://{DOMAIN}/media/{e(share["file"])}">
 <meta property="og:image:alt" content="{e(share["alt"])}">
 <meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" type="application/rss+xml" title="{SITE_NAME}: what's new" href="{root}feed.xml">
 <link rel="stylesheet" href="{root}static/style.css">
 <script src="{root}static/display.js"></script>
 </head>
@@ -355,6 +366,73 @@ def episodes_page() -> str:
             f"with pictures and captions</li>"
             f"<li>Read the study: {pages_}</li></ul></section>")
     return "\n".join(parts)
+
+
+def bookshelf_page() -> str:
+    import bookshelf as bs
+    parts = [f"<h1>{e(bs.TITLE)}</h1>", f'<p class="lede">{e(bs.INTRO[0])}</p>'] + [f"<p>{e(x)}</p>" for x in bs.INTRO[1:]]
+    parts.append("<h2>The books</h2><dl class=\"shelf\">")
+    for w in bs.works():
+        parts.append(f"<dt>{e(w['title'])}</dt>")
+        parts.append(f"<dd><b>Used for:</b> {e(w['used_for'])}</dd>")
+        parts.append(f"<dd><b>How to read it:</b> {e(w['read_as'])}</dd>")
+        first = w["entries"][0]
+        lic = first.get("licence_basis", "")
+        parts.append(f"<dd><b>Terms:</b> {e(lic)}</dd>")
+        urls = sorted({d.get("source_url", "") for d in w["entries"] if d.get("source_url")})
+        got = sorted({d.get("retrieved", "").split(",")[0] for d in w["entries"] if d.get("retrieved")})
+        links = ", ".join(f'<a href="{e(u)}">{e(u.split("/")[2])}</a>' for u in urls[:3])
+        parts.append(f'<dd class="source">Fetched {e(" and ".join(got))} from {links}. '
+                     f'{len(w["entries"])} file{"s" if len(w["entries"]) != 1 else ""} on the shelf.</dd>')
+        if w["pages"]:
+            cites = ", ".join(f'<a href="{e(h)}">{e(t)}</a>' for h, t in w["pages"])
+            parts.append(f"<dd><b>Cited on {len(w['pages'])} page{'s' if len(w['pages']) != 1 else ''}:</b> {cites}</dd>")
+        else:
+            parts.append("<dd>Not yet cited on a page; on the shelf for the work ahead.</dd>")
+    parts.append("</dl>")
+    wiki = bs.wikipedia()
+    parts.append(f"<h2>Wikipedia articles</h2><p>{len(wiki)} articles, used for archaeology and modern scholarship, "
+                 "under the Creative Commons Attribution-ShareAlike 4.0 licence. Each is cited by the revision the site "
+                 "read, so the words can be checked even if the article changes.</p><ul>")
+    for a in wiki:
+        cites = "; ".join(f'<a href="{e(h)}">{e(t)}</a>' for h, t in a["pages"])
+        parts.append(f'<li><a href="{e(a["url"])}">{e(a["name"])}</a>, revision of {e(a["revision"])}.'
+                     + (f" Cited on: {cites}." if cites else " Read for background; not cited on a page.") + "</li>")
+    parts.append("</ul>")
+    parts.append('<h2>The full record</h2><p>Every file on the shelf has an entry in the repository, with its exact '
+                 'address, the date it was fetched, its size and its licence: see <a href="check-our-work.html">Check our '
+                 'work</a> for where to find it and how the quotations are tested.</p>')
+    return "\n".join(parts)
+
+
+def whats_new_page() -> str:
+    import whats_new as wn
+    parts = [f"<h1>{e(wn.TITLE)}</h1>", f'<p class="lede">{e(wn.INTRO[0])}</p>'] + [f"<p>{e(x)}</p>" for x in wn.INTRO[1:]]
+    parts.append('<p id="whats-new-status" role="status"></p>')
+    parts.append('<p><button type="button" id="whats-new-mark" hidden>Mark everything as read</button> '
+                 f'<a href="{wn.FEED}">Follow this page as an RSS feed</a>.</p>')
+    parts.append('<ol class="changes" id="changes">')
+    for date, title, text, href in wn.ENTRIES:
+        pretty = __import__("datetime").date.fromisoformat(date).strftime("%d %B %Y").lstrip("0")
+        parts.append(f'<li data-date="{date}"><time datetime="{date}">{e(pretty)}</time>'
+                     f'<b>{e(title)}.</b> {e(text)} <a href="{e(href)}">Go to the page</a>.</li>')
+    parts.append("</ol>")
+    return "\n".join(parts)
+
+
+def feed_xml() -> str:
+    import datetime
+    import whats_new as wn
+    items = []
+    for date, title, text, href in wn.ENTRIES:
+        d = datetime.datetime.fromisoformat(date).replace(tzinfo=datetime.timezone.utc)
+        items.append(f"<item><title>{e(title)}</title><link>{wn.SITE}{e(href)}</link>"
+                     f"<guid isPermaLink=\"false\">{date}-{e(href)}</guid>"
+                     f"<pubDate>{d.strftime('%a, %d %b %Y 00:00:00 +0000')}</pubDate>"
+                     f"<description>{e(text)}</description></item>")
+    return (f'<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>{SITE_NAME}: what\'s new</title>'
+            f"<link>{wn.SITE}{wn.SLUG}</link><description>{e(TAGLINE)}. Changes to the site, newest first.</description>"
+            f"<language>en</language>{''.join(items)}</channel></rss>\n")
 
 
 def story_share(story: dict) -> dict | None:
@@ -630,27 +708,10 @@ April 30, 2023. The official text is used word for word, as published at
 
 <h2>The reference shelf</h2>
 <p>For the place and the time behind each story, the site draws on works that are in the public domain or freely
-licensed, and names the source beside every statement taken from them:</p>
-<ul>
-<li>Alfred Edersheim, <cite>Sketches of Jewish Social Life in the Days of Christ</cite> (1876) and <cite>The Life and
-Times of Jesus the Messiah</cite> (1883).</li>
-<li>Josephus, <cite>The Antiquities of the Jews</cite> and <cite>The Wars of the Jews</cite>, translated by William
-Whiston.</li>
-<li><cite>Smith's Bible Dictionary</cite> (1884 edition) and the <cite>International Standard Bible Encyclopedia</cite>
-(1915).</li>
-<li>Matthew Henry's <cite>Commentary</cite>, all six volumes, and the <cite>Pulpit Commentary</cite> on Job 29.</li>
-<li>Strong's Hebrew dictionary (1894), in Open Scriptures' free edition, and the Open Scriptures Hebrew Bible, the
-Hebrew text with every word tagged with its dictionary number (CC BY 4.0), for the pages that say which Hebrew word a law
-uses.</li>
-<li>The Code of Hammurabi (C. H. W. Johns, 1903) and the Instruction of Amenemope (E. A. Wallis Budge, 1924), for the
-laws and wisdom of the nations around Israel.</li>
-<li>James Wilson's <cite>Biography of the Blind</cite> (1838) and W. Hanks Levy's <cite>Blindness and the Blind</cite>
-(1872), for the history of blind people since.</li>
-<li>Wikipedia articles on the places, under the Creative Commons Attribution-ShareAlike 4.0 license, cited by
-revision date.</li>
-</ul>
-<p>These older works carry the assumptions of their time, and some speak of the Jewish people and teachers of Jesus's
-day in ways we would not. They are used for facts about places, customs and daily life, read with that in mind.</p>
+licensed, and names the source beside every statement taken from them. <a href="bookshelf.html">The bookshelf</a>
+lists every one: what it is, what it is used for, how to read it, and which pages cite it. The old books carry the
+assumptions of their time, and some speak of the Jewish people and teachers of Jesus's day in ways we would not. They
+are used for facts about places, customs and daily life, read with that in mind.</p>
 
 <h2>Made with help</h2>
 <p>The research and the site are built by Brian Clark working with Claude, an AI model made by Anthropic. Brian
@@ -683,6 +744,10 @@ def render_all(out: Path = OUT) -> None:
     (out / "index.html").write_text(page("Home", index_page(rows), "index.html", banner=banner("index")), encoding="utf-8")
     (out / "catalog.html").write_text(page("The catalog", catalog_page(rows), "catalog.html"), encoding="utf-8")
     (out / "episodes.html").write_text(page("Episodes", episodes_page(), "episodes.html"), encoding="utf-8")
+    import bookshelf as bs
+    (out / bs.SLUG).write_text(page(bs.TITLE, bookshelf_page(), bs.SLUG), encoding="utf-8")
+    (out / whats_new.SLUG).write_text(page(whats_new.TITLE, whats_new_page(), whats_new.SLUG), encoding="utf-8")
+    (out / whats_new.FEED).write_text(feed_xml(), encoding="utf-8", newline="\n")
     about = ABOUT.replace("BRIAN_PORTRAIT", figure_html(images.PAGE_PICTURES["about"][0], ""))
     (out / "about.html").write_text(page("About", about, "about.html"), encoding="utf-8")
     import stories as st

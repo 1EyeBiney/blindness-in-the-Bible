@@ -123,7 +123,74 @@ def script() -> str:
   }
   var state = read();
   apply(state);
+  // What's new: remember the date of the reader's last visit, on this device only. A visit ends after six quiet
+  // hours. Entries dated after the last visit are marked, and the menu link shows how many.
+  var VISIT = 'nbs-visit';
+  function readVisit() {
+    try { var v = JSON.parse(window.localStorage.getItem(VISIT)); return (v && typeof v === 'object') ? v : {}; }
+    catch (err) { return {}; }
+  }
+  function saveVisit(v) { try { window.localStorage.setItem(VISIT, JSON.stringify(v)); } catch (err) { /* this page only */ } }
+  var visit = readVisit();
+  var now = Date.now();
+  if (!visit.current || now - visit.current > 6 * 3600 * 1000) {
+    if (visit.current) { visit.last = new Date(visit.current).toISOString().slice(0, 10); }
+    visit.current = now;
+    saveVisit(visit);
+  } else {
+    visit.current = now;
+    saveVisit(visit);
+  }
   document.addEventListener('DOMContentLoaded', function () {
+    // What counts as new: anything dated after the newest entry the reader has already seen on the What's new
+    // page. Before they have ever opened that page, anything dated on or after their last visit.
+    var since = visit.last || '';
+    var seen = visit.seenUpTo || '';
+    function isNew(d) { return seen ? d > seen : (since ? d >= since : false); }
+    var nav = document.getElementById('nav-whats-new');
+    var items = document.querySelectorAll('#changes li[data-date]');
+    var count = 0;
+    for (var i = 0; i < items.length; i++) {
+      if (isNew(items[i].getAttribute('data-date'))) {
+        count++;
+        items[i].className += ' is-new';
+        var mark = document.createElement('span');
+        mark.className = 'new-mark';
+        mark.textContent = ' New since your last visit.';
+        items[i].appendChild(mark);
+      }
+    }
+    if (nav && isNew(nav.getAttribute('data-latest'))) {
+      // on other pages the count is not known; say that there is something new
+      nav.textContent = items.length ? "What's new (" + count + ")" : "What's new (new)";
+    }
+    if (items.length && nav) {
+      // the reader has now seen everything on the page; next time only newer entries are marked
+      visit.seenUpTo = nav.getAttribute('data-latest');
+      saveVisit(visit);
+    }
+    var status = document.getElementById('whats-new-status');
+    var mark = document.getElementById('whats-new-mark');
+    if (status) {
+      status.textContent = since
+        ? (count ? count + (count === 1 ? ' entry is' : ' entries are') + ' new since your last visit on this device, ' + since + '.'
+                 : 'Nothing new since your last visit on this device, ' + since + '.')
+        : 'This is your first visit on this device, or your browser does not keep the date. All entries are shown.';
+    }
+    if (mark) {
+      mark.hidden = false;
+      mark.addEventListener('click', function () {
+        visit.last = new Date().toISOString().slice(0, 10);
+        visit.seenUpTo = nav ? nav.getAttribute('data-latest') : visit.last;
+        saveVisit(visit);
+        for (var j = 0; j < items.length; j++) {
+          items[j].className = items[j].className.replace(' is-new', '');
+          var m = items[j].querySelector('.new-mark'); if (m) { m.parentNode.removeChild(m); }
+        }
+        if (nav) { nav.textContent = "What's new"; }
+        status.textContent = 'Everything is marked as read. Next time, only newer entries will be marked.';
+      });
+    }
     var box = document.getElementById('display');
     if (!box) { return; }
     var form = document.getElementById('display-form');
@@ -178,6 +245,9 @@ without serifs, which many low-vision readers find easier.</li>
 <li><b>Spacing.</b> Wider gaps between lines, letters, words and paragraphs.</li>
 </ul>
 <p>The button <b>Put everything back to standard</b> undoes all four.</p>
+<p>The same browser memory holds one more thing: the date of your last visit, so that the
+<a href="whats-new.html">What's new</a> page can mark the entries you have not seen. It stays on your device, like the
+rest.</p>
 <p>The panel needs JavaScript. If your browser has it switched off, the panel does not appear, and everything
 else on the site works as before. Your browser's own zoom still works: hold Control and press plus to enlarge,
 Control and minus to shrink, Control and zero to reset. On a Mac, use Command in place of Control.</p>

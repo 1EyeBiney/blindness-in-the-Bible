@@ -48,7 +48,7 @@ def test_blindfold_verses_are_set_aside():
 
 def test_site_builds_and_is_accessible(tmp_path):
     build_site.render_all(tmp_path)
-    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "accessibility.html", "catalog.html", "check-our-work.html", "episodes.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html"]
+    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "accessibility.html", "bookshelf.html", "catalog.html", "check-our-work.html", "episodes.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html", "whats-new.html"]
     pages = sorted(tmp_path.rglob("*.html"))
     for p in pages:
         h = p.read_text(encoding="utf-8")
@@ -465,3 +465,48 @@ def test_the_word_sections_rest_on_the_tagged_hebrew_text(tmp_path):
         assert h.count("entry H") == len(wd.WORDS[slug]), slug
     sb = (tmp_path / "law" / "stumbling-block.html").read_text(encoding="utf-8")
     assert "mikshol" in sb and "parking stops" in sb and sb.index("mikshol") < sb.index("parking stops")
+
+
+def test_bookshelf_lists_every_source_with_its_pages(tmp_path):
+    """Every text source on the shelf appears on the bookshelf page, every main work is cited by at least one page,
+    every cited page exists, and the record's licence is shown for each work."""
+    import bookshelf as bs
+    build_site.render_all(tmp_path)
+    h = (tmp_path / "bookshelf.html").read_text(encoding="utf-8")
+    shown = {f for w in bs.works() for d in w["entries"] for f in d["files"]}
+    shown |= {f for d in bs.entries() for f in d["files"] if f.startswith("wikipedia_") and f.endswith(".wiki.txt")}
+    for d in bs.entries():
+        for f in d["files"]:
+            if not f.endswith(bs.SKIP) and f != "oshb_README.md":
+                assert f in shown, f"{f} is on the shelf but not on the bookshelf page"
+    for w in bs.works():
+        assert build_site.e(w["title"]) in h and "<b>Terms:</b>" in h
+        if not w["title"].startswith(("The Pulpit", "Easton")):
+            assert w["pages"], w["title"]
+        for href, _ in w["pages"]:
+            assert (tmp_path / href).is_file(), href
+    assert sum(1 for a in bs.wikipedia() if a["pages"]) >= 10
+    assert h.index("The books") < h.index("Wikipedia articles") < h.index("The full record")
+
+
+def test_whats_new_is_dated_linked_and_fed(tmp_path):
+    """Entries run newest first with valid dates, every link points at a real page, the feed is well-formed XML with
+    one item per entry, the menu link carries the newest date for the script, and the page reads as a plain list."""
+    import datetime
+    import xml.etree.ElementTree as ET
+    import whats_new as wn
+    build_site.render_all(tmp_path)
+    dates = [datetime.date.fromisoformat(d) for d, *_ in wn.ENTRIES]
+    assert dates == sorted(dates, reverse=True) and len(wn.ENTRIES) >= 5
+    for date, title, text, href in wn.ENTRIES:
+        assert (tmp_path / href).is_file(), href
+        assert title and len(text) > 30 and not text.endswith(" ")
+    h = (tmp_path / "whats-new.html").read_text(encoding="utf-8")
+    assert h.count('<li data-date="') == len(wn.ENTRIES) and 'role="status"' in h and "feed.xml" in h
+    assert 'id="nav-whats-new" data-latest="' + wn.ENTRIES[0][0] + '"' in h
+    root = ET.fromstring((tmp_path / "feed.xml").read_text(encoding="utf-8"))
+    assert len(root.findall("./channel/item")) == len(wn.ENTRIES)
+    home = (tmp_path / "index.html").read_text(encoding="utf-8")
+    assert 'type="application/rss+xml"' in home and "nbs-visit" in (tmp_path / "static" / "display.js").read_text(encoding="utf-8")
+    about = (tmp_path / "about.html").read_text(encoding="utf-8")
+    assert 'href="bookshelf.html"' in about
