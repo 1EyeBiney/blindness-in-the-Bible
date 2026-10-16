@@ -13,6 +13,9 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-16", "Blind animals and the altar: Brian's thoughts",
+     "Brian on the word broken, on doing the same things by different steps, and on the blind firstborn that was eaten "
+     "at home as ordinary meat. All four Law pages now carry his thoughts.", "law/blind-animals.html"),
     ("2026-10-16", "The blind priest: Brian's thoughts",
      "Brian's three questions about the blind priest, now answered on the page, and his thoughts on blind pastors "
      "today and on the low expectations that shackle more than any law did.", "law/priest.html"),

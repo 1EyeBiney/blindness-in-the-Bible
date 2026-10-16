@@ -277,7 +277,7 @@ ok, now for the blind priest. we need to reframe the questions in my section so 
 
 blind animals thoughts: this one is harder to read than I thought simply because to me it puts blindness directly into the broken category. In societal terms, I am disabled, but to me, when I hear about a disabled car, I can easily replace it with "broken car." And I most certainly don't feel broken. I thinjk I have to do most tasks differently, using a variety of different skills and steps, and yet, I still have so many of the same obligations, responsibilities, enjoyments and pleasures as I did when I had full sight. If anything, I am better at the things God wants me to be better at. Less distractions means more focused attention on the people I love, and the people I need to go find to love upon. [clean that up, but that is the general idea, I have not thought too much about this so it is not completely settled and I it can be added/improved upon]
 
-*Status:* draft shown to him; nothing on the page yet.
+*Placed:* 16 October, with his approval ("that settles it for me, we will officially go with those thoughts"): three paragraphs under From Brian on the blind animals page.
 
 ## Questions waiting for Brian
 
