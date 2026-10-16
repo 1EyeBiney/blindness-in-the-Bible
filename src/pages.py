@@ -103,9 +103,30 @@ LAW_PAGES = [
                   "the sanctuary, not about the worth of the man. Many readers have still found it hard, and Brian's "
                   "thoughts on it belong here more than anyone's.",
         "brian": [
-            "I need to know more about priestly duties. Would a blind priest accidentally touch things he should not? "
-            "I have to touch things all the time to figure out what they are; would that factor in? And would trying "
-            "to let the blind priest fit in have been a hindrance to the rest of the Levites?",
+            "Reading this law, I had three questions, and the section on the place and the time now answers them. I "
+            "wanted to know what a priest actually did, and it turns out that most of it was done with the hands: the "
+            "fire, the lamp, the sacrifices, the blood. I wondered whether a blind priest would touch things he should "
+            "not, since I touch things all day to know what they are, and I learned that the rules about touching holy "
+            "things were for the Levites who carried them, not for the priests who handled them. And I asked whether "
+            "fitting a blind priest in would have burdened the rest, and the numbers say no. Twenty-four courses, a "
+            "week each, fifty men on duty at a time. One blind man among them would hardly have been noticed.",
+            "I find it hard to weigh this law as if it were mine to keep. We live on the far side of the cross. Our "
+            "worship is not built around one altar and one family of priests, and the sacrifice this law guarded has "
+            "been made once and for all. The word section above says it better than I can: the word that kept the "
+            "blind priest from the altar is the word for the lamb that was offered on it. So I read this law as what "
+            "it was, a rule for a few hundred men and one duty, and I do not read it as a word about what blind people "
+            "are worth. The text itself takes care of that. He stayed a priest, and he ate at the table.",
+            "What I can speak to is now. I know quite a few blind pastors and spiritual leaders, and I am grateful "
+            "beyond words that they are allowed to minister and to do God's work with the talents and abilities they "
+            "have. Nobody keeps them from the pulpit for a defect. I am glad we do not have that requirement.",
+            "But we do have something else, and in some ways it is more shackling, because nobody wrote it down. It "
+            "is low expectations. A rule can be read and argued with. An expectation just sits there, in the way "
+            "people hesitate before handing you a task, or thank you too much for doing an ordinary thing. The old "
+            "rabbis, arguing about whether a one-eyed priest could give the blessing, worried that the people would "
+            "stare. One of them allowed it if the town was used to him. That is still the whole question. Not what the "
+            "blind man can do, but what the people around him expect.",
+            "So the blind priest of Leviticus and the blind pastor I know are in the same place after all. Both are "
+            "kept, or freed, less by a law than by what the people in front of them are used to.",
         ],
     },
     {

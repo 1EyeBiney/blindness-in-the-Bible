@@ -271,7 +271,7 @@ I have read Stumbling Block and have no changes at this time. I am reading the S
 
 ok, now for the blind priest. we need to reframe the questions in my section so they re not simply questions. It is hard for me to really address these rules and laws as we live in a world post-Christ and that needs reworded) so our worship is different, but I do know quite a few blind pastors and spiritual leaders and am very grateful they are allowed to minister an do God's work using their other talents and abilities., I'm glad we don't have those same requirements now for the blind, but whaqt we do face is low expectations that in some ways are even more shackling. [show me what you propose to write for me on this page before executing]
 
-*Status:* draft shown to him; nothing on the page yet.
+*Placed:* 16 October, with his approval ("I approve, make those changes"): five paragraphs under From Brian on the priest page, his questions reframed as answered, "post-Christ" reworded as "on the far side of the cross".
 
 ## Questions waiting for Brian
 

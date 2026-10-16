@@ -13,6 +13,9 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-16", "The blind priest: Brian's thoughts",
+     "Brian's three questions about the blind priest, now answered on the page, and his thoughts on blind pastors "
+     "today and on the low expectations that shackle more than any law did.", "law/priest.html"),
     ("2026-10-16", "The servant blinded by his master: Brian's thoughts, and the Jubilee",
      "Brian on the eye and the tooth, on pricing sight, and on what freedom is worth to a blind man. The page's word "
      "section adds deror, the Jubilee's word for liberty, which is also Isaiah's word for what the Anointed One "
