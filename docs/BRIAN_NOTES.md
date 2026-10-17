@@ -287,6 +287,10 @@ Earlier the same day: I am re-rendering some of the episodes now after getting f
 
 *Placed:* four draft scripts, episodes 7 to 10 (audio/episodes/ep07_the_stumbling_block.py to ep10_the_blind_animal.py; reading files audio/scripts/ep07_*_01.md etc.). Device: his question as the spine, The word followed to its other verses, the old books and codes read by a new voice BOOKS (placeholder id until he auditions), narrator reasoning in the open, the yare frame and the four-word look back. His page paragraphs are his lines, approved; one new closing paragraph drafted for episode 7 awaits him. Re-posting the re-rendered episodes 1 to 6 is pending his WAVs.
 
+## 16 and 17 October 2026, the re-mix of episodes 1 to 6 (from chat)
+
+Brian re-rendered all six with the music lowered (about 6 dB on episodes 1 to 3, about 4 dB on 4 to 6) after feedback that it was too loud on phone speakers, and spliced the domain close into episodes 1 to 3. Decisions: old videos Unlisted with a pointer line at the top of each description; trailer left as it was; captions re-uploaded for each; no other changes. All six re-posted on 17 October; the site, playlist, trailer description and email file point to the new addresses.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
