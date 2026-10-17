@@ -272,11 +272,11 @@ def test_dim_eyes_stories_say_how_much_he_could_see(tmp_path):
 def test_the_man_born_blind_has_its_episode(tmp_path):
     import stories as st
     story = next(x for x in st.STORIES if x["slug"] == "man-born-blind")
-    assert story["listen"]["youtube"] == "y-fccElFytM"
+    assert story["listen"]["youtube"] == "zZlWP-E0rdU"
     assert (ROOT / "media" / story["listen"]["mp3"]).is_file()
     build_site.render_all(tmp_path)
     h = (tmp_path / "stories" / "man-born-blind.html").read_text(encoding="utf-8")
-    assert "Listen to this story" in h and "<audio controls" in h and "embed/y-fccElFytM" in h
+    assert "Listen to this story" in h and "<audio controls" in h and "embed/zZlWP-E0rdU" in h
     assert (tmp_path / "media" / story["listen"]["mp3"]).is_file()
     assert h.index("Listen to this story") < h.index("What led up to it")
 

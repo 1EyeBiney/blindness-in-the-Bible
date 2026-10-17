@@ -13,6 +13,11 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-17", "All six episodes re-mixed with quieter music",
+     "After listeners said the music was too loud on phone speakers, Brian re-mixed every episode with the music set "
+     "lower under the voices. Episodes 1 to 3 also gain the series map, Brian's photograph and the new closing words, "
+     "and every episode now ends on a card with the site address. The YouTube addresses have changed; the old copies "
+     "point to the new ones.", "episodes.html"),
     ("2026-10-16", "A new last line on every page",
      "The footer now says what the site is and what you may do with it: Brian's work, counted a gift from God through "
      "him, and given on, free to copy, quote and share under a Creative Commons Attribution licence.", "check-our-work.html"),

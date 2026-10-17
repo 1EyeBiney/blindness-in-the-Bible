@@ -225,7 +225,7 @@ STORIES = [
     {
         "slug": "two-blind-men", "title": "Two blind men follow Jesus", "who": "Two blind men (Galilee)",
         "group": "given", "outcome": "restored",
-        "listen": {"youtube": "kOQtHFpQvzs", "mp3": "not_by_sight_04_the_ones_who_followed.mp3", "minutes": 22,
+        "listen": {"youtube": "lVfm08wIBjE", "mp3": "not_by_sight_04_the_ones_who_followed.mp3", "minutes": 22,
                    "title": "Not By Sight, Episode 4: The Ones Who Followed"},
         "passages": [("Matthew", 9, 27, 31)],
         "around": "Jesus has just raised a synagogue leader's daughter, and news of it is spreading through the "
@@ -241,7 +241,7 @@ STORIES = [
     {
         "slug": "blind-and-mute-man", "title": "A man who was blind and mute", "who": "A blind and mute man",
         "group": "given", "outcome": "restored",
-        "listen": {"youtube": "kOQtHFpQvzs", "mp3": "not_by_sight_04_the_ones_who_followed.mp3", "minutes": 22,
+        "listen": {"youtube": "lVfm08wIBjE", "mp3": "not_by_sight_04_the_ones_who_followed.mp3", "minutes": 22,
                    "title": "Not By Sight, Episode 4: The Ones Who Followed"},
         "passages": [("Matthew", 12, 22, 24)],
         "around": "Jesus is healing many and is in growing conflict with the Pharisees over the Sabbath.",
@@ -254,7 +254,7 @@ STORIES = [
     },
     {
         "slug": "bethsaida", "title": "The blind man at Bethsaida", "who": "The blind man at Bethsaida",
-        "listen": {"youtube": "M_LW64UXuxY", "mp3": "not_by_sight_03_the_blind_man_at_bethsaida.mp3", "minutes": 18,
+        "listen": {"youtube": "rQyPtBtnnt8", "mp3": "not_by_sight_03_the_blind_man_at_bethsaida.mp3", "minutes": 18,
                    "title": "Not By Sight, Episode 3: The blind man at Bethsaida"},
         "group": "given", "outcome": "restored",
         "passages": [("Mark", 8, 22, 26)],
@@ -273,7 +273,7 @@ STORIES = [
     },
     {
         "slug": "bartimaeus", "title": "Bartimaeus at Jericho", "who": "Bartimaeus", "group": "given",
-        "listen": {"youtube": "zzAgXrX9NEM", "mp3": "not_by_sight_02_bartimaeus_at_jericho.mp3", "minutes": 22,
+        "listen": {"youtube": "UJdeJ3C6j3A", "mp3": "not_by_sight_02_bartimaeus_at_jericho.mp3", "minutes": 22,
                    "title": "Not By Sight, Episode 2: Bartimaeus at Jericho"},
         "before_after": "Just before Jericho, Mark records James and John asking Jesus for the seats of honour, and "
                         "Jesus asking them, \"What do you want Me to do for you?\" A few verses later He asks a blind "
@@ -300,7 +300,7 @@ STORIES = [
     },
     {
         "slug": "man-born-blind", "title": "The man born blind", "who": "The man born blind", "group": "given",
-        "listen": {"youtube": "y-fccElFytM", "mp3": "not_by_sight_01_the_man_born_blind.mp3", "minutes": 16,
+        "listen": {"youtube": "zZlWP-E0rdU", "mp3": "not_by_sight_01_the_man_born_blind.mp3", "minutes": 16,
                    "title": "Not By Sight, Episode 1: The Man Born Blind"},
         "outcome": "restored",
         "passages": [("John", 9, 1, 41)],
@@ -394,7 +394,7 @@ STORIES = [
     {
         "slug": "the-temple", "title": "The blind and the lame in the temple", "who": "The blind and the lame in the temple",
         "group": "given", "outcome": "restored",
-        "listen": {"youtube": "lk5kVwj0D8k", "mp3": "not_by_sight_05_the_blind_in_the_crowd.mp3", "minutes": 22,
+        "listen": {"youtube": "0wv608fgmPo", "mp3": "not_by_sight_05_the_blind_in_the_crowd.mp3", "minutes": 22,
                "title": "Not By Sight, Episode 5: The Blind in the Crowd"},
         "passages": [("Matthew", 21, 12, 16)],
         "around": "Jesus has entered Jerusalem to shouts of \"Hosanna.\" He goes into the temple courts and drives out "
@@ -409,7 +409,7 @@ STORIES = [
     {
         "slug": "crowds-by-the-sea", "title": "The crowds on the mountain", "who": "Crowds by the Sea of Galilee",
         "group": "given", "outcome": "restored",
-        "listen": {"youtube": "lk5kVwj0D8k", "mp3": "not_by_sight_05_the_blind_in_the_crowd.mp3", "minutes": 22,
+        "listen": {"youtube": "0wv608fgmPo", "mp3": "not_by_sight_05_the_blind_in_the_crowd.mp3", "minutes": 22,
                "title": "Not By Sight, Episode 5: The Blind in the Crowd"},
         "passages": [("Matthew", 15, 29, 31)],
         "around": "Jesus has returned from the region of Tyre and Sidon to the Sea of Galilee. He goes up a mountain "
@@ -423,7 +423,7 @@ STORIES = [
     {
         "slug": "answer-to-john", "title": "Jesus's answer to John the Baptist", "who": "Jesus's answer to John the Baptist",
         "group": "given", "outcome": "restored",
-        "listen": {"youtube": "wPhIZnMfdao", "mp3": "not_by_sight_06_the_answer_to_john.mp3", "minutes": 19,
+        "listen": {"youtube": "or8s4SUiSHQ", "mp3": "not_by_sight_06_the_answer_to_john.mp3", "minutes": 19,
                "title": "Not By Sight, Episode 6: The Answer to John"},
         "passages": [("Matthew", 11, 2, 6), ("Luke", 7, 18, 23)],
         "around": "John the Baptist is in prison. He sends his disciples to ask Jesus whether He is the One who was "
