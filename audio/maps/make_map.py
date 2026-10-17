@@ -234,6 +234,9 @@ def panel_lines(ep_key: str) -> list[str]:
         p = places[k]
         walk = walk_words(km(fp, p)).replace("about ", "").replace("' walk", "").replace("'s walk", "")
         out.append(f"- {p['name']}: {walk}, {clock_word(fp, p)}")
+    if len(out) == 2:                       # nothing visited yet (episode 1): say where the place is instead
+        out[1] = (fp.get("note") or "").split(";")[0].rstrip(".") + "." if fp.get("note") else ""
+        out = [x for x in out if x]
     return out
 
 

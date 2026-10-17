@@ -3,8 +3,9 @@
 Each still, with its written description (for blind viewers and for the record):
 
 - 00:00  A man in a ragged cloak sits in the dust beside an empty dirt road at the edge of a palm town, hills beyond.
-- 00:46  Title card over Jericho at sunrise, palms in a brown valley: Not By Sight, episode two, Bartimaeus at Jericho.
+- 00:46  Title card, with the words over Jericho at sunrise, palms in a brown valley: Not By Sight, episode two, Bartimaeus at Jericho.
 - 01:10  A long line of pilgrims with mule carts walks a dirt road between palms toward the hills.
+- 01:18  The series map. Jericho is marked in gold in the Jordan valley, north of the Dead Sea. Stand there facing north, and Jerusalem is about seven hours' walk at eight o'clock, uphill all the way. A line joins the two.
 - 02:00  The open scroll in warm light. The Scripture reader begins.
 - 02:55  Two disciples lean in to speak to Jesus as they walk, seen from behind, the crowd behind them.
 - 03:33  The open scroll again. Mark's account.
@@ -12,7 +13,7 @@ Each still, with its written description (for blind viewers and for the record):
 - 07:01  An imagined scene. A seated beggar turns his head toward a crowd coming down the road, a mule cart near, sheep in a field.
 - 08:02  The whole crowd stands still, turned toward one figure at its centre; at the edge a beggar begins to rise.
 - 08:14  A worn cloak lies in the dust with coins spilled on it, bare footprints leading away toward the crowd.
-- 09:10  The white cane leaning against a church pew. Brian speaks.
+- 09:10  A photograph treated to match the paintings: Brian as a young sailor in Navy whites, with Patti beside him. A small plate beneath him reads Mister Scaredy Cat.
 - 10:47  The open scroll. Luke's account.
 - 11:53  A wide view: the ruined mound of old Jericho by a spring, and across the palms the newer town's palace walls, a road between.
 - 13:20  A small man in a fine robe perches in a broad, low-branched sycamore fig above a passing crowd.
@@ -22,7 +23,7 @@ Each still, with its written description (for blind viewers and for the record):
 - 19:12  Two men sit side by side under a palm at the roadside, one hand raised toward the passing crowd.
 - 19:55  The white cane and the pew. Brian speaks.
 - 20:36  A road climbs from the green valley into bare brown hills; a crowd of small figures walks up it, one near the back walking freely.
-- 21:28  Closing card over Jericho's palms at dusk, lamps lit in the town: For we walk by faith, not by sight. The site address.
+- 21:28  Closing card over Jericho's palms at dusk, lamps lit in the town: For we walk by faith, not by sight. The site address, and the address blindnessinthebible.com.
 
 Scripture quotations are from the Holy Bible, Berean Standard Bible, BSB, public domain.
 Scenes introduced with the word 'imagine' are our own. Voices generated with ElevenLabs; mix by Brian Clark.

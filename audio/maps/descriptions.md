@@ -19,9 +19,11 @@ Base map. The Great Sea lies to the west. The Jordan runs south from the Sea of 
 - Dothan: about 2 days' walk, at 12 o'clock from Jerusalem. Where the Syrians were struck blind and the servant's eyes were opened to the hills full of horses and chariots.
 - Damascus: about 6 days' walk, at 1 o'clock from Jerusalem. Saul, blinded on the road, was led in by the hand; Straight Street is still there.
 - Caesarea Philippi: about 4 and a half days' walk, at 12 o'clock from Jerusalem. Just after Bethsaida in Mark, where Peter said 'You are the Christ'.
+- Shechem: about 1 and a half days' walk, at 12 o'clock from Jerusalem. Between Mount Gerizim to the south and Mount Ebal to the north, where the tribes stood to answer the blessings and curses (Deuteronomy 27).
 - Babylon and Riblah: far to the north-east, beyond the map. Zedekiah was blinded at Riblah in Syria and taken to Babylon; both lie beyond this map.
 - Egypt: far to the south-west, beyond the map. Jacob blessed Joseph's sons in Egypt, beyond this map.
 - Nineveh and Ecbatana: far to the north-east, beyond the map. Tobit's story, if included, lies in Assyria and Media, beyond this map.
+- Mount Sinai: far to the south, beyond the map. Where the Law was given, about eleven days' walk south of Jerusalem by the traditional site; beyond this map.
 
 ## ep01.png
 

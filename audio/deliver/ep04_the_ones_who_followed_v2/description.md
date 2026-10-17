@@ -5,7 +5,7 @@ Each still, with its written description (for blind viewers and for the record):
 - 00:00  Two men sit side by side at the edge of a dirt road outside a lakeside town, seen from behind, heads turned toward a distant crowd.
 - 00:08  A large crowd walks past on a dirt road, a child on a shoulder, a dog, dust rising; two seated men listen from the roadside.
 - 01:23  Two men step from the roadside into the back of a moving crowd, one with a hand on the other's shoulder.
-- 01:37  Title card over Capernaum in the morning, dark stone houses and the lake behind: Not By Sight, episode four, the ones who followed.
+- 01:37  Title card, with the words over Capernaum in the morning, dark stone houses and the lake behind: Not By Sight, episode four, the ones who followed.
 - 02:23  A crowd outside the gate of a large stone house; a figure walks away from it with people following, seen from behind.
 - 02:58  The open scroll in warm light. The Scripture reader begins.
 - 03:33  Two men follow a crowd down a narrow lane of dark stone, one with a hand on the other's shoulder, gulls overhead, the lake to the left.
@@ -29,7 +29,7 @@ Each still, with its written description (for blind viewers and for the record):
 - 19:07  The white cane and the pew. Brian speaks.
 - 19:37  The argument in the square again, the man standing apart.
 - 20:20  The hand on the forearm again. Brian speaks of his deaf-blind friends.
-- 21:15  Closing card over Capernaum at dusk, lamps lit and boats drawn up: For we walk by faith, not by sight. The site address.
+- 21:13  Closing card over Capernaum at dusk, lamps lit and boats drawn up: For we walk by faith, not by sight. The site address, and the address blindnessinthebible.com.
 
 Scripture quotations are from the Holy Bible, Berean Standard Bible, BSB, public domain.
 Scenes introduced with the word 'imagine' are our own. Voices generated with ElevenLabs; mix by Brian Clark.

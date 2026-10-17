@@ -3,9 +3,11 @@
 Each still, with its written description (for blind viewers and for the record):
 
 - 00:00  A lone man walks down a steep, narrow stone street, one hand on the wall, seen from behind.
-- 00:24  Title card over Jerusalem's rooftops at dusk: Not By Sight, episode one, the man born blind.
+- 00:24  Title card, with the words over Jerusalem's rooftops at dusk: Not By Sight, episode one, the man born blind.
 - 00:50  The Temple's outer court, crowds of pilgrims, and a beggar seated against a column with his back to us.
+- 00:58  The series map. Jerusalem is marked in gold, in the hills west of the north end of the Dead Sea. The Pool of Siloam is at the south end of the city and the Temple Mount on its east side.
 - 01:19  An open scroll in warm light. The Scripture reader begins.
+- 02:24  A photograph treated to match the paintings: Brian as a young sailor in Navy whites, with Patti beside him. A small plate beneath him reads Mister Scaredy Cat.
 - 02:45  A white cane leaning against a church pew in window light. Brian speaks.
 - 03:17  Two hands mixing earth into mud on a paving stone.
 - 03:36  Wide stone steps in sets of five, descending to the still water of the Pool of Siloam.
@@ -19,7 +21,7 @@ Each still, with its written description (for blind viewers and for the record):
 - 13:23  A beggar's bowl with a few coins on worn Temple steps, passers-by blurred.
 - 13:52  Two men meet in an empty golden street, one reaching toward the other, seen from a distance.
 - 14:56  Robed men walk away into shadow; light falls on the empty place where the beggar sat.
-- 15:46  Closing card over Jerusalem at dusk: For we walk by faith, not by sight. The site address.
+- 15:46  Closing card over Jerusalem at dusk: For we walk by faith, not by sight. The site address, and the address blindnessinthebible.com.
 
 Scripture quotations are from the Holy Bible, Berean Standard Bible, BSB, public domain.
 Scenes introduced with the word 'imagine' are our own. Voices generated with ElevenLabs; mix by Brian Clark.

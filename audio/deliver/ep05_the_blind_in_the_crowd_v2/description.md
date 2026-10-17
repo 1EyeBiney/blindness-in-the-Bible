@@ -5,7 +5,7 @@ Each still, with its written description (for blind viewers and for the record):
 - 00:00  A man is led by the arm up a steep rocky path away from the lake shore, both seen from behind, the water already below them.
 - 00:41  A high bare hillside, dry grass bent flat by the wind, the lake very far below, two small figures climbing in the distance.
 - 01:11  Looking up the slope at a great crowd along the crest of the hill, arms raised, with climbers on the path below seen from behind.
-- 02:07  Title card over the Sea of Galilee seen from its eastern hills: Not By Sight, episode five, the blind in the crowd.
+- 02:07  Title card, with the words over the Sea of Galilee seen from its eastern hills: Not By Sight, episode five, the blind in the crowd.
 - 02:31  A figure in a plain robe sits on a rock at the top of the hill, seen from behind, with a long line of people climbing toward him.
 - 03:13  The open scroll in warm light. The Scripture reader begins.
 - 03:45  People set down a stretcher and help others to sit on the ground before the seated figure, seen from behind the helpers.
@@ -35,7 +35,7 @@ Each still, with its written description (for blind viewers and for the record):
 - 20:38  The crowd on the hill again, as the narrator sets the two crowds side by side.
 - 20:49  Then the Temple court again, the blind and the lame coming in.
 - 21:21  The white cane and the pew. Brian's last words in this episode.
-- 21:45  Closing card over the Temple at dusk from the Mount of Olives: For we walk by faith, not by sight. The site address.
+- 21:45  Closing card over the Temple at dusk from the Mount of Olives: For we walk by faith, not by sight. The site address, and the address blindnessinthebible.com.
 
 Scripture quotations are from the Holy Bible, Berean Standard Bible, BSB, public domain.
 Scenes introduced with the word 'imagine' are our own. Voices generated with ElevenLabs; mix by Brian Clark.
