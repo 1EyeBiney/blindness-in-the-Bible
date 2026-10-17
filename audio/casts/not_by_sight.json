@@ -92,6 +92,13 @@
       "stability": 0.5,
       "style": 0.1,
       "_voice": "Russ (picked by Brian, 10 October 2026)"
+    },
+    "BOOKS": {
+      "name": "The old books",
+      "voice_id": "dgkKQcJqyy5AP0dqleUU",
+      "description": "Reads the old commentators and the other law codes word for word: Henry, Josephus, Edersheim, the encyclopedia, Hammurabi, Amenemope. Measured, slightly formal, a reader at a lectern. Clearly not the narrator and not the Scripture reader.",
+      "stability": 0.7,
+      "_voice": "PLACEHOLDER (Hector's id) until Brian auditions and picks, October 2026"
     }
   }
 }

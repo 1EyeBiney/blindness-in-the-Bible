@@ -94,7 +94,17 @@ the animals. Brian's music does the rest.
 - Whether to ask Pastor John for a reading on the priest.
 - Episode length. The Law material is thinner than the stories. Claude suggests 12 to 15 minutes, not 20.
 
-## Next step, when he is ready
+## Decided 16 October, and drafted
+
+Brian: one new voice for the old books and the codes (BOOKS, placeholder voice until he auditions), page order,
+no Pastor John, 18 to 22 minutes. Device chosen: his question opens each episode and his page paragraphs close it;
+The word is followed to its other verses, read by the Scripture reader; BOOKS reads Henry, Josephus, Edersheim,
+the encyclopedia, Hammurabi, Ur-Nammu and Amenemope word for word; the narrator reasons cases through with no
+characters; yare frames the series and episode 10 looks back through the four words. Map: Sinai off the south edge
+and Shechem's two mountains added to places.json; only episode 7 uses them. Drafts: episodes 7 to 10, built
+16 October, awaiting Brian's read.
+
+## The step that was next before the drafts
 
 A one-page outline for each episode, still before any script. Then the usual flow: draft, Brian's edit pass,
 fold, grammar pass, render, mix, pictures, video, upload, site.

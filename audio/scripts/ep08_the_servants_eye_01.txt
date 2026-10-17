@@ -1,0 +1,93 @@
+@project: ep08_the_servants_eye
+@section: 1
+@cast: casts/not_by_sight.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Not By Sight, episode 8: The servant's eye. Draft script. Second of four on the Law.
+# BOOKS reads the old commentators and the other law codes, word for word. No imagined scenes.
+
+[NARRATOR] (calm) Two verses of law, and in them the only price the Bible ever puts on an eye.
+[PAUSE 1.0]
+[NARRATOR] (plainly) If a man strikes and blinds the eye of his manservant or maidservant, he must let the servant go free as compensation for the eye. And if he knocks out the tooth of his manservant or maidservant, he must let the servant go free as compensation for the tooth.
+[PAUSE 1.5]
+[NARRATOR] (dryly) And now, a word from Brian. Or rather, from the voice Brian picked for himself, since he would not use his own. Around here we call it Mister Scaredy Cat. The voice is not his, but the words are.
+[PAUSE 1.0]
+[BRIAN] (calm) Reading this law, the first thing that struck me was the pairing of an eye with a tooth. I have lost two teeth since I lost my two eyes, and the adjustment was not remotely the same. Put plainly: a servant with a loose tooth could be struck once and walk out free, and the law sets that beside a man who will never see again. It seemed unbalanced.
+[PAUSE 1.0]
+[NARRATOR] (calm) An eye and a tooth, side by side, with the same price. This episode is about why, and about what the price is, and what it is not.
+[PAUSE 1.5]
+[NARRATOR] (calm) This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for blind believers, their families, and the church. The Scripture you will hear is the Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. And when we imagine a scene, we will tell you so.
+[NARRATOR] (calm) This is the second of four episodes on the Law. No imagined scenes. The text, the old books in their own voice, the Hebrew words, and Brian.
+[BREAK]
+[NARRATOR] (calm) First, where we are. Exodus chapter twenty-one. Israel is at Sinai, in the first year out of Egypt, and these are the laws that follow straight after the Ten Commandments. They are case laws: if this happens, then that. This stretch of them deals with injuries. A servant beaten to death. A pregnant woman struck in a fight. And the rule of equal measure that everyone has heard of, eye for eye, tooth for tooth. Our two verses come right after it.
+[NARRATOR] (calm) Exodus chapter 21, verses 20 to 27.
+[READER] (plainly) If a man strikes his manservant or maidservant with a rod, and the servant dies by his hand, he shall surely be punished.
+[READER] (plainly) However, if the servant gets up after a day or two, the owner shall not be punished, since the servant is his property.
+[READER] (plainly) If men who are fighting strike a pregnant woman and her child is born prematurely, but there is no further injury, he shall surely be fined as the woman’s husband demands and as the court allows.
+[READER] (plainly) But if a serious injury results, then you must require a life for a life—
+[READER] (plainly) eye for eye, tooth for tooth, hand for hand, foot for foot,
+[READER] (plainly) burn for burn, wound for wound, and stripe for stripe.
+[READER] (plainly) If a man strikes and blinds the eye of his manservant or maidservant, he must let the servant go free as compensation for the eye.
+[READER] (plainly) And if he knocks out the tooth of his manservant or maidservant, he must let the servant go free as compensation for the tooth.
+[NARRATOR] (calm) Two things stand out before we go any further. The law assumes that masters did strike servants, and that eyes were lost that way. And it does not apply eye for eye to the master. The master does not lose his eye. The servant gains his freedom. Whether that was more or less protection than a servant had in the lands around Israel is a question the old books can answer, and we will get to it.
+[BREAK]
+[NARRATOR] (calm) Now the words. There are two in these verses worth following, and a third that the Law adds from elsewhere. The first is the word for eye: ayin. Ah-yin. Strong's dictionary gives it as an eye, and then adds something easy to miss in English. By analogy, it says, a fountain. The eye of the landscape. The same word is a spring of water. The 1915 encyclopedia calls the eye the lamp of the body, and then says this:
+[BOOKS] (calm) A cruel custom therefore sanctioned among heathen nations the putting out of the eyes of an enemy or a rival, because thus his power was most effectually shattered.
+[NARRATOR] (calm) The encyclopedia gives three examples from the Bible, and two of them are stories on our site. The first is Samson.
+[NARRATOR] (calm) Judges chapter 16, verse 21.
+[READER] (plainly) Then the Philistines seized him, gouged out his eyes, and brought him down to Gaza, where he was bound with bronze shackles and forced to grind grain in the prison.
+[NARRATOR] (calm) The second is Zedekiah, the last king of Judah, after the fall of Jerusalem.
+[NARRATOR] (calm) 2 Kings chapter 25, verse 7.
+[READER] (plainly) And they slaughtered the sons of Zedekiah before his eyes. Then they put out his eyes, bound him with bronze shackles, and took him to Babylon.
+[NARRATOR] (calm) Gouged out. Put out. Those are the eyes of the Old Testament outside this law: taken by enemies, to break a man. The law of the servant stands between those two men. It is the one place where the Law of Moses puts a price on an eye, and the price is paid to the man who lost it.
+[BREAK]
+[NARRATOR] (calm) The second word is the word for free. Chophshi. Khof-shee. Strong's glosses it as exempt, from bondage, tax or care. And here is the thing. It is not a new word made for this law. It is the word used a few verses earlier in the same chapter, for the Hebrew servant who goes free in the seventh year.
+[NARRATOR] (calm) Exodus chapter 21, verse 2.
+[READER] (plainly) If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free without paying anything.
+[NARRATOR] (calm) Deuteronomy repeats the seventh-year rule forty years later, and adds something.
+[NARRATOR] (calm) Deuteronomy chapter 15, verses 12 to 15.
+[READER] (plainly) If a fellow Hebrew, a man or a woman, is sold to you and serves you six years, then in the seventh year you must set him free.
+[READER] (plainly) And when you release him, do not send him away empty-handed.
+[READER] (plainly) You are to furnish him liberally from your flock, your threshing floor, and your winepress. You shall give to him as the LORD your God has blessed you.
+[READER] (plainly) Remember that you were slaves in the land of Egypt, and the LORD your God redeemed you; that is why I am giving you this command today.
+[NARRATOR] (calm) Remember that you were slaves in Egypt. That is the reason the Law gives for freeing a servant at all. So when the law of the blinded servant says he goes free, chophshi, it is not inventing a new kind of release. It is giving him the release the Law already knew, the seventh-year freedom, at once. An eye bought what six years of service bought. A tooth bought it too.
+[PAUSE 1.0]
+[NARRATOR] (calm) Brian remembered, while reading this, that there was a second release in the Law besides the seventh year, and he was right. Every fiftieth year was the Jubilee.
+[NARRATOR] (calm) Leviticus chapter 25, verse 10.
+[READER] (plainly) So you are to consecrate the fiftieth year and proclaim liberty in the land for all its inhabitants. It shall be your Jubilee, when each of you is to return to his property and to his clan.
+[NARRATOR] (calm) And for the man who had sold himself: Leviticus chapter 25, verses 39 to 41.
+[READER] (plainly) If a countryman among you becomes destitute and sells himself to you, then you must not force him into slave labor.
+[READER] (plainly) Let him stay with you as a hired worker or temporary resident; he is to work for you until the Year of Jubilee.
+[READER] (plainly) Then he and his children are to be released, and he may return to his clan and to the property of his fathers.
+[NARRATOR] (calm) The word for liberty there is a third word, deror. Deh-rore. Not the servant's chophshi. And deror is the word in one more verse, the one Jesus stood up and read in the synagogue at Nazareth, which listeners to episode six will remember.
+[NARRATOR] (calm) Isaiah chapter 61, verse 1.
+[READER] (plainly) The Spirit of the Lord GOD is on Me, because the LORD has anointed Me to preach good news to the poor. He has sent Me to bind up the brokenhearted, to proclaim liberty to the captives and freedom to the prisoners,
+[NARRATOR] (calm) To proclaim liberty to the captives. Deror. The Jubilee's word. The blinded servant's release did not wait for the seventh year or the fiftieth. It came that day.
+[BREAK]
+[NARRATOR] (calm) Now the other law codes, because this is the one law where the comparison is exact. Hammurabi of Babylon, some three to five centuries before Moses, wrote laws about eyes and teeth too. Here they are, in Johns's translation of 1903, read in order.
+[BOOKS] (plainly) Section 196. If a man has caused the loss of a gentleman's eye, his eye one shall cause to be lost.
+[BOOKS] (plainly) Section 198. If he has caused a poor man to lose his eye or shattered a poor man's limb, he shall pay one mina of silver.
+[BOOKS] (plainly) Section 199. If he has caused the loss of the eye of a gentleman's servant or has shattered the limb of a gentleman's servant, he shall pay half his price.
+[BOOKS] (plainly) Section 200. If a man has made the tooth of a man that is his equal to fall out, one shall make his tooth fall out. Section 201. If he has made the tooth of a poor man to fall out, he shall pay one-third of a mina of silver.
+[NARRATOR] (calm) Hear the scale. A gentleman's eye costs you your own eye. A poor man's eye costs one mina of silver. A servant's eye costs half the servant's price, and nothing in the text says the servant sees any of it. The money goes where the loss was counted, and the loss was counted to the owner. The 1915 encyclopedia, in an article by an Assyriologist, weighed Exodus against Babylon and said this:
+[BOOKS] (calm) One can hardly assert that the parallels quoted are accidental, but just as little could one say that they are directly taken from the Code; for they bear quite a definite impression due to the Israelitish culture, and numerous marked divergences also exist.
+[NARRATOR] (calm) The servant's freedom is one of those divergences, and the largest. In Babylon a servant's eye was priced. In Israel it was freed.
+[BREAK]
+[NARRATOR] (calm) Now to Brian's question. Why the tooth? Matthew Henry, in seventeen hundred and six, read the two verses together and saw it.
+[BOOKS] (calm) The care God took of servants. If their masters maimed them, though it was only striking out a tooth, that should be their discharge.
+[BOOKS] (calm) To comfort them if they were abused; the loss of a limb should be the gaining of their liberty, which would do something towards balancing both the pain and disgrace they underwent.
+[NARRATOR] (calm) Though it was only striking out a tooth. The tooth is not in the law because it equals an eye. It is in the law because it is the smallest lasting harm anyone would bother to name. Set the threshold there, and every harm above it, the eye above all, is beyond doubt. Smith's dictionary reads it the same way: the master's power over the servant's body was so far limited that maiming gave liberty at once, by the fact itself.
+[NARRATOR] (calm) And by the first century, Josephus says, even eye for eye among free men had become a matter of money, at the choice of the one who was hurt.
+[BOOKS] (calm) He that maimeth any one, let him undergo the like himself, and be deprived of the same member of which he hath deprived the other, unless he that is maimed will accept of money instead of it; for the law makes the sufferer the judge of the value of what he hath suffered.
+[NARRATOR] (calm) The sufferer the judge of the value. Keep that phrase. It is what Brian is about to do.
+[BREAK]
+[NARRATOR] (calm) Brian, on the tooth, on the money, and on the other side of it.
+[BRIAN] (calm) Reading this law, the first thing that struck me was the pairing of an eye with a tooth. I have lost two teeth since I lost my two eyes, and the adjustment was not remotely the same. Put plainly: a servant with a loose tooth could be struck once and walk out free, and the law sets that beside a man who will never see again. It seemed unbalanced. Then I read it as the old commentators did. The tooth is not there because it equals an eye. It is there because it is the smallest lasting harm anyone would bother to name. If even that freed a servant, then nothing a master could do to a servant's body was free of cost. The eye was never in question.
+[BRIAN] (calm) The second thing was the money. The tables from Babylon on this page put silver on an eye, less silver on a tooth, and for a servant's eye, a payment to the owner. How do you price reduced sight, or no sight at all? I would guess that some of these servants were left completely blind. Is that worth the price of freedom? The Law of Moses does not try to answer in silver. It names no sum. It gives the servant the one thing the master cannot keep back, which is himself.
+[BRIAN] (calm) Here is the other side of it, and I mean this. I have lived without light since 2014. My freedom, and above all my freedom to worship God in the way I choose, is worth more to me than my sight ever was. I have adapted, adjusted, and found God's purpose for me. In so many ways my blindness has been a gift from God, the third greatest after my salvation and my wife. It has brought us more blessings than I can list, and it has shaped my character to fit His purposes better than it did.
+[BRIAN] (calm) So I read this law two ways at once. Freedom is not a price for an eye, and the law does not pretend it is. But freedom is also not a small thing to hand a blind man, and I know that from the inside.
+[BREAK]
+[NARRATOR] (calm) Next time, the one law that limits what a blind man may do: the blind priest, who could not go near the altar, and who ate at the table all the same.
+[NARRATOR] (calm) This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot com. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
+[NARRATOR] (after a long pause) For we walk by faith, not by sight.

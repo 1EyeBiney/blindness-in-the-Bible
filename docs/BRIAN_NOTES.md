@@ -279,6 +279,14 @@ blind animals thoughts: this one is harder to read than I thought simply because
 
 *Placed:* 16 October, with his approval ("that settles it for me, we will officially go with those thoughts"): three paragraphs under From Brian on the blind animals page.
 
+## 16 October 2026, the Law series: Brian's decisions (from chat, verbatim)
+
+yes, 1 voice, page order, no Pastor John. Most of the prior episodes were 18 to 22 mins in length so ideally we end up in that range, a little longer than we originally planned for all our episodes., go ahead and write draft scripts now unless yo have additional questions
+
+Earlier the same day: I am re-rendering some of the episodes now after getting feedback that the ambient music is too loud. I am usesd to hearing it all through my Sony headphones and tend to forget that most will be using mobile device speakers. After I re-render them all, we will re-post and fix on the site.
+
+*Placed:* four draft scripts, episodes 7 to 10 (audio/episodes/ep07_the_stumbling_block.py to ep10_the_blind_animal.py; reading files audio/scripts/ep07_*_01.md etc.). Device: his question as the spine, The word followed to its other verses, the old books and codes read by a new voice BOOKS (placeholder id until he auditions), narrator reasoning in the open, the yare frame and the four-word look back. His page paragraphs are his lines, approved; one new closing paragraph drafted for episode 7 awaits him. Re-posting the re-rendered episodes 1 to 6 is pending his WAVs.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
