@@ -1,38 +1,38 @@
 id,speaker,start_sec,end_sec,confidence,first_words
 001,NARRATOR,4.00,6.72,104.9,"A man is sitting in the dark, listening."
-002,NARRATOR,9.22,51.46,179.8,Imagine the cell with him. It is cut
-003,NARRATOR,54.46,122.78,179.1,"Then footsteps in the passage outside. A guard,"
-004,NARRATOR,130.28,162.92,161.5,"This is Not By Sight, a series on"
-005,NARRATOR,166.42,260.42,164.5,"First, where we are. John the Baptist baptised"
-006,READER,263.22,316.74,172.7,Then John’s disciples informed him about all these
-007,NARRATOR,318.24,349.92,146.4,"Are You the One who was to come,"
-008,NARRATOR,355.92,373.44,172.4,The second is harder to hear. John had
-009,NARRATOR,375.58,392.06,165.5,The third is the kindest to John. Perhaps
-010,NARRATOR,393.56,424.76,162.6,We are not told which it was. And
-011,NARRATOR,427.26,445.34,159.2,To hear the answer the way John heard
-012,READER,447.30,477.70,168.7,"Say to those with anxious hearts: “Be strong,"
-013,NARRATOR,478.70,487.18,163.3,"And the second, the passage Jesus had already"
-014,READER,487.82,503.34,259.6,The Spirit of the Lord GOD is on
-015,NARRATOR,504.34,538.98,331.7,The eyes of the blind will be opened.
+002,NARRATOR,9.22,51.46,180.3,Imagine the cell with him. It is cut
+003,NARRATOR,54.46,122.78,181.3,"Then footsteps in the passage outside. A guard,"
+004,NARRATOR,130.28,162.92,165.8,"This is Not By Sight, a series on"
+005,NARRATOR,166.42,260.42,168.4,"First, where we are. John the Baptist baptised"
+006,READER,263.22,316.74,176.3,Then John’s disciples informed him about all these
+007,NARRATOR,318.24,349.92,149.9,"Are You the One who was to come,"
+008,NARRATOR,355.92,373.44,175.9,The second is harder to hear. John had
+009,NARRATOR,375.58,392.06,168.1,The third is the kindest to John. Perhaps
+010,NARRATOR,393.56,424.76,165.3,We are not told which it was. And
+011,NARRATOR,427.26,445.34,162.0,To hear the answer the way John heard
+012,READER,447.30,477.70,170.5,"Say to those with anxious hearts: “Be strong,"
+013,NARRATOR,478.70,487.18,164.9,"And the second, the passage Jesus had already"
+014,READER,487.82,503.34,262.0,The Spirit of the Lord GOD is on
+015,NARRATOR,504.34,538.98,332.7,The eyes of the blind will be opened.
 016,NARRATOR,541.97,556.05,430.0,Scripture gives us the question and the answer.
 017,DISCIPLE,560.05,570.61,145.1,"Teacher. We are back. Yes, it is us,"
-018,JOHN,570.61,573.49,192.4,Well? Did you ask him? What did he
-019,DISCIPLE,574.19,580.67,93.1,We asked him exactly as you said. Are
-020,JOHN,580.72,582.24,126.1,And his answer?
-021,DISCIPLE,582.34,602.42,116.5,"At first, nothing. He went on with what"
-022,JOHN,602.72,605.04,92.9,I see. ... Go on.
-023,DISCIPLE,605.24,624.44,111.4,"He was old, and someone had him by"
-024,JOHN,625.04,628.24,89.0,The eyes of the blind will be opened.
-025,DISCIPLE,628.54,648.14,97.1,"Then he turned to us and said, go"
-026,JOHN,648.24,649.44,61.0,Say it.
-027,DISCIPLE,649.34,652.86,64.9,Blessed is the one who does not fall
-028,NARRATOR,657.36,667.20,182.3,"John stayed in Machaerus. He was not healed,"
-029,NARRATOR,669.80,684.12,197.3,"And now, a word from Brian. Or rather,"
-030,BRIAN,684.52,733.40,210.0,John the Baptist doubted. The man who pointed
-031,NARRATOR,735.10,758.94,143.2,"Matthew tells the same exchange more briefly, and"
-032,READER,759.94,840.98,161.1,Meanwhile John heard in prison about the works
-033,NARRATOR,842.48,890.72,218.7,Did you hear when He said it? As
-034,BRIAN,896.42,972.58,220.7,I have to be honest about the other
-035,NARRATOR,975.28,1027.84,217.7,Look back over the six episodes. A man
-036,BRIAN,1029.34,1091.18,253.6,The part of this episode that comes closest
-037,NARRATOR,1101.30,1127.86,232.1,This has been Not By Sight. The full
+018,JOHN,570.61,573.49,194.0,Well? Did you ask him? What did he
+019,DISCIPLE,574.19,580.67,93.3,We asked him exactly as you said. Are
+020,JOHN,580.72,582.24,129.4,And his answer?
+021,DISCIPLE,582.34,602.42,117.4,"At first, nothing. He went on with what"
+022,JOHN,602.72,605.04,95.3,I see. ... Go on.
+023,DISCIPLE,605.24,624.44,112.8,"He was old, and someone had him by"
+024,JOHN,625.04,628.24,93.6,The eyes of the blind will be opened.
+025,DISCIPLE,628.54,648.14,100.4,"Then he turned to us and said, go"
+026,JOHN,648.24,649.44,74.3,Say it.
+027,DISCIPLE,649.34,652.86,67.8,Blessed is the one who does not fall
+028,NARRATOR,657.36,667.20,186.1,"John stayed in Machaerus. He was not healed,"
+029,NARRATOR,669.80,684.12,201.2,"And now, a word from Brian. Or rather,"
+030,BRIAN,684.52,733.40,213.6,John the Baptist doubted. The man who pointed
+031,NARRATOR,735.10,758.94,145.9,"Matthew tells the same exchange more briefly, and"
+032,READER,759.94,840.98,163.8,Meanwhile John heard in prison about the works
+033,NARRATOR,842.48,890.72,224.0,Did you hear when He said it? As
+034,BRIAN,896.42,972.58,226.1,I have to be honest about the other
+035,NARRATOR,975.28,1027.84,222.5,Look back over the six episodes. A man
+036,BRIAN,1029.34,1091.18,263.2,The part of this episode that comes closest
+037,NARRATOR,1101.30,1127.86,239.8,This has been Not By Sight. The full

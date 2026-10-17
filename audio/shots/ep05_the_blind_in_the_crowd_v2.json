@@ -1,91 +1,252 @@
 {
-  "_comment": "Shot list for episode 5. Each shot starts at the section id in 'from', or partway through it at 'at_phrase'. Shared: the scroll and the pew from episode 1, Brian's labelled Navy photograph, and the series map (maps/ep05.png, the mountain by the lake and Jerusalem both in gold). 'description' is the written description for blind viewers and the episode notes.",
-  "style": "Painterly oil-sketch look. First half: the bare hills east of the Sea of Galilee, dry grass and rock, wide sky, the lake far below, clear light. Second half: Herod's Temple in Jerusalem, pale stone, colonnades, bright sun. No faces shown close up; figures seen from behind or at a distance. No text in the image. No modern objects. 16:9.",
-  "shots": [
-    {"from": "001", "image": "ep05_the_blind_in_the_crowd/01_led_up_the_path.png", "card": "Not By Sight",
-     "prompt": "A man being led by the arm up a steep rocky path that climbs away from a lake shore, both figures seen from behind, the lake already below them on one side, reeds at the water's edge, bare dry hills ahead, warm morning light.",
-     "description": "A man is led by the arm up a steep rocky path away from the lake shore, both seen from behind, the water already below them."},
-    {"from": "002", "at_phrase": "Then the air.", "image": "ep05_the_blind_in_the_crowd/02_high_bare_ground.png", "card": "Height",
-     "prompt": "A high bare hillside of dry grass and grey rock under a wide sky, the grass bent flat by a strong wind, a narrow path, the Sea of Galilee very far below, two small figures climbing in the distance seen from behind, no trees.",
-     "description": "A high bare hillside, dry grass bent flat by the wind, the lake very far below, two small figures climbing in the distance."},
-    {"from": "003", "image": "ep05_the_blind_in_the_crowd/03_glad_crowd_above.png", "card": "A sound from higher up",
-     "prompt": "Looking up a rocky slope toward a great crowd gathered along the crest of the hill against the sky, many arms raised in joy, seen from below and far off so no faces are distinct, climbers on the path in the foreground seen from behind.",
-     "description": "Looking up the slope at a great crowd along the crest of the hill, arms raised, with climbers on the path below seen from behind."},
-    {"from": "004", "image": "ep05_the_blind_in_the_crowd/04_title.png", "card": "Not By Sight\nEpisode 5: The blind in the crowd",
-     "prompt": "Title card background only: the Sea of Galilee seen from high on its eastern hills in the morning, bare slopes falling steeply to the blue water, far shore hazy, no people, no text, keep the lower third calm.",
-     "description": "Title card over the Sea of Galilee seen from its eastern hills: Not By Sight, episode five, the blind in the crowd."},
-    {"from": "005", "image": "ep05_the_blind_in_the_crowd/05_seated_on_the_mountain.png", "card": "He sat down",
-     "prompt": "A single figure in a plain robe seated on a rock at the top of a bare hill, seen from behind and at a distance, with a long line of people climbing the slope toward him, the lake far below, clear light.",
-     "description": "A figure in a plain robe sits on a rock at the top of the hill, seen from behind, with a long line of people climbing toward him."},
-    {"from": "006", "image": "ep01_man_born_blind/04_scripture.png", "card": "Matthew 15:29-31",
-     "prompt": "", "description": "The open scroll in warm light. The Scripture reader begins."},
-    {"from": "007", "image": "ep05_the_blind_in_the_crowd/06_laid_at_his_feet.png", "card": "At His feet",
-     "prompt": "On a hilltop, people gently setting down a stretcher and helping others to sit on the ground in front of a seated figure in a plain robe, all seen from behind the helpers, a crowd pressing close around, bright open sky.",
-     "description": "People set down a stretcher and help others to sit on the ground before the seated figure, seen from behind the helpers."},
-    {"from": "008", "image": "ep01_man_born_blind/04_scripture.png", "card": "Matthew 15:32-38",
-     "prompt": "", "description": "The open scroll. The three days, and the feeding of the four thousand."},
-    {"from": "009", "image": "ep05_the_blind_in_the_crowd/07_wall_of_hills.png", "card": "The place",
-     "prompt": "The eastern shore of the Sea of Galilee seen from the water: a high, steep, almost unbroken wall of bare brown hills rising straight from a narrow hot shoreline, heat haze at the bottom and clear air at the top, no people, no buildings.",
-     "description": "The eastern shore from the water: a high, steep wall of bare hills rising from a narrow shoreline, haze below and clear air above."},
-    {"from": "009", "at_phrase": "Three days.", "image": "ep05_the_blind_in_the_crowd/08_camp_on_the_hill.png", "card": "Three days",
-     "prompt": "Thousands of people camped on an open hillside at dusk, sitting and lying on the ground in groups, a few small fires, no tents, the lake dark far below, seen from a distance so no faces show, first stars.",
-     "description": "Thousands camped on the open hillside at dusk, sitting and lying on the ground around small fires, the lake dark below."},
-    {"from": "009", "at_phrase": "Was it faith that got them up there?", "image": "ep05_the_blind_in_the_crowd/09_carrying_each_other.png", "card": "Carrying each other",
-     "prompt": "On a steep rocky path, four men carrying a boy on a wooden door used as a stretcher, a woman behind them leading a small child by the hand, and a man guiding another by the arm, all climbing and all seen from behind.",
-     "description": "On the steep path, four men carry a boy on a door, a woman leads a child by the hand, and a man guides another by the arm, all seen from behind."},
-    {"from": "010", "image": "maps/ep05.png", "card": "Where this is",
-     "prompt": "",
-     "description": "The series map. The hills east of the Sea of Galilee are marked in gold. Capernaum and Bethsaida are about five hours' walk at eleven o'clock, round the top of the lake. Behind, down the Jordan valley, Jericho is about three days' walk at six o'clock and Jerusalem, also in gold, about three and a half days at seven o'clock."},
-    {"from": "011", "image": "ep05_the_blind_in_the_crowd/01_led_up_the_path.png", "card": "Imagine: the climb",
-     "prompt": "", "description": "An imagined scene. The man led up the rocky path again."},
-    {"from": "013", "image": "ep05_the_blind_in_the_crowd/02_high_bare_ground.png", "card": "The air has changed",
-     "prompt": "", "description": "The high bare ground again, the wind flattening the grass."},
-    {"from": "015", "image": "ep05_the_blind_in_the_crowd/03_glad_crowd_above.png", "card": "What is that, up ahead?",
-     "prompt": "", "description": "The glad crowd on the crest of the hill again."},
-    {"from": "018", "image": "ep05_the_blind_in_the_crowd/09_carrying_each_other.png", "card": "Everybody",
-     "prompt": "", "description": "The people carrying each other up the path again."},
-    {"from": "020", "image": "ep05_the_blind_in_the_crowd/05_seated_on_the_mountain.png", "card": "Like he has all day",
-     "prompt": "", "description": "The seated figure at the top again, the line of people coming up."},
-    {"from": "025", "image": "ep05_the_blind_in_the_crowd/06_laid_at_his_feet.png", "card": "He healed them",
-     "prompt": "", "description": "The people being set down before Him again."},
-    {"from": "026", "image": "ep01_man_born_blind/00_brian_navy.png", "card": "Mister Scaredy Cat",
-     "prompt": "",
-     "description": "A photograph treated to match the paintings: Brian as a young sailor in Navy whites, with Patti beside him. A small caption plate beneath him reads Mister Scaredy Cat."},
-    {"from": "027", "image": "ep01_man_born_blind/05_brian.png", "card": "From Brian",
-     "prompt": "", "description": "The white cane leaning against a church pew. Brian speaks."},
-    {"from": "029", "image": "ep05_the_blind_in_the_crowd/10_davids_city.png", "card": "A thousand years earlier",
-     "prompt": "An ancient walled fortress town on a narrow rocky ridge above a deep valley, much older and smaller than Herod's Jerusalem, rough stone walls and a gate, an army camped in the valley below seen as tiny figures, dawn light.",
-     "description": "An ancient walled fortress on a narrow ridge above a deep valley, an army camped far below: Jerusalem on the day David took it."},
-    {"from": "030", "image": "ep01_man_born_blind/04_scripture.png", "card": "2 Samuel 5:6-8",
-     "prompt": "", "description": "The open scroll. The taunt about the blind and the lame."},
-    {"from": "031", "image": "ep05_the_blind_in_the_crowd/10_davids_city.png", "card": "The saying",
-     "prompt": "", "description": "The old fortress on its ridge again."},
-    {"from": "032", "image": "ep01_man_born_blind/04_scripture.png", "card": "Matthew 21:12-16",
-     "prompt": "", "description": "The open scroll. The blind and the lame in the Temple."},
-    {"from": "033", "image": "maps/ep05.png", "card": "Where this is, and when",
-     "prompt": "",
-     "description": "The series map again. Jerusalem in gold, three and a half days' walk south of the mountain. The road from Jericho comes in at two o'clock, about six hours' walk. This is Jesus's last week."},
-    {"from": "033", "at_phrase": "The place. The outer court", "image": "ep05_the_blind_in_the_crowd/11_temple_market.png", "card": "The Court of the Gentiles",
-     "prompt": "The vast outer court of Herod's Temple used as a market: long pale stone colonnades, money changers seated at small wooden tables with piles of coins, cages of doves, sheep and oxen in pens, crowds of buyers, all seen from a distance in bright sun.",
-     "description": "The vast outer court of the Temple as a market: money changers at small tables, cages of doves, sheep and oxen, crowds between long colonnades."},
-    {"from": "033", "at_phrase": "As the traders are driven out", "image": "ep05_the_blind_in_the_crowd/12_they_come_in.png", "card": "They came to Him",
-     "prompt": "The same Temple court a moment later: wooden tables overturned and coins scattered on the paving, and through the gap people coming forward from the colonnades, one led by the hand, one on a crutch, one feeling his way with a staff, all seen from behind as they walk toward a figure in a plain robe.",
-     "description": "Tables overturned and coins scattered on the paving; through the gap come people led by the hand, on a crutch, and feeling the way with a staff, seen from behind."},
-    {"from": "033", "at_phrase": "Matthew Henry set the scene", "image": "ep05_the_blind_in_the_crowd/13_children_shouting.png", "card": "Hosanna",
-     "prompt": "A group of children in the Temple court seen from behind with their arms raised, shouting joyfully, and at the far side a few robed elders standing stiffly with folded arms, bright sun on pale stone, no faces distinct.",
-     "description": "Children in the Temple court, seen from behind with arms raised, shouting; at the far side a few robed elders stand stiffly with folded arms."},
-    {"from": "033", "at_phrase": "One more thing from the Law.", "image": "ep05_the_blind_in_the_crowd/12_they_come_in.png", "card": "They were the point",
-     "prompt": "", "description": "The blind and the lame coming through the gap again."},
-    {"from": "034", "image": "ep01_man_born_blind/05_brian.png", "card": "From Brian",
-     "prompt": "", "description": "The white cane and the pew. Brian speaks."},
-    {"from": "035", "image": "ep05_the_blind_in_the_crowd/03_glad_crowd_above.png", "card": "Two crowds",
-     "prompt": "", "description": "The crowd on the hill again, as the narrator sets the two crowds side by side."},
-    {"from": "035", "at_phrase": "In the Temple, the holiest ground", "image": "ep05_the_blind_in_the_crowd/12_they_come_in.png", "card": "Two crowds",
-     "prompt": "", "description": "Then the Temple court again, the blind and the lame coming in."},
-    {"from": "036", "image": "ep01_man_born_blind/05_brian.png", "card": "From Brian",
-     "prompt": "", "description": "The white cane and the pew. Brian's last words in this episode."},
-    {"from": "037", "image": "ep05_the_blind_in_the_crowd/14_close.png", "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
-     "prompt": "Herod's Temple in Jerusalem at dusk seen from the Mount of Olives, pale stone catching the last light, a few lamps lit in the courts, deep blue sky with first stars, no people, no text, keep the lower third calm and dark.",
-     "description": "Closing card over the Temple at dusk from the Mount of Olives: For we walk by faith, not by sight. The site address."}
-  ]
+ "_comment": "Shot list for episode 5. Each shot starts at the section id in 'from', or partway through it at 'at_phrase'. Shared: the scroll and the pew from episode 1, Brian's labelled Navy photograph, and the series map (maps/ep05.png, the mountain by the lake and Jerusalem both in gold). 'description' is the written description for blind viewers and the episode notes.",
+ "style": "Painterly oil-sketch look. First half: the bare hills east of the Sea of Galilee, dry grass and rock, wide sky, the lake far below, clear light. Second half: Herod's Temple in Jerusalem, pale stone, colonnades, bright sun. No faces shown close up; figures seen from behind or at a distance. No text in the image. No modern objects. 16:9.",
+ "shots": [
+  {
+   "from": "001",
+   "image": "ep05_the_blind_in_the_crowd/01_led_up_the_path.png",
+   "card": "Not By Sight",
+   "prompt": "A man being led by the arm up a steep rocky path that climbs away from a lake shore, both figures seen from behind, the lake already below them on one side, reeds at the water's edge, bare dry hills ahead, warm morning light.",
+   "description": "A man is led by the arm up a steep rocky path away from the lake shore, both seen from behind, the water already below them."
+  },
+  {
+   "from": "002",
+   "at_phrase": "Then the air.",
+   "image": "ep05_the_blind_in_the_crowd/02_high_bare_ground.png",
+   "card": "Height",
+   "prompt": "A high bare hillside of dry grass and grey rock under a wide sky, the grass bent flat by a strong wind, a narrow path, the Sea of Galilee very far below, two small figures climbing in the distance seen from behind, no trees.",
+   "description": "A high bare hillside, dry grass bent flat by the wind, the lake very far below, two small figures climbing in the distance."
+  },
+  {
+   "from": "003",
+   "image": "ep05_the_blind_in_the_crowd/03_glad_crowd_above.png",
+   "card": "A sound from higher up",
+   "prompt": "Looking up a rocky slope toward a great crowd gathered along the crest of the hill against the sky, many arms raised in joy, seen from below and far off so no faces are distinct, climbers on the path in the foreground seen from behind.",
+   "description": "Looking up the slope at a great crowd along the crest of the hill, arms raised, with climbers on the path below seen from behind."
+  },
+  {
+   "from": "004",
+   "image": "ep05_the_blind_in_the_crowd/title_card.jpg",
+   "card": "Not By Sight\nEpisode 5: The blind in the crowd",
+   "prompt": "Title card background only: the Sea of Galilee seen from high on its eastern hills in the morning, bare slopes falling steeply to the blue water, far shore hazy, no people, no text, keep the lower third calm.",
+   "description": "Title card, with the words over the Sea of Galilee seen from its eastern hills: Not By Sight, episode five, the blind in the crowd."
+  },
+  {
+   "from": "005",
+   "image": "ep05_the_blind_in_the_crowd/05_seated_on_the_mountain.png",
+   "card": "He sat down",
+   "prompt": "A single figure in a plain robe seated on a rock at the top of a bare hill, seen from behind and at a distance, with a long line of people climbing the slope toward him, the lake far below, clear light.",
+   "description": "A figure in a plain robe sits on a rock at the top of the hill, seen from behind, with a long line of people climbing toward him."
+  },
+  {
+   "from": "006",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Matthew 15:29-31",
+   "prompt": "",
+   "description": "The open scroll in warm light. The Scripture reader begins."
+  },
+  {
+   "from": "007",
+   "image": "ep05_the_blind_in_the_crowd/06_laid_at_his_feet.png",
+   "card": "At His feet",
+   "prompt": "On a hilltop, people gently setting down a stretcher and helping others to sit on the ground in front of a seated figure in a plain robe, all seen from behind the helpers, a crowd pressing close around, bright open sky.",
+   "description": "People set down a stretcher and help others to sit on the ground before the seated figure, seen from behind the helpers."
+  },
+  {
+   "from": "008",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Matthew 15:32-38",
+   "prompt": "",
+   "description": "The open scroll. The three days, and the feeding of the four thousand."
+  },
+  {
+   "from": "009",
+   "image": "ep05_the_blind_in_the_crowd/07_wall_of_hills.png",
+   "card": "The place",
+   "prompt": "The eastern shore of the Sea of Galilee seen from the water: a high, steep, almost unbroken wall of bare brown hills rising straight from a narrow hot shoreline, heat haze at the bottom and clear air at the top, no people, no buildings.",
+   "description": "The eastern shore from the water: a high, steep wall of bare hills rising from a narrow shoreline, haze below and clear air above."
+  },
+  {
+   "from": "009",
+   "at_phrase": "Three days.",
+   "image": "ep05_the_blind_in_the_crowd/08_camp_on_the_hill.png",
+   "card": "Three days",
+   "prompt": "Thousands of people camped on an open hillside at dusk, sitting and lying on the ground in groups, a few small fires, no tents, the lake dark far below, seen from a distance so no faces show, first stars.",
+   "description": "Thousands camped on the open hillside at dusk, sitting and lying on the ground around small fires, the lake dark below."
+  },
+  {
+   "from": "009",
+   "at_phrase": "Was it faith that got them up there?",
+   "image": "ep05_the_blind_in_the_crowd/09_carrying_each_other.png",
+   "card": "Carrying each other",
+   "prompt": "On a steep rocky path, four men carrying a boy on a wooden door used as a stretcher, a woman behind them leading a small child by the hand, and a man guiding another by the arm, all climbing and all seen from behind.",
+   "description": "On the steep path, four men carry a boy on a door, a woman leads a child by the hand, and a man guides another by the arm, all seen from behind."
+  },
+  {
+   "from": "010",
+   "image": "maps/ep05.png",
+   "card": "Where this is",
+   "prompt": "",
+   "description": "The series map. The hills east of the Sea of Galilee are marked in gold. Capernaum and Bethsaida are about five hours' walk at eleven o'clock, round the top of the lake. Behind, down the Jordan valley, Jericho is about three days' walk at six o'clock and Jerusalem, also in gold, about three and a half days at seven o'clock."
+  },
+  {
+   "from": "011",
+   "image": "ep05_the_blind_in_the_crowd/01_led_up_the_path.png",
+   "card": "Imagine: the climb",
+   "prompt": "",
+   "description": "An imagined scene. The man led up the rocky path again."
+  },
+  {
+   "from": "013",
+   "image": "ep05_the_blind_in_the_crowd/02_high_bare_ground.png",
+   "card": "The air has changed",
+   "prompt": "",
+   "description": "The high bare ground again, the wind flattening the grass."
+  },
+  {
+   "from": "015",
+   "image": "ep05_the_blind_in_the_crowd/03_glad_crowd_above.png",
+   "card": "What is that, up ahead?",
+   "prompt": "",
+   "description": "The glad crowd on the crest of the hill again."
+  },
+  {
+   "from": "018",
+   "image": "ep05_the_blind_in_the_crowd/09_carrying_each_other.png",
+   "card": "Everybody",
+   "prompt": "",
+   "description": "The people carrying each other up the path again."
+  },
+  {
+   "from": "020",
+   "image": "ep05_the_blind_in_the_crowd/05_seated_on_the_mountain.png",
+   "card": "Like he has all day",
+   "prompt": "",
+   "description": "The seated figure at the top again, the line of people coming up."
+  },
+  {
+   "from": "025",
+   "image": "ep05_the_blind_in_the_crowd/06_laid_at_his_feet.png",
+   "card": "He healed them",
+   "prompt": "",
+   "description": "The people being set down before Him again."
+  },
+  {
+   "from": "026",
+   "image": "ep01_man_born_blind/00_brian_navy.png",
+   "card": "Mister Scaredy Cat",
+   "prompt": "",
+   "description": "A photograph treated to match the paintings: Brian as a young sailor in Navy whites, with Patti beside him. A small caption plate beneath him reads Mister Scaredy Cat."
+  },
+  {
+   "from": "027",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane leaning against a church pew. Brian speaks."
+  },
+  {
+   "from": "029",
+   "image": "ep05_the_blind_in_the_crowd/10_davids_city.png",
+   "card": "A thousand years earlier",
+   "prompt": "An ancient walled fortress town on a narrow rocky ridge above a deep valley, much older and smaller than Herod's Jerusalem, rough stone walls and a gate, an army camped in the valley below seen as tiny figures, dawn light.",
+   "description": "An ancient walled fortress on a narrow ridge above a deep valley, an army camped far below: Jerusalem on the day David took it."
+  },
+  {
+   "from": "030",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "2 Samuel 5:6-8",
+   "prompt": "",
+   "description": "The open scroll. The taunt about the blind and the lame."
+  },
+  {
+   "from": "031",
+   "image": "ep05_the_blind_in_the_crowd/10_davids_city.png",
+   "card": "The saying",
+   "prompt": "",
+   "description": "The old fortress on its ridge again."
+  },
+  {
+   "from": "032",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Matthew 21:12-16",
+   "prompt": "",
+   "description": "The open scroll. The blind and the lame in the Temple."
+  },
+  {
+   "from": "033",
+   "image": "maps/ep05.png",
+   "card": "Where this is, and when",
+   "prompt": "",
+   "description": "The series map again. Jerusalem in gold, three and a half days' walk south of the mountain. The road from Jericho comes in at two o'clock, about six hours' walk. This is Jesus's last week."
+  },
+  {
+   "from": "033",
+   "at_phrase": "The place. The outer court",
+   "image": "ep05_the_blind_in_the_crowd/11_temple_market.png",
+   "card": "The Court of the Gentiles",
+   "prompt": "The vast outer court of Herod's Temple used as a market: long pale stone colonnades, money changers seated at small wooden tables with piles of coins, cages of doves, sheep and oxen in pens, crowds of buyers, all seen from a distance in bright sun.",
+   "description": "The vast outer court of the Temple as a market: money changers at small tables, cages of doves, sheep and oxen, crowds between long colonnades."
+  },
+  {
+   "from": "033",
+   "at_phrase": "As the traders are driven out",
+   "image": "ep05_the_blind_in_the_crowd/12_they_come_in.png",
+   "card": "They came to Him",
+   "prompt": "The same Temple court a moment later: wooden tables overturned and coins scattered on the paving, and through the gap people coming forward from the colonnades, one led by the hand, one on a crutch, one feeling his way with a staff, all seen from behind as they walk toward a figure in a plain robe.",
+   "description": "Tables overturned and coins scattered on the paving; through the gap come people led by the hand, on a crutch, and feeling the way with a staff, seen from behind."
+  },
+  {
+   "from": "033",
+   "at_phrase": "Matthew Henry set the scene",
+   "image": "ep05_the_blind_in_the_crowd/13_children_shouting.png",
+   "card": "Hosanna",
+   "prompt": "A group of children in the Temple court seen from behind with their arms raised, shouting joyfully, and at the far side a few robed elders standing stiffly with folded arms, bright sun on pale stone, no faces distinct.",
+   "description": "Children in the Temple court, seen from behind with arms raised, shouting; at the far side a few robed elders stand stiffly with folded arms."
+  },
+  {
+   "from": "033",
+   "at_phrase": "One more thing from the Law.",
+   "image": "ep05_the_blind_in_the_crowd/12_they_come_in.png",
+   "card": "They were the point",
+   "prompt": "",
+   "description": "The blind and the lame coming through the gap again."
+  },
+  {
+   "from": "034",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane and the pew. Brian speaks."
+  },
+  {
+   "from": "035",
+   "image": "ep05_the_blind_in_the_crowd/03_glad_crowd_above.png",
+   "card": "Two crowds",
+   "prompt": "",
+   "description": "The crowd on the hill again, as the narrator sets the two crowds side by side."
+  },
+  {
+   "from": "035",
+   "at_phrase": "In the Temple, the holiest ground",
+   "image": "ep05_the_blind_in_the_crowd/12_they_come_in.png",
+   "card": "Two crowds",
+   "prompt": "",
+   "description": "Then the Temple court again, the blind and the lame coming in."
+  },
+  {
+   "from": "036",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane and the pew. Brian's last words in this episode."
+  },
+  {
+   "from": "037",
+   "image": "ep05_the_blind_in_the_crowd/close_card.jpg",
+   "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
+   "prompt": "Herod's Temple in Jerusalem at dusk seen from the Mount of Olives, pale stone catching the last light, a few lamps lit in the courts, deep blue sky with first stars, no people, no text, keep the lower third calm and dark.",
+   "description": "Closing card over the Temple at dusk from the Mount of Olives: For we walk by faith, not by sight. The site address, and the address blindnessinthebible.com."
+  }
+ ]
 }

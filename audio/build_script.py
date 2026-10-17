@@ -187,8 +187,9 @@ def build(bible: dict) -> list[str]:
     add("[BREAK]")
 
     # ---- Close ----------------------------------------------------------------------------------
+    # 16 October 2026: Brian spliced the domain close into the re-rendered mix, so the script says it too.
     add("[NARRATOR] (calm) This has been Not By Sight. The full story, with every source named, is at "
-        "one eye biney dot github dot i o, slash blindness in the Bible. Scripture quotations are from the Holy "
+        "blindness in the Bible dot com. Scripture quotations are from the Holy "
         "Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are "
         "our own. Everything else is from the text and the old books.")
     add("[NARRATOR] (after a long pause) For we walk by faith, not by sight.")

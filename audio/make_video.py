@@ -154,6 +154,8 @@ def main(project: str, mix: str) -> None:
         section's text and placed by its share of the words, which is close enough for a still."""
         a, b = span_of[shot["from"]]
         phrase = shot.get("at_phrase")
+        if shot.get("at_seconds") is not None:           # a fixed offset into the section, for a map after the first sentence
+            return min(a + float(shot["at_seconds"]), b - 1.0)
         if not phrase:
             return a - 0.3
         text = texts[shot["from"]]

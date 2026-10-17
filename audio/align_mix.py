@@ -54,10 +54,19 @@ def main(project: str, mix_path: str) -> None:
             m = re.match(r"^\[(\w+)\]\s*(?:\(([^)]*)\))?\s*(.*)$", ln)
             texts[f"{n:03d}"] = (m.group(1), m.group(3))
     mix = load_mono(Path(mix_path))
+    # Some mixes carry a clip from another project for a section, such as a closing line spliced in from a later
+    # episode. aliases.json maps project -> {section id: path of the clip actually in the mix}.
+    aliases = {}
+    al = root / "aliases.json"
+    if al.exists():
+        import json
+        aliases = json.loads(al.read_text(encoding="utf-8")).get(project, {})
     rows = []
     cursor = 0
     for f in files:
         sid = f.name.split("_")[0]
+        if sid in aliases:
+            f = root / aliases[sid]
         sec = load_mono(f)
         lo = max(0, cursor - SR * 5)
         hi = min(len(mix), cursor + len(sec) + SR * 90)   # sections stay in order; allow up to 90 s of inserted material

@@ -1,78 +1,206 @@
 {
-  "_comment": "Shot list for episode 4. Each shot starts at the section id in 'from', or partway through it at 'at_phrase'. Shared images: the scroll and the pew from episode 1, the labelled Navy photograph for Brian's introduction, and the series map (drawn from coordinates by audio/maps/make_map.py). 'description' is the written description for blind viewers and the episode notes.",
-  "style": "Painterly oil-sketch look, clear morning light, first-century Capernaum: a lakeside town of dark basalt stone houses with flat roofs and narrow lanes running down to the Sea of Galilee. No faces shown close up; figures seen from behind or at a distance. No text in the image. No modern objects. 16:9.",
-  "shots": [
-    {"from": "001", "image": "ep04_the_ones_who_followed/01_two_at_the_roadside.png", "card": "Not By Sight",
-     "prompt": "Two men in plain robes sitting side by side at the edge of a dirt road on the outskirts of a lakeside town of dark stone houses, seen from behind, their heads turned toward the sound of a crowd far down the road, morning light, the lake beyond.",
-     "description": "Two men sit side by side at the edge of a dirt road outside a lakeside town, seen from behind, heads turned toward a distant crowd."},
-    {"from": "002", "image": "ep04_the_ones_who_followed/02_crowd_passing.png", "card": "A crowd is coming",
-     "prompt": "A large crowd walking past along a dirt road, many sandalled feet and robes, a child carried on a shoulder, a dog, dust rising, and at the roadside two seated men seen from behind listening as it passes, bright morning.",
-     "description": "A large crowd walks past on a dirt road, a child on a shoulder, a dog, dust rising; two seated men listen from the roadside."},
-    {"from": "003", "image": "ep04_the_ones_who_followed/03_into_the_crowd.png", "card": "They walk into it",
-     "prompt": "Two men stepping from the roadside into the back of a moving crowd, one with his hand on the other's shoulder, both seen from behind, the crowd closing around them, dust and morning light.",
-     "description": "Two men step from the roadside into the back of a moving crowd, one with a hand on the other's shoulder."},
-    {"from": "004", "image": "ep04_the_ones_who_followed/04_title.png", "card": "Not By Sight\nEpisode 4: The ones who followed",
-     "prompt": "Title card background only: the lakeside town of Capernaum seen from a low hill in the morning, dark basalt houses with flat roofs, the Sea of Galilee wide and blue behind, no people, no text, keep the lower third calm.",
-     "description": "Title card over Capernaum in the morning, dark stone houses and the lake behind: Not By Sight, episode four, the ones who followed."},
-    {"from": "005", "image": "ep04_the_ones_who_followed/05_leaving_the_house.png", "card": "Matthew chapter nine",
-     "prompt": "A crowd gathered outside the courtyard gate of a large stone house in a lakeside town, a figure in a plain robe walking away from the gate with people following, all seen from behind and at a distance, morning light.",
-     "description": "A crowd outside the gate of a large stone house; a figure walks away from it with people following, seen from behind."},
-    {"from": "006", "image": "ep01_man_born_blind/04_scripture.png", "card": "Matthew 9:27-31",
-     "prompt": "", "description": "The open scroll in warm light. The Scripture reader begins."},
-    {"from": "007", "image": "ep04_the_ones_who_followed/06_following_down_the_street.png", "card": "Son of David",
-     "prompt": "Two men following a crowd down a narrow lane of dark basalt stone houses, one with a hand on the other's shoulder, the crowd ahead of them, gulls overhead and the lake glimpsed on the left at the end of the lane, all seen from behind.",
-     "description": "Two men follow a crowd down a narrow lane of dark stone, one with a hand on the other's shoulder, gulls overhead, the lake to the left."},
-    {"from": "007", "at_phrase": "Where this happened is not certain.", "image": "ep04_the_ones_who_followed/07_capernaum.png", "card": "The place: Capernaum",
-     "prompt": "The town of Capernaum on the north shore of the Sea of Galilee: clustered dark basalt houses with flat roofs, a small courtyard, narrow lanes running down to the water, fishing boats on the shore, no people near, clear light.",
-     "description": "Capernaum: clustered dark stone houses with flat roofs, a courtyard, narrow lanes running down to boats on the shore."},
-    {"from": "007", "at_phrase": "Where this is.", "image": "maps/ep04.png", "card": "Where this is",
-     "prompt": "",
-     "description": "The series map. Capernaum is marked in gold at the north tip of the Sea of Galilee. Bethsaida is about two hours' walk at two o'clock. Straight behind at six o'clock, down the Jordan, are Jericho, about three days' walk, and Jerusalem, about three and a half. A line joins the places in the order of the episodes."},
-    {"from": "008", "image": "ep04_the_ones_who_followed/02_crowd_passing.png", "card": "Imagine: the road",
-     "prompt": "", "description": "An imagined scene. The crowd passing the two men at the roadside again."},
-    {"from": "011", "image": "ep04_the_ones_who_followed/03_into_the_crowd.png", "card": "It's him",
-     "prompt": "", "description": "The two men stepping into the crowd, hand on shoulder."},
-    {"from": "013", "image": "ep04_the_ones_who_followed/06_following_down_the_street.png", "card": "The lake road",
-     "prompt": "", "description": "The two men following down the narrow lane, the lake on the left."},
-    {"from": "015", "image": "ep04_the_ones_who_followed/08_wall_of_backs.png", "card": "The hard part",
-     "prompt": "A dense crowd packed tightly around the low doorway of a dark stone house, seen from behind as a wall of backs and shoulders, and at the near edge two men standing close together about to push in, one hand on the other's shoulder.",
-     "description": "A dense crowd packed around a low doorway, a wall of backs; at the near edge two men stand close together, about to push in."},
-    {"from": "019", "image": "ep04_the_ones_who_followed/09_inside_the_house.png", "card": "Inside",
-     "prompt": "The dim interior of a crowded stone room lit by small oil lamps, people standing along the walls, and in the centre a figure in a plain robe turned toward two men who have just come in at the door, the two men seen from behind in the foreground, no faces distinct.",
-     "description": "A dim crowded room lit by oil lamps; a figure at its centre has turned toward two men just inside the door, seen from behind."},
-    {"from": "022", "image": "ep01_man_born_blind/00_brian_navy.png", "card": "Mister Scaredy Cat",
-     "prompt": "",
-     "description": "A photograph treated to match the paintings: Brian as a young sailor in Navy whites and a white hat, smiling, with Patti beside him holding his arm. A small caption plate beneath him reads Mister Scaredy Cat."},
-    {"from": "023", "image": "ep01_man_born_blind/05_brian.png", "card": "From Brian",
-     "prompt": "", "description": "The white cane leaning against a church pew. Brian speaks."},
-    {"from": "024", "image": "ep04_the_ones_who_followed/10_telling_everyone.png", "card": "They told everyone",
-     "prompt": "Two men walking quickly along a lakeside road with their arms raised in excitement, calling out to fishermen and villagers who turn to look, all seen from behind and at a distance, bright light on the water.",
-     "description": "Two men hurry along a lakeside road with arms raised, calling out to villagers and fishermen who turn to look."},
-    {"from": "025", "image": "ep01_man_born_blind/04_scripture.png", "card": "Matthew 9:32-34",
-     "prompt": "", "description": "The open scroll. The mute man is brought."},
-    {"from": "026", "image": "ep04_the_ones_who_followed/11_brought_by_friends.png", "card": "Another man is brought",
-     "prompt": "A man being led carefully between two friends, each holding one of his arms, toward a waiting crowd in a village lane, all three seen from behind, the led man's head slightly bowed, soft light.",
-     "description": "A man is led between two friends, each holding an arm, toward a waiting crowd, all seen from behind."},
-    {"from": "027", "image": "maps/ep04.png", "card": "Still in Galilee",
-     "prompt": "", "description": "The series map again, Capernaum in gold. Matthew twelve is still in Galilee, more than a year before the end."},
-    {"from": "028", "image": "ep01_man_born_blind/04_scripture.png", "card": "Matthew 12:22-28",
-     "prompt": "", "description": "The open scroll. The man who was blind and mute."},
-    {"from": "029", "image": "ep04_the_ones_who_followed/12_the_argument.png", "card": "One verse, and then the argument",
-     "prompt": "A group of men in prayer shawls arguing with raised hands on one side of a village square, and on the other side a single man in a plain robe standing alone and unnoticed with his back to us, the crowd's attention all on the argument.",
-     "description": "Men in prayer shawls argue with raised hands; across the square one man stands alone and unnoticed, his back to us."},
-    {"from": "029", "at_phrase": "Stay with the man himself", "image": "ep04_the_ones_who_followed/13_hand_on_his_arm.png", "card": "A hand on his arm",
-     "prompt": "A close view of one person's hand resting gently on another man's forearm, rough homespun sleeves, warm light, only hands and arms visible, no faces.",
-     "description": "A close view of one person's hand resting on another man's forearm. Only hands and sleeves are shown."},
-    {"from": "029", "at_phrase": "Now a word about the phrase", "image": "ep04_the_ones_who_followed/11_brought_by_friends.png", "card": "A word about a word",
-     "prompt": "", "description": "The man led between two friends again, while the narrator explains the word demonised."},
-    {"from": "031", "image": "ep01_man_born_blind/05_brian.png", "card": "From Brian",
-     "prompt": "", "description": "The white cane and the pew. Brian speaks."},
-    {"from": "032", "image": "ep04_the_ones_who_followed/12_the_argument.png", "card": "Side by side",
-     "prompt": "", "description": "The argument in the square again, the man standing apart."},
-    {"from": "033", "image": "ep04_the_ones_who_followed/13_hand_on_his_arm.png", "card": "From Brian",
-     "prompt": "", "description": "The hand on the forearm again. Brian speaks of his deaf-blind friends."},
-    {"from": "034", "image": "ep04_the_ones_who_followed/14_close.png", "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
-     "prompt": "Capernaum at dusk from the shore, dark stone houses with a few oil lamps lit, boats drawn up, the Sea of Galilee deep blue under the first stars, no people, no text, keep the lower third calm and dark.",
-     "description": "Closing card over Capernaum at dusk, lamps lit and boats drawn up: For we walk by faith, not by sight. The site address."}
-  ]
+ "_comment": "Shot list for episode 4. Each shot starts at the section id in 'from', or partway through it at 'at_phrase'. Shared images: the scroll and the pew from episode 1, the labelled Navy photograph for Brian's introduction, and the series map (drawn from coordinates by audio/maps/make_map.py). 'description' is the written description for blind viewers and the episode notes.",
+ "style": "Painterly oil-sketch look, clear morning light, first-century Capernaum: a lakeside town of dark basalt stone houses with flat roofs and narrow lanes running down to the Sea of Galilee. No faces shown close up; figures seen from behind or at a distance. No text in the image. No modern objects. 16:9.",
+ "shots": [
+  {
+   "from": "001",
+   "image": "ep04_the_ones_who_followed/01_two_at_the_roadside.png",
+   "card": "Not By Sight",
+   "prompt": "Two men in plain robes sitting side by side at the edge of a dirt road on the outskirts of a lakeside town of dark stone houses, seen from behind, their heads turned toward the sound of a crowd far down the road, morning light, the lake beyond.",
+   "description": "Two men sit side by side at the edge of a dirt road outside a lakeside town, seen from behind, heads turned toward a distant crowd."
+  },
+  {
+   "from": "002",
+   "image": "ep04_the_ones_who_followed/02_crowd_passing.png",
+   "card": "A crowd is coming",
+   "prompt": "A large crowd walking past along a dirt road, many sandalled feet and robes, a child carried on a shoulder, a dog, dust rising, and at the roadside two seated men seen from behind listening as it passes, bright morning.",
+   "description": "A large crowd walks past on a dirt road, a child on a shoulder, a dog, dust rising; two seated men listen from the roadside."
+  },
+  {
+   "from": "003",
+   "image": "ep04_the_ones_who_followed/03_into_the_crowd.png",
+   "card": "They walk into it",
+   "prompt": "Two men stepping from the roadside into the back of a moving crowd, one with his hand on the other's shoulder, both seen from behind, the crowd closing around them, dust and morning light.",
+   "description": "Two men step from the roadside into the back of a moving crowd, one with a hand on the other's shoulder."
+  },
+  {
+   "from": "004",
+   "image": "ep04_the_ones_who_followed/title_card.jpg",
+   "card": "Not By Sight\nEpisode 4: The ones who followed",
+   "prompt": "Title card background only: the lakeside town of Capernaum seen from a low hill in the morning, dark basalt houses with flat roofs, the Sea of Galilee wide and blue behind, no people, no text, keep the lower third calm.",
+   "description": "Title card, with the words over Capernaum in the morning, dark stone houses and the lake behind: Not By Sight, episode four, the ones who followed."
+  },
+  {
+   "from": "005",
+   "image": "ep04_the_ones_who_followed/05_leaving_the_house.png",
+   "card": "Matthew chapter nine",
+   "prompt": "A crowd gathered outside the courtyard gate of a large stone house in a lakeside town, a figure in a plain robe walking away from the gate with people following, all seen from behind and at a distance, morning light.",
+   "description": "A crowd outside the gate of a large stone house; a figure walks away from it with people following, seen from behind."
+  },
+  {
+   "from": "006",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Matthew 9:27-31",
+   "prompt": "",
+   "description": "The open scroll in warm light. The Scripture reader begins."
+  },
+  {
+   "from": "007",
+   "image": "ep04_the_ones_who_followed/06_following_down_the_street.png",
+   "card": "Son of David",
+   "prompt": "Two men following a crowd down a narrow lane of dark basalt stone houses, one with a hand on the other's shoulder, the crowd ahead of them, gulls overhead and the lake glimpsed on the left at the end of the lane, all seen from behind.",
+   "description": "Two men follow a crowd down a narrow lane of dark stone, one with a hand on the other's shoulder, gulls overhead, the lake to the left."
+  },
+  {
+   "from": "007",
+   "at_phrase": "Where this happened is not certain.",
+   "image": "ep04_the_ones_who_followed/07_capernaum.png",
+   "card": "The place: Capernaum",
+   "prompt": "The town of Capernaum on the north shore of the Sea of Galilee: clustered dark basalt houses with flat roofs, a small courtyard, narrow lanes running down to the water, fishing boats on the shore, no people near, clear light.",
+   "description": "Capernaum: clustered dark stone houses with flat roofs, a courtyard, narrow lanes running down to boats on the shore."
+  },
+  {
+   "from": "007",
+   "at_phrase": "Where this is.",
+   "image": "maps/ep04.png",
+   "card": "Where this is",
+   "prompt": "",
+   "description": "The series map. Capernaum is marked in gold at the north tip of the Sea of Galilee. Bethsaida is about two hours' walk at two o'clock. Straight behind at six o'clock, down the Jordan, are Jericho, about three days' walk, and Jerusalem, about three and a half. A line joins the places in the order of the episodes."
+  },
+  {
+   "from": "008",
+   "image": "ep04_the_ones_who_followed/02_crowd_passing.png",
+   "card": "Imagine: the road",
+   "prompt": "",
+   "description": "An imagined scene. The crowd passing the two men at the roadside again."
+  },
+  {
+   "from": "011",
+   "image": "ep04_the_ones_who_followed/03_into_the_crowd.png",
+   "card": "It's him",
+   "prompt": "",
+   "description": "The two men stepping into the crowd, hand on shoulder."
+  },
+  {
+   "from": "013",
+   "image": "ep04_the_ones_who_followed/06_following_down_the_street.png",
+   "card": "The lake road",
+   "prompt": "",
+   "description": "The two men following down the narrow lane, the lake on the left."
+  },
+  {
+   "from": "015",
+   "image": "ep04_the_ones_who_followed/08_wall_of_backs.png",
+   "card": "The hard part",
+   "prompt": "A dense crowd packed tightly around the low doorway of a dark stone house, seen from behind as a wall of backs and shoulders, and at the near edge two men standing close together about to push in, one hand on the other's shoulder.",
+   "description": "A dense crowd packed around a low doorway, a wall of backs; at the near edge two men stand close together, about to push in."
+  },
+  {
+   "from": "019",
+   "image": "ep04_the_ones_who_followed/09_inside_the_house.png",
+   "card": "Inside",
+   "prompt": "The dim interior of a crowded stone room lit by small oil lamps, people standing along the walls, and in the centre a figure in a plain robe turned toward two men who have just come in at the door, the two men seen from behind in the foreground, no faces distinct.",
+   "description": "A dim crowded room lit by oil lamps; a figure at its centre has turned toward two men just inside the door, seen from behind."
+  },
+  {
+   "from": "022",
+   "image": "ep01_man_born_blind/00_brian_navy.png",
+   "card": "Mister Scaredy Cat",
+   "prompt": "",
+   "description": "A photograph treated to match the paintings: Brian as a young sailor in Navy whites and a white hat, smiling, with Patti beside him holding his arm. A small caption plate beneath him reads Mister Scaredy Cat."
+  },
+  {
+   "from": "023",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane leaning against a church pew. Brian speaks."
+  },
+  {
+   "from": "024",
+   "image": "ep04_the_ones_who_followed/10_telling_everyone.png",
+   "card": "They told everyone",
+   "prompt": "Two men walking quickly along a lakeside road with their arms raised in excitement, calling out to fishermen and villagers who turn to look, all seen from behind and at a distance, bright light on the water.",
+   "description": "Two men hurry along a lakeside road with arms raised, calling out to villagers and fishermen who turn to look."
+  },
+  {
+   "from": "025",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Matthew 9:32-34",
+   "prompt": "",
+   "description": "The open scroll. The mute man is brought."
+  },
+  {
+   "from": "026",
+   "image": "ep04_the_ones_who_followed/11_brought_by_friends.png",
+   "card": "Another man is brought",
+   "prompt": "A man being led carefully between two friends, each holding one of his arms, toward a waiting crowd in a village lane, all three seen from behind, the led man's head slightly bowed, soft light.",
+   "description": "A man is led between two friends, each holding an arm, toward a waiting crowd, all seen from behind."
+  },
+  {
+   "from": "027",
+   "image": "maps/ep04.png",
+   "card": "Still in Galilee",
+   "prompt": "",
+   "description": "The series map again, Capernaum in gold. Matthew twelve is still in Galilee, more than a year before the end."
+  },
+  {
+   "from": "028",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Matthew 12:22-28",
+   "prompt": "",
+   "description": "The open scroll. The man who was blind and mute."
+  },
+  {
+   "from": "029",
+   "image": "ep04_the_ones_who_followed/12_the_argument.png",
+   "card": "One verse, and then the argument",
+   "prompt": "A group of men in prayer shawls arguing with raised hands on one side of a village square, and on the other side a single man in a plain robe standing alone and unnoticed with his back to us, the crowd's attention all on the argument.",
+   "description": "Men in prayer shawls argue with raised hands; across the square one man stands alone and unnoticed, his back to us."
+  },
+  {
+   "from": "029",
+   "at_phrase": "Stay with the man himself",
+   "image": "ep04_the_ones_who_followed/13_hand_on_his_arm.png",
+   "card": "A hand on his arm",
+   "prompt": "A close view of one person's hand resting gently on another man's forearm, rough homespun sleeves, warm light, only hands and arms visible, no faces.",
+   "description": "A close view of one person's hand resting on another man's forearm. Only hands and sleeves are shown."
+  },
+  {
+   "from": "029",
+   "at_phrase": "Now a word about the phrase",
+   "image": "ep04_the_ones_who_followed/11_brought_by_friends.png",
+   "card": "A word about a word",
+   "prompt": "",
+   "description": "The man led between two friends again, while the narrator explains the word demonised."
+  },
+  {
+   "from": "031",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane and the pew. Brian speaks."
+  },
+  {
+   "from": "032",
+   "image": "ep04_the_ones_who_followed/12_the_argument.png",
+   "card": "Side by side",
+   "prompt": "",
+   "description": "The argument in the square again, the man standing apart."
+  },
+  {
+   "from": "033",
+   "image": "ep04_the_ones_who_followed/13_hand_on_his_arm.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The hand on the forearm again. Brian speaks of his deaf-blind friends."
+  },
+  {
+   "from": "034",
+   "image": "ep04_the_ones_who_followed/close_card.jpg",
+   "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
+   "prompt": "Capernaum at dusk from the shore, dark stone houses with a few oil lamps lit, boats drawn up, the Sea of Galilee deep blue under the first stars, no people, no text, keep the lower third calm and dark.",
+   "description": "Closing card over Capernaum at dusk, lamps lit and boats drawn up: For we walk by faith, not by sight. The site address, and the address blindnessinthebible.com."
+  }
+ ]
 }

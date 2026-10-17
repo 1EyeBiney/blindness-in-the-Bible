@@ -1,0 +1,15 @@
+{
+  "_comment": "Clips in a mix that come from another project (spliced by Brian in Reaper), by project and section id. align_mix.py matches these instead of the project's own selected file.",
+  "man_born_blind_v2": {
+    "042": "selected/ep05_the_blind_in_the_crowd_v2/section_1/037_narrator.mp3"
+  },
+  "ep02_bartimaeus_v2": {
+    "032": "selected/ep05_the_blind_in_the_crowd_v2/section_1/037_narrator.mp3"
+  },
+  "ep03_bethsaida_v2": {
+    "033": "selected/ep05_the_blind_in_the_crowd_v2/section_1/037_narrator.mp3"
+  },
+  "ep04_the_ones_who_followed_v2": {
+    "034": "selected/ep03_bethsaida_v2/section_1/033_narrator.mp3"
+  }
+}
