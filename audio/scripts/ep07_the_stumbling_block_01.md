@@ -180,7 +180,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* Brian, with the last word.
 
-**Brian** *(calm)* So now I have my answer, and it is not the one I expected. The word is about the fall, not the trip. The law was not written for people like me, who catch themselves. It was written for the people I know who do not, and for the man who moved the stone and walked away, sure that nobody saw. Somebody saw.
+**Brian** *(calm)* When I started studying this episode, my first thought was that this law did not mean much to me, because of what I took a stumbling block to be: something you trip over and catch yourself. But the further I read, the more I found comfort where I had not expected it. I feel the gravity of what God was telling His people so long ago. He is always watching, even when nobody else is, and He knows.
 
 ---
 

@@ -49,9 +49,9 @@ LAW_PAGES = [
             "Then the stumbling block itself. For me, a stumbling block is an annoyance more than anything: something "
             "I would stumble over, but not necessarily fall down. I stumble over curbs and parking stops all the time "
             "and somehow always seem to catch myself. I am fortunate to have enough of a sense of balance and spatial "
-            "awareness for this to work. Most blind people I know will easily trip over curbs and parking stops, "
+            "awareness for this to work. Many blind people I know will easily trip over curbs and parking stops, "
             "usually resulting in serious pain of some sort. So is this notion of a stumbling block more like me "
-            "tripping slightly, or more like a blind person falling down and breaking or spraining something?",
+            "tripping slightly, or more like a blind person falling down and seriously hurting something?",
         ],
     },
     {

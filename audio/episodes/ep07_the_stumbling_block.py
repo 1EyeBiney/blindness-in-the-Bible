@@ -24,15 +24,16 @@ DRAFT_BRIAN = [
     "Then the stumbling block itself. For me, a stumbling block is an annoyance more than anything: something I would "
     "stumble over, but not necessarily fall down. I stumble over curbs and parking stops all the time and somehow "
     "always seem to catch myself. I am fortunate to have enough of a sense of balance and spatial awareness for this "
-    "to work. Most blind people I know will easily trip over curbs and parking stops, usually resulting in serious "
+    "to work. Many blind people I know will easily trip over curbs and parking stops, usually resulting in serious "
     "pain of some sort. So is this notion of a stumbling block more like me tripping slightly, or more like a blind "
-    "person falling down and breaking or spraining something?",
-    # A closing paragraph drafted for him from what he has said; his to change or strike.
-    "So now I have my answer, and it is not the one I expected. The word is about the fall, not the trip. The law was "
-    "not written for people like me, who catch themselves. It was written for the people I know who do not, and for "
-    "the man who moved the stone and walked away, sure that nobody saw. Somebody saw.",
+    "person falling down and seriously hurting something?",
+    # His closing thought, 17 October 2026, in his words tidied; see docs/BRIAN_NOTES.md.
+    "When I started studying this episode, my first thought was that this law did not mean much to me, because of "
+    "what I took a stumbling block to be: something you trip over and catch yourself. But the further I read, the "
+    "more I found comfort where I had not expected it. I feel the gravity of what God was telling His people so "
+    "long ago. He is always watching, even when nobody else is, and He knows.",
 ]
-APPROVED = {0, 1}
+APPROVED = {0, 1, 2}
 
 
 def build(bible: dict) -> list[str]:
@@ -73,9 +74,9 @@ def build(bible: dict) -> list[str]:
     add("[BRIAN] (calm) For me, a stumbling block is an annoyance more than anything: something I would stumble over, "
         "but not necessarily fall down. I stumble over curbs and parking stops all the time and somehow always seem "
         "to catch myself. I am fortunate to have enough of a sense of balance and spatial awareness for this to work. "
-        "Most blind people I know will easily trip over curbs and parking stops, usually resulting in serious pain of "
+        "Many blind people I know will easily trip over curbs and parking stops, usually resulting in serious pain of "
         "some sort. So is this notion of a stumbling block more like me tripping slightly, or more like a blind "
-        "person falling down and breaking or spraining something?")
+        "person falling down and seriously hurting something?")
     add("[PAUSE 1.0]")
     add("[NARRATOR] (calm) That is the question this episode answers. A trip, or a fall. The answer is in the word "
         "itself, and in where else the Bible uses it.")

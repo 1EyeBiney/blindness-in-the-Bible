@@ -303,6 +303,12 @@ an idea: have the narrator open more alon gthe lines of noticing how a word can 
 
 *Status:* done 17 October 2026. Brian chose draft A for episode 7, the word blind for episode 10, new openings on fit and on an-eye-for-an-eye/free for episodes 9 and 8, and "stopped at one word" in episode 7. All four scripts open with "Before the law, a word about words."
 
+## 17 October 2026, episode 7 closing thought (from chat, verbatim)
+
+I have made edits to the EP7 script. I want to rewrite my thoughts at the end. something like: as I was studying this episode, my initial thoughts were that this lawabout stumbling blocks before the blind was not as meaningful to me because of my definition of the term. But as i read more into the study, I found comfort where I did not expect it because I feel the gravity of what God was telling His people so long ago. He is always watching, even when nobody else is, and He knows. [clean that up, you can edit/rewrite but that is along my thinking now]
+
+*Status:* done. His script edits the same day: "Most" to "Many", "breaking or spraining" to "seriously hurting", and the Law intro now ends "and from dusty old Brian" in all four episodes.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)

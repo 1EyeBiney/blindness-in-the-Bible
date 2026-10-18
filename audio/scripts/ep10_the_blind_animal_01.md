@@ -34,7 +34,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for blind believers, their families, and the church. The Scripture you will hear is the Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. And when we imagine a scene, we will tell you so.
 
-**Narrator** *(calm)* This episode is part of our series on the Law: what God commanded about the blind. In these episodes there are no imagined scenes. Everything you hear is from the text, from the old books read in their own voice, from the Hebrew words themselves, and from Brian.
+**Narrator** *(calm)* This episode is part of our series on the Law: what God commanded about the blind. In these episodes there are no imagined scenes. Everything you hear is from the text, from the old books read in their own voice, from the Hebrew words themselves, and from dusty old Brian.
 
 ---
 
