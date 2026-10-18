@@ -592,6 +592,9 @@ def context_page(page: dict, bible: dict, root: str, back: tuple[str, str]) -> s
             text = bible.get((book, ch, v))
             if text:
                 parts.append(f'<p class="verse"><b>{v}</b> {e(text)}</p>')
+    if page.get("brian_after"):
+        parts.append("<h2>Brian, after the study</h2>")
+        parts.extend(f"<p>{e(p)}</p>" for p in page["brian_after"])
     parts.append(f'<p><a href="{back[0]}">{e(back[1])}</a></p>')
     return "\n".join(parts)
 

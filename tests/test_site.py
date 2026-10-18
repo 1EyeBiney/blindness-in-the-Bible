@@ -462,6 +462,7 @@ def test_the_word_sections_rest_on_the_tagged_hebrew_text(tmp_path):
         h = (tmp_path / "law" / f"{slug}.html").read_text(encoding="utf-8")
         assert h.count("<h2>The word</h2>") == 1, slug
         assert h.index("What it may tell us") < h.index("<h2>The word</h2>") < h.index("<h2>From Brian</h2>"), slug
+
         assert h.count("entry H") == len(wd.WORDS[slug]), slug
     sb = (tmp_path / "law" / "stumbling-block.html").read_text(encoding="utf-8")
     assert "mikshol" in sb and "parking stops" in sb and sb.index("mikshol") < sb.index("parking stops")
@@ -510,3 +511,13 @@ def test_whats_new_is_dated_linked_and_fed(tmp_path):
     assert 'type="application/rss+xml"' in home and "nbs-visit" in (tmp_path / "static" / "display.js").read_text(encoding="utf-8")
     about = (tmp_path / "about.html").read_text(encoding="utf-8")
     assert 'href="bookshelf.html"' in about
+
+
+def test_brian_after_the_study_closes_the_page(tmp_path):
+    """Brian, 17 October 2026: his thought once the study was done belongs after the whole study, so it is the last
+    section on the stumbling-block page, after The passage, and only pages that have one show the heading."""
+    build_site.render_all(tmp_path)
+    h = (tmp_path / "law" / "stumbling-block.html").read_text(encoding="utf-8")
+    assert h.index("<h2>The passage</h2>") < h.index("<h2>Brian, after the study</h2>")
+    assert "He is always watching, even when nobody else is, and He knows." in h
+    assert "<h2>Brian, after the study</h2>" not in (tmp_path / "law" / "servant-blinded.html").read_text(encoding="utf-8")

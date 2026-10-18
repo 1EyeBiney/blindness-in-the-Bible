@@ -53,6 +53,13 @@ LAW_PAGES = [
             "usually resulting in serious pain of some sort. So is this notion of a stumbling block more like me "
             "tripping slightly, or more like a blind person falling down and seriously hurting something?",
         ],
+        # Rendered at the foot of the page, after The passage: his thought once the study was done (17 October 2026).
+        "brian_after": [
+            "When I started studying this episode, my first thought was that this law did not mean much to me, because of "
+            "what I took a stumbling block to be: something you trip over and catch yourself. But the further I read, the "
+            "more I found comfort where I had not expected it. I feel the gravity of what God was telling His people so "
+            "long ago. He is always watching, even when nobody else is, and He knows.",
+        ],
     },
     {
         "slug": "servant-blinded", "section": "law", "title": "The servant blinded by his master",
