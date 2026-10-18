@@ -30,7 +30,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 1.0 s)*
 
-**Brian** *(calm)* For me, a stumbling block is an annoyance more than anything: something I would stumble over, but not necessarily fall down. I stumble over curbs and parking stops all the time and somehow always seem to catch myself. I am fortunate to have enough of a sense of balance and spatial awareness for this to work. Most blind people I know will easily trip over curbs and parking stops, usually resulting in serious pain of some sort. So is this notion of a stumbling block more like me tripping slightly, or more like a blind person falling down and breaking or spraining something?
+**Brian** *(calm)* For me, a stumbling block is an annoyance more than anything: something I would stumble over, but not necessarily fall down. I stumble over curbs and parking stops all the time and somehow always seem to catch myself. I am fortunate to have enough of a sense of balance and spatial awareness for this to work. Many blind people I know will easily trip over curbs and parking stops, usually resulting in serious pain of some sort. So is this notion of a stumbling block more like me tripping slightly, or more like a blind person falling down and seriously hurting something?
 
 *(pause 1.0 s)*
 
@@ -40,7 +40,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for blind believers, their families, and the church. The Scripture you will hear is the Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. And when we imagine a scene, we will tell you so.
 
-**Narrator** *(calm)* This episode is part of our series on the Law: what God commanded about the blind. In these episodes there are no imagined scenes. Everything you hear is from the text, from the old books read in their own voice, from the Hebrew words themselves, and from Brian.
+**Narrator** *(calm)* This episode is part of our series on the Law: what God commanded about the blind. In these episodes there are no imagined scenes. Everything you hear is from the text, from the old books read in their own voice, from the Hebrew words themselves, and from dusty old Brian.
 
 ---
 
