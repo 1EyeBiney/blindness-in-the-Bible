@@ -2,6 +2,20 @@
 
 Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
+**Narrator** *(calm)* Before the law, a word about words.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* Most words carry more than one meaning, and we choose between them without noticing. If someone tells you a man fell, you do not yet know whether he lost his footing or lost his life. If someone says a door is open, it may be unlocked, or it may be standing wide. Usually the sentence around the word tells us which, and we move on.
+
+**Narrator** *(calm)* But sometimes the sentence does not tell us. Sometimes a word is doing more work than we can see, and the only way to find out is to follow it: to go where else it is used, and listen to what it means there.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* That is what this series does. Four laws, and in each one a word that could mean more than one thing. We will read the law, stop at the word, and follow it through the rest of the Bible until it settles. Then we will know what God said about the blind, because we will know what the words meant to the people who first heard them.
+
+*(pause 1.5 s)*
+
 **Narrator** *(calm)* One sentence of law. Thirty-one words in English, given at Sinai, more than three thousand years ago.
 
 *(pause 1.0 s)*
@@ -10,7 +24,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 1.5 s)*
 
-**Narrator** *(calm)* Brian read that sentence and asked a question that nobody sighted would think to ask.
+**Narrator** *(calm)* Brian read that sentence and stopped at one word.
 
 **Narrator** *(dryly)* And now, Mister Scaredy Cat. Not Brian's voice, but his words.
 

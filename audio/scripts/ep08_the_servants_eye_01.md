@@ -2,6 +2,16 @@
 
 Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
+**Narrator** *(calm)* Before the law, a word about words.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* Some words we have heard so often that we no longer hear them. Say an eye for an eye, and nearly everyone will tell you what it means: revenge, measured out exactly. Say the word free, and you will have to ask which kind. Free as in no charge, or free as in no chains. The first costs nothing. The second can cost everything.
+
+**Narrator** *(calm)* Last time, one word in a law turned out to mean a fall and not a trip. This law has both of these in it. An eye, and free. And one of them does not mean what most people think.
+
+*(pause 1.5 s)*
+
 **Narrator** *(calm)* Two verses of law, and in them the only price the Bible ever puts on an eye.
 
 *(pause 1.0 s)*

@@ -45,6 +45,17 @@ def build(bible: dict) -> list[str]:
     add("# BOOKS reads the old commentators and the other law codes, word for word. No imagined scenes.")
     add("")
 
+    # ---- A word about words (Brian, 17 October 2026: settle the audience before the law is read) -------
+    add("[NARRATOR] (calm) Before the law, a word about words.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) Some words we have heard so often that we no longer hear them. Say an eye for an eye, and "
+        "nearly everyone will tell you what it means: revenge, measured out exactly. Say the word free, and you will "
+        "have to ask which kind. Free as in no charge, or free as in no chains. The first costs nothing. The second "
+        "can cost everything.")
+    add("[NARRATOR] (calm) Last time, one word in a law turned out to mean a fall and not a trip. This law has both of "
+        "these in it. An eye, and free. And one of them does not mean what most people think.")
+    add("[PAUSE 1.5]")
+
     # ---- Cold open ----------------------------------------------------------------------------------------
     add("[NARRATOR] (calm) Two verses of law, and in them the only price the Bible ever puts on an eye.")
     add("[PAUSE 1.0]")

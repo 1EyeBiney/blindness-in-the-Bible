@@ -40,6 +40,18 @@ def build(bible: dict) -> list[str]:
     add("# BOOKS reads the old commentators word for word. No imagined scenes.")
     add("")
 
+    # ---- A word about words (Brian, 17 October 2026: settle the audience before the law is read) -------
+    add("[NARRATOR] (calm) One last time, before the law, a word about words.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) Take the word blind. A blind corner. A blind spot. A blind date. Blind faith. Not one of "
+        "those is about a person's eyes, and yet you understood every one of them. Words do that. They carry more "
+        "than one meaning, and we pick the right one without noticing we have chosen.")
+    add("[NARRATOR] (calm) This series has followed four words. Three of them you had probably never asked about. The "
+        "fourth is the one the series is named for, and in this last law it is used in a way we have not met yet. "
+        "Not of a man. Of a lamb, at the head of a list of things that are wrong with it. Brian read that list and "
+        "reached for a word of his own. The word is broken.")
+    add("[PAUSE 1.5]")
+
     # ---- Cold open ----------------------------------------------------------------------------------------
     add("[NARRATOR] (calm) The last law in this series is not about blind people. It is about lambs. It is here "
         "because the list would not be honest without it, and because Brian found it the hardest of the four to "

@@ -2,6 +2,16 @@
 
 Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
+**Narrator** *(calm)* Before the law, a word about words.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* Take the word fit. A key fits a lock. A coat fits a man. A man is fit for a job, or he is not. A pilot whose eyes fail is unfit to fly, and nobody hears that as unfit to live. The word measures a thing against a task. It never measures the thing against itself.
+
+**Narrator** *(calm)* Every law in this series so far has turned on a word. This one turns on a word for a flaw, and on what a flaw disqualifies a man from. For three thousand years people have read it as a verdict on the man. The text reads it as a measure against one task. Those are not the same, and the difference is the whole of this episode.
+
+*(pause 1.5 s)*
+
 **Narrator** *(calm)* Of all the laws in the Bible that mention the blind, this is the only one that limits what a blind person may do. It is worth reading exactly.
 
 *(pause 1.0 s)*

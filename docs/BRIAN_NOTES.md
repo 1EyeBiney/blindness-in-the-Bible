@@ -301,7 +301,7 @@ reading EP07, I think we need to adjust the Mr. Scardy Cat routine as it gets st
 
 an idea: have the narrator open more alon gthe lines of noticing how a word can have different meanings. the idea being that we are going to discover the meanings ofcertain words as we move through this series, so the narrator needs to gently let the audience sort of settle in beforewe drop the commandment (might not be a commandment but whaqtever it is that you read that is God's Words). I am thinkning of this because this is what went on with me when I got to "stunblking block" as in what is the meaning of that word, so if we hvae the narrator just lead us in to the series/episode by illuminating this concept first. it might not be worth pursuing but I wanted to see what you could fashion out of this to push in front of everything else
 
-*Status:* two drafts offered; nothing changed.
+*Status:* done 17 October 2026. Brian chose draft A for episode 7, the word blind for episode 10, new openings on fit and on an-eye-for-an-eye/free for episodes 9 and 8, and "stopped at one word" in episode 7. All four scripts open with "Before the law, a word about words."
 
 ## Questions waiting for Brian
 

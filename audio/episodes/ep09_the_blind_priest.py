@@ -55,6 +55,18 @@ def build(bible: dict) -> list[str]:
     add("# BOOKS reads the old commentators word for word. No imagined scenes.")
     add("")
 
+    # ---- A word about words (Brian, 17 October 2026: settle the audience before the law is read) -------
+    add("[NARRATOR] (calm) Before the law, a word about words.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) Take the word fit. A key fits a lock. A coat fits a man. A man is fit for a job, or he is "
+        "not. A pilot whose eyes fail is unfit to fly, and nobody hears that as unfit to live. The word measures a "
+        "thing against a task. It never measures the thing against itself.")
+    add("[NARRATOR] (calm) Every law in this series so far has turned on a word. This one turns on a word for a flaw, "
+        "and on what a flaw disqualifies a man from. For three thousand years people have read it as a verdict on "
+        "the man. The text reads it as a measure against one task. Those are not the same, and the difference is "
+        "the whole of this episode.")
+    add("[PAUSE 1.5]")
+
     # ---- Cold open ----------------------------------------------------------------------------------------
     add("[NARRATOR] (calm) Of all the laws in the Bible that mention the blind, this is the only one that limits what "
         "a blind person may do. It is worth reading exactly.")

@@ -7,6 +7,11 @@
 # Not By Sight, episode 8: The servant's eye. Draft script. Second of four on the Law.
 # BOOKS reads the old commentators and the other law codes, word for word. No imagined scenes.
 
+[NARRATOR] (calm) Before the law, a word about words.
+[PAUSE 1.0]
+[NARRATOR] (calm) Some words we have heard so often that we no longer hear them. Say an eye for an eye, and nearly everyone will tell you what it means: revenge, measured out exactly. Say the word free, and you will have to ask which kind. Free as in no charge, or free as in no chains. The first costs nothing. The second can cost everything.
+[NARRATOR] (calm) Last time, one word in a law turned out to mean a fall and not a trip. This law has both of these in it. An eye, and free. And one of them does not mean what most people think.
+[PAUSE 1.5]
 [NARRATOR] (calm) Two verses of law, and in them the only price the Bible ever puts on an eye.
 [PAUSE 1.0]
 [NARRATOR] (plainly) If a man strikes and blinds the eye of his manservant or maidservant, he must let the servant go free as compensation for the eye. And if he knocks out the tooth of his manservant or maidservant, he must let the servant go free as compensation for the tooth.

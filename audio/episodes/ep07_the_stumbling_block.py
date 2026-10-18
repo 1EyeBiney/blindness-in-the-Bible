@@ -43,6 +43,23 @@ def build(bible: dict) -> list[str]:
     add("# BOOKS reads the old commentators and the other law codes, word for word. No imagined scenes in this series.")
     add("")
 
+    # ---- A word about words (Brian, 17 October 2026: settle the audience before the law is read) -------
+    add("[NARRATOR] (calm) Before the law, a word about words.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) Most words carry more than one meaning, and we choose between them without noticing. If "
+        "someone tells you a man fell, you do not yet know whether he lost his footing or lost his life. If someone "
+        "says a door is open, it may be unlocked, or it may be standing wide. Usually the sentence around the word "
+        "tells us which, and we move on.")
+    add("[NARRATOR] (calm) But sometimes the sentence does not tell us. Sometimes a word is doing more work than we "
+        "can see, and the only way to find out is to follow it: to go where else it is used, and listen to what it "
+        "means there.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) That is what this series does. Four laws, and in each one a word that could mean more than "
+        "one thing. We will read the law, stop at the word, and follow it through the rest of the Bible until it "
+        "settles. Then we will know what God said about the blind, because we will know what the words meant to the "
+        "people who first heard them.")
+    add("[PAUSE 1.5]")
+
     # ---- Cold open: the law itself, then Brian's question -----------------------------------------------
     add("[NARRATOR] (calm) One sentence of law. Thirty-one words in English, given at Sinai, more than three "
         "thousand years ago.")
@@ -50,7 +67,7 @@ def build(bible: dict) -> list[str]:
     add("[NARRATOR] (plainly) You must not curse the deaf or place a stumbling block before the blind, but you shall "
         "fear your God. I am the LORD.")
     add("[PAUSE 1.5]")
-    add("[NARRATOR] (calm) Brian read that sentence and asked a question that nobody sighted would think to ask.")
+    add("[NARRATOR] (calm) Brian read that sentence and stopped at one word.")
     add("[NARRATOR] (dryly) And now, Mister Scaredy Cat. Not Brian's voice, but his words.")
     add("[PAUSE 1.0]")
     add("[BRIAN] (calm) For me, a stumbling block is an annoyance more than anything: something I would stumble over, "
