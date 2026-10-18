@@ -291,6 +291,12 @@ Earlier the same day: I am re-rendering some of the episodes now after getting f
 
 Brian re-rendered all six with the music lowered (about 6 dB on episodes 1 to 3, about 4 dB on 4 to 6) after feedback that it was too loud on phone speakers, and spliced the domain close into episodes 1 to 3. Decisions: old videos Unlisted with a pointer line at the top of each description; trailer left as it was; captions re-uploaded for each; no other changes. All six re-posted on 17 October; the site, playlist, trailer description and email file point to the new addresses.
 
+## 17 October 2026, reading episode 7: the Scaredy Cat routine and reusable segments (from chat, verbatim)
+
+reading EP07, I think we need to adjust the Mr. Scardy Cat routine as it gets stale after a bit. I think for EP7, we might go with the narrator saying: And now, Mister Scaredy cat. Not Brian's voice, but his words." or similar, as natural as we can make that. then later, we have " And now, Mister Scaredy Cat. Shy Brian has returned with his words and another's voice." again, or similar, just to mix it up. people at this point are probably not coming in totally new, but would start at an earlier episode. Same for the intro, we might mention that is is part of The Law series. I don't want to put EP numbers inthe intro as sometimes when we render a new episode, that particular segment sounds weird so I just grab the same segment from an earlier version. I do this for the ending too, which I think we will leave the same. I am open to other suggestions in this vein if I'm not recalling them. Other than when we announce certain sections, likethe Word sections for the Law series, discuss with me efore changing, and I think we will alter all 4 of the Law EPs unless a good reason not to
+
+*Status:* proposal sent; nothing changed yet. Rule learned: the series intro and the close must be word-for-word identical across episodes (no episode numbers), each in its own rendered section, so Brian can reuse a good take from an earlier episode.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
