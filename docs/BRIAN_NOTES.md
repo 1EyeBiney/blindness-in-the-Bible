@@ -297,6 +297,12 @@ reading EP07, I think we need to adjust the Mr. Scardy Cat routine as it gets st
 
 *Placed:* 17 October, with his approval ("yeah, I like all of that"): four different Scaredy Cat lines, one shared number-free Law intro in episode_lib.LAW_INTRO, a break before every close. Rule learned: the series intro and the close must be word-for-word identical across episodes (no episode numbers), each in its own rendered section, so Brian can reuse a good take from an earlier episode.
 
+## 17 October 2026, an idea for the opening of the Law series (from chat, verbatim)
+
+an idea: have the narrator open more alon gthe lines of noticing how a word can have different meanings. the idea being that we are going to discover the meanings ofcertain words as we move through this series, so the narrator needs to gently let the audience sort of settle in beforewe drop the commandment (might not be a commandment but whaqtever it is that you read that is God's Words). I am thinkning of this because this is what went on with me when I got to "stunblking block" as in what is the meaning of that word, so if we hvae the narrator just lead us in to the series/episode by illuminating this concept first. it might not be worth pursuing but I wanted to see what you could fashion out of this to push in front of everything else
+
+*Status:* two drafts offered; nothing changed.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
