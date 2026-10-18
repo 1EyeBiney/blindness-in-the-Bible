@@ -4,7 +4,7 @@ The Law series has no imagined scenes. In their place: Brian's own question as t
 followed to the other verses that use it, and the old books and the other law codes read aloud in their own
 voice (BOOKS). Drafted 16 October 2026 to the shape Brian chose.
 """
-from episode_lib import BRIAN_VOICE_NOTE_SHORT, CLOSE, SERIES_INTRO, header, reader
+from episode_lib import CLOSE, LAW_INTRO, SERIES_INTRO, header, reader
 
 SLUG = "the_stumbling_block"
 NUMBER = 7
@@ -13,11 +13,6 @@ TITLE = "The stumbling block"
 PASSAGES = [("Leviticus", 19, 13, 18), ("Deuteronomy", 27, 11, 19),
             ("Jeremiah", 6, 21, 21), ("Ezekiel", 3, 20, 20), ("Isaiah", 8, 14, 15), ("Psalm", 119, 165, 165)]
 MAX_WORDS = 3400   # Brian, 16 October 2026: the Law episodes should run 18 to 22 minutes like the later story episodes
-
-LAW_INTRO = ("This is the first of four episodes on the Law: what God commanded about the blind. In these four there "
-             "are no imagined scenes. Everything you hear is from the text, from the old books, read in their own "
-             "voice, and from Brian. And we will do one thing we have not done before. For each law we will take "
-             "the Hebrew word it turns on, say it plainly, and follow it to the other places the Bible uses it.")
 
 # Brian's words on the page (law/stumbling-block), approved 14 October 2026. Both are his questions; the
 # episode answers them and he does not need a new closing paragraph unless he wants one.
@@ -56,7 +51,7 @@ def build(bible: dict) -> list[str]:
         "fear your God. I am the LORD.")
     add("[PAUSE 1.5]")
     add("[NARRATOR] (calm) Brian read that sentence and asked a question that nobody sighted would think to ask.")
-    add(f"[NARRATOR] (dryly) {BRIAN_VOICE_NOTE_SHORT}")
+    add("[NARRATOR] (dryly) And now, Mister Scaredy Cat. Not Brian's voice, but his words.")
     add("[PAUSE 1.0]")
     add("[BRIAN] (calm) For me, a stumbling block is an annoyance more than anything: something I would stumble over, "
         "but not necessarily fall down. I stumble over curbs and parking stops all the time and somehow always seem "
@@ -216,6 +211,7 @@ def build(bible: dict) -> list[str]:
     # ---- Close --------------------------------------------------------------------------------------------
     add("[NARRATOR] (calm) Next time, the one law in the Bible that puts a price on an eye, and what the price "
         "turns out to be. The servant blinded by his master.")
+    add("[BREAK]")
     add(f"[NARRATOR] (calm) {CLOSE}")
     add("[NARRATOR] (after a long pause) For we walk by faith, not by sight.")
     return L

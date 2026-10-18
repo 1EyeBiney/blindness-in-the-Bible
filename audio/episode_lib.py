@@ -42,6 +42,11 @@ BRIAN_VOICE_NOTE = ("A word about the voice you are about to hear. Brian decided
 BRIAN_VOICE_NOTE_SHORT = ("And now, a word from Brian. Or rather, from the voice Brian picked for himself, since he "
                           "would not use his own. Around here we call it Mister Scaredy Cat. The voice is not his, but the words are.")
 
+# The Law series. Word for word the same in every Law episode and rendered in its own section, with no episode
+# numbers, so Brian can reuse one good take (17 October 2026).
+LAW_INTRO = ("This episode is part of our series on the Law: what God commanded about the blind. In these episodes "
+             "there are no imagined scenes. Everything you hear is from the text, from the old books read in their "
+             "own voice, from the Hebrew words themselves, and from Brian.")
 CLOSE = ("This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot "
          "com. Scripture quotations are from the Holy Bible, Berean Standard Bible, "
          "which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is "

@@ -12,7 +12,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* Brian read that sentence and asked a question that nobody sighted would think to ask.
 
-**Narrator** *(dryly)* And now, a word from Brian. Or rather, from the voice Brian picked for himself, since he would not use his own. Around here we call it Mister Scaredy Cat. The voice is not his, but the words are.
+**Narrator** *(dryly)* And now, Mister Scaredy Cat. Not Brian's voice, but his words.
 
 *(pause 1.0 s)*
 
@@ -26,7 +26,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for blind believers, their families, and the church. The Scripture you will hear is the Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. And when we imagine a scene, we will tell you so.
 
-**Narrator** *(calm)* This is the first of four episodes on the Law: what God commanded about the blind. In these four there are no imagined scenes. Everything you hear is from the text, from the old books, read in their own voice, and from Brian. And we will do one thing we have not done before. For each law we will take the Hebrew word it turns on, say it plainly, and follow it to the other places the Bible uses it.
+**Narrator** *(calm)* This episode is part of our series on the Law: what God commanded about the blind. In these episodes there are no imagined scenes. Everything you hear is from the text, from the old books read in their own voice, from the Hebrew words themselves, and from Brian.
 
 ---
 
@@ -171,6 +171,8 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 ---
 
 **Narrator** *(calm)* Next time, the one law in the Bible that puts a price on an eye, and what the price turns out to be. The servant blinded by his master.
+
+---
 
 **Narrator** *(calm)* This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot com. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
 
