@@ -11,14 +11,14 @@
 [PAUSE 1.0]
 [NARRATOR] (plainly) If a man strikes and blinds the eye of his manservant or maidservant, he must let the servant go free as compensation for the eye. And if he knocks out the tooth of his manservant or maidservant, he must let the servant go free as compensation for the tooth.
 [PAUSE 1.5]
-[NARRATOR] (dryly) And now, a word from Brian. Or rather, from the voice Brian picked for himself, since he would not use his own. Around here we call it Mister Scaredy Cat. The voice is not his, but the words are.
+[NARRATOR] (dryly) And now, Mister Scaredy Cat. Shy Brian is back, with his own words and another man's voice.
 [PAUSE 1.0]
 [BRIAN] (calm) Reading this law, the first thing that struck me was the pairing of an eye with a tooth. I have lost two teeth since I lost my two eyes, and the adjustment was not remotely the same. Put plainly: a servant with a loose tooth could be struck once and walk out free, and the law sets that beside a man who will never see again. It seemed unbalanced.
 [PAUSE 1.0]
 [NARRATOR] (calm) An eye and a tooth, side by side, with the same price. This episode is about why, and about what the price is, and what it is not.
 [PAUSE 1.5]
 [NARRATOR] (calm) This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for blind believers, their families, and the church. The Scripture you will hear is the Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. And when we imagine a scene, we will tell you so.
-[NARRATOR] (calm) This is the second of four episodes on the Law. No imagined scenes. The text, the old books in their own voice, the Hebrew words, and Brian.
+[NARRATOR] (calm) This episode is part of our series on the Law: what God commanded about the blind. In these episodes there are no imagined scenes. Everything you hear is from the text, from the old books read in their own voice, from the Hebrew words themselves, and from Brian.
 [BREAK]
 [NARRATOR] (calm) First, where we are. Exodus chapter twenty-one. Israel is at Sinai, in the first year out of Egypt, and these are the laws that follow straight after the Ten Commandments. They are case laws: if this happens, then that. This stretch of them deals with injuries. A servant beaten to death. A pregnant woman struck in a fight. And the rule of equal measure that everyone has heard of, eye for eye, tooth for tooth. Our two verses come right after it.
 [NARRATOR] (calm) Exodus chapter 21, verses 20 to 27.
@@ -89,5 +89,6 @@
 [BRIAN] (calm) So I read this law two ways at once. Freedom is not a price for an eye, and the law does not pretend it is. But freedom is also not a small thing to hand a blind man, and I know that from the inside.
 [BREAK]
 [NARRATOR] (calm) Next time, the one law that limits what a blind man may do: the blind priest, who could not go near the altar, and who ate at the table all the same.
+[BREAK]
 [NARRATOR] (calm) This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot com. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
 [NARRATOR] (after a long pause) For we walk by faith, not by sight.

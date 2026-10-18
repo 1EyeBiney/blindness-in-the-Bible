@@ -12,7 +12,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* When Brian first read it, he did not argue with it. He asked three practical questions, the kind only a blind man would ask.
 
-**Narrator** *(dryly)* And now, a word from Brian. Or rather, from the voice Brian picked for himself, since he would not use his own. Around here we call it Mister Scaredy Cat. The voice is not his, but the words are.
+**Narrator** *(dryly)* Here is Mister Scaredy Cat again. The voice is borrowed. The words are Brian's.
 
 *(pause 1.0 s)*
 
@@ -26,7 +26,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for blind believers, their families, and the church. The Scripture you will hear is the Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. And when we imagine a scene, we will tell you so.
 
-**Narrator** *(calm)* This is the third of four episodes on the Law. No imagined scenes. The text, the old books in their own voice, the Hebrew words, and Brian.
+**Narrator** *(calm)* This episode is part of our series on the Law: what God commanded about the blind. In these episodes there are no imagined scenes. Everything you hear is from the text, from the old books read in their own voice, from the Hebrew words themselves, and from Brian.
 
 ---
 
@@ -141,6 +141,8 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 ---
 
 **Narrator** *(calm)* Next time, the last of the four, and the one that is not about blind people at all: the blind animal and the altar. The same word, mum, a market in the Temple, a prophet's test, and a look back over everything the Law said about the blind.
+
+---
 
 **Narrator** *(calm)* This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot com. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
 

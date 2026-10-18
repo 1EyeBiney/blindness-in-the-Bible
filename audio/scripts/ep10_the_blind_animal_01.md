@@ -10,7 +10,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 1.5 s)*
 
-**Narrator** *(dryly)* And now, a word from Brian. Or rather, from the voice Brian picked for himself, since he would not use his own. Around here we call it Mister Scaredy Cat. The voice is not his, but the words are.
+**Narrator** *(dryly)* One last time in this series, Mister Scaredy Cat. Brian still will not use his own voice, so this one speaks for him. Every word is his.
 
 *(pause 1.0 s)*
 
@@ -24,7 +24,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for blind believers, their families, and the church. The Scripture you will hear is the Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. And when we imagine a scene, we will tell you so.
 
-**Narrator** *(calm)* This is the fourth and last episode on the Law. No imagined scenes. The text, the old books in their own voice, the Hebrew words, and Brian.
+**Narrator** *(calm)* This episode is part of our series on the Law: what God commanded about the blind. In these episodes there are no imagined scenes. Everything you hear is from the text, from the old books read in their own voice, from the Hebrew words themselves, and from Brian.
 
 ---
 
@@ -179,6 +179,8 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 ---
 
 **Narrator** *(calm)* This has been the Law. The stories of the Old Testament are still to come: Isaac, Jacob, Eli, Samson, and the rest.
+
+---
 
 **Narrator** *(calm)* This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot com. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
 

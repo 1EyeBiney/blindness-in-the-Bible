@@ -3,7 +3,7 @@
 No imagined scenes. Brian's question is the spine; the Hebrew words ayin, chophshi and deror are followed to the
 other verses that use them; BOOKS reads Hammurabi, Henry and Josephus word for word. Drafted 16 October 2026.
 """
-from episode_lib import BRIAN_VOICE_NOTE_SHORT, CLOSE, SERIES_INTRO, header, reader
+from episode_lib import CLOSE, LAW_INTRO, SERIES_INTRO, header, reader
 
 SLUG = "the_servants_eye"
 NUMBER = 8
@@ -52,7 +52,7 @@ def build(bible: dict) -> list[str]:
         "servant go free as compensation for the eye. And if he knocks out the tooth of his manservant or "
         "maidservant, he must let the servant go free as compensation for the tooth.")
     add("[PAUSE 1.5]")
-    add(f"[NARRATOR] (dryly) {BRIAN_VOICE_NOTE_SHORT}")
+    add("[NARRATOR] (dryly) And now, Mister Scaredy Cat. Shy Brian is back, with his own words and another man's voice.")
     add("[PAUSE 1.0]")
     add("[BRIAN] (calm) Reading this law, the first thing that struck me was the pairing of an eye with a tooth. I "
         "have lost two teeth since I lost my two eyes, and the adjustment was not remotely the same. Put plainly: a "
@@ -63,8 +63,7 @@ def build(bible: dict) -> list[str]:
         "about what the price is, and what it is not.")
     add("[PAUSE 1.5]")
     add(f"[NARRATOR] (calm) {SERIES_INTRO}")
-    add("[NARRATOR] (calm) This is the second of four episodes on the Law. No imagined scenes. The text, the old "
-        "books in their own voice, the Hebrew words, and Brian.")
+    add(f"[NARRATOR] (calm) {LAW_INTRO}")
     add("[BREAK]")
 
     # ---- Where and when, and the passage ------------------------------------------------------------------
@@ -177,6 +176,7 @@ def build(bible: dict) -> list[str]:
     # ---- Close --------------------------------------------------------------------------------------------
     add("[NARRATOR] (calm) Next time, the one law that limits what a blind man may do: the blind priest, who could "
         "not go near the altar, and who ate at the table all the same.")
+    add("[BREAK]")
     add(f"[NARRATOR] (calm) {CLOSE}")
     add("[NARRATOR] (after a long pause) For we walk by faith, not by sight.")
     return L

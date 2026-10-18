@@ -4,7 +4,7 @@ No imagined scenes. Brian's question is the spine; the words mum, tamim and yare
 Henry and Edersheim word for word; the episode closes the Law series with a look back through its four words.
 Drafted 16 October 2026.
 """
-from episode_lib import BRIAN_VOICE_NOTE_SHORT, CLOSE, SERIES_INTRO, header, reader
+from episode_lib import CLOSE, LAW_INTRO, SERIES_INTRO, header, reader
 
 SLUG = "the_blind_animal"
 NUMBER = 10
@@ -47,7 +47,7 @@ def build(bible: dict) -> list[str]:
     add("[PAUSE 1.0]")
     add("[NARRATOR] (plainly) You are not to present to the LORD any animal that is blind, injured, or maimed.")
     add("[PAUSE 1.5]")
-    add(f"[NARRATOR] (dryly) {BRIAN_VOICE_NOTE_SHORT}")
+    add("[NARRATOR] (dryly) One last time in this series, Mister Scaredy Cat. Brian still will not use his own voice, so this one speaks for him. Every word is his.")
     add("[PAUSE 1.0]")
     add("[BRIAN] (calm) This one was harder to read than I expected, and not because of what it asks of a lamb. It "
         "is because it puts blindness straight into the category of broken.")
@@ -57,8 +57,7 @@ def build(bible: dict) -> list[str]:
         "blind.")
     add("[PAUSE 1.5]")
     add(f"[NARRATOR] (calm) {SERIES_INTRO}")
-    add("[NARRATOR] (calm) This is the fourth and last episode on the Law. No imagined scenes. The text, the old books "
-        "in their own voice, the Hebrew words, and Brian.")
+    add(f"[NARRATOR] (calm) {LAW_INTRO}")
     add("[BREAK]")
 
     # ---- Where and when, and the passages -------------------------------------------------------------------
@@ -171,6 +170,7 @@ def build(bible: dict) -> list[str]:
     # ---- Close --------------------------------------------------------------------------------------------
     add("[NARRATOR] (calm) This has been the Law. The stories of the Old Testament are still to come: Isaac, Jacob, "
         "Eli, Samson, and the rest.")
+    add("[BREAK]")
     add(f"[NARRATOR] (calm) {CLOSE}")
     add("[NARRATOR] (after a long pause) For we walk by faith, not by sight.")
     return L

@@ -4,7 +4,7 @@ No imagined scenes. Brian's three questions are the spine and are answered from 
 followed to Absalom, the bride, and the lamb; BOOKS reads Henry, Josephus, Edersheim and the encyclopedia word
 for word. Drafted 16 October 2026.
 """
-from episode_lib import BRIAN_VOICE_NOTE_SHORT, CLOSE, SERIES_INTRO, header, reader
+from episode_lib import CLOSE, LAW_INTRO, SERIES_INTRO, header, reader
 
 SLUG = "the_blind_priest"
 NUMBER = 9
@@ -64,7 +64,7 @@ def build(bible: dict) -> list[str]:
     add("[PAUSE 1.5]")
     add("[NARRATOR] (calm) When Brian first read it, he did not argue with it. He asked three practical questions, "
         "the kind only a blind man would ask.")
-    add(f"[NARRATOR] (dryly) {BRIAN_VOICE_NOTE_SHORT}")
+    add("[NARRATOR] (dryly) Here is Mister Scaredy Cat again. The voice is borrowed. The words are Brian's.")
     add("[PAUSE 1.0]")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[5]}")
     add("[PAUSE 1.0]")
@@ -73,8 +73,7 @@ def build(bible: dict) -> list[str]:
         "underneath them, which is what this law says about what a blind person is worth.")
     add("[PAUSE 1.5]")
     add(f"[NARRATOR] (calm) {SERIES_INTRO}")
-    add("[NARRATOR] (calm) This is the third of four episodes on the Law. No imagined scenes. The text, the old books "
-        "in their own voice, the Hebrew words, and Brian.")
+    add(f"[NARRATOR] (calm) {LAW_INTRO}")
     add("[BREAK]")
 
     # ---- Where and when, and the passage ------------------------------------------------------------------
@@ -191,6 +190,7 @@ def build(bible: dict) -> list[str]:
     add("[NARRATOR] (calm) Next time, the last of the four, and the one that is not about blind people at all: the "
         "blind animal and the altar. The same word, mum, a market in the Temple, a prophet's test, and a look back "
         "over everything the Law said about the blind.")
+    add("[BREAK]")
     add(f"[NARRATOR] (calm) {CLOSE}")
     add("[NARRATOR] (after a long pause) For we walk by faith, not by sight.")
     return L
