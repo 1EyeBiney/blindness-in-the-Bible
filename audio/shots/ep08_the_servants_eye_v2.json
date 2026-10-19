@@ -1,0 +1,284 @@
+{
+ "_comment": "Shot list for episode 8, second of four on the Law. 10 new paintings plus the title and close backgrounds (prompts below, generated in this order); reused: episode 7's Sinai, camp, Hammurabi, Henry, Josephus and gate, the site paintings of Zedekiah, the freed servant, the road home, the Nazareth synagogue and the lamp at dawn, the scroll, Brian's Navy photograph and the cane and pew. No imagined scenes are spoken in this series.",
+ "style": "Painterly oil-sketch look, visible brushwork, warm natural light, the land and buildings of ancient Israel and its neighbours. No faces shown close up: people are seen from behind or at a distance. No text or lettering anywhere. No modern objects. Calm and hopeful, never frightening or graphic. 16:9.",
+ "shots": [
+  {
+   "from": "001",
+   "image": "ep08_the_servants_eye/01_the_scales.jpg",
+   "card": "Not By Sight",
+   "prompt": "A bronze balance scale on a worn wooden table in an ancient market, its two pans hanging level, small stone weights beside it.",
+   "description": "A merchant's bronze balance scale on a worn wooden table in an ancient market, the two pans hanging level, a few small stone weights beside it, warm morning light through an awning, no people close up."
+  },
+  {
+   "from": "002",
+   "at_phrase": "Say the word free",
+   "image": "ep07_the_stumbling_block/16_through_the_gate.jpg",
+   "card": "Free",
+   "prompt": "",
+   "description": "A man walking out through an open gate into morning light, seen from behind."
+  },
+  {
+   "from": "003",
+   "image": "ep07_the_stumbling_block/03_sinai.jpg",
+   "card": "Exodus 21:26-27",
+   "prompt": "",
+   "description": "The bare granite mountain in the desert at first light."
+  },
+  {
+   "from": "005",
+   "image": "ep01_man_born_blind/00_brian_navy.png",
+   "card": "Mister Scaredy Cat",
+   "prompt": "",
+   "description": "A photograph treated to match the paintings: Brian as a young sailor in Navy whites, with Patti beside him. A small plate beneath him reads Mister Scaredy Cat."
+  },
+  {
+   "from": "006",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane leaning against a church pew. Brian speaks."
+  },
+  {
+   "from": "007",
+   "image": "ep08_the_servants_eye/01_the_scales.jpg",
+   "card": "The same price",
+   "prompt": "",
+   "description": "The balance scale again, its pans level."
+  },
+  {
+   "from": "008",
+   "image": "ep08_the_servants_eye/title_card.jpg",
+   "card": "Not By Sight\nEpisode 8: The servant's eye",
+   "prompt": "Title card over an open household gate at dusk: Not By Sight, episode eight, the servant's eye.",
+   "description": "Title card background only: the wooden gate of a household compound standing open at dusk, a dirt road running out through it into darkening hill country, the first stars, no people, no text, keep the lower third calm."
+  },
+  {
+   "from": "009",
+   "image": "ep07_the_stumbling_block/05_camp_at_sinai.jpg",
+   "card": "Where we are",
+   "prompt": "",
+   "description": "The camp of dark tents at the foot of the mountain."
+  },
+  {
+   "from": "010",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Exodus 21:20-27",
+   "prompt": "",
+   "description": "The open scroll in warm light. The Scripture reader begins."
+  },
+  {
+   "from": "011",
+   "image": "ep08_the_servants_eye/02_household_courtyard.jpg",
+   "card": "Case law",
+   "prompt": "The courtyard of a large household: a servant woman carries water, a man works at a grinding stone, the master stands in a far doorway.",
+   "description": "The courtyard of a large household in ancient Israel: a servant woman carries a water jar across the stone yard, a man works at a grinding stone in the shade, the master stands in a doorway at the far side, all seen at a distance or from behind. Warm afternoon light."
+  },
+  {
+   "from": "012",
+   "at_phrase": "By analogy, it says, a fountain.",
+   "image": "ep08_the_servants_eye/03_spring_in_the_rock.jpg",
+   "card": "Ah-yin",
+   "prompt": "A small spring of clear water rising from a crack in the rock, a pool below ringed with green, bright sun on the water.",
+   "description": "A small spring of clear water rising from a crack in a rock face in dry hill country, a little pool below it ringed with green ferns and moss, bright sun on the water, no people."
+  },
+  {
+   "from": "014",
+   "at_phrase": "The first is Samson.",
+   "image": "ep08_the_servants_eye/04_samson_at_the_mill.jpg",
+   "card": "Samson",
+   "prompt": "A dim stone prison room: a big man with long hair, seen from behind, pushes the beam of a heavy millstone, chains at his ankles, a shaft of light from a high window.",
+   "description": "A dim stone prison room in Gaza: a big, broad-shouldered man with long hair, seen from behind, pushes the wooden beam of a heavy round millstone, bronze chains at his ankles, a shaft of light from a high window. Sorrowful but not graphic."
+  },
+  {
+   "from": "016",
+   "image": "site_batch1/06_zedekiah.jpg",
+   "card": "Zedekiah",
+   "prompt": "",
+   "description": "A long column of captives walks across a plain by a broad river toward a far city with a stepped tower."
+  },
+  {
+   "from": "018",
+   "at_phrase": "The law of the servant stands between those two men.",
+   "image": "site_batch2/02_servant_blinded.jpg",
+   "card": "The price paid to the man who lost it",
+   "prompt": "",
+   "description": "A servant walks out of a household gate into open country with a small bundle over his shoulder, seen from behind."
+  },
+  {
+   "from": "019",
+   "image": "ep07_the_stumbling_block/16_through_the_gate.jpg",
+   "card": "Khof-shee",
+   "prompt": "",
+   "description": "The man walking out through the open gate."
+  },
+  {
+   "from": "021",
+   "image": "ep08_the_servants_eye/02_household_courtyard.jpg",
+   "card": "The same chapter",
+   "prompt": "",
+   "description": "The household courtyard again."
+  },
+  {
+   "from": "022",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Exodus 21:2",
+   "prompt": "",
+   "description": "The open scroll."
+  },
+  {
+   "from": "023",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Deuteronomy 15:12-15",
+   "prompt": "",
+   "description": "The open scroll."
+  },
+  {
+   "from": "024",
+   "at_phrase": "You are to furnish him liberally",
+   "image": "ep08_the_servants_eye/05_not_empty_handed.jpg",
+   "card": "Not empty-handed",
+   "prompt": "A freed man leads a laden donkey out through a farm gate, sacks of grain, a wineskin and a few sheep with him; the farmer watches from the gate.",
+   "description": "A freed man leads a laden donkey out through a farm gate at morning: sacks of grain, a skin of wine and a few sheep walking beside him. The farmer who freed him stands at the gate watching him go, both seen from behind or at a distance. Generous, hopeful light."
+  },
+  {
+   "from": "025",
+   "image": "site_batch2/02_servant_blinded.jpg",
+   "card": "At once",
+   "prompt": "",
+   "description": "The servant walking out into open country."
+  },
+  {
+   "from": "026",
+   "at_phrase": "Every fiftieth year was the Jubilee.",
+   "image": "ep08_the_servants_eye/06_the_jubilee_horn.jpg",
+   "card": "The Jubilee",
+   "prompt": "On a hilltop at sunrise, a man seen from behind raises a long ram's horn to sound it, fields and villages below.",
+   "description": "On a hilltop above terraced fields at sunrise, a man seen from behind raises a long curved ram's horn to sound it, the valley and villages spread out below him. Bright, joyful morning."
+  },
+  {
+   "from": "028",
+   "image": "ep08_the_servants_eye/07_going_home.jpg",
+   "card": "Return to his clan",
+   "prompt": "A man, his wife and three children walk along a road toward a small village among olive trees, seen from behind.",
+   "description": "A man and his wife with three children walk along a country road toward a small village among olive trees, carrying bundles, seen from behind, a little dog running ahead. Late afternoon, warm and glad."
+  },
+  {
+   "from": "031",
+   "image": "site_batch2/17_eyes_opened.jpg",
+   "card": "Nazareth",
+   "prompt": "",
+   "description": "Inside the small synagogue at Nazareth, a figure seen from behind stands holding an open scroll."
+  },
+  {
+   "from": "032",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Isaiah 61:1",
+   "prompt": "",
+   "description": "The open scroll."
+  },
+  {
+   "from": "033",
+   "image": "ep08_the_servants_eye/06_the_jubilee_horn.jpg",
+   "card": "Deh-rore",
+   "prompt": "",
+   "description": "The ram's horn sounding over the fields."
+  },
+  {
+   "from": "034",
+   "image": "ep07_the_stumbling_block/13_hammurabi.jpg",
+   "card": "Hammurabi of Babylon",
+   "prompt": "",
+   "description": "The tall black stone monument in a Babylonian courtyard."
+  },
+  {
+   "from": "036",
+   "image": "ep08_the_servants_eye/08_silver_weighed.jpg",
+   "card": "One mina of silver",
+   "prompt": "Pieces of silver weighed on a balance in a Babylonian counting room, a clay tablet beside them.",
+   "description": "In a Babylonian counting room with mud-brick walls, small rings and pieces of silver are weighed on a balance scale on a low table, a clay tablet beside them, seen close, hands at the edge of the picture only. Warm lamplight."
+  },
+  {
+   "from": "038",
+   "at_phrase": "In Israel it was freed.",
+   "image": "ep07_the_stumbling_block/16_through_the_gate.jpg",
+   "card": "In Israel it was freed",
+   "prompt": "",
+   "description": "The man walking out through the open gate."
+  },
+  {
+   "from": "039",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "Matthew Henry, 1706",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "041",
+   "image": "ep08_the_servants_eye/01_the_scales.jpg",
+   "card": "The smallest lasting harm",
+   "prompt": "",
+   "description": "The balance scale."
+  },
+  {
+   "from": "041",
+   "at_phrase": "Josephus",
+   "image": "ep07_the_stumbling_block/11_josephus_in_rome.jpg",
+   "card": "Josephus",
+   "prompt": "",
+   "description": "A man writing on a scroll in a Roman house."
+  },
+  {
+   "from": "044",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane and the pew. Brian's closing thoughts."
+  },
+  {
+   "from": "045",
+   "at_phrase": "The second thing was the money.",
+   "image": "ep08_the_servants_eye/08_silver_weighed.jpg",
+   "card": "The money",
+   "prompt": "",
+   "description": "The silver on the balance."
+  },
+  {
+   "from": "045",
+   "at_phrase": "Here is the other side of it",
+   "image": "site_batch2/18_picture_front.jpg",
+   "card": "The other side of it",
+   "prompt": "",
+   "description": "A single clay lamp burning on a window ledge, the first line of dawn beyond."
+  },
+  {
+   "from": "045",
+   "at_phrase": "I have never been a slave",
+   "image": "ep08_the_servants_eye/09_light_through_the_door.jpg",
+   "card": "The shackles of blindness",
+   "prompt": "Inside a dark stone room, a heavy door stands open and bright morning light floods in across the floor, open country beyond.",
+   "description": "Inside a dark stone room, looking toward a doorway: the heavy door stands open and bright morning light floods in across the floor, open green country visible beyond. No people."
+  },
+  {
+   "from": "045",
+   "at_phrase": "That is how the gift I spoke of came to me.",
+   "image": "site_batch1/16_home.jpg",
+   "card": "I walked out too",
+   "prompt": "",
+   "description": "A road climbing from a shadowed valley toward golden hills at sunrise, a single traveller walking up it."
+  },
+  {
+   "from": "046",
+   "image": "ep08_the_servants_eye/10_the_altar.jpg",
+   "card": "Next time: the blind priest",
+   "prompt": "The bronze altar in the tabernacle courtyard, smoke rising, a priest in white linen far off beside it.",
+   "description": "The great bronze altar of the tabernacle in a sunlit courtyard enclosed by linen curtains, a thin line of smoke rising, a priest in white linen standing far off beside it, seen from behind. Quiet and reverent."
+  },
+  {
+   "from": "047",
+   "image": "ep08_the_servants_eye/close_card.jpg",
+   "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
+   "prompt": "Closing card over dawn on open country beyond a household gate: For we walk by faith, not by sight, and the address blindnessinthebible.com.",
+   "description": "Closing card background only: dawn over open hill country seen from just outside a household gate, a road running away into the light, a wide clear sky, no people, no text, keep the upper half calm."
+  }
+ ]
+}
