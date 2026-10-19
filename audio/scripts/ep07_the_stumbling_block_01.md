@@ -16,7 +16,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 1.5 s)*
 
-**Narrator** *(calm)* One sentence of law. Thirty-one words in English, given at Sinai, more than three thousand years ago.
+**Narrator** *(calm)* One sentence of law. Twenty-four words in English, given at Sinai, more than three thousand years ago.
 
 *(pause 1.0 s)*
 

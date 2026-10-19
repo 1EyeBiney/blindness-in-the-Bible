@@ -63,7 +63,7 @@ def build(bible: dict) -> list[str]:
     add("[PAUSE 1.5]")
 
     # ---- Cold open: the law itself, then Brian's question -----------------------------------------------
-    add("[NARRATOR] (calm) One sentence of law. Thirty-one words in English, given at Sinai, more than three "
+    add("[NARRATOR] (calm) One sentence of law. Twenty-four words in English, given at Sinai, more than three "
         "thousand years ago.")
     add("[PAUSE 1.0]")
     add("[NARRATOR] (plainly) You must not curse the deaf or place a stumbling block before the blind, but you shall "

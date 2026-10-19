@@ -13,7 +13,7 @@
 [PAUSE 1.0]
 [NARRATOR] (calm) That is what this series does. Four separate laws, and in each one a word that could mean more than one thing. We will read the law, stop at the word, and follow it through the rest of the Bible until it settles. Then we will know what God said about the blind, because we will know what the words meant to the people who first heard them.
 [PAUSE 1.5]
-[NARRATOR] (calm) One sentence of law. Thirty-one words in English, given at Sinai, more than three thousand years ago.
+[NARRATOR] (calm) One sentence of law. Twenty-four words in English, given at Sinai, more than three thousand years ago.
 [PAUSE 1.0]
 [NARRATOR] (plainly) You must not curse the deaf or place a stumbling block before the blind, but you shall fear your God. I am the LORD.
 [PAUSE 1.5]
