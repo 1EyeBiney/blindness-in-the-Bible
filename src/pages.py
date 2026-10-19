@@ -123,7 +123,7 @@ LAW_PAGES = [
                   "concerns a few hundred men of one family and one duty, not blind people in general. It keeps the "
                   "blind priest inside the priesthood and at its table. And the reason given is about the holiness of "
                   "the sanctuary, not about the worth of the man. Many readers have still found it hard, and Brian's "
-                  "thoughts on it belong here more than anyone's.",
+                  "thoughts on it belong here as much as anyone's.",
         "brian": [
             "Reading this law, I had three questions, and the section on the place and the time now answers them. I "
             "wanted to know what a priest actually did, and it turns out that most of it was done with the hands: the "
