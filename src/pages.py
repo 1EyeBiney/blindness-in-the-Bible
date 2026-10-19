@@ -95,7 +95,16 @@ LAW_PAGES = [
             "God, the third greatest after my salvation and my wife. It has brought us more blessings than I can list, "
             "and it has shaped my character to fit His purposes better than it did.",
             "So I read this law two ways at once. Freedom is not a price for an eye, and the law does not pretend it "
-            "is. But freedom is also not a small thing to hand a blind man, and I know that from the inside.",
+            "is. But freedom is not a small thing to hand a blind man, either.",
+            "I have never been a slave, and most blind people I know never will be. But most of us have felt the "
+            "shackles of blindness all the same. In the early days it is a kind of prison. There are rooms you cannot "
+            "cross without help, and a world that stops where your hands can reach. Other people decide where you go "
+            "and when. I felt those bindings. So when this law hands a blinded servant his freedom, I do not need to "
+            "have been a servant to understand what he was given. I understand freedom, because I know what it is to "
+            "lose it, and to be given it back.",
+            "That is how the gift I spoke of came to me. It did not come all at once, and it did not come by getting "
+            "my sight back. It came by being set free inside the dark. The servant in this law walked out the door the "
+            "day he lost his eye. It took me longer. But I walked out too.",
         ],
     },
     {

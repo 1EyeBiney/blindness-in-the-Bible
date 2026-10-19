@@ -52,7 +52,11 @@ WORDS = {
          "verses": [("Exodus", 21, 26), ("Exodus", 21, 2), ("Deuteronomy", 15, 12), ("Jeremiah", 34, 9),
                     ("Isaiah", 58, 6)],
          "text": [
-             "The word for free is chophshi, which Strong's glosses as exempt from bondage, tax or care. It is the "
+             "The word for free is chophshi, which Strong's glosses as exempt from bondage, tax or care. English has "
+             "two kinds of free, free as in no charge and free as in no chains, and chophshi holds both: a man who is "
+             "chophshi owes nothing more and belongs to no one. Read the law with that in mind. The master does not "
+             "hand the servant money for the eye. He pays with the man himself, and whatever time the servant still "
+             "owed is cancelled. Nor is this a new word made up for one law. It is the "
              "same word used a few verses earlier, in Exodus 21:2, for the Hebrew servant who goes free in the "
              "seventh year, and again in Deuteronomy 15:12, and in Jeremiah 34, where a king's broken promise to "
              "free the servants brings judgment on Jerusalem. Isaiah 58 uses it for the fast God chooses: to set the "
