@@ -1,0 +1,312 @@
+{
+ "_comment": "Shot list for episode 7, first of four on the Law. 16 new paintings (prompts below, generated in this order) plus the title and close backgrounds; shared stills: the scroll, Brian's Navy photograph, Brian's picture, the series map (maps/ep07.png). No imagined scenes are spoken in this series; the paintings are places and things the text names. The title and close cards have their lettering added afterwards (title_card.jpg, close_card.jpg).",
+ "style": "Painterly oil-sketch look, visible brushwork, warm natural light, the land and buildings of ancient Israel and its neighbours. No faces shown close up: people are seen from behind or at a distance. No text or lettering anywhere. No modern objects. Calm and hopeful, never frightening or graphic. 16:9.",
+ "shots": [
+  {
+   "from": "001",
+   "image": "ep07_the_stumbling_block/01_the_fork.jpg",
+   "card": "Not By Sight",
+   "prompt": "A path through quiet hills at dawn divides in two around a standing stone, one way down into a valley, one way up along a ridge.",
+   "description": "A dirt path through quiet hills at dawn divides in two around a single standing stone, one way going down into a valley and one way going up along a ridge, soft mist in the low places, no people."
+  },
+  {
+   "from": "002",
+   "at_phrase": "If someone says a door is open",
+   "image": "ep07_the_stumbling_block/02_the_open_door.jpg",
+   "card": "A word about words",
+   "prompt": "The wooden door of a stone house stands wide open onto a sunlit courtyard, a clay jar beside the step.",
+   "description": "The wooden door of a simple stone house in an ancient village, standing wide open onto a sunlit courtyard, a clay jar beside the step, morning light falling through the doorway, no people."
+  },
+  {
+   "from": "003",
+   "image": "ep07_the_stumbling_block/01_the_fork.jpg",
+   "card": "Follow the word",
+   "prompt": "",
+   "description": "The path dividing around the standing stone again."
+  },
+  {
+   "from": "004",
+   "image": "ep07_the_stumbling_block/03_sinai.jpg",
+   "card": "Leviticus 19:14",
+   "prompt": "A great bare granite mountain in the desert at first light, a wide plain below and the smoke of distant tents.",
+   "description": "A great bare granite mountain in the desert at first light, its peaks catching gold, a wide plain of sand and scrub below, a thin line of smoke from distant tents on the plain, no figures close up."
+  },
+  {
+   "from": "006",
+   "image": "ep07_the_stumbling_block/03_sinai.jpg",
+   "card": "One word",
+   "prompt": "",
+   "description": "The mountain in the desert again."
+  },
+  {
+   "from": "006",
+   "at_phrase": "And now, Mister Scaredy Cat.",
+   "image": "ep01_man_born_blind/00_brian_navy.png",
+   "card": "Mister Scaredy Cat",
+   "prompt": "",
+   "description": "A photograph treated to match the paintings: Brian as a young sailor in Navy whites, with Patti beside him. A small plate beneath him reads Mister Scaredy Cat."
+  },
+  {
+   "from": "007",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The picture that marks Brian's own words."
+  },
+  {
+   "from": "008",
+   "image": "ep07_the_stumbling_block/04_stone_in_the_path.jpg",
+   "card": "A trip, or a fall",
+   "prompt": "A single rough stone lies across a narrow dusty footpath between low stone walls, the tip of a walking staff entering from the edge.",
+   "description": "Close to the ground on a narrow dusty footpath between low stone walls, a single rough stone lies across the path, long morning shadows, the tip of a wooden walking staff just entering the picture from the edge. No people."
+  },
+  {
+   "from": "009",
+   "image": "ep07_the_stumbling_block/title_card.jpg",
+   "card": "Not By Sight\nEpisode 7: The stumbling block",
+   "prompt": "Title card over a quiet road at dusk with a single stone lying in it: Not By Sight, episode seven, the stumbling block.",
+   "description": "Title card background only: a quiet road through hill country at dusk, a single stone lying in the road in the foreground, the sky deep blue with the first stars, no people, no text, keep the lower third calm."
+  },
+  {
+   "from": "010",
+   "image": "ep07_the_stumbling_block/05_camp_at_sinai.jpg",
+   "card": "Where we are",
+   "prompt": "A vast camp of dark tents across a desert plain at the foot of the mountain, smoke rising, small figures and flocks far off.",
+   "description": "A vast camp of dark goat-hair tents spread across a desert plain at the foot of a great granite mountain, cooking smoke rising, small figures and flocks far off among the tents, late afternoon light."
+  },
+  {
+   "from": "010",
+   "at_phrase": "Where this is.",
+   "image": "maps/ep07.png",
+   "card": "Where this is",
+   "prompt": "",
+   "description": "The series map. Jerusalem and Shechem are marked in gold. Facing north from Jerusalem, Shechem is at twelve o'clock, about a day and a half's walk. Mount Sinai lies far to the south, off the bottom edge of the map."
+  },
+  {
+   "from": "011",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Leviticus 19:13-18",
+   "prompt": "",
+   "description": "The open scroll in warm light. The Scripture reader begins."
+  },
+  {
+   "from": "012",
+   "image": "ep07_the_stumbling_block/06_wages_at_sunset.jpg",
+   "card": "The company it keeps",
+   "prompt": "A field at sunset after harvest; a landowner, seen from behind, counts coins into a labourer's open hand.",
+   "description": "A field at sunset after the harvest, stubble and sheaves, a landowner seen from behind counting coins into the open hand of a labourer, both small in the frame, long golden light, a village on the hill beyond."
+  },
+  {
+   "from": "013",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Deuteronomy 27:11-19",
+   "prompt": "",
+   "description": "The open scroll. Moses commands the ceremony."
+  },
+  {
+   "from": "013",
+   "at_phrase": "And these tribes shall stand on Mount Ebal",
+   "image": "ep07_the_stumbling_block/07_gerizim_and_ebal.jpg",
+   "card": "Gerizim and Ebal",
+   "prompt": "Two broad mountains facing each other across a narrow valley, a small walled town between them, terraces and olive trees.",
+   "description": "Two broad rounded mountains facing each other across a narrow green valley in the hill country, a small walled town of stone houses in the valley between them, terraced slopes and olive trees, clear afternoon light, no figures close up."
+  },
+  {
+   "from": "013",
+   "at_phrase": "Then the Levites shall proclaim",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Cursed is he",
+   "prompt": "",
+   "description": "The open scroll again."
+  },
+  {
+   "from": "014",
+   "image": "ep07_the_stumbling_block/08_the_whole_people.jpg",
+   "card": "Amen",
+   "prompt": "Two great mountain slopes covered with a vast crowd, and in the valley between them a small group of priests around a gold-covered chest.",
+   "description": "Seen from high above and far away: two great mountain slopes covered with a vast crowd of people in plain robes, so many they look like a texture on the hills, and in the valley between them a small group of priests around a gold-covered chest. Bright clear light. No faces visible."
+  },
+  {
+   "from": "015",
+   "image": "ep07_the_stumbling_block/04_stone_in_the_path.jpg",
+   "card": "Mikshol",
+   "prompt": "",
+   "description": "The stone in the path again."
+  },
+  {
+   "from": "016",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Jeremiah 6:21",
+   "prompt": "",
+   "description": "The open scroll. The word in other places."
+  },
+  {
+   "from": "021",
+   "image": "ep07_the_stumbling_block/09_fallen_and_broken.jpg",
+   "card": "Fall and be broken",
+   "prompt": "A large clay water jar fallen on a stone path, broken, water spreading on the stones.",
+   "description": "A large clay water jar fallen on a stone path, broken into several pieces, a dark splash of water spreading on the stones, dust in the air, soft late light, no people."
+  },
+  {
+   "from": "022",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Psalm 119:165",
+   "prompt": "",
+   "description": "The open scroll. The gentle one."
+  },
+  {
+   "from": "023",
+   "at_phrase": "Perish. Die. Fall and be broken.",
+   "image": "ep07_the_stumbling_block/09_fallen_and_broken.jpg",
+   "card": "The fall, not the trip",
+   "prompt": "",
+   "description": "The broken jar again."
+  },
+  {
+   "from": "024",
+   "image": "ep07_the_stumbling_block/03_sinai.jpg",
+   "card": "Ivver, yare, shagah",
+   "prompt": "",
+   "description": "The mountain at first light again."
+  },
+  {
+   "from": "025",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "The old books",
+   "prompt": "A minister's study in England in the early 1700s: a desk by a tall window, quill, candle and books; a man in a dark coat seated writing, seen from behind.",
+   "description": "A minister's study in England in the early 1700s: a heavy wooden writing desk by a tall window, a quill and inkpot, a candle, a large open book, shelves of leather-bound books, grey English daylight. A man in a dark coat and white bands is seated writing, seen from behind. No readable words anywhere."
+  },
+  {
+   "from": "026",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "Matthew Henry, 1706",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "029",
+   "image": "ep07_the_stumbling_block/04_stone_in_the_path.jpg",
+   "card": "The one who saw",
+   "prompt": "",
+   "description": "The stone in the path again."
+  },
+  {
+   "from": "030",
+   "image": "ep07_the_stumbling_block/11_josephus_in_rome.jpg",
+   "card": "Josephus, about AD 93",
+   "prompt": "A room in a Roman house: a man seated at a low table writing on a scroll, seen from behind, Roman rooftops through the doorway.",
+   "description": "A room in a Roman house in the first century: a man in a plain tunic and cloak sits at a low table writing on a scroll, seen from behind, an oil lamp, painted plaster walls, a column and a glimpse of red-tiled Roman rooftops through the doorway. No readable words anywhere."
+  },
+  {
+   "from": "031",
+   "at_phrase": "So this is what a Jewish writer",
+   "image": "ep07_the_stumbling_block/12_the_wrong_road.jpg",
+   "card": "Not an accident",
+   "prompt": "A lone traveller with a staff, small and seen from behind, walks down into an empty valley at dusk while the true road curves away along the ridge.",
+   "description": "A lone traveller with a walking staff, very small in the distance and seen from behind, walks down into a wide empty valley at dusk while the true road curves away along the ridge in the foreground. Long shadows, quiet and a little lonely, not frightening."
+  },
+  {
+   "from": "032",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "One honest counterweight",
+   "prompt": "",
+   "description": "Matthew Henry's study again."
+  },
+  {
+   "from": "034",
+   "image": "ep07_the_stumbling_block/01_the_fork.jpg",
+   "card": "Both readings",
+   "prompt": "",
+   "description": "The path dividing around the standing stone."
+  },
+  {
+   "from": "036",
+   "image": "ep07_the_stumbling_block/08_the_whole_people.jpg",
+   "card": "Spoken from a mountain",
+   "prompt": "",
+   "description": "The whole people on the two mountains again."
+  },
+  {
+   "from": "037",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The picture that marks Brian's own words."
+  },
+  {
+   "from": "039",
+   "image": "ep07_the_stumbling_block/13_hammurabi.jpg",
+   "card": "Hammurabi of Babylon",
+   "prompt": "A tall black stone monument in a sunlit Babylonian courtyard, a carved relief of a seated king at the top and the rest covered in fine carved writing.",
+   "description": "A tall black basalt stone monument standing in a sunlit courtyard in ancient Babylon, rounded at the top, a carved relief at the top of a seated king facing a standing figure, the rest of the stone covered in fine carved marks too small to read. Mud-brick walls, palm trees, hot light. No people close up."
+  },
+  {
+   "from": "041",
+   "at_phrase": "So is the Bible first? Not quite.",
+   "image": "ep07_the_stumbling_block/14_on_the_nile.jpg",
+   "card": "Amenemope",
+   "prompt": "The bank of the Nile in the evening: an old man and a boy sit side by side above the water, seen from behind, a sailing boat on the river.",
+   "description": "The bank of the Nile in Egypt in the evening: an old man and a boy sit side by side on a low wall above the water, seen from behind, reeds and palm trees, a small sailing boat on the river, warm low sun. Their faces are not shown."
+  },
+  {
+   "from": "043",
+   "at_phrase": "As far as the shelf can tell",
+   "image": "ep07_the_stumbling_block/03_sinai.jpg",
+   "card": "The first law",
+   "prompt": "",
+   "description": "The mountain at first light."
+  },
+  {
+   "from": "044",
+   "image": "ep07_the_stumbling_block/04_stone_in_the_path.jpg",
+   "card": "No witness",
+   "prompt": "",
+   "description": "The stone in the path."
+  },
+  {
+   "from": "044",
+   "at_phrase": "And suppose a traveller asks the way",
+   "image": "ep07_the_stumbling_block/12_the_wrong_road.jpg",
+   "card": "Pointed wrong, for sport",
+   "prompt": "",
+   "description": "The traveller walking down into the wrong valley."
+  },
+  {
+   "from": "044",
+   "at_phrase": "The Law did what law can do",
+   "image": "ep07_the_stumbling_block/08_the_whole_people.jpg",
+   "card": "The whole people the witness",
+   "prompt": "",
+   "description": "The whole people on the two mountains."
+  },
+  {
+   "from": "045",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The picture that marks Brian's own words."
+  },
+  {
+   "from": "046",
+   "at_phrase": "But the further I read",
+   "image": "ep07_the_stumbling_block/15_he_knows.jpg",
+   "card": "He knows",
+   "prompt": "Night over the hill country, the sky thick with stars, a sleeping village with one lamp lit in a window and a path running past it.",
+   "description": "Night over quiet hill country, the sky thick with stars, a small village asleep on a hillside with one lamp still lit in a window, a single path running past it in the starlight, no people."
+  },
+  {
+   "from": "047",
+   "image": "ep07_the_stumbling_block/16_through_the_gate.jpg",
+   "card": "Next time: the servant's eye",
+   "prompt": "A man with a small bundle walks out through an open gate into morning light, seen from behind.",
+   "description": "A man in a plain worn tunic with a small bundle over his shoulder walks out through an open wooden gate in a stone wall into bright morning light and open country, seen from behind. Hopeful."
+  },
+  {
+   "from": "048",
+   "image": "ep07_the_stumbling_block/close_card.jpg",
+   "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
+   "prompt": "Closing card over dawn in the valley between the two mountains: For we walk by faith, not by sight, and the address blindnessinthebible.com.",
+   "description": "Closing card background only: dawn over the narrow valley between two broad mountains in the hill country, light mist in the valley, olive terraces, a wide clear sky, no people, no text, keep the upper half calm."
+  }
+ ]
+}

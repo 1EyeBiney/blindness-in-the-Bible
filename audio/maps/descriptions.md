@@ -76,3 +76,9 @@ Stand at Machaerus and face north; north is twelve o'clock. The places already v
 - Capernaum: about 4 days' walk, at 12 o'clock.
 - The mountain by the lake: about 3 and a half days' walk, at 12 o'clock.
 From Machaerus, Jerusalem is about a day's walk, at 10 o'clock.
+
+## ep07.png
+
+Episode 7, The stumbling block. The map highlights Jerusalem in gold. The Pool of Siloam is at the south end of the city; the Temple Mount at its east.
+A second gold mark is Shechem, about 1 and a half days' walk from Jerusalem, at 12 o'clock. Between Mount Gerizim to the south and Mount Ebal to the north, where the tribes stood to answer the blessings and curses (Deuteronomy 27).
+Jerusalem is the city itself.

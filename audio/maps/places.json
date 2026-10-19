@@ -273,6 +273,12 @@
         "capernaum",
         "mountain_decapolis"
       ]
+    },
+    "ep07": {
+      "title": "The stumbling block",
+      "focus": "jerusalem",
+      "focus2": "shechem",
+      "visited": []
     }
   }
 }
