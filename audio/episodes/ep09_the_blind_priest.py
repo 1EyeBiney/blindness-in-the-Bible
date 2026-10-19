@@ -128,11 +128,17 @@ def build(bible: dict) -> list[str]:
     add("[NARRATOR] (calm) A lamb without blemish or spot. The word that kept the blind priest from the altar is the "
         "word that describes the one who was offered on it.")
     add("[PAUSE 1.0]")
-    add("[NARRATOR] (calm) Two more words from the list. It opens with \"ih-vair\", blind, the same plain word as the "
-        "stumbling block law. And in verse twenty, the man with an eye defect has a \"teh-bal-lool\", which Strong's and the "
-        "encyclopedia both give as a cataract, a white spot in the eye. So the list reached past the man who could "
-        "not see at all, to the man whose sight was clouded. The spectrum of blindness, which the Bible rarely marks, "
-        "is marked here, in the one law that limits what a blind person may do.")
+    add("[NARRATOR] (calm) Two more words from that list are worth stopping on.")
+    add("[NARRATOR] (calm) The list opens with the word for blind: \"ih-vair.\" It is the plain, everyday word, the "
+        "same one we heard in the stumbling block law. It means a man who cannot see.")
+    add("[NARRATOR] (calm) Now look further down, to verse twenty, and the man who has an eye defect. The Hebrew there "
+        "is \"teh-bal-lool.\" Strong's dictionary and the 1915 encyclopedia both explain it as a cataract: a white "
+        "spot, a clouding in the eye. That man is not blind. He can see, but not clearly.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) So this one list names both: the man who cannot see at all, and the man whose sight is "
+        "clouded. That matters, because the Bible almost never draws that line. Nearly everywhere else, a person is "
+        "simply blind or not. Here, in the one law that limits what a blind person may do, the Law notices that "
+        "sight comes in degrees.")
     add("[BREAK]")
 
     # ---- The old books: the three questions -----------------------------------------------------------------
@@ -152,11 +158,19 @@ def build(bible: dict) -> list[str]:
         "priest from exactly the two places where the fire and the handling were: the veil and the altar. No source "
         "on the shelf says a word about accidental touching by a man who cannot see. That worry is Brian's, and it "
         "is a good one, but the text does not share it.")
-    add("[NARRATOR] (calm) Third: would one blind priest have burdened the rest? The numbers say no. The priests "
-        "served in twenty-four courses, each on duty one week in turn, and the lot decided who did what, not "
-        "anyone's choice. Zechariah, a man of at least sixty, had never before drawn the incense. Edersheim reckons "
-        "about fifty priests on duty each weekday. One blind man among fifty, in a course that came round twice a "
-        "year, kept from two tasks and welcome at the rest, would hardly have been noticed.")
+    add("[NARRATOR] (calm) Third: would one blind priest have been a burden on the rest? The numbers say no, and "
+        "here is why.")
+    add("[NARRATOR] (calm) The priests were divided into twenty-four groups, called courses. Each course served at "
+        "the Temple for one week, then went home while the others took their turns. So each course came round about "
+        "twice a year.")
+    add("[NARRATOR] (calm) When a course was on duty, about fifty priests served each day, by Edersheim's count. And "
+        "no one chose his own task. The jobs were handed out by lot, every morning. The greatest honour, burning the "
+        "incense, came so rarely that a man could do it only once in his life. Zechariah, the father of John the "
+        "Baptist, was at least sixty when his lot finally fell.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) Now put one blind priest in that picture. He is one man among fifty, there two weeks a "
+        "year. He is kept from just two places, the veil and the altar, and welcome everywhere else. In a system run "
+        "by lot, where most men waited a lifetime for the best task, he would hardly have been noticed.")
     add("[BREAK]")
 
     # ---- The old books: why the rule at all -----------------------------------------------------------------
@@ -169,14 +183,23 @@ def build(bible: dict) -> list[str]:
     add("[HENRY] (calm) But it was especially requisite that comely men should be chosen to minister about holy "
         "things, for the sake of the people, who were apt to judge according to outward appearance, and to think "
         "meanly of the service.")
-    add("[NARRATOR] (calm) For the sake of the people, who judge by appearance. Henry's reason, not Leviticus's. "
-        "Remember Absalom and the bride: \"moom\" is a word about how a thing looks. Josephus, in the first century, "
-        "says the same two things in one sentence.")
+    add("[NARRATOR] (calm) For the sake of the people, who judge by appearance. Notice that this is Henry's reason, "
+        "not the Bible's. Leviticus itself says only that the sanctuary is holy. Henry is guessing at why, and his "
+        "guess is about the crowd, not the priest.")
+    add("[NARRATOR] (calm) And his guess fits the word. Remember Absalom, without a single flaw, and the bride in whom "
+        "there was no flaw. \"Moom\" is a word about how a thing looks. Henry is saying the rule protected the "
+        "people from their own habit of judging by the eye.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) Josephus, writing in the first century, puts the law's two sides in a single sentence. The "
+        "blemished priest keeps his share, but he does not go up to the altar.")
     add("[BOOKS] (calm) He ordered that the priest who had any blemish, should have his portion indeed among the "
         "priests, but he forbade him to ascend the altar, or to enter into the holy house.")
-    add("[NARRATOR] (calm) The rule was still read literally a thousand years after Sinai. Josephus records that in "
-        "the first century before Christ, a king named Antigonus took his rival, the high priest Hyrcanus, and cut "
-        "off his ears, for one reason.")
+    add("[NARRATOR] (calm) The rule was still read literally a thousand years after Sinai.")
+    add("[NARRATOR] (calm) Josephus tells a story from about forty years before Christ. Two men of the same royal "
+        "family were fighting over Judea. One was Hyrcanus, an old man who had served as high priest. The other was "
+        "Antigonus, who came back into the land with a foreign army behind him and took Hyrcanus prisoner.")
+    add("[NARRATOR] (calm) But Antigonus had a fear. The people might rise up and make Hyrcanus their ruler again. So "
+        "he did something that only makes sense if everyone knew this law. Here is Josephus.")
     add("[BOOKS] (calm) He cut off his ears, and thereby took care that the high priesthood should never come to him "
         "any more, because he was maimed, while the law required that this dignity should belong to none but such "
         "as had all their members entire.")
