@@ -6,7 +6,9 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 1.0 s)*
 
-**Narrator** *(calm)* Take the word fit. A key fits a lock. A coat fits a man. A man is fit for a job, or he is not. A pilot whose eyes fail is unfit to fly, and nobody hears that and thinks the pilot is unfit to live. The word measures a thing against a task. It never measures the thing against itself.
+**Narrator** *(calm)* Take the word fit. A key fits a lock. A coat fits a man. A man is fit for a job, or he is not. A pilot whose eyes fail is unfit to fly, and nobody hears that and thinks the pilot is unfit to live.
+
+**Narrator** *(calm)* That is because fit always asks a question with two parts: fit for what? A key that will not open this lock is not a bad key. It is the wrong key for this door. A pilot who can no longer fly is still the same man he was yesterday. He is still a husband, a father and a friend. Only the cockpit has changed its answer. When we say unfit, we are talking about the task. We are not passing judgment on the person.
 
 **Narrator** *(calm)* Every law in this series so far has turned on a word. This one turns on a word for a flaw, and on what a flaw disqualifies a man from. For three thousand years people have read it as a verdict on the man. The text reads it as a measure against one task. Those are not the same, and the difference is the whole of this episode.
 
