@@ -76,6 +76,8 @@ LAW_PAGES = [
                   "way. And it does not apply \"eye for eye\" to the master; instead the injured servant is set free. "
                   "Whether that was more or less protection than a slave had under neighboring law codes is a "
                   "question the reference shelf can help with, and the place-and-time section below takes it up.",
+        "listen": {"youtube": "GyuNAJZ8wgM", "mp3": "not_by_sight_08_the_servants_eye.mp3", "minutes": 20,
+                   "title": "Not By Sight, Episode 8: The Servant's Eye"},
         "brian": [
             "Reading this law, the first thing that struck me was the pairing of an eye with a tooth. I have lost two "
             "teeth since I lost my two eyes, and the adjustment was not remotely the same. Put plainly: a servant with "

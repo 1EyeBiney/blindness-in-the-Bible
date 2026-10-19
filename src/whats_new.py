@@ -13,6 +13,10 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-19", "Episode 8: The servant's eye",
+     "The second episode on the Law: the one law that puts a price on an eye, and pays it to the man who lost it. "
+     "It plays on the servant-blinded page, where Brian's closing thoughts on the shackles of blindness are now "
+     "added, and on the Episodes page.", "law/servant-blinded.html"),
     ("2026-10-19", "Episode 7: The stumbling block",
      "The first of four episodes on the Law. One sentence given at Sinai, a word Brian stopped at, and the Hebrew "
      "behind it followed through the Bible, with Matthew Henry, Josephus and the oldest law codes read in their own "

@@ -34,6 +34,10 @@ EPISODES = [
      "The first of four on the Law. One sentence given at Sinai: you must not curse the deaf or place a stumbling "
      "block before the blind. Brian read it and stopped at one word. Is the law about a trip, or a fall? The Hebrew "
      "word, and every other place the Bible uses it, gives the answer."),
+    (8, "The Servant's Eye", "Exodus 21", ["law/servant-blinded"],
+     "The second of four on the Law, and the only price the Bible ever puts on an eye. If a master blinds his "
+     "servant, the servant goes free; if he knocks out a tooth, the servant goes free. Why should an eye and a tooth "
+     "cost the same? Two Hebrew words, one for eye and one for free, and the laws of Babylon give the answer."),
 ]
 
 # The trailer: a short taste of the episodes, on the home page and at the top of the Episodes page.
