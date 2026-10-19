@@ -86,7 +86,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* ‘Cursed is he who withholds justice from the foreigner, the fatherless, or the widow.’ And let all the people say, ‘Amen!’
 
-**Narrator** *(calm)* Think about the sound of that. A valley with a mountain on either side, and on the slopes, a whole people. The Levites call out, and the answer comes back from both sides at once. Amen. Twelve times. And one of the twelve is for the man who lets a blind traveller wander off the road. Look at who his neighbours are in that list: the man who makes an idol in secret, the man who moves a boundary stone, the man who cheats the foreigner, the fatherless and the widow. Hidden wrongs, every one. Wrongs that no court would ever hear about.
+**Narrator** *(calm)* Think about the sound of that. A valley with a mountain on either side, and on the slopes, a whole people: six hundred thousand men by the census taken a few weeks before, with their families beside them. The Levites call out, and the answer comes back from both sides at once. Amen. Twelve times. And one of the twelve is for the man who lets a blind traveller wander off the road. Look at who his neighbours are in that list: the man who makes an idol in secret, the man who moves a boundary stone, the man who cheats the foreigner, the fatherless and the widow. Hidden wrongs, every one. Wrongs that no court would ever hear about.
 
 ---
 
@@ -128,15 +128,15 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* Now the old books. In these episodes they speak for themselves, in a voice of their own, and I will tell you who is speaking and when. First, Matthew Henry, a pastor writing in England in seventeen hundred and six, on this verse.
+**Narrator** *(calm)* Now the old books. In these episodes they speak for themselves, in voices of their own, and I will tell you who is speaking and when. First, Matthew Henry, a pastor writing in England in seventeen hundred and six, on this verse.
 
-**Books** *(calm)* The safety of the blind we must likewise be tender of, and not put a stumbling-block before them; for this is to add affliction to the afflicted, and to make God's providence a servant to our malice.
+**Henry** *(calm)* The safety of the blind we must likewise be tender of, and not put a stumbling-block before them; for this is to add affliction to the afflicted, and to make God's providence a servant to our malice.
 
-**Books** *(calm)* This prohibition implies a precept to help the blind, and remove stumbling-blocks out of their way.
+**Henry** *(calm)* This prohibition implies a precept to help the blind, and remove stumbling-blocks out of their way.
 
 **Narrator** *(calm)* And on the words, you shall fear your God, Henry gives the reason that still holds.
 
-**Books** *(calm)* Thou dost not fear the deaf and blind, they cannot right themselves; but remember it is the glory of God to help the helpless, and he will plead their cause.
+**Henry** *(calm)* Thou dost not fear the deaf and blind, they cannot right themselves; but remember it is the glory of God to help the helpless, and he will plead their cause.
 
 **Narrator** *(calm)* That is the heart of it. Both wrongs in this verse are wrongs the victim cannot catch. The deaf man does not hear the curse. The blind man does not see who moved the stone, or who stood and watched him take the wrong road. No witness is coming forward. So the law does not appeal to a court. It appeals to the one who saw.
 
@@ -150,9 +150,17 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* One honest counterweight, from Henry again. He reports that the Jewish commentators before him found the literal act unthinkable.
 
-**Books** *(calm)* The Jewish writers, thinking it impossible that any should be so barbarous as to put a stumbling-block in the way of the blind, understood it figuratively, that it forbids giving bad counsel to those that are simple and easily imposed upon.
+**Henry** *(calm)* The Jewish writers, thinking it impossible that any should be so barbarous as to put a stumbling-block in the way of the blind, understood it figuratively, that it forbids giving bad counsel to those that are simple and easily imposed upon.
 
-**Narrator** *(calm)* Both readings have been held for a very long time. A law is not proof that a thing was common. It is a sign that someone thought it worth forbidding, and here, worth a curse said aloud by a whole nation.
+**Narrator** *(calm)* Both readings have been held for a very long time, and they do not have to compete. The rabbis who read it as bad counsel did not deny the stone in the road. They thought no one would do it. Henry kept the stone, and he kept the warning about counsel too.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* Here is something worth holding on to as we go through these four laws. A law is not proof that a thing was common. Nobody passes a law against what nobody does, but nobody passes one against what everybody does, either. A law is a sign that someone thought a thing worth forbidding. Someone looked at what people might do to a blind man, and decided it needed to be written down.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* And here, more than written down. Spoken from a mountain, by the Levites, and answered by a whole nation. Amen. Of all the things Israel could have been asked to curse aloud on its first day in the land, this was one of the twelve.
 
 ---
 

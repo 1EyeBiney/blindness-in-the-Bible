@@ -55,7 +55,8 @@ def build(bible: dict) -> list[str]:
         "can see, and the only way to find out is to follow it: to go where else it is used, and listen to what it "
         "means there.")
     add("[PAUSE 1.0]")
-    add("[NARRATOR] (calm) That is what this series does. Four laws, and in each one a word that could mean more than "
+    add("[NARRATOR] (calm) That is what this series does. Four separate laws, and in each one a word that could mean more "
+        "than "
         "one thing. We will read the law, stop at the word, and follow it through the rest of the Bible until it "
         "settles. Then we will know what God said about the blind, because we will know what the words meant to the "
         "people who first heard them.")
@@ -106,7 +107,8 @@ def build(bible: dict) -> list[str]:
         "twelve curses, and the whole nation is to answer each one. The blind man is in the list.")
     ext(reader(bible, "Deuteronomy", 27, 11, 19))
     add("[NARRATOR] (calm) Think about the sound of that. A valley with a mountain on either side, and on the slopes, "
-        "a whole people. The Levites call out, and the answer comes back from both sides at once. Amen. Twelve times. "
+        "a whole people: six hundred thousand men by the census taken a few weeks before, with their families beside "
+        "them. The Levites call out, and the answer comes back from both sides at once. Amen. Twelve times. "
         "And one of the twelve is for the man who lets a blind traveller wander off the road. Look at who his "
         "neighbours are in that list: the man who makes an idol in secret, the man who moves a boundary stone, the "
         "man who cheats the foreigner, the fatherless and the widow. Hidden wrongs, every one. Wrongs that no court "
@@ -176,9 +178,18 @@ def build(bible: dict) -> list[str]:
     add("[HENRY] (calm) The Jewish writers, thinking it impossible that any should be so barbarous as to put a "
         "stumbling-block in the way of the blind, understood it figuratively, that it forbids giving bad counsel to "
         "those that are simple and easily imposed upon.")
-    add("[NARRATOR] (calm) Both readings have been held for a very long time. A law is not proof that a thing was "
-        "common. It is a sign that someone thought it worth forbidding, and here, worth a curse said aloud by a "
-        "whole nation.")
+    add("[NARRATOR] (calm) Both readings have been held for a very long time, and they do not have to compete. The "
+        "rabbis who read it as bad counsel did not deny the stone in the road. They thought no one would do it. Henry "
+        "kept the stone, and he kept the warning about counsel too.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) Here is something worth holding on to as we go through these four laws. A law is not proof "
+        "that a thing was common. Nobody passes a law against what nobody does, but nobody passes one against what "
+        "everybody does, either. A law is a sign that someone thought a thing worth forbidding. Someone looked at what "
+        "people might do to a blind man, and decided it needed to be written down.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) And here, more than written down. Spoken from a mountain, by the Levites, and answered by a "
+        "whole nation. Amen. Of all the things Israel could have been asked to curse aloud on its first day in the "
+        "land, this was one of the twelve.")
     add("[BREAK]")
 
     # ---- The other codes: Brian's first question ---------------------------------------------------------

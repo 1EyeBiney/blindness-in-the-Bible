@@ -30,7 +30,9 @@ LAW_PAGES = [
                   "Sinai. The verses around this one concern leaving gleanings for the poor, paying wages on time, "
                   "honest courts and loving your neighbor. Deuteronomy 27 belongs to a ceremony Moses commanded for "
                   "the day Israel crossed the Jordan: the tribes were to stand on two mountains while the Levites "
-                  "called out twelve curses and all the people answered Amen.",
+                  "called out twelve curses and all the people answered Amen. The census in Numbers 26, taken on the "
+                  "plains of Moab a few weeks earlier, counts 601,730 men of fighting age, besides the Levites, women "
+                  "and children; how that figure should be read is debated among scholars.",
         "says": "The first law pairs the deaf and the blind: you must not curse one or trip the other, and the reason "
                 "given is \"you shall fear your God.\" The second is a curse, spoken aloud by a whole nation, on "
                 "anyone who lets a blind man wander off the road.",
