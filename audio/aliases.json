@@ -11,5 +11,10 @@
   },
   "ep04_the_ones_who_followed_v2": {
     "034": "selected/ep03_bethsaida_v2/section_1/033_narrator.mp3"
+  },
+  "ep09_the_blind_priest_v2": {
+    "033": "renders/ep09_the_blind_priest_v2/section_1/033_books/033_books_fixed_end_1.mp3",
+    "035": "renders/ep09_the_blind_priest_v2/section_1/035_books/035_books_fixed_end_1.mp3",
+    "040": "renders/ep08_the_servants_eye_v2/section_1/047_narrator/047_narrator_take_1.mp3"
   }
 }

@@ -1,0 +1,286 @@
+{
+ "_comment": "Shot list for episode 9, third of four on the Law. 13 new paintings plus the title and close backgrounds (prompts below, generated in this order); reused: episode 7's camp, Henry and Josephus, episode 8's altar, the site's lamp at dawn, the scroll, Brian's Navy photograph and the cane and pew. No imagined scenes are spoken in this series.",
+ "style": "Painterly oil-sketch look, visible brushwork, warm natural light, the land and buildings of ancient Israel and its neighbours. No faces shown close up: people are seen from behind or at a distance. No text or lettering anywhere. No modern objects. Calm and hopeful, never frightening or graphic. 16:9.",
+ "shots": [
+  {
+   "from": "001",
+   "image": "ep09_the_blind_priest/01_key_and_lock.jpg",
+   "card": "Not By Sight",
+   "prompt": "A large hand-forged iron key turned in the lock of a heavy old wooden door, warm light on the grain.",
+   "description": "Close view of a heavy old wooden door with an iron lock plate, a large hand-forged iron key turned in the lock, warm side light on the grain of the wood, no people."
+  },
+  {
+   "from": "002",
+   "at_phrase": "That is because fit always asks a question with two parts",
+   "image": "ep09_the_blind_priest/01_key_and_lock.jpg",
+   "card": "Fit for what?",
+   "prompt": "",
+   "description": "The key in the lock."
+  },
+  {
+   "from": "003",
+   "image": "ep09_the_blind_priest/02_the_veil.jpg",
+   "card": "Leviticus 21:18",
+   "prompt": "Inside the Holy Place: the golden lampstand, the small altar of incense with a thread of smoke, and the great woven curtain behind it.",
+   "description": "Inside the Holy Place of the tabernacle, lit only by a seven-branched golden lampstand: a small golden altar of incense with a thread of smoke, and behind it a great woven curtain in blue, purple and scarlet hanging from gold-covered posts. No people."
+  },
+  {
+   "from": "005",
+   "at_phrase": "Here is Mister Scaredy Cat again.",
+   "image": "ep01_man_born_blind/00_brian_navy.png",
+   "card": "Mister Scaredy Cat",
+   "prompt": "",
+   "description": "A photograph treated to match the paintings: Brian as a young sailor in Navy whites, with Patti beside him. A small plate beneath him reads Mister Scaredy Cat."
+  },
+  {
+   "from": "006",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane leaning against a church pew. Brian speaks."
+  },
+  {
+   "from": "007",
+   "image": "ep09_the_blind_priest/02_the_veil.jpg",
+   "card": "Three questions",
+   "prompt": "",
+   "description": "The Holy Place, the lampstand and the curtain."
+  },
+  {
+   "from": "008",
+   "image": "ep09_the_blind_priest/title_card.jpg",
+   "card": "Not By Sight\nEpisode 9: The blind priest",
+   "prompt": "Title card over the tabernacle courtyard at dusk, the tent glowing with lamplight: Not By Sight, episode nine, the blind priest.",
+   "description": "Title card background only: the tabernacle courtyard at dusk seen from outside its linen curtain wall, the tent beyond glowing faintly with lamplight inside, a thin line of smoke from the altar, first stars, no people, no text, keep the lower third calm."
+  },
+  {
+   "from": "009",
+   "image": "ep07_the_stumbling_block/05_camp_at_sinai.jpg",
+   "card": "Where we are",
+   "prompt": "",
+   "description": "The camp of dark tents at the foot of the mountain."
+  },
+  {
+   "from": "010",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Leviticus 21:16-24",
+   "prompt": "",
+   "description": "The open scroll in warm light. The Scripture reader begins."
+  },
+  {
+   "from": "011",
+   "image": "ep08_the_servants_eye/10_the_altar.jpg",
+   "card": "The veil and the altar",
+   "prompt": "",
+   "description": "The bronze altar in the tabernacle courtyard, a priest in white linen far off beside it."
+  },
+  {
+   "from": "011",
+   "at_phrase": "But he may eat the most holy food",
+   "image": "ep09_the_blind_priest/03_the_priests_table.jpg",
+   "card": "He may eat the most holy food",
+   "prompt": "Priests in white linen share a meal of bread and meat by lamplight; one is guided to his place by another, a hand on his shoulder.",
+   "description": "Evening in a courtyard beside the tabernacle: a group of priests in white linen sit together on mats around a shared meal of bread and roasted meat, seen from behind and the side, lamplight. One of them is being guided to his place by another, a hand on his shoulder."
+  },
+  {
+   "from": "012",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Moom",
+   "prompt": "",
+   "description": "The open scroll."
+  },
+  {
+   "from": "013",
+   "image": "ep09_the_blind_priest/04_absalom.jpg",
+   "card": "Absalom",
+   "prompt": "A tall young man with a great mane of long hair, seen from behind, stands at the city gate while people turn to look at him.",
+   "description": "A tall young man with a great mane of long dark hair, seen from behind, stands at the gate of Jerusalem in morning light while people in the road turn to look at him. Fine robes, a royal bearing. His face is not shown."
+  },
+  {
+   "from": "014",
+   "image": "ep09_the_blind_priest/05_the_bride.jpg",
+   "card": "The Song of Solomon",
+   "prompt": "A walled garden in spring, almond and pomegranate in blossom; a young woman in a light veil walks away along the path, seen from behind.",
+   "description": "A walled garden in spring full of blossoming almond and pomegranate trees and lilies; a young woman in a light veil walks away along the path, seen from behind, sunlight through the branches. Tender and modest."
+  },
+  {
+   "from": "016",
+   "at_phrase": "And here is the thing to notice above all.",
+   "image": "ep09_the_blind_priest/06_the_lamb.jpg",
+   "card": "The very next chapter",
+   "prompt": "A single spotless white lamb standing in fresh straw in a small stone pen, morning light.",
+   "description": "A single spotless white lamb standing in fresh straw in a small stone pen, morning light, a shepherd's hand resting on the gate at the edge of the picture."
+  },
+  {
+   "from": "017",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Leviticus 22:20",
+   "prompt": "",
+   "description": "The open scroll."
+  },
+  {
+   "from": "018",
+   "image": "ep09_the_blind_priest/06_the_lamb.jpg",
+   "card": "The same measure",
+   "prompt": "",
+   "description": "The white lamb in its pen."
+  },
+  {
+   "from": "019",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "1 Peter 1:18-19",
+   "prompt": "",
+   "description": "The open scroll."
+  },
+  {
+   "from": "020",
+   "image": "ep09_the_blind_priest/06_the_lamb.jpg",
+   "card": "A lamb without blemish",
+   "prompt": "",
+   "description": "The white lamb."
+  },
+  {
+   "from": "021",
+   "at_phrase": "Now look further down, to verse twenty",
+   "image": "ep09_the_blind_priest/07_clouded_sight.jpg",
+   "card": "Ih-vair and teh-bal-lool",
+   "prompt": "Hill country at dawn seen through soft white mist, the near olive trees half clear and everything beyond dissolving into haze.",
+   "description": "Hill country at dawn seen through a soft white morning mist: the near olive trees half clear, everything beyond them dissolving into pale haze, a path running into the fog. No people. Gentle and quiet."
+  },
+  {
+   "from": "023",
+   "image": "ep09_the_blind_priest/08_priests_at_work.jpg",
+   "card": "What did a priest do?",
+   "prompt": "Priests in white linen at work around the bronze altar: carrying wood, laying pieces on the fire, pouring from a bowl.",
+   "description": "Priests in white linen at work around the great bronze altar in the tabernacle courtyard: one carries split wood, one lays pieces on the fire, one pours from a bowl, all seen from behind or at a distance, smoke and morning light."
+  },
+  {
+   "from": "023",
+   "at_phrase": "Second: would a blind priest touch",
+   "image": "ep09_the_blind_priest/09_the_kohathites.jpg",
+   "card": "The carriers",
+   "prompt": "Four men carry a chest covered entirely in blue cloth on two long poles across their shoulders, walking through the desert.",
+   "description": "Four men in plain tunics carry a chest covered entirely in a blue cloth on two long poles across their shoulders, walking through the desert with the camp moving around them, seen from behind and the side. Nothing of the chest is visible but its covering."
+  },
+  {
+   "from": "023",
+   "at_phrase": "Third: would one blind priest",
+   "image": "ep09_the_blind_priest/10_the_lot.jpg",
+   "card": "Twenty-four courses",
+   "prompt": "Dawn in a stone hall of the Temple: priests in white stand in a circle while one in the middle holds out his hand for the lot.",
+   "description": "Dawn in a stone hall of the Temple in Jerusalem: a group of priests in white stand in a circle, seen from behind and at a distance, while one in the middle holds out his hand for the lot. Torchlight and grey morning light."
+  },
+  {
+   "from": "023",
+   "at_phrase": "The greatest honour, burning the incense",
+   "image": "ep09_the_blind_priest/11_the_incense.jpg",
+   "card": "Once in a lifetime",
+   "prompt": "An old priest with white hair, seen from behind, stands alone before the golden altar of incense as the smoke rises.",
+   "description": "An old priest with white hair, seen from behind, stands alone before the small golden altar of incense in the Holy Place of the Temple, a cloud of fragrant smoke rising in the light of the golden lampstand, the great curtain beyond."
+  },
+  {
+   "from": "024",
+   "image": "ep09_the_blind_priest/10_the_lot.jpg",
+   "card": "One among fifty",
+   "prompt": "",
+   "description": "The priests gathered for the lot."
+  },
+  {
+   "from": "025",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "Matthew Henry, 1706",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "029",
+   "at_phrase": "And his guess fits the word.",
+   "image": "ep09_the_blind_priest/04_absalom.jpg",
+   "card": "Judged by appearance",
+   "prompt": "",
+   "description": "Absalom at the city gate, people turning to look."
+  },
+  {
+   "from": "030",
+   "image": "ep07_the_stumbling_block/11_josephus_in_rome.jpg",
+   "card": "Josephus",
+   "prompt": "",
+   "description": "A man writing on a scroll in a Roman house."
+  },
+  {
+   "from": "032",
+   "at_phrase": "Josephus tells a story",
+   "image": "ep09_the_blind_priest/12_hyrcanus_taken.jpg",
+   "card": "Hyrcanus",
+   "prompt": "An old man in rich robes, seen from behind, is led away between two soldiers toward a camp of foreign horsemen.",
+   "description": "An old man in rich dark robes, seen from behind, is led away between two soldiers toward a camp of foreign horsemen and tents on a plain, the walls of a city far behind. Somber evening light, not graphic."
+  },
+  {
+   "from": "034",
+   "image": "ep09_the_blind_priest/13_the_blessing.jpg",
+   "card": "The priestly blessing",
+   "prompt": "In a stone synagogue, a man in a prayer shawl stands at the front with both hands raised over the congregation, seen from behind.",
+   "description": "Inside an old stone synagogue, a man in a prayer shawl stands at the front with both hands raised toward the seated congregation, seen from behind, the people a soft blur beyond his hands. Warm window light."
+  },
+  {
+   "from": "036",
+   "image": "ep09_the_blind_priest/13_the_blessing.jpg",
+   "card": "So as not to attract attention",
+   "prompt": "",
+   "description": "The raised hands of the blessing."
+  },
+  {
+   "from": "037",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane and the pew. Brian's closing thoughts."
+  },
+  {
+   "from": "038",
+   "at_phrase": "We live on the far side of the cross.",
+   "image": "ep09_the_blind_priest/06_the_lamb.jpg",
+   "card": "The far side of the cross",
+   "prompt": "",
+   "description": "The white lamb."
+  },
+  {
+   "from": "038",
+   "at_phrase": "He stayed a priest, and he ate at the table.",
+   "image": "ep09_the_blind_priest/03_the_priests_table.jpg",
+   "card": "He ate at the table",
+   "prompt": "",
+   "description": "The priests sharing a meal, one guided to his place."
+  },
+  {
+   "from": "038",
+   "at_phrase": "What I can speak to is now.",
+   "image": "site_batch2/18_picture_front.jpg",
+   "card": "What I can speak to is now",
+   "prompt": "",
+   "description": "A single clay lamp burning on a window ledge, the first line of dawn beyond."
+  },
+  {
+   "from": "038",
+   "at_phrase": "The old rabbis",
+   "image": "ep09_the_blind_priest/13_the_blessing.jpg",
+   "card": "What the people are used to",
+   "prompt": "",
+   "description": "The raised hands of the blessing."
+  },
+  {
+   "from": "039",
+   "image": "ep08_the_servants_eye/10_the_altar.jpg",
+   "card": "Next time: the blind animal",
+   "prompt": "",
+   "description": "The bronze altar in the tabernacle courtyard."
+  },
+  {
+   "from": "040",
+   "image": "ep09_the_blind_priest/close_card.jpg",
+   "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
+   "prompt": "Closing card over the tabernacle courtyard at dawn: For we walk by faith, not by sight, and the address blindnessinthebible.com.",
+   "description": "Closing card background only: dawn over the tabernacle courtyard from a distance, the linen walls catching the first gold light, the desert and the mountain beyond, a wide clear sky, no people, no text, keep the upper half calm."
+  }
+ ]
+}
