@@ -32,6 +32,10 @@ CAPTION_CHARS = 84          # per caption line
 CAPTION_SECONDS = 6.0       # target length of one caption
 
 
+# Caption labels for speakers whose cast tag is not a plain name (Law series, 18 October 2026).
+LABELS = {"HENRY": "Matthew Henry", "BOOKS": "The old books"}
+
+
 def srt_time(t: float) -> str:
     ms = int(round(t * 1000))
     h, ms = divmod(ms, 3600000)
@@ -87,7 +91,7 @@ def captions(sections: list[dict], texts: dict[str, str], sent_times: dict | Non
         text = texts.get(s["id"], "")
         if not text:
             continue
-        label = "" if s["speaker"] == "NARRATOR" else f"[{s['speaker'].title()}] "
+        label = "" if s["speaker"] == "NARRATOR" else f"[{LABELS.get(s['speaker'], s['speaker'].title())}] "
         known = (sent_times or {}).get(s["id"])
         if known:
             sents = [k[0] for k in known]
@@ -103,7 +107,7 @@ def captions(sections: list[dict], texts: dict[str, str], sent_times: dict | Non
                 t = a
                 for x in parts:
                     d = (b - a) * len(x) / tot
-                    out.append((t, t + d - 0.05, "\n".join(textwrap.wrap(label + x, CAPTION_CHARS))))
+                    out.append((t, t + d - 0.05, "\n".join(textwrap.wrap(label + x, CAPTION_CHARS, break_on_hyphens=False))))
                     t += d
             continue
         pieces = re.split(r"(?<=[.!?;:])\s+", text)
@@ -113,7 +117,7 @@ def captions(sections: list[dict], texts: dict[str, str], sent_times: dict | Non
         t = s["start"]
         for ch in chunks:
             d = dur * len(ch.split()) / total_words
-            out.append((t, t + d - 0.05, "\n".join(textwrap.wrap(label + ch, CAPTION_CHARS))))
+            out.append((t, t + d - 0.05, "\n".join(textwrap.wrap(label + ch, CAPTION_CHARS, break_on_hyphens=False))))
             t += d
     return out
 
