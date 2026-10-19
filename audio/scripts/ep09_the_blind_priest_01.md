@@ -64,7 +64,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* Moses told this to Aaron and his sons and to all the Israelites.
 
-**Narrator** *(calm)* Hear what the passage is careful to say. He may not approach to offer the food of his God. He may not go near the veil or the altar. But he may eat the most holy food as well as the holy. He remains a priest and is fed as one. He does not perform the altar service. And the reason given is the holiness of the sanctuary, not the worth of the man. Many readers have still found it hard, and Brian's thoughts on it belong here more than anyone's. We will come to them.
+**Narrator** *(calm)* Hear what the passage is careful to say. He may not approach to offer the food of his God. He may not go near the veil or the altar. But he may eat the most holy food as well as the holy. He remains a priest and is fed as one. He does not perform the altar service. And the reason given is the holiness of the sanctuary, not the worth of the man. Many readers have still found it hard, and Brian's thoughts on it belong here as much as anyone's. We will come to them.
 
 ---
 

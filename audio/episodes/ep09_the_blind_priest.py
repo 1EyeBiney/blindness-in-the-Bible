@@ -103,7 +103,7 @@ def build(bible: dict) -> list[str]:
         "God. He may not go near the veil or the altar. But he may eat the most holy food as well as the holy. He "
         "remains a priest and is fed as one. He does not perform the altar service. And the reason given is the "
         "holiness of the sanctuary, not the worth of the man. Many readers have still found it hard, and Brian's "
-        "thoughts on it belong here more than anyone's. We will come to them.")
+        "thoughts on it belong here as much as anyone's. We will come to them.")
     add("[BREAK]")
 
     # ---- The word: \"moom\" ------------------------------------------------------------------------------------
