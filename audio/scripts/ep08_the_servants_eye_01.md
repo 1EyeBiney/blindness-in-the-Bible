@@ -82,7 +82,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* The second word is the word for free. Chophshi. Khof-shee. Strong's glosses it as exempt, from bondage, tax or care. And here is the thing. It is not a new word made for this law. It is the word used a few verses earlier in the same chapter, for the Hebrew servant who goes free in the seventh year.
+**Narrator** *(calm)* The second word is the word for free. Khof-shee. Strong's glosses it as exempt, from bondage, tax or care. And here is the thing. It is not a new word made for this law. It is the word used a few verses earlier in the same chapter, for the Hebrew servant who goes free in the seventh year.
 
 **Narrator** *(calm)* Exodus chapter 21, verse 2.
 
@@ -118,7 +118,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* Then he and his children are to be released, and he may return to his clan and to the property of his fathers.
 
-**Narrator** *(calm)* The word for liberty there is a third word, deror. Deh-rore. Not the servant's chophshi. And deror is the word in one more verse, the one Jesus stood up and read in the synagogue at Nazareth, which listeners to episode six will remember.
+**Narrator** *(calm)* The word for liberty there is a third word, Deh-rore. Not the servant's chophshi. And deror is the word in one more verse, the one Jesus stood up and read in the synagogue at Nazareth, which listeners to episode six will remember.
 
 **Narrator** *(calm)* Isaiah chapter 61, verse 1.
 
@@ -168,7 +168,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Brian** *(calm)* The second thing was the money. The tables from Babylon on this page put silver on an eye, less silver on a tooth, and for a servant's eye, a payment to the owner. How do you price reduced sight, or no sight at all? I would guess that some of these servants were left completely blind. Is that worth the price of freedom? The Law of Moses does not try to answer in silver. It names no sum. It gives the servant the one thing the master cannot keep back, which is himself.
 
-**Brian** *(calm)* Here is the other side of it, and I mean this. I have lived without light since 2014. My freedom, and above all my freedom to worship God in the way I choose, is worth more to me than my sight ever was. I have adapted, adjusted, and found God's purpose for me. In so many ways my blindness has been a gift from God, the third greatest after my salvation and my wife. It has brought us more blessings than I can list, and it has shaped my character to fit His purposes better than it did.
+**Brian** *(calm)* Here is the other side of it, and I mean this. I have lived without light since 2014. My freedom, and above all my freedom to worship God in the way I choose, is worth more to me than my sight ever was. I have adapted, adjusted, and found God's purpose for me. In so many ways my blindness has been a gift from God, the third greatest after my salvation and my wife. It has brought us more blessings than I can list, and it has shaped my character to better suit His purposes for me.
 
 **Brian** *(calm)* So I read this law two ways at once. Freedom is not a price for an eye, and the law does not pretend it is. But freedom is also not a small thing to hand a blind man, and I know that from the inside.
 
