@@ -128,7 +128,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* Now the old books. In these episodes they speak for themselves, in a voice of their own, and I will tell you who is speaking and when. First, Matthew Henry, a pastor writing in England in seventeen hundred and six, on this verse.
+**Narrator** *(calm)* Now the old books. In these episodes they speak for themselves, in voices of their own, and I will tell you who is speaking and when. First, Matthew Henry, a pastor writing in England in seventeen hundred and six, on this verse.
 
 **Henry** *(calm)* The safety of the blind we must likewise be tender of, and not put a stumbling-block before them; for this is to add affliction to the afflicted, and to make God's providence a servant to our malice.
 

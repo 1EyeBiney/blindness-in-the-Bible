@@ -145,7 +145,7 @@ def build(bible: dict) -> list[str]:
     add("[BREAK]")
 
     # ---- The old books ------------------------------------------------------------------------------------
-    add("[NARRATOR] (calm) Now the old books. In these episodes they speak for themselves, in a voice of their own, "
+    add("[NARRATOR] (calm) Now the old books. In these episodes they speak for themselves, in voices of their own, "
         "and I will tell you who is speaking and when. First, Matthew Henry, a pastor writing in England in "
         "seventeen hundred and six, on this verse.")
     add("[HENRY] (calm) The safety of the blind we must likewise be tender of, and not put a stumbling-block before "
