@@ -66,19 +66,19 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* Now the word. The Hebrew translated defect is mum. Say it: moom. Strong's gives it as a blemish, physically or morally. The 1915 encyclopedia says it names no particular disease but any disfiguring mark, even scratches and scars, and from there, any moral fault. Listen to where else the Bible uses it. Here is Absalom, David's son.
+**Narrator** *(calm)* Now the word. The Hebrew translated defect is "moom." Strong's gives it as a blemish, physically or morally. The 1915 encyclopedia says it names no particular disease but any disfiguring mark, even scratches and scars, and from there, any moral fault. Listen to where else the Bible uses it. Here is Absalom, David's son.
 
 **Narrator** *(calm)* 2 Samuel chapter 14, verse 25.
 
 > **Reader** *(plainly)* Now there was not a man in all Israel as handsome and highly praised as Absalom. From the sole of his foot to the top of his head, he did not have a single flaw.
 
-**Narrator** *(calm)* Not a single flaw. That is mum. And here is the bride in the Song of Solomon.
+**Narrator** *(calm)* Not a single flaw. That is "moom". And here is the bride in the Song of Solomon.
 
 **Narrator** *(calm)* Song of Solomon chapter 4, verse 7.
 
 > **Reader** *(plainly)* You are altogether beautiful, my darling; in you there is no flaw.
 
-**Narrator** *(calm)* No flaw. Mum again. So the word that keeps the blind priest from the altar is the word for what the most beautiful man and the most beloved woman in the Old Testament did not have. It is a word about appearance before it is a word about anything else. Hold that thought, because Henry will come back to it.
+**Narrator** *(calm)* No flaw. "Moom" again. So the word that keeps the blind priest from the altar is the word for what the most beautiful man and the most beloved woman in the Old Testament did not have. It is a word about appearance before it is a word about anything else. Hold that thought, because Henry will come back to it.
 
 **Narrator** *(calm)* And here is the thing to notice above all. It is the same word in the very next chapter, for the animal that may not be put on the altar.
 
@@ -86,7 +86,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* You must not present anything with a defect, because it will not be accepted on your behalf.
 
-**Narrator** *(calm)* The priest with a mum does not approach. The lamb with a mum is not accepted. The Law asked the same thing of the man who offered and of the thing he offered. And the encyclopedia follows the word all the way to its end, in the New Testament.
+**Narrator** *(calm)* The priest with a "moom" does not approach. The lamb with a "moom" is not accepted. The Law asked the same thing of the man who offered and of the thing he offered. And the encyclopedia follows the word all the way to its end, in the New Testament.
 
 **Narrator** *(calm)* 1 Peter chapter 1, verses 18 to 19.
 
@@ -98,7 +98,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 1.0 s)*
 
-**Narrator** *(calm)* Two more words from the list. It opens with ivver, blind, the same plain word as the stumbling block law. And in verse twenty, the man with an eye defect has a teballul, which Strong's and the encyclopedia both give as a cataract, a white spot in the eye. So the list reached past the man who could not see at all, to the man whose sight was clouded. The spectrum of blindness, which the Bible rarely marks, is marked here, in the one law that limits what a blind person may do.
+**Narrator** *(calm)* Two more words from the list. It opens with "ih-vair", blind, the same plain word as the stumbling block law. And in verse twenty, the man with an eye defect has a "teh-bal-lool", which Strong's and the encyclopedia both give as a cataract, a white spot in the eye. So the list reached past the man who could not see at all, to the man whose sight was clouded. The spectrum of blindness, which the Bible rarely marks, is marked here, in the one law that limits what a blind person may do.
 
 ---
 
@@ -118,7 +118,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Henry** *(calm)* But it was especially requisite that comely men should be chosen to minister about holy things, for the sake of the people, who were apt to judge according to outward appearance, and to think meanly of the service.
 
-**Narrator** *(calm)* For the sake of the people, who judge by appearance. Henry's reason, not Leviticus's. Remember Absalom and the bride: mum is a word about how a thing looks. Josephus, in the first century, says the same two things in one sentence.
+**Narrator** *(calm)* For the sake of the people, who judge by appearance. Henry's reason, not Leviticus's. Remember Absalom and the bride: "moom" is a word about how a thing looks. Josephus, in the first century, says the same two things in one sentence.
 
 **Books** *(calm)* He ordered that the priest who had any blemish, should have his portion indeed among the priests, but he forbade him to ascend the altar, or to enter into the holy house.
 
@@ -150,7 +150,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* Next time, the last of the four, and the one that is not about blind people at all: the blind animal and the altar. The same word, mum, a market in the Temple, a prophet's test, and a look back over everything the Law said about the blind.
+**Narrator** *(calm)* Next time, the last of the four, and the one that is not about blind people at all: the blind animal and the altar. The same word, "moom", a market in the Temple, a prophet's test, and a look back over everything the Law said about the blind.
 
 ---
 

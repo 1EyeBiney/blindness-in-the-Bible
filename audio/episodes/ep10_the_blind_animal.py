@@ -87,23 +87,23 @@ def build(bible: dict) -> list[str]:
         "the table. Remember that. Brian will come back to it.")
     add("[BREAK]")
 
-    # ---- The words: mum and tamim ---------------------------------------------------------------------------
+    # ---- The words: \"moom\" and \"tah-meem\" ---------------------------------------------------------------------------
     add("[NARRATOR] (calm) Now the words, and this law has two, a negative and a positive. The negative is one you "
-        "heard last time. The animal must not have a mum, a blemish. It is exactly the word of the blind priest. "
-        "The priest with a mum does not approach; the lamb with a mum is not accepted. The Law used the same "
+        "heard last time. The animal must not have a \"moom\", a blemish. It is exactly the word of the blind priest. "
+        "The priest with a \"moom\" does not approach; the lamb with a \"moom\" is not accepted. The Law used the same "
         "measure for the man and for the lamb, and in the end, as the encyclopedia notes, for Christ, the lamb "
         "without blemish.")
-    add("[NARRATOR] (calm) The positive word is tamim. Tah-meem. The animal must be tamim, which the Berean text "
+    add("[NARRATOR] (calm) The positive word is \"tah-meem.\" The animal must be \"tah-meem\", which the Berean text "
         "gives as unblemished and Strong's as entire, whole, complete. It is the Passover lamb's word.")
     ext(reader(bible, "Exodus", 12, 5, 5))
-    add("[NARRATOR] (calm) But here is what the dictionary cannot tell you and the Bible can. Tamim is a word used of "
+    add("[NARRATOR] (calm) But here is what the dictionary cannot tell you and the Bible can. \"Tah-meem\" is a word used of "
         "people far more often than of animals. Listen.")
     ext(reader(bible, "Deuteronomy", 18, 13, 13))
-    add("[NARRATOR] (beat) Blameless. Tamim.")
+    add("[NARRATOR] (beat) Blameless. \"Tah-meem\".")
     ext(reader(bible, "Psalm", 15, 2, 2))
-    add("[NARRATOR] (beat) With integrity. Tamim.")
+    add("[NARRATOR] (beat) With integrity. \"Tah-meem\".")
     add("[NARRATOR] (calm) So the thing the altar asked of a lamb is the thing God asks of a person's walk. Whole. "
-        "And in neither case does it have anything to do with eyes. A blind man can walk tamim. That is the whole "
+        "And in neither case does it have anything to do with eyes. A blind man can walk \"tah-meem\". That is the whole "
         "of the Law's answer to the word defect, and it is the beginning of the answer to Brian's word, broken.")
     add("[BREAK]")
 
@@ -158,19 +158,19 @@ def build(bible: dict) -> list[str]:
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[2]}")
     add("[BREAK]")
 
-    # ---- The frame closes: yare, and the look back ---------------------------------------------------------
+    # ---- The frame closes: \"yah-ray\", and the look back ---------------------------------------------------------
     add("[NARRATOR] (calm) One last word, and it is the one we planted in the first episode. Malachi ends his charge "
-        "with, My name is to be feared among the nations. That is yare. Yah-ray. To fear, or to revere. It is the "
+        "with, My name is to be feared among the nations. That is \"yah-ray.\" To fear, or to revere. It is the "
         "word of the stumbling block law: you shall fear your God. The first law about the blind and the last both "
         "rest on it. And look at why. Nobody would see the stone placed in the road. Nobody at the altar could tell, "
         "once the animal was offered, whether a better one had been kept back at home. Both laws were written for "
         "the wrong that no one catches, and both give the same reason to keep them. God saw.")
     add("[PAUSE 1.0]")
-    add("[NARRATOR] (calm) Look back over the four. Mikshol, the stumbling block: a word about the fall, not the trip, "
-        "and a law written for the people who do not catch themselves. Ayin and chophshi, the eye and the freedom: "
+    add("[NARRATOR] (calm) Look back over the four. \"Mik-shole\", the stumbling block: a word about the fall, not the trip, "
+        "and a law written for the people who do not catch themselves. \"Ah-yin\" and \"khof-shee\", the eye and the freedom: "
         "the one price the Law ever put on an eye, and it was paid to the man who lost it, in the coin of the "
-        "seventh year. Mum and tamim, the blemish and the whole: one measure for the priest and the lamb, and a word "
-        "for wholeness that a blind man can walk in as well as anyone. And yare, the fear of God, at the beginning "
+        "seventh year. \"Moom\" and \"tah-meem\", the blemish and the whole: one measure for the priest and the lamb, and a word "
+        "for wholeness that a blind man can walk in as well as anyone. And \"yah-ray\", the fear of God, at the beginning "
         "and the end.")
     add("[NARRATOR] (calm) Four laws. Not one of them calls a blind person broken. One protects him by name. One "
         "frees him. One keeps him in the priesthood and at the table. And one, about lambs, says that God is given "

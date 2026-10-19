@@ -62,7 +62,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* Now the words. There are two in these verses worth following, and a third that the Law adds from elsewhere. The first is the word for eye: ayin. Ah-yin. Strong's dictionary gives it as an eye, and then adds something easy to miss in English. By analogy, it says, a fountain. The eye of the landscape. The same word is a spring of water. The 1915 encyclopedia calls the eye the lamp of the body, and then says this:
+**Narrator** *(calm)* Now the words. There are two in these verses worth following, and a third that the Law adds from elsewhere. The first is the word for eye: "ah-yin." Strong's dictionary gives it as an eye, and then adds something easy to miss in English. By analogy, it says, a fountain. The eye of the landscape. The same word is a spring of water. The 1915 encyclopedia calls the eye the lamp of the body, and then says this:
 
 **Books** *(calm)* A cruel custom therefore sanctioned among heathen nations the putting out of the eyes of an enemy or a rival, because thus his power was most effectually shattered.
 
@@ -82,7 +82,17 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* The second word is the word for free. Khof-shee. Strong's glosses it as exempt, from bondage, tax or care. And here is the thing. It is not a new word made for this law. It is the word used a few verses earlier in the same chapter, for the Hebrew servant who goes free in the seventh year.
+**Narrator** *(calm)* The second word is the word for free: "khof-shee."
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* At the start of this episode we heard that free can mean two things: free as in no charge, and free as in no chains. "Khof-shee" holds both. Strong's dictionary gives it as exempt: from bondage, from tax, or from care. A man who is "khof-shee" owes nothing more, and belongs to no one.
+
+**Narrator** *(calm)* Hear the servant's law again with that in mind. He must let the servant go free as compensation for the eye. The master does not hand him money for the eye. He pays with the man himself. Whatever time the servant still owed is cancelled, and he walks out owing nothing.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* And here is the thing. This is not a new word, made up for this one law. If you were reading the chapter from the top, you have already met it. A few verses earlier, in the same chapter, the same word is used for the Hebrew servant who goes free in the seventh year. Before the chapter says anything about eyes and teeth, it has already taught us what "khof-shee" means.
 
 **Narrator** *(calm)* Exodus chapter 21, verse 2.
 
@@ -100,7 +110,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* Remember that you were slaves in the land of Egypt, and the LORD your God redeemed you; that is why I am giving you this command today.
 
-**Narrator** *(calm)* Remember that you were slaves in Egypt. That is the reason the Law gives for freeing a servant at all. So when the law of the blinded servant says he goes free, chophshi, it is not inventing a new kind of release. It is giving him the release the Law already knew, the seventh-year freedom, at once. An eye bought what six years of service bought. A tooth bought it too.
+**Narrator** *(calm)* Remember that you were slaves in Egypt. That is the reason the Law gives for freeing a servant at all. So when the law of the blinded servant says he goes free, "khof-shee", it is not inventing a new kind of release. It is giving him the release the Law already knew, the seventh-year freedom, at once. An eye bought what six years of service bought. A tooth bought it too.
 
 *(pause 1.0 s)*
 
@@ -118,13 +128,17 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* Then he and his children are to be released, and he may return to his clan and to the property of his fathers.
 
-**Narrator** *(calm)* The word for liberty there is a third word, Deh-rore. Not the servant's chophshi. And deror is the word in one more verse, the one Jesus stood up and read in the synagogue at Nazareth, which listeners to episode six will remember.
+**Narrator** *(calm)* The word for liberty there is a third word: "deh-rore." It is not the servant's word, "khof-shee." It is a different word, and it turns up in one more place.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* If you heard episode six, you have heard this verse before. Jesus stood up in the synagogue at Nazareth, in His home town. He was handed the scroll of Isaiah. And this is the passage He found and read aloud.
 
 **Narrator** *(calm)* Isaiah chapter 61, verse 1.
 
 > **Reader** *(plainly)* The Spirit of the Lord GOD is on Me, because the LORD has anointed Me to preach good news to the poor. He has sent Me to bind up the brokenhearted, to proclaim liberty to the captives and freedom to the prisoners,
 
-**Narrator** *(calm)* To proclaim liberty to the captives. Deror. The Jubilee's word. The blinded servant's release did not wait for the seventh year or the fiftieth. It came that day.
+**Narrator** *(calm)* To proclaim liberty to the captives. "Deh-rore". The Jubilee's word. The blinded servant's release did not wait for the seventh year or the fiftieth. It came that day.
 
 ---
 
@@ -166,11 +180,15 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Brian** *(calm)* Reading this law, the first thing that struck me was the pairing of an eye with a tooth. I have lost two teeth since I lost my two eyes, and the adjustment was not remotely the same. Put plainly: a servant with a loose tooth could be struck once and walk out free, and the law sets that beside a man who will never see again. It seemed unbalanced. Then I read it as the old commentators did. The tooth is not there because it equals an eye. It is there because it is the smallest lasting harm anyone would bother to name. If even that freed a servant, then nothing a master could do to a servant's body was free of cost. The eye was never in question.
 
-**Brian** *(calm)* The second thing was the money. The tables from Babylon on this page put silver on an eye, less silver on a tooth, and for a servant's eye, a payment to the owner. How do you price reduced sight, or no sight at all? I would guess that some of these servants were left completely blind. Is that worth the price of freedom? The Law of Moses does not try to answer in silver. It names no sum. It gives the servant the one thing the master cannot keep back, which is himself.
+**Brian** *(calm)* The second thing was the money. The tables from Babylon we just heard put silver on an eye, less silver on a tooth, and for a servant's eye, a payment to the owner. How do you price reduced sight, or no sight at all? I would guess that some of these servants were left completely blind. Is that worth the price of freedom? The Law of Moses does not try to answer in silver. It names no sum. It gives the servant the one thing the master cannot keep back, which is himself.
 
-**Brian** *(calm)* Here is the other side of it, and I mean this. I have lived without light since 2014. My freedom, and above all my freedom to worship God in the way I choose, is worth more to me than my sight ever was. I have adapted, adjusted, and found God's purpose for me. In so many ways my blindness has been a gift from God, the third greatest after my salvation and my wife. It has brought us more blessings than I can list, and it has shaped my character to better suit His purposes for me.
+**Brian** *(calm)* Here is the other side of it, and I mean this. I have lived without light since 2014. My freedom, and above all my freedom to worship God in the way I choose, is worth more to me than my sight ever was. I have adapted, adjusted, and found God's purpose for me. In so many ways my blindness has been a gift from God, the third greatest after my salvation and my wife. It has brought us more blessings than I can list, and it has shaped my character to fit His purposes better than it did.
 
-**Brian** *(calm)* So I read this law two ways at once. Freedom is not a price for an eye, and the law does not pretend it is. But freedom is also not a small thing to hand a blind man, and I know that from the inside.
+**Brian** *(calm)* So I read this law two ways at once. Freedom is not a price for an eye, and the law does not pretend it is. But freedom is not a small thing to hand a blind man, either.
+
+**Brian** *(calm)* I have never been a slave, and most blind people I know never will be. But most of us have felt the shackles of blindness all the same. In the early days it is a kind of prison. There are rooms you cannot cross without help, and a world that stops where your hands can reach. Other people decide where you go and when. I felt those bindings. So when this law hands a blinded servant his freedom, I do not need to have been a servant to understand what he was given. I understand freedom, because I know what it is to lose it, and to be given it back.
+
+**Brian** *(calm)* That is how the gift I spoke of came to me. It did not come all at once, and it did not come by getting my sight back. It came by being set free inside the dark. The servant in this law walked out the door the day he lost his eye. It took me longer. But I walked out too.
 
 ---
 

@@ -102,30 +102,30 @@ def build(bible: dict) -> list[str]:
         "thoughts on it belong here more than anyone's. We will come to them.")
     add("[BREAK]")
 
-    # ---- The word: mum ------------------------------------------------------------------------------------
-    add("[NARRATOR] (calm) Now the word. The Hebrew translated defect is mum. Say it: moom. Strong's gives it as a "
+    # ---- The word: \"moom\" ------------------------------------------------------------------------------------
+    add("[NARRATOR] (calm) Now the word. The Hebrew translated defect is \"moom.\" Strong's gives it as a "
         "blemish, physically or morally. The 1915 encyclopedia says it names no particular disease but any "
         "disfiguring mark, even scratches and scars, and from there, any moral fault. Listen to where else the "
         "Bible uses it. Here is Absalom, David's son.")
     ext(reader(bible, "2 Samuel", 14, 25, 25))
-    add("[NARRATOR] (calm) Not a single flaw. That is mum. And here is the bride in the Song of Solomon.")
+    add("[NARRATOR] (calm) Not a single flaw. That is \"moom\". And here is the bride in the Song of Solomon.")
     ext(reader(bible, "Song of Solomon", 4, 7, 7))
-    add("[NARRATOR] (calm) No flaw. Mum again. So the word that keeps the blind priest from the altar is the word "
+    add("[NARRATOR] (calm) No flaw. \"Moom\" again. So the word that keeps the blind priest from the altar is the word "
         "for what the most beautiful man and the most beloved woman in the Old Testament did not have. It is a word "
         "about appearance before it is a word about anything else. Hold that thought, because Henry will come back "
         "to it.")
     add("[NARRATOR] (calm) And here is the thing to notice above all. It is the same word in the very next chapter, "
         "for the animal that may not be put on the altar.")
     ext(reader(bible, "Leviticus", 22, 20, 20))
-    add("[NARRATOR] (calm) The priest with a mum does not approach. The lamb with a mum is not accepted. The Law "
+    add("[NARRATOR] (calm) The priest with a \"moom\" does not approach. The lamb with a \"moom\" is not accepted. The Law "
         "asked the same thing of the man who offered and of the thing he offered. And the encyclopedia follows the "
         "word all the way to its end, in the New Testament.")
     ext(reader(bible, "1 Peter", 1, 18, 19))
     add("[NARRATOR] (calm) A lamb without blemish or spot. The word that kept the blind priest from the altar is the "
         "word that describes the one who was offered on it.")
     add("[PAUSE 1.0]")
-    add("[NARRATOR] (calm) Two more words from the list. It opens with ivver, blind, the same plain word as the "
-        "stumbling block law. And in verse twenty, the man with an eye defect has a teballul, which Strong's and the "
+    add("[NARRATOR] (calm) Two more words from the list. It opens with \"ih-vair\", blind, the same plain word as the "
+        "stumbling block law. And in verse twenty, the man with an eye defect has a \"teh-bal-lool\", which Strong's and the "
         "encyclopedia both give as a cataract, a white spot in the eye. So the list reached past the man who could "
         "not see at all, to the man whose sight was clouded. The spectrum of blindness, which the Bible rarely marks, "
         "is marked here, in the one law that limits what a blind person may do.")
@@ -166,7 +166,7 @@ def build(bible: dict) -> list[str]:
         "things, for the sake of the people, who were apt to judge according to outward appearance, and to think "
         "meanly of the service.")
     add("[NARRATOR] (calm) For the sake of the people, who judge by appearance. Henry's reason, not Leviticus's. "
-        "Remember Absalom and the bride: mum is a word about how a thing looks. Josephus, in the first century, "
+        "Remember Absalom and the bride: \"moom\" is a word about how a thing looks. Josephus, in the first century, "
         "says the same two things in one sentence.")
     add("[BOOKS] (calm) He ordered that the priest who had any blemish, should have his portion indeed among the "
         "priests, but he forbade him to ascend the altar, or to enter into the holy house.")
@@ -200,7 +200,7 @@ def build(bible: dict) -> list[str]:
 
     # ---- Close --------------------------------------------------------------------------------------------
     add("[NARRATOR] (calm) Next time, the last of the four, and the one that is not about blind people at all: the "
-        "blind animal and the altar. The same word, mum, a market in the Temple, a prophet's test, and a look back "
+        "blind animal and the altar. The same word, \"moom\", a market in the Temple, a prophet's test, and a look back "
         "over everything the Law said about the blind.")
     add("[BREAK]")
     add(f"[NARRATOR] (calm) {CLOSE}")

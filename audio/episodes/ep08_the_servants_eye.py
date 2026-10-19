@@ -21,7 +21,7 @@ DRAFT_BRIAN = [
     "seemed unbalanced. Then I read it as the old commentators did. The tooth is not there because it equals an eye. "
     "It is there because it is the smallest lasting harm anyone would bother to name. If even that freed a servant, "
     "then nothing a master could do to a servant's body was free of cost. The eye was never in question.",
-    "The second thing was the money. The tables from Babylon on this page put silver on an eye, less silver on a "
+    "The second thing was the money. The tables from Babylon we just heard put silver on an eye, less silver on a "
     "tooth, and for a servant's eye, a payment to the owner. How do you price reduced sight, or no sight at all? I "
     "would guess that some of these servants were left completely blind. Is that worth the price of freedom? The Law "
     "of Moses does not try to answer in silver. It names no sum. It gives the servant the one thing the master cannot "
@@ -32,9 +32,20 @@ DRAFT_BRIAN = [
     "greatest after my salvation and my wife. It has brought us more blessings than I can list, and it has shaped my "
     "character to fit His purposes better than it did.",
     "So I read this law two ways at once. Freedom is not a price for an eye, and the law does not pretend it is. But "
-    "freedom is also not a small thing to hand a blind man, and I know that from the inside.",
+    "freedom is not a small thing to hand a blind man, either.",
+    # Brian, 19 October 2026: "Most of us that are blind have felt the shackles and bindings of our blind prison,
+    # even if we will never know slavery, we understand freedom." Written up from that and approved by him.
+    "I have never been a slave, and most blind people I know never will be. But most of us have felt the shackles of "
+    "blindness all the same. In the early days it is a kind of prison. There are rooms you cannot cross without "
+    "help, and a world that stops where your hands can reach. Other people decide where you go and when. I felt "
+    "those bindings. So when this law hands a blinded servant his freedom, I do not need to have been a servant to "
+    "understand what he was given. I understand freedom, because I know what it is to lose it, and to be given it "
+    "back.",
+    "That is how the gift I spoke of came to me. It did not come all at once, and it did not come by getting my sight "
+    "back. It came by being set free inside the dark. The servant in this law walked out the door the day he lost "
+    "his eye. It took me longer. But I walked out too.",
 ]
-APPROVED = {0, 1, 2, 3}
+APPROVED = {0, 1, 2, 3, 4, 5}
 
 
 def build(bible: dict) -> list[str]:
@@ -90,9 +101,9 @@ def build(bible: dict) -> list[str]:
         "servant had in the lands around Israel is a question the old books can answer, and we will get to it.")
     add("[BREAK]")
 
-    # ---- The word: ayin -------------------------------------------------------------------------------------
+    # ---- The word: \"ah-yin\" -------------------------------------------------------------------------------------
     add("[NARRATOR] (calm) Now the words. There are two in these verses worth following, and a third that the Law "
-        "adds from elsewhere. The first is the word for eye: ayin. Ah-yin. Strong's dictionary gives it as an eye, "
+        "adds from elsewhere. The first is the word for eye: \"ah-yin.\" Strong's dictionary gives it as an eye, "
         "and then adds something easy to miss in English. By analogy, it says, a fountain. The eye of the landscape. "
         "The same word is a spring of water. The 1915 encyclopedia calls the eye the lamp of the body, and then says "
         "this:")
@@ -108,15 +119,25 @@ def build(bible: dict) -> list[str]:
         "the Law of Moses puts a price on an eye, and the price is paid to the man who lost it.")
     add("[BREAK]")
 
-    # ---- The word: chophshi ---------------------------------------------------------------------------------
-    add("[NARRATOR] (calm) The second word is the word for free. Chophshi. Khof-shee. Strong's glosses it as exempt, "
-        "from bondage, tax or care. And here is the thing. It is not a new word made for this law. It is the word "
-        "used a few verses earlier in the same chapter, for the Hebrew servant who goes free in the seventh year.")
+    # ---- The word: \"khof-shee\" ---------------------------------------------------------------------------------
+    add("[NARRATOR] (calm) The second word is the word for free: \"khof-shee.\"")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) At the start of this episode we heard that free can mean two things: free as in no charge, "
+        "and free as in no chains. \"Khof-shee\" holds both. Strong's dictionary gives it as exempt: from bondage, "
+        "from tax, or from care. A man who is \"khof-shee\" owes nothing more, and belongs to no one.")
+    add("[NARRATOR] (calm) Hear the servant's law again with that in mind. He must let the servant go free as "
+        "compensation for the eye. The master does not hand him money for the eye. He pays with the man himself. "
+        "Whatever time the servant still owed is cancelled, and he walks out owing nothing.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) And here is the thing. This is not a new word, made up for this one law. If you were "
+        "reading the chapter from the top, you have already met it. A few verses earlier, in the same chapter, the "
+        "same word is used for the Hebrew servant who goes free in the seventh year. Before the chapter says "
+        "anything about eyes and teeth, it has already taught us what \"khof-shee\" means.")
     ext(reader(bible, "Exodus", 21, 2, 2))
     add("[NARRATOR] (calm) Deuteronomy repeats the seventh-year rule forty years later, and adds something.")
     ext(reader(bible, "Deuteronomy", 15, 12, 15))
     add("[NARRATOR] (calm) Remember that you were slaves in Egypt. That is the reason the Law gives for freeing a "
-        "servant at all. So when the law of the blinded servant says he goes free, chophshi, it is not inventing a "
+        "servant at all. So when the law of the blinded servant says he goes free, \"khof-shee\", it is not inventing a "
         "new kind of release. It is giving him the release the Law already knew, the seventh-year freedom, at "
         "once. An eye bought what six years of service bought. A tooth bought it too.")
     add("[PAUSE 1.0]")
@@ -124,11 +145,14 @@ def build(bible: dict) -> list[str]:
         "the seventh year, and he was right. Every fiftieth year was the Jubilee.")
     ext(reader(bible, "Leviticus", 25, 10, 10))
     ext(reader(bible, "Leviticus", 25, 39, 41, lead="And for the man who had sold himself: "))
-    add("[NARRATOR] (calm) The word for liberty there is a third word, deror. Deh-rore. Not the servant's chophshi. "
-        "And deror is the word in one more verse, the one Jesus stood up and read in the synagogue at Nazareth, "
-        "which listeners to episode six will remember.")
+    add("[NARRATOR] (calm) The word for liberty there is a third word: \"deh-rore.\" It is not the servant's word, "
+        "\"khof-shee.\" It is a different word, and it turns up in one more place.")
+    add("[PAUSE 1.0]")
+    add("[NARRATOR] (calm) If you heard episode six, you have heard this verse before. Jesus stood up in the "
+        "synagogue at Nazareth, in His home town. He was handed the scroll of Isaiah. And this is the passage He "
+        "found and read aloud.")
     ext(reader(bible, "Isaiah", 61, 1, 1))
-    add("[NARRATOR] (calm) To proclaim liberty to the captives. Deror. The Jubilee's word. The blinded servant's "
+    add("[NARRATOR] (calm) To proclaim liberty to the captives. \"Deh-rore\". The Jubilee's word. The blinded servant's "
         "release did not wait for the seventh year or the fiftieth. It came that day.")
     add("[BREAK]")
 
@@ -182,6 +206,8 @@ def build(bible: dict) -> list[str]:
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[1]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[2]}")
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[3]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[4]}")
+    add(f"[BRIAN] (calm) {DRAFT_BRIAN[5]}")
     add("[BREAK]")
 
     # ---- Close --------------------------------------------------------------------------------------------
