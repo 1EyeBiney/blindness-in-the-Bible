@@ -1,0 +1,35 @@
+@project: audition3
+@section: 1
+@cast: casts/audition3.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Third audition: candidates for BOOKS, each reading Henry and then Josephus.
+
+# GEORGE: British, warm storyteller; the bookish sound, distinct from Nathan and Bill
+[BOOKS_GEORGE] (calm) The safety of the blind we must likewise be tender of, and not put a stumbling-block before them; for this is to add affliction to the afflicted, and to make God's providence a servant to our malice.
+[BOOKS_GEORGE] (calm) It is also a duty to show the roads to those who do not know them, and not to esteem it a matter for sport, when we hinder others' advantages, by setting them in a wrong way. In like manner, let no one revile a person blind or dumb.
+
+# ARTHUR: American audiobook narrator, clear and even
+[BOOKS_ARTHUR] (calm) The safety of the blind we must likewise be tender of, and not put a stumbling-block before them; for this is to add affliction to the afflicted, and to make God's providence a servant to our malice.
+[BOOKS_ARTHUR] (calm) It is also a duty to show the roads to those who do not know them, and not to esteem it a matter for sport, when we hinder others' advantages, by setting them in a wrong way. In like manner, let no one revile a person blind or dumb.
+
+# JOHNDOE: American, deep and slow; the old-book weight
+[BOOKS_JOHNDOE] (calm) The safety of the blind we must likewise be tender of, and not put a stumbling-block before them; for this is to add affliction to the afflicted, and to make God's providence a servant to our malice.
+[BOOKS_JOHNDOE] (calm) It is also a duty to show the roads to those who do not know them, and not to esteem it a matter for sport, when we hinder others' advantages, by setting them in a wrong way. In like manner, let no one revile a person blind or dumb.
+
+# ERIC: American, smooth and plain; the lightest of the men
+[BOOKS_ERIC] (calm) The safety of the blind we must likewise be tender of, and not put a stumbling-block before them; for this is to add affliction to the afflicted, and to make God's providence a servant to our malice.
+[BOOKS_ERIC] (calm) It is also a duty to show the roads to those who do not know them, and not to esteem it a matter for sport, when we hinder others' advantages, by setting them in a wrong way. In like manner, let no one revile a person blind or dumb.
+
+# MIHAI: Romanian-accented English, rich and warm; a voice from somewhere else
+[BOOKS_MIHAI] (calm) The safety of the blind we must likewise be tender of, and not put a stumbling-block before them; for this is to add affliction to the afflicted, and to make God's providence a servant to our malice.
+[BOOKS_MIHAI] (calm) It is also a duty to show the roads to those who do not know them, and not to esteem it a matter for sport, when we hinder others' advantages, by setting them in a wrong way. In like manner, let no one revile a person blind or dumb.
+
+# ALICE: British woman, clear educator; the only way to make BOOKS unmistakable among three men
+[BOOKS_ALICE] (calm) The safety of the blind we must likewise be tender of, and not put a stumbling-block before them; for this is to add affliction to the afflicted, and to make God's providence a servant to our malice.
+[BOOKS_ALICE] (calm) It is also a duty to show the roads to those who do not know them, and not to esteem it a matter for sport, when we hinder others' advantages, by setting them in a wrong way. In like manner, let no one revile a person blind or dumb.
+
+# LILY: British woman, lower and softer than Alice
+[BOOKS_LILY] (calm) The safety of the blind we must likewise be tender of, and not put a stumbling-block before them; for this is to add affliction to the afflicted, and to make God's providence a servant to our malice.
+[BOOKS_LILY] (calm) It is also a duty to show the roads to those who do not know them, and not to esteem it a matter for sport, when we hinder others' advantages, by setting them in a wrong way. In like manner, let no one revile a person blind or dumb.

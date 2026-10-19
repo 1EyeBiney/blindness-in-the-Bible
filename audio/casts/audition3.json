@@ -1,0 +1,50 @@
+{
+  "cast_name": "audition3",
+  "defaults": {
+    "model": "eleven_v3",
+    "stability": 0.7,
+    "similarity_boost": 0.75,
+    "style": 0.0,
+    "speed": 1.0,
+    "use_speaker_boost": true,
+    "output_format": "mp3_44100_192",
+    "takes": 1
+  },
+  "characters": {
+    "BOOKS_GEORGE": {
+      "name": "Books candidate George",
+      "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+      "description": "Audition for the old-books reader. British, warm storyteller; the bookish sound, distinct from Nathan and Bill."
+    },
+    "BOOKS_ARTHUR": {
+      "name": "Books candidate Arthur",
+      "voice_id": "C1npRmjB19a6yNkEucvx",
+      "description": "Audition for the old-books reader. American audiobook narrator, clear and even."
+    },
+    "BOOKS_JOHNDOE": {
+      "name": "Books candidate Johndoe",
+      "voice_id": "EiNlNiXeDU1pqqOPrYMO",
+      "description": "Audition for the old-books reader. American, deep and slow; the old-book weight."
+    },
+    "BOOKS_ERIC": {
+      "name": "Books candidate Eric",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "description": "Audition for the old-books reader. American, smooth and plain; the lightest of the men."
+    },
+    "BOOKS_MIHAI": {
+      "name": "Books candidate Mihai",
+      "voice_id": "8WRfTpaUoqZSfTerOXzI",
+      "description": "Audition for the old-books reader. Romanian-accented English, rich and warm; a voice from somewhere else."
+    },
+    "BOOKS_ALICE": {
+      "name": "Books candidate Alice",
+      "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+      "description": "Audition for the old-books reader. British woman, clear educator; the only way to make BOOKS unmistakable among three men."
+    },
+    "BOOKS_LILY": {
+      "name": "Books candidate Lily",
+      "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+      "description": "Audition for the old-books reader. British woman, lower and softer than Alice."
+    }
+  }
+}
