@@ -148,9 +148,9 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* Now to Brian's question. Why the tooth? Matthew Henry, in seventeen hundred and six, read the two verses together and saw it.
 
-**Books** *(calm)* The care God took of servants. If their masters maimed them, though it was only striking out a tooth, that should be their discharge.
+**Henry** *(calm)* The care God took of servants. If their masters maimed them, though it was only striking out a tooth, that should be their discharge.
 
-**Books** *(calm)* To comfort them if they were abused; the loss of a limb should be the gaining of their liberty, which would do something towards balancing both the pain and disgrace they underwent.
+**Henry** *(calm)* To comfort them if they were abused; the loss of a limb should be the gaining of their liberty, which would do something towards balancing both the pain and disgrace they underwent.
 
 **Narrator** *(calm)* Though it was only striking out a tooth. The tooth is not in the law because it equals an eye. It is in the law because it is the smallest lasting harm anyone would bother to name. Set the threshold there, and every harm above it, the eye above all, is beyond doubt. Smith's dictionary reads it the same way: the master's power over the servant's body was so far limited that maiming gave liberty at once, by the fact itself.
 

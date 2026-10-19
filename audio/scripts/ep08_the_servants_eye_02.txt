@@ -5,7 +5,7 @@
 @continuity: off
 
 # Not By Sight, episode 8: The servant's eye. Draft script. Second of four on the Law.
-# BOOKS reads the old commentators and the other law codes, word for word. No imagined scenes.
+# HENRY reads Matthew Henry; BOOKS reads the other old commentators and the other law codes, word for word. No imagined scenes.
 
 [NARRATOR] (calm) Before the law, a word about words.
 [PAUSE 1.0]
@@ -56,7 +56,7 @@
 [NARRATOR] (calm) The servant's freedom is one of those divergences, and the largest. In Babylon a servant's eye was priced. In Israel it was freed.
 [BREAK]
 [NARRATOR] (calm) Now to Brian's question. Why the tooth? Matthew Henry, in seventeen hundred and six, read the two verses together and saw it.
-[BOOKS] (calm) The care God took of servants. If their masters maimed them, though it was only striking out a tooth, that should be their discharge. To comfort them if they were abused; the loss of a limb should be the gaining of their liberty, which would do something towards balancing both the pain and disgrace they underwent.
+[HENRY] (calm) The care God took of servants. If their masters maimed them, though it was only striking out a tooth, that should be their discharge. To comfort them if they were abused; the loss of a limb should be the gaining of their liberty, which would do something towards balancing both the pain and disgrace they underwent.
 [NARRATOR] (calm) Though it was only striking out a tooth. The tooth is not in the law because it equals an eye. It is in the law because it is the smallest lasting harm anyone would bother to name. Set the threshold there, and every harm above it, the eye above all, is beyond doubt. Smith's dictionary reads it the same way: the master's power over the servant's body was so far limited that maiming gave liberty at once, by the fact itself. And by the first century, Josephus says, even eye for eye among free men had become a matter of money, at the choice of the one who was hurt.
 [BOOKS] (calm) He that maimeth any one, let him undergo the like himself, and be deprived of the same member of which he hath deprived the other, unless he that is maimed will accept of money instead of it; for the law makes the sufferer the judge of the value of what he hath suffered.
 [NARRATOR] (calm) The sufferer the judge of the value. Keep that phrase. It is what Brian is about to do.

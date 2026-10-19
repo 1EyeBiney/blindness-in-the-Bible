@@ -309,6 +309,12 @@ I have made edits to the EP7 script. I want to rewrite my thoughts at the end. s
 
 *Status:* done. His script edits the same day: "Most" to "Many", "breaking or spraining" to "seriously hurting", and the Law intro now ends "and from dusty old Brian" in all four episodes.
 
+## 18 October 2026, the old-books voices (from chat, verbatim)
+
+use George, "C:\nbs\blindness-in-the-Bible\audio\deliver\audition3_books\01_George.mp3" if we have only 2 of these new character voices, then use "C:\nbs\blindness-in-the-Bible\audio\deliver\audition3_books\05_Mihai.mp3" as the 2nd voice. Use George for Matthew Henry. I am giong to re-read the script one last time before we do the voices rendering in ElevenLabs
+
+*Status:* done. HENRY (George) reads Matthew Henry; BOOKS (Mihai) reads Josephus, Edersheim, the encyclopedia, Hammurabi and Amenemope. He also has new Suno music for the series.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)

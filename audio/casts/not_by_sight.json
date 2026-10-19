@@ -1,6 +1,6 @@
 {
   "cast_name": "not_by_sight",
-  "_comment": "Voices picked by Brian by ear from the auditions of 7, 9 and 10 October 2026. Every role is cast.",
+  "_comment": "Voices picked by Brian by ear from the auditions of 7, 9, 10 and 18 October 2026. Every role is cast.",
   "defaults": {
     "model": "eleven_v3",
     "stability": 0.6,
@@ -95,10 +95,17 @@
     },
     "BOOKS": {
       "name": "The old books",
-      "voice_id": "dgkKQcJqyy5AP0dqleUU",
-      "description": "Reads the old commentators and the other law codes word for word: Henry, Josephus, Edersheim, the encyclopedia, Hammurabi, Amenemope. Measured, slightly formal, a reader at a lectern. Clearly not the narrator and not the Scripture reader.",
+      "voice_id": "8WRfTpaUoqZSfTerOXzI",
+      "description": "Reads the other old books word for word: Josephus, Edersheim, the 1915 encyclopedia, Hammurabi, Amenemope. Rich, warm, accented English, a voice from somewhere else. Matthew Henry has his own voice, HENRY.",
       "stability": 0.7,
-      "_voice": "PLACEHOLDER (Hector's id) until Brian auditions and picks, October 2026"
+      "_voice": "Mihai (picked by Brian, 18 October 2026, third audition)"
+    },
+    "HENRY": {
+      "name": "Matthew Henry",
+      "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+      "description": "Reads Matthew Henry's commentary (1706 to 1710) word for word, in the Law series. A warm British storyteller at a lectern. Not the narrator, not the Scripture reader, not the other old books.",
+      "stability": 0.7,
+      "_voice": "George (picked by Brian, 18 October 2026, third audition)"
     }
   }
 }

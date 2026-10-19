@@ -37,7 +37,7 @@ def build(bible: dict) -> list[str]:
     add = L.append
     ext = L.extend
     add("# Not By Sight, episode 10: The blind animal and the altar. Draft script. Last of four on the Law.")
-    add("# BOOKS reads the old commentators word for word. No imagined scenes.")
+    add("# HENRY reads Matthew Henry; BOOKS reads the other old commentators word for word. No imagined scenes.")
     add("")
 
     # ---- A word about words (Brian, 17 October 2026: settle the audience before the law is read) -------
@@ -135,9 +135,9 @@ def build(bible: dict) -> list[str]:
         "your nose. You bring the stolen, the lame and the sick. Only then the test: try offering that to your "
         "governor. And last, the curse on the man who had a sound animal in his flock, vowed it, and gave a "
         "blemished one instead. Henry, on this chapter:")
-    add("[BOOKS] (calm) The prophet is here, by a special commission, calling the priests to account, though they "
+    add("[HENRY] (calm) The prophet is here, by a special commission, calling the priests to account, though they "
         "were themselves appointed judges, to call the people to an account.")
-    add("[BOOKS] (calm) Would they, durst they, affront an earthly prince thus?")
+    add("[HENRY] (calm) Would they, durst they, affront an earthly prince thus?")
     add("[NARRATOR] (calm) And Henry adds that what is said to the priests is said to all. The blind animal in "
         "Malachi is not about blindness. It is the sign of a gift given with contempt, by people who had something "
         "better and kept it back.")

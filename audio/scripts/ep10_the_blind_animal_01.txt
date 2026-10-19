@@ -5,7 +5,7 @@
 @continuity: off
 
 # Not By Sight, episode 10: The blind animal and the altar. Draft script. Last of four on the Law.
-# BOOKS reads the old commentators word for word. No imagined scenes.
+# HENRY reads Matthew Henry; BOOKS reads the other old commentators word for word. No imagined scenes.
 
 [NARRATOR] (calm) One last time, before the law, a word about words.
 [PAUSE 1.0]
@@ -77,8 +77,8 @@
 [READER] (plainly) You also say: ‘Oh, what a nuisance!’ And you turn up your nose at it,” says the LORD of Hosts. “You bring offerings that are stolen, lame, or sick! Should I accept these from your hands?” asks the LORD.
 [READER] (plainly) “But cursed is the deceiver who has an acceptable male in his flock and vows to give it, but sacrifices a defective animal to the Lord. For I am a great King,” says the LORD of Hosts, “and My name is to be feared among the nations.
 [NARRATOR] (calm) Hear the steps. A son honors his father and a servant his master; then, where is My honor, and where is your fear of Me? You call My table contemptible. You say, what a nuisance, and turn up your nose. You bring the stolen, the lame and the sick. Only then the test: try offering that to your governor. And last, the curse on the man who had a sound animal in his flock, vowed it, and gave a blemished one instead. Henry, on this chapter:
-[BOOKS] (calm) The prophet is here, by a special commission, calling the priests to account, though they were themselves appointed judges, to call the people to an account.
-[BOOKS] (calm) Would they, durst they, affront an earthly prince thus?
+[HENRY] (calm) The prophet is here, by a special commission, calling the priests to account, though they were themselves appointed judges, to call the people to an account.
+[HENRY] (calm) Would they, durst they, affront an earthly prince thus?
 [NARRATOR] (calm) And Henry adds that what is said to the priests is said to all. The blind animal in Malachi is not about blindness. It is the sign of a gift given with contempt, by people who had something better and kept it back.
 [PAUSE 1.0]
 [NARRATOR] (calm) The rest of the Bible puts the measure exactly where Malachi puts it: not on what the gift was worth, but on what it cost the giver. Two verses.

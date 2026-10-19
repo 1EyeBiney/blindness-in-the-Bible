@@ -52,7 +52,7 @@ def build(bible: dict) -> list[str]:
     add = L.append
     ext = L.extend
     add("# Not By Sight, episode 9: The blind priest. Draft script. Third of four on the Law.")
-    add("# BOOKS reads the old commentators word for word. No imagined scenes.")
+    add("# HENRY reads Matthew Henry; BOOKS reads the other old commentators word for word. No imagined scenes.")
     add("")
 
     # ---- A word about words (Brian, 17 October 2026: settle the audience before the law is read) -------
@@ -159,10 +159,10 @@ def build(bible: dict) -> list[str]:
     add("[NARRATOR] (calm) Now the harder question, the one under Brian's three. Why the rule at all? Leviticus "
         "gives no reason beyond the holiness of the sanctuary. Here is Matthew Henry, in seventeen hundred and six, "
         "first on what the law protected.")
-    add("[BOOKS] (calm) The blemishes were such as they could not help, and therefore, though they might not work, "
+    add("[HENRY] (calm) The blemishes were such as they could not help, and therefore, though they might not work, "
         "they must not starve. Note, None must be abused for their natural infirmities.")
     add("[NARRATOR] (calm) And then Henry supplies a reason of his own, and it is not about the man.")
-    add("[BOOKS] (calm) But it was especially requisite that comely men should be chosen to minister about holy "
+    add("[HENRY] (calm) But it was especially requisite that comely men should be chosen to minister about holy "
         "things, for the sake of the people, who were apt to judge according to outward appearance, and to think "
         "meanly of the service.")
     add("[NARRATOR] (calm) For the sake of the people, who judge by appearance. Henry's reason, not Leviticus's. "

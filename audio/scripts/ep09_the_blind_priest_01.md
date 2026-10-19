@@ -112,11 +112,11 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* Now the harder question, the one under Brian's three. Why the rule at all? Leviticus gives no reason beyond the holiness of the sanctuary. Here is Matthew Henry, in seventeen hundred and six, first on what the law protected.
 
-**Books** *(calm)* The blemishes were such as they could not help, and therefore, though they might not work, they must not starve. Note, None must be abused for their natural infirmities.
+**Henry** *(calm)* The blemishes were such as they could not help, and therefore, though they might not work, they must not starve. Note, None must be abused for their natural infirmities.
 
 **Narrator** *(calm)* And then Henry supplies a reason of his own, and it is not about the man.
 
-**Books** *(calm)* But it was especially requisite that comely men should be chosen to minister about holy things, for the sake of the people, who were apt to judge according to outward appearance, and to think meanly of the service.
+**Henry** *(calm)* But it was especially requisite that comely men should be chosen to minister about holy things, for the sake of the people, who were apt to judge according to outward appearance, and to think meanly of the service.
 
 **Narrator** *(calm)* For the sake of the people, who judge by appearance. Henry's reason, not Leviticus's. Remember Absalom and the bride: mum is a word about how a thing looks. Josephus, in the first century, says the same two things in one sentence.
 

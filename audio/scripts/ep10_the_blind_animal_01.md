@@ -142,9 +142,9 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Narrator** *(calm)* Hear the steps. A son honors his father and a servant his master; then, where is My honor, and where is your fear of Me? You call My table contemptible. You say, what a nuisance, and turn up your nose. You bring the stolen, the lame and the sick. Only then the test: try offering that to your governor. And last, the curse on the man who had a sound animal in his flock, vowed it, and gave a blemished one instead. Henry, on this chapter:
 
-**Books** *(calm)* The prophet is here, by a special commission, calling the priests to account, though they were themselves appointed judges, to call the people to an account.
+**Henry** *(calm)* The prophet is here, by a special commission, calling the priests to account, though they were themselves appointed judges, to call the people to an account.
 
-**Books** *(calm)* Would they, durst they, affront an earthly prince thus?
+**Henry** *(calm)* Would they, durst they, affront an earthly prince thus?
 
 **Narrator** *(calm)* And Henry adds that what is said to the priests is said to all. The blind animal in Malachi is not about blindness. It is the sign of a gift given with contempt, by people who had something better and kept it back.
 

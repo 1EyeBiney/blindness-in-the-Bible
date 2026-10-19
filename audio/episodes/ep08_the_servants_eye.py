@@ -42,7 +42,7 @@ def build(bible: dict) -> list[str]:
     add = L.append
     ext = L.extend
     add("# Not By Sight, episode 8: The servant's eye. Draft script. Second of four on the Law.")
-    add("# BOOKS reads the old commentators and the other law codes, word for word. No imagined scenes.")
+    add("# HENRY reads Matthew Henry; BOOKS reads the other old commentators and the other law codes, word for word. No imagined scenes.")
     add("")
 
     # ---- A word about words (Brian, 17 October 2026: settle the audience before the law is read) -------
@@ -159,9 +159,9 @@ def build(bible: dict) -> list[str]:
     # ---- The old books on the tooth: Brian's question answered --------------------------------------------
     add("[NARRATOR] (calm) Now to Brian's question. Why the tooth? Matthew Henry, in seventeen hundred and six, read "
         "the two verses together and saw it.")
-    add("[BOOKS] (calm) The care God took of servants. If their masters maimed them, though it was only striking out "
+    add("[HENRY] (calm) The care God took of servants. If their masters maimed them, though it was only striking out "
         "a tooth, that should be their discharge.")
-    add("[BOOKS] (calm) To comfort them if they were abused; the loss of a limb should be the gaining of their "
+    add("[HENRY] (calm) To comfort them if they were abused; the loss of a limb should be the gaining of their "
         "liberty, which would do something towards balancing both the pain and disgrace they underwent.")
     add("[NARRATOR] (calm) Though it was only striking out a tooth. The tooth is not in the law because it equals an "
         "eye. It is in the law because it is the smallest lasting harm anyone would bother to name. Set the "

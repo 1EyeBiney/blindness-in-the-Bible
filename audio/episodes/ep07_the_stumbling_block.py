@@ -41,7 +41,7 @@ def build(bible: dict) -> list[str]:
     add = L.append
     ext = L.extend
     add("# Not By Sight, episode 7: The stumbling block. Draft script. First of four on the Law.")
-    add("# BOOKS reads the old commentators and the other law codes, word for word. No imagined scenes in this series.")
+    add("# HENRY reads Matthew Henry; BOOKS reads the other old commentators and the other law codes, word for word. No imagined scenes in this series.")
     add("")
 
     # ---- A word about words (Brian, 17 October 2026: settle the audience before the law is read) -------
@@ -148,12 +148,12 @@ def build(bible: dict) -> list[str]:
     add("[NARRATOR] (calm) Now the old books. In these episodes they speak for themselves, in a voice of their own, "
         "and I will tell you who is speaking and when. First, Matthew Henry, a pastor writing in England in "
         "seventeen hundred and six, on this verse.")
-    add("[BOOKS] (calm) The safety of the blind we must likewise be tender of, and not put a stumbling-block before "
+    add("[HENRY] (calm) The safety of the blind we must likewise be tender of, and not put a stumbling-block before "
         "them; for this is to add affliction to the afflicted, and to make God's providence a servant to our malice.")
-    add("[BOOKS] (calm) This prohibition implies a precept to help the blind, and remove stumbling-blocks out of "
+    add("[HENRY] (calm) This prohibition implies a precept to help the blind, and remove stumbling-blocks out of "
         "their way.")
     add("[NARRATOR] (calm) And on the words, you shall fear your God, Henry gives the reason that still holds.")
-    add("[BOOKS] (calm) Thou dost not fear the deaf and blind, they cannot right themselves; but remember it is the "
+    add("[HENRY] (calm) Thou dost not fear the deaf and blind, they cannot right themselves; but remember it is the "
         "glory of God to help the helpless, and he will plead their cause.")
     add("[NARRATOR] (calm) That is the heart of it. Both wrongs in this verse are wrongs the victim cannot catch. The "
         "deaf man does not hear the curse. The blind man does not see who moved the stone, or who stood and "
@@ -173,7 +173,7 @@ def build(bible: dict) -> list[str]:
     add("[PAUSE 1.0]")
     add("[NARRATOR] (calm) One honest counterweight, from Henry again. He reports that the Jewish commentators "
         "before him found the literal act unthinkable.")
-    add("[BOOKS] (calm) The Jewish writers, thinking it impossible that any should be so barbarous as to put a "
+    add("[HENRY] (calm) The Jewish writers, thinking it impossible that any should be so barbarous as to put a "
         "stumbling-block in the way of the blind, understood it figuratively, that it forbids giving bad counsel to "
         "those that are simple and easily imposed upon.")
     add("[NARRATOR] (calm) Both readings have been held for a very long time. A law is not proof that a thing was "

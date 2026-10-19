@@ -5,7 +5,7 @@
 @continuity: off
 
 # Not By Sight, episode 7: The stumbling block. Draft script. First of four on the Law.
-# BOOKS reads the old commentators and the other law codes, word for word. No imagined scenes in this series.
+# HENRY reads Matthew Henry; BOOKS reads the other old commentators and the other law codes, word for word. No imagined scenes in this series.
 
 [NARRATOR] (calm) Before the law, a word about words.
 [PAUSE 1.0]
@@ -71,17 +71,17 @@
 [NARRATOR] (calm) And the curse in Deuteronomy uses a different verb for what is done to the blind man. He is made to wander: shagah, to stray, or to be led astray. The word for going wrong without knowing it.
 [BREAK]
 [NARRATOR] (calm) Now the old books. In these episodes they speak for themselves, in a voice of their own, and I will tell you who is speaking and when. First, Matthew Henry, a pastor writing in England in seventeen hundred and six, on this verse.
-[BOOKS] (calm) The safety of the blind we must likewise be tender of, and not put a stumbling-block before them; for this is to add affliction to the afflicted, and to make God's providence a servant to our malice.
-[BOOKS] (calm) This prohibition implies a precept to help the blind, and remove stumbling-blocks out of their way.
+[HENRY] (calm) The safety of the blind we must likewise be tender of, and not put a stumbling-block before them; for this is to add affliction to the afflicted, and to make God's providence a servant to our malice.
+[HENRY] (calm) This prohibition implies a precept to help the blind, and remove stumbling-blocks out of their way.
 [NARRATOR] (calm) And on the words, you shall fear your God, Henry gives the reason that still holds.
-[BOOKS] (calm) Thou dost not fear the deaf and blind, they cannot right themselves; but remember it is the glory of God to help the helpless, and he will plead their cause.
+[HENRY] (calm) Thou dost not fear the deaf and blind, they cannot right themselves; but remember it is the glory of God to help the helpless, and he will plead their cause.
 [NARRATOR] (calm) That is the heart of it. Both wrongs in this verse are wrongs the victim cannot catch. The deaf man does not hear the curse. The blind man does not see who moved the stone, or who stood and watched him take the wrong road. No witness is coming forward. So the law does not appeal to a court. It appeals to the one who saw.
 [NARRATOR] (calm) Now Josephus, a Jewish historian writing for Roman readers about the year ninety-three, retelling the Law in everyday terms.
 [BOOKS] (calm) It is also a duty to show the roads to those who do not know them, and not to esteem it a matter for sport, when we hinder others' advantages, by setting them in a wrong way. In like manner, let no one revile a person blind or dumb.
 [NARRATOR] (calm) Three things in that are his, not Leviticus's. The law only forbids; Josephus adds a duty, to show the way to anyone who does not know it. The law gives no motive; Josephus names one. Sport. The pleasure of watching somebody go wrong. And he pairs the blind with the dumb, those who cannot speak, as Leviticus pairs the blind with the deaf: people who cannot catch you, and cannot answer back. So this is what a Jewish writer in the first century thought the law was guarding against. Not an accident on the road. A cruel joke, played on someone who would never know who played it.
 [PAUSE 1.0]
 [NARRATOR] (calm) One honest counterweight, from Henry again. He reports that the Jewish commentators before him found the literal act unthinkable.
-[BOOKS] (calm) The Jewish writers, thinking it impossible that any should be so barbarous as to put a stumbling-block in the way of the blind, understood it figuratively, that it forbids giving bad counsel to those that are simple and easily imposed upon.
+[HENRY] (calm) The Jewish writers, thinking it impossible that any should be so barbarous as to put a stumbling-block in the way of the blind, understood it figuratively, that it forbids giving bad counsel to those that are simple and easily imposed upon.
 [NARRATOR] (calm) Both readings have been held for a very long time. A law is not proof that a thing was common. It is a sign that someone thought it worth forbidding, and here, worth a curse said aloud by a whole nation.
 [BREAK]
 [NARRATOR] (calm) Brian had an earlier question too, and it is a good one.
