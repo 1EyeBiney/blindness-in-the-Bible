@@ -337,7 +337,10 @@ def episodes_page() -> str:
     import episode_list as ep
     import images
     import stories as st
+    import pages as pg
     by_slug = {x["slug"]: x for x in st.STORIES}
+    # a Law or other study page is named by its path, such as law/stumbling-block
+    by_slug.update({f'{p["section"]}/{p["slug"]}': p for p in pg.PAGES})
     parts = [f"<h1>{e(ep.TITLE)}</h1>", f'<p class="lede">{e(ep.INTRO[0])}</p>'] + [f"<p>{e(x)}</p>" for x in ep.INTRO[1:]]
     parts.append(
         f'<section class="episode"><h2>Start here: the trailer</h2>'
@@ -353,8 +356,9 @@ def episodes_page() -> str:
         first = by_slug[slugs[0]]
         listen = first["listen"]
         mp3 = f"media/{e(listen['mp3'])}"
-        pic = images.STORY_PICTURES[slugs[0]][0]
-        pages_ = " and ".join(f'<a href="stories/{x}.html">{e(by_slug[x]["title"])}</a>' for x in slugs)
+        pic = (images.PAGE_PICTURES[slugs[0]] if "/" in slugs[0] else images.STORY_PICTURES[slugs[0]])[0]
+        pages_ = " and ".join(f'<a href="{x if "/" in x else "stories/" + x}.html">{e(by_slug[x]["title"])}</a>'
+                              for x in slugs)
         # the picture is decoration here: the heading and the paragraph beside it already say what the episode is
         parts.append(
             f'<section class="episode"><h2>Episode {number}: {e(title)}</h2>'
@@ -446,14 +450,19 @@ def story_share(story: dict) -> dict | None:
     return {"file": f"images/{pics[0]['name']}-{images.widths(pics[0])[-1]}.jpg", "alt": pics[0]["alt"]}
 
 
-def listen_html(listen: dict | None, root: str) -> str:
+def listen_html(listen: dict | None, root: str, law: bool = False) -> str:
     """The episode player: a plain audio file first, then the YouTube video. Nothing on the page depends on it."""
     if not listen:
         return ""
     yt = e(listen["youtube"])
-    return (f"<h2>Listen to this story</h2>"
-            f"<p>This story is also an episode of about {listen['minutes']} minutes: the passage read word for word, "
-            f"the place and the time, two imagined scenes, and Brian's own thoughts, with music. "
+    what = ("study" if law else "story")
+    inside = ("the law read word for word in its chapter, the Hebrew word followed through the Bible, the old books "
+              "in their own voices, and Brian's own thoughts, with music. There are no imagined scenes in the Law episodes"
+              if law else
+              "the passage read word for word, the place and the time, two imagined scenes, and Brian's own thoughts, "
+              "with music")
+    return (f"<h2>Listen to this {what}</h2>"
+            f"<p>This {what} is also an episode of about {listen['minutes']} minutes: {inside}. "
             f"The audio file plays here, or <a href=\"{root}media/{e(listen['mp3'])}\">download the MP3</a>. "
             f"The same episode is on YouTube with pictures and captions.</p>"
             f"<audio controls preload=\"none\" src=\"{root}media/{e(listen['mp3'])}\">"
@@ -569,6 +578,7 @@ def context_page(page: dict, bible: dict, root: str, back: tuple[str, str]) -> s
     if page.get("question"):
         parts.append(f'<p class="lede">{e(page["question"])}</p>')
     parts.append(f'<p class="lede">{e("; ".join(passage_label(p) for p in page["passages"]))}.</p>')
+    parts.append(listen_html(page.get("listen"), root, law=True))
     parts.append(f"<h2>What leads up to it</h2><p>{e(page['around'])}</p>")
     parts.append(f"<h2>What it says</h2><p>{e(page['says'])}</p>")
     if page.get("notice"):
@@ -630,7 +640,8 @@ Bible. But blindness is a spectrum, and only a small share of blind people see n
 studies, read <a href="what-blind-means.html">what blind means here</a>.</p>
 
 <h2>Listen to the stories</h2>
-<p>The stories of sight given by Jesus are also episodes of about twenty minutes each, made for listening. This
+<p>The stories of sight given by Jesus, and now the laws about the blind, are also episodes of about twenty
+minutes each, made for listening. This
 trailer, about four minutes long, gives a taste: the opening of the first episode, an imagined walk down to the
 Pool of Siloam, and Brian on why he began. It plays here as audio, or below it as a video with pictures and captions.</p>
 {trailer_html("", video=True)}
@@ -660,7 +671,7 @@ site is named for. The
 the deep end. Read this first.</li>
 <li><a href="stories/index.html">The stories</a>: twenty-four passages about blind people, each with what led up to it,
 what happens, what it was like to be there, and the place and the time from the old books.</li>
-<li><a href="episodes.html">Episodes</a>: the stories of sight given by Jesus, made for listening, with the
+<li><a href="episodes.html">Episodes</a>: the stories of sight given by Jesus and the laws about the blind, made for listening, with the
 passage read word for word, music, and Brian's own thoughts.</li>
 <li><a href="law/index.html">The law</a>: four pages reading what God commanded about the blind as evidence of how they
 were treated, set beside the older law codes of the region.</li>

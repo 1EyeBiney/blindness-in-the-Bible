@@ -55,6 +55,8 @@ LAW_PAGES = [
             "usually resulting in serious pain of some sort. So is this notion of a stumbling block more like me "
             "tripping slightly, or more like a blind person falling down and seriously hurting something?",
         ],
+        "listen": {"youtube": "STQZntb-8II", "mp3": "not_by_sight_07_the_stumbling_block.mp3", "minutes": 22,
+                   "title": "Not By Sight, Episode 7: The Stumbling Block"},
         # Rendered at the foot of the page, after The passage: his thought once the study was done (17 October 2026).
         "brian_after": [
             "When I started studying this episode, my first thought was that this law did not mean much to me, because of "

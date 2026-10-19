@@ -30,6 +30,10 @@ EPISODES = [
      "John the Baptist, in prison at Machaerus, sends two friends to ask Jesus one question: are You the One who was "
      "to come? The answer he gets back begins with blind people. This is the episode where Jesus Himself says what "
      "the healings were for."),
+    (7, "The Stumbling Block", "Leviticus 19 and Deuteronomy 27", ["law/stumbling-block"],
+     "The first of four on the Law. One sentence given at Sinai: you must not curse the deaf or place a stumbling "
+     "block before the blind. Brian read it and stopped at one word. Is the law about a trip, or a fall? The Hebrew "
+     "word, and every other place the Bible uses it, gives the answer."),
 ]
 
 # The trailer: a short taste of the episodes, on the home page and at the top of the Episodes page.
@@ -43,6 +47,9 @@ INTRO = [
     "Each story of sight given by Jesus is also an episode of about twenty minutes, made for listening. You will "
     "hear the passage read word for word from the Berean Standard Bible, the place and the time, an imagined scene "
     "or two, and Brian's own thoughts, with his music.",
+    "From episode 7 the series turns to the Law: four episodes on what God commanded about the blind. They have no "
+    "imagined scenes. In their place are the Hebrew words the laws turn on, followed through the rest of the Bible, "
+    "and the old books read in their own voices.",
     "Every episode plays here as a plain audio file, or downloads as an MP3 to keep. The same episode is on YouTube "
     "with pictures and captions. Start anywhere. Each one stands by itself.",
 ]

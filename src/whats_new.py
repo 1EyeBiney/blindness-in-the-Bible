@@ -13,6 +13,10 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-19", "Episode 7: The stumbling block",
+     "The first of four episodes on the Law. One sentence given at Sinai, a word Brian stopped at, and the Hebrew "
+     "behind it followed through the Bible, with Matthew Henry, Josephus and the oldest law codes read in their own "
+     "voices. It plays on the stumbling-block page and on the Episodes page.", "law/stumbling-block.html"),
     ("2026-10-17", "All six episodes re-mixed with quieter music",
      "After listeners said the music was too loud on phone speakers, Brian re-mixed every episode with the music set "
      "lower under the voices. Episodes 1 to 3 also gain the series map, Brian's photograph and the new closing words, "
