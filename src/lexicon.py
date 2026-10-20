@@ -57,14 +57,14 @@ GROUPS = [
                   "find what they are looking for. It is the word behind the site's stories of sight taken for a "
                   "time, and the dictionaries differ on whether it means darkness or dazzle."],
          "samples": [("Genesis", 19, 11), ("2 Kings", 6, 18)]},
-        {"key": TYPHLOS, "greek": "G5185", "spelling": "typhlos", "say": "tüf-LOSS",
+        {"key": TYPHLOS, "greek": "G5185", "spelling": "typhlos", "say": "toof-LOSS",
          "text": ["The New Testament's one word for blind. It is used fifty times, almost all of them in the "
                   "Gospels: John has it most, then Matthew. Nearly every blind person in the New Testament is met in "
                   "Jesus's company, and the word is also His for guides who cannot see where they lead. Outside the "
                   "Gospels it is rare: Paul's proud guide for the blind, Peter's man who cannot see far, and the church "
                   "at Laodicea that does not know it is blind."],
          "samples": [("Matthew", 11, 5), ("Matthew", 15, 14), ("John", 9, 1), ("Luke", 4, 18), ("Acts", 13, 11), ("Revelation", 3, 17)]},
-        {"key": TYPHLOO, "greek": "G5186", "spelling": "typhloo", "say": "tüf-LO-oh",
+        {"key": TYPHLOO, "greek": "G5186", "spelling": "typhloo", "say": "toof-LO-oh",
          "text": ["The verb, to blind, three times, and never of eyes. It is what hatred does to a brother, what the "
                   "god of this age does to minds, and what Isaiah's hard saying describes in John 12."],
          "samples": [("John", 12, 40), ("2 Corinthians", 4, 4), ("1 John", 2, 11)]},
