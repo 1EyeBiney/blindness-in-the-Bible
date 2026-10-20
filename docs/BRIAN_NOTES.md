@@ -350,6 +350,10 @@ You hear advice all the time: look before you leap, look both ways before crossi
 
 *Status:* done 20 October: "What came of it" added to the page; his section rewritten in six paragraphs from these notes and approved.
 
+## 20 October 2026, future additions Brian chose (from chat)
+
+Of nine suggestions, Brian wants these kept for later, to return to from time to time: (1) the words, in one place: every Hebrew word the pages follow, side by side, plus the New Testament's typhlos; (2) Brian asks: his questions collected with short answers and links; (3) a timeline of every story and law in Bible order; (7) Levy 1872 on the bookshelf page; (8) cross-links between the Law pages and the stories; (9) his own story expanded on the About page. Not now: a growing-old study, prayers of the blind, a senses study. His words: "This gives me time to use my turtle mind a little more than my rabbit mind. I need to give processing a break and not have to give my thoughts on pages for a little while." Working on (1) first, concept before building.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
