@@ -42,6 +42,10 @@ EPISODES = [
      "The third of four on the Law, and the only law in the Bible that limits what a blind person may do: a blind "
      "priest could not approach the altar. Brian asks three practical questions, the old books answer them, and the "
      "episode asks what the law says about what a blind person is worth. He stayed a priest, and he ate at the table."),
+    (10, "The Blind Animal and the Altar", "Leviticus 22, Deuteronomy 15 and Malachi 1", ["law/blind-animals"],
+     "The last of four on the Law, and not about blind people at all: no blind animal may be offered to the LORD. "
+     "Brian found it the hardest to read, because it seems to call blindness broken. Two Hebrew words, a market in "
+     "the Temple and a prophet's test answer him, and the episode looks back over everything the Law said about the blind."),
 ]
 
 # The trailer: a short taste of the episodes, on the home page and at the top of the Episodes page.

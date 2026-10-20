@@ -13,6 +13,10 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-20", "Episode 10: The blind animal and the altar",
+     "The last of the four episodes on the Law, and the one Brian found hardest: the law of the blind animal, the "
+     "market it made in the Temple, Malachi's test, and a look back over all four laws. It plays on the blind-animals "
+     "page and on the Episodes page.", "law/blind-animals.html"),
     ("2026-10-19", "Episode 9: The blind priest",
      "The third episode on the Law: the one rule that kept a blind man from a task, and what it did not keep him "
      "from. It plays on the blind-priest page and on the Episodes page.", "law/priest.html"),

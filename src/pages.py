@@ -171,6 +171,8 @@ LAW_PAGES = [
                   "David, offered a threshing floor for nothing, answered, \"I will not offer to the LORD my God burnt "
                   "offerings that cost me nothing.\" And Jesus said of the widow's two coins that she had put in more "
                   "than all the others, because they gave from their surplus and she from her poverty.",
+        "listen": {"youtube": "q5G-9tuPQ00", "mp3": "not_by_sight_10_the_blind_animal.mp3", "minutes": 23,
+                   "title": "Not By Sight, Episode 10: The Blind Animal and the Altar"},
         "brian": [
             "This one was harder to read than I expected, and not because of what it asks of a lamb. It is because it "
             "puts blindness straight into the category of broken. In society's terms I am disabled. But when I hear of "
