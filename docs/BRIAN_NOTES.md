@@ -333,6 +333,23 @@ remind me for the blinded king that I have sounds that I cannot unhear now that 
 
 *Status:* saved for Brian's section of the Zedekiah episode. The link: the last thing Zedekiah saw stayed with him because he was blinded; Brian's sounds stay with him because he cannot see past them. The second idea (keeping hearing over regaining sight) could sit in Zedekiah or in Eli, the episode built on hearing.
 
+## 20 October 2026, Brian on reading the expanded Isaac page (verbatim)
+
+this really brings home the reality of the trust we place in those around us, especially as our other senses fail us.
+On initially reading this, my initial thought was that Isaac must have had failing sense of touch as well, but it might be more than that, especially without knowing exactly the cause of his visual impairment. I am thinking of his hands as if they were like mine, ones that sit in conditioned air all day long using a keyboard. To be honest, I have hands that are, as my wife Barb likes to say, soft as a baby's bottom. I do not work in a field all day, amongst sheep, or around a camp doing hard labor to do hard labor for meager provisions.
+
+This sounds like it was a familiar place for Isaac with that well being familiar, he might have known his way around there, especially if he lived a long time there.
+When Esau came to speak with Isaac, Isaac did not recognize his voice. This make me think of context awareness. Isaac knew he was close to death likely, his other sense probably would have been failing too.
+
+so this doesn't end very well to me, with the stolen blessing, is there no consequence for this? I know we go into Jacob's story next but there has to be some commentary on how unjust this was and typically i in the Bible, something like this does not go unpunished.
+
+on using vision:
+You hear advice all the time: look before you leap, look both ways before crossing a street, watchout!
+
+[Brian:] my thoughts need to be re-written and expanded upon. I think I opened some cans of worms with my thoughts there that we need to work through or have as a Brian's questions part. I don't know yet, but let's address them before changing anything
+
+*Status:* being worked through in chat before anything changes.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
