@@ -491,6 +491,7 @@ def story_page(story: dict, bible: dict, order: list[dict]) -> str:
              f"<h2>What led up to it</h2><p>{e(story['around'])}</p>" + pics.get("around", ""),
              f"<h2>What happens</h2><p>{e(story['happens'])}</p>" + pics.get("happens", ""),
              (f"<h2>Before and after</h2><p>{e(story['before_after'])}</p>" if story.get("before_after") else ""),
+             (f"<h2>What came of it</h2><p>{e(story['came_of_it'])}</p>" if story.get("came_of_it") else ""),
              f"<h2>In their shoes</h2><p>{e(story['shoes'])}</p>" + pics.get("shoes", "")]
     if story.get("senses"):
         parts.append(f"<h2>What the other senses told him</h2><p>{e(story['senses'])}</p>")

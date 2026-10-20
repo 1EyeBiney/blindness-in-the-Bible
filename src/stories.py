@@ -79,6 +79,17 @@ STORIES = [
                         "twenty years with Laban all fell inside his father's lifetime, and when Jacob came home "
                         "Isaac was still alive to be buried by both sons together. Nothing in Genesis says his "
                         "sight ever came back.",
+        "came_of_it": "Brian asked whether the stolen blessing went unpunished. Genesis answers in Jacob's own "
+                      "currency. Seven years later, in the dark of a wedding night, Laban gives him Leah in place of "
+                      "Rachel, and in the morning Jacob asks, \"Why have you deceived me?\" Laban's answer is that the "
+                      "younger does not go before the older. Matthew Henry, around 1706, put it in a sentence: Jacob "
+                      "was paid in his own coin; he had cheated his own father when he pretended to be Esau, and now "
+                      "his father-in-law cheated him. Years after that, Jacob's sons bring him Joseph's robe dipped "
+                      "in the blood of a goat, and he, like his father, is deceived by a garment and a goat. Rebekah "
+                      "told Jacob she would send for him when Esau's anger passed; Genesis never records that she saw "
+                      "him again. And Hebrews 12 says of Esau that he could find no ground for repentance, though he "
+                      "sought the blessing with tears. None of this undoes what was done to Isaac. The blessing "
+                      "stood, as he said it would. But the Bible does not let the deceit pass as if no one saw it.",
         "brian": [
             "Isaac suffered from more than vision loss if he could not tell the difference in a man's hands. His "
             "sense of touch must also have been affected. The voice he could tell apart, which is standard, and smell "
