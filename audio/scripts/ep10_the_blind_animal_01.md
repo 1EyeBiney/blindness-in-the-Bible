@@ -74,7 +74,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* But you must not eat the blood; pour it on the ground like water.
 
-**Narrator** *(calm)* Eat it within your gates, as you would a gazelle or a deer. Henry puts it in a sentence: it was killed and eaten at their own houses as common food. The blemish kept it from the altar, not from the table. Remember that. Brian will come back to it.
+**Narrator** *(calm)* Eat it within your gates, as you would a gazelle or a deer. Matthew Henry, a pastor in England who wrote his commentary on the whole Bible beginning in seventeen hundred and six, puts it in one sentence: it was killed and eaten at their own houses as common food. The blemish kept it from the altar, not from the table. Remember that. Brian will come back to it.
 
 ---
 
@@ -140,17 +140,35 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* “But cursed is the deceiver who has an acceptable male in his flock and vows to give it, but sacrifices a defective animal to the Lord. For I am a great King,” says the LORD of Hosts, “and My name is to be feared among the nations.
 
-**Narrator** *(calm)* Hear the steps. A son honors his father and a servant his master; then, where is My honor, and where is your fear of Me? You call My table contemptible. You say, what a nuisance, and turn up your nose. You bring the stolen, the lame and the sick. Only then the test: try offering that to your governor. And last, the curse on the man who had a sound animal in his flock, vowed it, and gave a blemished one instead. Henry, on this chapter:
+**Narrator** *(calm)* Hear how the argument builds. It goes step by step.
 
-**Henry** *(calm)* The prophet is here, by a special commission, calling the priests to account, though they were themselves appointed judges, to call the people to an account.
+**Narrator** *(calm)* It starts with family. A son honors his father, and a servant his master. So if God is a father, where is His honor? If He is a master, where is the respect?
 
-**Henry** *(calm)* Would they, durst they, affront an earthly prince thus?
-
-**Narrator** *(calm)* And Henry adds that what is said to the priests is said to all. The blind animal in Malachi is not about blindness. It is the sign of a gift given with contempt, by people who had something better and kept it back.
+**Narrator** *(calm)* Then the charge. The priests have called the LORD's table contemptible. They bring blind animals, and lame ones, and sick ones, and lay them on the altar.
 
 *(pause 1.0 s)*
 
-**Narrator** *(calm)* The rest of the Bible puts the measure exactly where Malachi puts it: not on what the gift was worth, but on what it cost the giver. Two verses.
+**Narrator** *(calm)* Then the test, and it is a sharp one. Try offering that to your governor. Would he be pleased with you? Matthew Henry puts the question plainly: would these priests dare to insult an earthly ruler like that? Of course not. No one brings a sick animal as a gift to the man who governs him. Yet they brought it to God.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* Then the weariness. You say, what a nuisance, and you turn up your nose at it. The worship itself has become a chore.
+
+**Narrator** *(calm)* And last, the curse. It does not fall on the poor man who had nothing better to give. It falls on the man who had a good animal in his flock, promised it to God, and then brought a blemished one instead.
+
+**Narrator** *(calm)* Henry sums up what the prophet is doing.
+
+**Henry** *(calm)* The prophet is here, by a special commission, calling the priests to account, though they were themselves appointed judges, to call the people to an account.
+
+**Narrator** *(calm)* In other words, the priests were the ones meant to judge the people's offerings. Now God judges theirs. And Henry adds that what is said to the priests is said to all of us. The blind animal in Malachi is not about blindness. It is the sign of a gift given with contempt, by people who had something better and kept it back.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* That last point is the key to this whole law. God was never really measuring the animal. He was measuring the giver.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* The rest of the Bible keeps the same measure. It never asks how much a gift was worth. It asks what the gift cost the one who gave it. You can hear that in two places. The first is the very first offering in the Bible, from two brothers, Cain and Abel.
 
 **Narrator** *(calm)* Genesis chapter 4, verses 3 to 5.
 
@@ -160,11 +178,25 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* but He had no regard for Cain and his offering. So Cain became very angry, and his countenance fell.
 
-**Narrator** *(calm)* And David, offered a threshing floor for nothing: 2 Samuel chapter 24, verse 24.
+**Narrator** *(calm)* Abel brought the best of the firstborn of his flock. Cain brought some of what he had. The second place is King David. A man named Araunah offered him a threshing floor, and oxen for the sacrifice, as a free gift. David would not take them.
+
+**Narrator** *(calm)* 2 Samuel chapter 24, verse 24.
 
 > **Reader** *(plainly)* “No,” replied the king, “I insist on paying a price, for I will not offer to the LORD my God burnt offerings that cost me nothing.” So David bought the threshing floor and the oxen for fifty shekels of silver.
 
-**Narrator** *(calm)* Burnt offerings that cost me nothing. Jesus said the same of a widow's two coins: that she had put in more than all the others, because they gave from their surplus and she from her poverty. The lamb was never the point. The giver was.
+**Narrator** *(calm)* Burnt offerings that cost me nothing. David would not give God something that had cost him nothing.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* A thousand years later, Jesus sat in the Temple, opposite the treasury, and watched people putting in their money. Many rich people put in large amounts. Then a poor widow came and put in two small copper coins.
+
+**Narrator** *(calm)* Mark chapter 12, verses 43 to 44.
+
+> **Reader** *(plainly)* Jesus called His disciples to Him and said, “Truly I tell you, this poor widow has put more than all the others into the treasury.
+
+> **Reader** *(plainly)* For they all contributed out of their surplus, but she out of her poverty has put in all she had to live on.”
+
+**Narrator** *(calm)* All she had to live on. That is the measure the Law was teaching with every lamb. The lamb was never the point. The giver was.
 
 ---
 
@@ -174,15 +206,29 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Brian** *(calm)* If anything, I am better at the things God wants me to be better at. Fewer distractions means more focused attention on the people I love, and on the people I need to go and find to love.
 
-**Brian** *(calm)* The law itself leaves me a door. The blind firstborn was not thrown away. Deuteronomy says to eat it at home, as you would a gazelle or a deer, and the page above says what that means: not fit for the altar is not the same as worthless. A thing with a defect still fed a family. I would not have chosen the word defect for myself. But I notice that even this law, the hardest one on these pages for me to read, does not call the blind animal broken. It calls it ordinary.
+**Brian** *(calm)* The law itself leaves me a door. The blind firstborn was not thrown away. Deuteronomy says to eat it at home, as you would a gazelle or a deer, and Matthew Henry says what that means: not fit for the altar is not the same as worthless. A thing with a defect still fed a family. I would not have chosen the word defect for myself. But I notice that even this law, the hardest one in this series for me to read, does not call the blind animal broken. It calls it ordinary.
 
 ---
 
-**Narrator** *(calm)* One last word, and it is the one we planted in the first episode. Malachi ends his charge with, My name is to be feared among the nations. That is "yah-ray." To fear, or to revere. It is the word of the stumbling block law: you shall fear your God. The first law about the blind and the last both rest on it. And look at why. Nobody would see the stone placed in the road. Nobody at the altar could tell, once the animal was offered, whether a better one had been kept back at home. Both laws were written for the wrong that no one catches, and both give the same reason to keep them. God saw.
+**Narrator** *(calm)* One last word, and it is the one we planted in episode seven. Malachi ends his charge with, My name is to be feared among the nations. That is "yah-ray." To fear, or to revere. It is the word of the stumbling block law: you shall fear your God. The first law about the blind and the last both rest on it. And look at why. Nobody would see the stone placed in the road. Nobody at the altar could tell, once the animal was offered, whether a better one had been kept back at home. Both laws were written for the wrong that no one catches, and both give the same reason to keep them. God saw.
 
 *(pause 1.0 s)*
 
-**Narrator** *(calm)* Look back over the four. "Mik-shole", the stumbling block: a word about the fall, not the trip, and a law written for the people who do not catch themselves. "Ah-yin" and "khof-shee", the eye and the freedom: the one price the Law ever put on an eye, and it was paid to the man who lost it, in the coin of the seventh year. "Moom" and "tah-meem", the blemish and the whole: one measure for the priest and the lamb, and a word for wholeness that a blind man can walk in as well as anyone. And "yah-ray", the fear of God, at the beginning and the end.
+**Narrator** *(calm)* Now look back over the whole series, one law at a time.
+
+**Narrator** *(calm)* First, the stumbling block, in episode seven. The word was "mik-shole." Brian asked whether it meant a trip or a fall, and the word answered: a fall, and worse. That law was written for the people who do not catch themselves, and against the man who thought nobody saw.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* Second, the servant's eye, in episode eight. Two words: "ah-yin," the eye, and "khof-shee," free. It was the one price the Law ever put on an eye, and the price went to the man who lost it. Not silver, but freedom, the same freedom as the seventh year, given that very day.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* Then the blind priest, in episode nine, and the blind animal, in this one. They share one word, "moom," a blemish, and one answer to it, "tah-meem," whole. The same measure kept both the priest and the lamb from the altar. But "tah-meem" turned out to be a word for how a person walks, and a blind man can walk whole as well as anyone.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* And holding all four together is one more word: "yah-ray," the fear of God. It was there at the beginning, in the stumbling block law, and it is here at the end, in Malachi.
 
 **Narrator** *(calm)* Four laws. Not one of them calls a blind person broken. One protects him by name. One frees him. One keeps him in the priesthood and at the table. And one, about lambs, says that God is given the best, and then lets the blind animal feed a family. Read as a whole, the Law's word on the blind is not a word about what they lack. It is a word to everyone else, about how to treat them, and about who is watching.
 
