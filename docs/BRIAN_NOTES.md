@@ -327,6 +327,12 @@ reading the ideas page and thinking that each episode opening we get into what a
 
 *Status:* saved while he reads on. The opening device for this series would be the remaining senses (what they can tell, and how they can be fooled), as "a word about words" was for the Law; Zedekiah opens instead on the two prophecies. Decisions so far: six episodes; order maybe Zedekiah first, Samson last; Hebrew books fetched; Levy 1872 as a recurring voice but not Mihai; separate voices per main character, chosen from the free samples page.
 
+## 20 October 2026, for the Zedekiah episode (from chat, verbatim)
+
+remind me for the blinded king that I have sounds that I cannot unhear now that have happened since I lost my vision and those sounds will always stay with me. I can talk about hearing my dog tear his ACL and the doctor cursing while operating on my eye. Things like that. In an episode we might also discuss the notion that manhy blind people would rather stay blind than give up their hearing if that's what it took to get their sigh sight.
+
+*Status:* saved for Brian's section of the Zedekiah episode. The link: the last thing Zedekiah saw stayed with him because he was blinded; Brian's sounds stay with him because he cannot see past them. The second idea (keeping hearing over regaining sight) could sit in Zedekiah or in Eli, the episode built on hearing.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)

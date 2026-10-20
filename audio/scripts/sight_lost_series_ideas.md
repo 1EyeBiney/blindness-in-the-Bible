@@ -149,6 +149,7 @@ bronze fetters, the same word as Samson's.
 Shelf: Henry on 2 Kings 25 and Jeremiah 39; Josephus X.8 (the two prophecies); Smith's on Zedekiah and on
 Blindness (blinding as policy); Levy 1872 on blinding as a punishment in the ancient world; the encyclopedia
 "Riblah".
+Brian's own notes (20 October): sounds he cannot unhear since losing his sight, which will always stay with him (his dog tearing its ACL; the surgeon cursing while operating on his eye), beside the last thing Zedekiah saw, which the blinding made permanent; and that many blind people would rather stay blind than give up their hearing to get their sight back.
 Suggested things Brian might say: the one story in this series with nothing to soften it, and what he does with a
 passage like that; losing sight as a weapon versus losing it as he did; whether the order of events, sons first,
 is the detail that stays with him too.
