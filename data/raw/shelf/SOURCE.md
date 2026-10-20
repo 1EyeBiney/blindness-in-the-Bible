@@ -1130,7 +1130,7 @@ Everything in this folder was retrieved on 2026-10-03 with Brian's approval, usi
 
 ## The Open Scriptures Hebrew Bible (tagged Hebrew text)
 
-- Files: `oshb_Exod.xml`, `oshb_Lev.xml`, `oshb_Deut.xml`, `oshb_Judg.xml`, `oshb_2Sam.xml`, `oshb_2Kgs.xml`, `oshb_Ps.xml`, `oshb_Song.xml`, `oshb_Isa.xml`, `oshb_Jer.xml`, `oshb_Ezek.xml`, `oshb_Mal.xml`, `oshb_README.md`
+- Files: `oshb_Gen.xml`, `oshb_1Sam.xml`, `oshb_1Kgs.xml`, `oshb_Job.xml` (added 20 October 2026 for the sight-lost series), `oshb_Exod.xml`, `oshb_Lev.xml`, `oshb_Deut.xml`, `oshb_Judg.xml`, `oshb_2Sam.xml`, `oshb_2Kgs.xml`, `oshb_Ps.xml`, `oshb_Song.xml`, `oshb_Isa.xml`, `oshb_Jer.xml`, `oshb_Ezek.xml`, `oshb_Mal.xml`, `oshb_README.md`
 - Author: Open Scriptures; the text is the Westminster Leningrad Codex
 - Source URL: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/<Book>.xml
 - Retrieved: 2026-10-14, with Brian's approval
