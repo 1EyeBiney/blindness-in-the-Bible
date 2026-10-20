@@ -28,7 +28,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 *(pause 1.0 s)*
 
-**Narrator** *(calm)* Broken. That is the word this episode has to answer. We will answer it with two Hebrew words, a market in the Temple, a prophet's test, and a look back over everything the Law said about the blind.
+**Narrator** *(calm)* Broken. That is the word this episode has to answer. We will answer it with two Hebrew words, a market in the Temple, a prophet's  test, and a look back over everything the Law said about the blind.
 
 *(pause 1.5 s)*
 
