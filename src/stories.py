@@ -91,11 +91,34 @@ STORIES = [
                       "sought the blessing with tears. None of this undoes what was done to Isaac. The blessing "
                       "stood, as he said it would. But the Bible does not let the deceit pass as if no one saw it.",
         "brian": [
-            "Isaac suffered from more than vision loss if he could not tell the difference in a man's hands. His "
-            "sense of touch must also have been affected. The voice he could tell apart, which is standard, and smell "
-            "can be fooled by clothing, but feeling a person's hand, covered in wool or not, would be difficult to fool.",
-            "Later, Jacob proves the point by knowingly placing his hands on the opposite sons of Joseph.",
+            "This page brings home the reality of the trust we place in the people around us, especially as the other "
+            "senses start to fail. Isaac did everything right. He asked, he listened, he reached out, he smelled the "
+            "clothes. And the people he trusted had prepared for every one of those.",
+            "When I first read this, my thought was that Isaac's sense of touch must have failed along with his sight, "
+            "because how else could goatskin pass for a man's hands? I have changed my mind, and the reason is my own "
+            "hands. Mine sit in conditioned air all day on a keyboard. My wife Barb says they are soft as a baby's "
+            "bottom. Isaac's were not. He had spent a hundred years outdoors among flocks and tents and wells, doing "
+            "hard work for meagre provision. Hands like that do not feel fine detail the way mine do. Josephus says the "
+            "twins differed only in their hairiness. Put a goatskin under a hand like Isaac's and it is not the stretch "
+            "it sounds.",
+            "It helps to remember where he was. Beersheba was his place. He had reopened his father's well there and "
+            "named it, and he was still there decades later when Jacob left. A blind man in a camp he has known for "
+            "half a lifetime is a different man from one set down in a strange room. He would have known his tent, "
+            "his way to the door, who usually came and went. That is part of why the deceit worked. Nothing about the "
+            "day was strange except the one thing that mattered.",
+            "The detail that stays with me is Esau's voice. A few minutes earlier Isaac had picked out Jacob's voice "
+            "through a disguise, so his hearing was fine. Yet when Esau walked in, Isaac asked, \"Who are you?\" "
+            "Nothing was wrong with his ears. What had changed was what he expected. He had just blessed Esau and sent "
+            "him out, so the man coming in could not be Esau. I call this context. My ears tell me a great deal, but "
+            "what I expect to hear tells me almost as much, and when the two disagree, expectation often wins. It won "
+            "twice in one hour for Isaac.",
+            "I asked whether all this went unpunished, and the answer is on this page now under What came of it. It "
+            "does not undo what happened to Isaac. But it tells me that someone saw.",
+            "One more thing. You hear it all day long: look before you leap, look both ways, watch out. Sight is the "
+            "sense people trust without thinking. This chapter is about a man who had to trust the others instead, "
+            "and who was let down not by his senses but by his family.",
         ],
+
     },
     {
         "slug": "jacob", "title": "Jacob blesses Joseph's sons", "who": "Jacob (Israel)", "group": "not_restored",
