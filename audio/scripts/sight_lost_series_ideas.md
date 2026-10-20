@@ -189,3 +189,26 @@ for Zedekiah; Gaza and Sorek for Samson. Beersheba, Gaza and Shiloh are already 
 4. Yes or no to fetching the six more books of tagged Hebrew from Open Scriptures.
 5. Whether Levy 1872 becomes a recurring voice.
 6. Which scene voices, and whether one old-man voice serves Isaac, Jacob, Eli and Ahijah on purpose.
+
+## Decided 20 October, after Brian's read
+
+- Six episodes. Order provisionally Zedekiah first and Samson last, to be settled after Brian re-reads the pages.
+- The opening device: what a blind person can and cannot tell with the remaining senses, and how they can be
+  fooled. It runs through Isaac (fooled), Jacob (knew how to cross his hands), Eli (hears God, hears the news last),
+  Ahijah (told, not recognizing), Samson (led by the hand, finds the pillars by touch). Zedekiah is the exception and
+  opens on the two prophecies and how both could be true. Brian's notes for Zedekiah: the sounds he cannot unhear;
+  that many blind people would keep their hearing over regaining sight (could also sit in Eli).
+- Tagged Hebrew fetched for Genesis, 1 Samuel, 1 Kings and Job (20 October). Nothing else needs downloading: the
+  shelf already holds Henry, Josephus, Smith's, Easton's, the 1915 encyclopedia and Levy 1872.
+- Levy 1872 is a recurring voice, in a voice of its own, not Mihai. Each main scene character gets a separate voice.
+  Brian picks shortlists from audio/deliver/voice_samples.html (free ElevenLabs samples), then a short paid audition
+  of only those.
+
+## The order of work, as for the Law
+
+1. Expand the six story pages first, from the shelf: deeper place-and-time items with sources; The word section
+   (now that the Hebrew is on the shelf) added to story pages, which have not had one; the senses thread written
+   into "In their shoes"; a map for each story (places to add: Hebron, Tirzah, Sorek; Goshen and Riblah off-map).
+   Not everything the episode will do: no imagined scenes on the pages, and Brian's thoughts stay his.
+2. Brian reads the six pages and adds his thoughts, in detail, where they settle.
+3. Scripts are drafted from the pages, as the Law scripts were.
