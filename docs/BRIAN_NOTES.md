@@ -321,6 +321,12 @@ I thiunk we will go back to the formula that we used for Restored sight series w
 
 *Status:* set aside until episode 10 is posted. Proposed series names (not yet decided): 1 to 6 "Sight given by Jesus", 7 to 10 "The Law", next "Sight lost and not given back" (Isaac, Jacob, Eli, Ahijah, Samson, Zedekiah, the site's group of that name). Episode 10's teaser (clip 49, "The stories of the Old Testament are still to come") left unchanged; Brian notes it gives no episode count.
 
+## 20 October 2026, the sight-lost series openings (from chat, verbatim)
+
+reading the ideas page and thinking that each episode opening we get into what a blind person can and cannot tell with remaining senses. We get into old age some with a couple, but in general, we can highlight the fact that our other sense are still important  and used, and even get fooled. and for the blinded king one, we start with telling both pprophecies and how could they possibly be true. That might be the deviant among the others, I'm not sure, but I'm seeing a common thread with Eli, Hezzie, even Jacob (I think) where he knew how to cross his hands. I'm still reading ideas, save this for a sec.
+
+*Status:* saved while he reads on. The opening device for this series would be the remaining senses (what they can tell, and how they can be fooled), as "a word about words" was for the Law; Zedekiah opens instead on the two prophecies. Decisions so far: six episodes; order maybe Zedekiah first, Samson last; Hebrew books fetched; Levy 1872 as a recurring voice but not Mihai; separate voices per main character, chosen from the free samples page.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
