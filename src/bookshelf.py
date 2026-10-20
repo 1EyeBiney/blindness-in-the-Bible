@@ -72,6 +72,13 @@ WORKS = [
      "Which Hebrew word stands in each verse, so that the pages can say where else a word is used.",
      "The Westminster Leningrad Codex with each word tagged with its Strong's number. Every claim on the pages "
      "about a word is checked against it on each build.", ["Open Scriptures Hebrew Bible"]),
+    ("strongs-greek", "Strong's Greek dictionary (1894), Open Scriptures edition",
+     "The meaning of the New Testament's word for blind, for the words page.",
+     "The same concordance dictionary, Greek side. Brief glosses, used for the plain sense of a word.",
+     ["Strong's Greek"]),
+    ("morphgnt_", "MorphGNT: the SBL Greek New Testament, every word tagged with its lemma",
+     "Where the New Testament uses its word for blind, so the count can be checked rather than quoted.",
+     "The site counts and locates Greek words in it; it does not republish the Greek text.", ["MorphGNT"]),
 ]
 SKIP = (".json", ".html")       # working files, not sources
 

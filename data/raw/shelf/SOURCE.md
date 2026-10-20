@@ -1130,9 +1130,29 @@ Everything in this folder was retrieved on 2026-10-03 with Brian's approval, usi
 
 ## The Open Scriptures Hebrew Bible (tagged Hebrew text)
 
-- Files: `oshb_Gen.xml`, `oshb_1Sam.xml`, `oshb_1Kgs.xml`, `oshb_Job.xml` (added 20 October 2026 for the sight-lost series), `oshb_Exod.xml`, `oshb_Lev.xml`, `oshb_Deut.xml`, `oshb_Judg.xml`, `oshb_2Sam.xml`, `oshb_2Kgs.xml`, `oshb_Ps.xml`, `oshb_Song.xml`, `oshb_Isa.xml`, `oshb_Jer.xml`, `oshb_Ezek.xml`, `oshb_Mal.xml`, `oshb_README.md`
+- Files: `oshb_Gen.xml`, `oshb_Exod.xml`, `oshb_Lev.xml`, `oshb_Num.xml`, `oshb_Deut.xml`, `oshb_Josh.xml`, `oshb_Judg.xml`, `oshb_Ruth.xml`, `oshb_1Sam.xml`, `oshb_2Sam.xml`, `oshb_1Kgs.xml`, `oshb_2Kgs.xml`, `oshb_1Chr.xml`, `oshb_2Chr.xml`, `oshb_Ezra.xml`, `oshb_Neh.xml`, `oshb_Esth.xml`, `oshb_Job.xml`, `oshb_Ps.xml`, `oshb_Prov.xml`, `oshb_Eccl.xml`, `oshb_Song.xml`, `oshb_Isa.xml`, `oshb_Jer.xml`, `oshb_Lam.xml`, `oshb_Ezek.xml`, `oshb_Dan.xml`, `oshb_Hos.xml`, `oshb_Joel.xml`, `oshb_Amos.xml`, `oshb_Obad.xml`, `oshb_Jonah.xml`, `oshb_Mic.xml`, `oshb_Nah.xml`, `oshb_Hab.xml`, `oshb_Zeph.xml`, `oshb_Hag.xml`, `oshb_Zech.xml`, `oshb_Mal.xml`, `oshb_README.md` (all 39 books; 12 fetched 2026-10-14, 4 on 20 October for the sight-lost series, the remaining 23 on 20 October for the words page, all with Brian's approval)
 - Author: Open Scriptures; the text is the Westminster Leningrad Codex
 - Source URL: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/<Book>.xml
 - Retrieved: 2026-10-14, with Brian's approval
 - Licence basis: Lemma and morphology data CC BY 4.0 (oshb_README.md); the Leningrad Codex text is public domain.
-- Odd things: OSIS XML; each word carries a `lemma` attribute with its Strong's number, sometimes with a prefix such as "c/" for an attached conjunction. Only the books the site needs were fetched. Read by src/hebrew.py.
+- Odd things: OSIS XML; each word carries a `lemma` attribute with its Strong's number, sometimes with a prefix such as "c/" for an attached conjunction. The whole Hebrew Bible is now on the shelf, so word counts can be checked across it. Read by src/hebrew.py.
+
+## Strong's Greek dictionary (1894)
+
+- File: `strongs-greek-dictionary.js`
+- Author: James Strong; JSON edition by Open Scriptures
+- Year: 1894 (edition 2010)
+- Source URL: https://raw.githubusercontent.com/openscriptures/strongs/master/greek/strongs-greek-dictionary.js
+- Retrieved: 2026-10-20, with Brian's approval, for the words page
+- Licence basis: Public-domain text (1894); the Open Scriptures edition is CC BY-SA, as its header states.
+- Size: 1,200,839 bytes
+- Odd things: The same shape as the Hebrew file, keyed "G5185" and so on. Read by src/greek.py.
+
+## MorphGNT: the SBL Greek New Testament, every word tagged with its lemma
+
+- Files: `morphgnt_61-Mt.txt`, `morphgnt_62-Mk.txt`, `morphgnt_63-Lk.txt`, `morphgnt_64-Jn.txt`, `morphgnt_65-Ac.txt`, `morphgnt_66-Ro.txt`, `morphgnt_67-1Co.txt`, `morphgnt_68-2Co.txt`, `morphgnt_69-Ga.txt`, `morphgnt_70-Eph.txt`, `morphgnt_71-Php.txt`, `morphgnt_72-Col.txt`, `morphgnt_73-1Th.txt`, `morphgnt_74-2Th.txt`, `morphgnt_75-1Ti.txt`, `morphgnt_76-2Ti.txt`, `morphgnt_77-Tit.txt`, `morphgnt_78-Phm.txt`, `morphgnt_79-Heb.txt`, `morphgnt_80-Jas.txt`, `morphgnt_81-1Pe.txt`, `morphgnt_82-2Pe.txt`, `morphgnt_83-1Jn.txt`, `morphgnt_84-2Jn.txt`, `morphgnt_85-3Jn.txt`, `morphgnt_86-Jud.txt`, `morphgnt_87-Re.txt`, `morphgnt_README.md`
+- Author: James Tauber, ed., MorphGNT: SBLGNT Edition, version 6.12 (2017); the text is the SBL Greek New Testament (Michael W. Holmes, ed., 2010)
+- Source URL: https://raw.githubusercontent.com/morphgnt/sblgnt/master/<nn-Book>-morphgnt.txt
+- Retrieved: 2026-10-20, with Brian's approval, for the words page
+- Licence basis: The parsing and lemma data are CC BY-SA 3.0 (morphgnt_README.md). The SBLGNT text is under the SBLGNT end-user licence, which permits free non-commercial use; the site does not republish the Greek text, it only counts and locates lemmas, and quotes the English Berean text.
+- Odd things: One word per line: book-chapter-verse code (04 is John), part of speech, parsing, the word three ways, then the lemma. The site matches by lemma (for example the Greek for blind), not by Strong's number, which these files do not carry. Read by src/greek.py.

@@ -488,7 +488,7 @@ def test_bookshelf_lists_every_source_with_its_pages(tmp_path):
                 assert f in shown, f"{f} is on the shelf but not on the bookshelf page"
     for w in bs.works():
         assert build_site.e(w["title"]) in h and "<b>Terms:</b>" in h
-        if not w["title"].startswith(("The Pulpit", "Easton")):
+        if not w["title"].startswith(("The Pulpit", "Easton", "Strong's Greek", "MorphGNT")):   # the Greek waits for the words page
             assert w["pages"], w["title"]
         for href, _ in w["pages"]:
             assert (tmp_path / href).is_file(), href
