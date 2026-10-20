@@ -13,6 +13,10 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-20", "The words, in one place",
+     "A new page gathers every Hebrew word the site follows, and the New Testament's word for blind, with how often "
+     "each occurs and where. The counts are read from the tagged Hebrew and Greek texts, now on the bookshelf in full.",
+     "words.html"),
     ("2026-10-20", "Episode 10: The blind animal and the altar",
      "The last of the four episodes on the Law, and the one Brian found hardest: the law of the blind animal, the "
      "market it made in the Temple, Malachi's test, and a look back over all four laws. It plays on the blind-animals "

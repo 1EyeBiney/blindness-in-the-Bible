@@ -48,7 +48,7 @@ def test_blindfold_verses_are_set_aside():
 
 def test_site_builds_and_is_accessible(tmp_path):
     build_site.render_all(tmp_path)
-    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "accessibility.html", "bookshelf.html", "catalog.html", "check-our-work.html", "episodes.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html", "whats-new.html"]
+    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "accessibility.html", "bookshelf.html", "catalog.html", "check-our-work.html", "episodes.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html", "whats-new.html", "words.html"]
     pages = sorted(tmp_path.rglob("*.html"))
     for p in pages:
         h = p.read_text(encoding="utf-8")
@@ -488,7 +488,7 @@ def test_bookshelf_lists_every_source_with_its_pages(tmp_path):
                 assert f in shown, f"{f} is on the shelf but not on the bookshelf page"
     for w in bs.works():
         assert build_site.e(w["title"]) in h and "<b>Terms:</b>" in h
-        if not w["title"].startswith(("The Pulpit", "Easton", "Strong's Greek", "MorphGNT")):   # the Greek waits for the words page
+        if not w["title"].startswith(("The Pulpit", "Easton")):
             assert w["pages"], w["title"]
         for href, _ in w["pages"]:
             assert (tmp_path / href).is_file(), href
@@ -549,3 +549,26 @@ def test_law_pages_carry_pictures_from_their_episodes(tmp_path):
                 f = ROOT / "media" / "images" / f"{p['name']}-{w}.jpg"
                 assert f.is_file() and f.stat().st_size < 600_000, f.name
     assert "map-ep07" in (tmp_path / "law" / "stumbling-block.html").read_text(encoding="utf-8")
+
+
+def test_words_page_counts_and_verses_rest_on_the_tagged_texts(tmp_path):
+    """Every word on the words page has a real count from the tagged Hebrew or Greek text, every sample verse
+    contains the word, every number used by a page's own word section is on the page, and the Greek sources
+    are cited."""
+    import lexicon as lx
+    import words as wd
+    build_site.render_all(tmp_path)
+    h = (tmp_path / "words.html").read_text(encoding="utf-8")
+    keys = set()
+    for _, _, entries in lx.GROUPS:
+        for w in entries:
+            lx.check(w)
+            n, nv, verses = lx.count_and_verses(w)
+            assert n >= nv >= len(w["samples"]) >= 1, w["spelling"]
+            assert f'id="{w["spelling"]}"' in h and w["say"] in h, w["spelling"]
+            keys.add(w["key"])
+    for slug, entries in wd.WORDS.items():
+        for w in entries:
+            assert w["number"] in keys, (slug, w["number"])
+    assert "MorphGNT" in h and "Strong's Greek" in h and 'href="what-blind-means.html"' in h
+    assert h.index("The words for blind") < h.index("Sight going") < h.index("Sight taken") < h.index("Around the blind")

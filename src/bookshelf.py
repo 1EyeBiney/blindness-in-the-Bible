@@ -119,6 +119,11 @@ def _pages_citing(words_: list[str]) -> list[tuple[str, str]]:
         for p in pg.by_section("law"):
             if p["slug"] in wd.WORDS:
                 found.append((f"law/{p['slug']}.html", p["title"]))
+        for s in st.STORIES:
+            if s["slug"] in wd.WORDS:
+                found.append((f"stories/{s['slug']}.html", s["title"]))
+    if any(w in ("Strong's", "Strong's Greek", "Open Scriptures Hebrew Bible", "MorphGNT") for w in words_):
+        found.append(("words.html", "The words"))     # the words page cites all four tagged-text sources
     return found
 
 

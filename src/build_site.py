@@ -145,7 +145,7 @@ def page(title: str, body: str, current: str, root: str = "", share: dict | None
            ("life/index.html", "Living blind, then"), ("picture/index.html", "Blindness as a picture"),
            ("walk-by-faith.html", "Walk by faith"),
            ("catalog.html", "The catalog"), ("how-it-was-made.html", "How it was made"),
-           ("check-our-work.html", "Check our work"), ("bookshelf.html", "The bookshelf"),
+           ("words.html", "The words"), ("check-our-work.html", "Check our work"), ("bookshelf.html", "The bookshelf"),
            ("whats-new.html", "What's new"), ("accessibility.html", "Accessibility"), ("about.html", "About")]
     links = "".join(
         f'<li><a href="{root}{href}"{" aria-current=\"page\"" if href == current else ""}'
@@ -372,6 +372,38 @@ def episodes_page() -> str:
             f"with pictures and captions</li>"
             f"<li>Read the study: {pages_}</li></ul></section>")
     return "\n".join(parts)
+
+
+def words_page(bible: dict) -> str:
+    import lexicon as lx
+    parts = [f"<h1>{e(lx.TITLE)}</h1>", f'<p class="lede">{e(lx.INTRO[0])}</p>'] + [f"<p>{e(x)}</p>" for x in lx.INTRO[1:]]
+    parts.append("<h2>On this page</h2><ul>" + "".join(
+        f'<li><a href="#{slugify(h)}">{e(h)}</a>: ' + ", ".join(e(w["spelling"]) for w in ws) + "</li>" for h, _, ws in lx.GROUPS) + "</ul>")
+    for heading, lead, entries in lx.GROUPS:
+        parts.append(f'<h2 id="{slugify(heading)}">{e(heading)}</h2><p>{e(lead)}</p>')
+        for w in entries:
+            lx.check(w)
+            n, nv, verses = lx.count_and_verses(w)
+            lang = "Greek" if lx.is_greek(w) else "Hebrew"
+            parts.append(f'<h3 id="{e(w["spelling"])}">{e(w["spelling"])}, said {e(w["say"])}</h3>')
+            parts.append(f"<p><b>{lang}.</b> Strong's: {e(lx.gloss(w))}. It occurs {n} time{'s' if n != 1 else ''} in "
+                         f"{nv} verse{'s' if nv != 1 else ''}" + (f", of which the first is {e(passage_label(verses[0] + (verses[0][2],)))} and the last {e(passage_label(verses[-1] + (verses[-1][2],)))}" if nv > len(w["samples"]) else "") + ".</p>")
+            parts.extend(f"<p>{e(t)}</p>" for t in w["text"])
+            parts.append("<ul>" + "".join(f'<li><b>{e(passage_label((b, c, v, v)))}</b> {e(bible[(b, c, v)])}</li>' for b, c, v in w["samples"]) + "</ul>")
+            used = lx.pages_using(w)
+            if used:
+                parts.append("<p>Followed on: " + "; ".join(f'<a href="{e(h)}">{e(t)}</a>' for h, t in used) + ".</p>")
+    parts.append("<p class=\"source\">Sources: Strong's Hebrew dictionary (1894) and Strong's Greek dictionary (1894), Open "
+                 "Scriptures editions; the Open Scriptures Hebrew Bible, every word tagged with its Strong's number; MorphGNT, "
+                 "the SBL Greek New Testament with every word tagged with its lemma. The counts are read from those texts at "
+                 "each build. The figurative uses of blind, the blind guides and the eyes that cannot see, have their own pages "
+                 "under <a href=\"picture/index.html\">blindness as a picture</a>.</p>")
+    return "\n".join(parts)
+
+
+def slugify(s: str) -> str:
+    import re as _re
+    return _re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 
 
 def bookshelf_page() -> str:
@@ -683,6 +715,8 @@ what happens, what it was like to be there, and the place and the time from the 
 passage read word for word, music, and Brian's own thoughts.</li>
 <li><a href="law/index.html">The law</a>: four pages reading what God commanded about the blind as evidence of how they
 were treated, set beside the older law codes of the region.</li>
+<li><a href="words.html">The words</a>: every Hebrew and Greek word the site follows, side by side, with how often
+each occurs and where.</li>
 <li><a href="life/index.html">Living blind, then</a>: six pages on daily life without sight in the herding camp, the
 village, the walled town, Jerusalem, with and without a guide, and through the centuries since.</li>
 <li><a href="picture/index.html">Blindness as a picture</a>: seven pages reading the verses where blindness stands for
@@ -783,6 +817,8 @@ def render_all(out: Path = OUT) -> None:
     (out / check_our_work.SLUG).write_text(
         page(check_our_work.TITLE, check_our_work.BODY, check_our_work.SLUG), encoding="utf-8")
     (out / spectrum.SLUG).write_text(page(spectrum.TITLE, spectrum.render(bible), spectrum.SLUG), encoding="utf-8")
+    import lexicon as lx
+    (out / lx.SLUG).write_text(page(lx.TITLE, words_page(bible), lx.SLUG), encoding="utf-8")
     (out / "stories").mkdir(exist_ok=True)
     (out / "stories" / "index.html").write_text(
         page("The stories", stories_index(), "stories/index.html", root="../", banner=banner("stories/index")),

@@ -109,3 +109,40 @@ if __name__ == "__main__":
     for w in words(book, ch, vs):
         e = w["entry"]
         print(f"{w['strongs']:>6}  {w['hebrew']:<14} {e.get('xlit', ''):<14} {e.get('strongs_def', '')[:70]}")
+
+
+@lru_cache(maxsize=None)
+def _index() -> dict:
+    """Strong's number -> list of (book, chapter, verse, how many times in that verse), whole Bible, in order."""
+    out: dict[str, list] = {}
+    for book, osis in OSIS.items():
+        path = SHELF / f"oshb_{osis}.xml"
+        if not path.exists():
+            continue
+        root = ET.parse(path).getroot()
+        for v in root.iter(f"{{{NS['o']}}}verse"):
+            vid = v.get("osisID", "")
+            try:
+                _, ch, vs = vid.split(".")
+            except ValueError:
+                continue
+            counts: dict[str, int] = {}
+            for w in v.findall("o:w", NS):
+                nums = [re.sub(r"[^\d]", "", part) for part in w.get("lemma", "").split("/")]
+                nums = [n for n in nums if n]
+                if nums:
+                    key = f"H{nums[-1]}"
+                    counts[key] = counts.get(key, 0) + 1
+            for key, n in counts.items():
+                out.setdefault(key, []).append((book, int(ch), int(vs), n))
+    return out
+
+
+def occurrences(number: str) -> list[tuple[str, int, int]]:
+    """Every verse in which the word occurs, in Bible order."""
+    return [(b, c, v) for b, c, v, _ in _index().get(number, [])]
+
+
+def count(number: str) -> int:
+    """How many times the word occurs in the Hebrew Bible."""
+    return sum(n for *_, n in _index().get(number, []))
