@@ -1,0 +1,355 @@
+{
+ "_comment": "Shot list for episode 10, the last of four on the Law. 10 new paintings plus the title and close backgrounds (prompts below, generated in this order); the look back reuses one picture from each Law episode, and the Temple market and overturned tables come from episode 5. No imagined scenes are spoken in this series.",
+ "style": "Painterly oil-sketch look, visible brushwork, warm natural light, the land and buildings of ancient Israel and its neighbours. No faces shown close up: people are seen from behind or at a distance. No text or lettering anywhere. No modern objects. Calm and hopeful, never frightening or graphic. 16:9.",
+ "shots": [
+  {
+   "from": "001",
+   "image": "ep10_the_blind_animal/01_blind_corner.jpg",
+   "card": "Not By Sight",
+   "prompt": "A narrow lane in an old stone town bends sharply around a high blank wall, so you cannot see what is coming round the corner.",
+   "description": "A narrow lane in an old stone town bends sharply around a high blank wall, so you cannot see what is coming round the corner; warm afternoon light on one side, deep shade on the other, a single bird on the wall. No people."
+  },
+  {
+   "from": "003",
+   "at_phrase": "It is about lambs.",
+   "image": "site_batch2/04_blind_animals.jpg",
+   "card": "Not about blind people",
+   "prompt": "",
+   "description": "At the entrance to the sanctuary court, a shepherd holds a young lamb while a priest in white looks on."
+  },
+  {
+   "from": "004",
+   "image": "ep08_the_servants_eye/10_the_altar.jpg",
+   "card": "Leviticus 22:22",
+   "prompt": "",
+   "description": "The bronze altar in the tabernacle courtyard."
+  },
+  {
+   "from": "005",
+   "image": "ep01_man_born_blind/00_brian_navy.png",
+   "card": "Mister Scaredy Cat",
+   "prompt": "",
+   "description": "A photograph treated to match the paintings: Brian as a young sailor in Navy whites, with Patti beside him. A small plate beneath him reads Mister Scaredy Cat."
+  },
+  {
+   "from": "006",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane leaning against a church pew. Brian speaks."
+  },
+  {
+   "from": "007",
+   "image": "site_batch2/04_blind_animals.jpg",
+   "card": "Broken",
+   "prompt": "",
+   "description": "The shepherd and the lamb at the sanctuary court."
+  },
+  {
+   "from": "008",
+   "image": "ep10_the_blind_animal/title_card.jpg",
+   "card": "Not By Sight\nEpisode 10: The blind animal and the altar",
+   "prompt": "Title card over a flock of sheep and lambs on a hillside at dusk: Not By Sight, episode ten, the blind animal and the altar.",
+   "description": "Title card background only: a flock of sheep with young lambs settling on a hillside at dusk, a shepherd's fire small in the distance, the first stars over the hills, no people close up, no text, keep the lower third calm."
+  },
+  {
+   "from": "009",
+   "image": "ep07_the_stumbling_block/05_camp_at_sinai.jpg",
+   "card": "Three places and a thousand years",
+   "prompt": "",
+   "description": "The camp of dark tents at the foot of the mountain."
+  },
+  {
+   "from": "010",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Leviticus 22:17-25",
+   "prompt": "",
+   "description": "The open scroll in warm light. The Scripture reader begins."
+  },
+  {
+   "from": "011",
+   "image": "ep10_the_blind_animal/02_the_firstborn.jpg",
+   "card": "The firstborn of the flock",
+   "prompt": "A shepherd, seen from behind, kneels in a sheepfold among ewes and newborn lambs, gently lifting one.",
+   "description": "A shepherd seen from behind kneels in a sheepfold at morning among ewes and their newborn lambs, gently lifting one small lamb, a low stone wall and hills beyond. Tender and quiet."
+  },
+  {
+   "from": "012",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Deuteronomy 15:19-23",
+   "prompt": "",
+   "description": "The open scroll."
+  },
+  {
+   "from": "013",
+   "image": "ep10_the_blind_animal/03_eaten_at_home.jpg",
+   "card": "Eaten at home",
+   "prompt": "Evening in a village courtyard: a family shares a meal of bread and roasted meat by lamplight, children among them.",
+   "description": "Evening in the courtyard of a simple village house: a family sits on mats around a shared meal of bread and roasted meat by the light of a clay lamp, children among them, seen from behind and the side, faces turned away or in shadow. Warm and ordinary."
+  },
+  {
+   "from": "013",
+   "at_phrase": "Matthew Henry, a pastor in England",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "Matthew Henry, 1706",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "013",
+   "at_phrase": "The blemish kept it from the altar",
+   "image": "ep10_the_blind_animal/03_eaten_at_home.jpg",
+   "card": "The table, not the altar",
+   "prompt": "",
+   "description": "The family meal by lamplight."
+  },
+  {
+   "from": "014",
+   "image": "ep09_the_blind_priest/06_the_lamb.jpg",
+   "card": "Moom",
+   "prompt": "",
+   "description": "The spotless white lamb in its pen."
+  },
+  {
+   "from": "015",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Exodus 12:5",
+   "prompt": "",
+   "description": "The open scroll."
+  },
+  {
+   "from": "016",
+   "image": "ep09_the_blind_priest/06_the_lamb.jpg",
+   "card": "Tah-meem",
+   "prompt": "",
+   "description": "The white lamb."
+  },
+  {
+   "from": "018",
+   "image": "ep10_the_blind_animal/04_walking_whole.jpg",
+   "card": "Blameless",
+   "prompt": "A man with a long staff, seen from behind, walks steadily along a road at sunrise, his free hand trailing along a low stone wall.",
+   "description": "A man with a long walking staff, seen from behind, walks steadily along a quiet road through hill country at sunrise, his free hand trailing along a low stone wall beside the road, the light ahead of him. Hopeful."
+  },
+  {
+   "from": "020",
+   "at_phrase": "So the thing the altar asked of a lamb",
+   "image": "ep10_the_blind_animal/04_walking_whole.jpg",
+   "card": "A blind man can walk whole",
+   "prompt": "",
+   "description": "The man walking the road at sunrise, his hand along the wall."
+  },
+  {
+   "from": "021",
+   "image": "ep05_the_blind_in_the_crowd/11_temple_market.png",
+   "card": "The market this law made",
+   "prompt": "",
+   "description": "The outer court of the Temple as a market: money changers, cages of doves, sheep and oxen."
+  },
+  {
+   "from": "024",
+   "image": "ep05_the_blind_in_the_crowd/11_temple_market.png",
+   "card": "Edersheim, 1883",
+   "prompt": "",
+   "description": "The Temple market."
+  },
+  {
+   "from": "025",
+   "at_phrase": "Now think back to episode five.",
+   "image": "ep05_the_blind_in_the_crowd/12_they_come_in.png",
+   "card": "The tables overturned",
+   "prompt": "",
+   "description": "Tables overturned and coins scattered on the paving."
+  },
+  {
+   "from": "026",
+   "image": "ep10_the_blind_animal/05_malachi.jpg",
+   "card": "Malachi",
+   "prompt": "The courtyard of the rebuilt Temple: a prophet in a rough cloak, seen from behind, speaks to a group of priests by the altar.",
+   "description": "The courtyard of the rebuilt Temple in Jerusalem, plainer than Solomon's: a lean prophet in a rough cloak, seen from behind, stands speaking to a small group of priests in white near the altar, some of whom have turned away. Late afternoon light."
+  },
+  {
+   "from": "027",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Malachi 1:6-14",
+   "prompt": "",
+   "description": "The open scroll."
+  },
+  {
+   "from": "028",
+   "image": "ep10_the_blind_animal/05_malachi.jpg",
+   "card": "Step by step",
+   "prompt": "",
+   "description": "Malachi before the priests."
+  },
+  {
+   "from": "029",
+   "image": "ep10_the_blind_animal/06_the_governor.jpg",
+   "card": "Try offering that to your governor",
+   "prompt": "The hall of a Persian governor: a seated official on a raised dais while a petitioner, seen at a distance, holds out a fine young ram.",
+   "description": "The hall of a Persian governor: a seated official on a raised dais under a canopy, seen from a distance, while a petitioner bows before him holding out a gift of a fine young ram. Columns, rich hangings, warm light. No faces close up."
+  },
+  {
+   "from": "030",
+   "at_phrase": "And last, the curse.",
+   "image": "ep10_the_blind_animal/07_kept_back.jpg",
+   "card": "The curse",
+   "prompt": "A man, seen from behind, leads a thin, limping sheep out through the gate while a fine ram stands behind him in the fold.",
+   "description": "Dawn in a farmyard: a man seen from behind leads a thin, limping sheep out through the gate on a rope, while behind him in the fold a strong, fine ram stands watching. Quiet, a little sorrowful, not graphic."
+  },
+  {
+   "from": "031",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "Matthew Henry",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "032",
+   "image": "ep10_the_blind_animal/05_malachi.jpg",
+   "card": "What is said to the priests is said to all",
+   "prompt": "",
+   "description": "Malachi before the priests."
+  },
+  {
+   "from": "033",
+   "image": "ep10_the_blind_animal/07_kept_back.jpg",
+   "card": "The giver",
+   "prompt": "",
+   "description": "The fine ram left in the fold."
+  },
+  {
+   "from": "034",
+   "at_phrase": "The first is the very first offering",
+   "image": "ep10_the_blind_animal/08_cain_and_abel.jpg",
+   "card": "Cain and Abel",
+   "prompt": "Two stone altars on open ground: from one smoke rises straight and bright, from the other a thin smoke drifts low; two small figures beside them.",
+   "description": "Two simple stone altars on open ground under a wide sky, at a distance from each other: from one, smoke rises straight and bright toward a break in the clouds; from the other, a thin smoke drifts low along the ground. Two figures stand by them, seen from behind, small."
+  },
+  {
+   "from": "036",
+   "at_phrase": "The second place is King David.",
+   "image": "ep10_the_blind_animal/09_threshing_floor.jpg",
+   "card": "King David",
+   "prompt": "A hilltop threshing floor with oxen and a threshing sled; a king, seen from behind, holds out a purse of silver to the farmer.",
+   "description": "A threshing floor on a hilltop above a city, a wide circle of beaten earth with sheaves and a wooden threshing sled, a yoke of oxen standing by; a king in a dark cloak, seen from behind, holds out a heavy purse of silver to a farmer. Morning light."
+  },
+  {
+   "from": "037",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "2 Samuel 24:24",
+   "prompt": "",
+   "description": "The open scroll."
+  },
+  {
+   "from": "039",
+   "image": "ep10_the_blind_animal/10_the_widows_coins.jpg",
+   "card": "Two small copper coins",
+   "prompt": "In a Temple colonnade, a poor widow in a dark shawl, seen from behind, drops two small coins into a bronze collection chest.",
+   "description": "In a colonnade of the Temple, a row of tall bronze trumpet-shaped collection chests; a poor widow in a plain dark shawl, seen from behind, reaches up to drop two small coins into one, while richly dressed men stand a little apart. Soft light between the columns."
+  },
+  {
+   "from": "040",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Mark 12:43-44",
+   "prompt": "",
+   "description": "The open scroll."
+  },
+  {
+   "from": "041",
+   "image": "ep10_the_blind_animal/10_the_widows_coins.jpg",
+   "card": "All she had to live on",
+   "prompt": "",
+   "description": "The widow at the treasury."
+  },
+  {
+   "from": "042",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian",
+   "prompt": "",
+   "description": "The white cane and the pew. Brian's closing thoughts."
+  },
+  {
+   "from": "043",
+   "at_phrase": "The law itself leaves me a door.",
+   "image": "ep10_the_blind_animal/03_eaten_at_home.jpg",
+   "card": "It fed a family",
+   "prompt": "",
+   "description": "The family meal by lamplight."
+  },
+  {
+   "from": "044",
+   "image": "ep07_the_stumbling_block/04_stone_in_the_path.jpg",
+   "card": "Yah-ray",
+   "prompt": "",
+   "description": "The stone on the path."
+  },
+  {
+   "from": "044",
+   "at_phrase": "Nobody at the altar could tell",
+   "image": "ep08_the_servants_eye/10_the_altar.jpg",
+   "card": "God saw",
+   "prompt": "",
+   "description": "The altar in the tabernacle courtyard."
+  },
+  {
+   "from": "045",
+   "at_phrase": "First, the stumbling block",
+   "image": "ep07_the_stumbling_block/04_stone_in_the_path.jpg",
+   "card": "Episode 7: the stumbling block",
+   "prompt": "",
+   "description": "The stone on the path."
+  },
+  {
+   "from": "046",
+   "image": "site_batch2/02_servant_blinded.jpg",
+   "card": "Episode 8: the servant's eye",
+   "prompt": "",
+   "description": "A freed servant walking out into open country."
+  },
+  {
+   "from": "047",
+   "image": "ep09_the_blind_priest/03_the_priests_table.jpg",
+   "card": "Episode 9: the blind priest",
+   "prompt": "",
+   "description": "Priests sharing a meal, one guided to his place."
+  },
+  {
+   "from": "047",
+   "at_phrase": "But \"tah-meem\" turned out",
+   "image": "ep10_the_blind_animal/04_walking_whole.jpg",
+   "card": "Whole",
+   "prompt": "",
+   "description": "The man walking the road at sunrise."
+  },
+  {
+   "from": "048",
+   "image": "ep07_the_stumbling_block/08_the_whole_people.jpg",
+   "card": "Yah-ray",
+   "prompt": "",
+   "description": "A whole people on the two mountains."
+  },
+  {
+   "from": "048",
+   "at_phrase": "Four laws.",
+   "image": "site_batch2/18_picture_front.jpg",
+   "card": "Four laws",
+   "prompt": "",
+   "description": "A clay lamp on a window ledge at dawn."
+  },
+  {
+   "from": "049",
+   "image": "ep07_the_stumbling_block/03_sinai.jpg",
+   "card": "This has been the Law",
+   "prompt": "",
+   "description": "The mountain at first light."
+  },
+  {
+   "from": "050",
+   "image": "ep10_the_blind_animal/close_card.jpg",
+   "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
+   "prompt": "Closing card over a sheepfold on a hillside at dawn: For we walk by faith, not by sight, and the address blindnessinthebible.com.",
+   "description": "Closing card background only: dawn over a quiet sheepfold on a hillside, the flock resting, the low stone wall catching the first gold light, a wide clear sky, no people, no text, keep the upper half calm."
+  }
+ ]
+}
