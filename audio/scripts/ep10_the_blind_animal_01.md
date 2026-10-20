@@ -78,9 +78,9 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 ---
 
-**Narrator** *(calm)* Now the words, and this law has two, a negative and a positive. The negative is one you heard last time. The animal must not have a "moom", a blemish. It is exactly the word of the blind priest. The priest with a "moom" does not approach; the lamb with a "moom" is not accepted. The Law used the same measure for the man and for the lamb, and in the end, as the encyclopedia notes, for Christ, the lamb without blemish.
+**Narrator** *(calm)* Now the words, and this law has two, a negative and a positive. The negative is one you heard last time. The animal must not have a "moom," a blemish. It is exactly the word of the blind priest. The priest with a "moom" does not approach; the lamb with a "moom" is not accepted. The Law used the same measure for the man and for the lamb, and in the end, as the encyclopedia notes, for Christ, the lamb without blemish.
 
-**Narrator** *(calm)* The positive word is "tah-meem." The animal must be "tah-meem", which the Berean text gives as unblemished and Strong's as entire, whole, complete. It is the Passover lamb's word.
+**Narrator** *(calm)* The positive word is "tah-meem." The animal must be "tah-meem," which the Berean text gives as unblemished and Strong's as entire, whole, complete. It is the Passover lamb's word.
 
 **Narrator** *(calm)* Exodus chapter 12, verse 5.
 
@@ -92,15 +92,15 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* You must be blameless before the LORD your God.
 
-**Narrator** *(beat)* Blameless. "Tah-meem".
+**Narrator** *(beat)* Blameless. "Tah-meem."
 
 **Narrator** *(calm)* Psalm chapter 15, verse 2.
 
 > **Reader** *(plainly)* He who walks with integrity and practices righteousness, who speaks the truth from his heart,
 
-**Narrator** *(beat)* With integrity. "Tah-meem".
+**Narrator** *(beat)* With integrity. "Tah-meem."
 
-**Narrator** *(calm)* So the thing the altar asked of a lamb is the thing God asks of a person's walk. Whole. And in neither case does it have anything to do with eyes. A blind man can walk "tah-meem". That is the whole of the Law's answer to the word defect, and it is the beginning of the answer to Brian's word, broken.
+**Narrator** *(calm)* So the thing the altar asked of a lamb is the thing God asks of a person's walk. Whole. And in neither case does it have anything to do with eyes. A blind man can walk "tah-meem." That is the whole of the Law's answer to the word defect, and it is the beginning of the answer to Brian's word, broken.
 
 ---
 
@@ -140,7 +140,7 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 > **Reader** *(plainly)* “But cursed is the deceiver who has an acceptable male in his flock and vows to give it, but sacrifices a defective animal to the Lord. For I am a great King,” says the LORD of Hosts, “and My name is to be feared among the nations.
 
-**Narrator** *(calm)* Hear how the argument builds. It goes step by step.
+**Narrator** *(calm)* Now go back through it, one step at a time.
 
 **Narrator** *(calm)* It starts with family. A son honors his father, and a servant his master. So if God is a father, where is His honor? If He is a master, where is the respect?
 
@@ -204,13 +204,13 @@ Script for reading. Speaker names in bold, cues in italics, Scripture indented.
 
 **Brian** *(calm)* This one was harder to read than I expected, and not because of what it asks of a lamb. It is because it puts blindness straight into the category of broken. In society's terms I am disabled. But when I hear of a disabled car, I can swap in the word broken without losing anything, and I most certainly do not feel broken. I do most tasks differently now, with a different set of skills and more steps. Yet I still carry nearly all the same obligations, responsibilities, enjoyments and pleasures that I had with full sight.
 
-**Brian** *(calm)* If anything, I am better at the things God wants me to be better at. Fewer distractions means more focused attention on the people I love, and on the people I need to go and find to love.
+**Brian** *(calm)* If anything, I am better at the things God wants me to be better at. Fewer distractions mean more focused attention on the people I love, and on the people I need to go and find to love.
 
 **Brian** *(calm)* The law itself leaves me a door. The blind firstborn was not thrown away. Deuteronomy says to eat it at home, as you would a gazelle or a deer, and Matthew Henry says what that means: not fit for the altar is not the same as worthless. A thing with a defect still fed a family. I would not have chosen the word defect for myself. But I notice that even this law, the hardest one in this series for me to read, does not call the blind animal broken. It calls it ordinary.
 
 ---
 
-**Narrator** *(calm)* One last word, and it is the one we planted in episode seven. Malachi ends his charge with, My name is to be feared among the nations. That is "yah-ray." To fear, or to revere. It is the word of the stumbling block law: you shall fear your God. The first law about the blind and the last both rest on it. And look at why. Nobody would see the stone placed in the road. Nobody at the altar could tell, once the animal was offered, whether a better one had been kept back at home. Both laws were written for the wrong that no one catches, and both give the same reason to keep them. God saw.
+**Narrator** *(calm)* One last word, and it is the one we planted in episode seven. Malachi ends his charge with these words: My name is to be feared among the nations. That is "yah-ray." To fear, or to revere. It is the word of the stumbling block law: you shall fear your God. The first law about the blind and the last both rest on it. And look at why. Nobody would see the stone placed in the road. Nobody at the altar could tell, once the animal was offered, whether a better one had been kept back at home. Both laws were written for the wrong that no one catches, and both give the same reason to keep them. God saw.
 
 *(pause 1.0 s)*
 

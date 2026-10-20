@@ -130,6 +130,6 @@ Each paragraph below is in the scripts as a BRIAN line but was written by Claude
 
 1. (approved by Brian) This one was harder to read than I expected, and not because of what it asks of a lamb. It is because it puts blindness straight into the category of broken. In society's terms I am disabled. But when I hear of a disabled car, I can swap in the word broken without losing anything, and I most certainly do not feel broken. I do most tasks differently now, with a different set of skills and more steps. Yet I still carry nearly all the same obligations, responsibilities, enjoyments and pleasures that I had with full sight.
 
-2. (approved by Brian) If anything, I am better at the things God wants me to be better at. Fewer distractions means more focused attention on the people I love, and on the people I need to go and find to love.
+2. (approved by Brian) If anything, I am better at the things God wants me to be better at. Fewer distractions mean more focused attention on the people I love, and on the people I need to go and find to love.
 
 3. (approved by Brian) The law itself leaves me a door. The blind firstborn was not thrown away. Deuteronomy says to eat it at home, as you would a gazelle or a deer, and Matthew Henry says what that means: not fit for the altar is not the same as worthless. A thing with a defect still fed a family. I would not have chosen the word defect for myself. But I notice that even this law, the hardest one in this series for me to read, does not call the blind animal broken. It calls it ordinary.

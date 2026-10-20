@@ -21,7 +21,7 @@ DRAFT_BRIAN = [
     "car, I can swap in the word broken without losing anything, and I most certainly do not feel broken. I do most "
     "tasks differently now, with a different set of skills and more steps. Yet I still carry nearly all the same "
     "obligations, responsibilities, enjoyments and pleasures that I had with full sight.",
-    "If anything, I am better at the things God wants me to be better at. Fewer distractions means more focused "
+    "If anything, I am better at the things God wants me to be better at. Fewer distractions mean more focused "
     "attention on the people I love, and on the people I need to go and find to love.",
     "The law itself leaves me a door. The blind firstborn was not thrown away. Deuteronomy says to eat it at home, "
     "as you would a gazelle or a deer, and Matthew Henry says what that means: not fit for the altar is not the "
@@ -90,21 +90,21 @@ def build(bible: dict) -> list[str]:
 
     # ---- The words: \"moom\" and \"tah-meem\" ---------------------------------------------------------------------------
     add("[NARRATOR] (calm) Now the words, and this law has two, a negative and a positive. The negative is one you "
-        "heard last time. The animal must not have a \"moom\", a blemish. It is exactly the word of the blind priest. "
+        "heard last time. The animal must not have a \"moom,\" a blemish. It is exactly the word of the blind priest. "
         "The priest with a \"moom\" does not approach; the lamb with a \"moom\" is not accepted. The Law used the same "
         "measure for the man and for the lamb, and in the end, as the encyclopedia notes, for Christ, the lamb "
         "without blemish.")
-    add("[NARRATOR] (calm) The positive word is \"tah-meem.\" The animal must be \"tah-meem\", which the Berean text "
+    add("[NARRATOR] (calm) The positive word is \"tah-meem.\" The animal must be \"tah-meem,\" which the Berean text "
         "gives as unblemished and Strong's as entire, whole, complete. It is the Passover lamb's word.")
     ext(reader(bible, "Exodus", 12, 5, 5))
     add("[NARRATOR] (calm) But here is what the dictionary cannot tell you and the Bible can. \"Tah-meem\" is a word used of "
         "people far more often than of animals. Listen.")
     ext(reader(bible, "Deuteronomy", 18, 13, 13))
-    add("[NARRATOR] (beat) Blameless. \"Tah-meem\".")
+    add("[NARRATOR] (beat) Blameless. \"Tah-meem.\"")
     ext(reader(bible, "Psalm", 15, 2, 2))
-    add("[NARRATOR] (beat) With integrity. \"Tah-meem\".")
+    add("[NARRATOR] (beat) With integrity. \"Tah-meem.\"")
     add("[NARRATOR] (calm) So the thing the altar asked of a lamb is the thing God asks of a person's walk. Whole. "
-        "And in neither case does it have anything to do with eyes. A blind man can walk \"tah-meem\". That is the whole "
+        "And in neither case does it have anything to do with eyes. A blind man can walk \"tah-meem.\" That is the whole "
         "of the Law's answer to the word defect, and it is the beginning of the answer to Brian's word, broken.")
     add("[BREAK]")
 
@@ -131,7 +131,7 @@ def build(bible: dict) -> list[str]:
         "and four hundred before the tables were overturned. His argument builds by steps, and the order matters. "
         "Hear it whole.")
     ext(reader(bible, "Malachi", 1, 6, 14))
-    add("[NARRATOR] (calm) Hear how the argument builds. It goes step by step.")
+    add("[NARRATOR] (calm) Now go back through it, one step at a time.")
     add("[NARRATOR] (calm) It starts with family. A son honors his father, and a servant his master. So if God is a "
         "father, where is His honor? If He is a master, where is the respect?")
     add("[NARRATOR] (calm) Then the charge. The priests have called the LORD's table contemptible. They bring blind "
@@ -173,8 +173,8 @@ def build(bible: dict) -> list[str]:
         "putting in their money. Many rich people put in large amounts. Then a poor widow came and put in two small "
         "copper coins.")
     ext(reader(bible, "Mark", 12, 43, 44))
-    add("[NARRATOR] (calm) All she had to live on. That is the measure the Law was teaching with every lamb. The "
-        "lamb was never the point. The giver was.")
+    add("[NARRATOR] (calm) All she had to live on. That is the measure the Law was teaching with every offering. God "
+        "never looked first at the size of the gift. He looked at the heart of the giver.")
     add("[BREAK]")
 
     # ---- From Brian ---------------------------------------------------------------------------------------
@@ -184,9 +184,9 @@ def build(bible: dict) -> list[str]:
     add(f"[BRIAN] (calm) {DRAFT_BRIAN[2]}")
     add("[BREAK]")
 
-    # ---- The frame closes: \"yah-ray\", and the look back ---------------------------------------------------------
+    # ---- The frame closes: \"yah-ray,\" and the look back ---------------------------------------------------------
     add("[NARRATOR] (calm) One last word, and it is the one we planted in episode seven. Malachi ends his charge "
-        "with, My name is to be feared among the nations. That is \"yah-ray.\" To fear, or to revere. It is the "
+        "with these words: My name is to be feared among the nations. That is \"yah-ray.\" To fear, or to revere. It is the "
         "word of the stumbling block law: you shall fear your God. The first law about the blind and the last both "
         "rest on it. And look at why. Nobody would see the stone placed in the road. Nobody at the altar could tell, "
         "once the animal was offered, whether a better one had been kept back at home. Both laws were written for "
