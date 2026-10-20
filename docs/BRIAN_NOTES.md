@@ -348,7 +348,7 @@ You hear advice all the time: look before you leap, look both ways before crossi
 
 [Brian:] my thoughts need to be re-written and expanded upon. I think I opened some cans of worms with my thoughts there that we need to work through or have as a Brian's questions part. I don't know yet, but let's address them before changing anything
 
-*Status:* being worked through in chat before anything changes.
+*Status:* done 20 October: "What came of it" added to the page; his section rewritten in six paragraphs from these notes and approved.
 
 ## Questions waiting for Brian
 
