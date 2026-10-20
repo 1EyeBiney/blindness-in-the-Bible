@@ -58,7 +58,9 @@ def test_every_story_without_place_and_time_has_a_key_and_the_requests_are_there
     for slug in needed:
         assert slug in data, slug
         # the gatherer was budgeted at seven per story; Job later gained two more by hand (Henry on Mark 8, Pulpit)
-        assert 3 <= len(data[slug]) <= (9 if slug == 'job' else 7), (slug, len(data[slug]))
+        # the sight-lost series pass (October 2026) added items by hand to its six stories
+        cap = 12 if slug in ('isaac', 'jacob', 'eli', 'ahijah', 'samson', 'zedekiah') else (9 if slug == 'job' else 7)
+        assert 3 <= len(data[slug]) <= cap, (slug, len(data[slug]))
     for key in REQUEST_KEYS:
         assert key in data and data[key], key
     # no key for a story that already has its own place and time, and no unknown keys

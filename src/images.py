@@ -202,6 +202,14 @@ def _site_batches() -> None:
 
 _site_batches()
 
+# The stories of sight lost: a map each, added after the site-batch banner (October 2026).
+STORY_PICTURES["isaac"].append(
+    {"slot": "map", "source": "maps/isaac.png", "name": "map-isaac",
+     "alt": "The series map, with Beersheba marked in gold at the southern edge of the land.",
+     "caption": "The map, in words. Beersheba lies at the southern limit of the land, about two days' walk south-west of "
+                "Jerusalem, at seven o'clock with north at twelve. Isaac lived there, and Jacob left from there for Haran, "
+                "far to the north-east beyond the map."})
+
 
 # Pictures through the Law pages, from the Law episodes (Brian, 20 October 2026: the same pattern as the story pages).
 # Page name -> pictures after the banner. Slots: around (What leads up to it), says (What it says), word (The word),

@@ -279,6 +279,11 @@
       "focus": "jerusalem",
       "focus2": "shechem",
       "visited": []
+    },
+    "isaac": {
+      "title": "Isaac and the stolen blessing",
+      "focus": "beersheba",
+      "visited": []
     }
   }
 }

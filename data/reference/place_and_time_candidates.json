@@ -70,6 +70,84 @@
    ],
    "confidence": "medium",
    "caution": "Henry's reading of what Isaac was trying to do. The shelf has no source on the daily setting of Genesis 27 (the tents, the household) beyond this."
+  },
+  {
+   "text": "Matthew Henry, around 1706, called the deception a wrong to Isaac, 'taking advantage of his infirmity, to impose upon him', and noticed that Jacob laid himself open to the curse of Deuteronomy 27:18 on anyone who leads the blind astray: the same law this site reads on its stumbling-block page.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Genesis 27",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 973765,
+     "quote": "it was a wrong to Isaac, taking advantage of his infirmity, to impose upon him"
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 974586,
+     "quote": "divine curse which is pronounced upon him that causeth the blind to wander out of the way, Deut. xxvii. 18"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Henry also walked through the senses one by one. Isaac knew Esau's best clothes 'by the stuff, shape, and smell'; Rebekah covered Jacob's hands and neck because their smoothness would have betrayed him; and the voice, Henry says, 'is a thing not easily disguised nor counterfeited', which is why it was the one sense that was not fooled. He adds that in the end 'the judgment will be, as here, by the hands.'",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Genesis 27",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 976972,
+     "quote": "Isaac knew these, by the stuff, shape, and smell, to be Esau's"
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 981991,
+     "quote": "voice is a thing not easily disguised nor counterfeited"
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 982249,
+     "quote": "the judgment will be, as here, by the hands"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "William Hanks Levy, a blind author writing a history of blindness in 1872, began it with Isaac, 'the first case of blindness recorded in history'. He asked his readers to notice 'the intelligent use made by Isaac of his hearing, touch, and smell', surprising in a man of his age, and judged that 'the wonderful sagacity shown by Isaac would appear to have been almost sufficient under ordinary circumstances to have discovered the fraud'.",
+   "source": "W. Hanks Levy, Blindness and the Blind (1872), 'The Patriarch Isaac'",
+   "evidence": [
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 341411,
+     "quote": "The first case of blindness recorded in history is that of Isaac"
+    },
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 342687,
+     "quote": "intelligent use made by Isaac of his hearing, touch, and smell"
+    },
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 350024,
+     "quote": "the wonderful sagacity shown by Isaac would appear to have been almost sufficient under ordinary circumstances to have discovered the fraud"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Isaac's home in these years was Beersheba, where he had reopened his father's well and where Jacob set out from on the road to Haran. Smith's dictionary describes it as one of the oldest places in the land and its southern limit, as in the phrase 'from Dan even unto Beersheba', with two great wells still in use when the dictionary was written, one of them twelve and a half feet across.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Beersheba'; Genesis 26:33 and 28:10",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 323964,
+     "quote": "formed the southern limit of the country"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 324794,
+     "quote": "12 1/2 feet in diameter"
+    }
+   ],
+   "confidence": "high"
   }
  ],
  "jacob": [

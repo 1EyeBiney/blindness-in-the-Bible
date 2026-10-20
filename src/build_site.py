@@ -492,10 +492,13 @@ def story_page(story: dict, bible: dict, order: list[dict]) -> str:
              f"<h2>What happens</h2><p>{e(story['happens'])}</p>" + pics.get("happens", ""),
              (f"<h2>Before and after</h2><p>{e(story['before_after'])}</p>" if story.get("before_after") else ""),
              f"<h2>In their shoes</h2><p>{e(story['shoes'])}</p>" + pics.get("shoes", "")]
+    if story.get("senses"):
+        parts.append(f"<h2>What the other senses told him</h2><p>{e(story['senses'])}</p>")
     if story.get("sight"):
         sight = e(story["sight"]).replace("See what blind means here.",
                                           'See <a href="../what-blind-means.html">what blind means here</a>.')
         parts.append(f"<h2>How much could he see?</h2><p>{sight}</p>")
+    parts.append(word_html(story, bible, "../"))
     if story.get("brian"):
         parts.append("<h2>From Brian</h2>")
         parts.extend(f"<p>{e(para)}</p>" for para in story["brian"])
@@ -558,7 +561,7 @@ def word_html(page: dict, bible: dict, root: str) -> str:
     if not entries:
         return ""
     parts = ["<h2>The word</h2>",
-             "<p>The Hebrew word this law turns on, and where else the Bible uses it. The spelling is a plain one for "
+             f"<p>The Hebrew word this {'law' if page.get('section') == 'law' else 'passage'} turns on, and where else the Bible uses it. The spelling is a plain one for "
              "saying aloud; the meaning is from Strong's dictionary of 1894, and every verse listed really uses the "
              "word, which the build checks against the tagged Hebrew text.</p>"]
     for w in entries:

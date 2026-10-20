@@ -191,7 +191,7 @@ def render(ep_key: str | None) -> tuple[Path, str]:
         for k in focus:
             dot(d, places[k], 30, GOLD, outline=INK, width=6)
             label(d, places[k], f_m, INK, dx=44, key=k)
-        title = f"Episode {int(ep_key[2:])}: {ep['title']}"
+        title = f"Episode {int(ep_key[2:])}: {ep['title']}" if ep_key.startswith("ep") else ep["title"]
     else:
         for k, p in towns.items():
             dot(d, p, 14, (235, 225, 200), outline=INK, width=4)
@@ -256,7 +256,8 @@ def describe(ep_key: str | None) -> str:
         return "\n".join(lines)
     ep = DATA["episodes"][ep_key]
     fp = places[ep["focus"]]
-    lines = [f"Episode {int(ep_key[2:])}, {ep['title']}. The map highlights {fp['name']} in gold. {fp.get('note', '')}".rstrip()]
+    head = f"Episode {int(ep_key[2:])}, {ep['title']}" if ep_key.startswith("ep") else ep["title"]
+    lines = [f"{head}. The map highlights {fp['name']} in gold. {fp.get('note', '')}".rstrip()]
     if ep.get("focus2"):
         p2 = places[ep["focus2"]]
         lines.append(f"A second gold mark is {p2['name']}, {walk_words(km(fp, p2))} from {fp['name']}, at "

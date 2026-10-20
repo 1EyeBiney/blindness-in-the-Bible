@@ -82,3 +82,8 @@ From Machaerus, Jerusalem is about a day's walk, at 10 o'clock.
 Episode 7, The stumbling block. The map highlights Jerusalem in gold. The Pool of Siloam is at the south end of the city; the Temple Mount at its east.
 A second gold mark is Shechem, about 1 and a half days' walk from Jerusalem, at 12 o'clock. Between Mount Gerizim to the south and Mount Ebal to the north, where the tribes stood to answer the blessings and curses (Deuteronomy 27).
 Jerusalem is the city itself.
+
+## isaac.png
+
+Isaac and the stolen blessing. The map highlights Beersheba in gold. Isaac's country; the blessing was given from his tent, place not named in Genesis 27.
+From Beersheba, Jerusalem is about 2 days' walk, at 1 o'clock.

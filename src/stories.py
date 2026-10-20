@@ -65,6 +65,20 @@ STORIES = [
                  "blindness but his own family, who know exactly which senses he will rely on and prepare a "
                  "disguise for each one. The passage shows what it is to depend on the honesty of the people in "
                  "the room, and what it feels like when that trust is used against you.",
+        "senses": "Count the senses in the room. Hearing: the voice is right, and Isaac says so; it is the one "
+                  "sense that is not fooled, and he overrules it. Touch: the hands are hairy, as Esau's are, "
+                  "because Rebekah has thought of touch before he has. Smell: the clothes are Esau's own, and the "
+                  "smell of the field decides him. Taste: the meal is what he asked for. Four senses out of five "
+                  "report Esau, and three of them have been dressed for the purpose. A blind person lives by exactly "
+                  "this kind of cross-checking, and it works most days. This is the Bible's record of the day it "
+                  "did not, and the reason it did not is not the man's senses. It is that every one of them was "
+                  "being managed by people who knew him.",
+        "before_after": "Isaac was sixty when the twins were born and lived to a hundred and eighty, so the blind "
+                        "old man who said he did not know the day of his death had decades left. Esau was forty "
+                        "when he married, before this chapter, which puts Isaac past a hundred here; Jacob's "
+                        "twenty years with Laban all fell inside his father's lifetime, and when Jacob came home "
+                        "Isaac was still alive to be buried by both sons together. Nothing in Genesis says his "
+                        "sight ever came back.",
         "brian": [
             "Isaac suffered from more than vision loss if he could not tell the difference in a man's hands. His "
             "sense of touch must also have been affected. The voice he could tell apart, which is standard, and smell "

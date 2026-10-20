@@ -451,7 +451,9 @@ def test_the_word_sections_rest_on_the_tagged_hebrew_text(tmp_path):
     import hebrew
     import pages as pg
     import words as wd
-    assert set(wd.WORDS) == {p["slug"] for p in pg.by_section("law")}
+    import stories as st
+    law = {p["slug"] for p in pg.by_section("law")}
+    assert law <= set(wd.WORDS) and set(wd.WORDS) - law <= {s["slug"] for s in st.STORIES}
     bible = build_site.load_bible()
     for slug, entries in wd.WORDS.items():
         for w in entries:
@@ -462,7 +464,7 @@ def test_the_word_sections_rest_on_the_tagged_hebrew_text(tmp_path):
                 assert hebrew.has(book, ch, v, w["number"]), (slug, w["spelling"], book, ch, v)
                 assert (book, ch, v) in bible, (book, ch, v)
     build_site.render_all(tmp_path)
-    for slug in wd.WORDS:
+    for slug in law:
         h = (tmp_path / "law" / f"{slug}.html").read_text(encoding="utf-8")
         assert h.count("<h2>The word</h2>") == 1, slug
         assert h.index("What it may tell us") < h.index("<h2>The word</h2>") < h.index("<h2>From Brian</h2>"), slug

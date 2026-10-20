@@ -8,6 +8,29 @@ The English of every verse is the Berean Standard Bible, pulled in by the builde
 """
 
 WORDS = {
+    # ---- the stories of sight lost (October 2026) ----
+    "isaac": [
+        {"number": "H3543", "spelling": "kahah", "say": "kah-HAH",
+         "gloss": "to be weak; of the eye, to be dim",
+         "verses": [("Genesis", 27, 1), ("Deuteronomy", 34, 7), ("Job", 17, 7), ("Isaiah", 42, 4)],
+         "text": [
+             "Genesis does not say Isaac was blind. It says his eyes had grown weak, or dim: the verb kahah, which "
+             "Strong's gives as to be weak, and of a light or an eye, to grow dim. It is the Bible's ordinary word for "
+             "sight failing with age. The same verb is used of Moses to say the opposite, that at a hundred and twenty "
+             "his eyes were not weak; Job uses it of eyes dimmed by grief; and Isaiah uses it of the Servant who will "
+             "not grow weak. A form of the same root describes Eli's eyes in 1 Samuel 3. So the text puts Isaac among "
+             "the old whose sight has gone, and leaves open how far it had gone; the story then turns on what he "
+             "could not see."]},
+        {"number": "H4959", "spelling": "mashash", "say": "mah-SHASH",
+         "gloss": "to feel of; by implication, to grope",
+         "verses": [("Genesis", 27, 12), ("Genesis", 27, 22), ("Deuteronomy", 28, 29), ("Job", 12, 25)],
+         "text": [
+             "The other word of the chapter is the one for what Isaac did with his hands. Jacob fears his father will "
+             "feel him, and Isaac does: mashash, to feel over, and by extension to grope. Outside this chapter the "
+             "word is mostly used of the blind groping, as in the curse of Deuteronomy 28, where people grope at noon "
+             "as the blind grope in the dark. In Genesis 27 it is not groping. It is a careful man checking with the "
+             "sense he trusts, and the one sense his family had prepared for."]},
+    ],
     "stumbling-block": [
         {"number": "H4383", "spelling": "mikshol", "say": "mik-SHOLE",
          "gloss": "a stumbling-block, literally or figuratively",
