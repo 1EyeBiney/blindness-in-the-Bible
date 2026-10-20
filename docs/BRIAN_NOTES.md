@@ -315,6 +315,12 @@ use George, "C:\nbs\blindness-in-the-Bible\audio\deliver\audition3_books\01_Geor
 
 *Status:* done. HENRY (George) reads Matthew Henry; BOOKS (Mihai) reads Josephus, Edersheim, the encyclopedia, Hammurabi and Amenemope. He also has new Suno music for the series.
 
+## 20 October 2026, the next series: sight lost (from chat, verbatim)
+
+I thiunk we will go back to the formula that we used for Restored sight series with this Sight Lost series. My question is whether we can get 6 full episodes off this material. I don't think the teaser now specifies the number of episodes in the next series so it may not be a decision that needs made before rendering EP10. After we get EP10 up on YouTube and present on the site. I will switch to Fable and have it start working on expanding story ideas and writing draft scripts to take advantage of full creativity. But before then we can start to think of some ideas and see if any of them come up naturally. If I remember correctly, we are going to be thin starting out on those pages with content and we add imagined scenes, possibly Hebrew words as we have that now, other voices if necessary, we don't want too many if we have a few in imagined scenes, where we are, the Shelf commentaries, and can probably dig deeper into those. We might pose some other questions that can be answered, and I will need to add my thoughts in detail at some point, probably after we expand the content and it starts to settle in, but you can suggest things I might say and see if I agree. Actually, save this and set it aside for now. We will continue with EP10 till finished then I will switch to Fable.
+
+*Status:* set aside until episode 10 is posted. Proposed series names (not yet decided): 1 to 6 "Sight given by Jesus", 7 to 10 "The Law", next "Sight lost and not given back" (Isaac, Jacob, Eli, Ahijah, Samson, Zedekiah, the site's group of that name). Episode 10's teaser (clip 49, "The stories of the Old Testament are still to come") left unchanged; Brian notes it gives no episode count.
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
