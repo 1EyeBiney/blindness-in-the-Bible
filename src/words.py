@@ -31,6 +31,105 @@ WORDS = {
              "as the blind grope in the dark. In Genesis 27 it is not groping. It is a careful man checking with the "
              "sense he trusts, and the one sense his family had prepared for."]},
     ],
+    "jacob": [
+        {"number": "H3513", "spelling": "kabed", "say": "kah-BAYD",
+         "gloss": "to be heavy; of eyes or ears, dull",
+         "verses": [("Genesis", 48, 10), ("Isaiah", 6, 10), ("Isaiah", 59, 1)],
+         "text": [
+             "Genesis uses a different word for Jacob's eyes than for his father's. Isaac's grew dim; Jacob's were "
+             "kabed, heavy. It is the ordinary word for a heavy load, and the Bible uses it of eyes that are dull, ears "
+             "that are dull, and hearts that are hard. The same root gives the word for glory, which is weight of a "
+             "different kind. The Berean text's 'his eyesight was poor' is this word: eyes that had grown heavy with "
+             "age, so that he could hardly see, though the next verses have him see two shapes and ask who they are."]},
+        {"number": "H7919", "spelling": "sakal", "say": "sah-KAL",
+         "gloss": "circumspect; to act wisely, with understanding",
+         "verses": [("Genesis", 48, 14), ("1 Samuel", 18, 14), ("Psalm", 2, 10), ("Isaiah", 52, 13)],
+         "text": [
+             "The word for what Jacob did with his hands is not a word about hands at all. When he crossed them, "
+             "Genesis says he did it sakal: the King James has 'guiding his hands wittingly', the Berean simply "
+             "'crossing his hands'. Everywhere else the word means to act wisely, to prosper by understanding: David "
+             "behaving wisely in all his ways, the kings of the earth told to be wise, the Servant who will act wisely. "
+             "So the text answers Joseph before Joseph speaks. The blind man's hands were not confused. They were "
+             "the wise part of the scene."]},
+    ],
+    "eli": [
+        {"number": "H3544", "spelling": "keheh", "say": "kay-HEH",
+         "gloss": "feeble, dim, faded",
+         "verses": [("1 Samuel", 3, 2), ("Isaiah", 42, 3), ("Isaiah", 61, 3), ("Leviticus", 13, 39)],
+         "text": [
+             "Isaac's eyes were described with a verb, kahah, to grow dim. Eli's are described with the adjective "
+             "from the same root, keheh: dim, faded, feeble. It is the word for a spot on the skin that has faded, for "
+             "the smouldering wick the Servant will not put out, and for the faint spirit that is given a garment of "
+             "praise. The picture is of something going out slowly, not gone. In chapter three Eli's eyes have begun "
+             "to fade; by chapter four, at ninety-eight, the text says he could not see."]},
+        {"number": "H6965", "spelling": "qum", "say": "koom",
+         "gloss": "to rise, to stand; of eyes, to be set or fixed",
+         "verses": [("1 Samuel", 4, 15), ("1 Kings", 14, 4)],
+         "text": [
+             "At the gate the text uses a stranger phrase: Eli's eyes 'stood', qum, the everyday verb for getting "
+             "up. The Berean has 'his gaze was fixed'; the King James, 'his eyes were dim'. Only one other person in "
+             "the Bible has eyes described this way, and he is in the next story: Ahijah, whose eyes were set because "
+             "of his age. It is the Bible's picture of the fixed, unfocused look of eyes that no longer track what is "
+             "in front of them, and it is used of two old men of Shiloh."]},
+    ],
+    "ahijah": [
+        {"number": "H6965", "spelling": "qum", "say": "koom",
+         "gloss": "to rise, to stand; of eyes, to be set or fixed",
+         "verses": [("1 Kings", 14, 4), ("1 Samuel", 4, 15)],
+         "text": [
+             "Kings says Ahijah could not see because his eyes 'stood', qum, the common verb for rising up, used here "
+             "of eyes that have set in place. The Berean gives it as 'his eyes were dim because of his age'. The only "
+             "other eyes in the Bible described with this word are Eli's, in the same town, a century and more before. "
+             "Shiloh had two blind old men in its story, and the text reaches for the same word for both."]},
+        {"number": "H5234", "spelling": "nakar", "say": "nah-KAR",
+         "gloss": "to scrutinize; to recognize, or in one form to disguise oneself",
+         "verses": [("1 Kings", 14, 5), ("1 Kings", 14, 6), ("Genesis", 27, 23), ("Genesis", 37, 33), ("Genesis", 42, 8)],
+         "text": [
+             "The word for the queen's disguise is the word for recognizing. Nakar means to look closely and know "
+             "someone; in one of its forms it turns inside out and means to make oneself unrecognizable, which is what "
+             "the LORD tells Ahijah she will do, and what Ahijah names at the door. It is the word used when Isaac did "
+             "not recognize Jacob, when Jacob recognized Joseph's robe, and when Joseph recognized his brothers and "
+             "they did not recognize him. The whole family history of this series runs through it, and here, for once, "
+             "the blind man is the one who recognizes."]},
+    ],
+    "zedekiah": [
+        {"number": "H5786", "spelling": "avar", "say": "ah-VAR",
+         "gloss": "to blind",
+         "verses": [("2 Kings", 25, 7), ("Jeremiah", 39, 7), ("Jeremiah", 52, 11), ("Exodus", 23, 8), ("Deuteronomy", 16, 19)],
+         "text": [
+             "Three times the Bible tells this and three times it uses the same verb: avar, to blind, the root under "
+             "ivver, the plain word for a blind man. Zedekiah is the only person in the Old Testament of whom the "
+             "verb is used literally. Its other two uses are in the Law, and they are about bribes: a bribe blinds "
+             "those who see, a bribe blinds the eyes of the wise. The word that describes what Babylon did to the king "
+             "is the word Moses used for what a gift in the wrong hand does to a judge."]},
+        {"number": "H5178", "spelling": "nechosheth", "say": "neh-KHO-sheth",
+         "gloss": "copper, hence something made of it: a fetter",
+         "verses": [("2 Kings", 25, 7), ("Jeremiah", 39, 7), ("Jeremiah", 52, 11), ("Judges", 16, 21)],
+         "text": [
+             "The fetters are named in all three accounts, and the word, in its paired form, means two pieces of "
+             "bronze: shackles. There is one other man in the Bible bound in the same word after being blinded, and "
+             "he is Samson. The two men the Bible says were blinded by their enemies were both led away in bronze, a "
+             "king and a judge, four hundred years apart."]},
+    ],
+    "samson": [
+        {"number": "H5365", "spelling": "naqar", "say": "nah-KAR",
+         "gloss": "to bore, to dig out, to quarry",
+         "verses": [("Judges", 16, 21), ("1 Samuel", 11, 2), ("Isaiah", 51, 1), ("Job", 30, 17)],
+         "text": [
+             "The verb for what the Philistines did is naqar: to bore or dig out, the word for quarrying stone from "
+             "a rock. Isaiah uses it for the quarry Israel was hewn from; Job for pain boring into his bones. The only "
+             "other eyes it is used of are the right eyes Nahash the Ammonite demanded from the men of Jabesh-gilead, "
+             "a story also on this site. It is a workman's word, and the text does not soften it."]},
+        {"number": "H2912", "spelling": "tachan", "say": "tah-KHAN",
+         "gloss": "to grind meal",
+         "verses": [("Judges", 16, 21), ("Exodus", 32, 20), ("Isaiah", 47, 2), ("Job", 31, 10)],
+         "text": [
+             "What Samson did in the prison was tachan, to grind grain, the daily work of a hand mill. Elsewhere it is "
+             "Moses grinding the golden calf to powder, and the daughter of Babylon told to take millstones and grind "
+             "as a sign of her humiliation. Job swears that if he has sinned, his wife may grind for another man. It "
+             "was the lowest household labour, usually done by women or slaves, and the strongest man in Israel was "
+             "put to it, by touch, in the dark."]},
+    ],
     "stumbling-block": [
         {"number": "H4383", "spelling": "mikshol", "say": "mik-SHOLE",
          "gloss": "a stumbling-block, literally or figuratively",

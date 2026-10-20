@@ -125,6 +125,23 @@ STORIES = [
         "outcome": "not_restored",
         "passages": [("Genesis", 48, 8, 20)],
         "sight": "Genesis says Israel's eyesight was poor because of old age and that he could hardly see. That is low vision, not total blindness. Jacob may have seen two shapes in front of him and still not known which boy was which. See what blind means here.",
+        "senses": "Jacob could see shapes. He saw that Joseph had brought two boys and asked who they were, but he "
+                  "could not tell which was which, and that is the whole of the scene. What he had instead was his "
+                  "hands, and the memory of hands. He kissed the boys and embraced them, as his own father had kissed "
+                  "him on the day he was deceived. Then he did with his hands the one thing Isaac could not: he placed "
+                  "them on purpose, crossed, knowing exactly whose head was under each. A blind man who has lived with "
+                  "it for years does not grope. He arranges things, counts, and keeps track, and when a sighted hand "
+                  "reaches in to correct him he has to say, as Jacob did, that he knows.",
+        "before_after": "Jacob was a hundred and thirty when he came down to Egypt and told Pharaoh his years had been "
+                        "few and hard; he lived seventeen more and died at a hundred and forty-seven. This scene comes "
+                        "at the end of those seventeen years, when Joseph is told his father is ill and brings his sons. "
+                        "After it, in the next chapter, Jacob gathers all twelve of his sons around the bed and speaks "
+                        "to each one by name, blind, and then draws up his feet and dies. His body went home to the "
+                        "cave at Machpelah near Hebron, where Isaac and Abraham lay.",
+        "came_of_it": "The crossed hands held. When the tribes were counted in the wilderness, Ephraim outnumbered "
+                      "Manasseh and carried the standard of their camp. Joshua came from Ephraim, and so, centuries "
+                      "later, did the northern kingdom's first king. The man who could hardly see had seen further "
+                      "than his son.",
         "around": "Many years after deceiving his blind father, Jacob is himself old and can hardly see. He is in "
                   "Egypt, reunited with his son Joseph, whom he had long believed dead. Joseph brings his two sons, "
                   "Manasseh the elder and Ephraim the younger, to be blessed before Jacob dies.",
@@ -140,6 +157,22 @@ STORIES = [
         "slug": "eli", "title": "Eli at Shiloh", "who": "Eli", "group": "not_restored", "outcome": "not_restored",
         "passages": [("1 Samuel", 3, 1, 18), ("1 Samuel", 4, 12, 18)],
         "sight": "Samuel says Eli's eyesight had grown so dim that he could not see, and later that at ninety-eight he could not see. Dim is the Bible's word for sight going, so Eli likely passed through years of low vision before this. The page reads him as he is described at the end. See what blind means here.",
+        "senses": "The book of Samuel shows Eli at three stages, and the senses change with them. In chapter one, "
+                  "still sighted, he watches Hannah's lips move without a sound and decides she is drunk: a sighted "
+                  "man's mistake, made with his eyes. In chapter three his eyes have grown dim, and in the dark of the "
+                  "house of the LORD it is the blind old man, not the sighted boy, who works out whose voice is "
+                  "calling. In chapter four he sits by the road, his gaze fixed, and the news reaches him by sound and "
+                  "in order: first the whole city crying out, then a question he has to ask, then a runner's words. "
+                  "Everyone around him can read the torn clothes and the dust on the man's head. Eli is told last, and "
+                  "the last thing he is told is the ark.",
+        "before_after": "Eli had judged Israel forty years and was ninety-eight. He had heard, long before this, what "
+                        "his sons were doing at the door of the Tent of Meeting, and a man of God had already told him "
+                        "that judgment was coming on his house. The word Samuel carried to him in the night was the "
+                        "second warning of the same thing. When it came true he was sitting at the gate waiting for it.",
+        "came_of_it": "The same hour took his two sons, the ark, and Eli himself, and his daughter-in-law died in "
+                      "childbirth naming her son Ichabod, the glory has departed. Shiloh never recovered as the place "
+                      "of the ark. But the boy who ran to the blind man three times in the night became the prophet "
+                      "who anointed Israel's first two kings, and Samuel's book begins with Eli.",
         "around": "Eli is the priest at Shiloh, where the ark of God is kept. He has raised the boy Samuel in the "
                   "house of the LORD. His own sons, also priests, have abused their office, and Eli has not stopped "
                   "them. A man of God has already told him that judgment is coming on his family.",
@@ -159,6 +192,24 @@ STORIES = [
         "outcome": "not_restored",
         "passages": [("1 Kings", 14, 1, 13)],
         "sight": 'Kings says Ahijah could not see, for his eyes were dim because of his age. Brian notes he was probably low vision and could still see a little, which is why a disguise was worth trying. See what blind means here.',
+        "senses": "This is the one story in the group where the text tells us straight out how the blind man knew. "
+                  "Not by her voice, because she had not spoken. Not by her footsteps, though he heard them at the "
+                  "door. He knew because the LORD had told him, before she arrived, who was coming and that she would "
+                  "pretend to be someone else. The disguise was made for eyes, and Kings says his eyes were set with "
+                  "age, so it may have been worth something; he could perhaps see a woman in plain clothes and not a "
+                  "queen. What it could not do was reach the sense he was actually using. Of everyone in the passage, "
+                  "the one who cannot see well is the only one who is not fooled, and the reason is not sharper "
+                  "hearing. He was told.",
+        "before_after": "Years earlier, on the road out of Jerusalem, this same prophet had torn a new cloak into "
+                        "twelve pieces and handed Jeroboam ten of them: the kingdom, torn from Solomon's son. Jeroboam "
+                        "got the kingdom and then built his own shrines and calves. Now his child is sick, and he sends "
+                        "his wife to the one man whose word about him has already come true, in disguise, with the "
+                        "gifts of a poor woman.",
+        "came_of_it": "She was told the child would die when her feet entered the city, and he did, as she stepped over "
+                      "the threshold. He was the only one of Jeroboam's house to be mourned and buried, because, "
+                      "Ahijah said, only in him had the LORD found anything good. The rest of what the blind prophet "
+                      "said came true under the next dynasty, when Baasha destroyed everyone of Jeroboam's line who "
+                      "breathed.",
         "around": "Ahijah is the prophet who years earlier told Jeroboam he would be king over the northern tribes. "
                   "Jeroboam has since led the people into idolatry. Now his son is sick, and he sends his wife to "
                   "Ahijah in disguise, with gifts, to learn whether the boy will live.",
@@ -181,6 +232,22 @@ STORIES = [
     {
         "slug": "samson", "title": "Samson in Gaza", "who": "Samson", "group": "not_restored", "outcome": "not_restored",
         "passages": [("Judges", 16, 18, 31)],
+        "senses": "Samson is the one man in Scripture blinded in the prime of his strength, in a moment, and the text "
+                  "then follows him into the life every newly blind person learns: work done by feel at the mill, "
+                  "being led by the hand, and being looked at by people he cannot see. In the temple he asks the boy "
+                  "to put him where he can feel the pillars. That is a blind man orienting himself, by touch, in a "
+                  "building full of noise. His hands find the two middle columns, one right and one left, and he knows "
+                  "from that what holds the roof up. His last prayer names what he has lost in plain words, for my two "
+                  "eyes, and God hears it.",
+        "before_after": "Samson had judged Israel twenty years. The chapter that ends in Gaza begins in Gaza: he went "
+                        "there to a prostitute, and carried the city gate away by night. Then came Delilah in the valley "
+                        "of Sorek, the three false answers, the true one, and a sleep from which he woke not knowing the "
+                        "LORD had left him. The text puts one line between the blinding and the temple: the hair of his "
+                        "head began to grow back. Nobody in the prison noticed what that meant.",
+        "came_of_it": "He died with the Philistines, and killed more in his death than in his life. His family came "
+                      "down to Gaza, carried him home, and buried him between Zorah and Eshtaol in his father's tomb. "
+                      "The New Testament remembers him once, in the list of those who lived by faith in Hebrews 11, "
+                      "between Barak and Jephthah.",
         "around": "Samson has judged Israel for twenty years and has been the Philistines' great enemy. His strength "
                   "is bound up with a vow marked by his uncut hair. Delilah, paid by the Philistine lords, presses "
                   "him day after day until he tells her the secret.",
@@ -198,6 +265,24 @@ STORIES = [
         "slug": "zedekiah", "title": "Zedekiah, the last king of Judah", "who": "Zedekiah", "group": "not_restored",
         "outcome": "not_restored",
         "passages": [("2 Kings", 25, 1, 7), ("Jeremiah", 39, 4, 7), ("Jeremiah", 52, 8, 11)],
+        "senses": "There is no cross-checking of senses in this story, because Zedekiah was not blind until the end "
+                  "of it. What the text does instead is arrange what he saw and heard in a deliberate order. He saw "
+                  "his sons killed. Then his eyes were put out, so that sight ended on that. Then he was bound in "
+                  "bronze and walked to Babylon, a journey of weeks, hearing a foreign army and a foreign city he "
+                  "would never see, exactly as Ezekiel had said. Anyone who has lost sight as an adult knows the "
+                  "strange permanence of the last things seen. Zedekiah's were chosen for him.",
+        "before_after": "Jeremiah had told Zedekiah, in the siege, that he would see the king of Babylon face to face "
+                        "and be taken there; Ezekiel, already in Babylon, had said the king would be brought to the land "
+                        "of the Chaldeans yet would not see it, and would die there. Zedekiah himself told Jeremiah what "
+                        "he was afraid of: being handed over to be abused. He fled the city by night through the gate "
+                        "between the two walls, was caught in the plains of Jericho, and was taken north to the king of "
+                        "Babylon at Riblah for sentence.",
+        "came_of_it": "Both prophecies came true in one act, and Josephus and Matthew Henry both stopped to say so: he "
+                      "was brought to Babylon, and he did not see it. Jeremiah had also promised him that he would not "
+                      "die by the sword but in peace, and the record says he was kept in custody in Babylon until the "
+                      "day of his death. The book of Jeremiah does not end on him. Its last paragraph is the release of "
+                      "the king before him, Jehoiachin, lifted out of prison and given a seat at the king's table, a "
+                      "small light at the end of a dark book.",
         "around": "Zedekiah is the last king to reign in Jerusalem. He has rebelled against Babylon against the "
                   "repeated warnings of the prophet Jeremiah. Nebuchadnezzar's army has besieged the city for well "
                   "over a year, and the people are starving.",

@@ -147,7 +147,7 @@ def dot(draw, p, r, fill, outline=INK, width=4):
     draw.ellipse([x - r, y - r, x + r, y + r], fill=fill, outline=outline, width=width)
 
 
-OFFSETS = {"bethsaida": (30, -34, "lm"), "capernaum": (-34, 18, "rm"), "mountain_decapolis": (30, 26, "lm"),
+OFFSETS = {"zorah": (-34, -6, "rm"), "tirzah": (34, -30, "lm"), "hebron": (34, 10, "lm"), "bethsaida": (30, -34, "lm"), "capernaum": (-34, 18, "rm"), "mountain_decapolis": (30, 26, "lm"),
            "sea_of_galilee": (0, 0, "mm"), "bethany": (26, 30, "lm"), "jerusalem": (-30, 0, "rm"),
            "machaerus": (30, 0, "lm"), "dothan": (-28, 0, "rm"), "samaria": (-28, 0, "rm"), "shiloh": (-28, 0, "rm")}
 
@@ -175,7 +175,7 @@ def render(ep_key: str | None) -> tuple[Path, str]:
         if k in focus or k in visited:
             continue
         dot(d, p, 10, (200, 186, 160), outline=FAINT, width=3)
-        if k != "bethany":
+        if k not in ("bethany", "zorah", "tirzah"):   # too close to Jerusalem and the Jordan to label faintly
             label(d, p, f_xs, FAINT, key=k)
     # the journey so far: route through visited places in order, then to the focus
     if ep:

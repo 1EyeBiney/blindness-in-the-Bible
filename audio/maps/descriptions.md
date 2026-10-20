@@ -20,10 +20,15 @@ Base map. The Great Sea lies to the west. The Jordan runs south from the Sea of 
 - Damascus: about 6 days' walk, at 1 o'clock from Jerusalem. Saul, blinded on the road, was led in by the hand; Straight Street is still there.
 - Caesarea Philippi: about 4 and a half days' walk, at 12 o'clock from Jerusalem. Just after Bethsaida in Mark, where Peter said 'You are the Christ'.
 - Shechem: about 1 and a half days' walk, at 12 o'clock from Jerusalem. Between Mount Gerizim to the south and Mount Ebal to the north, where the tribes stood to answer the blessings and curses (Deuteronomy 27).
+- Hebron: about a day's walk, at 7 o'clock from Jerusalem. The cave of Machpelah, where Abraham, Isaac and Jacob were buried.
+- Tirzah: about 1 and a half days' walk, at 12 o'clock from Jerusalem. Jeroboam's royal city, from which his wife walked to Shiloh.
+- Zorah: about 7 hours' walk, at 9 o'clock from Jerusalem. Samson's birthplace, and his burial place, in the low hills toward Philistia.
 - Babylon and Riblah: far to the north-east, beyond the map. Zedekiah was blinded at Riblah in Syria and taken to Babylon; both lie beyond this map.
 - Egypt: far to the south-west, beyond the map. Jacob blessed Joseph's sons in Egypt, beyond this map.
 - Nineveh and Ecbatana: far to the north-east, beyond the map. Tobit's story, if included, lies in Assyria and Media, beyond this map.
 - Mount Sinai: far to the south, beyond the map. Where the Law was given, about eleven days' walk south of Jerusalem by the traditional site; beyond this map.
+- Riblah: far to the north, in the land of Hamath, beyond the map. Where Zedekiah was sentenced and blinded, on the road to Babylon; beyond this map.
+- Goshen: far to the south-west, in Egypt, beyond the map. Where Jacob lived his last seventeen years and blessed Joseph's sons; beyond this map.
 
 ## ep01.png
 
@@ -87,3 +92,31 @@ Jerusalem is the city itself.
 
 Isaac and the stolen blessing. The map highlights Beersheba in gold. Isaac's country; the blessing was given from his tent, place not named in Genesis 27.
 From Beersheba, Jerusalem is about 2 days' walk, at 1 o'clock.
+
+## jacob.png
+
+Jacob blesses Joseph's sons. The map highlights Hebron in gold. The cave of Machpelah, where Abraham, Isaac and Jacob were buried.
+From Hebron, Jerusalem is about a day's walk, at 1 o'clock.
+
+## eli.png
+
+Eli at Shiloh. The map highlights Shiloh in gold. Eli at the tabernacle; Ahijah's house, where Jeroboam's wife came in disguise.
+From Shiloh, Jerusalem is about a day's walk, at 6 o'clock.
+
+## ahijah.png
+
+Ahijah and the disguised queen. The map highlights Shiloh in gold. Eli at the tabernacle; Ahijah's house, where Jeroboam's wife came in disguise.
+A second gold mark is Tirzah, about 9 hours' walk from Shiloh, at 1 o'clock. Jeroboam's royal city, from which his wife walked to Shiloh.
+From Shiloh, Jerusalem is about a day's walk, at 6 o'clock.
+
+## zedekiah.png
+
+Zedekiah, the last king of Judah. The map highlights Jerusalem in gold. The Pool of Siloam is at the south end of the city; the Temple Mount at its east.
+A second gold mark is Jericho, about 7 hours' walk from Jerusalem, at 2 o'clock. Herod's Jericho stood a little south-west of the old mound; the two are drawn as one.
+Jerusalem is the city itself.
+
+## samson.png
+
+Samson in Gaza. The map highlights Gaza in gold. Where Samson, blinded, ground grain and pulled down the temple of Dagon.
+A second gold mark is Zorah, about 1 and a half days' walk from Gaza, at 2 o'clock. Samson's birthplace, and his burial place, in the low hills toward Philistia.
+From Gaza, Jerusalem is about 2 days' walk, at 2 o'clock.

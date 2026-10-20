@@ -204,6 +204,53 @@
    ],
    "confidence": "medium",
    "caution": "Smith's does not mention Jacob's blessing; the link between Goshen and Genesis 48 is the writer's. Check against Genesis 47:27 before use."
+  },
+  {
+   "text": "Matthew Henry, writing around 1710, read the crossed hands as deliberate: Joseph would have moved his father's hands, 'but Jacob gave him to understand that he knew what he did, and that he did it not by mistake, nor in a humour, nor from a partial affection to one more than the other, but from a spirit of prophecy'. He adds that when the tribes were counted in the wilderness Ephraim outnumbered Manasseh, and that Joshua and Jeroboam both came from Ephraim.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Genesis 48",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 1501653,
+     "quote": "But Jacob gave him to understand that he know what he did, and that he did it not by mistake, nor in a humour, nor from a partial affection to one more than the other, but from a spirit of prophecy"
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 1502023,
+     "quote": "Ephraim was more numerous than Manasseh, and had the standard of that squadron"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Henry also noticed the family likeness: 'Jacob, like his father before him, when he was old, was dim-sighted', and drew two lessons from it, that 'those that have the honour of age must therewith be content to take the burden of it', and that 'the eye of faith may be very clear even when the eye of the body is very much clouded'. He adds that Jacob's kissing and embracing the boys is what old men do with grandchildren.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Genesis 48",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 1497348,
+     "quote": "Jacob, like his father before him, when he was old, was dim-sighted"
+    },
+    {
+     "file": "matthew_henry_vol1_genesis_to_deuteronomy.txt",
+     "offset": 1497525,
+     "quote": "The eye of faith may be very clear even when the eye of the body is very much clouded"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Jacob was buried at Hebron, in the cave of Machpelah that Abraham had bought, with Isaac and Rebekah. Smith's dictionary places Hebron in the hill country about twenty miles south of Jerusalem and notes the spring of fine water near it that the spies' valley of Eshcol was named for; the burial journey from Egypt is the longest funeral procession in the Bible.",
+   "source": "Smith's Bible Dictionary (1884 edition), entry 'Eshcol'; Genesis 50:13",
+   "evidence": [
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 715926,
+     "quote": "a spring of fine water called 'Ain Eshkali, in a valley about two miles north of Hebron"
+    }
+   ],
+   "confidence": "medium",
+   "caution": "The twenty miles and the funeral remark are the site's own summary; only the spring is Smith's."
   }
  ],
  "eli": [
@@ -259,6 +306,52 @@
    ],
    "confidence": "medium",
    "caution": "Josephus's 'throne' is his own rendering of Eli's seat. Josephus does not mention Eli's eyes in this passage."
+  },
+  {
+   "text": "Matthew Henry pictured the night in the house of the LORD closely. Samuel slept 'in some closet near to Eli's room, as his page of the back-stairs, ready within call if the old man should want any thing in the night, perhaps to read to him if he could not sleep'. On the lamp of God not yet gone out, he reckoned the hour 'towards midnight', since the main lamp of the candlestick never went out and the others burned down through the night.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Samuel 3",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1686961,
+     "quote": "as his page of the back-stairs, ready within call if the old man should want any thing in the night, perhaps to read to him if he could not sleep"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1687668,
+     "quote": "for the main lamp never went out), which probably was towards midnight"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Henry was hard on Eli's blindness in one place, calling it 'an affliction which came justly upon him for winking at his sons' faults', but at the gate he saw something else: 'Though old, and blind, and heavy, yet he could not keep his chamber when he was sensible the glory of Israel lay at stake, but placed himself by the way-side, to receive the first intelligence; for his heart trembled for the ark of God.' A blind man watching the road, in Henry's reading, is a man who could not bear to wait indoors.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Samuel 3 and 4",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1686807,
+     "quote": "an affliction which came justly upon him for winking at his sons' faults"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1734103,
+     "quote": "Though old, and blind, and heavy, yet he could not keep his chamber when he was sensible the glory of Israel lay at stake, but placed himself by the way-side, to receive the first intelligence"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Henry also noticed what it meant that God spoke to the boy and not to the old priest: Eli 'would apprehend it to be a step towards his family's being degraded, that when God had something to say he should choose to say it to the child Samuel, his servant that waited on him, and not to him', and it would humble him more to find the message was for himself, 'and yet sent to him by a child'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Samuel 3",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1692614,
+     "quote": "that when God had something to say he should choose to say it to the child Samuel, his servant that waited on him, and not to him"
+    }
+   ],
+   "confidence": "high"
   }
  ],
  "ahijah": [
@@ -320,6 +413,35 @@
    ],
    "confidence": "medium",
    "caution": "Smith's gives no distance from Tirzah to Shiloh, so the length of the queen's journey cannot be stated from the shelf."
+  },
+  {
+   "text": "Matthew Henry described Ahijah as a prophet 'who lived obscurely and neglected in Shiloh, blind through age, yet still blest with the visions of the Almighty, which need not bodily eyes, but are rather favoured by the want of them, the eyes of the mind being then most intent and least diverted'. He noted that Jeroboam had not consulted him about the calves, only about the sick child: 'Lord, in trouble have those visited thee who before slighted thee.'",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 1 Kings 14",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 3687718,
+     "quote": "who lived obscurely and neglected in Shiloh, blind through age, yet still blest with the visions of the Almighty, which need not bodily eyes, but are rather favoured by the want of them, the eyes of the mind being then most intent and least diverted"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Josephus has the queen change her clothes and come to Shiloh 'like a private person and a stranger', and has God appear to the blind prophet as she is entering the house to tell him two things, who she is and what to answer. His Ahijah cries out, 'Come in, O thou wife of Jeroboam! Why concealest thou thyself? Thou art not concealed from God.'",
+   "source": "Josephus, Antiquities of the Jews (Whiston translation), Book VIII, chapter 11",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1207095,
+     "quote": "his eyes being then dim with age, God appeared to him, and informed him of two things; that the wife of Jeroboam was come to him, and what answer he should make to her inquiry"
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1207411,
+     "quote": "Why concealest thou thyself? Thou art not concealed from God"
+    }
+   ],
+   "confidence": "high"
   }
  ],
  "samson": [
@@ -404,6 +526,74 @@
    ],
    "confidence": "medium",
    "caution": "Smith's describes the mills 'at present in use in the East' (1860s) and says the ancient ones probably differed little. It does not mention Samson; whether Samson turned a hand mill or a larger one is not stated on the shelf."
+  },
+  {
+   "text": "Matthew Henry on the blinding: the Philistines 'considered that his eyes would never come again, as perhaps his hair might, and that the strongest arms could do little without eyes to guide them, and therefore, if now they blind him, they for ever blind him.' Henry, like the text, reads the mill as punishment and profit at once: 'he did grind in the prison, work in their bridewell, either for their profit or his punishment, or for both.'",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Judges 16",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1272818,
+     "quote": "They considered that his eyes would never come again, as perhaps his hair might"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1272979,
+     "quote": "and therefore, if now they blind him, they for ever blind him"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1273688,
+     "quote": "work in their bridewell, either for their profit or his punishment, or for both"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "On the last prayer, Henry supposed it was silent, 'made in a noisy clamorous crowd of Philistines', and wrote: 'though his voice was not heard of men, yet his prayer was heard of God and graciously answered'. He read 'remember me, and strengthen me this once' as Samson owning that all his earlier strength had been from God.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on Judges 16",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 1284795,
+     "quote": "though his voice was not heard of men, yet his prayer was heard of God and graciously answered"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Josephus gives Samson a ruse the Bible does not: he 'persuaded the boy that led him by the hand, that he was weary and wanted to rest himself, and desired he would bring him near the pillars'. Josephus puts three thousand in the house, calls the end 'the end of this man, when he had ruled over the Israelites twenty years', and says he deserves to be admired for his courage and strength.",
+   "source": "Josephus, Antiquities of the Jews (Whiston translation), Book V, chapter 8",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 724672,
+     "quote": "persuaded the boy that led him by the hand, that he was weary and wanted to rest himself, and desired he would bring him near the pillars"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Levy, the blind author of 1872, made Samson the second life in his history of the blind, after Isaac, and noted that 'we are not told of the mode adopted by the Philistines to deprive Samson of sight', though the old accounts of such punishments speak of heated metal. Smith's dictionary places Zorah, where Samson was born and buried, in the low hills of the Shephelah in Dan's allotment, and gives the hand mill as two stones about eighteen inches across, the upper turned on a pivot over the lower.",
+   "source": "W. Hanks Levy, Blindness and the Blind (1872), 'Samson'; Smith's Bible Dictionary (1884 edition), entries 'Zorah' and 'Mill'",
+   "evidence": [
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 27275,
+     "quote": "tines to deprive Samson of sight, but from the earliest periods, whenever the details of the practice are described, the use of heated plates of metals are also spoken of"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 3289720,
+     "quote": "It was the residence of Manoah and the native place of Samson"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 1701061,
+     "quote": "These consist of two circular stones, each about eighteen inches or two feet in diameter, the lower of which is fixed"
+    }
+   ],
+   "confidence": "high"
   }
  ],
  "zedekiah": [
@@ -477,6 +667,80 @@
     }
    ],
    "confidence": "high"
+  },
+  {
+   "text": "Matthew Henry wrote that Zedekiah's sons were killed before his eyes 'that this doleful spectacle, the last his eyes were to behold, might leave an impression of grief and horror upon his spirit as long as he lived', and of the blinding that 'thus he ended his days, before he ended his life'. He noticed the two prophecies too: 'By this two prophecies that seemed to contradict one another were both fulfilled. Jeremiah prophesied that Zedekiah should be brought to Babylon; Ezekiel prophesied that he should not see Babylon. He was brought thither, but, his eyes being put out, he did not see it.'",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 2 Kings 25",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 4709457,
+     "quote": "that this doleful spectacle, the last his eyes were to behold, might leave an impression of grief and horror upon his spirit as long as he lived"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 4710384,
+     "quote": "By this two prophecies that seemed to contradict one another were both fulfilled"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 4710708,
+     "quote": "Thus he ended his days, before he ended his life"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Henry added a line on the fetters that a blind reader will recognize: 'He that was blind needed not be bound (his blindness fettered him), but, for his greater disgrace, they led him bound.' And on the fear Zedekiah had confessed to Jeremiah, of being mocked, Henry remarked that 'those that are blind suspect that every body laughs at them'.",
+   "source": "Matthew Henry, Commentary on the Whole Bible (1706-1721), on 2 Kings 25",
+   "evidence": [
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 4710824,
+     "quote": "He that was blind needed not be bound (his blindness fettered him), but, for his greater disgrace, they led him bound"
+    },
+    {
+     "file": "matthew_henry_vol2.txt",
+     "offset": 4710320,
+     "quote": "those that are blind suspect that every body laughs at them"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Josephus sets the sentence at Riblah and gives Nebuchadnezzar a speech before it, then has the sons and friends killed 'while Zedekiah and the rest of the captains looked on', and the king blinded and bound. He then pauses, as Henry later did, on the two prophets: Jeremiah said he would see the king of Babylon 'with his own eyes', and thus far Jeremiah prophesied; 'but he was also made blind, and brought to Babylon, but did not see it, according to the prediction of Ezekiel.' Smith's places Riblah in the land of Hamath, on the great road between Palestine and Babylonia, where the kings of Babylon stayed while their armies worked in the west.",
+   "source": "Josephus, Antiquities of the Jews (Whiston translation), Book X, chapter 8; Smith's Bible Dictionary (1884 edition), entry 'Riblah'",
+   "evidence": [
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1468428,
+     "quote": "he commanded his sons and his friends to be slain, while Zedekiah and the rest of the captains looked on; after which he put out the eyes of Zedekiah, and bound him, and carried him to Babylon"
+    },
+    {
+     "file": "josephus_antiquities_pg2848.txt",
+     "offset": 1468887,
+     "quote": "But he was also made blind, and brought to Babylon, but did not see it, according to the prediction of Ezekiel"
+    },
+    {
+     "file": "smiths_bible_dictionary.txt",
+     "offset": 2419958,
+     "quote": "a place on the great road between Palestine and Babylonia, at which the kings of Babylonia were accustomed to remain while directing the operations of their armies"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "text": "Levy, the blind historian of 1872, gathered the record of blinding as a punishment from the ancient world to the Middle Ages, and judged that 'in all probability Nebuchadnezzar put out the eyes of Zedekiah, King of Judah' by the method the old accounts describe, heated plates of metal held before the eyes. The Bible itself does not say how it was done, for Zedekiah or for Samson.",
+   "source": "W. Hanks Levy, Blindness and the Blind (1872), on blinding as a punishment",
+   "evidence": [
+    {
+     "file": "levy_blindness_and_the_blind_1872.txt",
+     "offset": 27545,
+     "quote": "In all probability Nebuchadnezzar put out the eyes of Zedekiah, King of Judah, by this means"
+    }
+   ],
+   "confidence": "high",
+   "caution": "Levy's method is an inference from other cases; the text gives none."
   }
  ],
  "men-of-sodom": [

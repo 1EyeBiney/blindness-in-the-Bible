@@ -187,6 +187,36 @@
       "kind": "town",
       "stories": [],
       "note": "Between Mount Gerizim to the south and Mount Ebal to the north, where the tribes stood to answer the blessings and curses (Deuteronomy 27)."
+    },
+    "hebron": {
+      "name": "Hebron",
+      "lat": 31.532,
+      "lon": 35.095,
+      "kind": "town",
+      "stories": [
+        "jacob"
+      ],
+      "note": "The cave of Machpelah, where Abraham, Isaac and Jacob were buried."
+    },
+    "tirzah": {
+      "name": "Tirzah",
+      "lat": 32.288,
+      "lon": 35.39,
+      "kind": "town",
+      "stories": [
+        "ahijah"
+      ],
+      "note": "Jeroboam's royal city, from which his wife walked to Shiloh."
+    },
+    "zorah": {
+      "name": "Zorah",
+      "lat": 31.776,
+      "lon": 34.983,
+      "kind": "town",
+      "stories": [
+        "samson"
+      ],
+      "note": "Samson's birthplace, and his burial place, in the low hills toward Philistia."
     }
   },
   "off_map": [
@@ -219,6 +249,22 @@
       "direction": "far to the south",
       "stories": [],
       "note": "Where the Law was given, about eleven days' walk south of Jerusalem by the traditional site; beyond this map."
+    },
+    {
+      "name": "Riblah",
+      "direction": "far to the north, in the land of Hamath",
+      "stories": [
+        "zedekiah"
+      ],
+      "note": "Where Zedekiah was sentenced and blinded, on the road to Babylon; beyond this map."
+    },
+    {
+      "name": "Goshen",
+      "direction": "far to the south-west, in Egypt",
+      "stories": [
+        "jacob"
+      ],
+      "note": "Where Jacob lived his last seventeen years and blessed Joseph's sons; beyond this map."
     }
   ],
   "episodes": {
@@ -283,6 +329,34 @@
     "isaac": {
       "title": "Isaac and the stolen blessing",
       "focus": "beersheba",
+      "visited": []
+    },
+    "jacob": {
+      "title": "Jacob blesses Joseph's sons",
+      "focus": "hebron",
+      "visited": []
+    },
+    "eli": {
+      "title": "Eli at Shiloh",
+      "focus": "shiloh",
+      "visited": []
+    },
+    "ahijah": {
+      "title": "Ahijah and the disguised queen",
+      "focus": "shiloh",
+      "focus2": "tirzah",
+      "visited": []
+    },
+    "zedekiah": {
+      "title": "Zedekiah, the last king of Judah",
+      "focus": "jerusalem",
+      "focus2": "jericho",
+      "visited": []
+    },
+    "samson": {
+      "title": "Samson in Gaza",
+      "focus": "gaza",
+      "focus2": "zorah",
       "visited": []
     }
   }

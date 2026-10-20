@@ -210,6 +210,20 @@ STORY_PICTURES["isaac"].append(
                 "Jerusalem, at seven o'clock with north at twelve. Isaac lived there, and Jacob left from there for Haran, "
                 "far to the north-east beyond the map."})
 
+for _slug, _alt, _cap in [
+    ("jacob", "The series map, with Hebron marked in gold in the hills south of Jerusalem.",
+     "The map, in words. Hebron lies in the hill country about a day's walk south of Jerusalem, at seven o'clock with north at twelve. Jacob died in Egypt, in Goshen, far to the south-west beyond the map, and was carried home to the cave at Hebron where Abraham and Isaac lay."),
+    ("eli", "The series map, with Shiloh marked in gold in the hills north of Jerusalem.",
+     "The map, in words. Shiloh lies in the hill country of Ephraim about a day's walk north of Jerusalem, at twelve o'clock with north at twelve. The ark was kept there in Eli's time, and the road from the battle came up to its gate from the west."),
+    ("ahijah", "The series map, with Shiloh and Tirzah marked in gold, Tirzah to the north-east of Shiloh.",
+     "The map, in words. Shiloh, where Ahijah lived, is about a day's walk north of Jerusalem. Tirzah, Jeroboam's royal city, is about nine hours' walk further on, at one o'clock from Shiloh with north at twelve. That is the road the queen walked in disguise, and walked back."),
+    ("zedekiah", "The series map, with Jerusalem and Jericho marked in gold.",
+     "The map, in words. Zedekiah fled Jerusalem by night and was caught in the plains of Jericho, about seven hours' walk away at two o'clock with north at twelve. From there he was taken to Riblah, far to the north beyond the map, and on to Babylon, farther still."),
+    ("samson", "The series map, with Gaza and Zorah marked in gold on the south-west of the land.",
+     "The map, in words. Gaza is on the coast road in the far south-west, about two days' walk from Jerusalem. Zorah, where Samson was born and buried, is about a day and a half's walk from Gaza at two o'clock with north at twelve, in the low hills between Philistia and Judah."),
+]:
+    STORY_PICTURES[_slug].append({"slot": "map", "source": f"maps/{_slug}.png", "name": f"map-{_slug}", "alt": _alt, "caption": _cap})
+
 
 # Pictures through the Law pages, from the Law episodes (Brian, 20 October 2026: the same pattern as the story pages).
 # Page name -> pictures after the banner. Slots: around (What leads up to it), says (What it says), word (The word),
