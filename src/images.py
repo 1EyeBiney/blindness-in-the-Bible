@@ -203,6 +203,75 @@ def _site_batches() -> None:
 _site_batches()
 
 
+# Pictures through the Law pages, from the Law episodes (Brian, 20 October 2026: the same pattern as the story pages).
+# Page name -> pictures after the banner. Slots: around (What leads up to it), says (What it says), word (The word),
+# place (The place and the time), map. The banner itself comes from the site batch.
+LAW_PICTURES = {
+    "law/stumbling-block": [
+        {"slot": "around", "source": "ep07_the_stumbling_block/06_wages_at_sunset.jpg", "name": "law-stumbling-block-wages",
+         "alt": "A harvested field at sunset with sheaves standing; a landowner, seen from behind, counts coins into a labourer's open hand, a village on the hill beyond.",
+         "caption": "Wages paid at the end of the day: the law of the blind sits among laws like this one." + IMAGINED},
+        {"slot": "says", "source": "ep07_the_stumbling_block/07_gerizim_and_ebal.jpg", "name": "law-stumbling-block-gerizim-ebal",
+         "alt": "Two broad rounded mountains facing each other across a narrow green valley, a small walled town of stone houses between them, terraces and olive trees on the slopes.",
+         "caption": "Mount Gerizim and Mount Ebal, where the tribes were to stand and answer the curses with Amen." + IMAGINED},
+        {"slot": "word", "source": "ep07_the_stumbling_block/09_fallen_and_broken.jpg", "name": "law-stumbling-block-broken-jar",
+         "alt": "A large clay water jar lying broken on a stone path, its pieces scattered and water spreading dark across the stones.",
+         "caption": "Fallen and broken: the company the word for stumbling block keeps." + IMAGINED},
+        {"slot": "place", "source": "ep07_the_stumbling_block/13_hammurabi.jpg", "name": "law-stumbling-block-hammurabi",
+         "alt": "A tall black stone monument in a sunlit courtyard in Babylon, a carved king seated at its top and the rest of its surface covered in fine carved marks, palm trees and mud-brick walls around it.",
+         "caption": "The kind of stone Hammurabi's laws were carved on, which price an eye but say nothing to protect the blind." + IMAGINED},
+        {"slot": "map", "source": "maps/ep07.png", "name": "map-ep07",
+         "alt": "The series map, with Jerusalem and Shechem marked in gold.",
+         "caption": "The map, in words. Stand in Jerusalem and face north, with north at twelve o'clock. Shechem is at twelve o'clock, about a day and a half's walk, between Mount Gerizim and Mount Ebal. Mount Sinai, where the Law was given, lies far to the south, about eleven days' walk, off the bottom of the map."},
+    ],
+    "law/servant-blinded": [
+        {"slot": "around", "source": "ep08_the_servants_eye/02_household_courtyard.jpg", "name": "law-servant-blinded-courtyard",
+         "alt": "The stone courtyard of a large household: a servant woman carries a water jar across the yard, a man works at a grinding stone in the shade, and the master stands in a far doorway.",
+         "caption": "A household with servants, the setting of the laws around this one." + IMAGINED},
+        {"slot": "says", "source": "ep08_the_servants_eye/05_not_empty_handed.jpg", "name": "law-servant-blinded-not-empty-handed",
+         "alt": "A freed man leads a donkey laden with sacks out through a farm gate, a few sheep walking beside him, while the farmer who freed him watches from the gate.",
+         "caption": "A servant going free, not sent away empty-handed." + IMAGINED},
+        {"slot": "word", "source": "ep08_the_servants_eye/03_spring_in_the_rock.jpg", "name": "law-servant-blinded-spring",
+         "alt": "A small spring of clear water falling from a crack in a rock face into a pool ringed with ferns and moss, in dry hill country.",
+         "caption": "A spring in the rock: the Hebrew word for eye is also the word for a spring of water." + IMAGINED},
+        {"slot": "place", "source": "ep08_the_servants_eye/08_silver_weighed.jpg", "name": "law-servant-blinded-silver",
+         "alt": "Pieces of silver weighed on a bronze balance on a low wooden table, a clay tablet and a small lamp beside them, hands at the edges of the picture.",
+         "caption": "Silver on the scales: in Babylon a servant's eye was priced, and the payment went to the owner." + IMAGINED},
+    ],
+    "law/priest": [
+        {"slot": "around", "source": "ep09_the_blind_priest/08_priests_at_work.jpg", "name": "law-priest-at-work",
+         "alt": "Priests in white linen at work around the bronze altar in the tabernacle courtyard, one carrying wood, one laying pieces on the fire, one pouring from a bowl.",
+         "caption": "The altar service, most of it done with the hands." + IMAGINED},
+        {"slot": "says", "source": "ep09_the_blind_priest/03_the_priests_table.jpg", "name": "law-priest-table",
+         "alt": "Priests in white sit on mats around a shared evening meal by lamplight; in the foreground one priest is guided to his place by another, a hand on his shoulder.",
+         "caption": "He may eat the most holy food as well as the holy." + IMAGINED},
+        {"slot": "word", "source": "ep09_the_blind_priest/06_the_lamb.jpg", "name": "law-priest-lamb",
+         "alt": "A single spotless white lamb standing in fresh straw in a small stone pen, morning light, a hand resting on the gate.",
+         "caption": "The same word for a defect keeps the priest and the lamb from the altar." + IMAGINED},
+        {"slot": "place", "source": "ep09_the_blind_priest/10_the_lot.jpg", "name": "law-priest-lot",
+         "alt": "Priests in white stand in a circle in a torchlit stone hall of the Temple at dawn, gathered to draw the lot for the day's tasks.",
+         "caption": "The priests drawing lots for the day's work, a few of the fifty on duty." + IMAGINED},
+    ],
+    "law/blind-animals": [
+        {"slot": "around", "source": "ep10_the_blind_animal/02_the_firstborn.jpg", "name": "law-blind-animals-firstborn",
+         "alt": "A shepherd, seen from behind, kneels in a stone sheepfold among ewes and newborn lambs, lifting one small lamb, hills beyond.",
+         "caption": "The firstborn of the flock, set apart to the LORD." + IMAGINED},
+        {"slot": "says", "source": "ep10_the_blind_animal/03_eaten_at_home.jpg", "name": "law-blind-animals-eaten-at-home",
+         "alt": "Evening in a village courtyard: a family sits on mats around a shared meal of bread and roasted meat by the light of a clay lamp, children among them.",
+         "caption": "Kept from the altar, not from the table: a blemished firstborn was eaten at home." + IMAGINED},
+        {"slot": "word", "source": "ep10_the_blind_animal/04_walking_whole.jpg", "name": "law-blind-animals-walking-whole",
+         "alt": "A man with a long staff, seen from behind, walks along a road through hill country at sunrise, his free hand trailing along a low stone wall.",
+         "caption": "Whole is a word for how a person walks, and a blind man can walk whole." + IMAGINED},
+        {"slot": "place", "source": "ep10_the_blind_animal/05_malachi.jpg", "name": "law-blind-animals-malachi",
+         "alt": "The courtyard of the rebuilt Temple: a lean prophet in a rough cloak, seen from behind, speaks to a group of priests in white by the altar.",
+         "caption": "Malachi before the priests who offered the blind, the lame and the sick." + IMAGINED},
+    ],
+}
+for _page, _pics in LAW_PICTURES.items():
+    PAGE_PICTURES.setdefault(_page, [])
+    PAGE_PICTURES[_page] = [p for p in PAGE_PICTURES[_page] if p["slot"] == "banner"] + _pics
+
+
 def thumbs() -> list[dict]:
     """Story banners, which are also made small for the list of stories."""
     return [pics[0] for pics in STORY_PICTURES.values()]

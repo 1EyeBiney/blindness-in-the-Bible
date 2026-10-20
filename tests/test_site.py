@@ -386,7 +386,8 @@ def test_every_story_and_every_study_page_has_a_banner(tmp_path):
     assert set(want) == set(images.PAGE_PICTURES) - {"about"}
     for key in want:
         h = (tmp_path / f"{key}.html").read_text(encoding="utf-8")
-        assert h.count('<figure class="pic banner">') == 1, key
+        maps = sum(1 for x in images.PAGE_PICTURES[key] if x["slot"] == "map")   # a map is shown full width too
+        assert h.count('<figure class="pic banner">') == 1 + maps, key
         assert h.index("<h1>") < h.index("<figure") and "imagined, not a record" in h, key
         b = images.PAGE_PICTURES[key][0]
         assert f"media/images/{b['name']}-1600.jpg" in h.split("</head>")[0], key     # shared with its own picture
@@ -524,3 +525,25 @@ def test_brian_after_the_study_closes_the_page(tmp_path):
     assert h.index("<h2>The passage</h2>") < h.index("<h2>Brian, after the study</h2>")
     assert "He is always watching, even when nobody else is, and He knows." in h
     assert "<h2>Brian, after the study</h2>" not in (tmp_path / "law" / "servant-blinded.html").read_text(encoding="utf-8")
+
+
+def test_law_pages_carry_pictures_from_their_episodes(tmp_path):
+    """Brian, 20 October 2026: each Law page has a banner and four pictures from its episode, one under each main
+    section, like the story pages; the stumbling-block page also has its map. Each is described, captioned, made at
+    both web sizes, and announced as imagined."""
+    import images
+    build_site.render_all(tmp_path)
+    order = ["<h2>What leads up to it</h2>", "<h2>What it says</h2>", "<h2>The word</h2>", "<h2>The place and the time</h2>"]
+    for page, pics in images.LAW_PICTURES.items():
+        h = (tmp_path / f"{page}.html").read_text(encoding="utf-8")
+        assert h.count("<figure") == len(pics) + 1, page            # plus the banner
+        for slot, head in zip(("around", "says", "word", "place"), order):
+            p = next(x for x in pics if x["slot"] == slot)
+            assert h.index(head) < h.index(p["name"]), (page, slot)
+        for p in pics:
+            assert len(p["alt"]) >= 30 and p["alt"] != p["caption"] and p["caption"].endswith("."), p["name"]
+            assert p["slot"] == "map" or "imagined, not a record" in p["caption"], p["name"]
+            for w in images.widths(p):
+                f = ROOT / "media" / "images" / f"{p['name']}-{w}.jpg"
+                assert f.is_file() and f.stat().st_size < 600_000, f.name
+    assert "map-ep07" in (tmp_path / "law" / "stumbling-block.html").read_text(encoding="utf-8")

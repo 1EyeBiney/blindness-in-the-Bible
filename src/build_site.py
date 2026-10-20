@@ -574,24 +574,28 @@ def word_html(page: dict, bible: dict, root: str) -> str:
 
 
 def context_page(page: dict, bible: dict, root: str, back: tuple[str, str]) -> str:
+    import images
+    pics = {x["slot"]: figure_html(x, root) for x in images.PAGE_PICTURES.get(f"{page.get('section')}/{page['slug']}", [])
+            if x["slot"] != "banner"}
     parts = [f'<p><a href="{back[0]}">{e(back[1])}</a></p>', f"<h1>{e(page['title'])}</h1>"]
     if page.get("question"):
         parts.append(f'<p class="lede">{e(page["question"])}</p>')
     parts.append(f'<p class="lede">{e("; ".join(passage_label(p) for p in page["passages"]))}.</p>')
     parts.append(listen_html(page.get("listen"), root, law=True))
-    parts.append(f"<h2>What leads up to it</h2><p>{e(page['around'])}</p>")
-    parts.append(f"<h2>What it says</h2><p>{e(page['says'])}</p>")
+    parts.append(f"<h2>What leads up to it</h2><p>{e(page['around'])}</p>" + pics.get("around", ""))
+    parts.append(f"<h2>What it says</h2><p>{e(page['says'])}</p>" + pics.get("says", ""))
     if page.get("notice"):
         parts.append(f"<h2>What it may tell us</h2><p>{e(page['notice'])}</p>")
     if page.get("assumes"):
         parts.append(f"<h2>What the picture assumes about the blind</h2><p>{e(page['assumes'])}</p>")
     if page.get("who"):
         parts.append(f"<h2>Who is called blind</h2><p>{e(page['who'])}</p>")
-    parts.append(word_html(page, bible, root))
+    parts.append(word_html(page, bible, root) + pics.get("word", ""))
     parts.append(slot_html(page))
     if page.get("place_and_time"):
         parts.append("<h2>The place and the time</h2>")
         parts.append("<p>What the old books and the archaeologists can add. Each paragraph names its source.</p>")
+        parts.append(pics.get("place", "") + pics.get("map", ""))
         for item in page["place_and_time"]:
             parts.append(f"<p>{e(item['text'])}</p><p class=\"source\">Source: {e(item['source'])}</p>")
     parts.append("<h2>The passage</h2>")
