@@ -38,6 +38,10 @@ EPISODES = [
      "The second of four on the Law, and the only price the Bible ever puts on an eye. If a master blinds his "
      "servant, the servant goes free; if he knocks out a tooth, the servant goes free. Why should an eye and a tooth "
      "cost the same? Two Hebrew words, one for eye and one for free, and the laws of Babylon give the answer."),
+    (9, "The Blind Priest", "Leviticus 21", ["law/priest"],
+     "The third of four on the Law, and the only law in the Bible that limits what a blind person may do: a blind "
+     "priest could not approach the altar. Brian asks three practical questions, the old books answer them, and the "
+     "episode asks what the law says about what a blind person is worth. He stayed a priest, and he ate at the table."),
 ]
 
 # The trailer: a short taste of the episodes, on the home page and at the top of the Episodes page.

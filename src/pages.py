@@ -124,6 +124,8 @@ LAW_PAGES = [
                   "blind priest inside the priesthood and at its table. And the reason given is about the holiness of "
                   "the sanctuary, not about the worth of the man. Many readers have still found it hard, and Brian's "
                   "thoughts on it belong here as much as anyone's.",
+        "listen": {"youtube": "9FmVwmxZHSg", "mp3": "not_by_sight_09_the_blind_priest.mp3", "minutes": 20,
+                   "title": "Not By Sight, Episode 9: The Blind Priest"},
         "brian": [
             "Reading this law, I had three questions, and the section on the place and the time now answers them. I "
             "wanted to know what a priest actually did, and it turns out that most of it was done with the hands: the "

@@ -13,6 +13,9 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-19", "Episode 9: The blind priest",
+     "The third episode on the Law: the one rule that kept a blind man from a task, and what it did not keep him "
+     "from. It plays on the blind-priest page and on the Episodes page.", "law/priest.html"),
     ("2026-10-19", "Episode 8: The servant's eye",
      "The second episode on the Law: the one law that puts a price on an eye, and pays it to the man who lost it. "
      "It plays on the servant-blinded page, where Brian's closing thoughts on the shackles of blindness are now "
