@@ -145,7 +145,7 @@ def page(title: str, body: str, current: str, root: str = "", share: dict | None
            ("life/index.html", "Living blind, then"), ("picture/index.html", "Blindness as a picture"),
            ("walk-by-faith.html", "Walk by faith"),
            ("catalog.html", "The catalog"), ("how-it-was-made.html", "How it was made"),
-           ("words.html", "The words"), ("check-our-work.html", "Check our work"), ("bookshelf.html", "The bookshelf"),
+           ("words.html", "The words"), ("brian-asks.html", "Brian asks"), ("check-our-work.html", "Check our work"), ("bookshelf.html", "The bookshelf"),
            ("whats-new.html", "What's new"), ("accessibility.html", "Accessibility"), ("about.html", "About")]
     links = "".join(
         f'<li><a href="{root}{href}"{" aria-current=\"page\"" if href == current else ""}'
@@ -371,6 +371,25 @@ def episodes_page() -> str:
             f'<li><a href="https://www.youtube.com/watch?v={e(listen["youtube"])}">Watch episode {number} on YouTube</a>, '
             f"with pictures and captions</li>"
             f"<li>Read the study: {pages_}</li></ul></section>")
+    return "\n".join(parts)
+
+
+def questions_page() -> str:
+    import questions as qs
+    parts = [f"<h1>{e(qs.TITLE)}</h1>", f'<p class="lede">{e(qs.INTRO[0])}</p>'] + [f"<p>{e(x)}</p>" for x in qs.INTRO[1:]]
+    parts.append("<h2>On this page</h2><ul>" + "".join(
+        f'<li><a href="#{slugify(h)}">{e(h)}</a>: {len(es)} question{"s" if len(es) != 1 else ""}</li>' for h, _, es in qs.GROUPS)
+        + f'<li><a href="#open">Open</a>: {len(qs.OPEN)} still waiting</li></ul>')
+    for heading, lead, entries in qs.GROUPS:
+        parts.append(f'<h2 id="{slugify(heading)}">{e(heading)}</h2><p>{e(lead)}</p>')
+        for q in entries:
+            parts.append(f"<h3>{e(q['q'])}</h3><p>{e(q['a'])}</p>")
+            parts.append("<p>In full: " + "; ".join(f'<a href="{e(h)}">{e(t)}</a>' for h, t in q["links"]) + ".</p>")
+    parts.append('<h2 id="open">Open</h2><p>Asked, and not yet answered on the site. Each will move up into its group '
+                 'when a page answers it.</p><ul>')
+    for q in qs.OPEN:
+        parts.append(f'<li>{e(q["q"])} <a href="{e(q["where"])}">Where the answer will go</a>.</li>')
+    parts.append("</ul>")
     return "\n".join(parts)
 
 
@@ -717,6 +736,8 @@ passage read word for word, music, and Brian's own thoughts.</li>
 were treated, set beside the older law codes of the region.</li>
 <li><a href="words.html">The words</a>: every Hebrew and Greek word the site follows, side by side, with how often
 each occurs and where.</li>
+<li><a href="brian-asks.html">Brian asks</a>: the questions Brian has put to the text while reading, each with a short
+answer and the page that answers it in full, and the ones still open.</li>
 <li><a href="life/index.html">Living blind, then</a>: six pages on daily life without sight in the herding camp, the
 village, the walled town, Jerusalem, with and without a guide, and through the centuries since.</li>
 <li><a href="picture/index.html">Blindness as a picture</a>: seven pages reading the verses where blindness stands for
@@ -819,6 +840,8 @@ def render_all(out: Path = OUT) -> None:
     (out / spectrum.SLUG).write_text(page(spectrum.TITLE, spectrum.render(bible), spectrum.SLUG), encoding="utf-8")
     import lexicon as lx
     (out / lx.SLUG).write_text(page(lx.TITLE, words_page(bible), lx.SLUG), encoding="utf-8")
+    import questions as qs
+    (out / qs.SLUG).write_text(page(qs.TITLE, questions_page(), qs.SLUG), encoding="utf-8")
     (out / "stories").mkdir(exist_ok=True)
     (out / "stories" / "index.html").write_text(
         page("The stories", stories_index(), "stories/index.html", root="../", banner=banner("stories/index")),

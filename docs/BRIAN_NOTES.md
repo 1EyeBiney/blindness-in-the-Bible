@@ -354,6 +354,10 @@ You hear advice all the time: look before you leap, look both ways before crossi
 
 Of nine suggestions, Brian wants these kept for later, to return to from time to time: (1) the words, in one place: every Hebrew word the pages follow, side by side, plus the New Testament's typhlos; (2) Brian asks: his questions collected with short answers and links; (3) a timeline of every story and law in Bible order; (7) Levy 1872 on the bookshelf page; (8) cross-links between the Law pages and the stories; (9) his own story expanded on the About page. Not now: a growing-old study, prayers of the blind, a senses study. His words: "This gives me time to use my turtle mind a little more than my rabbit mind. I need to give processing a break and not have to give my thoughts on pages for a little while." Working on (1) first, concept before building.
 
+## 22 October 2026, the Brian asks page (from chat)
+
+Brian's decisions for the questions page: group by area of the site; open questions at the end under Open, to address later; third person ("Brian asked"), a short answer, and links to the pages that treat the question in detail. Built as brian-asks.html from src/questions.py: 17 answered questions in four groups (the law, the stories, living blind, the gospels) and 4 open (the height of the mountain by the sea, the three days' gathering, faith and the climb, his own answer on getting about without a cane).
+
 ## Questions waiting for Brian
 
 (Added as the work raises them.)

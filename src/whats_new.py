@@ -13,6 +13,10 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-22", "Brian asks",
+     "A new page gathers the questions Brian has asked while reading, each with a short answer and a link to the page "
+     "that answers it in full, and lists the four still open at the foot.",
+     "brian-asks.html"),
     ("2026-10-20", "The words, in one place",
      "A new page gathers every Hebrew word the site follows, and the New Testament's word for blind, with how often "
      "each occurs and where. The counts are read from the tagged Hebrew and Greek texts, now on the bookshelf in full.",

@@ -48,7 +48,7 @@ def test_blindfold_verses_are_set_aside():
 
 def test_site_builds_and_is_accessible(tmp_path):
     build_site.render_all(tmp_path)
-    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "accessibility.html", "bookshelf.html", "catalog.html", "check-our-work.html", "episodes.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html", "whats-new.html", "words.html"]
+    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "accessibility.html", "bookshelf.html", "brian-asks.html", "catalog.html", "check-our-work.html", "episodes.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html", "whats-new.html", "words.html"]
     pages = sorted(tmp_path.rglob("*.html"))
     for p in pages:
         h = p.read_text(encoding="utf-8")
@@ -572,3 +572,25 @@ def test_words_page_counts_and_verses_rest_on_the_tagged_texts(tmp_path):
             assert w["number"] in keys, (slug, w["number"])
     assert "MorphGNT" in h and "Strong's Greek" in h and 'href="what-blind-means.html"' in h
     assert h.index("The words for blind") < h.index("Sight going") < h.index("Sight taken") < h.index("Around the blind")
+
+
+def test_brian_asks_answers_rest_on_the_pages_they_link(tmp_path):
+    """Every question links to pages that exist, the first linked page carries the phrase the short answer rests on,
+    every open question names a real page, and the Open section comes last."""
+    import questions as qs
+    build_site.render_all(tmp_path)
+    h = (tmp_path / qs.SLUG).read_text(encoding="utf-8")
+    import html as _html
+    for heading, _, entries in qs.GROUPS:
+        assert f'id="{build_site.slugify(heading)}"' in h
+        for q in entries:
+            assert q["links"] and q["asked"] and q["check"], q["q"]
+            for href, title in q["links"]:
+                assert (tmp_path / href).is_file(), href
+            first = _html.unescape(re.sub(r"<[^>]+>", " ", (tmp_path / q["links"][0][0]).read_text(encoding="utf-8")))
+            assert q["check"] in first, (q["q"], q["check"])
+            assert "I " not in q["q"] and "Brian asked" not in q["q"], q["q"]   # third person, no narration
+    for q in qs.OPEN:
+        assert (tmp_path / q["where"]).is_file(), q["where"]
+    assert h.rindex('<h2 id="open">') > max(h.index(f'id="{build_site.slugify(g[0])}"') for g in qs.GROUPS)
+    assert 'href="brian-asks.html"' in (tmp_path / "index.html").read_text(encoding="utf-8")
