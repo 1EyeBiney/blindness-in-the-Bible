@@ -393,6 +393,20 @@ def questions_page() -> str:
     return "\n".join(parts)
 
 
+def brian_story_page() -> str:
+    """Brian's own account, as he wrote it: a note in the site's voice, a contents list, then his sections."""
+    import brian_story as bst
+    secs = bst.sections()
+    parts = [f"<h1>{e(bst.TITLE)}</h1>", f'<p class="lede">{e(bst.NOTE)}</p>']
+    parts.extend(f"<p>{e(p)}</p>" for p in secs[0][1])
+    parts.append("<h2>On this page</h2><ul>" + "".join(
+        f'<li><a href="#{slugify(h)}">{e(h)}</a></li>' for h, _ in secs[1:]) + "</ul>")
+    for heading, paras in secs[1:]:
+        parts.append(f'<h2 id="{slugify(heading)}">{e(heading)}</h2>')
+        parts.extend(f"<p>{e(p)}</p>" for p in paras)
+    return "\n".join(parts)
+
+
 def words_page(bible: dict) -> str:
     import lexicon as lx
     parts = [f"<h1>{e(lx.TITLE)}</h1>", f'<p class="lede">{e(lx.INTRO[0])}</p>'] + [f"<p>{e(x)}</p>" for x in lx.INTRO[1:]]
@@ -842,6 +856,11 @@ def render_all(out: Path = OUT) -> None:
     (out / lx.SLUG).write_text(page(lx.TITLE, words_page(bible), lx.SLUG), encoding="utf-8")
     import questions as qs
     (out / qs.SLUG).write_text(page(qs.TITLE, questions_page(), qs.SLUG), encoding="utf-8")
+    import brian_story as bst
+    html_story = page(bst.TITLE, brian_story_page(), "about.html")   # it belongs under About in the navigation
+    if not bst.LINKED:   # built, reachable by its address, but not for search engines until Brian says so
+        html_story = html_story.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n<meta name="robots" content="noindex">', 1)
+    (out / bst.SLUG).write_text(html_story, encoding="utf-8")
     (out / "stories").mkdir(exist_ok=True)
     (out / "stories" / "index.html").write_text(
         page("The stories", stories_index(), "stories/index.html", root="../", banner=banner("stories/index")),

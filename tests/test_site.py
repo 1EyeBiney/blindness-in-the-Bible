@@ -48,7 +48,7 @@ def test_blindfold_verses_are_set_aside():
 
 def test_site_builds_and_is_accessible(tmp_path):
     build_site.render_all(tmp_path)
-    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["about.html", "accessibility.html", "bookshelf.html", "brian-asks.html", "catalog.html", "check-our-work.html", "episodes.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html", "whats-new.html", "words.html"]
+    assert sorted(p.name for p in tmp_path.glob("*.html")) == ["a-blind-mans-car.html", "about.html", "accessibility.html", "bookshelf.html", "brian-asks.html", "catalog.html", "check-our-work.html", "episodes.html", "how-it-was-made.html", "index.html", "walk-by-faith.html", "what-blind-means.html", "whats-new.html", "words.html"]
     pages = sorted(tmp_path.rglob("*.html"))
     for p in pages:
         h = p.read_text(encoding="utf-8")
@@ -594,3 +594,23 @@ def test_brian_asks_answers_rest_on_the_pages_they_link(tmp_path):
         assert (tmp_path / q["where"]).is_file(), q["where"]
     assert h.rindex('<h2 id="open">') > max(h.index(f'id="{build_site.slugify(g[0])}"') for g in qs.GROUPS)
     assert 'href="brian-asks.html"' in (tmp_path / "index.html").read_text(encoding="utf-8")
+
+
+def test_brians_car_story_is_built_but_unlinked_until_he_says(tmp_path):
+    """The page exists at its address with every section, carries Brian's text unchanged, and while LINKED is
+    False it has a no-index tag and no other page links to it."""
+    import brian_story as bst
+    build_site.render_all(tmp_path)
+    h = (tmp_path / bst.SLUG).read_text(encoding="utf-8")
+    secs = bst.sections()
+    assert len(secs) >= 8 and all(f'id="{build_site.slugify(hd)}"' in h for hd, _ in secs[1:])
+    import html as _html
+    text = _html.unescape(h)
+    for _, paras in secs:
+        for p in paras:
+            assert p in text, p[:60]
+    linked = [f for f in tmp_path.rglob("*.html") if f.name != bst.SLUG and bst.SLUG in f.read_text(encoding="utf-8")]
+    if bst.LINKED:
+        assert 'name="robots"' not in h and linked
+    else:
+        assert '<meta name="robots" content="noindex">' in h and not linked
