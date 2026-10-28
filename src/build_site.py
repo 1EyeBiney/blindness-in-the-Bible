@@ -780,6 +780,11 @@ trust new methods and new tools, like a white cane or a screen reader. That is w
 become my verse.</p>
 <p>Brian Clark</p>
 BRIAN_PORTRAIT
+<h2>Brian's story</h2>
+<p>Brian has been blind since 2014. He teaches blind people to use technology, and he lives in Indianapolis with his
+wife Barb and their friend Jimmy. In October 2026 he wrote down how one car was lost and another was given, and how
+this site came to take up his spare hours in between: <a href="a-blind-mans-car.html">A blind man's car</a>, in his
+own words.</p>
 
 <h2>How the work is done</h2>
 <ul>
@@ -858,7 +863,7 @@ def render_all(out: Path = OUT) -> None:
     (out / qs.SLUG).write_text(page(qs.TITLE, questions_page(), qs.SLUG), encoding="utf-8")
     import brian_story as bst
     html_story = page(bst.TITLE, brian_story_page(), "about.html")   # it belongs under About in the navigation
-    if not bst.LINKED:   # built, reachable by its address, but not for search engines until Brian says so
+    if not bst.LINKED:   # before Brian had the permissions he asked for: reachable, but not for search engines
         html_story = html_story.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n<meta name="robots" content="noindex">', 1)
     (out / bst.SLUG).write_text(html_story, encoding="utf-8")
     (out / "stories").mkdir(exist_ok=True)

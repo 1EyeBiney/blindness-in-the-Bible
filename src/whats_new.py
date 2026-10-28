@@ -13,6 +13,10 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-27", "A blind man's car",
+     "Brian's own account of losing one car and being given another, written from his recordings, and how this "
+     "site came to take up his spare hours in between. Linked from the About page.",
+     "a-blind-mans-car.html"),
     ("2026-10-22", "Brian asks",
      "A new page gathers the questions Brian has asked while reading, each with a short answer and a link to the page "
      "that answers it in full, and lists the four still open at the foot.",

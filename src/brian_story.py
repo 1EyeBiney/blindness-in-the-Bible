@@ -9,7 +9,7 @@ from __future__ import annotations
 TITLE = "A blind man's car"
 SLUG = "a-blind-mans-car.html"
 NOTE = "Brian's own account, written in October 2026 from his recordings. It is here as he told it."
-LINKED = False   # set True, and add it to What's new, when Brian has the permissions he is asking for
+LINKED = True
 
 TEXT = """I am a blind man with a car. I know what that sounds like, and I know how blessed it is, because I know the other side of it. When I lost my sight, I lost the freedom to go where I wanted when I wanted, and I learned the difference between asking for a ride and being offered one. Asking costs something every time. Being offered costs nothing, and you remember it for years. So in our house a car is not quite a possession. It is the thing that lets Barb take Chris to his cardiologist and Tammy to her mother's bedside, and get Jimmy and me to church, and it is the thing we have been given, more than once, by people who did not have to.
 
@@ -211,7 +211,7 @@ Within two hours, Betty called her.
 
 ## Betty and Bob
 
-Betty and Bob live a few houses down from my mom. They are both eighty-five, have been married sixty-five years, and have known each other since the fifth grade. They grew up in a suburb of Chicago. By high school there was a romantic interest, and all these years later they're still together. They have two children.
+Betty and Bob live a few houses down from my mom, and she has known them for thirteen years. They are both eighty-five, have been married sixty-five years, and have known each other since the fifth grade. They grew up in a suburb of Chicago. By high school there was a romantic interest, and all these years later they're still together. They have two children.
 
 Their daughter had bought a new car and given them her previous one, another Hyundai. That left them with two vehicles and no particular reason to keep both. The one they were willing to sell was a 2011 Hyundai Veracruz with 220,000 miles on it.
 
@@ -235,9 +235,9 @@ And then we kept finding things we liked. Heated seats, which you already know w
 
 We had been looking for a way to get three people to church and back and to manage the rest of our lives. We weren't shopping for all these extras. But there they were, and I enjoyed discovering them. It was more than enough for what we needed, in ways that were going to make everyday use of it pleasant for all three of us.
 
-They were asking $3,900. When my mom went to write the check, Betty told her to make it $3,000.
+They were asking $3,500. When my mom went to write the check, Betty told her to make it $3,000.
 
-I don't want to pass over that either. Nine hundred dollars is a lot of money to us. They were already making the car available at a price we could manage, and then she lowered it when it was time to pay. That was another blessing.
+I don't want to pass over that either. Five hundred dollars is a lot of money to us. They were already making the car available at a price we could manage, and then she lowered it when it was time to pay. That was another blessing.
 
 When we walked into their house, Betty took hold of me, hugged me, and kissed me on the cheek. I'm not much of a hugger. People who know me will tell you I'm not generally the cuddly, touchy-feely person in the room. I'm getting better about it. That particular greeting was wonderful.
 
