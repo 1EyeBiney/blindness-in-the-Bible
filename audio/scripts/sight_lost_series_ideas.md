@@ -119,8 +119,8 @@ face; the page's line that he recognizes the voice of God "when the sighted boy 
 
 Spine: the one person in the room who cannot see well is the one who knows what is really happening, and he knows
 it because God told him. The disguise was made for eyes.
-Questions to answer: why disguise her at all for a man who could not see? (The page and Brian: low vision, worth a
-try; and the servants on the road.) What did she carry? (loaves, cakes, honey: a poor woman's gift, part of the
+Questions to answer: why disguise her at all for a man who could not see? (Settled 30 October: Jeroboam says "so they
+will not recognize you", the road and the town, not the prophet. Brian now reads the set eyes as blind, not low vision.) What did she carry? (loaves, cakes, honey: a poor woman's gift, part of the
 disguise.) What became of the boy? (He died as she crossed the threshold, and he alone of Jeroboam's house was
 mourned and buried.) How long between the torn cloak and this day?
 Imagined scenes: the queen on the road from Tirzah to Shiloh in plain clothes with her basket; the doorway, the

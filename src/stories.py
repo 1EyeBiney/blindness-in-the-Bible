@@ -236,13 +236,29 @@ STORIES = [
         "slug": "ahijah", "title": "Ahijah and the disguised queen", "who": "Ahijah the prophet", "group": "not_restored",
         "outcome": "not_restored",
         "passages": [("1 Kings", 14, 1, 13)],
-        "sight": 'Kings says Ahijah could not see, for his eyes were dim because of his age. Brian notes he was probably low vision and could still see a little, which is why a disguise was worth trying. See what blind means here.',
+        "sight": "Kings says Ahijah could not see, for his eyes were dim because of his age. The verb under 'dim' is qum, "
+                 "to stand: his eyes had set. It is the word used of Eli at the gate in the same town, and the translators "
+                 "swap between the two men, giving Eli 'his gaze was fixed' and Ahijah 'his eyes were dim'. Brian reads it "
+                 "as a blind man does: eyes that have stopped tracking are eyes that have stopped working, and he takes "
+                 "Ahijah to have been blind, not low vision. It is also the one description of blindness in this series "
+                 "written from the outside, what the queen saw when she walked in. The disguise was not aimed at him: "
+                 "Jeroboam told her to disguise herself so that they, the people between Tirzah and the prophet's door, "
+                 "would not recognize her. See what blind means here.",
+        "life": "Ahijah appears twice in Kings, years apart. The first time he is on the road out of Jerusalem in "
+                "Solomon's last years, a prophet from Shiloh in a new cloak, which he tears into twelve pieces, handing "
+                "ten to Jeroboam: the kingdom, torn from Solomon's son. Shiloh by then was a backwater. The ark had left "
+                "it in Eli's day, more than a century before, and never came back. Jeroboam got his ten tribes, set up "
+                "golden calves at Bethel and Dan and made priests of men who were not Levites, and Kings records no visit "
+                "to Ahijah about any of it. The next we hear of the prophet, he is old, he cannot see, and a woman in plain "
+                "clothes is at his door with a sick boy's question. After this day he is not seen again, but his word is: "
+                "Kings names it when Baasha wiped out Jeroboam's house, and Chronicles lists the Prophecy of Ahijah the "
+                "Shilonite among the records of Solomon's reign.",
+        "threads": [("seen-and-unseen.html", "Seen and unseen: the deceits of Genesis")],
         "senses": "This is the one story in the group where the text tells us straight out how the blind man knew. "
                   "Not by her voice, because she had not spoken. Not by her footsteps, though he heard them at the "
                   "door. He knew because the LORD had told him, before she arrived, who was coming and that she would "
-                  "pretend to be someone else. The disguise was made for eyes, and Kings says his eyes were set with "
-                  "age, so it may have been worth something; he could perhaps see a woman in plain clothes and not a "
-                  "queen. What it could not do was reach the sense he was actually using. Of everyone in the passage, "
+                  "pretend to be someone else. The disguise was made for eyes, and Kings says his eyes had set with age; it was for the "
+                  "road and the town, not for him. What it could not do was reach the sense he was actually using. Of everyone in the passage, "
                   "the one who cannot see well is the only one who is not fooled, and the reason is not sharper "
                   "hearing. He was told.",
         "before_after": "Years earlier, on the road out of Jerusalem, this same prophet had torn a new cloak into "
@@ -263,15 +279,18 @@ STORIES = [
                    "name and asks why she is pretending. Then he gives her the hard message for her husband.",
         "shoes": "The text is careful about how Ahijah knows. It does not say he recognized her footsteps; it says the "
                  "LORD had told him who was coming and that she would be disguised, and that he spoke when he heard "
-                 "feet at the door. His eyes were dim with age, which may mean low vision rather than none, so a "
-                 "visual disguise might have had some point. Of everyone in the passage, the man who cannot see "
-                 "well is the one who knows the situation as it is, and he knows it because he was told.",
+                 "feet at the door. His eyes had set with age, and the disguise was ordered for the people she would "
+                 "pass, not for him. Of everyone in the passage, the man who cannot see "
+                 "well is the one who knows the situation as it is, and he knows it because he was told. The question "
+                 "that runs through Genesis, whether a man can tell who is in front of him, stops mattering here: "
+                 "Ahijah did not recognize her and did not need to.",
         "brian": [
-            "It does not say that he recognized the sound of her feet. He likely did not, unless he had been doing "
-            "this a long time. Besides, he was probably low vision and could still see a little, and the disguise "
-            "might have been visual enough to hide her true appearance.",
-            "I can tell Barb's sound if she wears certain shoes, but often in areas without context it is "
-            "difficult to pick out her footsteps among others.",
+            "It does not say that he recognized the sound of her feet. He likely did not, unless he had been doing this a long time. And the disguise was not really for him. Jeroboam told her to disguise herself so they would not recognize her, the people on the road and in Shiloh, not the prophet. I used to think Ahijah was probably low vision and could still see a little, and that the disguise might have been aimed at his eyes. Reading the word for his eyes has changed my mind on that, as I say below.",
+            "I can tell Barb's sound if she wears certain shoes, but often in areas without context it is difficult to pick out her footsteps among others.",
+            "When I started on this story I thought it would be the one where I talked about our other senses, and how much people underestimate what a blind man hears. The text turned that around on me. Ahijah did not hear who she was. He did not work it out from anything. The LORD told him before she arrived who was coming and that she would be disguised, and when he heard feet at the door he said her name. That is how he knew. Not sharper ears. He was told.",
+            "The word for his eyes is the same one used for Eli at the gate in the same town: his eyes stood. Set. Still. The translators cannot settle on it, dim in one verse and set or fixed in the other, but the picture is plain enough to me. Eyes that are still are eyes that are not tracking anything, and are not seeing much or anything at all. I am getting more this way the longer I am blind. I do not use my eyes for anything now, and they have stopped moving the way eyes do when they are looking. It is the one description of blindness in this series written from the outside, of what another person sees when they look at a blind man's face. The queen saw that face when she walked in, and whatever her husband had told her, she would have known then that the disguise was wasted on him.",
+            "This story also finishes something that starts back in Genesis. Isaac could not tell Jacob from Esau. Jacob could not tell Leah from Rachel in the dark. Joseph's brothers stood in front of him in broad daylight and did not recognize him. All through that family the question is whether a man can tell who is in front of him, and his eyes, when he has them, are no help. The queen came to Shiloh disguised so that nobody would recognize her, and the text never says the prophet did. It says he was told. He is the first one in the whole line who did not have to recognize anybody, and that is the point of him.",
+            "Matthew Henry wrote that Ahijah lived obscurely and neglected in Shiloh, blind through age, yet still blest with the visions of the Almighty, which need not bodily eyes, but are rather favoured by the want of them, the eyes of the mind being then most intent and least diverted. I did not expect to agree with a line like that, but I do. My lack of vision gives me clarity in a great many areas. I am less distracted, in a world that is built to pull my attention away from Jesus, where it needs to be. Jeroboam had his eyes and his kingdom and his calves, and he never once sent to Ahijah to ask about any of that. He sent when his boy was sick. Henry puts it in one line: in trouble have those visited thee who before slighted thee. The blind man in Shiloh was the one person in the story who was not distracted, and when the hard word came he gave it straight.",
         ],
     },
     {

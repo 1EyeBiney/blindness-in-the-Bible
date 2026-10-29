@@ -631,9 +631,10 @@ def test_threads_follow_the_text_and_are_linked_from_the_stories(tmp_path):
                 assert (tmp_path / "stories" / s["see"][0]).is_file()
     seen = (tmp_path / "stories" / "seen-and-unseen.html").read_text(encoding="utf-8")
     assert "they did not recognize him" in seen and "I know, my son, I know" in seen
+    assert "Why are you disguised?" in seen and seen.index("I know, my son, I know") < seen.index("Why are you disguised?")
     assert "did not recognize him, because his hands were hairy" in bible[("Genesis", 27, 23)]
     assert "Examine it" in bible[("Genesis", 37, 32)] and "examine them" in bible[("Genesis", 38, 25)]
-    for slug in ("isaac", "jacob"):     # the two Genesis stories carry the frame and point at the thread
+    for slug in ("isaac", "jacob", "ahijah"):     # the two Genesis stories and the coda carry the frame and point at the thread
         h = (tmp_path / "stories" / f"{slug}.html").read_text(encoding="utf-8")
         assert "Where this falls in his life" in h and 'href="seen-and-unseen.html"' in h
         assert h.index("Where this falls in his life") < h.index("What led up to it")
@@ -643,5 +644,7 @@ def test_the_thread_verb_nakar_is_in_every_verse_the_page_says_it_is():
     import hebrew as hb
     for ch, vs, n in [(27, 23, 1), (37, 32, 1), (37, 33, 1), (38, 25, 1), (38, 26, 1), (42, 7, 2), (42, 8, 2)]:
         assert sum(w["strongs"] == "H5234" for w in hb.words("Genesis", ch, vs)) == n, (ch, vs)
+    for vs, n in [(5, 1), (6, 1)]:       # the queen's disguise, 1 Kings 14, is the same root turned the other way
+        assert sum(w["strongs"] == "H5234" for w in hb.words("1 Kings", 14, vs)) == n, vs
     assert "scrutinize" in hb.entry("H5234")["strongs_def"] and "look intently" in hb.entry("H5234")["strongs_def"]
     assert hb.has("Genesis", 29, 17, "H7390")    # Leah's eyes: rak, tender, by implication weak

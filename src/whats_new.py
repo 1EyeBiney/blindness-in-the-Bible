@@ -13,6 +13,11 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-30", "From Brian on Ahijah, and the thread's last scene",
+     "Brian's thoughts on the blind prophet and the disguised queen: feet that tell him nothing, the still eyes he "
+     "shares with Eli, the recognition question of Genesis coming to its end, and Matthew Henry on the mind's eye. "
+     "The Ahijah page gains its life frame, and Seen and unseen gains a closing scene at Shiloh.",
+     "stories/ahijah.html"),
     ("2026-10-30", "From Brian on Zedekiah",
      "Brian on the last king of Judah: sounds that cannot be unheard, the violence done to a failing eye, the walk "
      "from Riblah, and the last thing he himself saw.",

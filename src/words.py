@@ -89,8 +89,8 @@ WORDS = {
              "someone; in one of its forms it turns inside out and means to make oneself unrecognizable, which is what "
              "the LORD tells Ahijah she will do, and what Ahijah names at the door. It is the word used when Isaac did "
              "not recognize Jacob, when Jacob recognized Joseph's robe, and when Joseph recognized his brothers and "
-             "they did not recognize him. The whole family history of this series runs through it, and here, for once, "
-             "the blind man is the one who recognizes."]},
+             "they did not recognize him. The whole family history of this series runs through it, and here, at its "
+             "end, the blind man neither recognizes nor needs to. He is told, before her feet reach the door."]},
     ],
     "zedekiah": [
         {"number": "H5786", "spelling": "avar", "say": "ah-VAR",

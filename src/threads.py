@@ -23,7 +23,7 @@ THREADS = [
             "site about blindness in the Bible, where the stories of Isaac and Jacob are too often read as if blindness "
             "were the weakness that let the lie in.",
             "The passages are given word for word from the Berean Standard Bible. The comments under each say only what "
-            "is in the text. One Hebrew verb runs through five of the eight scenes: nakar, Strong's 5234, which the "
+            "is in the text. One Hebrew verb runs through six of the nine scenes, the last of them outside Genesis: nakar, Strong's 5234, which the "
             "1894 dictionary defines as properly to scrutinize, to look intently at, and hence to recognise. The verb "
             "for recognising is a looking verb. It is named below wherever the tagged Hebrew text on the site's shelf "
             "shows it in the verse.",
@@ -106,13 +106,26 @@ THREADS = [
                         "goes to a man who can barely see and is not deceived at all.",
                 "see": ("jacob.html", "Jacob blesses Joseph's sons"),
             },
+            {
+                "heading": "Ahijah at Shiloh, where the chain ends",
+                "passages": [("1 Kings", 14, 5, 6)],
+                "note": "One scene outside Genesis, centuries on, closes the thread. A king's wife comes to a blind "
+                        "prophet disguised, so that he will not recognize her; the verb for her disguise is nakar turned "
+                        "the other way, the same root as every recognizing in this family's story. The text does not say "
+                        "he recognized her. It says the LORD had told him who was coming and that she would be disguised, "
+                        "and that he spoke when he heard her feet at the door. Every other person in this thread knew, or "
+                        "failed to know, by what reached them. Ahijah is the first who did not have to recognize anyone.",
+                "see": ("ahijah.html", "Ahijah and the disguised queen"),
+            },
         ],
         "close": [
             "Set the eight scenes side by side and the lesson is not that blind people are easily fooled. Isaac in the "
             "tent and Jacob in the dark were deceived by the same means: someone they trusted arranged what they could "
             "not check. Laban, Jacob with the robe, Judah and the ten brothers were all deceived with their eyes open, "
             "and in three of those cases it was precisely what they saw that misled them. The only person in the thread "
-            "who is offered a correction and does not need it is the one who can hardly see.",
+            "who is offered a correction and does not need it is the one who can hardly see. And the one scene added "
+            "from Kings ends the question altogether: the blind prophet at Shiloh is not deceived because he was told, "
+            "and recognizing never came into it.",
             "That matters for how the Isaac and Jacob episodes will be told. Isaac's blindness is the occasion of the "
             "deceit, not its cause. The cause is in the people around him, and Genesis spends the next twenty chapters "
             "showing that sight would not have saved him. Nothing on this page is imagined. It is only the order the "
