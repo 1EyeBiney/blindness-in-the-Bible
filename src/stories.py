@@ -345,6 +345,13 @@ STORIES = [
                  "sons, and then he is blinded so that it stays the last thing. Blinding here is a weapon, chosen by "
                  "a conqueror to break a man and to shame a nation. The account is told three times in Scripture, "
                  "in nearly the same words each time.",
+        "brian": [
+            "Whatever we open the episode with, this is going to be a hard one to talk about.",
+            "There are sounds you cannot unhear. I heard my dog cry out in pain when he jumped off the deck and tore his ACL. He went blind from the knee surgery that followed, which I thought was a little unfair. I heard my doctor curse while he was operating on my eye. That was the last day I had any usable vision. You cannot look away from a sound and pretend it is not there. A sighted person can turn their head. The sound comes in anyway, and it stays.",
+            "Zedekiah brings back a lot of memories of pain and discomfort, too. People do not realise how violent the treatment of a failing eye is. Scraping the surface of it, replacing parts of it, putting needles into it. Such extreme measures for such a delicate instrument. I do not like to talk about the pain I went through, so I will say only this: there are a great many more nerves in the eye than most people know, and upsetting them was worse than anything else I have been through, and that includes heart bypass surgery. I do not have to worry about eye pain any more, and I am so grateful for that. Many people who lose their sight still live with discomfort and pain long after the sight is gone. So I know it could be worse.",
+            "I do not even want to think about what Zedekiah faced. The last thing he saw was out of his worst nightmares, and then, with all of that pain, he was made to walk from Riblah to Babylon, a journey of weeks, to the prison where he would die. The text says it in a single verse and moves on. I cannot move on from it that quickly.",
+            "I am fortunate. The last thing I saw was my wife Barb, shortly before the surgery.",
+        ],
     },
     # ------------------------------------------------------------ for a time
     {

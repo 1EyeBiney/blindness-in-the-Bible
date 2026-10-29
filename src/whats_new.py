@@ -13,6 +13,10 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-30", "From Brian on Zedekiah",
+     "Brian on the last king of Judah: sounds that cannot be unheard, the violence done to a failing eye, the walk "
+     "from Riblah, and the last thing he himself saw.",
+     "stories/zedekiah.html"),
     ("2026-10-30", "From Brian on Eli",
      "Brian on the priest who waited by the road: patience without choice, hearing what you cannot act on, "
      "what a blind man hears in his own house, and the answer Eli gave in the night.",
