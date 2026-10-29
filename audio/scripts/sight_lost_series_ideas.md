@@ -212,3 +212,23 @@ for Zedekiah; Gaza and Sorek for Samson. Beersheba, Gaza and Shiloh are already 
    Not everything the episode will do: no imagined scenes on the pages, and Brian's thoughts stay his.
 2. Brian reads the six pages and adds his thoughts, in detail, where they settle.
 3. Scripts are drafted from the pages, as the Law scripts were.
+
+## Decided 30 October 2026, after Brian's thoughts on Jacob, Samson and Eli went up
+
+- Order settled: 11 Zedekiah, 12 Isaac, 13 Jacob, 14 Eli, 15 Ahijah, 16 Samson. Three pairs, each bound by a
+  cross-reference and a shared scene voice but kept as two episodes: Zedekiah and Samson (the bookends: bronze
+  fetters, a foreign city, what came last; 11's teaser promises the other man in chains, 16's cold open answers it),
+  Isaac and Jacob (the hands; one old-man voice for both), Eli and Ahijah (Shiloh; "set" eyes; knowing what the
+  sighted do not; one prophet's voice could serve both). The shared intro should name the three pairs, not promise
+  the age stories first.
+- Jacob and Ahijah, the two shortest texts, each open by replaying a moment of their pair's episode (the tent; the
+  gate at Shiloh) before their own scene.
+- Two threads carried: the remaining senses (the stated spine) and the words, placed in their chain in each word
+  segment (kahah, kabed, qum, naqar, ivver; nakar beside the Genesis pair).
+- A segment "What I hear" in every episode, after the passage and scene, before the old books. Brian's lines per
+  episode are in audio/brian/sight_lost_thoughts.md (local).
+- Samson's ending, Brian's design: open on Samson trudging, led out of the prison to "entertain" the crowd, slow
+  footsteps; after the prayer the footstep rate rises in Reaper and the steps turn purposeful as he realises he can
+  still do what he was given to do, and the episode ends with the walk to the pillars. Footsteps are the SFX bed of
+  the whole episode, and the series ends there.
+- Zedekiah now opens the series with no thoughts from Brian yet: that page is the next to finish.
