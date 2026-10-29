@@ -13,6 +13,10 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-30", "From Brian on Jacob",
+     "Brian's thoughts on Jacob blessing Joseph's sons: the seeing-verb for knowing, touch as the most important sense, "
+     "Matthew Henry on the eye of faith, and the two Hebrew words for the two men's failing eyes.",
+     "stories/jacob.html"),
     ("2026-10-29", "Seen and unseen, and where Isaac and Jacob stand in their lives",
      "A new thread page follows the deceits of Genesis from Isaac at Gerar to Jacob's crossed hands and asks what "
      "the eye had to do with each. The Isaac and Jacob story pages gain a section placing the blind scene in the "
