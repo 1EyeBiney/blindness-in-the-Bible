@@ -13,6 +13,10 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-30", "From Brian on Eli",
+     "Brian on the priest who waited by the road: patience without choice, hearing what you cannot act on, "
+     "what a blind man hears in his own house, and the answer Eli gave in the night.",
+     "stories/eli.html"),
     ("2026-10-30", "From Brian on Samson",
      "Brian on the one man blinded in the prime of his strength: the sudden loss, the Hebrew word naqar and his own "
      "surgeries, and purpose found again at the pillars.",
