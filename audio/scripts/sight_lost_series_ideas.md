@@ -252,3 +252,27 @@ begins with a sound. Brian finds or makes the clips in Reaper.
   imagined scene instead.
 - 15 Ahijah: feet at the door, 1 Kings 14:6, and a name spoken before she speaks.
 - 16 Samson: a wild cheering crowd, cut short. The fall is withheld until the end, and heard from a distance.
+
+## Decided 30 October 2026: the shared intro, and how episode 11 opens
+
+Shared intro, number-free, one take for all six, in the slot after the general Not By Sight intro:
+
+> **Narrator** *(calm)* This episode is part of our series on sight lost and not given back: six people in the
+> Bible who lost their sight and lived the rest of their lives without it. We tell them in three pairs. Two men
+> blinded by their enemies, Zedekiah and Samson. A father and a son, Isaac and Jacob. Two old men of Shiloh, Eli
+> and Ahijah. Every episode begins with sounds, and with what a blind man hears in them. Along the way we follow
+> the Hebrew words the Bible uses for eyes that fail, one word handing on to the next. When we imagine a scene, we
+> will tell you so. Everything else is from the text, from the old books read in their own voice, and from Brian.
+
+Template lines: the word segment opens "Now the word. Each of these six stories has its own word for eyes that
+fail, and they make a chain. This one is ___." then places the word in the chain so far. The What I hear segment
+opens "Brian, what do you hear in this one?" with the cold-open sound returning quietly under his first line.
+
+Episode 11 opening, Brian's design:
+1. Sounds people shy away from, no more than four: "Patriots win!" in a Colts town, fingernails on a chalkboard,
+   and one or two more (the mechanic's transmission line is a candidate). Cut each short.
+2. Sound in general, in Brian's voice, as the introduction to the thread for the whole series, for sighted
+   listeners who never think about it: how God made sound; it bends round and gets through where light is simply
+   blocked (a door stops light, not sound); it usually marks a change in energy (a firecracker); walking makes sound,
+   so sound is an indicator; it comes back off things (echolocation). Short and concrete, under ninety seconds.
+3. Then sounds you do not want to hear, and Brian's thoughts, placed up front the way some Law episodes did.
