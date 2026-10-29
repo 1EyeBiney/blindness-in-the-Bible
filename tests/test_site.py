@@ -614,3 +614,26 @@ def test_brians_car_story_is_built_but_unlinked_until_he_says(tmp_path):
         assert 'name="robots"' not in h and linked
     else:
         assert '<meta name="robots" content="noindex">' in h and not linked
+
+
+def test_threads_follow_the_text_and_are_linked_from_the_stories(tmp_path):
+    import threads as th
+    build_site.render_all(tmp_path)
+    bible = build_site.load_bible()
+    idx = (tmp_path / "stories" / "index.html").read_text(encoding="utf-8")
+    for t in th.THREADS:
+        h = (tmp_path / "stories" / f"{t['slug']}.html").read_text(encoding="utf-8")
+        assert f'href="{t["slug"]}.html"' in idx and 'aria-current="page"' in h
+        for s in t["sections"]:
+            assert f'id="{build_site.slugify(s["heading"])}"' in h, s["heading"]
+            assert all(bible.get((b, c, a)) for b, c, a, _ in s["passages"]), s["heading"]
+            if s.get("see"):
+                assert (tmp_path / "stories" / s["see"][0]).is_file()
+    seen = (tmp_path / "stories" / "seen-and-unseen.html").read_text(encoding="utf-8")
+    assert "they did not recognize him" in seen and "I know, my son, I know" in seen
+    assert "did not recognize him, because his hands were hairy" in bible[("Genesis", 27, 23)]
+    assert "Examine it" in bible[("Genesis", 37, 32)] and "examine them" in bible[("Genesis", 38, 25)]
+    for slug in ("isaac", "jacob"):     # the two Genesis stories carry the frame and point at the thread
+        h = (tmp_path / "stories" / f"{slug}.html").read_text(encoding="utf-8")
+        assert "Where this falls in his life" in h and 'href="seen-and-unseen.html"' in h
+        assert h.index("Where this falls in his life") < h.index("What led up to it")

@@ -51,6 +51,22 @@ STORIES = [
         "slug": "isaac", "title": "Isaac and the stolen blessing", "who": "Isaac", "group": "not_restored",
         "outcome": "not_restored",
         "passages": [("Genesis", 27, 1, 4), ("Genesis", 27, 18, 27), ("Genesis", 27, 30, 35)],
+        "life": "Isaac is the son Abraham and Sarah waited twenty-five years for, the boy bound on the altar at "
+                "Moriah and spared. At forty he married Rebekah, brought from Haran by his father's servant, and "
+                "twenty more years passed before the twins came; before they were born Rebekah was told that the "
+                "older would serve the younger (Genesis 25). Esau grew up a hunter and his father's favourite, Jacob "
+                "stayed among the tents and was his mother's, and one day Esau came in famished and sold his "
+                "birthright for a bowl of stew. Isaac's own life repeated his father's: a famine, a stay among the "
+                "Philistines at Gerar, where he told the men that Rebekah was his sister, as Abraham had said of "
+                "Sarah, and was found out when the king looked down from a window and saw him caressing her "
+                "(Genesis 26). He reopened his father's wells, quarrelled over them, prospered, and settled at "
+                "Beersheba. Esau married two Hittite women who were a grief to both parents. Then comes the chapter "
+                "on this page. After it, Esau resolves to kill his brother once their father is dead; Rebekah sends "
+                "Jacob to her brother Laban in Haran, telling Isaac it is to find a wife, and Isaac blesses Jacob "
+                "again, this time knowing who he is (Genesis 28). Jacob is gone twenty years. When he comes back he "
+                "finds his father at Hebron, and when Isaac dies at a hundred and eighty, Esau and Jacob bury him "
+                "together (Genesis 35).",
+        "threads": [("seen-and-unseen.html", "Seen and unseen: the deceits of Genesis")],
         "sight": "Genesis says Isaac's eyes were so weak that he could no longer see. That is the Bible's way of describing sight lost to age, and it may mean dim sight rather than none. Either way, the story turns on what he could not see, and the page reads it that way. See what blind means here.",
         "around": "Isaac is the son of Abraham and the father of twins, Esau and Jacob. Esau is the firstborn and his "
                   "father's favourite; Jacob is his mother Rebekah's. Isaac is old, cannot see, and believes he may "
@@ -124,6 +140,21 @@ STORIES = [
         "slug": "jacob", "title": "Jacob blesses Joseph's sons", "who": "Jacob (Israel)", "group": "not_restored",
         "outcome": "not_restored",
         "passages": [("Genesis", 48, 8, 20)],
+        "life": "Jacob left home as the deceiver of the Isaac page and spent twenty years with his uncle Laban in "
+                "Haran. He worked seven years for Rachel and woke beside Leah, whom Laban had brought to him in the "
+                "dark, then worked seven more (Genesis 29). Between the two sisters and their maids he had eleven "
+                "sons and a daughter there; Rachel, long barren, bore Joseph last. He came home rich in flocks, "
+                "wrestled through a night at the Jabbok and was given the name Israel and a limp, and met Esau, who "
+                "ran to embrace him (Genesis 32 and 33). Rachel died on the road giving birth to Benjamin. Jacob "
+                "favoured Joseph, Rachel's firstborn, and gave him the robe; Joseph's brothers sold him into Egypt "
+                "and brought their father the robe dipped in a goat's blood, and Jacob mourned a living son for some "
+                "twenty years (Genesis 37). Famine sent the brothers down to Egypt for grain, to a governor they did "
+                "not recognise. When at last they came home saying Joseph was alive, Jacob did not believe them until "
+                "he saw the wagons. He went down to Egypt at a hundred and thirty, Joseph wept on his neck, and he "
+                "told Pharaoh his years had been few and hard (Genesis 46 and 47). He lived seventeen years in "
+                "Goshen. Then comes the chapter on this page, his eyesight poor with age, and in the next he blesses "
+                "all twelve sons and dies.",
+        "threads": [("seen-and-unseen.html", "Seen and unseen: the deceits of Genesis")],
         "sight": "Genesis says Israel's eyesight was poor because of old age and that he could hardly see. That is low vision, not total blindness. Jacob may have seen two shapes in front of him and still not known which boy was which. See what blind means here.",
         "senses": "Jacob could see shapes. He saw that Joseph had brought two boys and asked who they were, but he "
                   "could not tell which was which, and that is the whole of the scene. What he had instead was his "

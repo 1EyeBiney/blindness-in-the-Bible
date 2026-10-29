@@ -13,6 +13,11 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-29", "Seen and unseen, and where Isaac and Jacob stand in their lives",
+     "A new thread page follows the deceits of Genesis from Isaac at Gerar to Jacob's crossed hands and asks what "
+     "the eye had to do with each. The Isaac and Jacob story pages gain a section placing the blind scene in the "
+     "whole of the man's life.",
+     "stories/seen-and-unseen.html"),
     ("2026-10-27", "A blind man's car",
      "Brian's own account of losing one car and being given another, written from his recordings, and how this "
      "site came to take up his spare hours in between. Linked from the About page.",

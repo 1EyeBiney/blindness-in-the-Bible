@@ -361,3 +361,15 @@ Brian's decisions for the questions page: group by area of the site; open questi
 ## Questions waiting for Brian
 
 (Added as the work raises them.)
+
+## 29 October 2026, back to Sight lost and not given back
+
+Brian, reading Isaac and Jacob to write his thoughts, found he needed the surrounding stories. Decided: a bounded
+"Where this falls in his life" section on those two pages only (Zedekiah's frame is political and sits in place and
+time); a thread page, "Seen and unseen: the deceits of Genesis", following the deceits from Isaac at Gerar to the
+crossed hands, with the point that the sighted were deceived as often as the blind; Leah (Genesis 29:17, rakkot,
+disputed) to be a separate study under Living blind then, later, as a question about hiding poor sight, not a
+finding, and Orson Scott Card's novel named only in Brian's own words, never as a source. Devices for the episodes
+besides imagined scenes: the blocking of the room from the blind man's seat, the sighted reader's blind spot, the
+word, the old books as the voices, "the text does not say" as a refrain, paired readings (Isaac's hands, Jacob's).
+The Genesis Hebrew is not yet on the checker; the thread page names the verb nakar and says it awaits checking.

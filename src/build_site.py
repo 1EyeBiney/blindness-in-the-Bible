@@ -297,6 +297,38 @@ def stories_index() -> str:
             parts.append(f'<li>{thumb}<div><a href="{x["slug"]}.html">{e(x["title"])}</a>. {e(refs)}. '
                          f'{e(st.OUTCOMES[x["outcome"]])}.</div></li>')
         parts.append("</ul>")
+    import threads as th
+    parts.append("<h2>Threads</h2><p>Pages that follow one idea through several of the stories.</p><ul>" + "".join(
+        f'<li><a href="{t["slug"]}.html">{e(t["title"])}</a></li>' for t in th.THREADS) + "</ul>")
+    return "\n".join(parts)
+
+
+def thread_page(t: dict, bible: dict) -> str:
+    parts = ['<p><a href="index.html">All the stories</a></p>', f"<h1>{e(t['title'])}</h1>",
+             f'<p class="lede">{e(t["lede"])}</p>']
+    parts.extend(f"<p>{e(p)}</p>" for p in t["intro"])
+    parts.append("<h2>On this page</h2><ul>" + "".join(
+        f'<li><a href="#{slugify(s["heading"])}">{e(s["heading"])}</a></li>' for s in t["sections"]) + "</ul>")
+    for s in t["sections"]:
+        parts.append(f'<h2 id="{slugify(s["heading"])}">{e(s["heading"])}</h2>')
+        for p in s["passages"]:
+            book, ch, a, z = p
+            parts.append(f"<h3>{e(passage_label(p))}</h3>")
+            for v in range(a, z + 1):
+                text = bible.get((book, ch, v))
+                if text:
+                    parts.append(f'<p class="verse"><b>{v}</b> {e(text)}</p>')
+        parts.append(f"<p>{e(s['note'])}</p>")
+        if s.get("see"):
+            parts.append(f'<p>The story page: <a href="{s["see"][0]}">{e(s["see"][1])}</a>.</p>')
+    parts.append("<h2>Set side by side</h2>")
+    parts.extend(f"<p>{e(p)}</p>" for p in t["close"])
+    parts.append("<h2>From Brian</h2>")
+    if t.get("brian"):
+        parts.extend(f"<p>{e(p)}</p>" for p in t["brian"])
+    else:
+        parts.append("<p>Brian has not written on this thread yet. His thoughts will go here when he has.</p>")
+    parts.append('<p><a href="index.html">All the stories</a></p>')
     return "\n".join(parts)
 
 
@@ -553,10 +585,13 @@ def story_page(story: dict, bible: dict, order: list[dict]) -> str:
              f'{e("; ".join(passage_label(p) for p in story["passages"]))}.</p>',
              pics.get("banner", ""),
              listen_html(story.get("listen"), "../"),
+             (f"<h2>Where this falls in his life</h2><p>{e(story['life'])}</p>" if story.get("life") else ""),
              f"<h2>What led up to it</h2><p>{e(story['around'])}</p>" + pics.get("around", ""),
              f"<h2>What happens</h2><p>{e(story['happens'])}</p>" + pics.get("happens", ""),
              (f"<h2>Before and after</h2><p>{e(story['before_after'])}</p>" if story.get("before_after") else ""),
              (f"<h2>What came of it</h2><p>{e(story['came_of_it'])}</p>" if story.get("came_of_it") else ""),
+             ("<p>This story is part of a thread that runs through several: " + ", ".join(
+                 f'<a href="{h}">{e(t)}</a>' for h, t in story["threads"]) + ".</p>" if story.get("threads") else ""),
              f"<h2>In their shoes</h2><p>{e(story['shoes'])}</p>" + pics.get("shoes", "")]
     if story.get("senses"):
         parts.append(f"<h2>What the other senses told him</h2><p>{e(story['senses'])}</p>")
@@ -870,6 +905,10 @@ def render_all(out: Path = OUT) -> None:
     (out / "stories" / "index.html").write_text(
         page("The stories", stories_index(), "stories/index.html", root="../", banner=banner("stories/index")),
         encoding="utf-8")
+    import threads as th
+    for t in th.THREADS:
+        (out / "stories" / f"{t['slug']}.html").write_text(
+            page(t["title"], thread_page(t, bible), "stories/index.html", root="../"), encoding="utf-8")
     import pages as pg
     for section in ("law", "life"):
         (out / section).mkdir(exist_ok=True)
