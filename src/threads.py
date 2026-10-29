@@ -23,8 +23,10 @@ THREADS = [
             "site about blindness in the Bible, where the stories of Isaac and Jacob are too often read as if blindness "
             "were the weakness that let the lie in.",
             "The passages are given word for word from the Berean Standard Bible. The comments under each say only what "
-            "is in the text. The Hebrew verb that runs through several of them, nakar, to recognise or to make out, is "
-            "named where it occurs, and will be checked against the tagged Hebrew text when that is added to the site.",
+            "is in the text. One Hebrew verb runs through five of the eight scenes: nakar, Strong's 5234, which the "
+            "1894 dictionary defines as properly to scrutinize, to look intently at, and hence to recognise. The verb "
+            "for recognising is a looking verb. It is named below wherever the tagged Hebrew text on the site's shelf "
+            "shows it in the verse.",
         ],
         "sections": [
             {
@@ -90,8 +92,9 @@ THREADS = [
                 "passages": [("Genesis", 42, 7, 8)],
                 "note": "Ten men stand in front of their brother in full daylight. He recognises them; they do not "
                         "recognise him. Nothing is hidden but the years and an Egyptian's dress and language. Genesis "
-                        "says it twice in two verses, with the verb nakar both times. The brothers who deceived their "
-                        "father with a garment are now deceived by one.",
+                        "uses the verb nakar four times in two verses: he recognised them, he made himself a stranger to "
+                        "them (the same root, turned the other way), he recognised them, they did not recognise him. "
+                        "The brothers who deceived their father with a garment are now deceived by one.",
             },
             {
                 "heading": "Jacob, who could hardly see, and knew",

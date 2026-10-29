@@ -637,3 +637,11 @@ def test_threads_follow_the_text_and_are_linked_from_the_stories(tmp_path):
         h = (tmp_path / "stories" / f"{slug}.html").read_text(encoding="utf-8")
         assert "Where this falls in his life" in h and 'href="seen-and-unseen.html"' in h
         assert h.index("Where this falls in his life") < h.index("What led up to it")
+
+
+def test_the_thread_verb_nakar_is_in_every_verse_the_page_says_it_is():
+    import hebrew as hb
+    for ch, vs, n in [(27, 23, 1), (37, 32, 1), (37, 33, 1), (38, 25, 1), (38, 26, 1), (42, 7, 2), (42, 8, 2)]:
+        assert sum(w["strongs"] == "H5234" for w in hb.words("Genesis", ch, vs)) == n, (ch, vs)
+    assert "scrutinize" in hb.entry("H5234")["strongs_def"] and "look intently" in hb.entry("H5234")["strongs_def"]
+    assert hb.has("Genesis", 29, 17, "H7390")    # Leah's eyes: rak, tender, by implication weak
