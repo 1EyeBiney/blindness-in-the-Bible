@@ -232,3 +232,23 @@ for Zedekiah; Gaza and Sorek for Samson. Beersheba, Gaza and Shiloh are already 
   still do what he was given to do, and the episode ends with the walk to the pillars. Footsteps are the SFX bed of
   the whole episode, and the series ends there.
 - Zedekiah now opens the series with no thoughts from Brian yet: that page is the next to finish.
+
+## Decided 30 October 2026, later: every episode opens on a sound
+
+The opening device is now "a sound, and what a blind man hears in it" (the remaining-senses spine folds into it);
+the word chain is the second thread. Under thirty seconds before Brian's voice. The shared intro says every episode
+begins with a sound. Brian finds or makes the clips in Reaper.
+
+- 11 Zedekiah: "sounds you don't want to hear", kept light, not gruesome. Brian's picks: a mechanic's "I'm awful
+  sorry, but it's gonna cost eleven thousand to replace the transmission" (it just happened to them) and "Patriots
+  win!" for a Colts town. From the laugh he moves to sounds you never forget, and from there to the king whose last
+  sight was made to stay his last.
+- 12 Isaac: a tent at evening and the most familiar voice in the wrong place (Jacob's where Esau's should be); the
+  pause and "are you really my son Esau?" A familiar sound where it does not belong is a blind man's alarm.
+- 13 Jacob: familiar sounds. Blind people read a room from sounds the sighted ignore. (Genesis 46:30 settles his
+  sight: at 130 he said "now that I have seen your face", so his eyes went in the seventeen Egyptian years, and by
+  Genesis 48 he had Joseph's voice but not the boys' faces.)
+- 14 Eli: a crowd off to one side, then a runner's feet coming up to the chair. The night with Samuel becomes the
+  imagined scene instead.
+- 15 Ahijah: feet at the door, 1 Kings 14:6, and a name spoken before she speaks.
+- 16 Samson: a wild cheering crowd, cut short. The fall is withheld until the end, and heard from a distance.
