@@ -13,6 +13,10 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-30", "From Brian on Samson",
+     "Brian on the one man blinded in the prime of his strength: the sudden loss, the Hebrew word naqar and his own "
+     "surgeries, and purpose found again at the pillars.",
+     "stories/samson.html"),
     ("2026-10-30", "From Brian on Jacob",
      "Brian's thoughts on Jacob blessing Joseph's sons: the seeing-verb for knowing, touch as the most important sense, "
      "Matthew Henry on the eye of faith, and the two Hebrew words for the two men's failing eyes.",
