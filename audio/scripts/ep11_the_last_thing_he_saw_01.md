@@ -1,6 +1,6 @@
 # Not By Sight, episode 11: The last thing he saw
 
-Script for reading, draft 4. Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Brian makes the clips in Reaper and ElevenLabs. The title is provisional. Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix.
+Script for reading, draft 5. Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Brian makes the clips in Reaper and ElevenLabs. The title is provisional. Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix.
 
 **Narrator** *(calm)* Before the story, a word about sound.
 
@@ -36,13 +36,13 @@ Script for reading, draft 4. Speaker names in bold, cues in italics, Scripture i
 
 **Narrator** *(calm)* God made light and called it good. He made sound too, and a blind man will tell you he is grateful for every one of these properties, every day. Brian puts it this way.
 
-**Brian** *(calm)* Ask a room full of blind people whether they would give up their hearing to get their sight back. Most of them would not. I have thought about it more than once. And while I'm not much of a talker, I am a good listener, so I don't really know which I would choose myself.
+**Brian** *(calm)* Ask a room full of blind people whether they would give up their hearing to get their sight back. More than you could imagine would not. I have wrestled with this one more than once. And while I'm not much of a talker, I am a good listener, so I don't really know which I would choose myself.
 
 *(pause 1.5 s)*
 
 **Narrator** *(calm)* One small story, from Brian, and then the hard part.
 
-**Brian** *(calm)* DRAFT. I was pushing Barb in her wheelchair through a hallway at the VA, in a crowd, when a man passed us the other way. I knew he was blind before anyone said so. I heard his cane. I worked for years in a place full of blind people, and that is a sound you do not forget. He and his escort went on past us, twenty feet or so, and I heard him say he needed a bus stop, because he had an eye appointment at a clinic a few blocks away. Blocks is a long way for a blind man who has not been taught the route. I did not turn round. I did not have to. We found him, and we drove him, and I knew the door of that building from my own visits. None of that is a special gift. It is what hearing becomes when it is the sense you live by. Sighted people filter most of what they hear out. I cannot afford to, and I would not want to.
+**Brian** *(calm)* DRAFT. I was pushing Barb in a wheelchair through a hallway at the VA, in a crowd, when a man passed us the other way. I knew he was blind before anyone said so. I heard his cane. I worked for years in a place full of blind people, and that is a sound you do not forget. He and his escort went on past us, twenty feet or so, and I heard him say he needed a bus stop, because he had an eye appointment at a clinic a few blocks away. Blocks is a long way for a blind man who has not been taught the route. I did not turn round. I did not have to. We got our car and found him, right at the bus stop he had named, the one I had heard from twenty feet away in a crowded hallway, and we got him where he needed to go. None of that came from a special gift. It is what hearing becomes when it is the sense you live by. Sighted people filter most of what they hear out. I cannot afford to, and I would not want to.
 
 *(pause 1.5 s)*
 
@@ -69,6 +69,8 @@ Script for reading, draft 4. Speaker names in bold, cues in italics, Scripture i
 **Brian** *(calm)* I'm glad I didn't have to record myself for this, this is going to be a hard one to talk about.
 
 **Brian** *(calm)* There are sounds you cannot unhear. I heard my dog cry out in pain when he jumped off the deck and tore his ACL. He went blind from the knee surgery that followed, which I thought was a little unfair. I heard my doctor curse while he was operating on my eye. That was the last day I had any usable vision. You cannot look away from a sound and pretend it is not there. A sighted person can turn their head. The sound comes in anyway, and it stays.
+
+**Brian** *(calm)* DRAFT. Those two are the extremes, and I picked them because they make the point. Most of the sounds I would rather not have heard are quieter than that, and they are not mine. They are somebody else's pain. Strangely, it is seldom a blind person's. That is the one kind of trouble I know what to do with. It is everyone else, and the sound of something I cannot fix. That belongs to another episode in this series, so I will leave it there. I mention it now only because the worst sound in this story is not the king's own pain either.
 
 *(pause 1.5 s)*
 
