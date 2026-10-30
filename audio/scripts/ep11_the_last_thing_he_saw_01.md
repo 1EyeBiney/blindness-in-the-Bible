@@ -1,6 +1,6 @@
 # Not By Sight, episode 11: The last thing he saw
 
-Script for reading, draft 5. Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Brian makes the clips in Reaper and ElevenLabs. The title is provisional. Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix.
+Script for reading, final edit 30 October 2026. Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. The clips are in audio/sfx/ep11; Brian supplies the Patriots call and the mechanic. Brian's paragraphs are his own words, approved by him.
 
 **Narrator** *(calm)* Before the story, a word about sound.
 
@@ -10,7 +10,7 @@ Script for reading, draft 5. Speaker names in bold, cues in italics, Scripture i
 
 *(SFX, if you can: a voice talking in another room, behind a closed door, muffled, three seconds, under the next line)*
 
-**Narrator** *(calm)* You cannot make out the words. But you know there is a person, and whether they are calm, and roughly how far away. The door stopped the light. The sound? It only got softened.
+**Narrator** *(calm)* You cannot make out the words. But you know there is a person, and whether they are calm, and roughly how far away. The door stopped the light. The sound it only softened.
 
 *(pause 1.0 s)*
 
@@ -42,11 +42,11 @@ Script for reading, draft 5. Speaker names in bold, cues in italics, Scripture i
 
 **Narrator** *(calm)* One small story, from Brian, and then the hard part.
 
-**Brian** *(calm)* DRAFT. I was pushing Barb in a wheelchair through a hallway at the VA, in a crowd, when a man passed us the other way. I knew he was blind before anyone said so. I heard his cane. I worked for years in a place full of blind people, and that is a sound you do not forget. He and his escort went on past us, twenty feet or so, and I heard him say he needed a bus stop, because he had an eye appointment at a clinic a few blocks away. Blocks is a long way for a blind man who has not been taught the route. I did not turn round. I did not have to. We got our car and found him, right at the bus stop he had named, the one I had heard from twenty feet away in a crowded hallway, and we got him where he needed to go. None of that came from a special gift. It is what hearing becomes when it is the sense you live by. Sighted people filter most of what they hear out. I cannot afford to, and I would not want to.
+**Brian** *(calm)* I was pushing Barb in a wheelchair through a hallway at the VA, in a crowd, when a man passed us the other way. I knew he was blind before anyone said so. I heard his cane. I worked for years in a place full of blind people, and that is a sound you do not forget. He and his escort went on past us, twenty feet or so, and I heard him say he needed a bus stop, because he had an eye appointment at a clinic a few blocks away. A few blocks is a long way for a blind man who has not been taught the route. I did not turn round. I did not have to. We got our car and found him, right at the bus stop he had named, the one I had heard from twenty feet away in a crowded hallway, and we got him where he needed to go. None of that came from a special gift. It is what hearing becomes when it is the sense you live by. Sighted people filter most of what they hear out. I cannot afford to, and I would not want to.
 
 *(pause 1.5 s)*
 
-**Narrator** *(calm)* Hold that in mind, because it cuts both ways. The hearing that picked a cane out of a crowd is the same hearing that cannot be shut. Sound has one more property, and it is the one this episode is about. You can close your eyes. You cannot close your ears. Sound comes in whether you want it or not, and some sounds you would give almost anything to not hear.
+**Narrator** *(calm)* Hold that in mind, because it cuts both ways. The hearing that picked a cane out of a crowd is the same hearing that cannot be shut. Sound has one more property, and it is the one this episode is about. You can close your eyes. You cannot close your ears. Sound comes in whether you want it or not, and some sounds you would give almost anything not to hear.
 
 *(pause 1.0 s)*
 
@@ -66,19 +66,21 @@ Script for reading, draft 5. Speaker names in bold, cues in italics, Scripture i
 
 *(pause 1.0 s)*
 
-**Brian** *(calm)* I'm glad I didn't have to record myself for this, this is going to be a hard one to talk about.
+**Brian** *(calm)* I'm glad I didn't have to record myself for this. It is going to be a hard one to talk about.
 
 **Brian** *(calm)* There are sounds you cannot unhear. I heard my dog cry out in pain when he jumped off the deck and tore his ACL. He went blind from the knee surgery that followed, which I thought was a little unfair. I heard my doctor curse while he was operating on my eye. That was the last day I had any usable vision. You cannot look away from a sound and pretend it is not there. A sighted person can turn their head. The sound comes in anyway, and it stays.
 
-**Brian** *(calm)* DRAFT. Those two are the extremes, and I picked them because they make the point. Most of the sounds I would rather not have heard are quieter than that, and they are not mine. They are somebody else's pain. Strangely, it is seldom a blind person's. That is the one kind of trouble I know what to do with. It is everyone else, and the sound of something I cannot fix. That belongs to another episode in this series, so I will leave it there. I mention it now only because the worst sound in this story is not the king's own pain either.
+**Brian** *(calm)* Those two are the extremes, and I picked them because they make the point. Most of the sounds I would rather not have heard are quieter than that, and they are not mine. They are somebody else's pain. Strangely, it is seldom a blind person's. That is the one kind of trouble I know what to do with. It is everyone else, and the sound of something I cannot fix. That belongs to another episode in this series, so I will leave it there. I mention it now only because the worst sound in this story is not the king's own pain either.
 
 *(pause 1.5 s)*
 
-**Narrator** *(calm)* A sound that stays. Hold on to that. People say the last thing he saw as if sight were the only sense that leaves a mark. It is not. A sound lasts as long, and it gets in where a sight cannot. This is the story of a man whose last sight was chosen for him, and arranged so that it would stay. It is also, if you listen for it, the story of what he heard.
+**Narrator** *(calm)* A sound that stays. Hold on to that. People say "the last thing he saw" as if sight were the only sense that leaves a mark. It is not. A sound lasts as long, and it gets in where a sight cannot. This is the story of a man whose last sight was chosen for him, and arranged so that it would stay. It is also, if you listen for it, the story of what he heard.
 
 *(pause 1.5 s)*
 
 **Narrator** *(calm)* This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for blind believers, their families, and the church. The Scripture you will hear is the Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. And when we imagine a scene, we will tell you so.
+
+*(pause 1.0 s)*
 
 **Narrator** *(calm)* This episode is part of our series on sight lost and not given back: six people in the Bible who lost their sight and lived the rest of their lives without it. We tell them in three pairs. Two men blinded by their enemies, Zedekiah and Samson. A father and a son, Isaac and Jacob. Two old men of Shiloh, Eli and Ahijah. Every episode begins with sounds, and with what a blind man hears in them. Along the way we follow the Hebrew words the Bible uses for eyes that fail, one word handing on to the next. When we imagine a scene, we will tell you so. Everything else is from the text, from the old books read in their own voice, and from Brian.
 
@@ -112,7 +114,7 @@ Script for reading, draft 5. Speaker names in bold, cues in italics, Scripture i
 
 ---
 
-**Narrator** *(calm)* Before the end, it is worth knowing what kind of man this was, because the book of Jeremiah tells us, and it is not what you might expect. Zedekiah was not a wicked king in the mould of the ones before him. He was a frightened one. Three times during the siege he sent for Jeremiah in secret, and asked the same question each time: is there a word from the LORD? There was, and it was always the same word. The last time, he met the prophet at a side entrance of the Temple and swore an oath to protect him. Jeremiah chapter 38, verses 14 to 17.
+**Narrator** *(calm)* Before the end, it is worth knowing what kind of man this was, because the book of Jeremiah tells us, and it is not what you might expect. Zedekiah was not a wicked king in the mold of the ones before him. He was a frightened one. Three times during the siege he sent for Jeremiah in secret, and asked the same question each time: is there a word from the LORD? There was, and it was always the same word. The last time, he met the prophet at a side entrance of the Temple and swore an oath to protect him. Jeremiah chapter 38, verses 14 to 17.
 
 > **Reader** *(plainly)* Then King Zedekiah sent for Jeremiah the prophet and received him at the third entrance to the house of the LORD. “I am going to ask you something,” said the king to Jeremiah. “Do not hide anything from me.”
 
@@ -122,7 +124,7 @@ Script for reading, draft 5. Speaker names in bold, cues in italics, Scripture i
 
 > **Reader** *(plainly)* Then Jeremiah said to Zedekiah, “This is what the LORD God of Hosts, the God of Israel, says: ‘If you indeed surrender to the officers of the king of Babylon, then you will live, this city will not be burned down, and you and your household will survive.
 
-**Narrator** *(calm)* Surrender, and you will live, and your household with you. He was told plainly how to keep his sons. And the conversation ends with the king asking the prophet to keep it secret, on pain of death, because he was afraid of his own officials. Jeremiah chapter 38, verse 24.
+**Narrator** *(calm)* Surrender, and you will live, and your household with you. He was told plainly how to keep his sons. And the conversation ends with the king asking the prophet to keep it secret, on pain of death. Jeremiah chapter 38, verse 24.
 
 > **Reader** *(plainly)* Then Zedekiah warned Jeremiah, “Do not let anyone know about this conversation, or you will die.
 
@@ -156,15 +158,15 @@ Script for reading, draft 5. Speaker names in bold, cues in italics, Scripture i
 
 *(SFX, if you can: the muffled voice behind the door, from the opening, very quietly under his first line)*
 
-**Brian** *(calm)* DRAFT. Zedekiah brings back a lot of memories of pain and discomfort. I do not like to talk about it, but if there is an episode for it, this is the one.
+**Brian** *(calm)* Zedekiah brings back a lot of memories of pain and discomfort. I do not like to talk about it, but if there is an episode for it, this is the one.
 
-**Brian** *(calm)* DRAFT. People do not realise how violent the treatment of a failing eye is. I had nine months between the diagnosis and the end of my sight, and most of that time was spent trying to save it. Laser surgeries to the back of the eye. Scrapings on the surface. Replacing the fluid inside. Nitrogen bubbles to try and hold parts in place. Four different bottles of eye drops three times a day. Needles into it, more than once. Injections I knew were not working. Sorrow in the voices tending to me. There were days when I cried uncontrollably, not from sorrow or pain, but just because my eyes would not stop watering. There were days when it felt like ground up glass was in my eyes. And there is nothing to do with that kind of pain except get through the day and hope the next one is better. There are a great many more nerves in the eye than most people know, and upsetting them was worse than anything else I have been through, and that includes heart bypass surgery.
+**Brian** *(calm)* People do not realize how violent the treatment of a failing eye is. I had nine months between the diagnosis and the end of my sight, and most of that time was spent trying to save it. Laser surgeries to the back of the eye. Scrapings on the surface. Replacing the fluid inside. Nitrogen bubbles to try to hold parts in place. Four different bottles of eye drops three times a day. Needles into it, more than once. Injections I knew were not working. Sorrow in the voices tending to me. There were days when I cried uncontrollably, not from sorrow or pain, but just because my eyes would not stop watering. There were days when it felt like ground-up glass was in my eyes. And there is nothing to do with that kind of pain except get through the day and hope the next one is better. There are a great many more nerves in the eye than most people know, and upsetting them was worse than anything else I have been through, and that includes heart bypass surgery.
 
-**Brian** *(calm)* DRAFT. The last operation was the one where I heard the surgeon curse. I knew before anyone told me. That was the last day I had any usable vision. After that the eyes were not just useless, they were a source of pain with no purpose left, and in the end I had both of them removed. People wince when I say that. It was one of the better decisions of my life. The pain went with them. I do not have to worry about eye pain any more, and I am so grateful for that. I am also grateful for everything I experienced and would not trade it for much else. It gives me a perspective that matches the ones I tend to and lets me meet them where they are.
+**Brian** *(calm)* The last operation was the one where I heard the surgeon curse. I knew before anyone told me. That was the last day I had any usable vision. After that the eyes were not just useless, they were a source of pain with no purpose left, and in the end I had both of them removed. People wince when I say that. It was one of the better decisions of my life. The pain went with them. I do not have to worry about eye pain any more, and I am so grateful for that. I am also grateful for everything I experienced and would not trade it for much else. It gives me a perspective that matches the ones I tend to and lets me meet them where they are.
 
-**Brian** *(calm)* DRAFT. Many people who lose their sight still live with discomfort and pain long after the sight is gone. So I know it could be worse. And I notice that when I think back on those months, what comes first is not what I saw. It is what I heard. The sorrow in those voices. The surgeon. The eyes are gone and the pain went with them. The sounds did not go anywhere.
+**Brian** *(calm)* Many people who lose their sight still live with discomfort and pain long after the sight is gone. So I know it could be worse. And I notice that when I think back on those months, what comes first is not what I saw, which was little. It is what I heard. The sorrow in those voices. The surgeon. The eyes are gone and the pain went with them. The sounds did not go anywhere.
 
-**Brian** *(calm)* And so, I do not even want to think about what Zedekiah faced. The last thing he saw was out of his worst nightmares, and then, with all of that pain, he was made to walk from Riblah to Babylon, a journey of weeks, to the prison where he would die. Nobody was trying to save his eyes. Nobody gave him anything for it. The text says it in a single verse and moves on. I cannot move on from it that quickly.
+**Brian** *(calm)* And so I do not even want to think about what Zedekiah faced. The last thing he saw was out of his worst nightmares, and then, with all of that pain, he was made to walk from Riblah to Babylon, a journey of weeks, to the prison where he would die. Nobody was trying to save his eyes. Nobody gave him any treatment, any pain relief, any comfort. The text says it in a single verse and moves on. I cannot move on from it that quickly.
 
 *(pause 2.0 s)*
 
@@ -220,7 +222,7 @@ Script for reading, draft 5. Speaker names in bold, cues in italics, Scripture i
 
 **Narrator** *(calm)* Brian, with the last word.
 
-**Brian** *(calm)* I am fortunate. The last thing I saw was my wife Barb, shortly before the surgery.
+**Brian** *(calm)* I can't get past the last thing he saw. I am so blessed. The last thing I remember seeing was my wife Barb.
 
 *(pause 2.5 s)*
 
