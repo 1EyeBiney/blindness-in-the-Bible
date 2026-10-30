@@ -1,6 +1,6 @@
 # Not By Sight, episode 11: The last thing he saw
 
-Script for reading, draft 3. Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Brian makes the clips in Reaper and ElevenLabs. The title is provisional. Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix.
+Script for reading, draft 4. Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Brian makes the clips in Reaper and ElevenLabs. The title is provisional. Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix.
 
 **Narrator** *(calm)* Before the story, a word about sound.
 
@@ -36,11 +36,17 @@ Script for reading, draft 3. Speaker names in bold, cues in italics, Scripture i
 
 **Narrator** *(calm)* God made light and called it good. He made sound too, and a blind man will tell you he is grateful for every one of these properties, every day. Brian puts it this way.
 
-**Brian** *(calm)* Ask a room full of blind people whether they would give up their hearing to get their sight back. Most of them would not. I have thought about it more than once, and I'm not a talker, so I don't really know which I would choose myself.
+**Brian** *(calm)* Ask a room full of blind people whether they would give up their hearing to get their sight back. Most of them would not. I have thought about it more than once. And while I'm not much of a talker, I am a good listener, so I don't really know which I would choose myself.
 
 *(pause 1.5 s)*
 
-**Narrator** *(calm)* Sound also has one more property, and it is the one this episode is about. You can close your eyes. You cannot close your ears. Sound comes in whether you want it or not, and some sounds you would give almost anything to not hear.
+**Narrator** *(calm)* One small story, from Brian, and then the hard part.
+
+**Brian** *(calm)* DRAFT. I was pushing Barb in her wheelchair through a hallway at the VA, in a crowd, when a man passed us the other way. I knew he was blind before anyone said so. I heard his cane. I worked for years in a place full of blind people, and that is a sound you do not forget. He and his escort went on past us, twenty feet or so, and I heard him say he needed a bus stop, because he had an eye appointment at a clinic a few blocks away. Blocks is a long way for a blind man who has not been taught the route. I did not turn round. I did not have to. We found him, and we drove him, and I knew the door of that building from my own visits. None of that is a special gift. It is what hearing becomes when it is the sense you live by. Sighted people filter most of what they hear out. I cannot afford to, and I would not want to.
+
+*(pause 1.5 s)*
+
+**Narrator** *(calm)* Hold that in mind, because it cuts both ways. The hearing that picked a cane out of a crowd is the same hearing that cannot be shut. Sound has one more property, and it is the one this episode is about. You can close your eyes. You cannot close your ears. Sound comes in whether you want it or not, and some sounds you would give almost anything to not hear.
 
 *(pause 1.0 s)*
 
@@ -60,7 +66,7 @@ Script for reading, draft 3. Speaker names in bold, cues in italics, Scripture i
 
 *(pause 1.0 s)*
 
-**Brian** *(calm)* this is going to be a hard one to talk about.
+**Brian** *(calm)* I'm glad I didn't have to record myself for this, this is going to be a hard one to talk about.
 
 **Brian** *(calm)* There are sounds you cannot unhear. I heard my dog cry out in pain when he jumped off the deck and tore his ACL. He went blind from the knee surgery that followed, which I thought was a little unfair. I heard my doctor curse while he was operating on my eye. That was the last day I had any usable vision. You cannot look away from a sound and pretend it is not there. A sighted person can turn their head. The sound comes in anyway, and it stays.
 
@@ -104,11 +110,7 @@ Script for reading, draft 3. Speaker names in bold, cues in italics, Scripture i
 
 ---
 
-**Narrator** *(calm)* Before the end, it is worth knowing what kind of man this was, because the book of Jeremiah tells us, and it is not what you might expect. Zedekiah was not a wicked king in the mould of the ones before him. He was a frightened one. Three times during the siege he sent for Jeremiah in secret. Jeremiah chapter 37, verse 17.
-
-> **Reader** *(plainly)* Later, King Zedekiah sent for Jeremiah and received him in his palace, where he asked him privately, “Is there a word from the LORD?” “There is,” Jeremiah replied. “You will be delivered into the hand of the king of Babylon.”
-
-**Narrator** *(calm)* He kept asking. The last time, he met the prophet at a side entrance of the Temple and swore an oath to protect him. Jeremiah chapter 38, verses 14 to 17.
+**Narrator** *(calm)* Before the end, it is worth knowing what kind of man this was, because the book of Jeremiah tells us, and it is not what you might expect. Zedekiah was not a wicked king in the mould of the ones before him. He was a frightened one. Three times during the siege he sent for Jeremiah in secret, and asked the same question each time: is there a word from the LORD? There was, and it was always the same word. The last time, he met the prophet at a side entrance of the Temple and swore an oath to protect him. Jeremiah chapter 38, verses 14 to 17.
 
 > **Reader** *(plainly)* Then King Zedekiah sent for Jeremiah the prophet and received him at the third entrance to the house of the LORD. “I am going to ask you something,” said the king to Jeremiah. “Do not hide anything from me.”
 
@@ -140,7 +142,7 @@ Script for reading, draft 3. Speaker names in bold, cues in italics, Scripture i
 
 *(pause 1.5 s)*
 
-**Narrator** *(calm)* We are not going to imagine Riblah. The text puts three things in order there, and the order is the whole cruelty. First, his sons were killed in front of him. Then his eyes were put out. Then he was bound in bronze and taken away. Sons first, so that he would see it. Eyes second, so that it would be the last thing he ever saw. Matthew Henry, three hundred years ago, saw exactly what was being done: the point of the order was that the last sight his eyes ever took in would stay on him, as grief and horror, for as long as he lived. And of the blinding itself Henry said that Zedekiah ended his days before he ended his life. One more thing, and the text does not say it, but a blind man knows it. Zedekiah's eyes were closed in that courtyard. His ears were not. Whatever he heard there, he carried to Babylon with the picture, and the picture was the one that faded.
+**Narrator** *(calm)* We are not going to imagine Riblah. The text puts three things in order there, and the order is the whole cruelty. First, his sons were killed in front of him. Then his eyes were put out. Then he was bound in bronze and taken away. Sons first, so that he would see it. Eyes second, so that it would be the last thing he ever saw. Matthew Henry, three hundred years ago, saw exactly what was being done: the point of the order was that the last sight his eyes ever took in would stay on him, as grief and horror, for as long as he lived. And of the blinding itself Henry said that Zedekiah ended his days before he ended his life. One more thing, and the text does not say it, but a blind man knows it. Zedekiah's eyes were closed in that courtyard. His ears were not. Whatever he heard there, he also carried to Babylon.
 
 *(pause 2.0 s)*
 
@@ -170,13 +172,7 @@ Script for reading, draft 3. Speaker names in bold, cues in italics, Scripture i
 
 > **Reader** *(plainly)* And you yourself will not escape his grasp, but will surely be captured and delivered into his hand. You will see the king of Babylon eye to eye and speak with him face to face; and you will go to Babylon.
 
-**Narrator** *(calm)* You will see the king of Babylon, eye to eye. Now Ezekiel. He was already in Babylon, among the first exiles, and years before the siege God had him act this out in front of them. Ezekiel chapter 12, verses 5 and 6.
-
-> **Reader** *(plainly)* As they watch, dig through the wall and carry your belongings out through it.
-
-> **Reader** *(plainly)* And as they watch, lift your bags to your shoulder and take them out at dusk; cover your face so that you cannot see the land. For I have made you a sign to the house of Israel.”
-
-**Narrator** *(calm)* A prophet dug through a wall at dusk, carrying his baggage, with his face covered so that he could not see, while the exiles watched. Then God told them what it meant. Verses 12 and 13.
+**Narrator** *(calm)* You will see the king of Babylon, eye to eye. Now Ezekiel. He was already in Babylon, among the first exiles, and years before the siege God had him act this out in front of them: dig through a wall at dusk, carry his baggage out through the hole, and cover his face so that he could not see the land, while the exiles watched. Then God told them what it meant. Ezekiel chapter 12, verses 12 and 13.
 
 > **Reader** *(plainly)* And at dusk the prince among them will lift his bags to his shoulder and go out. They will dig through the wall to bring him out. He will cover his face so he cannot see the land.
 
@@ -208,7 +204,7 @@ Script for reading, draft 3. Speaker names in bold, cues in italics, Scripture i
 
 ---
 
-**Narrator** *(calm)* The Bible does not say how it was done, for Zedekiah or for Samson. The old books guessed, and we will not repeat the guesses. What the text does give is what came after, and it is not nothing. Jeremiah had made Zedekiah a second promise in the same breath as the first. Jeremiah chapter 34, verses 4 and 5.
+**Narrator** *(calm)* The Bible does not say how it was done, for Zedekiah or for Samson. The old books guessed, and we will not go there. What the text does give is what came after, and it is not nothing. Jeremiah had made Zedekiah a second promise in the same breath as the first. Jeremiah chapter 34, verses 4 and 5.
 
 > **Reader** *(plainly)* Yet hear the word of the LORD, O Zedekiah king of Judah. This is what the LORD says concerning you: You will not die by the sword;
 
@@ -217,7 +213,7 @@ Script for reading, draft 3. Speaker names in bold, cues in italics, Scripture i
 **Narrator** *(calm)* He did not die by the sword. The record says he was kept in custody until the day of his death, and nothing more. Whether they burned spices for him in Babylon, the text does not say. But the promise was made to his face, by the prophet he kept sending for in secret, and it was the one promise in all of this that he did not have to do anything to receive.
 
 *(pause 1.5 s)*
-
+[mark]
 ---
 
 **Narrator** *(calm)* Brian, with the last word.
