@@ -52,15 +52,15 @@ Script for reading, draft 2. Speaker names in bold, cues in italics, Scripture i
 
 *(pause 0.5 s)*
 
-*(SFX, required: a mechanic, flat and sorry: "I'm awful sorry, but it's gonna cost eleven thousand to replace the transmission.")*
+*(SFX, required: a mechanic, flat and sorry: "I'm awful sorry Brian, but it's gonna cost eleven thousand to replace the transmission.")*
 
 *(pause 1.5 s)*
 
-**Narrator** *(calm)* Those are the easy ones. Brian has a few of his own, and they are not funny. Here is Mister Scaredy Cat again. The voice is borrowed. The words are Brian's.
+**Narrator** *(calm)* Those are the easy ones. Brian has a few more of those, and they are not funny. Here is Mister Scaredy Cat again. The voice is borrowed. The words are Brian's.
 
 *(pause 1.0 s)*
 
-**Brian** *(calm)* Whatever we open the episode with, this is going to be a hard one to talk about.
+**Brian** *(calm)* this is going to be a hard one to talk about.
 
 **Brian** *(calm)* There are sounds you cannot unhear. I heard my dog cry out in pain when he jumped off the deck and tore his ACL. He went blind from the knee surgery that followed, which I thought was a little unfair. I heard my doctor curse while he was operating on my eye. That was the last day I had any usable vision. You cannot look away from a sound and pretend it is not there. A sighted person can turn their head. The sound comes in anyway, and it stays.
 
@@ -154,11 +154,16 @@ Script for reading, draft 2. Speaker names in bold, cues in italics, Scripture i
 
 **Brian** *(calm)* DRAFT. Zedekiah brings back a lot of memories of pain and discomfort. I do not like to talk about it, but if there is an episode for it, this is the one.
 
-**Brian** *(calm)* DRAFT. People do not realise how violent the treatment of a failing eye is. I had [nine months / how long] between the diagnosis and the end of my sight, and most of that time was spent trying to save it. Scraping the surface of the eye. Replacing parts of it. Needles into it, more than once. Injections I could feel going in and medications I could feel working. Such extreme measures for such a delicate instrument. The pressure inside my eyes climbed until [what it felt like], and there is nothing to do with that kind of pain except get through the day and hope the next one is better. There are a great many more nerves in the eye than most people know, and upsetting them was worse than anything else I have been through, and that includes heart bypass surgery.
+**Brian** *(calm)* DRAFT. People do not realise how violent the treatment of a failing eye is. I had nine months between the diagnosis and the end of my sight, and most of that time was spent trying to save it. Laser surgeries to the back of the eye, Scrapings on the surface. Replacing the fluid inside. Nitrogen bubbles to try and hold parts in place. Four different bottles of eye drops three times a day. Needles into it, more than once. Injections I knew were not working. Sorrow in the voices tending to me.
+There were days when I cried uncontrollably, not from sorrow or pain, but just because my eyes would not stop watering. There were days when it felt like ground up glass was in my eyes.
+and there is nothing to do with that kind of pain except get through the day and hope the next one is better. There are a great many more nerves in the eye than most people know, and upsetting them was worse than anything else I have been through, and that includes heart bypass surgery.
 
-**Brian** *(calm)* DRAFT. The last operation was the one where I heard the surgeon curse. I knew before anyone told me. That was the last day I had any usable vision. After that the eyes were not just useless, they were a source of pain with no purpose left, and in the end I had both of them removed. People wince when I say that. It was one of the better decisions of my life. The pain went with them. I do not have to worry about eye pain any more, and I am so grateful for that. Many people who lose their sight still live with discomfort and pain long after the sight is gone. So I know it could be worse.
+**Brian** *(calm)* DRAFT. The last operation was the one where I heard the surgeon curse. I knew before anyone told me. That was the last day I had any usable vision. After that the eyes were not just useless, they were a source of pain with no purpose left, and in the end I had both of them removed. People wince when I say that. It was one of the better decisions of my life. The pain went with them. I do not have to worry about eye pain any more, and I am so grateful for that. 
+I am also grateful for everything I experienced and would not trade it for much else. It gives me a perspective that matches the ones I tend to and lets me meet them where they are.
 
-**Brian** *(calm)* I do not even want to think about what Zedekiah faced. The last thing he saw was out of his worst nightmares, and then, with all of that pain, he was made to walk from Riblah to Babylon, a journey of weeks, to the prison where he would die. Nobody was trying to save his eyes. Nobody gave him anything for it. The text says it in a single verse and moves on. I cannot move on from it that quickly.
+Many people who lose their sight still live with discomfort and pain long after the sight is gone. So I know it could be worse.
+
+**Brian** *(calm)* And so, I do not even want to think about what Zedekiah faced. The last thing he saw was out of his worst nightmares, and then, with all of that pain, he was made to walk from Riblah to Babylon, a journey of weeks, to the prison where he would die. Nobody was trying to save his eyes. Nobody gave him anything for it. The text says it in a single verse and moves on. I cannot move on from it that quickly.
 
 *(pause 2.0 s)*
 
