@@ -276,3 +276,9 @@ Episode 11 opening, Brian's design:
    blocked (a door stops light, not sound); it usually marks a change in energy (a firecracker); walking makes sound,
    so sound is an indicator; it comes back off things (echolocation). Short and concrete, under ninety seconds.
 3. Then sounds you do not want to hear, and Brian's thoughts, placed up front the way some Law episodes did.
+
+## Decided 30 October 2026: where we are, and the map panel
+
+Every episode in this series keeps the "Where this is" mechanic from episodes 1 to 6: a standing point, north at twelve o'clock, places by clock face and walking time, so the video can carry a map panel. The convention: stand where the sight was lost and face north. Episode 11 Jerusalem (Jericho six hours at two o'clock; Riblah two to three weeks at twelve; Babylon another two months beyond, down the Euphrates). Then Gaza for Samson, Beersheba for Isaac, Goshen for Jacob, Shiloh twice for Eli and Ahijah. The map panel walks across the six.
+
+Also decided: the sound-and-sight seam is said out loud. The open is sounds that stay; the title is a sight that stayed; the Narrator ties them before the handoff, again at Riblah (eyes closed, ears not), and Brian closes it in What I hear. Jeremiah freed (39:11-14) cut from the episode; it stays a page observation.

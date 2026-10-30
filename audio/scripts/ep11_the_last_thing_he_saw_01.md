@@ -1,6 +1,6 @@
 # Not By Sight, episode 11: The last thing he saw
 
-Script for reading, draft 2. Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Brian makes the clips in Reaper and ElevenLabs. The title is provisional. Brian's paragraphs are his approved page words except where marked DRAFT, and square brackets inside a DRAFT paragraph are facts only he can supply.
+Script for reading, draft 3. Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Brian makes the clips in Reaper and ElevenLabs. The title is provisional. Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix.
 
 **Narrator** *(calm)* Before the story, a word about sound.
 
@@ -66,7 +66,7 @@ Script for reading, draft 2. Speaker names in bold, cues in italics, Scripture i
 
 *(pause 1.5 s)*
 
-**Narrator** *(calm)* A sound that stays. Hold on to that, because this is the story of a man whose last sight was chosen for him, and arranged so that it would stay.
+**Narrator** *(calm)* A sound that stays. Hold on to that. People say the last thing he saw as if sight were the only sense that leaves a mark. It is not. A sound lasts as long, and it gets in where a sight cannot. This is the story of a man whose last sight was chosen for him, and arranged so that it would stay. It is also, if you listen for it, the story of what he heard.
 
 *(pause 1.5 s)*
 
@@ -78,7 +78,7 @@ Script for reading, draft 2. Speaker names in bold, cues in italics, Scripture i
 
 **Narrator** *(calm)* First, where we are. Jerusalem, about six hundred years before Christ, and the last king who will ever reign in it. His name is Zedekiah. He was put on the throne by the king of Babylon, at twenty-one, after Babylon had carried the previous king away. He reigned eleven years. He rebelled, against the repeated warnings of the prophet Jeremiah, who was in the city the whole time, and for part of it in a cistern. Babylon came back. The siege lasted a year and a half. By the end the people were starving.
 
-**Narrator** *(calm)* Three places matter. Jerusalem, where it begins. Riblah, far to the north in the land of Hamath, on the great road between Palestine and Babylon, where the king of Babylon stayed while his armies worked in the west. And Babylon itself, weeks further on. Keep those three in order.
+**Narrator** *(calm)* Where this is. Stand in Jerusalem and face north, with north at twelve o'clock. Jericho, where Bartimaeus sat in our second episode, is about six hours' walk downhill at two o'clock. That is where this king was caught. Straight ahead at twelve o'clock, past Damascus, up the long valley between the Lebanon mountains, is Riblah, in the land of Hamath, on the great road between this country and Babylon. It is about two to three weeks' walk. The king of Babylon stayed there while his armies worked in the west. And Babylon itself is beyond that again: the road bends east along the river Euphrates and comes down to the city, another two months on foot. Jerusalem, Riblah, Babylon. Six hours to be caught, three weeks to be sentenced, two months to the prison. Keep those three in order.
 
 *(pause 1.0 s)*
 
@@ -140,7 +140,7 @@ Script for reading, draft 2. Speaker names in bold, cues in italics, Scripture i
 
 *(pause 1.5 s)*
 
-**Narrator** *(calm)* We are not going to imagine Riblah. The text puts three things in order there, and the order is the whole cruelty. First, his sons were killed in front of him. Then his eyes were put out. Then he was bound in bronze and taken away. Sons first, so that he would see it. Eyes second, so that it would be the last thing he ever saw. Matthew Henry, three hundred years ago, saw exactly what was being done: the point of the order was that the last sight his eyes ever took in would stay on him, as grief and horror, for as long as he lived. And of the blinding itself Henry said that Zedekiah ended his days before he ended his life.
+**Narrator** *(calm)* We are not going to imagine Riblah. The text puts three things in order there, and the order is the whole cruelty. First, his sons were killed in front of him. Then his eyes were put out. Then he was bound in bronze and taken away. Sons first, so that he would see it. Eyes second, so that it would be the last thing he ever saw. Matthew Henry, three hundred years ago, saw exactly what was being done: the point of the order was that the last sight his eyes ever took in would stay on him, as grief and horror, for as long as he lived. And of the blinding itself Henry said that Zedekiah ended his days before he ended his life. One more thing, and the text does not say it, but a blind man knows it. Zedekiah's eyes were closed in that courtyard. His ears were not. Whatever he heard there, he carried to Babylon with the picture, and the picture was the one that faded.
 
 *(pause 2.0 s)*
 
@@ -154,14 +154,11 @@ Script for reading, draft 2. Speaker names in bold, cues in italics, Scripture i
 
 **Brian** *(calm)* DRAFT. Zedekiah brings back a lot of memories of pain and discomfort. I do not like to talk about it, but if there is an episode for it, this is the one.
 
-**Brian** *(calm)* DRAFT. People do not realise how violent the treatment of a failing eye is. I had nine months between the diagnosis and the end of my sight, and most of that time was spent trying to save it. Laser surgeries to the back of the eye, Scrapings on the surface. Replacing the fluid inside. Nitrogen bubbles to try and hold parts in place. Four different bottles of eye drops three times a day. Needles into it, more than once. Injections I knew were not working. Sorrow in the voices tending to me.
-There were days when I cried uncontrollably, not from sorrow or pain, but just because my eyes would not stop watering. There were days when it felt like ground up glass was in my eyes.
-and there is nothing to do with that kind of pain except get through the day and hope the next one is better. There are a great many more nerves in the eye than most people know, and upsetting them was worse than anything else I have been through, and that includes heart bypass surgery.
+**Brian** *(calm)* DRAFT. People do not realise how violent the treatment of a failing eye is. I had nine months between the diagnosis and the end of my sight, and most of that time was spent trying to save it. Laser surgeries to the back of the eye. Scrapings on the surface. Replacing the fluid inside. Nitrogen bubbles to try and hold parts in place. Four different bottles of eye drops three times a day. Needles into it, more than once. Injections I knew were not working. Sorrow in the voices tending to me. There were days when I cried uncontrollably, not from sorrow or pain, but just because my eyes would not stop watering. There were days when it felt like ground up glass was in my eyes. And there is nothing to do with that kind of pain except get through the day and hope the next one is better. There are a great many more nerves in the eye than most people know, and upsetting them was worse than anything else I have been through, and that includes heart bypass surgery.
 
-**Brian** *(calm)* DRAFT. The last operation was the one where I heard the surgeon curse. I knew before anyone told me. That was the last day I had any usable vision. After that the eyes were not just useless, they were a source of pain with no purpose left, and in the end I had both of them removed. People wince when I say that. It was one of the better decisions of my life. The pain went with them. I do not have to worry about eye pain any more, and I am so grateful for that. 
-I am also grateful for everything I experienced and would not trade it for much else. It gives me a perspective that matches the ones I tend to and lets me meet them where they are.
+**Brian** *(calm)* DRAFT. The last operation was the one where I heard the surgeon curse. I knew before anyone told me. That was the last day I had any usable vision. After that the eyes were not just useless, they were a source of pain with no purpose left, and in the end I had both of them removed. People wince when I say that. It was one of the better decisions of my life. The pain went with them. I do not have to worry about eye pain any more, and I am so grateful for that. I am also grateful for everything I experienced and would not trade it for much else. It gives me a perspective that matches the ones I tend to and lets me meet them where they are.
 
-Many people who lose their sight still live with discomfort and pain long after the sight is gone. So I know it could be worse.
+**Brian** *(calm)* DRAFT. Many people who lose their sight still live with discomfort and pain long after the sight is gone. So I know it could be worse. And I notice that when I think back on those months, what comes first is not what I saw. It is what I heard. The sorrow in those voices. The surgeon. The eyes are gone and the pain went with them. The sounds did not go anywhere.
 
 **Brian** *(calm)* And so, I do not even want to think about what Zedekiah faced. The last thing he saw was out of his worst nightmares, and then, with all of that pain, he was made to walk from Riblah to Babylon, a journey of weeks, to the prison where he would die. Nobody was trying to save his eyes. Nobody gave him anything for it. The text says it in a single verse and moves on. I cannot move on from it that quickly.
 
@@ -217,17 +214,7 @@ Many people who lose their sight still live with discomfort and pain long after 
 
 > **Reader** *(plainly)* you will die in peace. As spices were burned for your fathers, the former kings who preceded you, so people will burn spices for you and lament, ‘Alas, O master!’ For I Myself have spoken this word, declares the LORD.”
 
-**Narrator** *(calm)* He did not die by the sword. The record says he was kept in custody until the day of his death, and nothing more. Whether they burned spices for him in Babylon, the text does not say.
-
-*(pause 1.0 s)*
-
-**Narrator** *(calm)* And the same chapter that tells of the king's blinding tells what happened to the prophet, on the same campaign, by order of the same conqueror. Jeremiah chapter 39, verses 11 and 12.
-
-> **Reader** *(plainly)* Now Nebuchadnezzar king of Babylon had given orders about Jeremiah through Nebuzaradan captain of the guard, saying,
-
-> **Reader** *(plainly)* “Take him, look after him, and do not let any harm come to him; do for him whatever he says.”
-
-**Narrator** *(calm)* And verse 14 ends: So Jeremiah remained among his own people. The prophet who warned went home. The king who kept asking and never listened went to Babylon blind. The text does not comment. It only puts the two of them in the same chapter.
+**Narrator** *(calm)* He did not die by the sword. The record says he was kept in custody until the day of his death, and nothing more. Whether they burned spices for him in Babylon, the text does not say. But the promise was made to his face, by the prophet he kept sending for in secret, and it was the one promise in all of this that he did not have to do anything to receive.
 
 *(pause 1.5 s)*
 
