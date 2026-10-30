@@ -31,7 +31,7 @@
 [PAUSE 1.5]
 [NARRATOR] (calm) Hold that in mind, because it cuts both ways. The hearing that picked a cane out of a crowd is the same hearing that cannot be shut. Sound has one more property, and it is the one this episode is about. You can close your eyes. You cannot close your ears. Sound comes in whether you want it or not, and some sounds you would give almost anything not to hear.
 [PAUSE 1.0]
-# SFX, required: fingernails down a chalkboard, two seconds
+# SFX, required: a mosquito whining close to the ear, two seconds
 [PAUSE 0.5]
 # SFX, required: a radio call, "Patriots win!", crowd behind it, two seconds
 [PAUSE 0.5]

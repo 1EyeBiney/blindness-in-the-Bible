@@ -50,7 +50,7 @@ Script for reading, final edit 30 October 2026. Speaker names in bold, cues in i
 
 *(pause 1.0 s)*
 
-*(SFX, required: fingernails down a chalkboard, two seconds)*
+*(SFX, required: a mosquito whining close to the ear, two seconds)*
 
 *(pause 0.5 s)*
 
