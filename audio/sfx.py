@@ -5,7 +5,7 @@ Run from audio/:
   python sfx.py --batch sfx/requests.json          (a list of {slug, prompt, seconds, variants, influence, loop})
   python sfx.py --list                             (what has been collected, with prompts and lengths)
 
-Files land in audio/sfx/<slug>/<slug>_v<n>.mp3 with a manifest.json beside them (prompt, seconds, date, size).
+Files land in audio/sfx/<slug>/<name>_v<n>.mp3 (a slug may be "ep11/<name>" to group an episode in a subfolder) with a manifest.json beside them (prompt, seconds, date, size).
 The key is read from audio/.env (ELEVENLABS_API_KEY=...) and is never printed. Each call prints the credits the
 account reports as used, so the cost is visible per batch.
 """
@@ -82,7 +82,7 @@ def collect(k: str, slug: str, prompt: str, seconds: float, variants: int, influ
     before = credits_used(k)
     for n in range(start, start + variants):
         data = generate(k, prompt, seconds, influence, loop)
-        f = out / f"{slug}_v{n}.mp3"
+        f = out / f"{Path(slug).name}_v{n}.mp3"
         f.write_bytes(data)
         man["takes"].append({"file": f.name, "prompt": prompt, "seconds": seconds, "influence": influence,
                              "loop": loop, "bytes": len(data), "made": dt.datetime.now().isoformat(timespec="seconds")})
@@ -95,7 +95,7 @@ def collect(k: str, slug: str, prompt: str, seconds: float, variants: int, influ
 
 
 def list_all() -> None:
-    for man_path in sorted(SFX.glob("*/manifest.json")):
+    for man_path in sorted(SFX.glob("**/manifest.json")):
         man = json.loads(man_path.read_text(encoding="utf-8"))
         print(f"== {man['slug']} ({len(man['takes'])} takes)")
         for t in man["takes"]:

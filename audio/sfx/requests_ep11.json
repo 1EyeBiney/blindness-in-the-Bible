@@ -1,0 +1,66 @@
+[
+ {
+  "slug": "ep11/voice_behind_door",
+  "prompt": "A man talking calmly in the next room behind a closed wooden door, heavily muffled, words impossible to make out, quiet house, no music",
+  "seconds": 6,
+  "variants": 3,
+  "influence": 0.5
+ },
+ {
+  "slug": "ep11/firecracker_echo",
+  "prompt": "A single firecracker bursting outdoors in a quiet suburban street at night, one sharp crack, then the echo rolling back off the houses, no voices, no music",
+  "seconds": 4,
+  "variants": 3,
+  "influence": 0.55
+ },
+ {
+  "slug": "ep11/steps_wood_to_tile",
+  "prompt": "One person in hard-soled shoes walking at an easy pace across a wooden floor, then stepping onto a tile floor, the sound changing from a warm knock to a bright click, indoors, no music",
+  "seconds": 6,
+  "variants": 3,
+  "influence": 0.5
+ },
+ {
+  "slug": "ep11/clap_long_return",
+  "prompt": "One single hand clap in a large empty stone church, long reverberant return fading over three seconds, nothing else, no music",
+  "seconds": 4,
+  "variants": 3,
+  "influence": 0.55
+ },
+ {
+  "slug": "ep11/nails_chalkboard",
+  "prompt": "Fingernails dragged slowly down a school chalkboard, harsh high squeal, classroom, close, no music",
+  "seconds": 3,
+  "variants": 3,
+  "influence": 0.6
+ },
+ {
+  "slug": "ep11/siege_night_bed",
+  "prompt": "Night outside an ancient walled city under siege, very distant low sounds of a large army camp, a dog barking far away, light wind, no music, no modern sounds, seamless ambient bed",
+  "seconds": 20,
+  "variants": 3,
+  "influence": 0.45,
+  "loop": true
+ },
+ {
+  "slug": "ep11/gate_opened_quietly",
+  "prompt": "A heavy wooden gate with an iron bar being opened slowly and carefully at night so as not to make noise, the creak held back, no voices, no music",
+  "seconds": 5,
+  "variants": 3,
+  "influence": 0.5
+ },
+ {
+  "slug": "ep11/feet_hurrying_quiet",
+  "prompt": "A group of men in sandals hurrying across packed earth at night, trying to be quiet, no talking, breathing and fabric only, no music, no modern sounds",
+  "seconds": 10,
+  "variants": 3,
+  "influence": 0.5
+ },
+ {
+  "slug": "ep11/horses_far_off",
+  "prompt": "Horses galloping heard from far away across open ground at night, slowly coming nearer, no voices, no music, no modern sounds",
+  "seconds": 8,
+  "variants": 3,
+  "influence": 0.5
+ }
+]
