@@ -1,0 +1,16 @@
+[
+ {
+  "slug": "ep11/steps_wood_floor",
+  "prompt": "One person in hard-soled shoes walking at an easy steady pace across an old wooden floor, warm hollow knock of each step, boards creaking slightly, indoors, no music",
+  "seconds": 4,
+  "variants": 3,
+  "influence": 0.55
+ },
+ {
+  "slug": "ep11/steps_tile_floor",
+  "prompt": "One person in hard-soled shoes walking at an easy steady pace across a hard tile floor, bright sharp click of each step with a short echo, indoors, no music",
+  "seconds": 4,
+  "variants": 3,
+  "influence": 0.55
+ }
+]
