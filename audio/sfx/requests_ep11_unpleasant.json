@@ -1,0 +1,23 @@
+[
+ {
+  "slug": "ep11/smoke_alarm_chirp",
+  "prompt": "A household smoke detector low-battery chirp, three short piercing electronic beeps about a second apart, quiet room, no music, no voices",
+  "seconds": 3,
+  "variants": 3,
+  "influence": 0.6
+ },
+ {
+  "slug": "ep11/dentist_drill",
+  "prompt": "A dentist's high-speed drill whining close to the ear, steady piercing whine with slight pitch changes, dental office, no music, no voices",
+  "seconds": 3,
+  "variants": 3,
+  "influence": 0.6
+ },
+ {
+  "slug": "ep11/mosquito_whine",
+  "prompt": "A single mosquito whining very close to the ear, thin high wavering buzz drifting nearer and away, quiet bedroom at night, no music, no voices",
+  "seconds": 3,
+  "variants": 3,
+  "influence": 0.6
+ }
+]
