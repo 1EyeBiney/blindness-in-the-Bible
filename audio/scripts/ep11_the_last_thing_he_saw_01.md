@@ -213,7 +213,7 @@ Script for reading, draft 4. Speaker names in bold, cues in italics, Scripture i
 **Narrator** *(calm)* He did not die by the sword. The record says he was kept in custody until the day of his death, and nothing more. Whether they burned spices for him in Babylon, the text does not say. But the promise was made to his face, by the prophet he kept sending for in secret, and it was the one promise in all of this that he did not have to do anything to receive.
 
 *(pause 1.5 s)*
-[mark]
+
 ---
 
 **Narrator** *(calm)* Brian, with the last word.
