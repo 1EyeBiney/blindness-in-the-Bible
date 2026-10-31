@@ -23,6 +23,12 @@ Base map. The Great Sea lies to the west. The Jordan runs south from the Sea of 
 - Hebron: about a day's walk, at 7 o'clock from Jerusalem. The cave of Machpelah, where Abraham, Isaac and Jacob were buried.
 - Tirzah: about 1 and a half days' walk, at 12 o'clock from Jerusalem. Jeroboam's royal city, from which his wife walked to Shiloh.
 - Zorah: about 7 hours' walk, at 9 o'clock from Jerusalem. Samson's birthplace, and his burial place, in the low hills toward Philistia.
+- Riblah: about 9 days' walk, at 1 o'clock from Jerusalem. In the land of Hamath on the Orontes, on the great road between Palestine and Babylon; Nebuchadnezzar's headquarters while his army besieged Jerusalem. Shown only on the wide map.
+- Babylon: about 24 days' walk, at 3 o'clock from Jerusalem. On the Euphrates, where Zedekiah was kept until he died. Shown only on the wide map.
+- Goshen: about 9 and a half days' walk, at 8 o'clock from Jerusalem. The east of the Nile delta, where Jacob lived his last seventeen years. Shown only on the wide map.
+- : about 15 and a half days' walk, at 1 o'clock from Jerusalem. A bend of the Euphrates road; a waypoint for the wide map only, never drawn as a place.
+- : about 17 days' walk, at 2 o'clock from Jerusalem. A bend of the Euphrates road; a waypoint for the wide map only, never drawn as a place.
+- : about 21 days' walk, at 2 o'clock from Jerusalem. A bend of the Euphrates road; a waypoint for the wide map only, never drawn as a place.
 - Babylon and Riblah: far to the north-east, beyond the map. Zedekiah was blinded at Riblah in Syria and taken to Babylon; both lie beyond this map.
 - Egypt: far to the south-west, beyond the map. Jacob blessed Joseph's sons in Egypt, beyond this map.
 - Nineveh and Ecbatana: far to the north-east, beyond the map. Tobit's story, if included, lies in Assyria and Media, beyond this map.
@@ -120,3 +126,7 @@ Jerusalem is the city itself.
 Samson in Gaza. The map highlights Gaza in gold. Where Samson, blinded, ground grain and pulled down the temple of Dagon.
 A second gold mark is Zorah, about 1 and a half days' walk from Gaza, at 2 o'clock. Samson's birthplace, and his burial place, in the low hills toward Philistia.
 From Gaza, Jerusalem is about 2 days' walk, at 2 o'clock.
+
+## ep11.png
+
+Episode 11, The last thing he saw. This map is wider than the series map: it reaches from Egypt in the south-west to Babylon in the east. Jerusalem is in gold. A line marks the king's road. Stand at Jerusalem and face north; north is twelve o'clock. Jericho is about six hours' walk downhill at two o'clock; the plains of Jericho are where Zedekiah was caught. Riblah, in the land of Hamath, is straight ahead at twelve o'clock, past Damascus, about two to three weeks' march for an army column; there he was sentenced and blinded. Babylon is far to the east: the road runs north from Riblah to the Euphrates and follows the river down to the city, about two months more on foot. Jerusalem, Riblah, Babylon, in that order.

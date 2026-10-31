@@ -1,363 +1,444 @@
 {
-  "_comment": "Places for the series base map. Coordinates are decimal degrees (lat, lon), the usual modern identifications; where a site is disputed the note says so. 'stories' are the site's story slugs that happen there. Everything drawn from this file is also described in words by make_map.py, so a blind listener gets the same map.",
-  "frame": {
-    "lat_min": 31.05,
-    "lat_max": 33.65,
-    "lon_min": 34.25,
-    "lon_max": 36.55
+ "_comment": "Places for the series base map. Coordinates are decimal degrees (lat, lon), the usual modern identifications; where a site is disputed the note says so. 'stories' are the site's story slugs that happen there. Everything drawn from this file is also described in words by make_map.py, so a blind listener gets the same map.",
+ "frame": {
+  "lat_min": 31.05,
+  "lat_max": 33.65,
+  "lon_min": 34.25,
+  "lon_max": 36.55
+ },
+ "places": {
+  "jerusalem": {
+   "name": "Jerusalem",
+   "lat": 31.778,
+   "lon": 35.235,
+   "kind": "city",
+   "stories": [
+    "man-born-blind",
+    "the-temple",
+    "the-return",
+    "blind-and-lame-palace"
+   ],
+   "note": "The Pool of Siloam is at the south end of the city; the Temple Mount at its east."
   },
-  "places": {
-    "jerusalem": {
-      "name": "Jerusalem",
-      "lat": 31.778,
-      "lon": 35.235,
-      "kind": "city",
-      "stories": [
-        "man-born-blind",
-        "the-temple",
-        "the-return",
-        "blind-and-lame-palace"
-      ],
-      "note": "The Pool of Siloam is at the south end of the city; the Temple Mount at its east."
-    },
-    "jericho": {
-      "name": "Jericho",
-      "lat": 31.871,
-      "lon": 35.444,
-      "kind": "town",
-      "stories": [
-        "bartimaeus",
-        "two-blind-men-matthew"
-      ],
-      "note": "Herod's Jericho stood a little south-west of the old mound; the two are drawn as one."
-    },
-    "bethany": {
-      "name": "Bethany",
-      "lat": 31.771,
-      "lon": 35.261,
-      "kind": "village",
-      "stories": [],
-      "note": "On the Jerusalem side of the Mount of Olives, the last stop on the road up from Jericho."
-    },
-    "capernaum": {
-      "name": "Capernaum",
-      "lat": 32.881,
-      "lon": 35.575,
-      "kind": "town",
-      "stories": [
-        "two-blind-men",
-        "blind-and-mute-man"
-      ],
-      "note": "Jesus's base in Galilee; Edersheim's placing of the two blind men, not certain."
-    },
-    "bethsaida": {
-      "name": "Bethsaida",
-      "lat": 32.91,
-      "lon": 35.631,
-      "kind": "village",
-      "stories": [
-        "bethsaida"
-      ],
-      "note": "Which ruin is Bethsaida is still argued; et-Tell is drawn, el-Araj lies 2 km south on the shore."
-    },
-    "nazareth": {
-      "name": "Nazareth",
-      "lat": 32.699,
-      "lon": 35.303,
-      "kind": "town",
-      "stories": [
-        "answer-to-john"
-      ],
-      "note": "Where Jesus read Isaiah 61, 'recovery of sight to the blind'."
-    },
-    "mountain_decapolis": {
-      "name": "The mountain by the lake",
-      "lat": 32.78,
-      "lon": 35.68,
-      "kind": "place",
-      "stories": [
-        "crowds-by-the-sea"
-      ],
-      "note": "Edersheim's placing, on the eastern shore in the Decapolis; Matthew gives only the Sea of Galilee and a mountain."
-    },
-    "machaerus": {
-      "name": "Machaerus",
-      "lat": 31.567,
-      "lon": 35.624,
-      "kind": "fortress",
-      "stories": [
-        "answer-to-john"
-      ],
-      "note": "Herod's fortress east of the Dead Sea, where John the Baptist was held and killed, by Josephus."
-    },
-    "shiloh": {
-      "name": "Shiloh",
-      "lat": 32.056,
-      "lon": 35.289,
-      "kind": "town",
-      "stories": [
-        "eli",
-        "ahijah"
-      ],
-      "note": "Eli at the tabernacle; Ahijah's house, where Jeroboam's wife came in disguise."
-    },
-    "gaza": {
-      "name": "Gaza",
-      "lat": 31.516,
-      "lon": 34.447,
-      "kind": "city",
-      "stories": [
-        "samson"
-      ],
-      "note": "Where Samson, blinded, ground grain and pulled down the temple of Dagon."
-    },
-    "beersheba": {
-      "name": "Beersheba",
-      "lat": 31.245,
-      "lon": 34.84,
-      "kind": "town",
-      "stories": [
-        "isaac"
-      ],
-      "note": "Isaac's country; the blessing was given from his tent, place not named in Genesis 27."
-    },
-    "samaria": {
-      "name": "Samaria",
-      "lat": 32.277,
-      "lon": 35.19,
-      "kind": "city",
-      "stories": [
-        "elisha-syrians"
-      ],
-      "note": "Where Elisha led the blinded Syrian army and had their eyes opened."
-    },
-    "dothan": {
-      "name": "Dothan",
-      "lat": 32.41,
-      "lon": 35.24,
-      "kind": "town",
-      "stories": [
-        "elisha-syrians"
-      ],
-      "note": "Where the Syrians were struck blind and the servant's eyes were opened to the hills full of horses and chariots."
-    },
-    "damascus": {
-      "name": "Damascus",
-      "lat": 33.513,
-      "lon": 36.292,
-      "kind": "city",
-      "stories": [
-        "saul"
-      ],
-      "note": "Saul, blinded on the road, was led in by the hand; Straight Street is still there."
-    },
-    "caesarea_philippi": {
-      "name": "Caesarea Philippi",
-      "lat": 33.248,
-      "lon": 35.694,
-      "kind": "town",
-      "stories": [],
-      "note": "Just after Bethsaida in Mark, where Peter said 'You are the Christ'."
-    },
-    "sea_of_galilee": {
-      "name": "Sea of Galilee",
-      "lat": 32.82,
-      "lon": 35.59,
-      "kind": "water",
-      "stories": []
-    },
-    "dead_sea": {
-      "name": "Dead Sea",
-      "lat": 31.45,
-      "lon": 35.49,
-      "kind": "water",
-      "stories": []
-    },
-    "jordan": {
-      "name": "The Jordan",
-      "lat": 32.3,
-      "lon": 35.56,
-      "kind": "river",
-      "stories": []
-    },
-    "shechem": {
-      "name": "Shechem",
-      "lat": 32.213,
-      "lon": 35.282,
-      "kind": "town",
-      "stories": [],
-      "note": "Between Mount Gerizim to the south and Mount Ebal to the north, where the tribes stood to answer the blessings and curses (Deuteronomy 27)."
-    },
-    "hebron": {
-      "name": "Hebron",
-      "lat": 31.532,
-      "lon": 35.095,
-      "kind": "town",
-      "stories": [
-        "jacob"
-      ],
-      "note": "The cave of Machpelah, where Abraham, Isaac and Jacob were buried."
-    },
-    "tirzah": {
-      "name": "Tirzah",
-      "lat": 32.288,
-      "lon": 35.39,
-      "kind": "town",
-      "stories": [
-        "ahijah"
-      ],
-      "note": "Jeroboam's royal city, from which his wife walked to Shiloh."
-    },
-    "zorah": {
-      "name": "Zorah",
-      "lat": 31.776,
-      "lon": 34.983,
-      "kind": "town",
-      "stories": [
-        "samson"
-      ],
-      "note": "Samson's birthplace, and his burial place, in the low hills toward Philistia."
-    }
+  "jericho": {
+   "name": "Jericho",
+   "lat": 31.871,
+   "lon": 35.444,
+   "kind": "town",
+   "stories": [
+    "bartimaeus",
+    "two-blind-men-matthew"
+   ],
+   "note": "Herod's Jericho stood a little south-west of the old mound; the two are drawn as one."
   },
-  "off_map": [
-    {
-      "name": "Babylon and Riblah",
-      "direction": "far to the north-east",
-      "stories": [
-        "zedekiah"
-      ],
-      "note": "Zedekiah was blinded at Riblah in Syria and taken to Babylon; both lie beyond this map."
-    },
-    {
-      "name": "Egypt",
-      "direction": "far to the south-west",
-      "stories": [
-        "jacob"
-      ],
-      "note": "Jacob blessed Joseph's sons in Egypt, beyond this map."
-    },
-    {
-      "name": "Nineveh and Ecbatana",
-      "direction": "far to the north-east",
-      "stories": [
-        "tobit"
-      ],
-      "note": "Tobit's story, if included, lies in Assyria and Media, beyond this map."
-    },
-    {
-      "name": "Mount Sinai",
-      "direction": "far to the south",
-      "stories": [],
-      "note": "Where the Law was given, about eleven days' walk south of Jerusalem by the traditional site; beyond this map."
-    },
-    {
-      "name": "Riblah",
-      "direction": "far to the north, in the land of Hamath",
-      "stories": [
-        "zedekiah"
-      ],
-      "note": "Where Zedekiah was sentenced and blinded, on the road to Babylon; beyond this map."
-    },
-    {
-      "name": "Goshen",
-      "direction": "far to the south-west, in Egypt",
-      "stories": [
-        "jacob"
-      ],
-      "note": "Where Jacob lived his last seventeen years and blessed Joseph's sons; beyond this map."
-    }
-  ],
-  "episodes": {
-    "ep01": {
-      "title": "The man born blind",
-      "focus": "jerusalem",
-      "visited": []
-    },
-    "ep02": {
-      "title": "Bartimaeus at Jericho",
-      "focus": "jericho",
-      "visited": [
-        "jerusalem"
-      ]
-    },
-    "ep03": {
-      "title": "The blind man at Bethsaida",
-      "focus": "bethsaida",
-      "visited": [
-        "jerusalem",
-        "jericho"
-      ]
-    },
-    "ep04": {
-      "title": "The ones who followed",
-      "focus": "capernaum",
-      "visited": [
-        "jerusalem",
-        "jericho",
-        "bethsaida"
-      ]
-    },
-    "ep05": {
-      "title": "The blind in the crowd",
-      "focus": "mountain_decapolis",
-      "focus2": "jerusalem",
-      "visited": [
-        "jerusalem",
-        "jericho",
-        "bethsaida",
-        "capernaum"
-      ]
-    },
-    "ep06": {
-      "title": "The answer to John",
-      "focus": "machaerus",
-      "focus2": "nazareth",
-      "visited": [
-        "jerusalem",
-        "jericho",
-        "bethsaida",
-        "capernaum",
-        "mountain_decapolis"
-      ]
-    },
-    "ep07": {
-      "title": "The stumbling block",
-      "focus": "jerusalem",
-      "focus2": "shechem",
-      "visited": []
-    },
-    "isaac": {
-      "title": "Isaac and the stolen blessing",
-      "focus": "beersheba",
-      "visited": []
-    },
-    "jacob": {
-      "title": "Jacob blesses Joseph's sons",
-      "focus": "hebron",
-      "visited": []
-    },
-    "eli": {
-      "title": "Eli at Shiloh",
-      "focus": "shiloh",
-      "visited": []
-    },
-    "ahijah": {
-      "title": "Ahijah and the disguised queen",
-      "focus": "shiloh",
-      "focus2": "tirzah",
-      "visited": []
-    },
-    "zedekiah": {
-      "title": "Zedekiah, the last king of Judah",
-      "focus": "jerusalem",
-      "focus2": "jericho",
-      "visited": []
-    },
-    "samson": {
-      "title": "Samson in Gaza",
-      "focus": "gaza",
-      "focus2": "zorah",
-      "visited": []
-    }
+  "bethany": {
+   "name": "Bethany",
+   "lat": 31.771,
+   "lon": 35.261,
+   "kind": "village",
+   "stories": [],
+   "note": "On the Jerusalem side of the Mount of Olives, the last stop on the road up from Jericho."
+  },
+  "capernaum": {
+   "name": "Capernaum",
+   "lat": 32.881,
+   "lon": 35.575,
+   "kind": "town",
+   "stories": [
+    "two-blind-men",
+    "blind-and-mute-man"
+   ],
+   "note": "Jesus's base in Galilee; Edersheim's placing of the two blind men, not certain."
+  },
+  "bethsaida": {
+   "name": "Bethsaida",
+   "lat": 32.91,
+   "lon": 35.631,
+   "kind": "village",
+   "stories": [
+    "bethsaida"
+   ],
+   "note": "Which ruin is Bethsaida is still argued; et-Tell is drawn, el-Araj lies 2 km south on the shore."
+  },
+  "nazareth": {
+   "name": "Nazareth",
+   "lat": 32.699,
+   "lon": 35.303,
+   "kind": "town",
+   "stories": [
+    "answer-to-john"
+   ],
+   "note": "Where Jesus read Isaiah 61, 'recovery of sight to the blind'."
+  },
+  "mountain_decapolis": {
+   "name": "The mountain by the lake",
+   "lat": 32.78,
+   "lon": 35.68,
+   "kind": "place",
+   "stories": [
+    "crowds-by-the-sea"
+   ],
+   "note": "Edersheim's placing, on the eastern shore in the Decapolis; Matthew gives only the Sea of Galilee and a mountain."
+  },
+  "machaerus": {
+   "name": "Machaerus",
+   "lat": 31.567,
+   "lon": 35.624,
+   "kind": "fortress",
+   "stories": [
+    "answer-to-john"
+   ],
+   "note": "Herod's fortress east of the Dead Sea, where John the Baptist was held and killed, by Josephus."
+  },
+  "shiloh": {
+   "name": "Shiloh",
+   "lat": 32.056,
+   "lon": 35.289,
+   "kind": "town",
+   "stories": [
+    "eli",
+    "ahijah"
+   ],
+   "note": "Eli at the tabernacle; Ahijah's house, where Jeroboam's wife came in disguise."
+  },
+  "gaza": {
+   "name": "Gaza",
+   "lat": 31.516,
+   "lon": 34.447,
+   "kind": "city",
+   "stories": [
+    "samson"
+   ],
+   "note": "Where Samson, blinded, ground grain and pulled down the temple of Dagon."
+  },
+  "beersheba": {
+   "name": "Beersheba",
+   "lat": 31.245,
+   "lon": 34.84,
+   "kind": "town",
+   "stories": [
+    "isaac"
+   ],
+   "note": "Isaac's country; the blessing was given from his tent, place not named in Genesis 27."
+  },
+  "samaria": {
+   "name": "Samaria",
+   "lat": 32.277,
+   "lon": 35.19,
+   "kind": "city",
+   "stories": [
+    "elisha-syrians"
+   ],
+   "note": "Where Elisha led the blinded Syrian army and had their eyes opened."
+  },
+  "dothan": {
+   "name": "Dothan",
+   "lat": 32.41,
+   "lon": 35.24,
+   "kind": "town",
+   "stories": [
+    "elisha-syrians"
+   ],
+   "note": "Where the Syrians were struck blind and the servant's eyes were opened to the hills full of horses and chariots."
+  },
+  "damascus": {
+   "name": "Damascus",
+   "lat": 33.513,
+   "lon": 36.292,
+   "kind": "city",
+   "stories": [
+    "saul"
+   ],
+   "note": "Saul, blinded on the road, was led in by the hand; Straight Street is still there."
+  },
+  "caesarea_philippi": {
+   "name": "Caesarea Philippi",
+   "lat": 33.248,
+   "lon": 35.694,
+   "kind": "town",
+   "stories": [],
+   "note": "Just after Bethsaida in Mark, where Peter said 'You are the Christ'."
+  },
+  "sea_of_galilee": {
+   "name": "Sea of Galilee",
+   "lat": 32.82,
+   "lon": 35.59,
+   "kind": "water",
+   "stories": []
+  },
+  "dead_sea": {
+   "name": "Dead Sea",
+   "lat": 31.45,
+   "lon": 35.49,
+   "kind": "water",
+   "stories": []
+  },
+  "jordan": {
+   "name": "The Jordan",
+   "lat": 32.3,
+   "lon": 35.56,
+   "kind": "river",
+   "stories": []
+  },
+  "shechem": {
+   "name": "Shechem",
+   "lat": 32.213,
+   "lon": 35.282,
+   "kind": "town",
+   "stories": [],
+   "note": "Between Mount Gerizim to the south and Mount Ebal to the north, where the tribes stood to answer the blessings and curses (Deuteronomy 27)."
+  },
+  "hebron": {
+   "name": "Hebron",
+   "lat": 31.532,
+   "lon": 35.095,
+   "kind": "town",
+   "stories": [
+    "jacob"
+   ],
+   "note": "The cave of Machpelah, where Abraham, Isaac and Jacob were buried."
+  },
+  "tirzah": {
+   "name": "Tirzah",
+   "lat": 32.288,
+   "lon": 35.39,
+   "kind": "town",
+   "stories": [
+    "ahijah"
+   ],
+   "note": "Jeroboam's royal city, from which his wife walked to Shiloh."
+  },
+  "zorah": {
+   "name": "Zorah",
+   "lat": 31.776,
+   "lon": 34.983,
+   "kind": "town",
+   "stories": [
+    "samson"
+   ],
+   "note": "Samson's birthplace, and his burial place, in the low hills toward Philistia."
+  },
+  "riblah": {
+   "name": "Riblah",
+   "lat": 34.46,
+   "lon": 36.54,
+   "kind": "town",
+   "stories": [
+    "zedekiah"
+   ],
+   "note": "In the land of Hamath on the Orontes, on the great road between Palestine and Babylon; Nebuchadnezzar's headquarters while his army besieged Jerusalem. Shown only on the wide map."
+  },
+  "babylon": {
+   "name": "Babylon",
+   "lat": 32.54,
+   "lon": 44.42,
+   "kind": "city",
+   "stories": [
+    "zedekiah"
+   ],
+   "note": "On the Euphrates, where Zedekiah was kept until he died. Shown only on the wide map."
+  },
+  "goshen": {
+   "name": "Goshen",
+   "lat": 30.75,
+   "lon": 31.85,
+   "kind": "region",
+   "stories": [
+    "jacob"
+   ],
+   "note": "The east of the Nile delta, where Jacob lived his last seventeen years. Shown only on the wide map."
+  },
+  "wp_euphrates_bend": {
+   "name": "",
+   "lat": 36.0,
+   "lon": 38.6,
+   "kind": "waypoint",
+   "stories": [],
+   "note": "A bend of the Euphrates road; a waypoint for the wide map only, never drawn as a place."
+  },
+  "wp_euphrates_mid": {
+   "name": "",
+   "lat": 34.4,
+   "lon": 41.0,
+   "kind": "waypoint",
+   "stories": [],
+   "note": "A bend of the Euphrates road; a waypoint for the wide map only, never drawn as a place."
+  },
+  "wp_euphrates_low": {
+   "name": "",
+   "lat": 33.3,
+   "lon": 43.0,
+   "kind": "waypoint",
+   "stories": [],
+   "note": "A bend of the Euphrates road; a waypoint for the wide map only, never drawn as a place."
   }
+ },
+ "off_map": [
+  {
+   "name": "Babylon and Riblah",
+   "direction": "far to the north-east",
+   "stories": [
+    "zedekiah"
+   ],
+   "note": "Zedekiah was blinded at Riblah in Syria and taken to Babylon; both lie beyond this map."
+  },
+  {
+   "name": "Egypt",
+   "direction": "far to the south-west",
+   "stories": [
+    "jacob"
+   ],
+   "note": "Jacob blessed Joseph's sons in Egypt, beyond this map."
+  },
+  {
+   "name": "Nineveh and Ecbatana",
+   "direction": "far to the north-east",
+   "stories": [
+    "tobit"
+   ],
+   "note": "Tobit's story, if included, lies in Assyria and Media, beyond this map."
+  },
+  {
+   "name": "Mount Sinai",
+   "direction": "far to the south",
+   "stories": [],
+   "note": "Where the Law was given, about eleven days' walk south of Jerusalem by the traditional site; beyond this map."
+  },
+  {
+   "name": "Riblah",
+   "direction": "far to the north, in the land of Hamath",
+   "stories": [
+    "zedekiah"
+   ],
+   "note": "Where Zedekiah was sentenced and blinded, on the road to Babylon; beyond this map."
+  },
+  {
+   "name": "Goshen",
+   "direction": "far to the south-west, in Egypt",
+   "stories": [
+    "jacob"
+   ],
+   "note": "Where Jacob lived his last seventeen years and blessed Joseph's sons; beyond this map."
+  }
+ ],
+ "episodes": {
+  "ep01": {
+   "title": "The man born blind",
+   "focus": "jerusalem",
+   "visited": []
+  },
+  "ep02": {
+   "title": "Bartimaeus at Jericho",
+   "focus": "jericho",
+   "visited": [
+    "jerusalem"
+   ]
+  },
+  "ep03": {
+   "title": "The blind man at Bethsaida",
+   "focus": "bethsaida",
+   "visited": [
+    "jerusalem",
+    "jericho"
+   ]
+  },
+  "ep04": {
+   "title": "The ones who followed",
+   "focus": "capernaum",
+   "visited": [
+    "jerusalem",
+    "jericho",
+    "bethsaida"
+   ]
+  },
+  "ep05": {
+   "title": "The blind in the crowd",
+   "focus": "mountain_decapolis",
+   "focus2": "jerusalem",
+   "visited": [
+    "jerusalem",
+    "jericho",
+    "bethsaida",
+    "capernaum"
+   ]
+  },
+  "ep06": {
+   "title": "The answer to John",
+   "focus": "machaerus",
+   "focus2": "nazareth",
+   "visited": [
+    "jerusalem",
+    "jericho",
+    "bethsaida",
+    "capernaum",
+    "mountain_decapolis"
+   ]
+  },
+  "ep07": {
+   "title": "The stumbling block",
+   "focus": "jerusalem",
+   "focus2": "shechem",
+   "visited": []
+  },
+  "isaac": {
+   "title": "Isaac and the stolen blessing",
+   "focus": "beersheba",
+   "visited": []
+  },
+  "jacob": {
+   "title": "Jacob blesses Joseph's sons",
+   "focus": "hebron",
+   "visited": []
+  },
+  "eli": {
+   "title": "Eli at Shiloh",
+   "focus": "shiloh",
+   "visited": []
+  },
+  "ahijah": {
+   "title": "Ahijah and the disguised queen",
+   "focus": "shiloh",
+   "focus2": "tirzah",
+   "visited": []
+  },
+  "zedekiah": {
+   "title": "Zedekiah, the last king of Judah",
+   "focus": "jerusalem",
+   "focus2": "jericho",
+   "visited": []
+  },
+  "samson": {
+   "title": "Samson in Gaza",
+   "focus": "gaza",
+   "focus2": "zorah",
+   "visited": []
+  },
+  "ep11": {
+   "title": "The last thing he saw",
+   "focus": "jerusalem",
+   "visited": [],
+   "route": [
+    "jericho",
+    "riblah",
+    "wp_euphrates_bend",
+    "wp_euphrates_mid",
+    "wp_euphrates_low",
+    "babylon"
+   ],
+   "frame": {
+    "lat_min": 29.4,
+    "lat_max": 37.6,
+    "lon_min": 33.2,
+    "lon_max": 48.6
+   },
+   "panel": [
+    "In gold: Jerusalem, and the road the king was taken.",
+    "Facing north from Jerusalem, north at twelve o'clock:",
+    "- Jericho: 6 hours, 2 o'clock, where he was caught",
+    "- Riblah: 2 to 3 weeks, 12 o'clock, where he was sentenced",
+    "- Babylon: 2 months more, down the Euphrates, where he died"
+   ],
+   "description": "Episode 11, The last thing he saw. This map is wider than the series map: it reaches from Egypt in the south-west to Babylon in the east. Jerusalem is in gold. A line marks the king's road. Stand at Jerusalem and face north; north is twelve o'clock. Jericho is about six hours' walk downhill at two o'clock; the plains of Jericho are where Zedekiah was caught. Riblah, in the land of Hamath, is straight ahead at twelve o'clock, past Damascus, about two to three weeks' march for an army column; there he was sentenced and blinded. Babylon is far to the east: the road runs north from Riblah to the Euphrates and follows the river down to the city, about two months more on foot. Jerusalem, Riblah, Babylon, in that order."
+  }
+ }
 }

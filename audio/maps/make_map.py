@@ -48,9 +48,21 @@ RIDGE = [(31.3, 35.0), (31.7, 35.2), (32.0, 35.25), (32.3, 35.25), (32.6, 35.3),
 
 ROAD = [("jericho", "bethany"), ("bethany", "jerusalem"), ("capernaum", "bethsaida"), ("nazareth", "capernaum")]
 
+# The wide frame, for episodes whose places lie beyond Palestine (Riblah, Babylon, Goshen). Outlines are rough.
+COAST_WIDE = [(31.05, 34.27), (31.52, 34.45), (32.1, 34.78), (32.75, 34.95), (33.27, 35.2), (33.9, 35.48),
+              (34.45, 35.82), (34.9, 35.9), (35.5, 35.78), (35.95, 35.9), (36.4, 35.85), (36.6, 36.15),
+              (36.55, 36.6), (36.75, 36.1), (36.85, 35.5), (36.8, 34.6), (36.3, 33.9), (36.4, 33.2)]
+NILE = [(31.5, 31.8), (30.9, 31.2), (30.1, 31.25), (29.4, 31.2)]
+EUPHRATES = [(37.6, 38.0), (36.8, 38.1), (36.0, 38.6), (35.5, 39.6), (34.9, 40.5), (34.4, 41.0), (33.6, 42.5),
+             (32.9, 43.8), (32.54, 44.42), (31.9, 44.9), (31.2, 45.6), (30.8, 46.3), (30.4, 47.5)]
+TIGRIS = [(37.6, 42.3), (36.8, 42.6), (36.3, 43.1), (35.5, 43.3), (34.6, 43.7), (33.6, 44.3), (33.3, 44.4),
+          (32.5, 45.3), (31.5, 46.6), (31.0, 47.4), (30.4, 47.5)]
+GULF = [(30.4, 47.5), (29.9, 48.2), (29.4, 48.6), (29.4, 50.0), (30.5, 50.0), (30.4, 48.4)]
+CURRENT_FRAME: dict | None = None
+
 
 def proj(lat: float, lon: float) -> tuple[float, float]:
-    f = DATA["frame"]
+    f = CURRENT_FRAME or DATA["frame"]
     kx = math.cos(math.radians((f["lat_min"] + f["lat_max"]) / 2))
     span_x = (f["lon_max"] - f["lon_min"]) * kx
     span_y = f["lat_max"] - f["lat_min"]
@@ -110,6 +122,35 @@ def bearing_word(a: dict, b: dict) -> str:
     return names[int((deg + 22.5) // 45) % 8]
 
 
+def wide(draw: ImageDraw.ImageDraw, font_s, font_xs) -> None:
+    """The wide frame: sea, the Nile, the two rivers, the gulf, and the small waters of Palestine for bearings."""
+    draw.rectangle([0, 0, W, H], fill=LAND)
+    coast = [proj(la, lo) for la, lo in COAST_WIDE]
+    draw.polygon([(0, H), (0, coast[-1][1])] + coast[::-1] + [(coast[0][0], H)], fill=SEA)
+    draw.polygon([proj(la, lo) for la, lo in GULF], fill=SEA)
+    draw.line([proj(la, lo) for la, lo in NILE], fill=WATER, width=10, joint="curve")
+    draw.line([proj(la, lo) for la, lo in EUPHRATES], fill=WATER, width=10, joint="curve")
+    draw.line([proj(la, lo) for la, lo in TIGRIS], fill=WATER, width=8, joint="curve")
+    draw.polygon([proj(la, lo) for la, lo in GALILEE], fill=WATER)
+    draw.polygon([proj(la, lo) for la, lo in DEAD], fill=WATER)
+    draw.line([proj(la, lo) for la, lo in JORDAN_N + JORDAN_S], fill=WATER, width=4, joint="curve")
+    x, y = proj(33.6, 34.0); draw.text((x, y), "The Great Sea", font=font_s, fill=(230, 236, 240), anchor="mm")
+    x, y = proj(35.6, 39.9); draw.text((x, y), "the Euphrates", font=font_xs, fill=(40, 60, 90), anchor="lm")
+    x, y = proj(34.9, 43.9); draw.text((x, y), "the Tigris", font=font_xs, fill=(40, 60, 90), anchor="lm")
+    x, y = proj(30.3, 33.0); draw.text((x, y), "Egypt", font=font_s, fill=FAINT, anchor="mm")
+    x, y = proj(34.6, 38.4); draw.text((x, y), "Syria", font=font_s, fill=FAINT, anchor="mm")
+    x, y = proj(33.0, 46.0); draw.text((x, y), "Babylonia", font=font_s, fill=FAINT, anchor="mm")
+    # scale bar: 200 km
+    a = {"lat": 30.2, "lon": 44.5}; b = {"lat": 30.2, "lon": 44.5 + 200 / (111.32 * math.cos(math.radians(30.2)))}
+    (x1, y1), (x2, y2) = proj(a["lat"], a["lon"]), proj(b["lat"], b["lon"])
+    draw.line([(x1, y1), (x2, y2)], fill=INK, width=8)
+    draw.text(((x1 + x2) / 2, y1 - 20), "200 km", font=font_xs, fill=INK, anchor="mb")
+    x, y = MAP_W - PAD, PAD + 20
+    draw.line([(x, y + 110), (x, y)], fill=INK, width=8)
+    draw.polygon([(x, y - 10), (x - 22, y + 40), (x + 22, y + 40)], fill=INK)
+    draw.text((x, y + 130), "N", font=font_s, fill=INK, anchor="mt")
+
+
 def base(draw: ImageDraw.ImageDraw, font_s, font_xs) -> None:
     draw.rectangle([0, 0, W, H], fill=LAND)
     # sea to the west of the coast
@@ -142,12 +183,19 @@ def base(draw: ImageDraw.ImageDraw, font_s, font_xs) -> None:
     draw.text((x, y + 130), "N", font=font_s, fill=INK, anchor="mt")
 
 
+def p_wide_only(p: dict) -> bool:
+    return "wide map" in (p.get("note") or "")
+
+
 def dot(draw, p, r, fill, outline=INK, width=4):
     x, y = proj(p["lat"], p["lon"])
     draw.ellipse([x - r, y - r, x + r, y + r], fill=fill, outline=outline, width=width)
 
 
-OFFSETS = {"zorah": (-34, -6, "rm"), "tirzah": (34, -30, "lm"), "hebron": (34, 10, "lm"), "bethsaida": (30, -34, "lm"), "capernaum": (-34, 18, "rm"), "mountain_decapolis": (30, 26, "lm"),
+OFFSETS = {"riblah": (34, -10, "lm"), "babylon": (34, 10, "lm"), "goshen": (-30, 0, "rm"),
+           "wide_jericho": (14, 44, "lm"), "wide_jerusalem": (-44, 0, "rm"), "wide_riblah": (34, -16, "lm"),
+           "wide_babylon": (34, 12, "lm"), "wide_goshen": (-30, 0, "rm"),
+           "zorah": (-34, -6, "rm"), "tirzah": (34, -30, "lm"), "hebron": (34, 10, "lm"), "bethsaida": (30, -34, "lm"), "capernaum": (-34, 18, "rm"), "mountain_decapolis": (30, 26, "lm"),
            "sea_of_galilee": (0, 0, "mm"), "bethany": (26, 30, "lm"), "jerusalem": (-30, 0, "rm"),
            "machaerus": (30, 0, "lm"), "dothan": (-28, 0, "rm"), "samaria": (-28, 0, "rm"), "shiloh": (-28, 0, "rm")}
 
@@ -160,19 +208,28 @@ def label(draw, p, font, fill, dx=26, dy=0, anchor="lm", key=None):
 
 
 def render(ep_key: str | None) -> tuple[Path, str]:
+    global CURRENT_FRAME
     img = Image.new("RGB", (W, H), LAND)
     d = ImageDraw.Draw(img)
     f_l, f_m, f_s, f_xs = (ImageFont.truetype(FONT_B, 64), ImageFont.truetype(FONT, 46),
                            ImageFont.truetype(FONT, 38), ImageFont.truetype(FONT, 32))
-    base(d, f_s, f_xs)
-    places = DATA["places"]
-    towns = {k: v for k, v in places.items() if v["kind"] not in ("water", "river")}
     ep = DATA["episodes"].get(ep_key) if ep_key else None
+    CURRENT_FRAME = ep.get("frame") if ep else None
+    places = DATA["places"]
+    if CURRENT_FRAME:
+        wide(d, f_s, f_xs)
+        # on the wide map only the places of the journey are drawn, plus Damascus for bearings
+        keep = {ep["focus"], ep.get("focus2"), "damascus", *ep.get("route", []), *ep["visited"]} - {None}
+        towns = {k: v for k, v in places.items() if k in keep}
+    else:
+        base(d, f_s, f_xs)
+        towns = {k: v for k, v in places.items() if v["kind"] not in ("water", "river", "region")
+                 and not p_wide_only(v)}
     focus = {ep["focus"], ep.get("focus2")} - {None} if ep else set()
     visited = ep["visited"] if ep else []
     # all places, faint
     for k, p in towns.items():
-        if k in focus or k in visited:
+        if k in focus or k in visited or (ep and k in ep.get("route", [])):
             continue
         dot(d, p, 10, (200, 186, 160), outline=FAINT, width=3)
         if k not in ("bethany", "zorah", "tirzah"):   # too close to Jerusalem and the Jordan to label faintly
@@ -188,9 +245,17 @@ def render(ep_key: str | None) -> tuple[Path, str]:
                 continue
             dot(d, places[k], 16, (235, 225, 200), outline=ROUTE, width=5)
             label(d, places[k], f_s, INK, key=k)
+        if ep.get("route"):          # the king's road: focus, then each place in order, drawn as the journey line
+            chain = [places[ep["focus"]]] + [places[k] for k in ep["route"]]
+            d.line([proj(p["lat"], p["lon"]) for p in chain], fill=ROUTE, width=7, joint="curve")
+            for k in ep["route"]:
+                if places[k]["kind"] == "waypoint":
+                    continue
+                dot(d, places[k], 16, (235, 225, 200), outline=ROUTE, width=5)
+                label(d, places[k], f_s, INK, key=("wide_" + k) if CURRENT_FRAME else k)
         for k in focus:
             dot(d, places[k], 30, GOLD, outline=INK, width=6)
-            label(d, places[k], f_m, INK, dx=44, key=k)
+            label(d, places[k], f_m, INK, dx=44, key=("wide_" + k) if CURRENT_FRAME else k)
         title = f"Episode {int(ep_key[2:])}: {ep['title']}" if ep_key.startswith("ep") else ep["title"]
     else:
         for k, p in towns.items():
@@ -223,6 +288,8 @@ def panel_lines(ep_key: str) -> list[str]:
     are shown in the panel's lower half on map shots. The full wording is in describe()."""
     places = DATA["places"]
     ep = DATA["episodes"][ep_key]
+    if ep.get("panel"):
+        return list(ep["panel"])
     fp = places[ep["focus"]]
     gold = fp["name"] + (f" and {places[ep['focus2']]['name']}" if ep.get("focus2") else "")
     out = [f"In gold: {gold}.", f"Facing north from {fp['name']}, north at twelve o'clock:"]
@@ -255,6 +322,8 @@ def describe(ep_key: str | None) -> str:
             lines.append(f"- {o['name']}: {o['direction']}, beyond the map. {o['note']}")
         return "\n".join(lines)
     ep = DATA["episodes"][ep_key]
+    if ep.get("description"):
+        return ep["description"]
     fp = places[ep["focus"]]
     head = f"Episode {int(ep_key[2:])}, {ep['title']}" if ep_key.startswith("ep") else ep["title"]
     lines = [f"{head}. The map highlights {fp['name']} in gold. {fp.get('note', '')}".rstrip()]
