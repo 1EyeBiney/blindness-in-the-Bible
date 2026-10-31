@@ -282,3 +282,38 @@ Episode 11 opening, Brian's design:
 Every episode in this series keeps the "Where this is" mechanic from episodes 1 to 6: a standing point, north at twelve o'clock, places by clock face and walking time, so the video can carry a map panel. The convention: stand where the sight was lost and face north. Episode 11 Jerusalem (Jericho six hours at two o'clock; Riblah two to three weeks at twelve; Babylon another two months beyond, down the Euphrates). Then Gaza for Samson, Beersheba for Isaac, Goshen for Jacob, Shiloh twice for Eli and Ahijah. The map panel walks across the six.
 
 Also decided: the sound-and-sight seam is said out loud. The open is sounds that stay; the title is a sight that stayed; the Narrator ties them before the handoff, again at Riblah (eyes closed, ears not), and Brian closes it in What I hear. Jeremiah freed (39:11-14) cut from the episode; it stays a page observation.
+
+## The episode template, 31 October 2026 (episodes 12 to 16 are drafted against this)
+
+Target about 24 minutes, 3,500 to 3,700 spoken words. Reading file is the source (audio/scripts/epNN_slug_01.md);
+audio/md_to_script.py builds the render files. Sound cues tagged required / if you can / words carry it; the words
+never depend on the last two. One Henry line voiced at most; the rest paraphrased by the Narrator. Nothing graphic.
+
+1. Cold open: a sound, required, under thirty seconds before a voice. One Narrator line at most to place it.
+2. Brian, by Mister Scaredy Cat: what a blind man hears in that sound. Short. His page words or his notes, marked
+   DRAFT until he fixes them. Narrator hands off with a fresh Scaredy Cat line (never the same twice).
+3. General intro (SERIES_INTRO), then *(pause 1.0 s)*, then the shared series intro word for word, so it renders as
+   its own take and one good take serves all six.
+4. "First, where we are." Time and people in a few sentences, then "Where this is." Stand where the sight was lost,
+   north at twelve o'clock, places by clock face and walking time, three places at most, matching maps/epNN.png
+   (make_map.py: frame, route, panel per episode in places.json).
+5. The passage, read word for word (BSB), announced by the Narrator with chapter and verses. Long passages may be
+   split by one Narrator sentence between parts.
+6. The imagined scene, announced with the word "imagine", one per episode, told from the blind person's senses.
+   Scene voices only where someone must speak. For the pairs, episodes 13 and 15 replay one moment of 12 and 14
+   first.
+7. "Brian, what do you hear in this one?" with the cold-open sound returning quietly under his first line.
+   Brian's page thoughts, condensed, in his voice. This is the one place his own story goes; it serves the text.
+8. The old books: Henry paraphrased, one voiced line; Levy (a blind author) where he speaks to it; Josephus only
+   if he adds a fact.
+9. "Now the word. Each of these six stories has its own word for eyes that fail, and they make a chain. This one is
+   ___." Place it in the chain so far (11 avar, with nechosheth; 12 kahah; 13 kabed; 14 kahah again and qum; 15
+   qum; 16 naqar, with nechosheth closing the loop to 11). Spelled as it sounds, in quotes, once.
+10. A closing turn from the text itself (what came after), then "Brian, with the last word." One or two lines.
+11. Teaser for the next episode, one Narrator paragraph, ending on the person's name.
+12. CLOSE, and after a long pause, "For we walk by faith, not by sight."
+
+Shot list: title card at the general intro, map at "Where this is.", scroll for every reading, Brian's picture for
+his words, Navy photo for the Scaredy Cat handoff, Henry's study for Henry, the pair's picture when its moment is
+replayed. Gemini pictures announced to Brian as "image N of M" while they are made.
+
