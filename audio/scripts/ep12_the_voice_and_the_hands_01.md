@@ -1,0 +1,223 @@
+# Not By Sight, episode 12: The voice and the hands
+
+Script for reading, draft 1. Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Scene voices: Isaac (an old man; the same voice serves Jacob in episode 13), Jacob (young, three lines), Esau (one line). Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix. The title is provisional; "Isaac and the stolen blessing" is the page's.
+
+*(SFX, required: a tent at evening. Goats settling, a small fire, a breeze on cloth. Four seconds alone, then under the next line.)*
+
+**Narrator** *(calm)* Imagine a tent at evening, in Beersheba, a long time ago. The old man inside cannot see. He is waiting for his son.
+
+*(SFX, required: footsteps on matting, slow, coming in. Then stopping.)*
+
+**Jacob** *(quietly)* My father.
+
+*(pause 1.5 s)*
+
+**Isaac** *(old, careful)* Here I am. Which one are you, my son?
+
+*(pause 2.0 s)*
+
+**Narrator** *(calm)* Which one are you. He knows that voice. He has known it for more than sixty years. And it is in the wrong place. Here is Brian, by way of Mister Scaredy Cat, on what a blind man hears in that.
+
+**Brian** *(calm)* DRAFT. A familiar sound where it does not belong is a blind man's alarm. I can be anywhere in my house and know who is moving and roughly what they are doing, because I know what every sound means and where it comes from. The day something I know turns up where it should not be, I stop. Isaac stopped. He heard Jacob, in the hour he had set aside for Esau, and he asked. That question, which one are you, is the most honest sentence in the chapter. Everything that follows is the story of how a careful blind man was talked out of the one sense that was telling him the truth.
+
+*(pause 1.5 s)*
+
+**Narrator** *(calm)* This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for blind believers, their families, and the church. The Scripture you will hear is the Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. And when we imagine a scene, we will tell you so.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* This episode is part of our series on sight lost and not given back: six people in the Bible who lost their sight and lived the rest of their lives without it. We tell them in three pairs. Two men blinded by their enemies, Zedekiah and Samson. A father and a son, Isaac and Jacob. Two old men of Shiloh, Eli and Ahijah. Every episode begins with sounds, and with what a blind man hears in them. Along the way we follow the Hebrew words the Bible uses for eyes that fail, one word handing on to the next. When we imagine a scene, we will tell you so. Everything else is from the text, from the old books read in their own voice, and from Brian.
+
+---
+
+**Narrator** *(calm)* First, where we are. Isaac is the son Abraham and Sarah waited twenty-five years for, the boy bound on the altar and spared. He married Rebekah at forty, and waited twenty more years for the twins. Before they were born, Rebekah was told that the older would serve the younger. Esau came out first, red and hairy, and grew into a hunter and his father's favourite. Jacob came out holding his heel, stayed among the tents, and was his mother's. One day Esau came in from the field famished and sold his birthright to Jacob for a bowl of stew. By the chapter we are reading, Isaac is past a hundred, Esau is married to two Hittite women who are a grief to both parents, and Isaac's eyes have failed.
+
+**Narrator** *(calm)* Where this is. Stand at Beersheba, at the southern edge of the settled land, where Isaac had reopened his father's wells and named the place, and face north, with north at twelve o'clock. This was his country for decades, and Genesis does not say the tent was anywhere else. Hebron, where he would die and be buried with Abraham, is about a day's walk at one o'clock. Jerusalem is about two days further on the same line. And far beyond it, at the top of the map, is Haran, the city Rebekah came from, about a month's walk for the son who is going to have to run there. Keep Beersheba and Haran in mind. The whole chapter happens in one tent, and it ends with a road.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* Genesis chapter 27, verses 1 to 4.
+
+> **Reader** *(plainly)* When Isaac was old and his eyes were so weak that he could no longer see, he called his older son Esau and said to him, “My son.” “Here I am,” Esau replied.
+
+> **Reader** *(plainly)* “Look,” said Isaac, “I am now old, and I do not know the day of my death.
+
+> **Reader** *(plainly)* Take your weapons—your quiver and bow—and go out into the field to hunt some game for me.
+
+> **Reader** *(plainly)* Then prepare a tasty dish that I love and bring it to me to eat, so that I may bless you before I die.”
+
+**Narrator** *(calm)* I do not know the day of my death. He had, as it turned out, about forty years left. But he could not see, and he thought the end was near, and he wanted to do the one thing a father in that family did before he died: put the blessing on the firstborn. What he did not know was that someone else was in earshot. Verse 5 says Rebekah was listening. The plan she made in the next few minutes is worth hearing in the text's own words, because every piece of it is aimed at one of her husband's senses. Verses 5 to 17.
+
+> **Reader** *(plainly)* Now Rebekah was listening to what Isaac told his son Esau. So when Esau went into the field to hunt game and bring it back,
+
+> **Reader** *(plainly)* Rebekah said to her son Jacob, “Behold, I overheard your father saying to your brother Esau,
+
+> **Reader** *(plainly)* ‘Bring me some game and prepare me a tasty dish to eat, so that I may bless you in the presence of the LORD before I die.’
+
+> **Reader** *(plainly)* Now, my son, listen to my voice and do exactly as I tell you.
+
+> **Reader** *(plainly)* Go out to the flock and bring me two choice young goats, so that I can make them into a tasty dish for your father—the kind he loves.
+
+> **Reader** *(plainly)* Then take it to your father to eat, so that he may bless you before he dies.”
+
+> **Reader** *(plainly)* Jacob answered his mother Rebekah, “Look, my brother Esau is a hairy man, but I am smooth-skinned.
+
+> **Reader** *(plainly)* What if my father touches me? Then I would be revealed to him as a deceiver, and I would bring upon myself a curse rather than a blessing.”
+
+> **Reader** *(plainly)* His mother replied, “Your curse be on me, my son. Just obey my voice and go get them for me.”
+
+> **Reader** *(plainly)* So Jacob went and got two goats and brought them to his mother, who made the tasty food his father loved.
+
+> **Reader** *(plainly)* And Rebekah took the finest clothes in the house that belonged to her older son Esau, and she put them on her younger son Jacob.
+
+> **Reader** *(plainly)* She also put the skins of the young goats on his hands and on the smooth part of his neck.
+
+> **Reader** *(plainly)* Then she handed her son Jacob the tasty food and bread she had made.
+
+**Narrator** *(calm)* Notice who raises the problem of touch. Not Rebekah. Jacob. What if my father touches me. He knows his father is blind, and he knows what a blind man does instead of looking. So the goat kids are killed for two purposes: the meat for Isaac's tongue, the skins for his hands. The clothes are for his nose. Only his ears are left to him, and the plan has nothing for those. Now the tent. Verses 18 to 29.
+
+> **Reader** *(plainly)* So Jacob went to his father and said, “My father.” “Here I am!” he answered. “Which one are you, my son?”
+
+> **Reader** *(plainly)* Jacob said to his father, “I am Esau, your firstborn. I have done as you told me. Please sit up and eat some of my game, so that you may bless me.”
+
+> **Reader** *(plainly)* But Isaac asked his son, “How did you ever find it so quickly, my son?” “Because the LORD your God brought it to me,” he replied.
+
+> **Reader** *(plainly)* Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+
+> **Reader** *(plainly)* So Jacob came close to his father Isaac, who touched him and said, “The voice is the voice of Jacob, but the hands are the hands of Esau.”
+
+> **Reader** *(plainly)* Isaac did not recognize him, because his hands were hairy like those of his brother Esau; so he blessed him.
+
+> **Reader** *(plainly)* Again he asked, “Are you really my son Esau?” And he replied, “I am.”
+
+> **Reader** *(plainly)* “Serve me,” said Isaac, “and let me eat some of my son’s game, so that I may bless you.” Jacob brought it to him, and he ate; then he brought him wine, and he drank.
+
+> **Reader** *(plainly)* Then his father Isaac said to him, “Please come near and kiss me, my son.”
+
+> **Reader** *(plainly)* So he came near and kissed him. When Isaac smelled his clothing, he blessed him and said: “Ah, the smell of my son is like the smell of a field that the LORD has blessed.
+
+> **Reader** *(plainly)* May God give to you the dew of heaven and the richness of the earth—an abundance of grain and new wine.
+
+> **Reader** *(plainly)* May peoples serve you and nations bow down to you. May you be the master of your brothers, and may the sons of your mother bow down to you. May those who curse you be cursed, and those who bless you be blessed.”
+
+*(pause 1.5 s)*
+
+**Narrator** *(calm)* Count what he did. He asked which son it was. He asked how the hunt could be over so soon. He asked to touch him. He said out loud that the voice was wrong. He asked a second time, are you really Esau. He ate. He called him close and kissed him, and only then, with the smell of Esau's clothes in his face, did he give the blessing. Four senses out of five reported Esau, and three of them had been dressed for the purpose. The one that had not been dressed was the one he overruled.
+
+---
+
+**Narrator** *(calm)* Now imagine the next few minutes. The text gives us the frame: Jacob had barely left his father's presence when Esau came in.
+
+*(pause 1.0 s)*
+
+*(SFX, if you can: the tent again, quieter. The old man's breathing. Outside, far off, someone walking in from the field, pleased with himself.)*
+
+**Narrator** *(calm)* Isaac is alone, and he is content. He has eaten. He has done the thing he feared he would die without doing. The blessing of Abraham has gone where it should go, to the firstborn, the son who smells like the open country. He is tired in the good way. And then the matting at the door moves again.
+
+*(SFX, required: footsteps on matting, quicker, heavier. Then stopping.)*
+
+**Esau** *(warmly)* My father.
+
+*(pause 2.0 s)*
+
+**Isaac** *(old, bewildered)* Who are you?
+
+*(pause 2.0 s)*
+
+**Narrator** *(calm)* Who are you. The same two words he had just heard, in a different voice, and this time he does not know it. A few minutes earlier his ears had picked Jacob out through a disguise. Nothing has gone wrong with them since. What has changed is that he has just blessed Esau and sent him out, so whoever is at the door now cannot be Esau. That is the sound of a man's expectation overruling his ears for the second time in one hour, and it is the last thing he hears before the floor goes out from under him. Verses 30 to 38.
+
+> **Reader** *(plainly)* As soon as Isaac had finished blessing him and Jacob had left his father’s presence, his brother Esau returned from the hunt.
+
+> **Reader** *(plainly)* He too made some tasty food, brought it to his father, and said to him, “My father, sit up and eat of your son’s game, so that you may bless me.”
+
+> **Reader** *(plainly)* But his father Isaac replied, “Who are you?” “I am Esau, your firstborn son,” he answered.
+
+> **Reader** *(plainly)* Isaac began to tremble violently and said, “Who was it, then, who hunted the game and brought it to me? Before you came in, I ate it all and blessed him—and indeed, he will be blessed!”
+
+> **Reader** *(plainly)* When Esau heard his father’s words, he let out a loud and bitter cry and said to his father, “Bless me too, O my father!”
+
+> **Reader** *(plainly)* But Isaac replied, “Your brother came deceitfully and took your blessing.”
+
+> **Reader** *(plainly)* So Esau declared, “Is he not rightly named Jacob? For he has cheated me twice. He took my birthright, and now he has taken my blessing.” Then he asked, “Haven’t you saved a blessing for me?”
+
+> **Reader** *(plainly)* But Isaac answered Esau: “Look, I have made him your master and given him all his relatives as servants; I have sustained him with grain and new wine. What is left that I can do for you, my son?”
+
+> **Reader** *(plainly)* Esau said to his father, “Do you have only one blessing, my father? Bless me too, O my father!” Then Esau wept aloud.
+
+*(pause 2.0 s)*
+
+**Narrator** *(calm)* Tremble violently. The Hebrew says he trembled a great trembling, greatly, and the translators have struggled with the pile of words ever since. It is the moment a blind man learns that the room was not what he was told it was. Everything he had checked, every question he had asked, had been answered by people who knew exactly what he would check. And then the strangest sentence in the chapter: and indeed, he will be blessed. He does not take it back. He could have. He says it stands.
+
+---
+
+**Narrator** *(calm)* Brian, what do you hear in this one?
+
+*(SFX, if you can: the tent at evening, from the opening, very quietly under his first line)*
+
+**Brian** *(calm)* DRAFT. I hear trust. This chapter brings home the reality of the trust we place in the people around us, especially as the other senses start to fail. Isaac did everything right. He asked, he listened, he reached out, he smelled the clothes. And the people he trusted had prepared for every one of those.
+
+**Brian** *(calm)* When I first read this, my thought was that Isaac's sense of touch must have failed along with his sight, because how else could goatskin pass for a man's hands? I have changed my mind, and the reason is my own hands. Mine sit in conditioned air all day on a keyboard. My wife Barb says they are soft as a baby's bottom. Isaac's were not. He had spent a hundred years outdoors among flocks and tents and wells, doing hard work for meagre provision. Hands like that do not feel fine detail the way mine do. Josephus says the twins differed only in their hairiness. Put a goatskin under a hand like Isaac's and it is not the stretch it sounds.
+
+**Brian** *(calm)* It helps to remember where he was. Beersheba was his place. He had reopened his father's well there and named it, and he was still there decades later when Jacob left. A blind man in a camp he has known for half a lifetime is a different man from one set down in a strange room. He would have known his tent, his way to the door, who usually came and went. That is part of why the deceit worked. Nothing about the day was strange except the one thing that mattered.
+
+**Brian** *(calm)* The detail that stays with me is Esau's voice. A few minutes earlier Isaac had picked out Jacob's voice through a disguise, so his hearing was fine. Yet when Esau walked in, Isaac asked, "Who are you?" Nothing was wrong with his ears. What had changed was what he expected. He had just blessed Esau and sent him out, so the man coming in could not be Esau. I call this context. My ears tell me a great deal, but what I expect to hear tells me almost as much, and when the two disagree, expectation often wins. It won twice in one hour for Isaac.
+
+**Brian** *(calm)* DRAFT. People ask me how I can trust anyone, living like this. The honest answer is that I have no choice, and neither did Isaac, and neither do you. You just do not notice, because your eyes let you pretend you checked. I check with everything I have, the way he did, and then I take the word of the person in the room. Most days that is enough. This chapter is the Bible's record of the day it was not, and I notice that the Bible does not blame the blind man for it.
+
+*(pause 2.0 s)*
+
+---
+
+**Narrator** *(calm)* Now the old books, and this time one of them was written by a blind man. William Hanks Levy, who lost his sight as a young man and wrote a book on blindness and the blind in London in 1872, put Isaac among his biographies of the blind and said his readers would be struck by one thing in the chapter.
+
+**Books** *(calm)* The intelligent use made by Isaac of his hearing, touch, and smell, which is the more surprising as it might naturally be supposed that by reason of age these senses would have become almost useless.
+
+**Narrator** *(calm)* And at the end of the passage he adds that the sagacity Isaac showed would have been almost enough, under ordinary circumstances, to find the fraud out. A blind man read it and saw a careful blind man. Matthew Henry, a century and a half earlier, read it as a sighted man, and he went sense by sense through what Rebekah did: his taste, with kid dressed as venison; his touch and his smell, with the clothes and the skins. The one she could not touch was his hearing, and Henry stopped there.
+
+**Henry** *(calm)* Isaac was at first dissatisfied, and would have discovered the fraud if he could have trusted his own ears; for the voice was Jacob's voice. Providence has ordered a strange variety of voices as well as faces, which is also of use to prevent our being imposed upon; and the voice is a thing not easily disguised nor counterfeited.
+
+**Narrator** *(calm)* If he could have trusted his own ears. He could have. He chose the hands. Henry also noticed something Brian noticed, that Isaac did not consider how easy the hands were to counterfeit. And one more line from Henry, because it is where the chapter turns: when Isaac understood what had been done to him, he trembled, and then he recovered himself and ratified the blessing. I have blessed him, and he shall be blessed. He might, Henry says, on very plausible grounds have recalled it. He did not.
+
+*(pause 1.5 s)*
+
+---
+
+**Narrator** *(calm)* Now the word. Each of these six stories has its own word for eyes that fail, and they make a chain. Last time the word was "ah-VAR," to blind, a thing done to a man. This time it is a thing that happens to him: "kah-HAH." To grow dim, to grow dull, to fade. Genesis 27 opens with it: his eyes were dim from seeing. It is the ordinary word for old eyes going, and that is what makes it worth following, because the Bible uses it twice more of old men, and once to say it did not happen.
+
+**Narrator** *(calm)* The second old man is Eli, at Shiloh, two episodes from now: his eyes had begun to grow dim, the same word, so that he could not see. The third is in the book of Job, where Job says his eye has grown dim from grief, the same word used of sorrow instead of years. And the one denial is Moses. Deuteronomy says that at a hundred and twenty his eye was not dim, this exact word with a not in front of it, and his strength had not left him. The Bible knows the difference between an old man whose eyes went and an old man whose eyes did not, and it uses one word for both. Isaac is the first in the chain who simply grew old. Zedekiah's blindness was done to him. Isaac's came the way it comes to most people, and the chapter never treats it as a judgment. It is just the fact the whole family built their plan around.
+
+*(pause 1.5 s)*
+
+---
+
+**Narrator** *(calm)* What came after. Esau swore to kill his brother once the mourning for their father was over. Rebekah heard of it and sent Jacob to her brother in Haran, telling Isaac it was to find a wife. And then Isaac did something the chapter we read does not prepare you for. He called Jacob in and blessed him again, this time knowing exactly who he was. Genesis chapter 28, verses 3 and 4.
+
+> **Reader** *(plainly)* May God Almighty bless you and make you fruitful and multiply you, so that you may become a company of peoples.
+
+> **Reader** *(plainly)* And may He give the blessing of Abraham to you and your descendants, so that you may possess the land where you dwell as a foreigner, the land God gave to Abraham.”
+
+**Narrator** *(calm)* The blessing of Abraham, given on purpose this time, to the son who had taken it by trick. Isaac could not see Jacob's face then either. He did not need to. He knew which one he was. Jacob was gone twenty years. When he came home he found his father still alive, at Hebron, and Genesis chapter 35 ends the story in two verses.
+
+> **Reader** *(plainly)* And Isaac lived 180 years.
+
+> **Reader** *(plainly)* Then he breathed his last and died and was gathered to his people, old and full of years. And his sons Esau and Jacob buried him.
+
+**Narrator** *(calm)* His sons Esau and Jacob. Both of them, together, at one grave. The man who did not know the day of his death lived another forty years without his sight, long enough for the brothers who had torn his house in half to stand side by side at his burial. Nothing in Genesis says his eyes came back. Nothing says he needed them to.
+
+*(pause 1.5 s)*
+
+**Narrator** *(calm)* Brian, with the last word.
+
+**Brian** *(calm)* DRAFT. The line I hold onto is the second blessing. He had been lied to in his own tent by his wife and his son, using his blindness to do it. And when the same son stood in front of him again, he blessed him anyway, knowing. I do not know that I could have. That is the part of this chapter that is not about eyes at all.
+
+*(pause 2.5 s)*
+
+---
+
+**Narrator** *(calm)* Next time, the son. Jacob, who stood in his father's tent in a goatskin, grows old in Egypt, and his own eyes go. Joseph brings two boys to him for a blessing, and the old man who once fooled a blind father reaches out, and crosses his hands. Jacob, and the blessing of Joseph's sons.
+
+---
+
+**Narrator** *(calm)* This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot com. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
+
+**Narrator** *(after a long pause)* For we walk by faith, not by sight.
