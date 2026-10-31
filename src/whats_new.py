@@ -13,6 +13,11 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-10-31", "Episode 11: The last thing he saw",
+     "The first episode of the new series on sight lost and not given back: Zedekiah, the last king in Jerusalem. "
+     "It opens with sound, what God made it to do and the sounds a blind man cannot unhear, and Brian tells for the "
+     "first time what the months of trying to save his eyes were like. It plays on the Zedekiah page and on the "
+     "Episodes page.", "stories/zedekiah.html"),
     ("2026-10-30", "From Brian on Ahijah, and the thread's last scene",
      "Brian's thoughts on the blind prophet and the disguised queen: feet that tell him nothing, the still eyes he "
      "shares with Eli, the recognition question of Genesis coming to its end, and Matthew Henry on the mind's eye. "

@@ -46,6 +46,11 @@ EPISODES = [
      "The last of four on the Law, and not about blind people at all: no blind animal may be offered to the LORD. "
      "Brian found it the hardest to read, because it seems to call blindness broken. Two Hebrew words, a market in "
      "the Temple and a prophet's test answer him, and the episode looks back over everything the Law said about the blind."),
+    (11, "The Last Thing He Saw", "2 Kings 25, Jeremiah 34 and 38, Ezekiel 12", ["zedekiah"],
+     "The first of six on sight lost and not given back. Zedekiah, the last king in Jerusalem, made to watch his sons "
+     "die and then blinded. The episode opens with sound, what God made it to do and the sounds a blind man cannot "
+     "unhear, then follows the frightened king who kept sending for Jeremiah in secret, the night escape, Riblah told "
+     "only as the text tells it, the road to Babylon, and the one promise he did not have to earn."),
 ]
 
 # The trailer: a short taste of the episodes, on the home page and at the top of the Episodes page.

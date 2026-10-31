@@ -335,6 +335,8 @@ STORIES = [
     {
         "slug": "zedekiah", "title": "Zedekiah, the last king of Judah", "who": "Zedekiah", "group": "not_restored",
         "outcome": "not_restored",
+        "listen": {"youtube": "Xhx44nR_OLM", "mp3": "not_by_sight_11_the_last_thing_he_saw.mp3", "minutes": 25,
+                   "title": "Not By Sight, Episode 11: The Last Thing He Saw"},
         "passages": [("2 Kings", 25, 1, 7), ("Jeremiah", 39, 4, 7), ("Jeremiah", 52, 8, 11)],
         "senses": "There is no cross-checking of senses in this story, because Zedekiah was not blind until the end "
                   "of it. What the text does instead is arrange what he saw and heard in a deliberate order. He saw "
