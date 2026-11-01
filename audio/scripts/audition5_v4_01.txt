@@ -1,0 +1,38 @@
+@project: audition5_v4
+@section: 1
+@cast: casts/audition5_v4.json
+@defaults: takes=1 keep=pick model=eleven_v4
+@continuity: off
+
+# Fifth audition: the new characters on eleven_v4, each on their own lines.
+
+# ISAAC: Alexandr Vlasov, Russian (picked by Brian, 1 November 2026, fourth audition)
+[ISAAC] (old, careful) Here I am. Which one are you, my son?
+[ISAAC] (old, bewildered) Who are you?
+
+# JACOB: Mekawy, Middle Eastern (picked by Brian, 1 November 2026, fourth audition)
+[JACOB] (quietly) My father.
+
+# ESAU: Panos, Greek (picked by Brian, 1 November 2026, fourth audition)
+[ESAU] (warmly) My father.
+
+# ISRAEL: Nafees, light Arabic (picked by Brian, 1 November 2026, fourth audition)
+[ISRAEL] (old, careful) Who are these?
+[ISRAEL] (old, unhurried) I know, my son. I know.
+
+# JOSEPH: Ali, Levantine (picked by Brian, 1 November 2026, fourth audition)
+[JOSEPH] (low, firm) Not so, my father. This one is the firstborn. Put your right hand on his head.
+
+# ELI: James, North-eastern English (picked by Brian, 1 November 2026, fourth audition)
+[ELI] (old, slow, waking to it) Go and lie down. And if He calls you, say, Speak, LORD, for Your servant is listening.
+[ELI] (old, loud, to anyone) Why this commotion?
+
+# SAMUEL: Great-Grandpa Georg (picked by Brian, 1 November 2026, fourth audition)
+[SAMUEL] (a boy, out of breath) Here I am, for you called me.
+
+# AHIJAH: Ersan, old Turkish (picked by Brian, 1 November 2026, fourth audition)
+[AHIJAH] (old, not loud, certain) Come in, wife of Jeroboam. Why are you disguised?
+[AHIJAH] (old, not unkind) Come in, wife of Jeroboam. Why are you disguised? For I have been sent to you with bad news.
+
+# SAMSON: Shreif, deep and calm (picked by Brian, 1 November 2026, fourth audition)
+[SAMSON] (low, to the boy, steady) Lead me where I can feel the pillars supporting the temple, so I can lean against them.

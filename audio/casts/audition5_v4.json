@@ -1,0 +1,78 @@
+{
+  "cast_name": "audition5_v4",
+  "defaults": {
+    "model": "eleven_v4",
+    "stability": 0.6,
+    "similarity_boost": 0.75,
+    "style": 0.0,
+    "speed": 1.0,
+    "use_speaker_boost": true,
+    "output_format": "mp3_44100_192",
+    "takes": 1
+  },
+  "characters": {
+    "ISAAC": {
+      "name": "Isaac",
+      "voice_id": "txnCCHHGKmYIwrn7HfHQ",
+      "description": "Isaac at a hundred and thirty-seven, blind, in his tent at Beersheba (episode 12). Weak in body, clear in mind; asks who is there and has them come close.",
+      "stability": 0.6,
+      "_voice": "Alexandr Vlasov, Russian (picked by Brian, 1 November 2026, fourth audition)"
+    },
+    "JACOB": {
+      "name": "Jacob",
+      "voice_id": "uEs4hyGRdNLLJMFsxCkz",
+      "description": "Jacob as a grown man in his father's tent (episode 12), saying he is Esau. Steady on purpose.",
+      "stability": 0.55,
+      "_voice": "Mekawy, Middle Eastern (picked by Brian, 1 November 2026, fourth audition)"
+    },
+    "ESAU": {
+      "name": "Esau",
+      "voice_id": "z3zYFzY2KtTTLjvOecBO",
+      "description": "Esau the hunter, back from the field (episode 12). Bigger and rougher than Jacob.",
+      "stability": 0.5,
+      "_voice": "Panos, Greek (picked by Brian, 1 November 2026, fourth audition)"
+    },
+    "ISRAEL": {
+      "name": "Israel, Jacob grown old",
+      "voice_id": "puDRtQWF8NtQiPMJygTb",
+      "description": "Jacob at a hundred and forty-seven, dying in Goshen (episode 13), called Israel in the chapter. Old, careful, knows what he is doing.",
+      "stability": 0.65,
+      "_voice": "Nafees, light Arabic (picked by Brian, 1 November 2026, fourth audition)"
+    },
+    "JOSEPH": {
+      "name": "Joseph",
+      "voice_id": "JUSQMx5M1jCmDyepTElG",
+      "description": "Joseph, second man in Egypt, in his fifties (episode 13), correcting his father gently.",
+      "stability": 0.55,
+      "_voice": "Ali, Levantine (picked by Brian, 1 November 2026, fourth audition)"
+    },
+    "ELI": {
+      "name": "Eli",
+      "voice_id": "JbFfo12yyR6B9R6hoMPM",
+      "description": "Eli at ninety-eight, priest and judge at Shiloh (episode 14). Heavy, warm toward the boy.",
+      "stability": 0.65,
+      "_voice": "James, North-eastern English (picked by Brian, 1 November 2026, fourth audition)"
+    },
+    "SAMUEL": {
+      "name": "Samuel, a boy",
+      "voice_id": "LRpNiUBlcqgIsKUzcrlN",
+      "description": "Samuel at about twelve, woken in the night (episode 14). Brian's note: may need an unusual cue, excited or drowsy, to lift the voice.",
+      "stability": 0.5,
+      "_voice": "Great-Grandpa Georg (picked by Brian, 1 November 2026, fourth audition)"
+    },
+    "AHIJAH": {
+      "name": "Ahijah",
+      "voice_id": "jSLgazTuNHl5kcEiiHgd",
+      "description": "Ahijah the prophet at Shiloh, very old, eyes set (episode 15). Knows who is at the door before she speaks.",
+      "stability": 0.65,
+      "_voice": "Ersan, old Turkish (picked by Brian, 1 November 2026, fourth audition)"
+    },
+    "SAMSON": {
+      "name": "Samson",
+      "voice_id": "C5DUoxdM3kV00iwaR3sK",
+      "description": "Samson blind at Gaza, between the pillars (episode 16). A strong man broken, low and tired, never shouting.",
+      "stability": 0.55,
+      "_voice": "Shreif, deep and calm (picked by Brian, 1 November 2026, fourth audition)"
+    }
+  }
+}

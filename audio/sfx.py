@@ -48,10 +48,12 @@ def credits_used(k: str) -> int | None:
         return None
 
 
-def generate(k: str, prompt: str, seconds: float, influence: float, loop: bool) -> bytes:
+def generate(k: str, prompt: str, seconds: float, influence: float, loop: bool, model: str | None = None) -> bytes:
     body = {"text": prompt, "duration_seconds": seconds, "prompt_influence": influence}
     if loop:
         body["loop"] = True
+    if model:
+        body["model_id"] = model  # eleven_text_to_sound_v2 (the API default) or eleven_text_to_sound_v3
     req = urllib.request.Request(API, data=json.dumps(body).encode("utf-8"), method="POST",
                                  headers={"xi-api-key": k, "Content-Type": "application/json",
                                           "Accept": "audio/mpeg"})
@@ -69,23 +71,25 @@ def generate(k: str, prompt: str, seconds: float, influence: float, loop: bool) 
 
 
 def collect(k: str, slug: str, prompt: str, seconds: float, variants: int, influence: float, loop: bool,
-            dry: bool) -> None:
+            dry: bool, model: str | None = None) -> None:
     out = SFX / slug
     out.mkdir(parents=True, exist_ok=True)
     man_path = out / "manifest.json"
     man = json.loads(man_path.read_text(encoding="utf-8")) if man_path.exists() else {"slug": slug, "takes": []}
     start = len(man["takes"]) + 1
     print(f"{slug}: {variants} variant(s) x {seconds}s, influence {influence}{', loop' if loop else ''}"
+          f"{' model ' + model if model else ''}"
           f"{' (dry run)' if dry else ''}")
     if dry:
         return
     before = credits_used(k)
     for n in range(start, start + variants):
-        data = generate(k, prompt, seconds, influence, loop)
+        data = generate(k, prompt, seconds, influence, loop, model)
         f = out / f"{Path(slug).name}_v{n}.mp3"
         f.write_bytes(data)
         man["takes"].append({"file": f.name, "prompt": prompt, "seconds": seconds, "influence": influence,
-                             "loop": loop, "bytes": len(data), "made": dt.datetime.now().isoformat(timespec="seconds")})
+                             "loop": loop, "model": model or "eleven_text_to_sound_v2",
+                             "bytes": len(data), "made": dt.datetime.now().isoformat(timespec="seconds")})
         man_path.write_text(json.dumps(man, indent=2), encoding="utf-8")
         print(f"  saved {f.name} ({len(data) / 1000:.0f} KB)")
         time.sleep(1.0)
@@ -112,6 +116,7 @@ def main() -> None:
     ap.add_argument("--loop", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--batch", help="JSON list of requests")
+    ap.add_argument("--model", default=None, help="eleven_text_to_sound_v2 (default) or eleven_text_to_sound_v3; a batch item may set its own 'model'")
     ap.add_argument("--list", action="store_true")
     a = ap.parse_args()
     if a.list:
@@ -121,13 +126,13 @@ def main() -> None:
     if a.batch:
         for j in json.loads(Path(a.batch).read_text(encoding="utf-8")):
             jobs.append((j["slug"], j["prompt"], float(j.get("seconds", 12)), int(j.get("variants", 4)),
-                         float(j.get("influence", 0.4)), bool(j.get("loop", False))))
+                         float(j.get("influence", 0.4)), bool(j.get("loop", False)), j.get("model") or a.model))
     elif a.slug and a.prompt:
-        jobs.append((a.slug, a.prompt, a.seconds, a.variants, a.influence, a.loop))
+        jobs.append((a.slug, a.prompt, a.seconds, a.variants, a.influence, a.loop, a.model))
     else:
         ap.error("give a slug and a prompt, or --batch, or --list")
-    for slug, prompt, seconds, variants, influence, loop in jobs:
-        collect(k, slug, prompt, min(max(seconds, 0.5), 22.0), variants, influence, loop, a.dry_run)
+    for slug, prompt, seconds, variants, influence, loop, model in jobs:
+        collect(k, slug, prompt, min(max(seconds, 0.5), 22.0), variants, influence, loop, a.dry_run, model)
 
 
 if __name__ == "__main__":
