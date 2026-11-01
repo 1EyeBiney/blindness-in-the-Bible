@@ -1,0 +1,183 @@
+# Not By Sight, episode 14: The voice in the night
+
+Script for reading, draft 1 (31 October 2026, drafted against the series template; the first of the two old men of Shiloh). Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Scene voices: Eli (an old man, heavy), Samuel (a boy, two lines). Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix. The title is provisional; "Eli at Shiloh" is the page's.
+
+*(SFX, required: night inside a stone building. One oil lamp burning, almost nothing else. Then a boy's bare feet, running on stone, coming closer fast, and stopping. Four seconds alone, then under the next line.)*
+
+**Narrator** *(calm)* Imagine the house of the LORD at Shiloh, in the middle of the night, a long time ago. The old priest in the bed cannot see. A boy has just run to his bedside for the third time.
+
+*(pause 1.0 s)*
+
+**Samuel** *(a boy, out of breath)* Here I am, for you called me.
+
+*(pause 2.0 s)*
+
+**Eli** *(old, slow, waking to it)* Go and lie down. And if He calls you, say, Speak, LORD, for Your servant is listening.
+
+*(pause 2.0 s)*
+
+**Narrator** *(calm)* He did not call. He knows he did not call. And the boy is sure someone did, three times now, in a voice the boy takes for his. Here is Brian, by way of Mister Scaredy Cat, on what a blind man hears in that.
+
+**Brian** *(calm)* DRAFT. A blind man keeps a very short list of the voices that can be in his house, and he knows whether each one is in the room or not. So when someone insists he said a thing he did not say, he does not doubt himself for long. He starts asking who else is here. That is what Eli did. The boy could hear, and could see, and still got it wrong three times, because the voice was one he had never heard. The old man could do neither, and he was the one who worked out whose it was. He did not hear it. He knew it. That is a different thing, and it is the thing this episode is about.
+
+*(pause 1.5 s)*
+
+**Narrator** *(calm)* This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for blind believers, their families, and the church. The Scripture you will hear is the Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. And when we imagine a scene, we will tell you so.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* This episode is part of our series on sight lost and not given back: six people in the Bible who lost their sight and lived the rest of their lives without it. We tell them in three pairs. Two men blinded by their enemies, Zedekiah and Samson. A father and a son, Isaac and Jacob. Two old men of Shiloh, Eli and Ahijah. Every episode begins with sounds, and with what a blind man hears in them. Along the way we follow the Hebrew words the Bible uses for eyes that fail, one word handing on to the next. When we imagine a scene, we will tell you so. Everything else is from the text, from the old books read in their own voice, and from Brian.
+
+---
+
+**Narrator** *(calm)* First, where we are. Eli was the priest at Shiloh, where the tabernacle had stood since Joshua set it up, and he judged Israel for forty years. The first time we meet him he is sitting on his chair by the doorpost of the house of the LORD, watching a woman's mouth move without a sound, and he decides she is drunk. She is Hannah, and she is praying for a son, and the son is Samuel. That is a sighted man's mistake, and it is worth noticing, because by the chapter we are reading his sight has gone. His own two sons, Hophni and Phinehas, are priests under him and they are wicked men. He hears about it, the text says so, he speaks to them, and they do not listen, and a man of God comes to tell him that both of them will die on the same day. Samuel is a boy, given to the house of the LORD by his mother and growing up in it. Josephus says he was twelve. And the word of the LORD, the text says, was rare in those days.
+
+**Narrator** *(calm)* Where this is. Stand at Shiloh, in the hill country of Ephraim, and face north, with north at twelve o'clock. Shiloh is the first place in this series where we will stand twice, because the next episode happens here too, about a hundred and seventy years later. Bethel is about half a day's walk behind you at seven o'clock. The hill of Jerusalem, which is still a Jebusite town and not yet David's, is a day's walk at six o'clock. And at nine o'clock, a day's walk west toward the coast, is Aphek, where the Philistine army is camped, and across from it a place called Ebenezer, where Israel's army is. Keep nine o'clock in mind. That is the direction the runner comes from.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* First Samuel chapter 3, verses 1 to 10.
+
+> **Reader** *(plainly)* And the boy Samuel ministered to the LORD before Eli. Now in those days the word of the LORD was rare, and visions were scarce.
+
+> **Reader** *(plainly)* And at that time Eli, whose eyesight had grown so dim that he could not see, was lying in his room.
+
+> **Reader** *(plainly)* Before the lamp of God had gone out, Samuel was lying down in the temple of the LORD, where the ark of God was located.
+
+> **Reader** *(plainly)* Then the LORD called to Samuel, and he answered, “Here I am.”
+
+> **Reader** *(plainly)* He ran to Eli and said, “Here I am, for you have called me.” “I did not call,” Eli replied. “Go back and lie down.” So he went and lay down.
+
+> **Reader** *(plainly)* Once again the LORD called, “Samuel!” So Samuel got up, went to Eli, and said, “Here I am, for you have called me.” “My son, I did not call,” Eli replied. “Go back and lie down.”
+
+> **Reader** *(plainly)* Now Samuel did not yet know the LORD, because the word of the LORD had not yet been revealed to him.
+
+> **Reader** *(plainly)* Once again, for the third time, the LORD called to Samuel. He got up, went to Eli, and said, “Here I am, for you have called me.” Then Eli realized that it was the LORD who was calling the boy.
+
+> **Reader** *(plainly)* “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+> **Reader** *(plainly)* Then the LORD came and stood there, calling as before, “Samuel! Samuel!” And Samuel answered, “Speak, for Your servant is listening.”
+
+*(pause 1.5 s)*
+
+**Narrator** *(calm)* Before the lamp of God had gone out. That is a clock. The lamp in the holy place was lit at evening and burned until morning, so this is the small hours, the lamp low but not out. Three people are in the house that night. The boy, who can see the lamp. The LORD, who is calling. And an old man in a dark room who cannot see the lamp or anything else, and who, on the third run of small feet, is the one who understands. The text does not say he heard the voice. It says he realized. He put together a boy who was certain, a house where no one else was, and a God who had been silent a long time, and he got there without his eyes and without his ears. Then he did the thing that makes him worth an episode. He did not go himself. He told the boy how to answer. Verses 11 to 18.
+
+> **Reader** *(plainly)* Then the LORD said to Samuel, “I am about to do something in Israel at which the ears of all who hear it will tingle.
+
+> **Reader** *(plainly)* On that day I will carry out against Eli everything I have spoken about his house, from beginning to end.
+
+> **Reader** *(plainly)* I told him that I would judge his house forever for the iniquity of which he knows, because his sons blasphemed God and he did not restrain them.
+
+> **Reader** *(plainly)* Therefore I have sworn to the house of Eli, ‘The iniquity of Eli’s house shall never be atoned for by sacrifice or offering.’”
+
+> **Reader** *(plainly)* Samuel lay down until the morning; then he opened the doors of the house of the LORD. He was afraid to tell Eli the vision,
+
+> **Reader** *(plainly)* but Eli called to him and said, “Samuel, my son.” “Here I am,” answered Samuel.
+
+> **Reader** *(plainly)* “What was the message He gave you?” Eli asked. “Do not hide it from me. May God punish you, and ever so severely, if you hide from me anything He said to you.”
+
+> **Reader** *(plainly)* So Samuel told him everything and did not hide a thing from him. “He is the LORD,” replied Eli. “Let Him do what is good in His eyes.”
+
+*(pause 1.5 s)*
+
+**Narrator** *(calm)* Do not hide it from me. A blind man said that, to a boy who had just opened the doors on a morning he could not see, and who was keeping something back. Eli could not read the boy's face. He could hear the silence, and he knew what silence from a child who is usually full of words means. So he made him say all of it, under oath, knowing it would be about his own house. And when he had heard the worst, he handed it back. He is the LORD. Let Him do what is good in His eyes. In His eyes. The old man whose own had gone said that.
+
+---
+
+**Narrator** *(calm)* The word came true some years later, in one day, and the text puts Eli in a chair for it. Now imagine the gate at Shiloh on that afternoon. The text gives the frame: a man ran from the battle line all the way to Shiloh, and when he arrived, there was Eli, sitting on his chair beside the road.
+
+*(pause 1.0 s)*
+
+*(SFX, required: a town on a hill in the afternoon. Wind, a few voices at a distance, a dog. Then, very far off, one man running on a dirt road, getting closer. Then, all at once, a whole town crying out. Under the next lines.)*
+
+**Narrator** *(calm)* He is ninety-eight. He has had himself carried to the gate and set down by the road, on the side the runner would come from, because the ark has gone out to the battle and his heart is trembling for it. He cannot see the road. What he can do is listen to it, and a road tells a blind man a great deal. All afternoon it has said nothing. Then it says one man, running, from nine o'clock, and running is never good news. The feet go past him into the town. There is a pause. And then the whole town cries out at once, and the old man by the road is the only person in Shiloh who does not know why.
+
+**Eli** *(old, loud, to anyone)* Why this commotion?
+
+*(pause 2.0 s)*
+
+**Narrator** *(calm)* He has to ask. Everyone around him can see the runner's torn clothes and the dirt on his head and already knows. He heard it all arrive, in order, before any of them did, and he is told last. First Samuel chapter 4, verses 12 to 18.
+
+> **Reader** *(plainly)* That same day a Benjamite ran from the battle line all the way to Shiloh, with his clothes torn and dirt on his head.
+
+> **Reader** *(plainly)* When he arrived, there was Eli, sitting on his chair beside the road and watching, because his heart trembled for the ark of God. When the man entered the city to give a report, the whole city cried out.
+
+> **Reader** *(plainly)* Eli heard the outcry and asked, “Why this commotion?” So the man hurried over and reported to Eli.
+
+> **Reader** *(plainly)* Now Eli was ninety-eight years old, and his gaze was fixed because he could not see.
+
+> **Reader** *(plainly)* “I have just come from the battle,” the man said to Eli. “I fled from there today.” “What happened, my son?” Eli asked.
+
+> **Reader** *(plainly)* The messenger answered, “Israel has fled before the Philistines, and there has been a great slaughter among the people. Your two sons, Hophni and Phinehas, are both dead, and the ark of God has been captured.”
+
+> **Reader** *(plainly)* As soon as the ark of God was mentioned, Eli fell backward from his chair by the city gate, and being old and heavy, he broke his neck and died. And Eli had judged Israel forty years.
+
+*(pause 2.0 s)*
+
+**Narrator** *(calm)* Sitting beside the road and watching. The text says watching, of a man it says in the next breath could not see. He was watching the only way left to him, and the runner gave him the news in the order a soldier would: the army, the people, the sons, the ark. Three of those he had been told about years before, in the night, by a boy. He took all three. It was the fourth that killed him. Not his sons. The ark.
+
+---
+
+**Narrator** *(calm)* Brian, what do you hear in this one?
+
+*(SFX, if you can: the lamp and the night from the opening, very quietly under his first line)*
+
+**Brian** *(calm)* Eli is the one in this series I would least like to be. Not because of how he went blind, which was slowly, with age, the way most people do. Because of the last scene. He is ninety-eight, he cannot see, and he is sitting in a chair by the road waiting for news that everyone around him will get before he does. The text says his heart trembled for the ark. He could do nothing about the battle, nothing about his sons, nothing but sit there and listen for it.
+
+**Brian** *(calm)* That is the part of blindness that nobody warns you about: the patience you have to have whether you want it or not. Sighted people choose when to be patient. A blind person waits for the ride, waits for the person who said they would read the letter, waits to be told what everybody else in the room already knows. The city cried out before anyone told Eli why, and he had to ask. Why this commotion? I have asked that question, in those words or near enough, more times than I can count. Something has happened, the room knows it, and you are the last to be told, and usually the telling is the gentle version. Eli got the straight version, and the last thing in it was the ark.
+
+**Brian** *(calm)* The frustration is not the waiting itself. It is not being able to do anything with what you hear. Eli had heard for years what his sons were doing. The text says so: I hear about your wicked deeds from all these people. He spoke to them and they would not listen, and the man of God came, and then the boy came in the night with the same word again. A blind man hears a great deal he cannot act on. I know the sound of a problem starting long before I can get to it, and getting to it is the whole difficulty.
+
+**Brian** *(calm)* There are all kinds of things I hear that people think I do not. Usually it is when a person does not want to share. My wife Barb has a disability of her own, and it puts limits on a heart that was made for serving people. Some nights I hear her crying softly behind a door in another room, over what she can no longer do for others. Jimmy, who lives with us, spent years doing God's work and should be enjoying a peaceful retirement. Instead he has a job that wears his body down, and when he thinks the house is asleep I hear the muffled grunts of a tired man in pain. Neither of them is telling me. I hear it anyway. A sighted person can look away from something and believe it has not been seen. There is no looking away from a sound. So you carry what you heard, and you decide whether to say so, and that is its own kind of patience.
+
+**Brian** *(calm)* What I want to hold onto from Eli is the night, not the gate. His eyes had gone dim and the word of the LORD was rare, and when the voice came it was the blind old priest, not the sighted boy, who knew what it was and told Samuel how to answer. In the morning he made the boy tell him all of it, though it was a judgment on his own house, and he did not argue with it. He is the LORD, he said. Let Him do what is good in His eyes.
+
+*(pause 2.0 s)*
+
+---
+
+**Narrator** *(calm)* Now the old books. Matthew Henry is hard on Eli, harder than the text is. He reads the dim eyes of chapter 3 as a judgment, an affliction that came justly on him, he says, for winking at his sons' faults. The text does not say that. It says his eyes had grown dim, the ordinary way, and leaves it there, and we leave it there too. But Henry read the gate scene with care, and he noticed what Brian noticed, that the old man was listening to the town.
+
+**Henry** *(calm)* Though he could not see, he could hear the tumult and crying of the city, and perceived it to be the voice of lamentation, and mourning, and woe; like a careful magistrate, he asks, What means the noise of this tumult?
+
+**Narrator** *(calm)* And he noticed where the blow landed. Eli does not interrupt the messenger with any lament for his sons, Henry says. There is a greater concern on his spirit, which swallows up the less. On the night scene, Henry has one phrase for Eli's answer to the boy that is worth keeping. He composes himself, Henry writes, into a humble resignation to God's will, like Aaron, who held his peace. It is the Lord. From whose bar there lies no appeal. Henry heard submission in it. Brian hears something a little different, and he will say what at the end.
+
+*(pause 1.5 s)*
+
+---
+
+**Narrator** *(calm)* Now the word. Each of these six stories has its own word for eyes that fail, and they make a chain. Zedekiah's was "ah-VAR," blinded. Isaac's was "kah-HAH," grown dim. Jacob's was "kah-VED," grown heavy. Eli gets two, one at each end of his story, and the first is Isaac's again. Chapter 3 says his eyes had begun to be "kay-HEH," dim, the same root as Isaac's, in the form that describes the eye rather than what happened to it. It is a rare little word, nine times in the Bible, and most of them are in Leviticus, for a spot on the skin that is fading. But one of the others is in Isaiah, and it is the one to remember. A bruised reed He will not break, Isaiah says, and a smouldering wick He will not put out. Smouldering is this word. A dim wick. In a chapter that opens with a lamp not yet gone out and an old man whose eyes had, the Bible's word for his eyes is the word for a wick the LORD does not put out.
+
+**Narrator** *(calm)* The second word comes at the gate, and it hands on to the next episode. Chapter 4 says Eli was ninety-eight and his eyes "KOOM," stood. The translations give you fixed, or set, or dim, because it is an odd thing to say of eyes. It is the plainest verb in Hebrew, to rise, to stand up, to stand still, used hundreds of times for people getting to their feet. Here it is eyes that have stood still. Eyes that have stopped moving. It is the one description of blindness in this series written from the outside, what a person saw when they looked at the old man's face, and it is used of exactly one other man in the Bible: the other old man of Shiloh, next time.
+
+*(pause 1.5 s)*
+
+---
+
+**Narrator** *(calm)* What came after. The same hour, Eli's daughter-in-law went into labour at the news and named the child Ichabod, the glory has departed, because the ark had been taken. The ark never came back to Shiloh. The Philistines carried it off, and when they could not bear to keep it they sent it elsewhere, and the town on the hill went quiet. Centuries later Jeremiah would tell Jerusalem, go to Shiloh and see what I did to it. The gate where Eli sat is the last thing the Bible shows happening there, except for one. The next episode. But the night came to something too, and the chapter tells you what before it gets to the gate. First Samuel chapter 3, verses 19 to 21.
+
+> **Reader** *(plainly)* And Samuel grew, and the LORD was with him, and He let none of Samuel’s words fall to the ground.
+
+> **Reader** *(plainly)* So all Israel from Dan to Beersheba knew that Samuel was confirmed as a prophet of the LORD.
+
+> **Reader** *(plainly)* And the LORD continued to appear at Shiloh, because there He revealed Himself to Samuel by His word.
+
+**Narrator** *(calm)* The word of the LORD was rare, the chapter began. By the end of it the LORD continued to appear at Shiloh, and the man who opened that door was not the prophet. It was the blind priest who told a frightened boy what to say. Everything the LORD said to Israel through Samuel for the rest of his long life went through a sentence Eli taught him in the dark. Speak, LORD, for Your servant is listening. The old man's house ended. The thing he said in the night did not.
+
+*(pause 1.5 s)*
+
+**Narrator** *(calm)* Brian, with the last word.
+
+**Brian** *(calm)* DRAFT. I have sat with Eli's answer for a while. He could not change what was coming. He did not pretend he could, and he did not pretend it was not coming either. He heard the worst said plainly and handed it back to God. There is a patience that sits by the road because it has no choice, and I know that one well. There is another that hears everything, carries it, and still says He is the LORD. That is the one I am still learning, and it is the one I want from this story.
+
+*(pause 2.5 s)*
+
+---
+
+**Narrator** *(calm)* Next time, the same town, about a hundred and seventy years on. A woman walks from Tirzah to Shiloh dressed as someone she is not, carrying bread and honey, counting on no one knowing her face. The old man in the house she is walking to has no use for her face. He hears her feet at the door and says her name. Ahijah, and the disguised queen.
+
+---
+
+**Narrator** *(calm)* This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot com. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
+
+**Narrator** *(after a long pause)* For we walk by faith, not by sight.
