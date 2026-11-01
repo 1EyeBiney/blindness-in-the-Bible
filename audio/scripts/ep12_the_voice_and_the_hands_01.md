@@ -1,6 +1,6 @@
 # Not By Sight, episode 12: The voice and the hands
 
-Script for reading, draft 1. Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Scene voices: Isaac (an old man; the same voice serves Jacob in episode 13), Jacob (young, three lines), Esau (one line). Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix. The title is provisional; "Isaac and the stolen blessing" is the page's.
+Script for reading, draft 2 (31 October 2026: the Hittite wives explained, Moriah and the family's trust brought in, Hebrews 11:20 added before the second blessing, the two trust paragraphs rewritten). Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Scene voices: Isaac (an old man; the same voice serves Jacob in episode 13), Jacob (young, three lines), Esau (one line). Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix. The title is provisional; "Isaac and the stolen blessing" is the page's.
 
 *(SFX, required: a tent at evening. Goats settling, a small fire, a breeze on cloth. Four seconds alone, then under the next line.)*
 
@@ -30,7 +30,7 @@ Script for reading, draft 1. Speaker names in bold, cues in italics, Scripture i
 
 ---
 
-**Narrator** *(calm)* First, where we are. Isaac is the son Abraham and Sarah waited twenty-five years for, the boy bound on the altar and spared. He married Rebekah at forty, and waited twenty more years for the twins. Before they were born, Rebekah was told that the older would serve the younger. Esau came out first, red and hairy, and grew into a hunter and his father's favourite. Jacob came out holding his heel, stayed among the tents, and was his mother's. One day Esau came in from the field famished and sold his birthright to Jacob for a bowl of stew. By the chapter we are reading, Isaac is past a hundred, Esau is married to two Hittite women who are a grief to both parents, and Isaac's eyes have failed.
+**Narrator** *(calm)* First, where we are. Isaac is the son Abraham and Sarah waited twenty-five years for, the boy who carried the wood up Mount Moriah, asked his father where the lamb was, and heard him answer that God Himself would provide it. He was bound on the altar and spared. He learned trust in the Lord from underneath the knife, and he would need it. He married Rebekah at forty, and waited twenty more years for the twins. Before they were born, Rebekah was told that the older would serve the younger. Esau came out first, red and hairy, and grew into a hunter and his father's favourite. Jacob came out holding his heel, stayed among the tents, and was his mother's. One day Esau came in from the field famished and sold his birthright to Jacob for a bowl of stew. By the chapter we are reading, Isaac is past a hundred, Esau is married to two Hittite women, and Genesis says they brought grief to Isaac and Rebekah. It does not say how, but it does not need to. Abraham had made his servant swear that Isaac would not marry a daughter of Canaan, and Esau, at forty, married two of them and did not care. And Isaac's eyes have failed.
 
 **Narrator** *(calm)* Where this is. Stand at Beersheba, at the southern edge of the settled land, where Isaac had reopened his father's wells and named the place, and face north, with north at twelve o'clock. This was his country for decades, and Genesis does not say the tent was anywhere else. Hebron, where he would die and be buried with Abraham, is about a day's walk at one o'clock. Jerusalem is about two days further on the same line. And far beyond it, at the top of the map, is Haran, the city Rebekah came from, about a month's walk for the son who is going to have to run there. Keep Beersheba and Haran in mind. The whole chapter happens in one tent, and it ends with a road.
 
@@ -154,7 +154,7 @@ Script for reading, draft 1. Speaker names in bold, cues in italics, Scripture i
 
 *(SFX, if you can: the tent at evening, from the opening, very quietly under his first line)*
 
-**Brian** *(calm)* DRAFT. I hear trust. This chapter brings home the reality of the trust we place in the people around us, especially as the other senses start to fail. Isaac did everything right. He asked, he listened, he reached out, he smelled the clothes. And the people he trusted had prepared for every one of those.
+**Brian** *(calm)* DRAFT. I hear trust, and I hear it two ways. The first is the trust we place in the people around us, and it gets heavier as the senses go. Isaac did everything right. He asked, he listened, he reached out, he smelled the clothes. And the people he trusted had prepared for every one of those. The second is older. This is the man who had been the lamb. He was raised by a father who trusted the Lord with his own son, and he saw that trust answered with his own eyes. He prayed twenty years for his wife before the twins came. He had been told his whole life to trust the Lord, and mostly he had.
 
 **Brian** *(calm)* When I first read this, my thought was that Isaac's sense of touch must have failed along with his sight, because how else could goatskin pass for a man's hands? I have changed my mind, and the reason is my own hands. Mine sit in conditioned air all day on a keyboard. My wife Barb says they are soft as a baby's bottom. Isaac's were not. He had spent a hundred years outdoors among flocks and tents and wells, doing hard work for meagre provision. Hands like that do not feel fine detail the way mine do. Josephus says the twins differed only in their hairiness. Put a goatskin under a hand like Isaac's and it is not the stretch it sounds.
 
@@ -162,7 +162,7 @@ Script for reading, draft 1. Speaker names in bold, cues in italics, Scripture i
 
 **Brian** *(calm)* The detail that stays with me is Esau's voice. A few minutes earlier Isaac had picked out Jacob's voice through a disguise, so his hearing was fine. Yet when Esau walked in, Isaac asked, "Who are you?" Nothing was wrong with his ears. What had changed was what he expected. He had just blessed Esau and sent him out, so the man coming in could not be Esau. I call this context. My ears tell me a great deal, but what I expect to hear tells me almost as much, and when the two disagree, expectation often wins. It won twice in one hour for Isaac.
 
-**Brian** *(calm)* DRAFT. People ask me how I can trust anyone, living like this. The honest answer is that I have no choice, and neither did Isaac, and neither do you. You just do not notice, because your eyes let you pretend you checked. I check with everything I have, the way he did, and then I take the word of the person in the room. Most days that is enough. This chapter is the Bible's record of the day it was not, and I notice that the Bible does not blame the blind man for it.
+**Brian** *(calm)* DRAFT. People ask me how I can trust anyone, living like this. The honest answer is that I have no choice, and neither did Isaac, and neither do you. You just do not notice, because your eyes let you pretend you checked. I check with everything I have, the way he did, and then I take the word of the person in the room. Most days that is enough. This chapter is the Bible's record of the day it was not. And I notice two things. The Bible does not blame the blind man for it. And when the people he trusted failed him, Isaac fell back on the trust he learned on Moriah. He trembled, and then he said, he shall be blessed. He had been trying to give the blessing to the son he favoured, against the word the Lord had spoken to Rebekah and against everything Esau had done with his birthright and his marriages. When he understood, he did not fight for his own choice. He took the Lord's. That is the day the trust in people ran out, and the trust in God held.
 
 *(pause 2.0 s)*
 
@@ -190,7 +190,11 @@ Script for reading, draft 1. Speaker names in bold, cues in italics, Scripture i
 
 ---
 
-**Narrator** *(calm)* What came after. Esau swore to kill his brother once the mourning for their father was over. Rebekah heard of it and sent Jacob to her brother in Haran, telling Isaac it was to find a wife. And then Isaac did something the chapter we read does not prepare you for. He called Jacob in and blessed him again, this time knowing exactly who he was. Genesis chapter 28, verses 3 and 4.
+**Narrator** *(calm)* What came after. Esau swore to kill his brother once the mourning for their father was over. Rebekah heard of it and sent Jacob to her brother in Haran, telling Isaac it was to find a wife. And then Isaac did something the chapter we read does not prepare you for. He called Jacob in and blessed him again, this time knowing exactly who he was. The New Testament remembers that second blessing, and what it calls it. Hebrews chapter 11, verse 20.
+
+> **Reader** *(plainly)* By faith Isaac blessed Jacob and Esau concerning the future.
+
+**Narrator** *(calm)* By faith. Not by the hands this time, and not by the voice. Genesis chapter 28, verses 3 and 4.
 
 > **Reader** *(plainly)* May God Almighty bless you and make you fruitful and multiply you, so that you may become a company of peoples.
 
@@ -208,7 +212,7 @@ Script for reading, draft 1. Speaker names in bold, cues in italics, Scripture i
 
 **Narrator** *(calm)* Brian, with the last word.
 
-**Brian** *(calm)* DRAFT. The line I hold onto is the second blessing. He had been lied to in his own tent by his wife and his son, using his blindness to do it. And when the same son stood in front of him again, he blessed him anyway, knowing. I do not know that I could have. That is the part of this chapter that is not about eyes at all.
+**Brian** *(calm)* DRAFT. The line I hold onto is the second blessing. He had been lied to in his own tent by his wife and his son, using his blindness to do it. And when the same son stood in front of him again, he blessed him anyway, knowing, and Hebrews says he did it by faith. The blessing was never his to keep from Jacob. It was the Lord's, and the old man who had once been the lamb knew that better than anyone. I do not know that I could have done it. That is the part of this chapter that is not about eyes at all.
 
 *(pause 2.5 s)*
 
