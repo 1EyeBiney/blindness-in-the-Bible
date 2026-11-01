@@ -1,6 +1,6 @@
 # Not By Sight, episode 12: The voice and the hands
 
-Script for reading, draft 3 (31 October 2026: by faith, not by sight, set up through the episode and proved from Hebrews 11 at the close; Brian's paragraphs trimmed so the text carries it). Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Scene voices: Isaac (an old man; the same voice serves Jacob in episode 13), Jacob (young, three lines), Esau (one line). Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix. The title is provisional; "Isaac and the stolen blessing" is the page's.
+Script for reading, final edit 1 November 2026 (by faith, not by sight, set up through the episode and proved from Hebrews 11 at the close; Brian's paragraphs trimmed so the text carries it). Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Scene voices: Isaac (an old man), Jacob (young), Esau (one line). Brian's paragraphs are his own words, approved by him. The title is provisional; "Isaac and the stolen blessing" is the page's.
 
 *(SFX, required: a tent at evening. Goats settling, a small fire, a breeze on cloth. Four seconds alone, then under the next line.)*
 
@@ -16,9 +16,9 @@ Script for reading, draft 3 (31 October 2026: by faith, not by sight, set up thr
 
 *(pause 2.0 s)*
 
-**Narrator** *(calm)* Which one are you. He knows that voice. He has known it for more than sixty years. And it is in the wrong place. Here is Brian, by way of Mister Scaredy Cat, on what a blind man hears in that.
+**Narrator** *(calm)* Which one are you? He knows that voice. He has known it for more than sixty years. And it is in the wrong place. Here is Brian, by way of Mister Scaredy Cat, on what a blind man hears in that.
 
-**Brian** *(calm)* DRAFT. A familiar sound where it does not belong is a blind man's alarm. I can be anywhere in my house and know who is moving and roughly what they are doing, because I know what every sound means and where it comes from. The day something I know turns up where it should not be, I stop. Isaac stopped. He heard Jacob, in the hour he had set aside for Esau, and he asked. That question, which one are you, is the most honest sentence in the chapter. Everything that follows is the story of how a careful blind man was talked out of the one sense that was telling him the truth.
+**Brian** *(calm)* A familiar sound where it does not belong is a blind man's alarm. I can be anywhere in my house and know who is moving and roughly what they are doing, because I know what every sound means and where it comes from. The day something I know turns up where it should not be, I stop. Isaac stopped. He heard Jacob, in the hour he had set aside for Esau, and he asked. That question, which one are you, is the most honest sentence in the chapter. Everything that follows is the story of how a careful blind man was talked out of the one sense that was telling him the truth.
 
 *(pause 1.5 s)*
 
@@ -74,7 +74,7 @@ Script for reading, draft 3 (31 October 2026: by faith, not by sight, set up thr
 
 > **Reader** *(plainly)* Then she handed her son Jacob the tasty food and bread she had made.
 
-**Narrator** *(calm)* Notice who raises the problem of touch. Not Rebekah. Jacob. What if my father touches me. He knows his father is blind, and he knows what a blind man does instead of looking. So the goat kids are killed for two purposes: the meat for Isaac's tongue, the skins for his hands. The clothes are for his nose. Only his ears are left to him, and the plan has nothing for those. Now the tent. Verses 18 to 29.
+**Narrator** *(calm)* Notice who raises the problem of touch. Not Rebekah. Jacob. What if my father touches me? He knows his father is blind, and he knows what a blind man does instead of looking. So the goat kids are killed for two purposes: the meat for Isaac's tongue, the skins for his hands. The clothes are for his nose. Only his ears are left to him, and the plan has nothing for those. Now the tent. Verses 18 to 29.
 
 > **Reader** *(plainly)* So Jacob went to his father and said, “My father.” “Here I am!” he answered. “Which one are you, my son?”
 
@@ -102,7 +102,7 @@ Script for reading, draft 3 (31 October 2026: by faith, not by sight, set up thr
 
 *(pause 1.5 s)*
 
-**Narrator** *(calm)* Count what he did. He asked which son it was. He asked how the hunt could be over so soon. He asked to touch him. He said out loud that the voice was wrong. He asked a second time, are you really Esau. He ate. He called him close and kissed him, and only then, with the smell of Esau's clothes in his face, did he give the blessing. Four senses out of five reported Esau, and three of them had been dressed for the purpose. The one that had not been dressed was the one he overruled. And there was a witness he never called. The Lord had already said which of these two boys the line would run through. Isaac checked everything he could reach with his body, and nothing he would have had to take on faith.
+**Narrator** *(calm)* Count what he did. He asked which son it was. He asked how the hunt could be over so soon. He asked to touch him. He said out loud that the voice was wrong. He asked a second time: are you really Esau? He ate. He called him close and kissed him, and only then, with the smell of Esau's clothes in his face, did he give the blessing. Four senses out of five reported Esau, and three of them had been dressed for the purpose. The one that had not been dressed was the one he overruled. And there was a witness he never called. The Lord had already said which of these two boys the line would run through. Isaac checked everything he could reach with his body, and nothing he would have had to take on faith.
 
 ---
 
@@ -124,7 +124,7 @@ Script for reading, draft 3 (31 October 2026: by faith, not by sight, set up thr
 
 *(pause 2.0 s)*
 
-**Narrator** *(calm)* Who are you. The same two words he had just heard, in a different voice, and this time he does not know it. A few minutes earlier his ears had picked Jacob out through a disguise. Nothing has gone wrong with them since. What has changed is that he has just blessed Esau and sent him out, so whoever is at the door now cannot be Esau. That is the sound of a man's expectation overruling his ears for the second time in one hour, and it is the last thing he hears before the floor goes out from under him. Verses 30 to 38.
+**Narrator** *(calm)* Who are you? The same two words he had just heard, in a different voice, and this time he does not know it. A few minutes earlier his ears had picked Jacob out through a disguise. Nothing has gone wrong with them since. What has changed is that he has just blessed Esau and sent him out, so whoever is at the door now cannot be Esau. That is the sound of a man's expectation overruling his ears for the second time in one hour, and it is the last thing he hears before the floor goes out from under him. Verses 30 to 38.
 
 > **Reader** *(plainly)* As soon as Isaac had finished blessing him and Jacob had left his father’s presence, his brother Esau returned from the hunt.
 
@@ -154,7 +154,7 @@ Script for reading, draft 3 (31 October 2026: by faith, not by sight, set up thr
 
 *(SFX, if you can: the tent at evening, from the opening, very quietly under his first line)*
 
-**Brian** *(calm)* DRAFT. I hear trust, two kinds of it. The trust we place in the people around us, which gets heavier as the senses go. Isaac did everything right. He asked, he listened, he reached out, he smelled the clothes, and the people he trusted had prepared for every one of those. And an older trust. This is the man who had been the lamb on Moriah, who prayed twenty years for his wife. He had been told his whole life to trust the Lord, and mostly he had.
+**Brian** *(calm)* I hear trust, two kinds of it. The trust we place in the people around us, which gets heavier as the senses go. Isaac did everything right. He asked, he listened, he reached out, he smelled the clothes, and the people he trusted had prepared for every one of those. And an older trust. This is the man who had been the lamb on Moriah, who prayed twenty years for his wife. He had been told his whole life to trust the Lord, and mostly he had.
 
 **Brian** *(calm)* When I first read this, my thought was that Isaac's sense of touch must have failed along with his sight, because how else could goatskin pass for a man's hands? I have changed my mind, and the reason is my own hands. Mine sit in conditioned air all day on a keyboard. My wife Barb says they are soft as a baby's bottom. Isaac's were not. He had spent a hundred years outdoors among flocks and tents and wells, doing hard work for meagre provision. Hands like that do not feel fine detail the way mine do. Josephus says the twins differed only in their hairiness. Put a goatskin under a hand like Isaac's and it is not the stretch it sounds.
 
@@ -162,7 +162,7 @@ Script for reading, draft 3 (31 October 2026: by faith, not by sight, set up thr
 
 **Brian** *(calm)* The detail that stays with me is Esau's voice. A few minutes earlier Isaac had picked out Jacob's voice through a disguise, so his hearing was fine. Yet when Esau walked in, Isaac asked, "Who are you?" Nothing was wrong with his ears. What had changed was what he expected. He had just blessed Esau and sent him out, so the man coming in could not be Esau. I call this context. My ears tell me a great deal, but what I expect to hear tells me almost as much, and when the two disagree, expectation often wins. It won twice in one hour for Isaac.
 
-**Brian** *(calm)* DRAFT. People ask me how I can trust anyone, living like this. The honest answer is that I have no choice, and neither did Isaac, and neither do you. You just do not notice, because your eyes let you pretend you checked. I check with everything I have, the way he did, and then I take the word of the person in the room. Most days that is enough. This chapter is the Bible's record of the day it was not, and the Bible does not blame the blind man for it. When the people he trusted failed him, Isaac trembled, and then he said, he shall be blessed. He had been trying to give the blessing to the son he favoured, against the word spoken to Rebekah. When he understood, he took the Lord's choice over his own. Sight is the sense that lets a person believe he walked by sight. Every blind man knows he walks by something else. This chapter is about which something else.
+**Brian** *(calm)* People ask me how I can trust anyone, living like this. The honest answer is that I have no choice, and neither did Isaac, and neither do you. You just do not notice, because your eyes let you pretend you checked. I check with everything I have, the way he did, and then I take the word of the person in the room. Most days that is enough. This chapter is the Bible's record of the day it was not, and the Bible does not blame the blind man for it. When the people he trusted failed him, Isaac trembled, and then he said, he shall be blessed. He had been trying to give the blessing to the son he favoured, against the word spoken to Rebekah. When he understood, he took the Lord's choice over his own. Sight is the sense that lets a person believe he walked by sight. Every blind man knows he walks by something else. This chapter is about which something else.
 
 *(pause 2.0 s)*
 
@@ -214,7 +214,7 @@ Script for reading, draft 3 (31 October 2026: by faith, not by sight, set up thr
 
 **Narrator** *(calm)* Brian, with the last word.
 
-**Brian** *(calm)* The first time, Isaac checked everything he could. Hands, smell, taste, the food, the voice. He did all of that and still got it wrong, because the people he was checking had planned for every check. The second time he did not check anything. He could not. He knew who was standing there, and he knew what the Lord had said, and he blessed him on that. That is what trust looks like when sight is gone. You check what you can, and then you take what you are given, from the people in the room and from the Lord. Isaac found out that it is the best way to live, and the Bible calls it faith. And I think that applies to all of us. Regardless of what we see.
+**Brian** *(calm)* The first time, Isaac checked everything he could. Hands, smell, taste, the food, the voice. He did all of that and still got it wrong, because the people he was checking had planned for every check. The second time he did not check anything. He could not. He knew who was standing there, and he knew what the Lord had said, and he blessed him on that. That is what trust looks like when sight is gone. You check what you can, and then you take what you are given, from the people in the room and from the Lord. Isaac found out that it is the best way to live, and the Bible calls that faith. And I think that applies to all of us. Regardless of what we see.
 
 *(pause 2.5 s)*
 
