@@ -214,7 +214,7 @@ Script for reading, draft 3 (31 October 2026: by faith, not by sight, set up thr
 
 **Narrator** *(calm)* Brian, with the last word.
 
-**Brian** *(calm)* DRAFT. Two blessings. The first was by hands and voice, and it was a lie. The second was by faith, and it was true. He had been lied to in his own tent, using his blindness to do it, and when the same son stood in front of him again he blessed him knowing. He had no other way left to give it. Neither do I.
+**Brian** *(calm)* The first time, Isaac checked everything he could. Hands, smell, taste, the food, the voice. He did all of that and still got it wrong, because the people he was checking had planned for every check. The second time he did not check anything. He could not. He knew who was standing there, and he knew what the Lord had said, and he blessed him on that. That is what trust looks like when sight is gone. You check what you can, and then you take what you are given, from the people in the room and from the Lord. Isaac found out that it is the best way to live, and the Bible calls it faith. And I think that applies to all of us. Regardless of what we see.
 
 *(pause 2.5 s)*
 
