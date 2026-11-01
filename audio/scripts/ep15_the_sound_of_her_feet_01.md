@@ -30,13 +30,17 @@ Script for reading, draft 1 (31 October 2026, drafted against the series templat
 
 ---
 
-**Narrator** *(calm)* First, where we are. Solomon is dead and the kingdom has split in two. Years before that, when Jeroboam was only one of Solomon's officers, a prophet from Shiloh named Ahijah met him alone on the road out of Jerusalem, took hold of the new cloak he was wearing, and tore it into twelve pieces. First Kings chapter 11, verses 30 and 31.
+**Narrator** *(calm)* First, where we are. Solomon is dead and the kingdom has split in two. Years before that, when Jeroboam was only one of Solomon's officers, a prophet from Shiloh named Ahijah met him alone on the road out of Jerusalem, took hold of the new cloak he was wearing, and tore it into twelve pieces. First Kings chapter 11, verses 29 to 31, and then 38.
+
+> **Reader** *(plainly)* During that time, the prophet Ahijah the Shilonite met Jeroboam on the road as he was going out of Jerusalem. Now Ahijah had wrapped himself in a new cloak, and the two of them were alone in the open field.
 
 > **Reader** *(plainly)* And Ahijah took hold of the new cloak he was wearing, tore it into twelve pieces,
 
 > **Reader** *(plainly)* and said to Jeroboam, “Take ten pieces for yourself, for this is what the LORD, the God of Israel, says: ‘Behold, I will tear the kingdom out of the hand of Solomon, and I will give you ten tribes.
 
-**Narrator** *(calm)* It came true. Ten tribes made Jeroboam king, and the LORD had told him through Ahijah that if he walked in His ways he would have a lasting house like David's. Instead Jeroboam was afraid his people would go up to Jerusalem to worship and their hearts would go back to David's line, so he made two golden calves, set one at Bethel and one at Dan, built shrines, and made priests who were not Levites. He never sent to Ahijah about any of that. Then his son Abijah fell ill. The boy was the heir, and he was, the text will say, the only good thing in the house. And now Jeroboam sends to Shiloh. The prophet is old, and the text says plainly that he cannot see.
+> **Reader** *(plainly)* If you listen to all that I command you, walk in My ways, and do what is right in My sight in order to keep My statutes and commandments as My servant David did, then I will be with you. I will build you a lasting dynasty just as I built for David, and I will give Israel to you.
+
+**Narrator** *(calm)* It came true, the first half of it. Ten tribes made Jeroboam king. The second half had a condition on it, and instead Jeroboam was afraid his people would go up to Jerusalem to worship and their hearts would go back to David's line, so he made two golden calves, set one at Bethel and one at Dan, built shrines, and made priests who were not Levites. He never sent to Ahijah about any of that. Then his son Abijah fell ill. The boy was the heir, and he was, the text will say, the only good thing in the house. And now Jeroboam sends to Shiloh. The prophet is old, and the text says plainly that he cannot see.
 
 **Narrator** *(calm)* Where this is. Stand at Shiloh again, where we stood last time, and face north, with north at twelve o'clock. Eli's gate is somewhere near you, and the house of the LORD is long gone from here. The queen comes from Tirzah, Jeroboam's city, about a day's walk at one o'clock, and that is the road the footsteps are on. Bethel, where one of the golden calves stands, is half a day behind you at seven o'clock. And a day's walk at six o'clock is Jerusalem, with Solomon's Temple in it, the house the king has forbidden his people to go up to. The queen's road comes down from the north and ends at a blind man's door.
 
@@ -84,13 +88,17 @@ Script for reading, draft 1 (31 October 2026, drafted against the series templat
 
 > **Reader** *(plainly)* You have done more evil than all who came before you. You have proceeded to make for yourself other gods and molten images to provoke Me, and you have flung Me behind your back.
 
-**Narrator** *(calm)* The next two verses are the end of Jeroboam's house, in the plainest terms the Bible has for such things, and we will leave them on the page. Then the prophet turns from the king to the woman at the door, and to the reason she came. Verses 12 and 13.
+**Narrator** *(calm)* The next two verses are the end of Jeroboam's house, in the plainest terms the Bible has for such things, and we will leave them on the page. Then the prophet turns from the king to the woman at the door, and to the reason she came. Verses 12 and 13, and then 15, because it reaches a long way.
 
 > **Reader** *(plainly)* As for you, get up and go home. When your feet enter the city, the child will die.
 
 > **Reader** *(plainly)* All Israel will mourn for him and bury him. For this is the only one belonging to Jeroboam who will receive a proper burial, because only in him has the LORD, the God of Israel, found any good in the house of Jeroboam.
 
+> **Reader** *(plainly)* For the LORD will strike Israel as a reed is shaken in the water. He will uproot Israel from this good land that He gave their fathers, and He will scatter them beyond the Euphrates, because they have made their Asherah poles, provoking the LORD to anger.
+
 *(pause 2.0 s)*
+
+**Narrator** *(calm)* Beyond the Euphrates. That is the first time in the Bible anyone says it. Two hundred years before it happened to the north, and three hundred and fifty before Zedekiah was marched down that river, a blind man in Shiloh said the word exile to a woman with a basket, and the map we drew in the first episode of this series was already in his mouth.
 
 **Narrator** *(calm)* When your feet enter the city. Her feet again. The chapter is built on them: the king tells her to get up and go, she gets up and goes, the blind man hears her feet at his door, and the word he gives her is that when those same feet cross into Tirzah her boy will die. She asked nothing. The text never gives her a word. She came to a man who could not see her to find out whether her son would live, and he told her, and he told her more than she asked, and the only tenderness in it is the last line. The boy would be mourned, and buried, and he alone, because in him alone the LORD had found something good.
 
