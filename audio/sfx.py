@@ -116,7 +116,7 @@ def main() -> None:
     ap.add_argument("--loop", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--batch", help="JSON list of requests")
-    ap.add_argument("--model", default=None, help="eleven_text_to_sound_v2 (default) or eleven_text_to_sound_v3; a batch item may set its own 'model'")
+    ap.add_argument("--model", default="eleven_text_to_sound_v3", help="eleven_text_to_sound_v3 (default since 1 November 2026, Brian's choice) or eleven_text_to_sound_v2, which episodes 1 to 11 used; a batch item may set its own 'model'")
     ap.add_argument("--list", action="store_true")
     a = ap.parse_args()
     if a.list:
