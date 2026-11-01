@@ -1,0 +1,161 @@
+# Not By Sight, episode 16: Between the pillars
+
+Script for reading, draft 1 (31 October 2026, drafted against the series template; the last of the six, paired with Zedekiah). Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Scene voices: Samson (a man in his forties, worn, two lines); the boy who leads him does not speak. Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix. The title is provisional; "Samson in Gaza" is the page's. Nothing here is graphic; the one verse that says what was done to him is read once, as 2 Kings 25:7 was in episode 11.
+
+*(SFX, required: a great hall full of people, feasting. Laughter, shouting, a drum somewhere, cups. Four seconds alone. Then, under it and coming closer, two sets of footsteps on stone, a boy's quick and light, a man's slow and dragging, with a chain. They stop. Under the next line.)*
+
+**Narrator** *(calm)* Imagine a hall in Gaza, a long time ago, on a feast day. Three thousand people are on the roof alone. The man being led through the noise by a boy cannot see. He has just been stood where the whole room can see him, and he says something to the boy.
+
+*(pause 1.5 s)*
+
+**Samson** *(low, to the boy, steady)* Lead me where I can feel the pillars supporting the temple, so I can lean against them.
+
+*(pause 2.0 s)*
+
+**Narrator** *(calm)* Where I can feel the pillars. Three thousand people are looking at him and he is asking to be put where his hands can reach something. Here is Brian, by way of Mister Scaredy Cat, on what a blind man hears in that.
+
+**Brian** *(calm)* DRAFT. That is the most ordinary sentence in the whole chapter, and every blind person has said a version of it. Put my hand on it. Not point at it, not describe it, put my hand on it. When I am led into a strange room the first thing I want is something to touch, a wall, a table edge, the back of a chair, because until I have that I am standing in the middle of nothing. The boy leading Samson would have heard a tired man asking for something to lean on, and Samson let him think so. What his hands were feeling for was the one thing in the building that held the rest of it up. The room was watching him. He was reading it.
+
+*(pause 1.5 s)*
+
+**Narrator** *(calm)* This is Not By Sight, a series on blindness in the Bible, made by a blind Christian for blind believers, their families, and the church. The Scripture you will hear is the Berean Standard Bible, read word for word. The thoughts marked as Brian's are Brian Clark's own. And when we imagine a scene, we will tell you so.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* This episode is part of our series on sight lost and not given back: six people in the Bible who lost their sight and lived the rest of their lives without it. We tell them in three pairs. Two men blinded by their enemies, Zedekiah and Samson. A father and a son, Isaac and Jacob. Two old men of Shiloh, Eli and Ahijah. Every episode begins with sounds, and with what a blind man hears in them. Along the way we follow the Hebrew words the Bible uses for eyes that fail, one word handing on to the next. When we imagine a scene, we will tell you so. Everything else is from the text, from the old books read in their own voice, and from Brian.
+
+---
+
+**Narrator** *(calm)* First, where we are. We began this series with the last king of Judah, blinded by his enemies and bound in bronze. We end it with the other man the Bible describes that way, some five hundred years earlier. Israel had been under the Philistines for forty years when an angel told a woman in Zorah that she would have a son, that no razor was to touch his head, because he would be a Nazirite to God from the womb, and that he would begin to deliver Israel. He was Samson. He was the strongest man in the Bible, and he judged Israel for twenty years, and he had a weakness for Philistine women that his parents saw before he did. The last of them was Delilah, in the Valley of Sorek, and the lords of the Philistines paid her to find out where his strength came from. Three times he lied to her and three times she called the Philistines in and he walked out. The fourth time he told her the truth.
+
+**Narrator** *(calm)* Where this is. Stand in Gaza, the southernmost of the five Philistine cities, near the sea, and face north, with north at twelve o'clock. Ashkelon, another of the five, is half a day up the coast at one o'clock. The Valley of Sorek, where Delilah lived, and Zorah just above it, where Samson was born and will be buried, are two days' walk inland at two o'clock. And at three o'clock, two or three days east and uphill, is Hebron, the hill Samson once carried the gates of this city toward, on his shoulders, in the middle of the night, when he could see. He is back in Gaza now, and he will not leave it alive.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* Judges chapter 16, verses 15 to 22.
+
+> **Reader** *(plainly)* “How can you say, ‘I love you,’” she asked, “when your heart is not with me? This is the third time you have mocked me and failed to reveal to me the source of your great strength!”
+
+> **Reader** *(plainly)* Finally, after she had pressed him daily with her words and pleaded until he was sick to death,
+
+> **Reader** *(plainly)* Samson told her all that was in his heart: “My hair has never been cut, because I have been a Nazirite to God from my mother’s womb. If I am shaved, my strength will leave me, and I will become as weak as any other man.”
+
+> **Reader** *(plainly)* When Delilah realized that he had revealed to her all that was in his heart, she sent this message to the lords of the Philistines: “Come up once more, for he has revealed to me all that is in his heart.” Then the lords of the Philistines came to her, bringing the money in their hands.
+
+> **Reader** *(plainly)* And having lulled him to sleep on her lap, she called a man to shave off the seven braids of his head. In this way she began to subdue him, and his strength left him.
+
+> **Reader** *(plainly)* Then she called out, “Samson, the Philistines are here!” When Samson awoke from his sleep, he thought, “I will escape as I did before and shake myself free.” But he did not know that the LORD had departed from him.
+
+> **Reader** *(plainly)* Then the Philistines seized him, gouged out his eyes, and brought him down to Gaza, where he was bound with bronze shackles and forced to grind grain in the prison.
+
+> **Reader** *(plainly)* However, the hair of his head began to grow back after it had been shaved.
+
+*(pause 2.0 s)*
+
+**Narrator** *(calm)* He did not know that the LORD had departed from him. That is the saddest sentence in the book of Judges, and it comes one verse before his eyes. He woke up the same man he had always been, as far as he knew. Then one verse, and we will not go past what it says, as we did not for Zedekiah. His eyes were taken. He was brought down to Gaza, the city whose gates he had carried away. He was bound in bronze, the same word as the king's shackles, five hundred years before the king. And he was put to grinding grain, which is a mill, which is a blind man walking in a circle. Brian says the last thing Samson saw was Delilah's room and the Philistines in it. The text does not tell us how long the mill went on. It tells us one thing happened while it did. His hair began to grow back.
+
+---
+
+**Narrator** *(calm)* Now imagine the prison, because the text gives the frame and not the days. Bound with bronze shackles and forced to grind grain.
+
+*(pause 1.0 s)*
+
+*(SFX, required: a millstone turning, heavy stone on stone, slow and steady, with a chain dragging in rhythm. Under the next lines.)*
+
+**Narrator** *(calm)* He knows this room by now the way a blind man knows any room he has worked in. So many steps round. The place where the floor dips. The smell of the grain, and of himself. The chain tells him where his feet are. Above him, through the stone, he can hear Gaza: carts, a market, children, and on some days, more than the others, a crowd. He learns the sound of a feast day. He had nine months of nothing but this, or nine years. The text does not say. What he had no time for at all was the thing most people get when their sight goes: a last look. He did not know that evening in Sorek that he would want one. And somewhere in those days, with his hands on the beam of the mill, he would have felt what the Philistines did not think to check. His hair was on his shoulders again.
+
+*(SFX, if you can: the millstone slows and stops. Footsteps come down. A door.)*
+
+**Narrator** *(calm)* Verses 23 to 31.
+
+> **Reader** *(plainly)* Now the lords of the Philistines gathered together to offer a great sacrifice to their god Dagon. They rejoiced and said, “Our god has delivered Samson our enemy into our hands.”
+
+> **Reader** *(plainly)* And when the people saw him, they praised their god, saying: “Our god has delivered into our hands our enemy who destroyed our land and multiplied our dead.”
+
+> **Reader** *(plainly)* And while their hearts were merry, they said, “Call for Samson to entertain us.” So they called Samson out of the prison to entertain them. And they stationed him between the pillars.
+
+> **Reader** *(plainly)* Samson said to the servant who held his hand, “Lead me where I can feel the pillars supporting the temple, so I can lean against them.”
+
+> **Reader** *(plainly)* Now the temple was full of men and women; all the lords of the Philistines were there, and about three thousand men and women were on the roof watching Samson entertain them.
+
+> **Reader** *(plainly)* Then Samson called out to the LORD: “O Lord GOD, please remember me. Strengthen me, O God, just once more, so that with one vengeful blow I may pay back the Philistines for my two eyes.”
+
+> **Reader** *(plainly)* And Samson reached out for the two central pillars supporting the temple. Bracing himself against them with his right hand on one pillar and his left hand on the other,
+
+> **Reader** *(plainly)* Samson said, “Let me die with the Philistines.” Then he pushed with all his might, and the temple fell on the lords and all the people in it. So in his death he killed more than he had killed in his life.
+
+> **Reader** *(plainly)* Then Samson’s brothers and his father’s family came down, carried him back, and buried him between Zorah and Eshtaol in the tomb of his father Manoah. And he had judged Israel twenty years.
+
+*(pause 2.0 s)*
+
+**Narrator** *(calm)* Count what the room saw, and what the blind man did. They saw a shaved, blind, chained man led in by a boy to be laughed at, and they stationed him between the pillars because that was the middle of the floor, where everyone could see. He asked the boy for something to lean on. He put one hand on each pillar. He prayed, and nobody in the hall heard it; Henry thinks it was not even out loud. And the two things he asked for are the two things the whole chapter had taken from him. Remember me, from the God who had departed. Strengthen me, in the arms that had gone weak as any other man's. Once more. He does not ask for his eyes. He asks for his strength once, and he says what for, and he does not pretend it is anything nobler than it is: for my two eyes. God gave it. And his brothers came down from Zorah, two days at two o'clock, and carried him home to his father's tomb.
+
+---
+
+**Narrator** *(calm)* Brian, what do you hear in this one?
+
+*(SFX, if you can: the hall from the opening, very quietly under his first line, and gone by his second)*
+
+**Brian** *(calm)* Samson lost his sight in the prime of his life. So do a lot of blind adults, and so did I. Most of the people in this series went blind slowly, with age. Samson went blind in a moment, at the height of his strength, and that puts him closer to me and to the people I work with than any of the others.
+
+**Brian** *(calm)* What I think about first is the adjustment. He was the most physically gifted man in the Bible, and in one afternoon he was reduced to being led around by a hand, with his strength gone and his eyes gone with it. The transition was sudden. I had nine months between the diagnosis and the end of my sight, and that was hard. I work all the time with people who lose their vision in a matter of days or hours, and they are the hardest for me to work with, because they had no time to prepare. No time to get their last looks at the things they wanted to remember. Samson got none. The last thing he saw was Delilah's room, and the Philistines in it.
+
+**Brian** *(calm)* The Hebrew word matters to me here in a way it may not to a sighted reader. Judges says the Philistines gouged out his eyes, and the verb is naqar, which the old dictionary defines as to bore, to penetrate, to quarry. Isaiah uses the same word for the quarry a stone is dug from. I have had both of my eyes enucleated, removed, because of the extreme pressure in them before the last surgeries. My doctor described what he was going to do as scooping out the inside of a melon. That is naqar. I want to say plainly that it was one of my better decisions in life. My eyes had stopped working completely and the pain and discomfort went with them. Samson had no say in it and no anaesthetic, and I know more than I would like about what was done to him.
+
+**Brian** *(calm)* Then there is purpose. Samson had been the judge and protector of Israel for twenty years, and blindness did not end that. The text says his hair began to grow back, and then it shows him in the temple at Gaza, asking the servant who held his hand to put him where he could feel the pillars. With nobody left to help him, he asked God for help, and God gave him just enough strength, once more, to finish what he had been given to do. Blind, he still found his purpose and did it. The book says he did more in his death than in his life.
+
+*(pause 2.0 s)*
+
+---
+
+**Narrator** *(calm)* Now the old books, and this time three blind men have been here before us. William Hanks Levy, the blind author who put Isaac in his biographies of the blind, put Samson there too, and he noticed that two other blind men had taken him up: Milton, who was blind when he wrote Samson Agonistes, and Handel, who went blind late in life and had already written an oratorio called Samson. Levy quotes Milton's Samson at the mill, and one line of it has outlived the rest.
+
+**Books** *(calm)* Eyeless in Gaza at the mill with slaves.
+
+**Narrator** *(calm)* A blind poet's line about a blind judge, kept by a blind writer. Matthew Henry, who could see, read the prison and the hall with less pity and more care than most. The Philistines, he says, were not afraid of the growing hair, because now that he was blind they were in no fear of any hurt from him. On the prayer, he supposes it was a mental prayer, not heard of men in that noisy crowd, yet heard of God and graciously answered. And he sets the dying judge beside someone else who died praying.
+
+**Henry** *(calm)* Samson died praying, so did our blessed Saviour; but Samson prayed for vengeance, Christ for forgiveness.
+
+**Narrator** *(calm)* Henry is right about the difference, and the text does not hide it; Samson says for my two eyes. But the hair is where Henry lands, and it is where the text lands too. The growth of it, he says, was neither the cause nor the sign of the return of his strength, except as the badge of his consecration, a token that God accepted him as a Nazirite again. The strength that he had lost by sin, Henry says, he, like a true penitent, recovers by prayer. Josephus adds only that Samson told the boy he was weary and wanted to rest, which is the text's own sentence with the meaning filled in.
+
+*(pause 1.5 s)*
+
+---
+
+**Narrator** *(calm)* Now the last word in the chain, and it is the hardest one. Zedekiah's was "ah-VAR," blinded. Isaac's was "kah-HAH," dim. Jacob's was "kah-VED," heavy. Eli's and Ahijah's was "KOOM," stood still. Samson's is "nah-KAR." To bore. To dig out. To quarry. It is used six times in the whole Bible, and it is never gentle. It is the word for the quarry a stone is cut from, in Isaiah. It is the word for what the ravens do to an eye, in Proverbs. It is the word Nahash the Ammonite used when he offered the men of Jabesh a treaty on condition of their right eyes. It is a stonemason's word, and Judges uses it for a man's face. Brian has told you why it matters to him. It is the one word in the chain he knows from the inside.
+
+**Narrator** *(calm)* And beside it, in the same verse, is the word that closes the loop. Bronze. Nechosheth. Samson was bound in it, and some five hundred years later so was the last king of Judah, and the Bible describes exactly those two men that way: blinded, then bound in bronze, then led. We began with the one and we end with the other. A king who had everything and would not listen, and a judge who had everything and would not either. Both of them in the dark, in chains, in an enemy's city. And then the two stories part. Zedekiah was given a promise he had not earned and died in peace. Samson was given his strength once more and died with his hands on the pillars. Six men, six words, and the chain is complete: put out, grown dim, grown heavy, stood still, stood still, dug out. Not one of them saw again. Not one of them is finished in the text when his eyes are.
+
+*(pause 1.5 s)*
+
+---
+
+**Narrator** *(calm)* What came after. The book of Judges says nothing more of him after the tomb, except the line it had already said: he had judged Israel twenty years. The New Testament says one thing more, and it puts him in the same list as Isaac and Jacob. Hebrews chapter 11, verse 32, and then 34.
+
+> **Reader** *(plainly)* And what more shall I say? Time will not allow me to tell of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets,
+
+> **Reader** *(plainly)* quenched the raging fire, and escaped the edge of the sword; who gained strength from weakness, became mighty in battle, and put foreign armies to flight.
+
+**Narrator** *(calm)* Who gained strength from weakness. Hebrews does not say which of the names that line belongs to, and it does not need to. There is one man on the list who was as weak as any other man, blind and chained in a hall full of his enemies, and asked for strength once more, and got it. The same chapter that gave Isaac his one verse and Jacob his gives Samson his name, between Barak and Jephthah, among the people who lived by faith. Three of the six men in this series are in that chapter. None of the three could see when he did the thing he is there for.
+
+*(pause 1.5 s)*
+
+**Narrator** *(calm)* Brian, with the last word.
+
+**Brian** *(calm)* I think about that as I get older. Living with a disability is a bit like dog years, seven to one, and the body spends itself faster. I have to ask God all the time for the strength to do what I think His purpose is for me. Samson's prayer is the shortest one I know for that: remember me, strengthen me, just once more.
+
+*(pause 2.5 s)*
+
+---
+
+**Narrator** *(calm)* That is the end of the six. A king, a father and a son, two old men of one town, and a judge. We stood where each of them lost his sight and faced north, from Jerusalem to Beersheba to Goshen to Shiloh, twice, to Gaza, and the map ran from the Nile to the Euphrates. Every one of them lost his sight and lived the rest of his life without it. Not one of them is described afterward as less than he was. And the Bible's one word for what three of them did in the dark is the word we end every episode on.
+
+*(pause 1.0 s)*
+
+**Narrator** *(calm)* DRAFT, for Brian to decide: what comes next, and the teaser for it. [Next time ...]
+
+---
+
+**Narrator** *(calm)* This has been Not By Sight. The full story, with every source named, is at blindness in the Bible dot com. Scripture quotations are from the Holy Bible, Berean Standard Bible, which is in the public domain. The scenes you heard marked as imagined are our own. Everything else is from the text and the old books.
+
+**Narrator** *(after a long pause)* For we walk by faith, not by sight.
