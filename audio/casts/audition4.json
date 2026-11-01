@@ -1,0 +1,90 @@
+{
+  "cast_name": "audition4",
+  "defaults": {
+    "model": "eleven_v3",
+    "stability": 0.7,
+    "similarity_boost": 0.75,
+    "style": 0.0,
+    "speed": 1.0,
+    "use_speaker_boost": true,
+    "output_format": "mp3_44100_192",
+    "takes": 1
+  },
+  "characters": {
+    "V_GEORG": {
+      "name": "Candidate Georg",
+      "voice_id": "LRpNiUBlcqgIsKUzcrlN",
+      "description": "Audition for the sight-lost series. German grandfather over ninety; the oldest voice on the account."
+    },
+    "V_ANCIENT": {
+      "name": "Candidate Ancient",
+      "voice_id": "QPRY8gLO0Aik2vBYPfHe",
+      "description": "Audition for the sight-lost series. Bill the Ancient One, elderly absent-minded professor, kindly."
+    },
+    "V_ERSAN": {
+      "name": "Candidate Ersan",
+      "voice_id": "jSLgazTuNHl5kcEiiHgd",
+      "description": "Audition for the sight-lost series. old Turkish teacher, warm; from the library."
+    },
+    "V_MEKAWY": {
+      "name": "Candidate Mekawy",
+      "voice_id": "uEs4hyGRdNLLJMFsxCkz",
+      "description": "Audition for the sight-lost series. calm Middle Eastern storyteller; from the library."
+    },
+    "V_ALI": {
+      "name": "Candidate Ali",
+      "voice_id": "JUSQMx5M1jCmDyepTElG",
+      "description": "Audition for the sight-lost series. Levantine Arabic accent, warm and authoritative; from the library."
+    },
+    "V_SHREIF": {
+      "name": "Candidate Shreif",
+      "voice_id": "C5DUoxdM3kV00iwaR3sK",
+      "description": "Audition for the sight-lost series. deep and calm, Arabic accent; from the library."
+    },
+    "V_NAFEES": {
+      "name": "Candidate Nafees",
+      "voice_id": "puDRtQWF8NtQiPMJygTb",
+      "description": "Audition for the sight-lost series. light Arabic accent, warm middle-aged; from the library."
+    },
+    "V_PANOS": {
+      "name": "Candidate Panos",
+      "voice_id": "z3zYFzY2KtTTLjvOecBO",
+      "description": "Audition for the sight-lost series. Greek, measured, mid-to-low; from the library."
+    },
+    "V_DAVID": {
+      "name": "Candidate David",
+      "voice_id": "5uEJotkO1FzLxXhXsgIv",
+      "description": "Audition for the sight-lost series. Turkish-labelled eastern voice, rich; already on the account."
+    },
+    "V_BOBBY": {
+      "name": "Candidate Bobby",
+      "voice_id": "piOEaKYYZhntpHad74n2",
+      "description": "Audition for the sight-lost series. thick Eastern European, Romanian and Bulgarian; already on the account."
+    },
+    "V_VLASOV": {
+      "name": "Candidate Vlasov",
+      "voice_id": "txnCCHHGKmYIwrn7HfHQ",
+      "description": "Audition for the sight-lost series. Russian, rich and calm; already on the account."
+    },
+    "V_SPURGEON": {
+      "name": "Candidate Spurgeon",
+      "voice_id": "fx8RiSGwEISGAZiVD71O",
+      "description": "Audition for the sight-lost series. mature British preacher's cadence, fifties."
+    },
+    "V_JAMES": {
+      "name": "Candidate James",
+      "voice_id": "JbFfo12yyR6B9R6hoMPM",
+      "description": "Audition for the sight-lost series. North-eastern English, bass, close to the ear."
+    },
+    "V_FRED": {
+      "name": "Candidate Fred",
+      "voice_id": "shtKeQ7Y43f4mGRm3LvL",
+      "description": "Audition for the sight-lost series. weathered, mildly grumpy man in his late fifties."
+    },
+    "V_LYLE": {
+      "name": "Candidate Lyle",
+      "voice_id": "gVGjWWK84EKBTe4qMEgk",
+      "description": "Audition for the sight-lost series. medium-low, flat and dry, slow and deliberate."
+    }
+  }
+}

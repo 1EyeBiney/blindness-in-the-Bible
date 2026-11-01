@@ -1,0 +1,67 @@
+@project: audition4
+@section: 1
+@cast: casts/audition4.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Fourth audition: fifteen voices for the sight-lost series, each reading Genesis 27:21 and 1 Samuel 3:9.
+
+# GEORG: German grandfather over ninety; the oldest voice on the account
+[V_GEORG] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_GEORG] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+# ANCIENT: Bill the Ancient One, elderly absent-minded professor, kindly
+[V_ANCIENT] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_ANCIENT] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+# ERSAN: old Turkish teacher, warm; from the library
+[V_ERSAN] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_ERSAN] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+# MEKAWY: calm Middle Eastern storyteller; from the library
+[V_MEKAWY] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_MEKAWY] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+# ALI: Levantine Arabic accent, warm and authoritative; from the library
+[V_ALI] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_ALI] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+# SHREIF: deep and calm, Arabic accent; from the library
+[V_SHREIF] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_SHREIF] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+# NAFEES: light Arabic accent, warm middle-aged; from the library
+[V_NAFEES] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_NAFEES] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+# PANOS: Greek, measured, mid-to-low; from the library
+[V_PANOS] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_PANOS] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+# DAVID: Turkish-labelled eastern voice, rich; already on the account
+[V_DAVID] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_DAVID] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+# BOBBY: thick Eastern European, Romanian and Bulgarian; already on the account
+[V_BOBBY] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_BOBBY] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+# VLASOV: Russian, rich and calm; already on the account
+[V_VLASOV] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_VLASOV] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+# SPURGEON: mature British preacher's cadence, fifties
+[V_SPURGEON] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_SPURGEON] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+# JAMES: North-eastern English, bass, close to the ear
+[V_JAMES] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_JAMES] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+# FRED: weathered, mildly grumpy man in his late fifties
+[V_FRED] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_FRED] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
+
+# LYLE: medium-low, flat and dry, slow and deliberate
+[V_LYLE] (calm) Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”
+[V_LYLE] (calm) “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.
