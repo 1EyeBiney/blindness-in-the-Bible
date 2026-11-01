@@ -1,0 +1,47 @@
+{
+  "_comment": "Voices copied into Brian's ElevenLabs account from the public Voice Library. Each can be removed to free a slot and added back at any time with POST /v1/voices/add/{public_owner_id}/{voice_id}; the voice_id does not change. Generated voices (Bill the Ancient One, Spurgeon, Lyle, Fred, Bobby Fresk and the rest) are Brian's own and cannot be re-fetched, so never delete those.",
+  "voices": [
+    {
+      "name": "Mekawy - calm Middle Eastern",
+      "voice_id": "uEs4hyGRdNLLJMFsxCkz",
+      "public_owner_id": "6415d2030c6382e59df1d3ea5cbcbeebf174605d5f8834392458763f20c02d2a",
+      "added": "2026-11-01",
+      "used_as": "JACOB (ep12)"
+    },
+    {
+      "name": "Ali - Levantine, authoritative",
+      "voice_id": "JUSQMx5M1jCmDyepTElG",
+      "public_owner_id": "ac09c438e71af691e610c757a3da1f39a5b2017af3a5e497416ab12cfac5bb40",
+      "added": "2026-11-01",
+      "used_as": "JOSEPH (ep13)"
+    },
+    {
+      "name": "Shreif - deep and calm",
+      "voice_id": "C5DUoxdM3kV00iwaR3sK",
+      "public_owner_id": "913b0ccd11cedb8ca232d9d015dd5f10933cbf11626966cfaeabc625feec1fc8",
+      "added": "2026-11-01",
+      "used_as": "SAMSON (ep16)"
+    },
+    {
+      "name": "Nafees - light Arabic, warm",
+      "voice_id": "puDRtQWF8NtQiPMJygTb",
+      "public_owner_id": "59efb68e2b3431ff501151856009525781c59986333159e8287ae7891950e8a2",
+      "added": "2026-11-01",
+      "used_as": "ISRAEL (ep13)"
+    },
+    {
+      "name": "Ersan - old Turkish teacher",
+      "voice_id": "jSLgazTuNHl5kcEiiHgd",
+      "public_owner_id": "9a57365ee8be025fef37822d32ed66c5471044e52ed89b8d5c9f892778398c56",
+      "added": "2026-11-01",
+      "used_as": "AHIJAH (ep15)"
+    },
+    {
+      "name": "Panos - Greek, measured",
+      "voice_id": "z3zYFzY2KtTTLjvOecBO",
+      "public_owner_id": "f41fd0886c073cb8be0cc0dd95b065bac682de4e563055e5ffb1f28654cd1d55",
+      "added": "2026-11-01",
+      "used_as": "ESAU (ep12)"
+    }
+  ]
+}

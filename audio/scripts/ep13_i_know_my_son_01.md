@@ -12,7 +12,7 @@ Script for reading, draft 1 (31 October 2026, drafted against the series templat
 
 *(pause 1.5 s)*
 
-**Jacob** *(old, careful)* Who are these?
+**Israel** *(old, careful)* Who are these?
 
 *(pause 2.0 s)*
 
@@ -100,7 +100,7 @@ Script for reading, draft 1 (31 October 2026, drafted against the series templat
 
 *(pause 2.0 s)*
 
-**Jacob** *(old, unhurried)* I know, my son. I know.
+**Israel** *(old, unhurried)* I know, my son. I know.
 
 *(pause 2.0 s)*
 
