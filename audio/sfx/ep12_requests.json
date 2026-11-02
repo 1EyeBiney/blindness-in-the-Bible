@@ -1,17 +1,56 @@
 [
-  {"slug": "ep12/tent_evening_bed", "seconds": 20, "variants": 3, "influence": 0.45, "loop": true,
-   "prompt": "Inside a goat-hair tent at dusk in the ancient Near East, goats settling and bleating softly outside, a small fire crackling low, light breeze moving heavy cloth, no voices, no music, no modern sounds, seamless ambient bed",
-   "use": "Cold open, four seconds alone then under the first lines; again quietly under Brian's first What I hear paragraph; the quieter version under the imagined scene."},
-  {"slug": "ep12/steps_matting_slow", "seconds": 6, "variants": 4, "influence": 0.4, "loop": false,
-   "prompt": "Slow, careful footsteps in soft sandals on woven reed matting inside a tent, approaching, five steps, then stopping, close and dry, no voices, no music",
-   "use": "Jacob coming in before My father, line 9."},
-  {"slug": "ep12/steps_matting_quick", "seconds": 5, "variants": 4, "influence": 0.4, "loop": false,
-   "prompt": "Quick, heavy footsteps in sandals on woven reed matting inside a tent, a big man arriving in good spirits, four or five steps, then stopping, close and dry, no voices, no music",
-   "use": "Esau coming in before My father, line 117."},
-  {"slug": "ep12/tent_quiet_breathing", "seconds": 15, "variants": 3, "influence": 0.4, "loop": true,
-   "prompt": "Very quiet interior of a tent at dusk, an old man breathing slowly and evenly at rest, faint fire embers, distant goats, no words, no music, no modern sounds, seamless ambient bed",
-   "use": "If you can: the imagined scene, line 113, Isaac alone and content."},
-  {"slug": "ep12/man_walking_in_from_field", "seconds": 10, "variants": 3, "influence": 0.4, "loop": false,
-   "prompt": "Far off outside a tent at dusk, one man walking in from open country across dry ground, steady unhurried footsteps on earth and gravel growing slightly nearer, a light wind, no voices, no music",
-   "use": "If you can: layered under tent_quiet_breathing before Esau's steps on the matting, line 113."}
+  {
+    "slug": "ep12/tent_evening_bed",
+    "seconds": 20,
+    "variants": 3,
+    "influence": 0.45,
+    "loop": true,
+    "prompt": "Inside a goat-hair tent at dusk in the ancient Near East, goats settling and bleating softly outside, a small fire crackling low, light breeze moving heavy cloth, no voices, no music, no modern sounds, seamless ambient bed",
+    "use": "Cold open, four seconds alone then under the first lines; again quietly under Brian's first What I hear paragraph; the quieter version under the imagined scene."
+  },
+  {
+    "slug": "ep12/steps_matting_slow",
+    "seconds": 6,
+    "variants": 4,
+    "influence": 0.4,
+    "loop": false,
+    "prompt": "Slow, careful footsteps in soft sandals on woven reed matting inside a tent, approaching, five steps, then stopping, close and dry, no voices, no music",
+    "use": "Jacob coming in before My father, line 9."
+  },
+  {
+    "slug": "ep12/isaac_stirs",
+    "seconds": 4,
+    "variants": 4,
+    "influence": 0.45,
+    "loop": false,
+    "prompt": "An old man lying on bedding inside a quiet tent stirs and sits up to listen, rustle of heavy wool and linen robes, a creak of a reed mat beneath him, slow and deliberate, two seconds of movement then stillness, close and intimate, no voice, no breath, no music",
+    "use": "Brian's ask, 2 November 2026: Isaac turning or sitting up as Jacob walks in, right before Here I am, line 11."
+  },
+  {
+    "slug": "ep12/steps_matting_quick",
+    "seconds": 5,
+    "variants": 4,
+    "influence": 0.4,
+    "loop": false,
+    "prompt": "Quick, heavy footsteps in sandals on woven reed matting inside a tent, a big man arriving in good spirits, four or five steps, then stopping, close and dry, no voices, no music",
+    "use": "Esau coming in before My father, line 117."
+  },
+  {
+    "slug": "ep12/tent_quiet_breathing",
+    "seconds": 15,
+    "variants": 3,
+    "influence": 0.4,
+    "loop": true,
+    "prompt": "Very quiet interior of a tent at dusk, an old man breathing slowly and evenly at rest, faint fire embers, distant goats, no words, no music, no modern sounds, seamless ambient bed",
+    "use": "If you can: the imagined scene, line 113, Isaac alone and content."
+  },
+  {
+    "slug": "ep12/man_walking_in_from_field",
+    "seconds": 10,
+    "variants": 3,
+    "influence": 0.4,
+    "loop": false,
+    "prompt": "Far off outside a tent at dusk, one man walking in from open country across dry ground, steady unhurried footsteps on earth and gravel growing slightly nearer, a light wind, no voices, no music",
+    "use": "If you can: layered under tent_quiet_breathing before Esau's steps on the matting, line 113."
+  }
 ]
