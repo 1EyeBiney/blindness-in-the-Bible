@@ -152,6 +152,18 @@ Script for reading, draft 1 (31 October 2026, drafted against the series templat
 
 *(pause 1.0 s)*
 
+**Narrator** *(calm)* One more thing before we go, and it is Brian's, so we will let him say it. But the text says it first, and nowhere more plainly than in the house at Shiloh. Two verses, side by side. 1 Kings chapter 14, the end of verse 4, and verse 5.
+
+> **Reader** *(plainly)* Now Ahijah could not see, for his eyes were dim because of his age.
+
+> **Reader** *(plainly)* But the LORD had said to Ahijah, “Behold, the wife of Jeroboam is coming to ask you about her son, for he is ill. You are to say such and such to her, because when she arrives, she will be disguised.”
+
+**Narrator** *(calm)* He could not see. But the LORD had said. Brian.
+
+**Brian** *(calm)* DRAFT. When we started this series I had a notion that blindness was the hinge of every one of these stories, that God needed each of these men blind to make His point. Going through them one at a time, I do not think that holds all the way across. Eli's blindness is a picture more than a cause. Jacob did not need to be blind to cross his hands. But I noticed something else instead. In every one of the six, the moment that decides the story arrives with the eyes already gone, and what fills the gap is either what people say or what the Lord has said, and the story turns on which one the man took. Isaac took the people in the room and was fooled, then took the Lord's word and blessed by faith. Ahijah's eyes were beaten by a disguise, and it did not matter, because the Lord had told him who was coming. Samson, blind in a hall full of his enemies, prayed, and was heard. Zedekiah's blindness was the only way two prophecies that seemed to contradict could both come true, and it cost him more than it cost any of the others. I feel some sympathy for him. The thing I keep coming back to is the first story we ever told on this program, the man born blind, where Jesus said it was so that the works of God would be displayed in him. That is what I see across these six. Not that God needed anyone blind, but that He showed something in each of them that sight would have hidden. His exactness in a king. His strength in a chained man's weakness. His knowledge in an old prophet's dark house. I would be lying if I said I did not hope the same about my own. Not that I was made blind for a purpose I can name, but that something of Him can be shown in how I live without sight, in trust, in reliance, in asking for strength once more.
+
+*(pause 2.0 s)*
+
 **Narrator** *(calm)* DRAFT, for Brian to decide: what comes next, and the teaser for it. [Next time ...]
 
 ---
