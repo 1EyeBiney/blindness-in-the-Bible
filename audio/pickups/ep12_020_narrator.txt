@@ -1,0 +1,8 @@
+@project: ep12_the_voice_and_the_hands_v2
+@section: 1
+@cast: casts/not_by_sight.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Pickup 2 November 2026: Brian asked for two more takes of the Narrator on clip 020.
+[NARRATOR] {id=020} (calm) Who are you? The same two words he had just heard, in a different voice, and this time he does not know it. A few minutes earlier his ears had picked Jacob out through a disguise. Nothing has gone wrong with them since. What has changed is that he has just blessed Esau and sent him out, so whoever is at the door now cannot be Esau. That is the sound of a man's expectation overruling his ears for the second time in one hour, and it is the last thing he hears before the floor goes out from under him. Verses 30 to 38.

@@ -1,0 +1,8 @@
+@project: ep12_the_voice_and_the_hands_v2
+@section: 1
+@cast: casts/not_by_sight.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Pickup 2 November 2026: Brian asked for two more takes of the Narrator on clip 028.
+[NARRATOR] {id=028} (calm) And at the end of the passage he adds that the sagacity Isaac showed would have been almost enough, under ordinary circumstances, to find the fraud out. A blind man read it and saw a careful blind man. Matthew Henry, a century and a half earlier, read it as a sighted man, and he went sense by sense through what Rebekah did: his taste, with kid dressed as venison; his touch and his smell, with the clothes and the skins. The one she could not touch was his hearing, and Henry stopped there.

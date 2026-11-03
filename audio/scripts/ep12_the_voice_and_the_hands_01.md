@@ -176,7 +176,7 @@ Script for reading, final edit 1 November 2026 (by faith, not by sight, set up t
 
 **Henry** *(calm)* Isaac was at first dissatisfied, and would have discovered the fraud if he could have trusted his own ears; for the voice was Jacob's voice. Providence has ordered a strange variety of voices as well as faces, which is also of use to prevent our being imposed upon; and the voice is a thing not easily disguised nor counterfeited.
 
-**Narrator** *(calm)* If he could have trusted his own ears. He could have. He chose the hands. Henry also noticed something Brian noticed, that Isaac did not consider how easy the hands were to counterfeit.
+**Narrator** *(calm)* If he could have trusted his own ears. He could have. He chose the hands.
 
 *(pause 1.5 s)*
 

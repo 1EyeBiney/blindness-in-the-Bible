@@ -1,0 +1,8 @@
+@project: ep12_the_voice_and_the_hands_v2
+@section: 1
+@cast: casts/not_by_sight.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Pickup 2 November 2026: Brian asked for two more takes of the Narrator on clip 011.
+[NARRATOR] {id=011} (calm) I do not know the day of my death. He had, as it turned out, about forty years left. But he could not see, and he thought the end was near, and he wanted to do the one thing a father in that family did before he died: put the blessing on the firstborn. What he did not know was that someone else was in earshot. Verse 5 says Rebekah was listening. The plan she made in the next few minutes is worth hearing in the text's own words, because every piece of it is aimed at one of her husband's senses. Verses 5 to 17.
