@@ -51,6 +51,12 @@ EPISODES = [
      "die and then blinded. The episode opens with sound, what God made it to do and the sounds a blind man cannot "
      "unhear, then follows the frightened king who kept sending for Jeremiah in secret, the night escape, Riblah told "
      "only as the text tells it, the road to Babylon, and the one promise he did not have to earn."),
+    (12, "The Voice and the Hands", "Genesis 27 and Hebrews 11", ["isaac"],
+     "The second of six on sight lost and not given back. Isaac, old and blind, waits in his tent at Beersheba for "
+     "the son he means to bless, and the wrong son walks in. The episode opens with a familiar voice in the wrong "
+     "place, follows the chapter sense by sense, hears a blind author of 1872 and Matthew Henry on the one sense "
+     "nobody could counterfeit, traces the Hebrew word for eyes that grow dim, and ends with the second blessing, "
+     "given on purpose, that Hebrews calls faith."),
 ]
 
 # The trailer: a short taste of the episodes, on the home page and at the top of the Episodes page.

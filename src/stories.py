@@ -50,6 +50,8 @@ STORIES = [
     {
         "slug": "isaac", "title": "Isaac and the stolen blessing", "who": "Isaac", "group": "not_restored",
         "outcome": "not_restored",
+        "listen": {"youtube": "oA8VJaw_2ok", "mp3": "not_by_sight_12_the_voice_and_the_hands.mp3", "minutes": 27,
+                   "title": "Not By Sight, Episode 12: The Voice and the Hands"},
         "passages": [("Genesis", 27, 1, 4), ("Genesis", 27, 18, 27), ("Genesis", 27, 30, 35)],
         "life": "Isaac is the son Abraham and Sarah waited twenty-five years for, the boy bound on the altar at "
                 "Moriah and spared. At forty he married Rebekah, brought from Haran by his father's servant, and "

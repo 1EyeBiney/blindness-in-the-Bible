@@ -13,6 +13,11 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-11-02", "Episode 12: The voice and the hands",
+     "The second episode of the series on sight lost and not given back: Isaac, old and blind, and the son who "
+     "walked in at the wrong hour. The chapter sense by sense, a blind author of 1872 on a careful blind man, the "
+     "Hebrew word for eyes that grow dim, and Brian on the two kinds of trust a blind man lives by. It plays on the "
+     "Isaac page and on the Episodes page.", "stories/isaac.html"),
     ("2026-10-31", "Episode 11: The last thing he saw",
      "The first episode of the new series on sight lost and not given back: Zedekiah, the last king in Jerusalem. "
      "It opens with sound, what God made it to do and the sounds a blind man cannot unhear, and Brian tells for the "
