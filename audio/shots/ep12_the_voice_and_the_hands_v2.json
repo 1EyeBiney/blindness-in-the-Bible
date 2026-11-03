@@ -1,0 +1,452 @@
+{
+ "_comment": "Shot list for episode 12, the second of six on sight lost and not given back. 15 new paintings plus the title and close backgrounds (prompts below, generated in this order in Gemini; Brian downloads them in order into images/ep12_the_voice_and_the_hands/). Shared stills: the scroll, Brian's picture, Henry's study (episode 7), the tent at evening (episode 11), the touch scene from the site (site_batch1/01_isaac), two site pictures, the episode map (maps/ep12.png). Rebekah is seen only from behind, listening; Esau at the door is a silhouette; nobody's face is shown. The imagined scenes are the two arrivals at the tent door. Title and close cards get their lettering from make_cards.py (title_card.jpg, close_card.jpg).",
+ "style": "Painterly oil-sketch look, visible brushwork, warm natural light, the land and buildings of ancient Israel and its neighbours unless the prompt says otherwise. No faces shown close up: people are seen from behind or at a distance. No text or lettering anywhere. Calm and hopeful, never frightening or graphic. 16:9.",
+ "shots": [
+  {
+   "from": "001",
+   "image": "ep11_the_last_thing_he_saw/16_tent_at_evening.jpg",
+   "card": "A tent at evening, in Beersheba",
+   "prompt": "",
+   "description": "A large goat-hair tent in open pasture at evening, its front open and a lamp glowing inside; a flock settles nearby and a lone figure approaches, seen from far behind."
+  },
+  {
+   "from": "002",
+   "image": "ep12_the_voice_and_the_hands/01_inside_the_tent.jpg",
+   "card": "My father",
+   "prompt": "Inside a large goat-hair tent at evening, a single clay lamp burning, a very old man seated on cushions against the far wall seen from the side and at a distance, his head turned toward the door, the woven matting of the floor leading to the open flap where the last daylight comes in, nobody else inside.",
+   "description": "Inside a goat-hair tent at evening. One clay lamp burns. A very old man sits on cushions against the far wall, seen from the side and at a distance, his head turned toward the open door flap where the last daylight comes in. The floor is woven matting. No one else is inside."
+  },
+  {
+   "from": "003",
+   "image": "ep12_the_voice_and_the_hands/01_inside_the_tent.jpg",
+   "card": "Which one are you, my son?",
+   "prompt": "",
+   "description": "Inside the tent again: the old man on his cushions, turned toward the door."
+  },
+  {
+   "from": "004",
+   "image": "ep12_the_voice_and_the_hands/01_inside_the_tent.jpg",
+   "card": "He knows that voice",
+   "prompt": "",
+   "description": "The old man in the lamplit tent, listening."
+  },
+  {
+   "from": "005",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: a familiar sound in the wrong place",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "006",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "This is Not By Sight",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "007",
+   "image": "site_batch2/15_eyes_dim_with_grief.jpg",
+   "card": "Sight lost and not given back",
+   "prompt": "",
+   "description": "An old man seated in a doorway with his face in shadow, the light behind him; the series picture."
+  },
+  {
+   "from": "007",
+   "image": "ep12_the_voice_and_the_hands/title_card.jpg",
+   "card": "Not By Sight\nEpisode 12: The voice and the hands",
+   "at_phrase": "Everything else is from the text",
+   "prompt": "Title card over a camp of dark goat-hair tents at evening on the edge of the desert, one tent lit from within, the sky above going from gold to deep blue, no people, keep the upper half calm for lettering.",
+   "description": "Title card background only: a camp of dark goat-hair tents at evening on the edge of the desert, one tent lit from within, the sky going from gold to deep blue, no people, the upper half calm for lettering."
+  },
+  {
+   "from": "008",
+   "image": "ep12_the_voice_and_the_hands/02_beersheba_camp.jpg",
+   "card": "Where we are: Isaac",
+   "prompt": "A camp of goat-hair tents beside a stone-lined well at the southern edge of the land, flocks of sheep and goats grazing on dry pasture, a few low tamarisk trees, the dry hills of the Negev behind under a wide pale sky, small figures of shepherds far off.",
+   "description": "A camp of goat-hair tents beside a stone-lined well at the edge of the desert. Flocks graze on dry pasture, a few low tamarisk trees stand near the well, and the dry hills of the Negev rise behind under a wide pale sky. Shepherds are small figures far off."
+  },
+  {
+   "from": "008",
+   "image": "ep12_the_voice_and_the_hands/03_moriah.jpg",
+   "card": "The boy who carried the wood",
+   "at_phrase": "the boy who carried the wood up Mount Moriah",
+   "prompt": "A father and a boy climbing a rocky hill path together, seen from far behind, the boy carrying a bundle of firewood on his shoulder and the man carrying a knife and a small pot of fire, the hilltop above them bare against a morning sky.",
+   "description": "A father and a boy climb a rocky hill path, seen from far behind. The boy carries a bundle of firewood on his shoulder; the man carries a knife and a small pot of fire. The bare hilltop is above them against a morning sky."
+  },
+  {
+   "from": "008",
+   "image": "ep12_the_voice_and_the_hands/04_esau_hunting.jpg",
+   "card": "Esau, a hunter",
+   "at_phrase": "Esau came out first",
+   "prompt": "A broad-shouldered man with a bow and a quiver on his back walking away alone into open rolling country in early morning, seen from behind at a distance, long grass and scattered rocks, a hare bolting ahead of him.",
+   "description": "A broad-shouldered man with a bow and quiver walks away alone into open rolling country in early morning, seen from behind at a distance. Long grass, scattered rocks, and a hare bolting ahead of him."
+  },
+  {
+   "from": "008",
+   "image": "ep12_the_voice_and_the_hands/02_beersheba_camp.jpg",
+   "card": "And Isaac's eyes have failed",
+   "at_phrase": "Abraham had made his servant swear",
+   "prompt": "",
+   "description": "The camp at Beersheba again."
+  },
+  {
+   "from": "008",
+   "image": "maps/ep12.png",
+   "card": "Where this is",
+   "at_phrase": "Where this is.",
+   "prompt": "",
+   "description": "The episode map: Beersheba in gold at the southern edge of the land, with Hebron, Jerusalem and far Haran marked on the line north, and the panel giving the walking times in words."
+  },
+  {
+   "from": "009",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 27:1-4",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "010",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 27:1-4",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "010",
+   "image": "ep12_the_voice_and_the_hands/04_esau_hunting.jpg",
+   "card": "Go out into the field",
+   "at_phrase": "go out into the field to hunt",
+   "prompt": "",
+   "description": "Esau walking out to hunt, seen from behind."
+  },
+  {
+   "from": "011",
+   "image": "ep12_the_voice_and_the_hands/01_inside_the_tent.jpg",
+   "card": "I do not know the day of my death",
+   "prompt": "",
+   "description": "The old man in the lamplit tent."
+  },
+  {
+   "from": "011",
+   "image": "ep12_the_voice_and_the_hands/05_rebekah_listening.jpg",
+   "card": "Someone else was in earshot",
+   "at_phrase": "someone else was in earshot",
+   "prompt": "The outside wall of a goat-hair tent in afternoon light, a woman in a long robe and head covering standing very still close against the tent wall, seen from behind, her head inclined toward the cloth as if listening, a water jar set down at her feet.",
+   "description": "The outside of a goat-hair tent in afternoon light. A woman in a long robe and head covering stands very still against the tent wall, seen from behind, her head inclined toward the cloth as if listening. A water jar is set down at her feet."
+  },
+  {
+   "from": "012",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 27:5-17",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "012",
+   "image": "ep12_the_voice_and_the_hands/06_the_cooking_fire.jpg",
+   "card": "Two choice young goats",
+   "at_phrase": "Go out to the flock",
+   "prompt": "A small cooking fire outside a tent with a clay pot steaming over it, two fresh goat skins laid out on a rock beside it, a folded fine robe set carefully on a mat, and a round of flat bread, no people, late afternoon light.",
+   "description": "A small cooking fire outside a tent with a clay pot steaming over it. Two fresh goat skins are laid out on a rock beside the fire, a folded fine robe rests on a mat, and a round of flat bread lies ready. No one is in the picture. Late afternoon light."
+  },
+  {
+   "from": "013",
+   "image": "ep12_the_voice_and_the_hands/06_the_cooking_fire.jpg",
+   "card": "Meat for his tongue, skins for his hands",
+   "prompt": "",
+   "description": "The cooking fire, the goat skins and the folded robe."
+  },
+  {
+   "from": "014",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 27:18-29",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "014",
+   "image": "site_batch1/01_isaac.jpg",
+   "card": "The voice is the voice of Jacob",
+   "at_phrase": "Please come closer so I can touch you",
+   "prompt": "",
+   "description": "Inside the tent in lamplight, the old man reaches out both hands to feel the forearm of a younger man kneeling before him with a bowl of food, seen from behind."
+  },
+  {
+   "from": "014",
+   "image": "ep12_the_voice_and_the_hands/07_the_blessed_field.jpg",
+   "card": "The smell of a field the LORD has blessed",
+   "at_phrase": "the smell of my son is like the smell of a field",
+   "prompt": "A wide field of ripening grain at sunrise, heavy with dew that catches the light, a vineyard on the slope beyond, low hills in soft morning haze, no people.",
+   "description": "A wide field of ripening grain at sunrise, heavy with dew that catches the light. A vineyard climbs the slope beyond and low hills stand in soft morning haze. No people."
+  },
+  {
+   "from": "015",
+   "image": "site_batch1/01_isaac.jpg",
+   "card": "Count what he did",
+   "prompt": "",
+   "description": "The old man feeling the kneeling man's arm, seen from behind."
+  },
+  {
+   "from": "016",
+   "image": "ep12_the_voice_and_the_hands/01_inside_the_tent.jpg",
+   "card": "An imagined scene",
+   "prompt": "",
+   "description": "The lamplit tent, the old man alone."
+  },
+  {
+   "from": "017",
+   "image": "ep12_the_voice_and_the_hands/01_inside_the_tent.jpg",
+   "card": "Isaac is alone, and he is content",
+   "prompt": "",
+   "description": "The lamplit tent, the old man alone."
+  },
+  {
+   "from": "018",
+   "image": "ep12_the_voice_and_the_hands/08_esau_at_the_door.jpg",
+   "card": "My father",
+   "prompt": "Seen from inside a dim tent, the open door flap with the evening sky beyond, a big man standing in the doorway in silhouette against the light, a bow over his shoulder and a covered dish in his hands, his face not visible.",
+   "description": "Seen from inside a dim tent: the open door flap with the evening sky beyond, and a big man standing in the doorway in silhouette against the light, a bow over his shoulder and a covered dish in his hands. His face is not visible."
+  },
+  {
+   "from": "019",
+   "image": "ep12_the_voice_and_the_hands/08_esau_at_the_door.jpg",
+   "card": "Who are you?",
+   "prompt": "",
+   "description": "The big man in the doorway, in silhouette."
+  },
+  {
+   "from": "020",
+   "image": "ep12_the_voice_and_the_hands/08_esau_at_the_door.jpg",
+   "card": "The same two words",
+   "prompt": "",
+   "description": "The big man in the doorway, in silhouette."
+  },
+  {
+   "from": "021",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 27:30-38",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "021",
+   "image": "ep12_the_voice_and_the_hands/09_outside_at_dusk.jpg",
+   "card": "Bless me too, O my father!",
+   "at_phrase": "he let out a loud and bitter cry",
+   "prompt": "Outside a goat-hair tent at dusk, a large man sitting on the ground a little way off with his back to us and his head bowed into his hands, the tent's lamp glowing faintly through the cloth, the first stars out, a quiet scene.",
+   "description": "Outside a goat-hair tent at dusk. A large man sits on the ground a little way off with his back to us, his head bowed into his hands. The tent's lamp glows faintly through the cloth and the first stars are out."
+  },
+  {
+   "from": "022",
+   "image": "ep12_the_voice_and_the_hands/09_outside_at_dusk.jpg",
+   "card": "Tremble violently",
+   "prompt": "",
+   "description": "Outside the tent at dusk, the man seated on the ground with his head in his hands."
+  },
+  {
+   "from": "023",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Brian, what do you hear in this one?",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "024",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Two kinds of trust",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "024",
+   "image": "site_batch1/01_isaac.jpg",
+   "card": "Isaac's hands",
+   "at_phrase": "When I first read this",
+   "prompt": "",
+   "description": "The old man's hands on the kneeling man's arm, seen from behind."
+  },
+  {
+   "from": "024",
+   "image": "ep12_the_voice_and_the_hands/02_beersheba_camp.jpg",
+   "card": "Beersheba was his place",
+   "at_phrase": "It helps to remember where he was",
+   "prompt": "",
+   "description": "The camp at Beersheba."
+  },
+  {
+   "from": "024",
+   "image": "ep12_the_voice_and_the_hands/08_esau_at_the_door.jpg",
+   "card": "Esau's voice",
+   "at_phrase": "The detail that stays with me",
+   "prompt": "",
+   "description": "The big man in the doorway, in silhouette."
+  },
+  {
+   "from": "025",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "How I can trust anyone",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "026",
+   "image": "ep12_the_voice_and_the_hands/10_levys_study.jpg",
+   "card": "William Hanks Levy, 1872",
+   "prompt": "A plain London study in the year 1872, a man seated at a desk with his back to the viewer, his fingertips resting on the raised dots of an embossed book, a coal fire in a small grate, rain on the window, shelves of books, gaslight.",
+   "description": "A plain London study in 1872. A man sits at a desk with his back to the viewer, his fingertips resting on the raised dots of an embossed book. A coal fire burns in a small grate, rain runs on the window, and books line the shelves under gaslight."
+  },
+  {
+   "from": "027",
+   "image": "ep12_the_voice_and_the_hands/10_levys_study.jpg",
+   "card": "A blind man reads the chapter",
+   "prompt": "",
+   "description": "Levy's study in London, the man at his desk with his fingers on an embossed book."
+  },
+  {
+   "from": "028",
+   "image": "ep12_the_voice_and_the_hands/10_levys_study.jpg",
+   "card": "Almost enough to find the fraud out",
+   "prompt": "",
+   "description": "Levy's study."
+  },
+  {
+   "from": "028",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "Matthew Henry",
+   "at_phrase": "Matthew Henry, a century and a half earlier",
+   "prompt": "",
+   "description": "Matthew Henry's study, the writing desk by the window."
+  },
+  {
+   "from": "029",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "If he could have trusted his own ears",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "030",
+   "image": "site_batch1/01_isaac.jpg",
+   "card": "He chose the hands",
+   "prompt": "",
+   "description": "The old man's hands on the kneeling man's arm, seen from behind."
+  },
+  {
+   "from": "031",
+   "image": "ep12_the_voice_and_the_hands/11_the_lamp_grows_dim.jpg",
+   "card": "The word: kah-HAH",
+   "prompt": "A single clay oil lamp on a low wooden stand inside a tent, its flame burned down small and dim, the first grey light of dawn coming through the tent cloth and slowly outshining it, nobody in sight.",
+   "description": "A single clay oil lamp on a low wooden stand inside a tent, its flame burned down small and dim. The first grey light of dawn comes through the tent cloth and begins to outshine it. No one is in sight."
+  },
+  {
+   "from": "031",
+   "image": "site_batch2/12_eyes_that_cannot_see.jpg",
+   "card": "Dim, dull, fading",
+   "at_phrase": "The second old man is Eli",
+   "prompt": "",
+   "description": "An old man's face in shadow, turned from the light; the series picture for eyes that cannot see."
+  },
+  {
+   "from": "032",
+   "image": "ep12_the_voice_and_the_hands/12_the_road_to_haran.jpg",
+   "card": "What came after: the road to Haran",
+   "prompt": "A young man with a staff and a small pack walking away alone up a long dirt road toward the north, seen from far behind, early morning, the dry hills of the south giving way to greener country ahead, a very long way to go.",
+   "description": "A young man with a staff and a small pack walks away alone up a long dirt road toward the north, seen from far behind. Early morning. The dry hills of the south give way to greener country ahead."
+  },
+  {
+   "from": "032",
+   "image": "ep12_the_voice_and_the_hands/13_the_second_blessing.jpg",
+   "card": "He blessed him again",
+   "at_phrase": "He called Jacob in and blessed him again",
+   "prompt": "The open front of a goat-hair tent in clear morning light, a very old man seated inside with both hands raised in blessing over a young man who kneels before him with a travelling pack beside him, both seen from behind the young man and at a distance, no faces visible.",
+   "description": "The open front of a goat-hair tent in clear morning light. A very old man sits inside with both hands raised in blessing over a young man who kneels before him, a travelling pack at his side. Both are seen from behind the young man and at a distance; no faces are visible."
+  },
+  {
+   "from": "033",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Hebrews 11:1 and 20",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "034",
+   "image": "ep12_the_voice_and_the_hands/13_the_second_blessing.jpg",
+   "card": "By faith Isaac blessed Jacob",
+   "prompt": "",
+   "description": "The old man blessing the kneeling young man in the morning light."
+  },
+  {
+   "from": "035",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 28:3-4",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "036",
+   "image": "ep12_the_voice_and_the_hands/13_the_second_blessing.jpg",
+   "card": "The blessing of Abraham, given on purpose",
+   "prompt": "",
+   "description": "The old man blessing the kneeling young man."
+  },
+  {
+   "from": "036",
+   "image": "ep12_the_voice_and_the_hands/12_the_road_to_haran.jpg",
+   "card": "Jacob was gone twenty years",
+   "at_phrase": "Jacob was gone twenty years",
+   "prompt": "",
+   "description": "The young man on the long road north."
+  },
+  {
+   "from": "037",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 35:28-29",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "038",
+   "image": "ep12_the_voice_and_the_hands/14_the_cave_at_hebron.jpg",
+   "card": "Both of them, together, at one grave",
+   "prompt": "The mouth of a cave in a hillside among old terebinth and oak trees near Hebron, two men standing side by side before it with their backs to the viewer, one broad and one lean, late afternoon light through the leaves, a quiet and settled scene.",
+   "description": "The mouth of a cave in a hillside among old oak and terebinth trees near Hebron. Two men stand side by side before it with their backs to the viewer, one broad and one lean. Late afternoon light falls through the leaves."
+  },
+  {
+   "from": "039",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Brian, with the last word",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "040",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "What trust looks like when sight is gone",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "041",
+   "image": "ep12_the_voice_and_the_hands/15_jacob_in_egypt.jpg",
+   "card": "Next time: Jacob",
+   "prompt": "A dim room in ancient Egypt with a strip of Nile light through a high window, a very old man sitting up on a couch and reaching out with his arms crossed over the heads of two boys who kneel before him, a younger man standing to one side, all seen from behind and at a distance.",
+   "description": "A dim room in ancient Egypt, a strip of light from the Nile through a high window. A very old man sits up on a couch and reaches out with his arms crossed over the heads of two boys kneeling before him; a younger man stands to one side. All are seen from behind and at a distance."
+  },
+  {
+   "from": "042",
+   "image": "ep12_the_voice_and_the_hands/02_beersheba_camp.jpg",
+   "card": "This has been Not By Sight",
+   "prompt": "",
+   "description": "The camp at Beersheba."
+  },
+  {
+   "from": "042",
+   "image": "ep12_the_voice_and_the_hands/close_card.jpg",
+   "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
+   "at_phrase": "For we walk by faith, not by sight.",
+   "prompt": "Closing card over dawn on a long road running north out of the dry country, the first light on the hills ahead, no people, keep the upper half calm for lettering.",
+   "description": "Closing card background only: dawn on a long road running north out of the dry country, the first light on the hills ahead, no people, the upper half calm for lettering."
+  }
+ ]
+}
