@@ -68,7 +68,7 @@ def main(project: str, mix_path: str) -> None:
         if sid in aliases:
             f = root / aliases[sid]
         sec = load_mono(f)
-        lo = max(0, cursor - SR * 5)
+        lo = max(0, cursor - SR * 20)    # a section may be cut short in the mix (ep12, line 030), so look back a little
         hi = min(len(mix), cursor + len(sec) + SR * 90)   # sections stay in order; allow up to 90 s of inserted material
         off, conf = find(sec, mix, lo, hi)
         start, end = off / SR, (off + len(sec)) / SR

@@ -1,0 +1,8 @@
+@project: ep12_the_voice_and_the_hands_v2
+@section: 1
+@cast: casts/not_by_sight.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Pickup 2 November 2026: Brian asked for two more takes of the Narrator on clip 032.
+[NARRATOR] {id=032} (calm) What came after. Esau swore to kill his brother once the mourning for their father was over. Rebekah heard of it and sent Jacob to her brother in Haran, telling Isaac it was to find a wife. And then Isaac did something the chapter we read does not prepare you for. He called Jacob in and blessed him again, this time knowing exactly who he was. The New Testament remembers that second blessing, in the chapter that lists the people who lived by faith. The chapter opens with a definition. Hebrews chapter 11, verse 1, and then, skipping to the one verse it gives to Isaac, verse 20.
