@@ -1,0 +1,43 @@
+id,speaker,start_sec,end_sec,confidence,first_words
+001,NARRATOR,5.00,16.12,202.8,"Imagine a tent at evening, in Beersheba, a"
+002,JACOB,20.62,23.42,87.8,My father.
+003,ISAAC,25.42,28.06,64.1,"Here I am. Which one are you, my"
+004,NARRATOR,28.81,44.57,202.7,Which one are you? He knows that voice.
+005,BRIAN,45.07,78.43,204.8,A familiar sound where it does not belong
+006,NARRATOR,81.89,102.93,188.6,"This is Not By Sight, a series on"
+007,NARRATOR,103.93,158.33,147.5,This episode is part of our series on
+008,NARRATOR,159.83,306.95,177.2,"First, where we are. Isaac is the son"
+009,NARRATOR,310.95,314.31,76.9,"Genesis chapter 27, verses 1 to 4."
+010,READER,314.81,348.89,140.1,When Isaac was old and his eyes were
+011,NARRATOR,349.89,391.73,127.0,I do not know the day of my
+012,READER,392.23,486.71,138.2,Now Rebekah was listening to what Isaac told
+013,NARRATOR,487.51,522.95,142.4,Notice who raises the problem of touch. Not
+014,READER,523.15,642.43,159.3,"So Jacob went to his father and said,"
+015,NARRATOR,643.43,698.79,152.8,Count what he did. He asked which son
+016,NARRATOR,700.25,710.73,143.6,Now imagine the next few minutes. The text
+017,NARRATOR,711.52,734.88,166.8,"Isaac is alone, and he is content. He"
+018,ESAU,738.13,740.05,104.4,My father.
+019,ISAAC,739.55,741.39,41.1,Who are you?
+020,NARRATOR,741.64,781.88,164.9,Who are you? The same two words he
+021,READER,783.86,881.14,165.3,As soon as Isaac had finished blessing him
+022,NARRATOR,882.14,922.14,175.6,Tremble violently. The Hebrew says he trembled a
+023,NARRATOR,923.64,925.56,127.2,"Brian, what do you hear in this one?"
+024,BRIAN,926.06,1054.06,199.1,"I hear trust, two kinds of it. The"
+025,BRIAN,1057.16,1108.52,206.5,"People ask me how I can trust anyone,"
+026,NARRATOR,1110.80,1131.84,216.4,"Now the old books, and this time one"
+027,BOOKS,1132.34,1143.38,127.1,The intelligent use made by Isaac of his
+028,NARRATOR,1144.36,1182.68,200.3,And at the end of the passage he
+029,HENRY,1183.18,1203.98,174.5,"Isaac was at first dissatisfied, and would have"
+030,NARRATOR,1205.48,1212.55,42.7,If he could have trusted his own ears.
+031,NARRATOR,1213.05,1316.81,156.4,Now the word. Each of these six stories
+032,NARRATOR,1319.81,1362.85,169.4,What came after. Esau swore to kill his
+033,READER,1363.37,1374.97,79.5,Now faith is the assurance of what we
+034,NARRATOR,1376.72,1405.12,163.1,"The certainty of what we do not see,"
+035,READER,1406.22,1426.14,172.1,May God Almighty bless you and make you
+036,NARRATOR,1427.24,1453.48,163.4,"The blessing of Abraham, given on purpose this"
+037,READER,1453.93,1467.85,207.6,And Isaac lived 180 years. Then he breathed
+038,NARRATOR,1468.60,1494.28,190.1,"His sons Esau and Jacob. Both of them,"
+039,NARRATOR,1495.53,1497.61,85.0,"Brian, with the last word."
+040,BRIAN,1498.11,1538.75,230.3,"The first time, Isaac checked everything he could."
+041,NARRATOR,1542.45,1569.01,236.0,"Next time, the son. Jacob, who stood in"
+042,NARRATOR,1572.01,1598.25,220.8,This has been Not By Sight. The full
