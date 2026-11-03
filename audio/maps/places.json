@@ -271,6 +271,25 @@
    "kind": "waypoint",
    "stories": [],
    "note": "A bend of the Euphrates road; a waypoint for the wide map only, never drawn as a place."
+  },
+  "haran": {
+   "name": "Haran",
+   "lat": 36.87,
+   "lon": 39.03,
+   "kind": "city",
+   "stories": [
+    "isaac",
+    "jacob"
+   ],
+   "note": "Rebekah's home city in the far north, where Jacob fled from Esau and served Laban twenty years. Shown only on the wide map."
+  },
+  "wp_aleppo": {
+   "name": "",
+   "lat": 36.2,
+   "lon": 37.15,
+   "kind": "waypoint",
+   "stories": [],
+   "note": "The road north from Damascus toward Haran; a waypoint for the wide map only, never drawn as a place."
   }
  },
  "off_map": [
@@ -439,6 +458,32 @@
     "- Babylon: 2 months more, down the Euphrates, where he died"
    ],
    "description": "Episode 11, The last thing he saw. This map is wider than the series map: it reaches from Egypt in the south-west to Babylon in the east. Jerusalem is in gold. A line marks the king's road. Stand at Jerusalem and face north; north is twelve o'clock. Jericho is about six hours' walk downhill at two o'clock; the plains of Jericho are where Zedekiah was caught. Riblah, in the land of Hamath, is straight ahead at twelve o'clock, past Damascus, about two to three weeks' march for an army column; there he was sentenced and blinded. Babylon is far to the east: the road runs north from Riblah to the Euphrates and follows the river down to the city, about two months more on foot. Jerusalem, Riblah, Babylon, in that order."
+  },
+  "ep12": {
+   "title": "The voice and the hands",
+   "focus": "beersheba",
+   "visited": [],
+   "route": [
+    "hebron",
+    "jerusalem",
+    "damascus",
+    "wp_aleppo",
+    "haran"
+   ],
+   "frame": {
+    "lat_min": 30.6,
+    "lat_max": 37.6,
+    "lon_min": 33.0,
+    "lon_max": 41.2
+   },
+   "panel": [
+    "In gold: Beersheba, Isaac's tent; and the road Jacob ran.",
+    "Facing north from Beersheba, north at twelve o'clock:",
+    "- Hebron: a day, 1 o'clock, where Isaac was buried",
+    "- Jerusalem: 2 days more, the same line",
+    "- Haran: about a month, 1 o'clock, Rebekah's city"
+   ],
+   "description": "Episode 12, The voice and the hands. This map is wider than the series map: it reaches from Beersheba in the south to Haran in the far north. Beersheba is in gold, at the southern edge of the settled land, where Isaac reopened his father's wells; Genesis does not say the tent was anywhere else. A line marks the road Jacob took when he ran. Stand at Beersheba and face north; north is twelve o'clock. Hebron, where Isaac would die and be buried with Abraham, is about a day's walk at one o'clock. Jerusalem is about two days further on the same line. The road goes on north past Damascus, and far beyond it, at the top of the map, is Haran, the city Rebekah came from, about a month's walk. Beersheba, Hebron, Jerusalem, Haran, in that order."
   }
  }
 }

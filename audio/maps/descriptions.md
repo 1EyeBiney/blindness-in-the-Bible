@@ -29,6 +29,8 @@ Base map. The Great Sea lies to the west. The Jordan runs south from the Sea of 
 - : about 15 and a half days' walk, at 1 o'clock from Jerusalem. A bend of the Euphrates road; a waypoint for the wide map only, never drawn as a place.
 - : about 17 days' walk, at 2 o'clock from Jerusalem. A bend of the Euphrates road; a waypoint for the wide map only, never drawn as a place.
 - : about 21 days' walk, at 2 o'clock from Jerusalem. A bend of the Euphrates road; a waypoint for the wide map only, never drawn as a place.
+- Haran: about 18 and a half days' walk, at 1 o'clock from Jerusalem. Rebekah's home city in the far north, where Jacob fled from Esau and served Laban twenty years. Shown only on the wide map.
+- : about 14 and a half days' walk, at 1 o'clock from Jerusalem. The road north from Damascus toward Haran; a waypoint for the wide map only, never drawn as a place.
 - Babylon and Riblah: far to the north-east, beyond the map. Zedekiah was blinded at Riblah in Syria and taken to Babylon; both lie beyond this map.
 - Egypt: far to the south-west, beyond the map. Jacob blessed Joseph's sons in Egypt, beyond this map.
 - Nineveh and Ecbatana: far to the north-east, beyond the map. Tobit's story, if included, lies in Assyria and Media, beyond this map.
@@ -130,3 +132,7 @@ From Gaza, Jerusalem is about 2 days' walk, at 2 o'clock.
 ## ep11.png
 
 Episode 11, The last thing he saw. This map is wider than the series map: it reaches from Egypt in the south-west to Babylon in the east. Jerusalem is in gold. A line marks the king's road. Stand at Jerusalem and face north; north is twelve o'clock. Jericho is about six hours' walk downhill at two o'clock; the plains of Jericho are where Zedekiah was caught. Riblah, in the land of Hamath, is straight ahead at twelve o'clock, past Damascus, about two to three weeks' march for an army column; there he was sentenced and blinded. Babylon is far to the east: the road runs north from Riblah to the Euphrates and follows the river down to the city, about two months more on foot. Jerusalem, Riblah, Babylon, in that order.
+
+## ep12.png
+
+Episode 12, The voice and the hands. This map is wider than the series map: it reaches from Beersheba in the south to Haran in the far north. Beersheba is in gold, at the southern edge of the settled land, where Isaac reopened his father's wells; Genesis does not say the tent was anywhere else. A line marks the road Jacob took when he ran. Stand at Beersheba and face north; north is twelve o'clock. Hebron, where Isaac would die and be buried with Abraham, is about a day's walk at one o'clock. Jerusalem is about two days further on the same line. The road goes on north past Damascus, and far beyond it, at the top of the map, is Haran, the city Rebekah came from, about a month's walk. Beersheba, Hebron, Jerusalem, Haran, in that order.
