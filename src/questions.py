@@ -124,6 +124,15 @@ GROUPS = [
               "That is one reason Brian reads Leah's weak eyes as a fact about her eyes rather than her face.",
          "links": [("stories/jacob.html", "Jacob blesses Joseph's sons")],
          "check": "The only ugly things in the whole Bible are Pharaoh's cows"},
+        {"q": "Why did Ephraim and Manasseh each get a share, when Joseph should have had one of twelve? Did his "
+              "position in Egypt, or their Egyptian mother, have anything to do with it?",
+         "asked": "2026-11-07",
+         "a": "It is the firstborn's double portion. Reuben lost the birthright and 1 Chronicles 5 says it went to "
+              "the sons of Joseph, Rachel's firstborn, so his two sons became two tribes. Their mother was Egyptian, "
+              "a priest's daughter, and Jacob's adoption named that and overrode it. Joseph himself was bound to "
+              "Egypt and never left; only his bones did, to Shechem.",
+         "links": [("stories/jacob.html", "Jacob blesses Joseph's sons")],
+         "check": "It is the firstborn's double portion"},
         {"q": "Eli and Ahijah both lived in Shiloh. How would each of their duties have been altered by losing their "
               "sight?",
          "asked": "2026-10-03",

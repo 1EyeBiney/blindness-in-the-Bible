@@ -174,7 +174,15 @@ STORIES = [
         "came_of_it": "The crossed hands held. When the tribes were counted in the wilderness, Ephraim outnumbered "
                       "Manasseh and carried the standard of their camp. Joshua came from Ephraim, and so, centuries "
                       "later, did the northern kingdom's first king. The man who could hardly see had seen further "
-                      "than his son.",
+                      "than his son. Why two tribes for one son? It is the firstborn's double portion. Reuben, the "
+                      "firstborn, lost the birthright for defiling his father's bed, and 1 Chronicles 5 says it was "
+                      "given to the sons of Joseph, Rachel's firstborn; the way to give one son a double share of "
+                      "land is to make his two sons two tribes. And those two were half Egyptian, born to Asenath, "
+                      "daughter of the priest of On, in a country that would not eat at a table with a Hebrew. Jacob "
+                      "named the one thing that could have kept them out, born to you in Egypt, and overrode it. Joseph "
+                      "himself never left: bound to Egypt by his office, he died there and made Israel swear to carry "
+                      "his bones up. Joshua buried them at Shechem, on the land Jacob handed him at the end of this "
+                      "chapter.",
         "around": "Many years after deceiving his blind father, Jacob is himself old and can hardly see. He is in "
                   "Egypt, reunited with his son Joseph, whom he had long believed dead. Joseph brings his two sons, "
                   "Manasseh the elder and Ephraim the younger, to be blessed before Jacob dies.",
