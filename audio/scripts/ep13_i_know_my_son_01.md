@@ -1,14 +1,14 @@
 # Not By Sight, episode 13: I know, my son
 
-Script for reading, draft 1 (31 October 2026, drafted against the series template; the second of the father and son pair). Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Scene voices: Jacob (an old man; the same voice as Isaac in episode 12), Joseph (a man in his fifties, two lines). Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix. The title is provisional; "Jacob blesses Joseph's sons" is the page's.
+Script for reading, draft 2 (7 November 2026: the opening moved to where the chapter puts the question, verses 5 and 6 read, Jacob's life told as the chain of times his eyes could not be trusted, with an imagined moment at the wagons; draft 1 was 31 October 2026). The second of the father and son pair. Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Scene voices: Israel (old Jacob, three lines: at the wagons, at the bed, and I know), Joseph (a man in his fifties, one line). Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix. The title is provisional; "Jacob blesses Joseph's sons" is the page's.
 
 *(SFX, if you can: the tent at evening from episode 12, two seconds, then cut to silence.)*
 
 **Narrator** *(calm)* Last time, a blind father in a tent said, the voice is the voice of Jacob, but the hands are the hands of Esau. And he chose the hands. Now go about seventy years on, and six hundred miles south-west.
 
-*(SFX, required: a sickroom in a stone house in Egypt. Linen moving. An old man's breath. Outside the door, two boys' bare feet on a stone floor, and a man's sandals, coming in. Four seconds alone, then under the next line.)*
+*(SFX, required: a sickroom in a stone house in Egypt. Linen moving. An old man's breath. Under it, an old voice talking low and steady, words we cannot make out, for four seconds. Then the voice stops.)*
 
-**Narrator** *(calm)* Imagine a house in Goshen, in the north of Egypt, a long time ago. The old man in the bed cannot see. Someone has just told him his son has come, and he has made himself sit up.
+**Narrator** *(calm)* Imagine a house in Goshen, in the north of Egypt, a long time ago. The old man in the bed cannot see. His son came in a while ago, and the old man has been talking ever since: about a promise God made him, about a grave beside a road, about his son's two boys, whom he has just claimed as his own, by name. Now he stops. He has made out two shapes at the foot of the bed.
 
 *(pause 1.5 s)*
 
@@ -16,9 +16,9 @@ Script for reading, draft 1 (31 October 2026, drafted against the series templat
 
 *(pause 2.0 s)*
 
-**Narrator** *(calm)* Who are these. That is Jacob, the son who stood in the goatskin, and the question is almost his father's. Which one are you. Who are these. Two blind men, two generations apart, asking the same thing of the room. Here is Brian, by way of Mister Scaredy Cat, on that question.
+**Narrator** *(calm)* Who are these. That is Jacob, the son who stood in the goatskin, and the question is almost his father's. Which one are you. Who are these. Two blind men, two generations apart, asking the same thing of the room. Here is Brian on that question.
 
-**Brian** *(calm)* DRAFT. Who is in the room is the first thing a blind man needs to know and the last thing anyone thinks to tell him. People walk in and assume you know. Children especially. I have asked Jacob's question more times than I can count, and I have learned to ask it the way he did, out loud and early, before anyone has said anything I would have to pretend I knew who said. The difference between Isaac and Jacob is not that one asked and the other did not. Both asked. The difference is what each of them did with the answer, and that is this episode.
+**Brian** *(calm)* DRAFT. Isaac asked who was there, and he was lied to. Jacob asked who was there, and he was told the truth. Same question, same family, one generation apart. Asking is not the hard part. Every blind person asks who is in the room. The hard part is what comes after. Somebody answers you, and you have to decide whether to believe them. Isaac believed a lie and gave away the blessing. Jacob believed the truth, and then went on to trust his own hands over his son's eyes. Two blind men, two answers, two very different endings. That is what this episode is about.
 
 *(pause 1.5 s)*
 
@@ -30,13 +30,35 @@ Script for reading, draft 1 (31 October 2026, drafted against the series templat
 
 ---
 
-**Narrator** *(calm)* First, where we are. Jacob left his father's tent with a stolen blessing and ran to Haran, and the Bible spends the rest of his life paying him back in his own coin. In Haran his uncle put the wrong sister into his bed in the dark, and in the morning there was Leah. Years later his own sons brought him a robe dipped in goat's blood, and he recognized it by touch and sight and believed his favourite son was dead. The man who fooled his blind father with a goatskin and a borrowed garment was fooled in his turn: first by the dark, and then by his own sons, with a garment and the blood of a goat. He was a hundred and thirty when he learned that Joseph was alive and ruling Egypt, and he went down to him and said, finally I can die, now that I have seen your face. He did not die. He lived seventeen more years in Goshen, and in those years his eyes went. By the chapter we are reading he is a hundred and forty-seven, he has made Joseph swear to carry him home to the family grave, and he is ill. Joseph is told, and he comes, and he brings his two sons.
+**Narrator** *(calm)* First, where we are, and it takes a whole life to say, because Jacob spent his whole life learning one thing: that eyes cannot be trusted. He learned it first by using it. In his father's tent he put on goatskin and his brother's clothes and lied to a blind man, and the blind man's hands and nose and mouth all told him the lie was true. Jacob walked out with the blessing and learned that a man who cannot see can be fooled by everything else.
+
+**Narrator** *(calm)* Then it was done to him. He ran to Haran and worked seven years for Rachel, and on the wedding night his uncle put the wrong sister into his bed in the dark. When morning came, there was Leah. The dark had done to Jacob what blindness had done to his father, and when he asked why he had been deceived, Laban's answer was about the younger and the older. The Bible was paying him back in his own coin.
+
+**Narrator** *(calm)* Twenty years later, going home, he spent a night alone by the river Jabbok wrestling a man he could not see, until daybreak. And when it was over he named the place Peniel, the face of God, and said, I have seen God face to face. He said he had seen, on the one night of his life when he could see nothing at all.
+
+**Narrator** *(calm)* Then his eyes lied to him outright. His sons brought him Joseph's robe dipped in the blood of a goat, and said, examine it. He looked at it, and he recognized it, and he said, Joseph has surely been torn to pieces. His eyes were right about the robe and wrong about everything that mattered, and he believed them for twenty years. The man who had fooled his father with a garment and a goat was fooled by his sons with a garment and a goat.
+
+**Narrator** *(calm)* And then the wagons. He was a hundred and thirty. His sons came back from Egypt and told him Joseph was alive and ruling the whole land, and the text says he was stunned, because he did not believe them. True words, and he would not take them. What changed his mind was not what they said. It was what he saw. Imagine that afternoon in Hebron.
+
+*(SFX, required: open country. A warm wind. Far off, and coming slowly closer over the next lines, the creak and rumble of heavy wagons and the tread of oxen on a dirt road. Let it build.)*
+
+**Narrator** *(calm)* An old man standing outside his tent, his sons around him still talking, and he is not listening to them. He is looking down the road. Something is coming up it that he has never seen in his life: wagons, Egyptian wagons, big ones, the kind nobody in Canaan owns, and the dust of a long train behind them.
+
+*(pause 1.5 s)*
+
+**Israel** *(old, half to himself)* Words. You can bring me words all day. Those are wagons.
+
+*(pause 1.5 s)*
+
+**Narrator** *(calm)* That is imagined. What Genesis says is that when he saw the wagons Joseph had sent to carry him back, the spirit of their father Jacob was revived, and he said, enough, my son Joseph is still alive, I will go to see him before I die. So at a hundred and thirty, after the tent, and the dark, and the river, and the robe, he was still a man who had to see a thing before he would believe it. He went down to Egypt, and when he met Joseph he said, finally I can die, now that I have seen your face.
+
+**Narrator** *(calm)* He did not die. He lived seventeen more years in Goshen, and in those years his eyes went. By the chapter we are reading he is a hundred and forty-seven, he has made Joseph swear to carry him home to the family grave, and he is ill. Joseph is told, and he comes, and he brings his two sons. Keep the whole chain in mind, because this chapter is the end of it. For once, Jacob cannot see. And for once, he does not need to.
 
 **Narrator** *(calm)* Where this is. Stand in Goshen, in the green north-east of Egypt, where the Nile spreads out toward the sea, and face north, with north at twelve o'clock. Nothing from the rest of this series is near you. The land of the promise is a long way off at two o'clock, and three places in it are named in this one chapter. Hebron, where Abraham and Isaac lie in the cave Jacob has just made Joseph swear to carry him to, is about two weeks' walk at two o'clock. Bethlehem, where he buried Rachel beside the road, is a few hours beyond it on the same line. And Bethel, which he still calls Luz, where God appeared to him on his way out with nothing, is a day past that. Keep those three in mind. A blind man in Egypt is about to name every one of them from his bed.
 
 *(pause 1.0 s)*
 
-**Narrator** *(calm)* Genesis chapter 48, verses 1 to 4, then 7 to 11.
+**Narrator** *(calm)* Genesis chapter 48, verses 1 to 11.
 
 > **Reader** *(plainly)* Some time later Joseph was told, “Your father is ill.” So he set out with his two sons, Manasseh and Ephraim.
 
@@ -48,9 +70,13 @@ Script for reading, draft 1 (31 October 2026, drafted against the series templat
 
 **Narrator** *(calm)* Then he adopts the two boys as his own sons, as if they were Reuben and Simeon, and his mind goes to the road. Verse 7.
 
+> **Reader** *(plainly)* And now your two sons born to you in Egypt before I came to you here shall be reckoned as mine; Ephraim and Manasseh shall be mine, just as Reuben and Simeon are mine.
+
+> **Reader** *(plainly)* Any children born to you after them shall be yours, and they shall be called by the names of their brothers in the territory they inherit.
+
 > **Reader** *(plainly)* Now as for me, when I was returning from Paddan, to my sorrow Rachel died along the way in the land of Canaan, some distance from Ephrath. So I buried her there beside the road to Ephrath” (that is, Bethlehem).
 
-**Narrator** *(calm)* Luz, and the road to Bethlehem. He has not seen either in seventeen years and will not see them again, and he places them from his bed as exactly as a man who still walks them. Then, verse 8.
+**Narrator** *(calm)* Hear what he did in those verses, because it is a legal act. Ephraim and Manasseh shall be mine, like Reuben and Simeon. He adopted his two grandsons as his own sons, which is why there are tribes of Ephraim and Manasseh in Israel and no tribe of Joseph, and why Joseph, through them, got two shares of the land where his brothers got one. Matthew Henry calls it a charter of adoption. Then Luz, and the road to Bethlehem. He has not seen either in seventeen years and will not see them again, and he places them from his bed as exactly as a man who still walks them. And then, verse 8, having just named the two boys and made them his, he asks.
 
 > **Reader** *(plainly)* When Israel saw the sons of Joseph, he asked, “Who are these?”
 
@@ -62,7 +88,7 @@ Script for reading, draft 1 (31 October 2026, drafted against the series templat
 
 *(pause 1.5 s)*
 
-**Narrator** *(calm)* Two verses, and they seem to disagree. Verse 8 says Israel saw the sons of Joseph. Verse 10 says he could hardly see. Put them together and you have a man who can tell there are two shapes in the room and cannot tell whose they are. Many blind people live exactly there, and Brian will have something to say about it. So he does what Isaac did. He asks who they are, and he has them brought close, and he kisses them and holds them. The hands again. And then he says a thing that only a man in his condition would put that way: God has let me see your children. He cannot make out their faces. He is holding them. That is what seeing means to him now. Verses 12 to 20.
+**Narrator** *(calm)* Two verses, and they seem to disagree. Verse 8 says Israel saw the sons of Joseph. Verse 10 says he could hardly see. Put them together and you have a man who can tell there are two shapes in the room and cannot tell whose they are. He had named them both, Ephraim and Manasseh, a moment before. Now he cannot tell which shape is which. Many blind people live exactly there, and Brian will have something to say about it. Some readers think the question was also part of the ceremony, a father formally asking who stands before him before he blesses them, the way Isaac asked who are you, and Joseph's answer does sound formal: the sons God has given me in this place. The text does not say that. What it does say, in the very next verse, is why he asked. So he does what Isaac did. He asks who they are, and he has them brought close, and he kisses them and holds them. The hands again. And then he says a thing that only a man in his condition would put that way: God has let me see your children. He cannot make out their faces. He is holding them. That is what seeing means to him now. Verses 12 to 20.
 
 > **Reader** *(plainly)* Then Joseph removed his sons from his father’s knees and bowed facedown.
 
@@ -84,7 +110,7 @@ Script for reading, draft 1 (31 October 2026, drafted against the series templat
 
 *(pause 1.5 s)*
 
-**Narrator** *(calm)* Count what Joseph did, because Joseph is the sighted man in the room and he did everything a sighted man does. He placed the boys by eye, the older to his father's right hand, the younger to his left, so that a blind man reaching straight out could not get it wrong. He watched the hands. When he saw them cross, he reached in and took hold of his father's hand to put it where it belonged. Every one of those is kindness. Every one of those is also the assumption that the man in the bed did not know what he was doing. And now count what Jacob did. He knew which boy was under which hand. He crossed his arms on purpose, and the Hebrew word for what he did with his hands means to act with understanding, the way the old translation has it, guiding his hands wittingly. And when the hand came in to correct him, he did not let it.
+**Narrator** *(calm)* Count what Joseph did, because Joseph is the sighted man in the room and he did everything a sighted man does. He placed the boys by eye, the older to his father's right hand, the younger to his left, so that a blind man reaching straight out could not get it wrong. He watched the hands. When he saw them cross, he reached in and took hold of his father's hand to put it where it belonged. Every one of those is kindness. Every one of those is also the assumption that the man in the bed did not know what he was doing. And now count what Jacob did. He knew which boy was under which hand, and nobody had told him. He knew the custom: a father sets the firstborn to the right. He knew where Joseph had set them. And he had already held them both, and one was bigger. He crossed his arms on purpose, and the Hebrew word for what he did with his hands means to act with understanding, the way the old translation has it, guiding his hands wittingly. And when the hand came in to correct him, he did not let it. Notice how verse 17 begins: when Joseph saw. In the whole chapter that is the last time anyone trusts his eyes, and it is the sighted man, and he is the one who is wrong.
 
 ---
 
@@ -94,7 +120,7 @@ Script for reading, draft 1 (31 October 2026, drafted against the series templat
 
 *(SFX, if you can: the sickroom again. Very quiet. Two boys trying not to move.)*
 
-**Narrator** *(calm)* Jacob's hands are on two heads. He knows which is which, because he placed them, and because the one under his right hand is smaller. The blessing is half said. And then he feels a grip on his right wrist. Not a boy's hand. A man's, strong, careful, a hand that has signed for the grain of Egypt. He knows that hand. He has not felt it on him since it was a boy's hand, in Hebron, before the robe. It is lifting his hand off the smaller head, gently, the way you move an old man's hand off a thing he has got wrong.
+**Narrator** *(calm)* Jacob's hands are on two heads. He knows which is which, because Joseph set them the way every father does, firstborn to the right, and because he has held them, and the one under his right hand is smaller. The blessing is half said. And then he feels a grip on his right wrist. Not a boy's hand. A man's, strong, careful, a hand that has signed for the grain of Egypt. He knows that hand. He has not felt it on him since it was a boy's hand, in Hebron, before the robe. It is lifting his hand off the smaller head, gently, the way you move an old man's hand off a thing he has got wrong.
 
 **Joseph** *(low, firm)* Not so, my father. This one is the firstborn. Put your right hand on his head.
 
@@ -104,7 +130,7 @@ Script for reading, draft 1 (31 October 2026, drafted against the series templat
 
 *(pause 2.0 s)*
 
-**Narrator** *(calm)* I know. Seventy years earlier, in another room, a sighted son's hand went out to a blind father's and the blind father was fooled by it. This time the hand goes out to correct, not to deceive, and the blind father is not moved by it. He had not made a mistake. He had made a choice, and he had made it with the only thing anyone has ever been able to make that choice with, which is not eyes. Isaac blessed the wrong son by accident and let it stand. Jacob blessed the younger son on purpose and would not be talked out of it. The same family, the same hands, the same crossing of the older and the younger, and the second blind man is the one who gets it right.
+**Narrator** *(calm)* I know. Seventy years earlier, in another room, a sighted son's hand went out to a blind father's and the blind father was fooled by it. This time the hand goes out to correct, not to deceive, and the blind father is not moved by it. He had not made a mistake. He had made a choice, and he had made it with the only thing anyone has ever been able to make that choice with, which is not eyes. Isaac blessed the wrong son by accident and let it stand. Jacob blessed the younger son on purpose and would not be talked out of it. The same family, the same hands, the same crossing of the older and the younger, and the second blind man is the one who gets it right. That is where the two stories part. Isaac trusted his hands and was deceived. Jacob trusted his hands and was right. The hands were the same. What had changed was that nobody was lying to them, and that the man behind them had spent a lifetime learning what eyes are worth. At the wagons he still had to see to believe. Here he cannot see, and he believes anyway, and acts on it, and will not be moved.
 
 ---
 
@@ -120,7 +146,7 @@ Script for reading, draft 1 (31 October 2026, drafted against the series templat
 
 **Brian** *(calm)* One more thing I noticed. Genesis does not use the same word for Isaac's sight loss and for Jacob's. Isaac's eyes were kahah, weak, grown dim. Jacob's were kabed, heavy, which is the Bible's word for a burden. I know both of those. Some days sight loss is a dimming you learn to live around. Some days it is a weight you carry. Jacob carried his to the end of the chapter and blessed twelve sons by name with it on him.
 
-**Brian** *(calm)* DRAFT. And one more. Jacob did not see clearly for most of his life, and he saw clearly at the end. Three times his eyes failed him while they worked. In the dark of his wedding night he could not tell one sister from the other. Years later his sons held up a robe dipped in goat's blood, and his eyes told him his favourite son was dead, and he believed them for twenty years. And when the brothers came home from Egypt saying Joseph was alive, he did not believe his ears until he saw the wagons. Then, when his eyes could hardly see at all, he put his hands on two boys and knew which was which, and would not be corrected. The one time his sight was gone was the one time he got it right. You cannot always trust your eyes. Jacob learned that the hard way, and so did I.
+**Brian** *(calm)* DRAFT. And one more. Jacob did not see clearly for most of his life, and he saw clearly at the end. His eyes fooled him about the robe, the dark fooled him about his wife, and at the wagons he still would not believe good news until he had seen it. Then, when his eyes could hardly see at all, he put his hands on two boys and knew which was which, and would not be corrected. The one time his sight was gone was the one time he got it right. You cannot always trust your eyes. Jacob learned that the hard way, and so did I.
 
 *(pause 2.0 s)*
 
