@@ -108,6 +108,22 @@ GROUPS = [
               "does not go before the older. Matthew Henry put it in a sentence: Jacob was paid in his own coin.",
          "links": [("stories/isaac.html", "Isaac and the stolen blessing"), ("stories/jacob.html", "Jacob blesses Joseph's sons")],
          "check": "Brian asked whether the stolen blessing went unpunished"},
+        {"q": "Genesis says Leah had weak eyes. Was that a visual impairment, or a remark about her looks next to "
+              "Rachel's beauty?",
+         "asked": "2026-11-06",
+         "a": "The Hebrew word is rak, soft or tender, and it never means blind or dim elsewhere. The Greek Old "
+              "Testament translated it weak, Jerome's Latin as sore and watery eyes, and the Jewish Targum as "
+              "beautiful, so the oldest readers disagreed. Brian's own conclusion, which he holds loosely, is on the "
+              "Jacob page.",
+         "links": [("stories/jacob.html", "Jacob blesses Joseph's sons")],
+         "check": "The Hebrew word is rak, which means soft or tender"},
+        {"q": "Does the Bible ever call a person ugly? It calls many people beautiful.",
+         "asked": "2026-11-06",
+         "a": "No. Sarah, Rebekah, Rachel, Joseph, David, Abigail, Esther and others are called beautiful, and no "
+              "person is called the opposite. The only ugly things in the Bible are Pharaoh's cows in Genesis 41. "
+              "That is one reason Brian reads Leah's weak eyes as a fact about her eyes rather than her face.",
+         "links": [("stories/jacob.html", "Jacob blesses Joseph's sons")],
+         "check": "The only ugly things in the whole Bible are Pharaoh's cows"},
         {"q": "Eli and Ahijah both lived in Shiloh. How would each of their duties have been altered by losing their "
               "sight?",
          "asked": "2026-10-03",
