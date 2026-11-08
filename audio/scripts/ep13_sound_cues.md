@@ -13,3 +13,5 @@ Notes:
 - Cue 2 is the one that carries the episode's opening and the only one marked required. If only one new sound is made, it is the wagon train.
 - Cue 3 and cue 4 are the same clip at two levels.
 - The old wrist-grip cue in draft 1 said "the sickroom again", pointing at an opening cue that no longer exists; the script now describes the room in full at cue 3.
+
+Generated 8 November 2026 (ElevenLabs text to sound v3, three variants each, in audio/sfx/ep13): wagon_train_approach (22 s, the API's longest; loop or chain the variants for the 40 s build), men_talking_outdoors (20 s, loopable), stone_sickroom (20 s, loopable). Brian picks the variant in the mix.
