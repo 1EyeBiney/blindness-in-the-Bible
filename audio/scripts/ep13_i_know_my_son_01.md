@@ -1,24 +1,28 @@
 # Not By Sight, episode 13: I know, my son
 
-Script for reading, draft 2 (7 November 2026: the opening moved to where the chapter puts the question, verses 5 and 6 read, Jacob's life told as the chain of times his eyes could not be trusted, with an imagined moment at the wagons; draft 1 was 31 October 2026). The second of the father and son pair. Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Scene voices: Israel (old Jacob, three lines: at the wagons, at the bed, and I know), Joseph (a man in his fifties, one line). Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix. The title is provisional; "Jacob blesses Joseph's sons" is the page's.
+Script for reading, draft 3 (7 November 2026: the episode opens on the sound of the wagons and Brian hearing provision; the question Who are these is heard in the reading, where the chapter puts it; verses 5 and 6 read, Jacob's life told as the chain of times his eyes could not be trusted, with an imagined moment at the wagons; draft 1 was 31 October 2026). The second of the father and son pair. Speaker names in bold, cues in italics, Scripture indented. Sound cues are marked *(SFX: ...)* and tagged required, if you can, or words carry it; nothing in the words depends on a cue in the last two groups. Scene voices: Israel (old Jacob, two lines: at the wagons, and I know), Joseph (a man in his fifties, one line). Brian's paragraphs are his approved page words except where marked DRAFT, which are his to fix. The title is provisional; "Jacob blesses Joseph's sons" is the page's.
 
 *(SFX, if you can: the tent at evening from episode 12, two seconds, then cut to silence.)*
 
-**Narrator** *(calm)* Last time, a blind father in a tent said, the voice is the voice of Jacob, but the hands are the hands of Esau. And he chose the hands. Now go about seventy years on, and six hundred miles south-west.
+**Narrator** *(calm)* Last time, a blind father in a tent said, the voice is the voice of Jacob, but the hands are the hands of Esau. And he chose the hands. Now go more than fifty years on. The son who stood in the goatskin is a hundred and thirty years old, and he is standing outside his own tent, near Hebron.
 
-*(SFX, required: a sickroom in a stone house in Egypt. Linen moving. An old man's breath. Under it, an old voice talking low and steady, words we cannot make out, for four seconds. Then the voice stops.)*
+*(SFX, required: open country, late afternoon. A warm wind in dry grass. Men's voices close by, talking over one another. And far off, under them, something none of these people has ever heard in this land: the creak and rumble of heavy wagons and the slow tread of oxen on a dirt road. It comes closer through the next lines. Let it build.)*
 
-**Narrator** *(calm)* Imagine a house in Goshen, in the north of Egypt, a long time ago. The old man in the bed cannot see. His son came in a while ago, and the old man has been talking ever since: about a promise God made him, about a grave beside a road, about his son's two boys, whom he has just claimed as his own, by name. Now he stops. He has made out two shapes at the foot of the bed.
+**Narrator** *(calm)* Imagine it. His sons have just come home from Egypt, and they are all talking at once, about a brother he buried in his heart twenty years ago. Joseph is alive. Joseph rules Egypt. He does not believe a word of it. And then he stops listening to them, because of a sound coming up the road.
 
 *(pause 1.5 s)*
 
-**Israel** *(old, careful)* Who are these?
+**Israel** *(old, half to himself)* Words. You can bring me words all day. Those are wagons.
 
 *(pause 2.0 s)*
 
-**Narrator** *(calm)* Who are these. That is Jacob, the son who stood in the goatskin, and the question is almost his father's. Which one are you. Who are these. Two blind men, two generations apart, asking the same thing of the room. Here is Brian on that question.
+**Narrator** *(calm)* That is imagined. What Genesis says is that he was stunned, because he did not believe them, and that when he saw the wagons Joseph had sent to carry him back, his spirit revived. Here is Brian, or his words at least, by way of Mister Scaredy Cat, on what a blind man hears in that.
 
-**Brian** *(calm)* DRAFT. Isaac asked who was there, and he was lied to. Jacob asked who was there, and he was told the truth. Same question, same family, one generation apart. Asking is not the hard part. Every blind person asks who is in the room. The hard part is what comes after. Somebody answers you, and you have to decide whether to believe them. Isaac believed a lie and gave away the blessing. Jacob believed the truth, and then went on to trust his own hands over his son's eyes. Two blind men, two answers, two very different endings. That is what this episode is about.
+**Brian** *(calm)* DRAFT. Provision. That is what I hear coming up that road. Not just proof that Joseph was alive, though it was that too. Wagons, and grain, and a way to get an old man and seventy people to food in a famine. God told Jacob at Bethel, I am with you and will not leave you, and then He kept doing exactly that: at Laban's house, on the road home, at the meeting with Esau, at the wagons, in Goshen. Jacob could not see most of it coming, and he did not trust what he could see. It came anyway. That is where I sit as I read his life, moved and a little amazed at how God provided for this man at every turn after He said He would. And as a child of God, that speaks to my heart more than my eyes ever did. It is a comfort no sight could give me, because I am not being asked to see it coming. I am being asked to trust the One who is bringing it.
+
+*(pause 1.5 s)*
+
+**Narrator** *(calm)* That afternoon was the last time Jacob needed to see something before he would believe it. Seventeen years later, in a bed in Goshen, he cannot see. And he will not need to.
 
 *(pause 1.5 s)*
 
@@ -38,19 +42,8 @@ Script for reading, draft 2 (7 November 2026: the opening moved to where the cha
 
 **Narrator** *(calm)* Then his eyes lied to him outright. His sons brought him Joseph's robe dipped in the blood of a goat, and said, examine it. He looked at it, and he recognized it, and he said, Joseph has surely been torn to pieces. His eyes were right about the robe and wrong about everything that mattered, and he believed them for twenty years. The man who had fooled his father with a garment and a goat was fooled by his sons with a garment and a goat.
 
-**Narrator** *(calm)* And then the wagons. He was a hundred and thirty. His sons came back from Egypt and told him Joseph was alive and ruling the whole land, and the text says he was stunned, because he did not believe them. True words, and he would not take them. What changed his mind was not what they said. It was what he saw. Imagine that afternoon in Hebron.
+**Narrator** *(calm)* And then the wagons, where we began. He was a hundred and thirty. His sons came back from Egypt and told him Joseph was alive and ruling the whole land, and the text says he was stunned, because he did not believe them. True words, and he would not take them. What changed his mind was not what they said. It was what he saw. When he saw the wagons Joseph had sent to carry him back, the spirit of their father Jacob was revived, and he said, enough, my son Joseph is still alive, I will go to see him before I die. So at a hundred and thirty, after the tent, and the dark, and the river, and the robe, he was still a man who had to see a thing before he would believe it. He went down to Egypt, and when he met Joseph he said, finally I can die, now that I have seen your face.
 
-*(SFX, required: open country. A warm wind. Far off, and coming slowly closer over the next lines, the creak and rumble of heavy wagons and the tread of oxen on a dirt road. Let it build.)*
-
-**Narrator** *(calm)* An old man standing outside his tent, his sons around him still talking, and he is not listening to them. He is looking down the road. Something is coming up it that he has never seen in his life: wagons, Egyptian wagons, big ones, the kind nobody in Canaan owns, and the dust of a long train behind them.
-
-*(pause 1.5 s)*
-
-**Israel** *(old, half to himself)* Words. You can bring me words all day. Those are wagons.
-
-*(pause 1.5 s)*
-
-**Narrator** *(calm)* That is imagined. What Genesis says is that when he saw the wagons Joseph had sent to carry him back, the spirit of their father Jacob was revived, and he said, enough, my son Joseph is still alive, I will go to see him before I die. So at a hundred and thirty, after the tent, and the dark, and the river, and the robe, he was still a man who had to see a thing before he would believe it. He went down to Egypt, and when he met Joseph he said, finally I can die, now that I have seen your face.
 
 **Narrator** *(calm)* He did not die. He lived seventeen more years in Goshen, and in those years his eyes went. By the chapter we are reading he is a hundred and forty-seven, he has made Joseph swear to carry him home to the family grave, and he is ill. Joseph is told, and he comes, and he brings his two sons. Keep the whole chain in mind, because this chapter is the end of it. For once, Jacob cannot see. And for once, he does not need to.
 
@@ -88,7 +81,11 @@ Script for reading, draft 2 (7 November 2026: the opening moved to where the cha
 
 *(pause 1.5 s)*
 
-**Narrator** *(calm)* Two verses, and they seem to disagree. Verse 8 says Israel saw the sons of Joseph. Verse 10 says he could hardly see. Put them together and you have a man who can tell there are two shapes in the room and cannot tell whose they are. He had named them both, Ephraim and Manasseh, a moment before. Now he cannot tell which shape is which. Many blind people live exactly there, and Brian will have something to say about it. Some readers think the question was also part of the ceremony, a father formally asking who stands before him before he blesses them, the way Isaac asked who are you, and Joseph's answer does sound formal: the sons God has given me in this place. The text does not say that. What it does say, in the very next verse, is why he asked. So he does what Isaac did. He asks who they are, and he has them brought close, and he kisses them and holds them. The hands again. And then he says a thing that only a man in his condition would put that way: God has let me see your children. He cannot make out their faces. He is holding them. That is what seeing means to him now. Verses 12 to 20.
+**Narrator** *(calm)* Two verses, and they seem to disagree. Verse 8 says Israel saw the sons of Joseph. Verse 10 says he could hardly see. Put them together and you have a man who can tell there are two shapes in the room and cannot tell whose they are. He had named them both, Ephraim and Manasseh, a moment before. Now he cannot tell which shape is which. Many blind people live exactly there, and Brian will say so in a moment. Some readers think the question was also part of the ceremony, a father formally asking who stands before him before he blesses them, the way Isaac asked who are you, and Joseph's answer does sound formal: the sons God has given me in this place. The text does not say that. What it does say, in the very next verse, is why he asked. So he does what Isaac did. He asks who they are, and he has them brought close, and he kisses them and holds them. The hands again. And then he says a thing that only a man in his condition would put that way: God has let me see your children. He cannot make out their faces. He is holding them. That is what seeing means to him now.
+
+**Brian** *(calm)* DRAFT. Isaac asked who was there, and he was lied to. Jacob asked who was there, and he was told the truth. Same question, same family, one generation apart. Asking is not the hard part. Every blind person asks who is in the room. The hard part is what comes after. Somebody answers you, and you have to decide whether to believe them. Isaac believed a lie and gave away the blessing. Jacob believed the truth, and then went on to trust his own hands over his son's eyes. Two blind men, two answers, two very different endings. That is what this episode is about.
+
+**Narrator** *(calm)* Verses 12 to 20.
 
 > **Reader** *(plainly)* Then Joseph removed his sons from his father’s knees and bowed facedown.
 
