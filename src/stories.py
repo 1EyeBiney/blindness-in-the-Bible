@@ -157,10 +157,10 @@ STORIES = [
                 "Goshen. Then comes the chapter on this page, his eyesight poor with age, and in the next he blesses "
                 "all twelve sons and dies.",
         "threads": [("seen-and-unseen.html", "Seen and unseen: the deceits of Genesis")],
-        "sight": "Genesis says Israel's eyesight was poor because of old age and that he could hardly see. That is low vision, not total blindness. Jacob may have seen two shapes in front of him and still not known which boy was which. See what blind means here.",
-        "senses": "Jacob could see shapes. He saw that Joseph had brought two boys and asked who they were, but he "
+        "sight": "Genesis says Israel's eyesight was poor because of old age and that he could hardly see. That is low vision, not total blindness. Jacob may have seen two shapes in front of him and still not known which man was which. See what blind means here.",
+        "senses": "Jacob could see shapes. He saw that Joseph had brought two men and asked who they were, but he "
                   "could not tell which was which, and that is the whole of the scene. What he had instead was his "
-                  "hands, and the memory of hands. He kissed the boys and embraced them, as his own father had kissed "
+                  "hands, and the memory of hands. He kissed them both and embraced them, as his own father had kissed "
                   "him on the day he was deceived. Then he did with his hands the one thing Isaac could not: he placed "
                   "them on purpose, crossed, knowing exactly whose head was under each. A blind man who has lived with "
                   "it for years does not grope. He arranges things, counts, and keeps track, and when a sighted hand "
@@ -185,8 +185,10 @@ STORIES = [
                       "chapter.",
         "around": "Many years after deceiving his blind father, Jacob is himself old and can hardly see. He is in "
                   "Egypt, reunited with his son Joseph, whom he had long believed dead. Joseph brings his two sons, "
-                  "Manasseh the elder and Ephraim the younger, to be blessed before Jacob dies.",
-        "happens": "Joseph places the boys so that Jacob's right hand, the hand of the greater blessing, will fall on "
+                  "Manasseh the elder and Ephraim the younger, to be blessed before Jacob dies. They are not "
+                  "children: born in Joseph's seven good years before the famine, they are in their twenties here, "
+                  "and Joseph is about fifty-six.",
+        "happens": "Joseph places his sons, grown men by now, so that Jacob's right hand, the hand of the greater blessing, will fall on "
                    "the firstborn. Jacob crosses his arms and puts his right hand on the younger. Joseph thinks his "
                    "father has made a mistake and tries to move the hand. Jacob refuses: \"I know, my son, I know!\"",
         "shoes": "Joseph assumes that because his father cannot see, he does not know what he is doing. It is a "
