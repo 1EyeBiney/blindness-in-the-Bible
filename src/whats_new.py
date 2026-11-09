@@ -13,6 +13,12 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-11-09", "Episode 13: I know, my son",
+     "The third episode of the series on sight lost and not given back: Jacob, old in Egypt and hardly able to "
+     "see, with his hands crossed on two grown grandsons and his son reaching in to move them. Wagons on a road "
+     "near Hebron, Genesis 48 word for word, Matthew Henry on the eye of faith, the Hebrew word for eyes grown "
+     "heavy, and Brian on provision, on asking who is there, and on saying I know. It plays on the Jacob page and "
+     "on the Episodes page.", "stories/jacob.html"),
     ("2026-11-02", "Episode 12: The voice and the hands",
      "The second episode of the series on sight lost and not given back: Isaac, old and blind, and the son who "
      "walked in at the wrong hour. The chapter sense by sense, a blind author of 1872 on a careful blind man, the "

@@ -57,6 +57,12 @@ EPISODES = [
      "place, follows the chapter sense by sense, hears a blind author of 1872 and Matthew Henry on the one sense "
      "nobody could counterfeit, traces the Hebrew word for eyes that grow dim, and ends with the second blessing, "
      "given on purpose, that Hebrews calls faith."),
+    (13, "I know, my son", "Genesis 48 and Hebrews 11", ["jacob"],
+     "The third of six on sight lost and not given back. Jacob, who once stood in goatskin before his blind father, "
+     "is old in Egypt and can hardly see. The episode opens with wagons coming up a road near Hebron, then reads "
+     "Genesis 48 word for word: two grown grandsons adopted, the question who are these, and hands crossed on "
+     "purpose while a son reaches in to move them. Matthew Henry on the eye of faith, the Hebrew word for eyes grown "
+     "heavy, the twelve sons at the bed, and Brian on what it costs to say I know."),
 ]
 
 # The trailer: a short taste of the episodes, on the home page and at the top of the Episodes page.

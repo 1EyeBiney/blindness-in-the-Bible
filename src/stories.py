@@ -141,6 +141,8 @@ STORIES = [
     {
         "slug": "jacob", "title": "Jacob blesses Joseph's sons", "who": "Jacob (Israel)", "group": "not_restored",
         "outcome": "not_restored",
+        "listen": {"youtube": "Xrmp2tcWV_o", "mp3": "not_by_sight_13_i_know_my_son.mp3", "minutes": 33,
+                   "title": "Not By Sight, Episode 13: I know, my son"},
         "passages": [("Genesis", 48, 8, 20)],
         "life": "Jacob left home as the deceiver of the Isaac page and spent twenty years with his uncle Laban in "
                 "Haran. He worked seven years for Rachel and woke beside Leah, whom Laban had brought to him in the "
