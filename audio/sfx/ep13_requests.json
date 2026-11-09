@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "ep13/wagon_train_approach",
+    "seconds": 22,
+    "variants": 3,
+    "influence": 0.45,
+    "loop": false,
+    "prompt": "A train of several heavy wooden ox-drawn wagons on a dry dirt road in open country, ancient times, approaching slowly from far away to near, wood creaking, iron-rimmed wheels rumbling over stones, the slow heavy tread of oxen, harness and yoke knocking, no voices, no music, no modern sounds",
+    "use": "Cold open cue 2, required: the wagons coming up the road to Hebron, panned and faded in under the wind by Brian. API caps a clip at 22 s; loop or chain variants for the 40 s build."
+  },
+  {
+    "slug": "ep13/men_talking_outdoors",
+    "seconds": 20,
+    "variants": 3,
+    "influence": 0.4,
+    "loop": true,
+    "prompt": "Four or five men standing outdoors in open country talking excitedly over one another in an ancient Semitic language, no clear words, animated but not shouting, light wind in dry grass, no music, no modern sounds, seamless ambient bed",
+    "use": "Cold open cue 2, optional: Jacob's sons all talking at once, if crowd_approach_murmur is too big a crowd."
+  },
+  {
+    "slug": "ep13/stone_sickroom",
+    "seconds": 20,
+    "variants": 3,
+    "influence": 0.4,
+    "loop": true,
+    "prompt": "Very quiet interior of a stone-walled bedroom in ancient Egypt, close room tone, an old man breathing slowly in bed, linen bedding shifting once or twice, nothing else, no voices, no music, no modern sounds, seamless ambient bed",
+    "use": "Cue 3 under the imagined wrist-grip moment, and cue 4 quietly under Brian's first reflection line."
+  }
+]

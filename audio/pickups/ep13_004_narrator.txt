@@ -1,0 +1,8 @@
+@project: ep13_i_know_my_son_v2
+@section: 1
+@cast: casts/not_by_sight.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Pickup 8 November 2026: Brian asked for two more takes of the Narrator on clip 004.
+[NARRATOR] {id=004} (calm) That is imagined. What Genesis says is that he was stunned, because he did not believe them, and that when he saw the wagons Joseph had sent to carry him back, his spirit revived. Here is Brian, or his words at least, by way of Mister Scaredy Cat, on what a blind man hears in that.

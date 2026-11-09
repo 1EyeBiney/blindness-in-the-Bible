@@ -1,0 +1,595 @@
+{
+ "_comment": "Shot list for episode 13, the third of six on sight lost and not given back. 18 new paintings plus the title and close backgrounds (prompts below, generated in this order in Gemini; Brian downloads them in order into images/ep13_i_know_my_son/). Shared stills: the scroll, Brian's picture, the series picture (site_batch2/15), the tent at evening (episode 11), the touch scene from the site (site_batch1/01_isaac), eyes that cannot see (site_batch2/12), Henry's study (episode 7), the cave at Hebron (episode 12), the episode map (maps/ep13.png). Nobody's face is shown: people are seen from behind, far off, in silhouette, or as shapes against the light. Title and close cards get their lettering from make_cards.py (title_card.jpg, close_card.jpg).",
+ "style": "Painterly oil-sketch look, visible brushwork, warm natural light, the land and buildings of ancient Egypt and Israel unless the prompt says otherwise. No faces shown close up: people are seen from behind or at a distance. No text or lettering anywhere. Calm and hopeful, never frightening or graphic. 16:9.",
+ "shots": [
+  {
+   "from": "001",
+   "image": "ep11_the_last_thing_he_saw/16_tent_at_evening.jpg",
+   "card": "Last time: a tent at evening",
+   "prompt": "",
+   "description": "A large goat-hair tent in open pasture at evening, a lamp glowing inside; the picture from the Isaac episode."
+  },
+  {
+   "from": "001",
+   "image": "ep13_i_know_my_son/01_old_man_at_the_tent.jpg",
+   "card": "Outside his own tent, near Hebron",
+   "at_phrase": "Now go more than fifty years on",
+   "prompt": "A very old man standing outside a large goat-hair tent on dry pasture in the hills of Judah, late afternoon light, seen from behind at a little distance, one hand on a tall staff, looking down a dirt road that winds away between low rocky hills, flocks grazing nearby, no other people.",
+   "description": "A very old man standing outside a goat-hair tent on dry pasture in the hills near Hebron, late afternoon, seen from behind, one hand on a staff, looking down a dirt road that winds away between low hills."
+  },
+  {
+   "from": "002",
+   "image": "ep13_i_know_my_son/02_wagons_on_the_road.jpg",
+   "card": "Imagine it: wagons coming up the road",
+   "prompt": "A train of heavy wooden Egyptian ox-drawn wagons coming slowly up a dirt road through dry rolling hill country in late afternoon, dust rising behind them, in the foreground a group of bearded men in simple robes seen from behind, all turned toward the wagons, their arms half raised as they talk.",
+   "description": "Heavy Egyptian ox-wagons coming up a dirt road through dry hill country toward the viewer, dust behind them, a group of men in the foreground seen from behind, all turned toward the road."
+  },
+  {
+   "from": "003",
+   "image": "ep13_i_know_my_son/02_wagons_on_the_road.jpg",
+   "card": "Those are wagons",
+   "prompt": "",
+   "description": "The wagons on the road, closer now."
+  },
+  {
+   "from": "004",
+   "image": "ep13_i_know_my_son/01_old_man_at_the_tent.jpg",
+   "card": "What Genesis says: his spirit revived",
+   "prompt": "",
+   "description": "The old man outside his tent, watching the road."
+  },
+  {
+   "from": "004",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Here is Brian",
+   "at_phrase": "Here is Brian",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "005",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: provision",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "005",
+   "image": "ep13_i_know_my_son/02_wagons_on_the_road.jpg",
+   "card": "Wagons, and grain, and a way to food in a famine",
+   "at_phrase": "Wagons, and grain",
+   "prompt": "",
+   "description": "The wagons coming up the road."
+  },
+  {
+   "from": "005",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "I am being asked to trust the One who is bringing it",
+   "at_phrase": "That is where I sit",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "006",
+   "image": "ep13_i_know_my_son/03_goshen_at_dusk.jpg",
+   "card": "Seventeen years later, in a bed in Goshen",
+   "prompt": "A flat-roofed house of pale stone and mudbrick among tall date palms in the flat green land of the Nile delta at dusk, a channel of still water reflecting the last light in front of it, reeds along the bank, a single oil lamp glowing in one small window, no people.",
+   "description": "A flat-roofed stone and mudbrick house among date palms in the green Nile delta at dusk, a channel of still water in front of it, a lamp in one window, no people."
+  },
+  {
+   "from": "007",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "This is Not By Sight",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "008",
+   "image": "site_batch2/15_eyes_dim_with_grief.jpg",
+   "card": "Sight lost and not given back",
+   "prompt": "",
+   "description": "An old man seated in a doorway with his face in shadow, the light behind him; the series picture."
+  },
+  {
+   "from": "008",
+   "image": "ep13_i_know_my_son/title_card.jpg",
+   "card": "Not By Sight\nEpisode 13: I know, my son",
+   "at_phrase": "Everything else is from the text",
+   "prompt": "Title card over the Nile delta at dusk: a wide flat land of water channels and date palms under a huge sky going from gold at the horizon to deep blue above, a line of small distant wagons on a raised road, no people close, keep the upper half calm for lettering.",
+   "description": "Title card background only: the Nile delta at dusk, a wide sheet of water and palms, a line of distant wagons on a raised road, the upper half of the sky calm for lettering."
+  },
+  {
+   "from": "009",
+   "image": "site_batch1/01_isaac.jpg",
+   "card": "Where we are: a whole life learning one thing",
+   "prompt": "",
+   "description": "The touch scene from the site: an old man's hands on a younger man's arms, in a tent."
+  },
+  {
+   "from": "009",
+   "image": "ep13_i_know_my_son/04_the_wedding_tent_in_the_dark.jpg",
+   "card": "Haran: the wrong sister, in the dark",
+   "at_phrase": "He ran to Haran",
+   "prompt": "The inside of a large tent at night, almost completely dark, a single clay lamp burned down to a red ember on the floor, a veiled seated figure seen only as a dark shape against the faint grey light of the tent door, heavy woven hangings, no faces, quiet and still.",
+   "description": "A wedding tent at night, almost dark, one lamp burned down to an ember, a veiled figure seated on cushions seen only as a shape against the faint light of the tent door."
+  },
+  {
+   "from": "009",
+   "image": "ep13_i_know_my_son/05_the_jabbok_at_night.jpg",
+   "card": "The Jabbok: a man he wrestled all night",
+   "at_phrase": "Twenty years later, going home",
+   "prompt": "A shallow river ford in a narrow rocky valley at the first grey light before dawn, mist on the water, two figures locked together in a wrestling hold far off on the gravel bank, seen from a long way away so no faces or details show, dark hills on either side, a few stars still out.",
+   "description": "A river ford in a narrow valley at the first grey of dawn, two figures locked together far off on the gravel bank, seen from a distance, no faces."
+  },
+  {
+   "from": "009",
+   "image": "ep13_i_know_my_son/06_the_robe.jpg",
+   "card": "The robe dipped in blood",
+   "at_phrase": "Then his eyes lied to him outright",
+   "prompt": "In front of a goat-hair tent in open country, several grown men in rough robes holding out a torn and darkly stained robe of many colours toward an old man who sits on a stone with his back to the viewer, his head bowed, late light, no faces shown.",
+   "description": "Grown sons holding out a torn, stained, many-coloured robe to an old man who sits with his back to us, in front of a tent."
+  },
+  {
+   "from": "009",
+   "image": "ep13_i_know_my_son/02_wagons_on_the_road.jpg",
+   "card": "And then the wagons, where we began",
+   "at_phrase": "And then the wagons",
+   "prompt": "",
+   "description": "The wagons coming up the road to Hebron."
+  },
+  {
+   "from": "010",
+   "image": "ep13_i_know_my_son/03_goshen_at_dusk.jpg",
+   "card": "Seventeen more years in Goshen",
+   "prompt": "",
+   "description": "The house in Goshen at dusk."
+  },
+  {
+   "from": "010",
+   "image": "maps/ep13.png",
+   "card": "Where this is",
+   "at_phrase": "Where this is.",
+   "prompt": "",
+   "description": "The episode map: Goshen in gold in the north-east of Egypt, and a line north-east to Hebron, Bethlehem and Bethel, with the panel giving the walking times in words."
+  },
+  {
+   "from": "011",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 48:1-11",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "012",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 48:1-4",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "012",
+   "image": "ep13_i_know_my_son/07_the_sickroom.jpg",
+   "card": "Israel rallied his strength and sat up in bed",
+   "at_phrase": "Israel rallied his strength",
+   "prompt": "A plain stone-walled bedroom in an Egyptian house, a low bed with white linen against the far wall, a very old man sitting up in it supported by cushions, his face turned away and in shadow, seen from behind a man in fine Egyptian linen and two younger men standing just inside the door, soft daylight from a high window, a staff leaning by the bed, no faces shown clearly.",
+   "description": "A stone-walled bedroom in Egypt, an old man sitting up in a bed under white linen, seen from the foot of the bed and from behind the figures of a man in Egyptian dress and two younger men standing near the door."
+  },
+  {
+   "from": "013",
+   "image": "ep13_i_know_my_son/07_the_sickroom.jpg",
+   "card": "He adopts his two grandsons",
+   "prompt": "",
+   "description": "The sickroom in Goshen."
+  },
+  {
+   "from": "014",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 48:5-7",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "014",
+   "image": "ep13_i_know_my_son/08_the_road_to_ephrath.jpg",
+   "card": "Rachel, buried beside the road to Ephrath",
+   "at_phrase": "Now as for me, when I was returning from Paddan",
+   "prompt": "A single rough standing stone beside a dirt road in the hill country of Judah, the road running on past it toward a small walled town on a ridge in the distance, olive trees and terraced fields, clear morning light, no people.",
+   "description": "A standing stone beside a dirt road in the hill country, the road running on toward a small town on a ridge, morning light, no people."
+  },
+  {
+   "from": "015",
+   "image": "ep13_i_know_my_son/07_the_sickroom.jpg",
+   "card": "A legal act: Ephraim and Manasseh shall be mine",
+   "prompt": "",
+   "description": "The sickroom, the two sons standing by the door."
+  },
+  {
+   "from": "015",
+   "image": "ep13_i_know_my_son/09_joseph_of_egypt.jpg",
+   "card": "Joseph had been made an Egyptian",
+   "at_phrase": "Joseph had been made an Egyptian",
+   "prompt": "A man in the white pleated linen and broad gold collar of a high Egyptian official standing on a stone terrace above the Nile, seen from behind, looking out at a city of flat-roofed houses and a single tall obelisk catching the morning sun in the distance, boats on the river, no face shown.",
+   "description": "A man in the white linen and gold collar of a high Egyptian official standing on a terrace above the Nile, seen from behind, with the city of On and its obelisk in the distance."
+  },
+  {
+   "from": "015",
+   "image": "ep13_i_know_my_son/07_the_sickroom.jpg",
+   "card": "Their grandfather decided what they were",
+   "at_phrase": "Their mother's blood did not decide",
+   "prompt": "",
+   "description": "The sickroom in Goshen."
+  },
+  {
+   "from": "016",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 48:8-11",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "016",
+   "image": "ep13_i_know_my_son/10_two_shapes_in_the_room.jpg",
+   "card": "Who are these?",
+   "at_phrase": "Who are these",
+   "prompt": "The view from a bed in a dim stone room toward a bright doorway, two tall standing figures seen only as soft dark shapes against the glare of daylight, everything slightly blurred as through failing eyes, the edges of the door and the figures indistinct, no faces, no detail.",
+   "description": "Seen from the old man's bed: two tall figures standing in the bright doorway of a stone room, only shapes against the light, blurred and soft."
+  },
+  {
+   "from": "017",
+   "image": "ep13_i_know_my_son/10_two_shapes_in_the_room.jpg",
+   "card": "Two shapes in the room",
+   "prompt": "",
+   "description": "The two figures in the doorway, as a man who can hardly see would see them."
+  },
+  {
+   "from": "017",
+   "image": "ep13_i_know_my_son/07_the_sickroom.jpg",
+   "card": "God has let me see your children",
+   "at_phrase": "So he does what Isaac did",
+   "prompt": "",
+   "description": "The sickroom in Goshen."
+  },
+  {
+   "from": "018",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: two blind men, two answers",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "019",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 48:12-20",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "020",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 48:12-20",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "020",
+   "image": "ep13_i_know_my_son/11_the_crossed_hands.jpg",
+   "card": "Crossing his hands",
+   "at_phrase": "But Israel stretched out his right hand",
+   "prompt": "Seen from directly behind two kneeling grown men with bowed heads, side by side: a very old man's thin arms reaching out from a bed and crossed at the wrists, his right hand resting on the head of the man on his left and his left hand on the head of the other, white linen, a plain stone wall behind, soft daylight, no faces shown.",
+   "description": "Seen from behind two kneeling grown men with bowed heads: an old man's thin arms crossed, his right hand on the head of the man on his left and his left hand on the other, white linen, a stone wall behind."
+  },
+  {
+   "from": "020",
+   "image": "ep13_i_know_my_son/12_the_hand_on_the_wrist.jpg",
+   "card": "Took his father's hand to move it",
+   "at_phrase": "When Joseph saw that his father",
+   "prompt": "A close painting of a strong man's hand with a gold signet ring closed gently around a very old man's thin, veined wrist, lifting it away from the crown of a bowed dark head, white linen below, soft light from one side, no faces, nothing else in the frame.",
+   "description": "A strong man's hand closed gently around a very old man's thin wrist, lifting it from the top of a bowed head, close in, nothing else in the frame but linen and a little light."
+  },
+  {
+   "from": "020",
+   "image": "ep13_i_know_my_son/11_the_crossed_hands.jpg",
+   "card": "I know, my son, I know",
+   "at_phrase": "But his father refused",
+   "prompt": "",
+   "description": "The crossed hands on the two heads."
+  },
+  {
+   "from": "021",
+   "image": "ep13_i_know_my_son/11_the_crossed_hands.jpg",
+   "card": "Count what Joseph did",
+   "prompt": "",
+   "description": "The crossed hands."
+  },
+  {
+   "from": "021",
+   "image": "ep13_i_know_my_son/12_the_hand_on_the_wrist.jpg",
+   "card": "He reached in and took hold of his father's hand",
+   "at_phrase": "He watched the hands",
+   "prompt": "",
+   "description": "The hand on the old man's wrist."
+  },
+  {
+   "from": "021",
+   "image": "ep13_i_know_my_son/11_the_crossed_hands.jpg",
+   "card": "And now count what Jacob did",
+   "at_phrase": "And now count what Jacob did",
+   "prompt": "",
+   "description": "The crossed hands."
+  },
+  {
+   "from": "022",
+   "image": "ep13_i_know_my_son/07_the_sickroom.jpg",
+   "card": "An imagined scene",
+   "prompt": "",
+   "description": "The sickroom in Goshen."
+  },
+  {
+   "from": "023",
+   "image": "ep13_i_know_my_son/11_the_crossed_hands.jpg",
+   "card": "Jacob's hands are on two heads",
+   "prompt": "",
+   "description": "The crossed hands on the two bowed heads."
+  },
+  {
+   "from": "023",
+   "image": "ep13_i_know_my_son/12_the_hand_on_the_wrist.jpg",
+   "card": "A grip on his right wrist",
+   "at_phrase": "And then he feels a grip",
+   "prompt": "",
+   "description": "The hand on the old man's wrist."
+  },
+  {
+   "from": "024",
+   "image": "ep13_i_know_my_son/12_the_hand_on_the_wrist.jpg",
+   "card": "Not so, my father",
+   "prompt": "",
+   "description": "The hand on the old man's wrist."
+  },
+  {
+   "from": "025",
+   "image": "ep13_i_know_my_son/11_the_crossed_hands.jpg",
+   "card": "I know, my son. I know.",
+   "prompt": "",
+   "description": "The crossed hands."
+  },
+  {
+   "from": "026",
+   "image": "site_batch1/01_isaac.jpg",
+   "card": "Seventy years earlier, in another room",
+   "prompt": "",
+   "description": "The touch scene from the site: Isaac's hands on Jacob's arms."
+  },
+  {
+   "from": "026",
+   "image": "ep13_i_know_my_son/11_the_crossed_hands.jpg",
+   "card": "He had not made a mistake. He had made a choice.",
+   "at_phrase": "He had not made a mistake",
+   "prompt": "",
+   "description": "The crossed hands."
+  },
+  {
+   "from": "026",
+   "image": "ep13_i_know_my_son/13_isaac_and_jacob_hands.jpg",
+   "card": "Isaac's hands were his eyes. Jacob's hands were his will.",
+   "at_phrase": "Isaac's hands were his eyes",
+   "prompt": "A single painting divided into two halves by a dark band: on the left, in a dim lamplit tent, an old man's hands feeling along the hairy forearms of a younger man; on the right, in a pale stone room by daylight, an old man's thin arms crossed at the wrists, hands resting firmly on two bowed heads; only hands and arms, no faces, warm brushwork.",
+   "description": "Two pairs of old hands painted side by side as two small scenes: on the left, hands feeling the hairy forearms of a younger man in a dim tent; on the right, hands crossed and resting firmly on two bowed heads in a stone room."
+  },
+  {
+   "from": "027",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Brian, what do you hear in this one?",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "028",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: I know",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "028",
+   "image": "ep13_i_know_my_son/11_the_crossed_hands.jpg",
+   "card": "Yada: to know, properly to ascertain by seeing",
+   "at_phrase": "The Hebrew verb there is yada",
+   "prompt": "",
+   "description": "The crossed hands."
+  },
+  {
+   "from": "028",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Most of what we know does not come in through the eyes",
+   "at_phrase": "Blind people are underestimated",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "028",
+   "image": "ep13_i_know_my_son/11_the_crossed_hands.jpg",
+   "card": "He knew where his son had set them",
+   "at_phrase": "Jacob's eyes had gone",
+   "prompt": "",
+   "description": "The crossed hands."
+  },
+  {
+   "from": "029",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "Now the old books: Matthew Henry",
+   "prompt": "",
+   "description": "Matthew Henry's study, from episode 7: a desk, candle and open books."
+  },
+  {
+   "from": "030",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "The eye of faith may be very clear",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "031",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "Not by mistake, nor in a humour",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "031",
+   "image": "ep13_i_know_my_son/11_the_crossed_hands.jpg",
+   "card": "The younger above the elder: the family pattern",
+   "at_phrase": "Then he makes a list",
+   "prompt": "",
+   "description": "The crossed hands."
+  },
+  {
+   "from": "032",
+   "image": "ep13_i_know_my_son/14_heavy_eyes.jpg",
+   "card": "The word: kah-VED, heavy",
+   "prompt": "A very old man seated on a low bench beneath a small high window in a stone-walled room, his head bowed and eyes closed, seen as a dark silhouette against the bright window, a wooden staff across his knees, dust in the shaft of light, calm, no detail in the face.",
+   "description": "An old man seated by a small high window in a stone room, head bowed and eyes shut, seen in silhouette against the light, a staff across his knees."
+  },
+  {
+   "from": "032",
+   "image": "site_batch2/12_eyes_that_cannot_see.jpg",
+   "card": "Pharaoh's heart, the people's ears, and the glory of God",
+   "at_phrase": "It is the word for Pharaoh's heart",
+   "prompt": "",
+   "description": "An old man's face turned toward a light he cannot see; the site picture for eyes that cannot see."
+  },
+  {
+   "from": "032",
+   "image": "ep13_i_know_my_son/14_heavy_eyes.jpg",
+   "card": "A king's eyes put out, a father's eyes grown dim, a son's eyes grown heavy",
+   "at_phrase": "So the chain so far runs",
+   "prompt": "",
+   "description": "The old man by the window, in silhouette."
+  },
+  {
+   "from": "033",
+   "image": "ep13_i_know_my_son/15_twelve_sons_at_the_bed.jpg",
+   "card": "What came after: all twelve of his sons",
+   "prompt": "Twelve grown men in simple robes standing and kneeling in a half circle around a low bed in a plain stone room, all seen from behind and above, a very old man sitting up in the bed with one hand raised toward them, his face in shadow, lamplight and daylight mixed, no faces shown.",
+   "description": "Twelve grown men standing and kneeling around a bed in a stone room, all seen from behind, the old man in the bed sitting up with a hand raised."
+  },
+  {
+   "from": "034",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 49:28",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "035",
+   "image": "ep13_i_know_my_son/15_twelve_sons_at_the_bed.jpg",
+   "card": "Each one with a suitable blessing",
+   "prompt": "",
+   "description": "The twelve sons around the bed."
+  },
+  {
+   "from": "036",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Genesis 49:33",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "037",
+   "image": "ep13_i_know_my_son/16_the_procession_to_machpelah.jpg",
+   "card": "They carried him up out of Egypt",
+   "prompt": "A long funeral procession seen from a hilltop far away, crossing dry open country toward a line of distant hills: a covered bier carried on the shoulders of men in robes at the front, behind them Egyptian chariots and horsemen and a crowd on foot, dust in the morning light, no faces.",
+   "description": "A long funeral procession crossing dry open country toward distant hills: a bier carried on men's shoulders, Egyptian chariots and horsemen behind, seen from a hilltop far off."
+  },
+  {
+   "from": "037",
+   "image": "ep12_the_voice_and_the_hands/14_the_cave_at_hebron.jpg",
+   "card": "The blind father and the blind son, in one cave",
+   "at_phrase": "buried him in the cave at Machpelah",
+   "prompt": "",
+   "description": "The cave at Hebron, from episode 12: a dark cave mouth in a field of old trees."
+  },
+  {
+   "from": "037",
+   "image": "ep13_i_know_my_son/09_joseph_of_egypt.jpg",
+   "card": "Joseph could not follow them",
+   "at_phrase": "Joseph could not follow them",
+   "prompt": "",
+   "description": "Joseph on the terrace above the Nile."
+  },
+  {
+   "from": "037",
+   "image": "ep13_i_know_my_son/17_the_staff_by_the_bed.jpg",
+   "card": "Hebrews 11:20-21",
+   "at_phrase": "And the New Testament",
+   "prompt": "A worn, smooth wooden staff leaning against the head of an empty low bed in a plain stone-walled room, the white linen neatly folded, a single shaft of morning light from a high window falling across it, quiet and still, no people.",
+   "description": "A worn wooden staff leaning against an empty bed in a stone room, white linen folded, morning light from a high window."
+  },
+  {
+   "from": "038",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Hebrews 11:20-21",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "039",
+   "image": "ep13_i_know_my_son/17_the_staff_by_the_bed.jpg",
+   "card": "Leaning on the top of his staff",
+   "prompt": "",
+   "description": "The staff by the empty bed."
+  },
+  {
+   "from": "040",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Brian, with the last word",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "041",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: a hand reaching in to move yours",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "041",
+   "image": "ep13_i_know_my_son/12_the_hand_on_the_wrist.jpg",
+   "card": "The hardest two words to say in that moment",
+   "at_phrase": "And the hardest two words",
+   "prompt": "",
+   "description": "The hand on the old man's wrist."
+  },
+  {
+   "from": "041",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "What the Lord has said can be trusted",
+   "at_phrase": "A lifetime learning",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "042",
+   "image": "ep13_i_know_my_son/18_the_lamp_at_shiloh.jpg",
+   "card": "Next time: Eli, and the voice in the night",
+   "prompt": "The inside of a large dark tent sanctuary at night, a tall golden lampstand still burning low near the far curtain, a small boy in a plain linen tunic running barefoot away from the viewer toward a side doorway, seen from behind, the rest in deep shadow, no faces.",
+   "description": "Inside a dark sanctuary at night, a tall lamp still burning low, a boy in a plain tunic running away from the viewer toward a doorway, seen from behind."
+  },
+  {
+   "from": "043",
+   "image": "ep13_i_know_my_son/03_goshen_at_dusk.jpg",
+   "card": "This has been Not By Sight",
+   "prompt": "",
+   "description": "The house in Goshen at dusk."
+  },
+  {
+   "from": "043",
+   "image": "ep13_i_know_my_son/close_card.jpg",
+   "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
+   "at_phrase": "For we walk by faith",
+   "prompt": "Closing card over the road north-east out of Egypt at dawn: dry open country under a pale gold sky, a faint track running toward a far line of low hills, no people, no wagons, the sky and lower ground calm for lettering.",
+   "description": "Closing card background only: the road north-east out of Egypt at dawn, dry open country, a far line of hills, the sky pale, the lower half calm for lettering."
+  }
+ ]
+}

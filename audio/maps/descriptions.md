@@ -31,6 +31,8 @@ Base map. The Great Sea lies to the west. The Jordan runs south from the Sea of 
 - : about 21 days' walk, at 2 o'clock from Jerusalem. A bend of the Euphrates road; a waypoint for the wide map only, never drawn as a place.
 - Haran: about 18 and a half days' walk, at 1 o'clock from Jerusalem. Rebekah's home city in the far north, where Jacob fled from Esau and served Laban twenty years. Shown only on the wide map.
 - : about 14 and a half days' walk, at 1 o'clock from Jerusalem. The road north from Damascus toward Haran; a waypoint for the wide map only, never drawn as a place.
+- Bethlehem: about 3 hours' walk, at 7 o'clock from Jerusalem. Ephrath, where Rachel died on the road and Jacob buried her; six miles south of Jerusalem.
+- Bethel: about 5 hours' walk, at 12 o'clock from Jerusalem. Luz, where God appeared to Jacob on his way out to Haran, and again on his way home.
 - Babylon and Riblah: far to the north-east, beyond the map. Zedekiah was blinded at Riblah in Syria and taken to Babylon; both lie beyond this map.
 - Egypt: far to the south-west, beyond the map. Jacob blessed Joseph's sons in Egypt, beyond this map.
 - Nineveh and Ecbatana: far to the north-east, beyond the map. Tobit's story, if included, lies in Assyria and Media, beyond this map.
@@ -136,3 +138,7 @@ Episode 11, The last thing he saw. This map is wider than the series map: it rea
 ## ep12.png
 
 Episode 12, The voice and the hands. This map is wider than the series map: it reaches from Beersheba in the south to Haran in the far north. Beersheba is in gold, at the southern edge of the settled land, where Isaac reopened his father's wells; Genesis does not say the tent was anywhere else. A line marks the road Jacob took when he ran. Stand at Beersheba and face north; north is twelve o'clock. Hebron, where Isaac would die and be buried with Abraham, is about a day's walk at one o'clock. Jerusalem is about two days further on the same line. The road goes on north past Damascus, and far beyond it, at the top of the map, is Haran, the city Rebekah came from, about a month's walk. Beersheba, Hebron, Jerusalem, Haran, in that order.
+
+## ep13.png
+
+Episode 13, I know, my son. This map is wider than the series map: it reaches from Goshen in Egypt, in the south-west, to Bethel in the hills of the promised land. Goshen is in gold, in the green north-east of Egypt where the Nile spreads out toward the sea; Jacob lived his last seventeen years there and died there. Nothing from the rest of this series is near it. A line marks the road his sons carried him. Stand in Goshen and face north; north is twelve o'clock. Hebron, with the cave where Abraham and Isaac lie, is about two weeks' walk at two o'clock. Bethlehem, where Jacob buried Rachel beside the road, is a few hours beyond Hebron on the same line. Bethel, which he still called Luz, where God appeared to him on his way out with nothing, is about a day past that. Goshen, Hebron, Bethlehem, Bethel, in that order; a blind man in Egypt named all three from his bed.

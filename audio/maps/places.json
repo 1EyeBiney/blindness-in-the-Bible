@@ -290,6 +290,26 @@
    "kind": "waypoint",
    "stories": [],
    "note": "The road north from Damascus toward Haran; a waypoint for the wide map only, never drawn as a place."
+  },
+  "bethlehem": {
+   "name": "Bethlehem",
+   "lat": 31.705,
+   "lon": 35.204,
+   "kind": "town",
+   "stories": [
+    "jacob"
+   ],
+   "note": "Ephrath, where Rachel died on the road and Jacob buried her; six miles south of Jerusalem."
+  },
+  "bethel": {
+   "name": "Bethel",
+   "lat": 31.93,
+   "lon": 35.22,
+   "kind": "town",
+   "stories": [
+    "jacob"
+   ],
+   "note": "Luz, where God appeared to Jacob on his way out to Haran, and again on his way home."
   }
  },
  "off_map": [
@@ -484,6 +504,30 @@
     "- Haran: about a month, 1 o'clock, Rebekah's city"
    ],
    "description": "Episode 12, The voice and the hands. This map is wider than the series map: it reaches from Beersheba in the south to Haran in the far north. Beersheba is in gold, at the southern edge of the settled land, where Isaac reopened his father's wells; Genesis does not say the tent was anywhere else. A line marks the road Jacob took when he ran. Stand at Beersheba and face north; north is twelve o'clock. Hebron, where Isaac would die and be buried with Abraham, is about a day's walk at one o'clock. Jerusalem is about two days further on the same line. The road goes on north past Damascus, and far beyond it, at the top of the map, is Haran, the city Rebekah came from, about a month's walk. Beersheba, Hebron, Jerusalem, Haran, in that order."
+  },
+  "ep13": {
+   "title": "I know, my son",
+   "focus": "goshen",
+   "visited": [],
+   "route": [
+    "hebron",
+    "bethlehem",
+    "bethel"
+   ],
+   "frame": {
+    "lat_min": 29.6,
+    "lat_max": 33.2,
+    "lon_min": 30.4,
+    "lon_max": 36.6
+   },
+   "panel": [
+    "In gold: Goshen, in Egypt, where Jacob died; and the road his body was carried.",
+    "Facing north from Goshen, north at twelve o'clock:",
+    "- Hebron: about 2 weeks, 2 o'clock, the family cave",
+    "- Bethlehem: a few hours more, the same line, Rachel's grave",
+    "- Bethel: a day past that, the same line, where God appeared to him"
+   ],
+   "description": "Episode 13, I know, my son. This map is wider than the series map: it reaches from Goshen in Egypt, in the south-west, to Bethel in the hills of the promised land. Goshen is in gold, in the green north-east of Egypt where the Nile spreads out toward the sea; Jacob lived his last seventeen years there and died there. Nothing from the rest of this series is near it. A line marks the road his sons carried him. Stand in Goshen and face north; north is twelve o'clock. Hebron, with the cave where Abraham and Isaac lie, is about two weeks' walk at two o'clock. Bethlehem, where Jacob buried Rachel beside the road, is a few hours beyond Hebron on the same line. Bethel, which he still called Luz, where God appeared to him on his way out with nothing, is about a day past that. Goshen, Hebron, Bethlehem, Bethel, in that order; a blind man in Egypt named all three from his bed."
   }
  }
 }

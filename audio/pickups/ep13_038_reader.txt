@@ -1,0 +1,8 @@
+@project: ep13_i_know_my_son_v2
+@section: 1
+@cast: casts/not_by_sight.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Pickup 8 November 2026: Brian asked for two more takes of the Reader on clip 038.
+[READER] {id=038} (plainly) By faith Isaac blessed Jacob and Esau concerning the future. By faith Jacob, when he was dying, blessed each of Josephâ€™s sons and worshiped as he leaned on the top of his staff.

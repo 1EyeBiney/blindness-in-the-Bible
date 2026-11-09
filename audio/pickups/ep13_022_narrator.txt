@@ -1,0 +1,8 @@
+@project: ep13_i_know_my_son_v2
+@section: 1
+@cast: casts/not_by_sight.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Pickup 8 November 2026: Brian asked for two more takes of the Narrator on clip 022.
+[NARRATOR] {id=022} (calm) Now imagine that one moment, the one the text gives in half a verse. Joseph took his father's hand to move it.

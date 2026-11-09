@@ -1,0 +1,8 @@
+@project: ep13_i_know_my_son_v2
+@section: 1
+@cast: casts/not_by_sight.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Pickup 8 November 2026: Brian asked for two more takes of the Narrator on clip 032.
+[NARRATOR] {id=032} (calm) Now the word. Each of these six stories has its own word for eyes that fail, and they make a chain. Zedekiah's word was "ah-VAR," to blind, a thing done to a man. Isaac's was "kah-HAH," to grow dim. Jacob's is a different word again: "kah-VED." Heavy. Verse 10 says, in the Hebrew, that Israel's eyes were heavy from age. It is one of the commonest words in the Bible, and it is almost never about eyes. It is the word for Pharaoh's heart when he hardened it, heavy. It is the word for the people's ears in Isaiah when they would not hear, heavy. And with a slightly different vowel it is kavod, glory, the weight of God's presence. The same root carries the hardest hearts and the glory of God, and once, here, an old man's eyes. So the chain so far runs: a king's eyes put out, a father's eyes grown dim, a son's eyes grown heavy. Two of those happened the ordinary way, by age, to two men in one family, and Genesis gave each of them his own word. Brian hears the difference between them, a dimming and a weight, and the Bible seems to as well. Next time the chain goes back to Isaac's word, dim, and adds one more, for an old priest whose eyes had stopped moving.

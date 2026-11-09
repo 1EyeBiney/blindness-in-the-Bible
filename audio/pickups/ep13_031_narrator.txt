@@ -1,0 +1,8 @@
+@project: ep13_i_know_my_son_v2
+@section: 1
+@cast: casts/not_by_sight.json
+@defaults: takes=1 keep=pick model=eleven_v3
+@continuity: off
+
+# Pickup 8 November 2026: Brian asked for two more takes of the Narrator on clip 031.
+[NARRATOR] {id=031} (calm) Brian put that second sentence on his page, because it is what the story is about. Henry goes on to the crossed hands, and he is careful about what they were not. Jacob did not cross them by mistake, he says, nor in a humour, nor from a partial affection to one more than the other, but from a spirit of prophecy, in compliance with the divine counsels. Then he makes a list, and it is worth hearing, because Jacob is on it twice. God, he says, has so often advanced the younger above the elder: Abel above Cain, Isaac above Ishmael, Jacob above Esau, Ephraim above Manasseh, David above his elder brothers. He tied the Jews to observe the birthright, Henry says, but he never tied himself to observe it. Which means the crossed hands were not a blind man's confusion. They were the family pattern, and the one man in the room who could not see was the one who could see it.
