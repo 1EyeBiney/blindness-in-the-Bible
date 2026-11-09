@@ -1,0 +1,87 @@
+# ep13_i_know_my_son_v2: shots and credits
+
+Each still, with its written description (for blind viewers and for the record):
+
+- 00:00  A large goat-hair tent in open pasture at evening, a lamp glowing inside; the picture from the Isaac episode.
+- 00:16  A very old man standing outside a goat-hair tent on dry pasture in the hills near Hebron, late afternoon, seen from behind, one hand on a staff, looking down a dirt road that winds away between low hills.
+- 00:28  Heavy Egyptian ox-wagons coming up a dirt road through dry hill country toward the viewer, dust behind them, a group of men in the foreground seen from behind, all turned toward the road.
+- 00:54  The wagons on the road, closer now.
+- 01:02  The old man outside his tent, watching the road.
+- 01:16  Brian's picture.
+- 01:26  Brian's picture.
+- 01:33  The wagons coming up the road.
+- 01:59  Brian's picture.
+- 02:22  A flat-roofed stone and mudbrick house among date palms in the green Nile delta at dusk, a channel of still water in front of it, a lamp in one window, no people.
+- 02:38  Brian's picture.
+- 03:01  An old man seated in a doorway with his face in shadow, the light behind him; the series picture.
+- 03:46  Title card background only: the Nile delta at dusk, a wide sheet of water and palms, a line of distant wagons on a raised road, the upper half of the sky calm for lettering.
+- 03:54  The touch scene from the site: an old man's hands on a younger man's arms, in a tent.
+- 04:31  A wedding tent at night, almost dark, one lamp burned down to an ember, a veiled figure seated on cushions seen only as a shape against the faint light of the tent door.
+- 04:57  A river ford in a narrow valley at the first grey of dawn, two figures locked together far off on the gravel bank, seen from a distance, no faces.
+- 05:34  Grown sons holding out a torn, stained, many-coloured robe to an old man who sits with his back to us, in front of a tent.
+- 06:08  The wagons coming up the road to Hebron.
+- 07:08  The house in Goshen at dusk.
+- 07:40  The episode map: Goshen in gold in the north-east of Egypt, and a line north-east to Hebron, Bethlehem and Bethel, with the panel giving the walking times in words.
+- 08:39  The scroll.
+- 08:43  The scroll.
+- 08:56  A stone-walled bedroom in Egypt, an old man sitting up in a bed under white linen, seen from the foot of the bed and from behind the figures of a man in Egyptian dress and two younger men standing near the door.
+- 09:20  The sickroom in Goshen.
+- 09:31  The scroll.
+- 09:55  A standing stone beside a dirt road in the hill country, the road running on toward a small town on a ridge, morning light, no people.
+- 10:12  The sickroom, the two sons standing by the door.
+- 11:21  A man in the white linen and gold collar of a high Egyptian official standing on a terrace above the Nile, seen from behind, with the city of On and its obelisk in the distance.
+- 11:53  The sickroom in Goshen.
+- 12:48  The scroll.
+- 12:48  Seen from the old man's bed: two tall figures standing in the bright doorway of a stone room, only shapes against the light, blurred and soft.
+- 13:23  The two figures in the doorway, as a man who can hardly see would see them.
+- 14:22  The sickroom in Goshen.
+- 14:48  Brian's picture.
+- 15:26  The scroll.
+- 15:28  The scroll.
+- 15:46  Seen from behind two kneeling grown men with bowed heads: an old man's thin arms crossed, his right hand on the head of the man on his left and his left hand on the other, white linen, a stone wall behind.
+- 16:25  A strong man's hand closed gently around a very old man's thin wrist, lifting it from the top of a bowed head, close in, nothing else in the frame but linen and a little light.
+- 16:42  The crossed hands on the two heads.
+- 17:13  The crossed hands.
+- 17:33  The hand on the old man's wrist.
+- 17:51  The crossed hands.
+- 18:56  The sickroom in Goshen.
+- 19:06  The crossed hands on the two bowed heads.
+- 19:26  The hand on the old man's wrist.
+- 19:54  The hand on the old man's wrist.
+- 20:01  The crossed hands.
+- 20:06  The touch scene from the site: Isaac's hands on Jacob's arms.
+- 20:25  The crossed hands.
+- 21:14  Two pairs of old hands painted side by side as two small scenes: on the left, hands feeling the hairy forearms of a younger man in a dim tent; on the right, hands crossed and resting firmly on two bowed heads in a stone room.
+- 21:38  Brian's picture.
+- 21:40  Brian's picture.
+- 21:51  The crossed hands.
+- 22:10  Brian's picture.
+- 22:44  The crossed hands.
+- 24:31  Matthew Henry's study, from episode 7: a desk, candle and open books.
+- 24:44  Matthew Henry's study.
+- 24:56  Matthew Henry's study.
+- 25:21  The crossed hands.
+- 26:02  An old man seated by a small high window in a stone room, head bowed and eyes shut, seen in silhouette against the light, a staff across his knees.
+- 26:40  An old man's face turned toward a light he cannot see; the site picture for eyes that cannot see.
+- 27:09  The old man by the window, in silhouette.
+- 27:46  Twelve grown men standing and kneeling around a bed in a stone room, all seen from behind, the old man in the bed sitting up with a hand raised.
+- 28:01  The scroll.
+- 28:13  The twelve sons around the bed.
+- 28:37  The scroll.
+- 28:47  A long funeral procession crossing dry open country toward distant hills: a bier carried on men's shoulders, Egyptian chariots and horsemen behind, seen from a hilltop far off.
+- 28:49  The cave at Hebron, from episode 12: a dark cave mouth in a field of old trees.
+- 29:05  Joseph on the terrace above the Nile.
+- 29:45  A worn wooden staff leaning against an empty bed in a stone room, white linen folded, morning light from a high window.
+- 30:00  The scroll.
+- 30:14  The staff by the empty bed.
+- 30:43  Brian's picture.
+- 30:45  Brian's picture.
+- 30:53  The hand on the old man's wrist.
+- 31:12  Brian's picture.
+- 31:27  Inside a dark sanctuary at night, a tall lamp still burning low, a boy in a plain tunic running away from the viewer toward a doorway, seen from behind.
+- 31:59  The house in Goshen at dusk.
+- 32:24  Closing card background only: the road north-east out of Egypt at dawn, dry open country, a far line of hills, the sky pale, the lower half calm for lettering.
+
+Scripture quotations are from the Holy Bible, Berean Standard Bible, BSB, public domain.
+Scenes introduced with the word 'imagine' are our own. Voices generated with ElevenLabs; mix by Brian Clark.
+Original music by Brian Clark, made with Suno. All rights held by the author.
