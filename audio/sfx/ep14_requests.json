@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "ep14/shiloh_gate_afternoon",
+    "seconds": 22,
+    "variants": 3,
+    "influence": 0.4,
+    "loop": true,
+    "prompt": "A still late afternoon outside the gate of a small ancient hill town, dry light breeze, one or two birds, very distant sheep bells, packed earth road, no people, no voices, no music, no modern sounds, seamless ambient bed",
+    "use": "Cue 1, the bed under the whole imagined scene at the gate of Shiloh."
+  },
+  {
+    "slug": "ep14/old_man_in_chair",
+    "seconds": 6,
+    "variants": 3,
+    "influence": 0.5,
+    "loop": false,
+    "prompt": "Close up outdoors: a heavy old man shifts his weight in a wooden chair, one slow wooden creak, coarse cloth robe rustling, a long tired exhale, then stillness, no voices, no music",
+    "use": "Cue 2, Eli settling in his chair beside the road, close to the listener."
+  },
+  {
+    "slug": "ep14/runner_passes_on_dirt",
+    "seconds": 10,
+    "variants": 3,
+    "influence": 0.5,
+    "loop": false,
+    "prompt": "One exhausted man running flat out in sandals on a packed dirt road, approaching from a distance, passing right by the listener and continuing away, ragged heavy breathing, no voices, no music, no modern sounds, dry recording without reverb",
+    "use": "Cue 3, the runner going past Eli into the town. Brian pans left to right in the mix."
+  },
+  {
+    "slug": "ep14/town_cries_out_distant",
+    "seconds": 22,
+    "variants": 3,
+    "influence": 0.45,
+    "loop": false,
+    "prompt": "Heard from outside the walls of a small ancient town: a man's shout, then a second, then many voices rising into wailing and crying out in grief, women and men, muffled by stone walls and distance, building and then holding, no clear words, no music, no modern sounds",
+    "use": "Cue 5, the town hearing the news, off to the right and far away. The hardest cue; expect to pick one variant or layer two."
+  },
+  {
+    "slug": "ep14/runner_returns_and_stops",
+    "seconds": 8,
+    "variants": 3,
+    "influence": 0.5,
+    "loop": false,
+    "prompt": "One tired man in sandals running on a packed dirt road from a distance toward the listener, slowing, and stopping a few feet away, breathing hard, no voices, no music, no modern sounds, dry recording without reverb",
+    "use": "Cue 7, the runner coming back to Eli. Brian pans right to centre."
+  },
+  {
+    "slug": "ep14/chair_falls_backward",
+    "seconds": 3,
+    "variants": 3,
+    "influence": 0.5,
+    "loop": false,
+    "prompt": "A heavy wooden chair tips over backward onto packed earth with a heavy weight in it, one dull wooden thud, a scrape, then silence, outdoors, no voices, no music",
+    "use": "Cue 9, only if the fall is told in the imagined scene. One sound, no cry."
+  }
+]
