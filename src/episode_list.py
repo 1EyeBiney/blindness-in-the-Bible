@@ -63,6 +63,14 @@ EPISODES = [
      "Genesis 48 word for word: two grown grandsons adopted, the question who are these, and hands crossed on "
      "purpose while a son reaches in to move them. Matthew Henry on the eye of faith, the Hebrew word for eyes grown "
      "heavy, the twelve sons at the bed, and Brian on what it costs to say I know."),
+    (14, "The voice in the night", "1 Samuel 3 and 4", ["eli"],
+     "The fourth of six on sight lost and not given back. Eli, the old priest at Shiloh, cannot see, and a boy has "
+     "run to his bedside three times sure that Eli called him. The episode opens there, then tells Hannah and the "
+     "little robe, the two sons Eli could not govern, and the man of God who named his own eyes and heart. First "
+     "Samuel 3 word for word: the blind man in the dark room who understands and tells the boy how to answer. Then "
+     "the gate, years later: an old man on a chair beside the road, a runner going past him, a town crying out, and "
+     "the one person who has to ask why. Matthew Henry on the careful magistrate, two Hebrew words for Eli's eyes, "
+     "and Brian on the patience you have whether you want it or not."),
 ]
 
 # The trailer: a short taste of the episodes, on the home page and at the top of the Episodes page.

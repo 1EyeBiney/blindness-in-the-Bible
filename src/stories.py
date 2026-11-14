@@ -213,6 +213,8 @@ STORIES = [
     },
     {
         "slug": "eli", "title": "Eli at Shiloh", "who": "Eli", "group": "not_restored", "outcome": "not_restored",
+        "listen": {"youtube": "kkHtTK0_sFw", "mp3": "not_by_sight_14_the_voice_in_the_night.mp3", "minutes": 29,
+                   "title": "Not By Sight, Episode 14: The voice in the night"},
         "passages": [("1 Samuel", 3, 1, 18), ("1 Samuel", 4, 12, 18)],
         "sight": "Samuel says Eli's eyesight had grown so dim that he could not see, and later that at ninety-eight he could not see. Dim is the Bible's word for sight going, so Eli likely passed through years of low vision before this. The page reads him as he is described at the end. See what blind means here.",
         "senses": "The book of Samuel shows Eli at three stages, and the senses change with them. In chapter one, "

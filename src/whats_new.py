@@ -13,6 +13,12 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-11-14", "Episode 14: The voice in the night",
+     "The fourth episode of the series on sight lost and not given back: Eli, the blind old priest at Shiloh, and "
+     "the boy who ran to his bedside three times in the night. Hannah and the little robe, 1 Samuel 3 word for "
+     "word, the gate where a runner went past an old man on a chair, Matthew Henry on the careful magistrate, two "
+     "Hebrew words for eyes that fail, and Brian on the patience you have whether you want it or not. It plays on "
+     "the Eli page and on the Episodes page.", "stories/eli.html"),
     ("2026-11-09", "Episode 13: I know, my son",
      "The third episode of the series on sight lost and not given back: Jacob, old in Egypt and hardly able to "
      "see, with his hands crossed on two grown grandsons and his son reaching in to move them. Wagons on a road "
