@@ -198,7 +198,7 @@ OFFSETS = {"riblah": (34, -10, "lm"), "babylon": (34, 10, "lm"), "goshen": (-30,
            "wide_babylon": (34, 12, "lm"), "wide_goshen": (-30, 0, "rm"),
            "zorah": (-34, -6, "rm"), "tirzah": (34, -30, "lm"), "hebron": (34, 10, "lm"), "bethsaida": (30, -34, "lm"), "capernaum": (-34, 18, "rm"), "mountain_decapolis": (30, 26, "lm"),
            "sea_of_galilee": (0, 0, "mm"), "bethany": (26, 30, "lm"), "jerusalem": (-30, 0, "rm"),
-           "machaerus": (30, 0, "lm"), "dothan": (-28, 0, "rm"), "samaria": (-28, 0, "rm"), "shiloh": (-28, 0, "rm")}
+           "machaerus": (30, 0, "lm"), "dothan": (-28, 0, "rm"), "samaria": (-28, 0, "rm"), "shiloh": (-28, 0, "rm"), "aphek": (-30, -14, "rm")}
 
 
 def label(draw, p, font, fill, dx=26, dy=0, anchor="lm", key=None):

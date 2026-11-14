@@ -33,6 +33,7 @@ Base map. The Great Sea lies to the west. The Jordan runs south from the Sea of 
 - : about 14 and a half days' walk, at 1 o'clock from Jerusalem. The road north from Damascus toward Haran; a waypoint for the wide map only, never drawn as a place.
 - Bethlehem: about 3 hours' walk, at 7 o'clock from Jerusalem. Ephrath, where Rachel died on the road and Jacob buried her; six miles south of Jerusalem.
 - Bethel: about 5 hours' walk, at 12 o'clock from Jerusalem. Luz, where God appeared to Jacob on his way out to Haran, and again on his way home.
+- Aphek: about 1 and a half days' walk, at 11 o'clock from Jerusalem. Where the Philistine army camped before the battle in which the ark was taken; Israel's camp, Ebenezer, was across from it.
 - Babylon and Riblah: far to the north-east, beyond the map. Zedekiah was blinded at Riblah in Syria and taken to Babylon; both lie beyond this map.
 - Egypt: far to the south-west, beyond the map. Jacob blessed Joseph's sons in Egypt, beyond this map.
 - Nineveh and Ecbatana: far to the north-east, beyond the map. Tobit's story, if included, lies in Assyria and Media, beyond this map.
@@ -142,3 +143,7 @@ Episode 12, The voice and the hands. This map is wider than the series map: it r
 ## ep13.png
 
 Episode 13, I know, my son. This map is wider than the series map: it reaches from Goshen in Egypt, in the south-west, to Bethel in the hills of the promised land. Goshen is in gold, in the green north-east of Egypt where the Nile spreads out toward the sea; Jacob lived his last seventeen years there and died there. Nothing from the rest of this series is near it. A line marks the road his sons carried him. Stand in Goshen and face north; north is twelve o'clock. Hebron, with the cave where Abraham and Isaac lie, is about two weeks' walk at two o'clock. Bethlehem, where Jacob buried Rachel beside the road, is a few hours beyond Hebron on the same line. Bethel, which he still called Luz, where God appeared to him on his way out with nothing, is about a day past that. Goshen, Hebron, Bethlehem, Bethel, in that order; a blind man in Egypt named all three from his bed.
+
+## ep14.png
+
+Episode 14, The voice in the night. Shiloh is in gold, in the hill country of Ephraim, where the tabernacle had stood since Joshua set it up and where Eli judged Israel for forty years. It is the first place in this series we stand twice, because the next episode happens here too. Stand at Shiloh and face north; north is twelve o'clock. Bethel is about half a day's walk behind you at seven o'clock. The hill of Jerusalem, still a Jebusite town and not yet David's, is a day's walk at six o'clock. A line runs west from Shiloh to Aphek, a day's walk toward the coast at nine o'clock, where the Philistine army camped, with Israel's camp, Ebenezer, across from it. That is the road the runner came, from nine o'clock, to the gate where Eli sat.
