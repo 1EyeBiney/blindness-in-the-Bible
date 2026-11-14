@@ -1,0 +1,6 @@
+@project: ep14_the_voice_in_the_night_v2
+@section: 1
+@cast: casts/not_by_sight.json
+@defaults: takes=1 keep=pick model=eleven_v3
+
+[NARRATOR] {id=004} (calm) He did not call. He knows he did not call. And the boy is sure someone did, three times now, in a voice the boy takes for his. Here is Brian, by way of Mister Scaredy Cat, on what a blind man hears in that.

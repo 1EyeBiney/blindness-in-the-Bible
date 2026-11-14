@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "ep14/sitting_on_wooden_stool",
+    "seconds": 8,
+    "variants": 3,
+    "influence": 0.5,
+    "loop": false,
+    "prompt": "Close up outdoors: a heavy old man lowers himself onto a low wooden stool, the joints creak under his weight, he shifts his weight twice and the wood creaks each time, coarse cloth rustling, a tired breath, then still, no voices, no music, no modern sounds",
+    "use": "Eli taking his seat by the road at the start of the imagined scene (replaces old_man_in_chair if preferred)."
+  },
+  {
+    "slug": "ep14/stool_creak_shift",
+    "seconds": 4,
+    "variants": 3,
+    "influence": 0.5,
+    "loop": false,
+    "prompt": "A single slow creak of a wooden stool as a seated man shifts his weight, cloth rustle, then silence, close, dry recording, no voices, no music",
+    "use": "A short one to drop in whenever Eli moves during the scene."
+  },
+  {
+    "slug": "ep14/blacksmith_distant",
+    "seconds": 22,
+    "variants": 3,
+    "influence": 0.45,
+    "loop": true,
+    "prompt": "An ancient village blacksmith heard from down the street: a hand hammer ringing on an anvil in an unhurried irregular rhythm, a pause, a hiss of hot metal quenched in water, bellows wheezing, charcoal fire, slightly distant and open air, no voices, no music, no modern sounds, seamless ambient bed",
+    "use": "Part of the town built off to the right behind Eli; loopable."
+  },
+  {
+    "slug": "ep14/blacksmith_close",
+    "seconds": 15,
+    "variants": 3,
+    "influence": 0.5,
+    "loop": false,
+    "prompt": "A blacksmith at work in an ancient open-fronted smithy: hand hammer striking hot iron on an anvil, several blows then a pause, tongs set down, bellows pumping, a charcoal fire breathing, dry recording, no voices, no music, no modern sounds",
+    "use": "The same smith closer and dry, in case Brian wants to place and distance it himself in the mix."
+  }
+]

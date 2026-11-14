@@ -22,5 +22,10 @@
   },
   "ep13_i_know_my_son_v2": {
     "043": "selected/ep12_the_voice_and_the_hands_v2/section_1/042_narrator.mp3"
+  },
+  "ep14_the_voice_in_the_night_v2": {
+    "006": "selected/ep13_i_know_my_son_v2/section_1/007_narrator.mp3",
+    "007": "selected/ep13_i_know_my_son_v2/section_1/008_narrator.mp3",
+    "035": "selected/ep11_the_last_thing_he_saw_v2/section_1/050_narrator.mp3"
   }
 }

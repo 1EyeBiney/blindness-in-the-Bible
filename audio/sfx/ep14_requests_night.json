@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "ep14/child_bare_feet_running_stone",
+    "seconds": 9,
+    "variants": 3,
+    "influence": 0.5,
+    "loop": false,
+    "prompt": "Inside a stone building at night, very quiet: a small child, about ten, running barefoot on a smooth stone floor, light quick bare feet slapping on stone, starting far away down an echoing corridor and coming closer fast, then stopping suddenly right next to the listener, a child's quick breathing, no voices, no music, no modern sounds",
+    "use": "Samuel's third run to Eli's bedside in the opening; the four seconds alone before the Narrator."
+  },
+  {
+    "slug": "ep14/child_bare_feet_short",
+    "seconds": 5,
+    "variants": 3,
+    "influence": 0.5,
+    "loop": false,
+    "prompt": "A small child running barefoot on a smooth stone floor inside a quiet stone room at night, light quick slapping bare footsteps approaching and stopping close, slight stone echo, no voices, no music",
+    "use": "A shorter run for any extra arrival you want to drop in."
+  },
+  {
+    "slug": "ep14/oil_lamp_burning_close",
+    "seconds": 22,
+    "variants": 3,
+    "influence": 0.45,
+    "loop": true,
+    "prompt": "Extreme close-up of a single small clay oil lamp burning at night in a silent stone room: a faint steady hiss of the wick, tiny flame flutters and soft crackles now and then, deep quiet stone room tone behind it, no voices, no music, no wind, seamless ambient bed",
+    "use": "The one lamp in the house of the LORD; loopable bed under the opening and under Brian's first line at the end."
+  }
+]
