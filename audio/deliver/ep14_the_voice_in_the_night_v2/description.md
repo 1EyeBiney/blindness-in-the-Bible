@@ -1,0 +1,82 @@
+# ep14_the_voice_in_the_night_v2: shots and credits
+
+Each still, with its written description (for blind viewers and for the record):
+
+- 00:00  The lamp at Shiloh, from the end of the Jacob episode: a dark sanctuary, a tall lamp burning low, a boy running toward a doorway.
+- 00:11  Inside the house of the LORD at night: a single small clay lamp on a stand, burning low, a heavy curtain and stone wall behind it, deep shadow everywhere else.
+- 00:21  A small boy in a plain tunic, seen from behind, running barefoot down a dark stone passage toward a doorway where a faint lamp glows.
+- 00:24  A dim room, a very old heavy man lying in a low bed under a woollen cover, his head turned away toward the wall, a faint glow from the doorway.
+- 00:37  The old priest in his bed.
+- 00:48  Brian's picture.
+- 00:55  Brian's picture.
+- 01:10  The boy running down the passage.
+- 01:30  The old priest in his bed.
+- 01:48  Brian's picture.
+- 02:00  Brian's picture.
+- 02:22  An old man seated in a doorway with his face in shadow, the light behind him; the series picture.
+- 03:07  Title card background only: the house of the LORD at Shiloh seen from the hillside at night, a low walled enclosure with one glow of lamplight at its door, dark hills, the upper half of the sky calm for lettering.
+- 03:18  The court of the house of the LORD by day: a woman kneeling alone before the doorway, and at the doorpost an old man seated on a chair, both seen from behind and at a distance.
+- 05:14  A woman seen from behind holding out a small folded linen robe to a boy in a linen ephod, in the court at Shiloh, morning.
+- 05:34  The woman and the boy with the little robe.
+- 05:55  Two men in priests' robes at the altar fire, seen from behind and far off, one reaching into the pot with a long fork, smoke rising, a few people waiting at the edge.
+- 06:23  A cloaked traveller with a staff standing in the sanctuary doorway at dusk, seen from behind, facing an old man seated on a chair inside.
+- 07:03  The old priest.
+- 07:47  The lamp in the dark house.
+- 07:57  The episode map: Shiloh in gold in the hill country, Bethel and Jerusalem to the south, and a line west to Aphek, the road the runner came.
+- 08:53  The scroll.
+- 09:19  The dark hall of the sanctuary, the lamp burning low beside the curtain, a small boy sitting up on a sleeping mat, seen from behind, listening.
+- 09:23  The boy running down the passage.
+- 09:57  The old priest in his bed.
+- 10:23  The boy on his mat in the dark hall.
+- 10:33  The lamp in the dark house.
+- 10:57  The old priest in his bed.
+- 11:41  The scroll.
+- 12:17  A boy seen from behind pushing open the tall doors of the sanctuary onto bright morning light.
+- 12:45  The old priest in his bed.
+- 12:56  The boy at the doors in the morning light.
+- 13:26  The old priest.
+- 13:43  The gate of Shiloh in the afternoon: an empty wooden chair beside a dirt road that runs west out of the picture into haze, low stone walls, no people.
+- 14:07  A very old heavy man seated on the chair beside the road outside the gate, seen from behind, head tilted, the empty road running away west in front of him.
+- 14:33  Far down the road, one man running toward the town, dust behind him, his clothes torn, seen small and from the front but too far for a face.
+- 14:41  A narrow street of flat-roofed stone houses, people pouring out of doorways with arms raised, seen from above and behind, the runner a small figure among them.
+- 14:57  The old man on his chair by the road, seen from behind.
+- 14:59  The old man on his chair by the road.
+- 15:20  The scroll.
+- 15:20  The runner on the road.
+- 15:51  The old man on his chair by the road.
+- 16:22  The same chair by the gate, now on its back in the dust, empty, the road beyond it, evening light. Nobody in the picture.
+- 16:37  The old man on his chair by the road.
+- 17:09  The empty chair by the gate.
+- 17:16  Brian's picture.
+- 17:18  Brian's picture.
+- 17:44  The old man on his chair by the road.
+- 18:07  Brian's picture.
+- 18:30  The two sons at the altar.
+- 18:54  Brian's picture.
+- 19:44  The lamp in the dark house.
+- 20:10  Matthew Henry's study, from episode 7: a desk, candle and open books.
+- 20:45  Matthew Henry's study.
+- 21:01  Matthew Henry's study.
+- 21:14  The old priest in his bed.
+- 21:44  A clay lamp whose wick has burned down to a smoulder, a thread of smoke rising, close in, the rest dark.
+- 22:35  The smouldering wick.
+- 23:07  The old man on his chair by the road, seen from behind.
+- 24:04  The empty chair by the gate.
+- 24:32  Brian's picture.
+- 25:06  The old man on his chair by the road.
+- 25:13  The hill of Shiloh years later, the walled enclosure fallen and overgrown, no lamp, no people, a grey morning.
+- 25:58  The lamp in the dark house.
+- 26:10  The scroll.
+- 26:32  A grown man in a plain robe standing alone in the court of the sanctuary at dawn, seen from behind, the doors open before him.
+- 26:49  The boy on his mat in the dark hall.
+- 27:08  Brian's picture.
+- 27:10  Brian's picture.
+- 27:21  The old man on his chair by the road.
+- 27:27  Brian's picture.
+- 27:38  A woman in a plain country cloak walking alone up a dirt road toward a hill town, a covered basket on her arm, seen from behind, morning.
+- 28:07  The hill of Shiloh, quiet.
+- 28:30  Closing card background only: the road west from Shiloh at first light, dry hills, a pale sky, the lower half calm for lettering.
+
+Scripture quotations are from the Holy Bible, Berean Standard Bible, BSB, public domain.
+Scenes introduced with the word 'imagine' are our own. Voices generated with ElevenLabs; mix by Brian Clark.
+Original music by Brian Clark, made with Suno. All rights held by the author.
