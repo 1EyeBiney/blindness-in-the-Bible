@@ -1,0 +1,564 @@
+{
+ "_comment": "Shot list for episode 14, the fourth of six on sight lost and not given back. 18 new paintings plus the title and close backgrounds (prompts below, generated in this order in Gemini; Brian downloads them in order into images/ep14_the_voice_in_the_night/). Shared stills: the scroll, Brian's picture, the series picture (site_batch2/15), the lamp at Shiloh (episode 13's last picture), Henry's study (episode 7), the episode map (maps/ep14.png). Nobody's face is shown: people are seen from behind, far off, in silhouette, or as shapes against the light. Eli's fall is shown only as an empty chair on its back. Title and close cards get their lettering from make_cards.py (title_card.jpg, close_card.jpg).",
+ "style": "Painterly oil-sketch look, visible brushwork, warm natural light, the land and buildings of ancient Israel in the time of the judges unless the prompt says otherwise. No faces shown close up: people are seen from behind or at a distance. No text or lettering anywhere. Calm and hopeful, never frightening or graphic. 16:9.",
+ "shots": [
+  {
+   "from": "001",
+   "image": "ep13_i_know_my_son/18_the_lamp_at_shiloh.jpg",
+   "card": "Imagine the house of the LORD at Shiloh, at night",
+   "prompt": "",
+   "description": "The lamp at Shiloh, from the end of the Jacob episode: a dark sanctuary, a tall lamp burning low, a boy running toward a doorway."
+  },
+  {
+   "from": "001",
+   "image": "ep14_the_voice_in_the_night/01_the_lamp_in_the_dark_house.jpg",
+   "card": "One oil lamp, almost nothing else",
+   "at_phrase": "The old priest in the bed",
+   "prompt": "The inside of an ancient sanctuary at night, a single small clay oil lamp on a bronze stand burning low, its light falling on a heavy woven curtain and a rough stone wall, everything else in deep warm shadow, no people, very still.",
+   "description": "Inside the house of the LORD at night: a single small clay lamp on a stand, burning low, a heavy curtain and stone wall behind it, deep shadow everywhere else."
+  },
+  {
+   "from": "002",
+   "image": "ep14_the_voice_in_the_night/02_the_boy_runs_to_the_bedside.jpg",
+   "card": "Here I am, for you called me",
+   "prompt": "A small boy of about twelve in a plain linen tunic seen from directly behind, running barefoot down a dark narrow stone passage toward a doorway at the far end where a faint oil lamp glows, his feet off the floor mid-stride, no face shown.",
+   "description": "A small boy in a plain tunic, seen from behind, running barefoot down a dark stone passage toward a doorway where a faint lamp glows."
+  },
+  {
+   "from": "003",
+   "image": "ep14_the_voice_in_the_night/03_the_old_priest_in_bed.jpg",
+   "card": "Go and lie down",
+   "prompt": "A dim stone room at night, a very old heavy man lying in a low wooden bed under a rough woollen cover, his head turned away toward the wall so no face shows, a faint warm glow from an open doorway, a staff leaning in the corner, calm.",
+   "description": "A dim room, a very old heavy man lying in a low bed under a woollen cover, his head turned away toward the wall, a faint glow from the doorway."
+  },
+  {
+   "from": "004",
+   "image": "ep14_the_voice_in_the_night/03_the_old_priest_in_bed.jpg",
+   "card": "He did not call. He knows he did not call.",
+   "prompt": "",
+   "description": "The old priest in his bed."
+  },
+  {
+   "from": "004",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Here is Brian",
+   "at_phrase": "Here is Brian",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "005",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: a very short list of voices",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "005",
+   "image": "ep14_the_voice_in_the_night/02_the_boy_runs_to_the_bedside.jpg",
+   "card": "The boy had his ears and he had his eyes",
+   "at_phrase": "That is what Eli did",
+   "prompt": "",
+   "description": "The boy running down the passage."
+  },
+  {
+   "from": "005",
+   "image": "ep14_the_voice_in_the_night/03_the_old_priest_in_bed.jpg",
+   "card": "He had been in that house a long time",
+   "at_phrase": "Now the old man",
+   "prompt": "",
+   "description": "The old priest in his bed."
+  },
+  {
+   "from": "005",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Eli never heard the voice. He still knew whose it was.",
+   "at_phrase": "So I want to be careful",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "006",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "This is Not By Sight",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "007",
+   "image": "site_batch2/15_eyes_dim_with_grief.jpg",
+   "card": "Sight lost and not given back",
+   "prompt": "",
+   "description": "An old man seated in a doorway with his face in shadow, the light behind him; the series picture."
+  },
+  {
+   "from": "007",
+   "image": "ep14_the_voice_in_the_night/title_card.jpg",
+   "card": "Not By Sight\nEpisode 14: The voice in the night",
+   "at_phrase": "Everything else is from the text",
+   "prompt": "Title card over Shiloh at night: a low walled sanctuary enclosure on a hilltop seen from a little way off, one small warm glow of lamplight at its door, dark rounded hills beyond, a vast deep blue night sky with a few stars, no people, keep the upper half of the sky calm for lettering.",
+   "description": "Title card background only: the house of the LORD at Shiloh seen from the hillside at night, a low walled enclosure with one glow of lamplight at its door, dark hills, the upper half of the sky calm for lettering."
+  },
+  {
+   "from": "008",
+   "image": "ep14_the_voice_in_the_night/04_hannah_at_the_door.jpg",
+   "card": "Where we are: Eli, the priest at Shiloh",
+   "prompt": "The open court of an ancient sanctuary by daylight, a woman in a plain robe and head covering kneeling alone before the great doorway with her head bowed, and beside the doorpost an old heavy man seated on a wooden chair, both seen from behind and from a distance, warm afternoon light, no faces.",
+   "description": "The court of the house of the LORD by day: a woman kneeling alone before the doorway, and at the doorpost an old man seated on a chair, both seen from behind and at a distance."
+  },
+  {
+   "from": "008",
+   "image": "ep14_the_voice_in_the_night/05_the_little_robe.jpg",
+   "card": "Every year, a little robe a size bigger",
+   "at_phrase": "Every year after that she came back",
+   "prompt": "In the court of an ancient sanctuary in the morning, a woman in a plain robe seen from behind holding out a small folded linen robe to a boy of about eight in a little linen apron, the boy half turned away, an older man's robed figure beyond in the doorway, soft light, no faces shown.",
+   "description": "A woman seen from behind holding out a small folded linen robe to a boy in a linen ephod, in the court at Shiloh, morning."
+  },
+  {
+   "from": "008",
+   "image": "ep14_the_voice_in_the_night/05_the_little_robe.jpg",
+   "card": "Somebody raised him. It was the old priest.",
+   "at_phrase": "So Samuel grew up",
+   "prompt": "",
+   "description": "The woman and the boy with the little robe."
+  },
+  {
+   "from": "009",
+   "image": "ep14_the_voice_in_the_night/06_the_sons_at_the_altar.jpg",
+   "card": "Eli's own two sons were another matter",
+   "prompt": "Two men in white priestly robes standing at a stone altar with a fire on it, seen from behind and from a distance, one reaching into a large bronze pot with a long three-pronged fork, smoke rising into a hard bright sky, a few people in plain robes waiting at the edge with their heads down, no faces, calm not violent.",
+   "description": "Two men in priests' robes at the altar fire, seen from behind and far off, one reaching into the pot with a long fork, smoke rising, a few people waiting at the edge."
+  },
+  {
+   "from": "009",
+   "image": "ep14_the_voice_in_the_night/07_the_man_of_god.jpg",
+   "card": "A man of God came",
+   "at_phrase": "A man of God came",
+   "prompt": "A traveller in a dusty cloak holding a staff, seen from behind, standing in the great doorway of an ancient sanctuary at dusk, facing a very old heavy man seated on a wooden chair in the shadow inside, lamplight beginning behind him, no faces shown.",
+   "description": "A cloaked traveller with a staff standing in the sanctuary doorway at dusk, seen from behind, facing an old man seated on a chair inside."
+  },
+  {
+   "from": "009",
+   "image": "ep14_the_voice_in_the_night/03_the_old_priest_in_bed.jpg",
+   "card": "He failed with the sons he was given and succeeded with the son he was lent",
+   "at_phrase": "Eli did not stop his sons",
+   "prompt": "",
+   "description": "The old priest."
+  },
+  {
+   "from": "009",
+   "image": "ep14_the_voice_in_the_night/01_the_lamp_in_the_dark_house.jpg",
+   "card": "The word of the LORD was rare in those days",
+   "at_phrase": "Samuel is a boy in this chapter",
+   "prompt": "",
+   "description": "The lamp in the dark house."
+  },
+  {
+   "from": "009",
+   "image": "maps/ep14.png",
+   "card": "Where this is",
+   "at_phrase": "Where this is.",
+   "prompt": "",
+   "description": "The episode map: Shiloh in gold in the hill country, Bethel and Jerusalem to the south, and a line west to Aphek, the road the runner came."
+  },
+  {
+   "from": "011",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "1 Samuel 3:1-10",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "011",
+   "image": "ep14_the_voice_in_the_night/08_the_voice_in_the_hall.jpg",
+   "card": "Then the LORD called to Samuel",
+   "at_phrase": "Then the LORD called to Samuel",
+   "prompt": "The inside of a dark ancient sanctuary at night, a tall lamp burning low beside a heavy embroidered curtain, a small boy sitting up on a sleeping mat on the floor seen from behind, his head lifted as if listening, warm lamplight and deep shadow, no face shown.",
+   "description": "The dark hall of the sanctuary, the lamp burning low beside the curtain, a small boy sitting up on a sleeping mat, seen from behind, listening."
+  },
+  {
+   "from": "011",
+   "image": "ep14_the_voice_in_the_night/02_the_boy_runs_to_the_bedside.jpg",
+   "card": "He ran to Eli",
+   "at_phrase": "He ran to Eli and said",
+   "prompt": "",
+   "description": "The boy running down the passage."
+  },
+  {
+   "from": "011",
+   "image": "ep14_the_voice_in_the_night/03_the_old_priest_in_bed.jpg",
+   "card": "Then Eli realized that it was the LORD",
+   "at_phrase": "Once again, for the third time",
+   "prompt": "",
+   "description": "The old priest in his bed."
+  },
+  {
+   "from": "011",
+   "image": "ep14_the_voice_in_the_night/08_the_voice_in_the_hall.jpg",
+   "card": "Speak, for Your servant is listening",
+   "at_phrase": "Then the LORD came and stood there",
+   "prompt": "",
+   "description": "The boy on his mat in the dark hall."
+  },
+  {
+   "from": "012",
+   "image": "ep14_the_voice_in_the_night/01_the_lamp_in_the_dark_house.jpg",
+   "card": "Before the lamp of God had gone out. That is a clock.",
+   "prompt": "",
+   "description": "The lamp in the dark house."
+  },
+  {
+   "from": "012",
+   "image": "ep14_the_voice_in_the_night/03_the_old_priest_in_bed.jpg",
+   "card": "The text does not say he heard the voice. It says he realized.",
+   "at_phrase": "And an old man in a dark room",
+   "prompt": "",
+   "description": "The old priest in his bed."
+  },
+  {
+   "from": "013",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "1 Samuel 3:11-18",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "013",
+   "image": "ep14_the_voice_in_the_night/09_the_doors_at_morning.jpg",
+   "card": "Then he opened the doors of the house of the LORD",
+   "at_phrase": "Samuel lay down until the morning",
+   "prompt": "A small boy in a plain linen tunic seen from behind, both hands pushing open one of two tall heavy wooden doors of an ancient sanctuary, bright early morning light pouring in through the gap across a stone floor, dust in the light, no face.",
+   "description": "A boy seen from behind pushing open the tall doors of the sanctuary onto bright morning light."
+  },
+  {
+   "from": "013",
+   "image": "ep14_the_voice_in_the_night/03_the_old_priest_in_bed.jpg",
+   "card": "He is the LORD. Let Him do what is good in His eyes.",
+   "at_phrase": "So Samuel told him everything",
+   "prompt": "",
+   "description": "The old priest in his bed."
+  },
+  {
+   "from": "014",
+   "image": "ep14_the_voice_in_the_night/09_the_doors_at_morning.jpg",
+   "card": "Do not hide it from me",
+   "prompt": "",
+   "description": "The boy at the doors in the morning light."
+  },
+  {
+   "from": "014",
+   "image": "ep14_the_voice_in_the_night/03_the_old_priest_in_bed.jpg",
+   "card": "In His eyes. The old man whose own had gone said that.",
+   "at_phrase": "And when he had heard the worst",
+   "prompt": "",
+   "description": "The old priest."
+  },
+  {
+   "from": "015",
+   "image": "ep14_the_voice_in_the_night/10_the_road_west_from_the_gate.jpg",
+   "card": "Some years later, in one day",
+   "prompt": "A dirt road running from the gate of an ancient hill town westward into afternoon haze, an empty heavy wooden chair set beside the road just outside the gate, low stone walls, dry grass, long shadows, no people.",
+   "description": "The gate of Shiloh in the afternoon: an empty wooden chair beside a dirt road that runs west out of the picture into haze, low stone walls, no people."
+  },
+  {
+   "from": "016",
+   "image": "ep14_the_voice_in_the_night/11_eli_at_the_gate.jpg",
+   "card": "He is ninety-eight, by the road, listening",
+   "prompt": "A very old heavy man in a priest's robe seated on a wooden chair beside a dirt road just outside the gate of an ancient hill town, seen from directly behind, his head tilted a little as if listening, the empty road running away into the western haze in front of him, late afternoon, no face shown.",
+   "description": "A very old heavy man seated on the chair beside the road outside the gate, seen from behind, head tilted, the empty road running away west in front of him."
+  },
+  {
+   "from": "016",
+   "image": "ep14_the_voice_in_the_night/12_the_runner.jpg",
+   "card": "Then it says one man, running",
+   "at_phrase": "Then it says one man, running",
+   "prompt": "A long dirt road through dry hill country in the afternoon, far down it one man running hard toward the viewer, dust rising behind him, his robe torn and his head dusty, painted small and distant so no face can be seen, no one else on the road.",
+   "description": "Far down the road, one man running toward the town, dust behind him, his clothes torn, seen small and from the front but too far for a face."
+  },
+  {
+   "from": "016",
+   "image": "ep14_the_voice_in_the_night/13_the_town_cries_out.jpg",
+   "card": "And then the whole town cries out at once",
+   "at_phrase": "There is a pause. And then the whole town",
+   "prompt": "A narrow street of flat-roofed stone houses in an ancient hill town, seen from above and behind, people pouring out of doorways and turning toward one small dusty figure in the middle of the street, arms raised, no faces visible, afternoon light, calm painterly handling, not graphic.",
+   "description": "A narrow street of flat-roofed stone houses, people pouring out of doorways with arms raised, seen from above and behind, the runner a small figure among them."
+  },
+  {
+   "from": "017",
+   "image": "ep14_the_voice_in_the_night/11_eli_at_the_gate.jpg",
+   "card": "Why this commotion?",
+   "prompt": "",
+   "description": "The old man on his chair by the road, seen from behind."
+  },
+  {
+   "from": "018",
+   "image": "ep14_the_voice_in_the_night/11_eli_at_the_gate.jpg",
+   "card": "He heard it all arrive, in order, and he is told last",
+   "prompt": "",
+   "description": "The old man on his chair by the road."
+  },
+  {
+   "from": "019",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "1 Samuel 4:12-18",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "019",
+   "image": "ep14_the_voice_in_the_night/12_the_runner.jpg",
+   "card": "A Benjamite ran from the battle line all the way to Shiloh",
+   "at_phrase": "That same day a Benjamite",
+   "prompt": "",
+   "description": "The runner on the road."
+  },
+  {
+   "from": "019",
+   "image": "ep14_the_voice_in_the_night/11_eli_at_the_gate.jpg",
+   "card": "His gaze was fixed because he could not see",
+   "at_phrase": "Now Eli was ninety-eight years old",
+   "prompt": "",
+   "description": "The old man on his chair by the road."
+  },
+  {
+   "from": "019",
+   "image": "ep14_the_voice_in_the_night/14_the_empty_chair.jpg",
+   "card": "Eli fell backward from his chair by the city gate",
+   "at_phrase": "As soon as the ark of God was mentioned",
+   "prompt": "A heavy wooden chair lying on its back in the dust beside a dirt road just outside the gate of an ancient hill town, empty, nobody in the picture, the road running away into evening light, long shadows, quiet and still, not frightening.",
+   "description": "The same chair by the gate, now on its back in the dust, empty, the road beyond it, evening light. Nobody in the picture."
+  },
+  {
+   "from": "020",
+   "image": "ep14_the_voice_in_the_night/11_eli_at_the_gate.jpg",
+   "card": "Sitting beside the road and watching",
+   "prompt": "",
+   "description": "The old man on his chair by the road."
+  },
+  {
+   "from": "020",
+   "image": "ep14_the_voice_in_the_night/14_the_empty_chair.jpg",
+   "card": "It was the loss of the ark",
+   "at_phrase": "It was the last that killed him",
+   "prompt": "",
+   "description": "The empty chair by the gate."
+  },
+  {
+   "from": "021",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Brian, what do you hear in this one?",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "022",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: the one I would least like to be",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "022",
+   "image": "ep14_the_voice_in_the_night/11_eli_at_the_gate.jpg",
+   "card": "The patience you have to have whether you want it or not",
+   "at_phrase": "That is the part of blindness",
+   "prompt": "",
+   "description": "The old man on his chair by the road."
+  },
+  {
+   "from": "022",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Why this commotion? I have asked that question",
+   "at_phrase": "I have asked that question",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "022",
+   "image": "ep14_the_voice_in_the_night/06_the_sons_at_the_altar.jpg",
+   "card": "A blind man hears a great deal he cannot act on",
+   "at_phrase": "Eli had heard for years",
+   "prompt": "",
+   "description": "The two sons at the altar."
+  },
+  {
+   "from": "022",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "There is no looking away from a sound",
+   "at_phrase": "There are all kinds of things I hear",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "023",
+   "image": "ep14_the_voice_in_the_night/01_the_lamp_in_the_dark_house.jpg",
+   "card": "What I want to hold onto from Eli is the night, not the gate",
+   "prompt": "",
+   "description": "The lamp in the dark house."
+  },
+  {
+   "from": "024",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "Now the old books: Matthew Henry",
+   "prompt": "",
+   "description": "Matthew Henry's study, from episode 7: a desk, candle and open books."
+  },
+  {
+   "from": "025",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "Like a careful magistrate, he asks",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "026",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "A greater concern on his spirit, which swallows up the less",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "026",
+   "image": "ep14_the_voice_in_the_night/03_the_old_priest_in_bed.jpg",
+   "card": "It is the Lord. From whose bar there lies no appeal.",
+   "at_phrase": "On the night scene",
+   "prompt": "",
+   "description": "The old priest in his bed."
+  },
+  {
+   "from": "027",
+   "image": "ep14_the_voice_in_the_night/15_the_smouldering_wick.jpg",
+   "card": "The word: kay-HEH, dim",
+   "prompt": "A close painting of a small clay oil lamp whose wick has burned down to a dull red smoulder, a thin thread of smoke rising into darkness, the last glow on the rim of the lamp, nothing else in the frame, quiet.",
+   "description": "A clay lamp whose wick has burned down to a smoulder, a thread of smoke rising, close in, the rest dark."
+  },
+  {
+   "from": "027",
+   "image": "ep14_the_voice_in_the_night/15_the_smouldering_wick.jpg",
+   "card": "A smouldering wick He will not put out",
+   "at_phrase": "But one of the others is in Isaiah",
+   "prompt": "",
+   "description": "The smouldering wick."
+  },
+  {
+   "from": "027",
+   "image": "ep14_the_voice_in_the_night/11_eli_at_the_gate.jpg",
+   "card": "The second word: KOOM, stood",
+   "at_phrase": "The second word comes at the gate",
+   "prompt": "",
+   "description": "The old man on his chair by the road, seen from behind."
+  },
+  {
+   "from": "027",
+   "image": "ep14_the_voice_in_the_night/14_the_empty_chair.jpg",
+   "card": "He had been told. He sat down in that chair knowing it.",
+   "at_phrase": "And set it beside the man of God",
+   "prompt": "",
+   "description": "The empty chair by the gate."
+  },
+  {
+   "from": "028",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: eyes that have stopped moving",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "028",
+   "image": "ep14_the_voice_in_the_night/11_eli_at_the_gate.jpg",
+   "card": "Everyone at that gate knew what he was",
+   "at_phrase": "Eli's eyes had stood still",
+   "prompt": "",
+   "description": "The old man on his chair by the road."
+  },
+  {
+   "from": "029",
+   "image": "ep14_the_voice_in_the_night/16_shiloh_after.jpg",
+   "card": "What came after: the glory has departed",
+   "prompt": "A hilltop in rocky hill country under a grey morning sky, the low stone walls of a ruined enclosure fallen and overgrown with thistles and dry grass, a broken doorway standing alone, no people, quiet and empty.",
+   "description": "The hill of Shiloh years later, the walled enclosure fallen and overgrown, no lamp, no people, a grey morning."
+  },
+  {
+   "from": "029",
+   "image": "ep14_the_voice_in_the_night/01_the_lamp_in_the_dark_house.jpg",
+   "card": "But the night came to something too",
+   "at_phrase": "But the night came to something",
+   "prompt": "",
+   "description": "The lamp in the dark house."
+  },
+  {
+   "from": "030",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "1 Samuel 3:19-21",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "031",
+   "image": "ep14_the_voice_in_the_night/17_samuel_grown.jpg",
+   "card": "The LORD continued to appear at Shiloh",
+   "prompt": "A grown man in a plain robe and mantle standing alone in the open court of an ancient sanctuary at dawn, seen from behind, the tall doors open before him and the first light on the stone, no face shown, calm.",
+   "description": "A grown man in a plain robe standing alone in the court of the sanctuary at dawn, seen from behind, the doors open before him."
+  },
+  {
+   "from": "031",
+   "image": "ep14_the_voice_in_the_night/08_the_voice_in_the_hall.jpg",
+   "card": "Speak, LORD, for Your servant is listening",
+   "at_phrase": "Everything the LORD said to Israel",
+   "prompt": "",
+   "description": "The boy on his mat in the dark hall."
+  },
+  {
+   "from": "032",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Brian, with the last word",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "033",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: he heard the worst and handed it back to God",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "033",
+   "image": "ep14_the_voice_in_the_night/11_eli_at_the_gate.jpg",
+   "card": "A patience that sits by the road because it has no choice",
+   "at_phrase": "There is a patience that sits by the road",
+   "prompt": "",
+   "description": "The old man on his chair by the road."
+  },
+  {
+   "from": "033",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "That is the one I am still learning",
+   "at_phrase": "There is another that hears everything",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "034",
+   "image": "ep14_the_voice_in_the_night/18_the_woman_on_the_road.jpg",
+   "card": "Next time: Ahijah, and the disguised queen",
+   "prompt": "A woman in a plain brown country cloak and head covering walking alone up a dirt road toward a small hill town, a covered basket on her arm, seen from behind, olive trees and terraced fields, clear morning light, no face.",
+   "description": "A woman in a plain country cloak walking alone up a dirt road toward a hill town, a covered basket on her arm, seen from behind, morning."
+  },
+  {
+   "from": "035",
+   "image": "ep14_the_voice_in_the_night/16_shiloh_after.jpg",
+   "card": "This has been Not By Sight",
+   "prompt": "",
+   "description": "The hill of Shiloh, quiet."
+  },
+  {
+   "from": "035",
+   "image": "ep14_the_voice_in_the_night/close_card.jpg",
+   "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
+   "at_phrase": "For we walk by faith",
+   "prompt": "Closing card over the road west from a hill town at first light: a dirt road winding down between dry rounded hills toward a pale gold horizon, a soft empty sky, no people, keep the lower half of the picture calm for lettering.",
+   "description": "Closing card background only: the road west from Shiloh at first light, dry hills, a pale sky, the lower half calm for lettering."
+  }
+ ]
+}
