@@ -13,6 +13,12 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-11-15", "The Eli page, filled out after the episode",
+     "Where the story falls in his life: Hannah at the doorpost, the little robe, the boy he raised, the sons he could "
+     "not govern, and the man of God who told Eli that his own eyes would fail and his heart would grieve, which "
+     "chapter 4 pays out in two verses. Matthew Henry on the careful magistrate. Brian's words from the episode, "
+     "including the short list of voices in a blind man's house and eyes that have stopped moving. Links to Ahijah, "
+     "the other old man of Shiloh, and to the two Hebrew words.", "stories/eli.html"),
     ("2026-11-14", "Episode 14: The voice in the night",
      "The fourth episode of the series on sight lost and not given back: Eli, the blind old priest at Shiloh, and "
      "the boy who ran to his bedside three times in the night. Hannah and the little robe, 1 Samuel 3 word for "
