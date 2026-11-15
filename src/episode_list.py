@@ -71,6 +71,15 @@ EPISODES = [
      "the gate, years later: an old man on a chair beside the road, a runner going past him, a town crying out, and "
      "the one person who has to ask why. Matthew Henry on the careful magistrate, two Hebrew words for Eli's eyes, "
      "and Brian on the patience you have whether you want it or not."),
+    (15, "The sound of her feet", "1 Kings 14", ["ahijah"],
+     "The fifth of six on sight lost and not given back. Ahijah, the old prophet at Shiloh, cannot see, and the "
+     "queen of Israel has just stopped at his door in disguise. The first word out of the house is her name. The "
+     "episode opens there, then tells the new cloak torn into twelve pieces, the promise with a second half, the two "
+     "golden calves, and the king who never sent to the prophet until his boy fell ill. First Kings 14 word for "
+     "word: the LORD telling the blind man who is coming before her feet reach the step. An imagined walk from "
+     "Tirzah, the first time anyone in the Bible says beyond the Euphrates, Matthew Henry on the eyes of the mind "
+     "least diverted, the Hebrew word for eyes that stood, and Brian on the one blind man in the series who did not "
+     "have to work anything out, because he had been told."),
 ]
 
 # The trailer: a short taste of the episodes, on the home page and at the top of the Episodes page.

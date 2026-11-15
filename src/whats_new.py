@@ -13,6 +13,13 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-11-15", "Episode 15: The sound of her feet",
+     "The fifth episode of the series on sight lost and not given back: Ahijah, the blind old prophet at Shiloh, "
+     "and the queen who came to his door in disguise. The torn cloak, the golden calves, 1 Kings 14 word for word, "
+     "an imagined walk from Tirzah, the first time anyone in the Bible says beyond the Euphrates, Matthew Henry on "
+     "the eyes of the mind least diverted, the Hebrew word for eyes that stood, and Brian on the one blind man in the "
+     "series who did not have to work anything out. It plays on the Ahijah page and on the Episodes page.",
+     "stories/ahijah.html"),
     ("2026-11-15", "The Eli page, filled out after the episode",
      "Where the story falls in his life: Hannah at the doorpost, the little robe, the boy he raised, the sons he could "
      "not govern, and the man of God who told Eli that his own eyes would fail and his heart would grieve, which "

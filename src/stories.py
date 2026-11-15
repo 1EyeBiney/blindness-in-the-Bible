@@ -253,6 +253,8 @@ STORIES = [
         "slug": "ahijah", "title": "Ahijah and the disguised queen", "who": "Ahijah the prophet", "group": "not_restored",
         "outcome": "not_restored",
         "passages": [("1 Kings", 14, 1, 13)],
+        "listen": {"youtube": "2mSXkUr6e2w", "mp3": "not_by_sight_15_the_sound_of_her_feet.mp3", "minutes": 25,
+                   "title": "Not By Sight, Episode 15: The sound of her feet"},
         "sight": "Kings says Ahijah could not see, for his eyes were dim because of his age. The verb under 'dim' is qum, "
                  "to stand: his eyes had set. It is the word used of Eli at the gate in the same town, and the translators "
                  "swap between the two men, giving Eli 'his gaze was fixed' and Ahijah 'his eyes were dim'. Brian reads it "
