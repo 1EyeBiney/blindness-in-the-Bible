@@ -13,6 +13,12 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-11-15", "The Ahijah page, filled out after the episode",
+     "The order of verses 4, 5 and 6: blindness, the telling, the hearing. I have been sent to you. The chapter built on "
+     "her feet, and what such and such means. The promise's second half, the calves, and the king who never sent until "
+     "his boy fell ill. The threshold at Tirzah, beyond the Euphrates said for the first time, and the last mention of "
+     "Ahijah's name. More of Matthew Henry, and Josephus. Brian's paragraphs from the episode, including his last word. "
+     "Links to Eli, the other old man of Shiloh, and to the words page.", "stories/ahijah.html"),
     ("2026-11-15", "Episode 15: The sound of her feet",
      "The fifth episode of the series on sight lost and not given back: Ahijah, the blind old prophet at Shiloh, "
      "and the queen who came to his door in disguise. The torn cloak, the golden calves, 1 Kings 14 word for word, "
