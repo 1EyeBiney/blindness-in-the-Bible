@@ -1,0 +1,563 @@
+{
+ "_comment": "Shot list for episode 15, the fifth of six on sight lost and not given back. 15 new paintings plus the title and close backgrounds (prompts below, generated in this order in Gemini; Brian downloads them in order into images/ep15_the_sound_of_her_feet/). Shared stills: the scroll, Brian's picture, the series picture (site_batch2/15), the woman on the road and the town crying out and Eli at the gate (episode 14), the Euphrates road (episode 11), Henry's study (episode 7), the episode map (maps/ep15.png). Nobody's face is shown: people are seen from behind, far off, in silhouette, or as shapes against the light; Ahijah's face is always lost in shadow. The end of Jeroboam's house is not pictured. Title and close cards get their lettering from make_cards.py (title_card.jpg, close_card.jpg).",
+ "style": "Painterly oil-sketch look, visible brushwork, warm natural light, the land and buildings of ancient Israel in the time of the early kings unless the prompt says otherwise. No faces shown close up: people are seen from behind or at a distance. No text or lettering anywhere. Calm and hopeful, never frightening or graphic. 16:9.",
+ "shots": [
+  {
+   "from": "001",
+   "image": "ep14_the_voice_in_the_night/13_the_town_cries_out.jpg",
+   "card": "Last time, the whole of Shiloh cried out",
+   "prompt": "",
+   "description": "The street at Shiloh crying out, from the end of the Eli episode."
+  },
+  {
+   "from": "001",
+   "image": "ep14_the_voice_in_the_night/18_the_woman_on_the_road.jpg",
+   "card": "Now the same town, about a hundred and seventy years on, and quiet",
+   "at_phrase": "Now the same town",
+   "prompt": "",
+   "description": "The woman on the road to the hill town, from the end of episode 14."
+  },
+  {
+   "from": "002",
+   "image": "ep15_the_sound_of_her_feet/01_the_house_in_shiloh.jpg",
+   "card": "Imagine a house in Shiloh, a long time ago",
+   "prompt": "A small flat-roofed stone house on the edge of an ancient hill village in early morning light, a worn dirt path with a few flat stones leading up to its open doorway, the room inside dim, an olive tree beside the wall, no people, quiet.",
+   "description": "A small flat-roofed stone house on the edge of a hill village in the morning, a worn dirt path leading up to its open doorway, the inside dim, nobody in the picture."
+  },
+  {
+   "from": "002",
+   "image": "ep15_the_sound_of_her_feet/02_the_old_man_inside.jpg",
+   "card": "The old man inside cannot see",
+   "at_phrase": "The old man inside",
+   "prompt": "The dim inside of a small ancient stone house, a very old thin man with a white beard seated very still on a low wooden bench against the far wall, facing a bright open doorway, his face entirely lost in shadow, an unlit clay lamp on a shelf beside him, dust in the shaft of light from the door, calm.",
+   "description": "Inside the dim house: a very old man seated on a low bench against the far wall, facing the bright doorway, his face lost in shadow, a lamp unlit beside him."
+  },
+  {
+   "from": "002",
+   "image": "ep15_the_sound_of_her_feet/03_the_woman_at_the_door.jpg",
+   "card": "Someone has just stopped at his door",
+   "at_phrase": "Someone has just stopped",
+   "prompt": "A woman in a plain brown country cloak and head covering seen from directly behind, standing perfectly still on the flat stone threshold of a small ancient house, a covered wicker basket on her arm, the dim room ahead of her with a shape of an old man seated against the far wall, morning light on her back, no faces.",
+   "description": "A woman in a plain country cloak and head covering seen from behind, standing still on the threshold of the house, a covered basket on her arm, the dim room ahead of her."
+  },
+  {
+   "from": "003",
+   "image": "ep15_the_sound_of_her_feet/02_the_old_man_inside.jpg",
+   "card": "Come in, wife of Jeroboam. Why are you disguised?",
+   "prompt": "",
+   "description": "The old man inside, facing the door."
+  },
+  {
+   "from": "004",
+   "image": "ep15_the_sound_of_her_feet/03_the_woman_at_the_door.jpg",
+   "card": "She has not spoken. He has not seen her.",
+   "prompt": "",
+   "description": "The woman at the door."
+  },
+  {
+   "from": "004",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Here is Brian",
+   "at_phrase": "Here is Brian",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "005",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: what a blind man hears at a door",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "005",
+   "image": "ep15_the_sound_of_her_feet/02_the_old_man_inside.jpg",
+   "card": "Ahijah did not recognize her footsteps",
+   "at_phrase": "Ahijah did not recognize",
+   "prompt": "",
+   "description": "The old man inside, facing the door."
+  },
+  {
+   "from": "005",
+   "image": "ep15_the_sound_of_her_feet/03_the_woman_at_the_door.jpg",
+   "card": "The footsteps only tell him she has arrived",
+   "at_phrase": "So when feet stopped at his door",
+   "prompt": "",
+   "description": "The woman at the door."
+  },
+  {
+   "from": "005",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "The one time a blind man did not have to work anything out",
+   "at_phrase": "That is what this story is about",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "006",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "This is Not By Sight",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "007",
+   "image": "site_batch2/15_eyes_dim_with_grief.jpg",
+   "card": "Sight lost and not given back",
+   "prompt": "",
+   "description": "An old man seated in a doorway with his face in shadow, the light behind him; the series picture."
+  },
+  {
+   "from": "007",
+   "image": "ep15_the_sound_of_her_feet/title_card.jpg",
+   "card": "Not By Sight\nEpisode 15: The sound of her feet",
+   "at_phrase": "Everything else is from the text",
+   "prompt": "Title card over the hill country of Ephraim at early morning: a dirt road winding down from rounded northern hills toward a small stone village on a ridge, terraced slopes and olive trees, soft gold light, a wide pale sky, no people, keep the upper half of the picture calm for lettering.",
+   "description": "Title card background only: a dirt road coming down out of northern hills toward a small village on a ridge, early morning, the upper half of the sky calm for lettering."
+  },
+  {
+   "from": "008",
+   "image": "ep15_the_sound_of_her_feet/04_the_torn_cloak.jpg",
+   "card": "Where we are: a new cloak torn into twelve pieces",
+   "prompt": "An open field of dry grass outside an ancient walled city on a hill, a prophet in a plain robe seen from behind tearing a bright new cloak into strips, several torn pieces lying on the grass at his feet, a younger man in a fine tunic standing facing him a few paces away, both figures small enough that no face is seen, afternoon light.",
+   "description": "An open field outside Jerusalem: a prophet in a plain robe seen from behind, tearing a new cloak, pieces on the grass, a younger man in an officer's tunic standing before him, both far enough off that no face shows."
+  },
+  {
+   "from": "009",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "1 Kings 11:29-31 and 38",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "009",
+   "image": "ep15_the_sound_of_her_feet/04_the_torn_cloak.jpg",
+   "card": "Take ten pieces for yourself",
+   "at_phrase": "Take ten pieces for yourself",
+   "prompt": "",
+   "description": "The torn cloak in the field."
+  },
+  {
+   "from": "010",
+   "image": "ep15_the_sound_of_her_feet/04_the_torn_cloak.jpg",
+   "card": "It came true, the first half of it",
+   "prompt": "",
+   "description": "The torn cloak in the field."
+  },
+  {
+   "from": "010",
+   "image": "ep15_the_sound_of_her_feet/05_ten_tribes_walk_away.jpg",
+   "card": "Ten tribes walked away from David's house",
+   "at_phrase": "ten tribes walked away",
+   "prompt": "A great crowd of people in plain robes seen from behind walking away from an ancient walled hill city down a dusty road into open country, a man on a mule at their head, the city small and bright on its hill behind them, no faces, calm not angry.",
+   "description": "A crowd seen from behind walking away down a road from a walled hill city, many backs, dust, one figure on a mule at the front, the city small behind them."
+  },
+  {
+   "from": "011",
+   "image": "ep15_the_sound_of_her_feet/06_the_golden_calf_at_bethel.jpg",
+   "card": "He made two golden calves",
+   "prompt": "A hilltop shrine in ancient Israel: a stone platform with steps and a low altar sending up smoke, a small golden calf standing on a stone pedestal at the top, a handful of worshippers in plain robes seen from behind and far below, dry hills around, no faces, calm.",
+   "description": "A shrine on a high place at Bethel: a stone platform with steps, a small golden calf on a pedestal, a few worshippers far off with their backs to us, smoke from an altar."
+  },
+  {
+   "from": "011",
+   "image": "ep15_the_sound_of_her_feet/06_the_golden_calf_at_bethel.jpg",
+   "card": "Even after that, Jeroboam did not repent",
+   "at_phrase": "And when a man of God came",
+   "prompt": "",
+   "description": "The shrine at Bethel."
+  },
+  {
+   "from": "012",
+   "image": "ep15_the_sound_of_her_feet/07_the_sick_child.jpg",
+   "card": "Then his son fell ill",
+   "prompt": "A room in an ancient royal house, a child of about ten lying in a low carved bed under a fine woven cover, a bearded man in a rich robe standing at the foot of the bed with his back to the viewer, a woman seated beside the bed with her head bowed and covered, soft lamplight, no faces shown, tender and quiet.",
+   "description": "A room in the king's house at Tirzah: a child lying in a low bed under a fine cover, a man standing at the foot of it with his back to us, a woman seated beside the bed with her head bowed, lamplight, no faces."
+  },
+  {
+   "from": "012",
+   "image": "maps/ep15.png",
+   "card": "Where this is",
+   "at_phrase": "Where this is.",
+   "prompt": "",
+   "description": "The episode map: Shiloh in gold, the road up to Tirzah at one o'clock, Bethel and Jerusalem to the south."
+  },
+  {
+   "from": "013",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "1 Kings 14:1-6",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "014",
+   "image": "ep15_the_sound_of_her_feet/07_the_sick_child.jpg",
+   "card": "Now get up, disguise yourself, and go to Shiloh",
+   "prompt": "",
+   "description": "The sick child's room."
+  },
+  {
+   "from": "014",
+   "image": "ep15_the_sound_of_her_feet/08_the_road_down_from_tirzah.jpg",
+   "card": "She arose and went to Shiloh",
+   "at_phrase": "she arose and went to Shiloh",
+   "prompt": "A long dirt road winding down out of rounded green hills toward higher rocky country, one small figure of a cloaked woman with a basket walking it alone, seen from far behind, early morning light, terraced slopes, a distant flock, no faces.",
+   "description": "A long road winding down out of green northern hills, one small cloaked figure walking it alone with a basket, morning."
+  },
+  {
+   "from": "014",
+   "image": "ep15_the_sound_of_her_feet/02_the_old_man_inside.jpg",
+   "card": "Now Ahijah could not see",
+   "at_phrase": "Now Ahijah could not see",
+   "prompt": "",
+   "description": "The old man inside, facing the door."
+  },
+  {
+   "from": "014",
+   "image": "ep15_the_sound_of_her_feet/03_the_woman_at_the_door.jpg",
+   "card": "When Ahijah heard the sound of her feet entering the door",
+   "at_phrase": "So when Ahijah heard",
+   "prompt": "",
+   "description": "The woman at the door."
+  },
+  {
+   "from": "015",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Such and such. The writer's shorthand.",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "015",
+   "image": "ep15_the_sound_of_her_feet/09_the_woman_in_the_village.jpg",
+   "card": "The disguise was for the people on the road and in the town",
+   "at_phrase": "And notice who the disguise is for",
+   "prompt": "A narrow street of flat-roofed stone houses in an ancient hill village in the morning, a woman in a plain brown cloak with a covered basket walking through it seen from behind, villagers drawing water and talking at their doors paying her no attention, chickens, warm light, no faces.",
+   "description": "A village street at Shiloh, a cloaked woman with a basket walking through it seen from behind, villagers at their doors and wells paying her no attention."
+  },
+  {
+   "from": "015",
+   "image": "ep15_the_sound_of_her_feet/02_the_old_man_inside.jpg",
+   "card": "He did not see through her. He was told.",
+   "at_phrase": "Then notice the order of the verses",
+   "prompt": "",
+   "description": "The old man inside, facing the door."
+  },
+  {
+   "from": "016",
+   "image": "ep15_the_sound_of_her_feet/08_the_road_down_from_tirzah.jpg",
+   "card": "Now imagine the walk. A day, from Tirzah, mostly uphill.",
+   "prompt": "",
+   "description": "The road down from Tirzah."
+  },
+  {
+   "from": "017",
+   "image": "ep15_the_sound_of_her_feet/10_the_basket_on_her_arm.jpg",
+   "card": "A plain cloak, a basket, ten loaves, some cakes, a jar of honey",
+   "prompt": "A close painting of a covered wicker basket carried on a woman's arm, a corner of rough cloth lifted to show round loaves and a small stoppered clay jar, the sleeve of a plain brown homespun cloak, a dusty road and hills soft in the background, no face in the picture.",
+   "description": "Close on a covered wicker basket on a woman's arm, the edge of a plain brown cloak, bread and a small clay jar showing under the cloth, the road blurred beyond, no face."
+  },
+  {
+   "from": "017",
+   "image": "ep15_the_sound_of_her_feet/09_the_woman_in_the_village.jpg",
+   "card": "All day she is a woman nobody recognizes",
+   "at_phrase": "She passes people on the road",
+   "prompt": "",
+   "description": "The woman in the village street."
+  },
+  {
+   "from": "017",
+   "image": "ep15_the_sound_of_her_feet/03_the_woman_at_the_door.jpg",
+   "card": "She goes up the path, and stops at the door",
+   "at_phrase": "She reaches Shiloh",
+   "prompt": "",
+   "description": "The woman at the door."
+  },
+  {
+   "from": "017",
+   "image": "ep15_the_sound_of_her_feet/02_the_old_man_inside.jpg",
+   "card": "They are open. They are not moving.",
+   "at_phrase": "They are open.",
+   "prompt": "",
+   "description": "The old man inside, facing the door."
+  },
+  {
+   "from": "018",
+   "image": "ep15_the_sound_of_her_feet/03_the_woman_at_the_door.jpg",
+   "card": "Come in, wife of Jeroboam",
+   "prompt": "",
+   "description": "The woman at the door."
+  },
+  {
+   "from": "019",
+   "image": "ep15_the_sound_of_her_feet/02_the_old_man_inside.jpg",
+   "card": "Sent. He says I have been sent to you.",
+   "prompt": "",
+   "description": "The old man inside, facing the door."
+  },
+  {
+   "from": "020",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "1 Kings 14:7-9",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "021",
+   "image": "ep15_the_sound_of_her_feet/02_the_old_man_inside.jpg",
+   "card": "Then the prophet turns from the king to the woman at the door",
+   "prompt": "",
+   "description": "The old man inside, facing the door."
+  },
+  {
+   "from": "022",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "1 Kings 14:12-13 and 15",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "022",
+   "image": "ep15_the_sound_of_her_feet/11_a_reed_in_the_water.jpg",
+   "card": "As a reed is shaken in the water",
+   "at_phrase": "For the LORD will strike Israel",
+   "prompt": "Tall green reeds at the edge of a wide slow river bending hard in the wind, grey-blue water with small waves, an overcast sky, no people, nothing else in the picture.",
+   "description": "Tall reeds at the edge of a wide river bending in the wind, grey water, nothing else."
+  },
+  {
+   "from": "023",
+   "image": "ep11_the_last_thing_he_saw/12_euphrates_road.jpg",
+   "card": "Beyond the Euphrates. The first time anyone says it.",
+   "prompt": "",
+   "description": "The road along the Euphrates, from episode 11."
+  },
+  {
+   "from": "023",
+   "image": "ep15_the_sound_of_her_feet/03_the_woman_at_the_door.jpg",
+   "card": "When your feet enter the city. Her feet again.",
+   "at_phrase": "When your feet enter the city",
+   "prompt": "",
+   "description": "The woman at the door."
+  },
+  {
+   "from": "023",
+   "image": "ep15_the_sound_of_her_feet/07_the_sick_child.jpg",
+   "card": "The boy would be mourned, and buried, and he alone",
+   "at_phrase": "She asked nothing",
+   "prompt": "",
+   "description": "The sick child's room."
+  },
+  {
+   "from": "024",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Brian, what do you hear in this one?",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "025",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: not sharper ears. He was told.",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "025",
+   "image": "ep14_the_voice_in_the_night/11_eli_at_the_gate.jpg",
+   "card": "The same word as Eli at the gate: his eyes stood",
+   "at_phrase": "The word for his eyes is the same one",
+   "prompt": "",
+   "description": "Eli on his chair by the road, from episode 14."
+  },
+  {
+   "from": "025",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "I do not use my eyes for anything now",
+   "at_phrase": "I am getting more this way",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "025",
+   "image": "ep15_the_sound_of_her_feet/02_the_old_man_inside.jpg",
+   "card": "The queen saw that face when she walked in",
+   "at_phrase": "The queen saw that face",
+   "prompt": "",
+   "description": "The old man inside, facing the door."
+  },
+  {
+   "from": "025",
+   "image": "ep15_the_sound_of_her_feet/12_the_family_line.jpg",
+   "card": "This story finishes something that starts back in Genesis",
+   "at_phrase": "This story also finishes something",
+   "prompt": "A painted frieze on an old plaster wall in three panels, left to right: a bent old man in a tent reaching out to touch a young man's arm; a dark tent interior with one small lamp and two veiled figures; a richly dressed man on a dais with a row of bearded men bowing before him, all figures small and faceless, warm earth colours, no lettering.",
+   "description": "Three small scenes in one picture, as if on an old wall: a bent old man reaching to touch a young man's arm; a tent in the dark with a lamp; a rich man on a dais with brothers bowing before him, all far off, no faces."
+  },
+  {
+   "from": "025",
+   "image": "ep15_the_sound_of_her_feet/06_the_golden_calf_at_bethel.jpg",
+   "card": "Jeroboam had his eyes and his kingdom and his calves",
+   "at_phrase": "Jeroboam had his eyes",
+   "prompt": "",
+   "description": "The shrine at Bethel."
+  },
+  {
+   "from": "025",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Less distracted, in a world built to pull my attention away from Jesus",
+   "at_phrase": "My lack of vision gives me clarity",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "026",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "Now the old books: Matthew Henry",
+   "prompt": "",
+   "description": "Matthew Henry's study, from episode 7: a desk, candle and open books."
+  },
+  {
+   "from": "027",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "The eyes of the mind being then most intent and least diverted",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "028",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "In trouble have those visited thee who before slighted thee",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "028",
+   "image": "ep15_the_sound_of_her_feet/02_the_old_man_inside.jpg",
+   "card": "Josephus: you are not hidden from God",
+   "at_phrase": "Josephus tells the story",
+   "prompt": "",
+   "description": "The old man inside, facing the door."
+  },
+  {
+   "from": "029",
+   "image": "ep15_the_sound_of_her_feet/13_everyone_rising_and_going.jpg",
+   "card": "The word: KOOM, stood",
+   "prompt": "An ancient hill village seen from above in the morning, a dirt path busy with people in plain robes rising from doorsteps and walking with jars and bundles, and in the dark open doorway of one small house at the edge, a very old man seated perfectly still on a bench, everyone else in motion, no faces, warm light.",
+   "description": "Seen from above, a village path busy with people rising and going about their morning, and in the open doorway of one small house an old man seated perfectly still."
+  },
+  {
+   "from": "029",
+   "image": "ep14_the_voice_in_the_night/11_eli_at_the_gate.jpg",
+   "card": "The same word as Eli's, the same town",
+   "at_phrase": "The same word as Eli's",
+   "prompt": "",
+   "description": "Eli on his chair by the road."
+  },
+  {
+   "from": "029",
+   "image": "ep15_the_sound_of_her_feet/13_everyone_rising_and_going.jpg",
+   "card": "Everyone in the chapter is rising and going",
+   "at_phrase": "Everyone in the chapter is rising",
+   "prompt": "",
+   "description": "The village path and the still old man."
+  },
+  {
+   "from": "029",
+   "image": "ep15_the_sound_of_her_feet/02_the_old_man_inside.jpg",
+   "card": "Five men, and not one of them got his sight back",
+   "at_phrase": "So the chain stands at five",
+   "prompt": "",
+   "description": "The old man inside, facing the door."
+  },
+  {
+   "from": "030",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "1 Kings 14:17-18",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "031",
+   "image": "ep15_the_sound_of_her_feet/14_the_threshold_at_tirzah.jpg",
+   "card": "As soon as she stepped over the threshold of the house, the boy died",
+   "at_phrase": "as soon as she stepped over",
+   "prompt": "A close low painting of the worn stone threshold of an ancient royal house, a woman's feet in leather sandals and the dusty hem of a plain brown cloak just at the edge of the step about to cross, a bright courtyard behind her, no face, quiet and still.",
+   "description": "The doorway of the king's house at Tirzah: a worn stone threshold, a woman's sandalled feet and the hem of a plain cloak just at its edge, the courtyard behind, nothing else."
+  },
+  {
+   "from": "032",
+   "image": "ep15_the_sound_of_her_feet/14_the_threshold_at_tirzah.jpg",
+   "card": "The threshold of the house. Her own, in Tirzah.",
+   "prompt": "",
+   "description": "The threshold at Tirzah."
+  },
+  {
+   "from": "032",
+   "image": "ep15_the_sound_of_her_feet/01_the_house_in_shiloh.jpg",
+   "card": "An old blind man in a town the glory had left",
+   "at_phrase": "That is the last time his name appears",
+   "prompt": "",
+   "description": "The small house in Shiloh."
+  },
+  {
+   "from": "032",
+   "image": "ep15_the_sound_of_her_feet/04_the_torn_cloak.jpg",
+   "card": "Once for a kingdom, once for a child",
+   "at_phrase": "once on a road outside Jerusalem",
+   "prompt": "",
+   "description": "The torn cloak in the field."
+  },
+  {
+   "from": "033",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Brian, with the last word",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "034",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: I am not walking by what my senses can check",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "034",
+   "image": "ep15_the_sound_of_her_feet/03_the_woman_at_the_door.jpg",
+   "card": "He believed it before her feet reached the step",
+   "at_phrase": "He had been told",
+   "prompt": "",
+   "description": "The woman at the door."
+  },
+  {
+   "from": "034",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "That is all that any of us has",
+   "at_phrase": "That is all that any of us has",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "035",
+   "image": "ep15_the_sound_of_her_feet/15_between_the_pillars.jpg",
+   "card": "Next time: Samson, between the pillars",
+   "prompt": "The inside of a great ancient hall crowded with people, seen from the back of the crowd, two massive stone pillars rising in the middle to a high roof, a small boy leading a tall man by the hand toward the pillars through the crowd, both seen from behind and small, torchlight, no faces, calm not frightening.",
+   "description": "A great hall full of people, seen from the back, two huge stone pillars in the middle, a small boy leading a tall man by the hand toward them, both seen from behind, torchlight."
+  },
+  {
+   "from": "036",
+   "image": "ep15_the_sound_of_her_feet/01_the_house_in_shiloh.jpg",
+   "card": "This has been Not By Sight",
+   "prompt": "",
+   "description": "The small house in Shiloh, quiet."
+  },
+  {
+   "from": "036",
+   "image": "ep15_the_sound_of_her_feet/close_card.jpg",
+   "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
+   "at_phrase": "For we walk by faith",
+   "prompt": "Closing card over the road north from a hill village at evening: a dirt road climbing away between rounded hills toward a soft gold and rose sky, long shadows, a few olive trees, no people, keep the lower half of the picture calm for lettering.",
+   "description": "Closing card background only: the road north from Shiloh toward Tirzah in evening light, hills, a soft sky, the lower half calm for lettering."
+  }
+ ]
+}

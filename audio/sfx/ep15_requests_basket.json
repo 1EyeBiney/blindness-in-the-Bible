@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "ep15/wicker_basket_carried_creak",
+    "seconds": 15,
+    "variants": 3,
+    "influence": 0.55,
+    "loop": false,
+    "prompt": "Close-up of a woven wicker basket carried on a woman's arm as she walks, soft rhythmic creaks and faint squeaks of the dry reeds flexing with each step, the handle rubbing, very quiet, no footsteps, no voices, no music, no wind",
+    "use": "Overlay on the footsteps in Reaper; made without footsteps so the two line up however you like."
+  },
+  {
+    "slug": "ep15/wicker_basket_set_down",
+    "seconds": 5,
+    "variants": 3,
+    "influence": 0.55,
+    "loop": false,
+    "prompt": "A woven wicker basket with a cloth over it being set down gently on a flat stone, a soft creak of the reeds, a small rustle of cloth, then silence, close perspective, no voices, no music",
+    "use": "If she sets the gift down at the door."
+  }
+]

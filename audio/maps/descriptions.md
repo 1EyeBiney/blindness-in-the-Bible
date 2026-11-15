@@ -147,3 +147,7 @@ Episode 13, I know, my son. This map is wider than the series map: it reaches fr
 ## ep14.png
 
 Episode 14, The voice in the night. Shiloh is in gold, in the hill country of Ephraim, where the tabernacle had stood since Joshua set it up and where Eli judged Israel for forty years. It is the first place in this series we stand twice, because the next episode happens here too. Stand at Shiloh and face north; north is twelve o'clock. Bethel is about half a day's walk behind you at seven o'clock. The hill of Jerusalem, still a Jebusite town and not yet David's, is a day's walk at six o'clock. A line runs west from Shiloh to Aphek, a day's walk toward the coast at nine o'clock, where the Philistine army camped, with Israel's camp, Ebenezer, across from it. That is the road the runner came, from nine o'clock, to the gate where Eli sat.
+
+## ep15.png
+
+Episode 15, The sound of her feet. Shiloh is in gold again, the same town as the last episode, about a hundred and seventy years on; the house of the LORD is long gone from it and an old blind prophet lives there. Stand at Shiloh and face north; north is twelve o'clock. A line runs from Shiloh up to Tirzah, Jeroboam's city, about a day's walk at one o'clock: that is the road the queen's feet came down, and the road she went back up. Bethel, where one of the golden calves stands, is about half a day behind you at seven o'clock. Jerusalem, with Solomon's Temple in it, the house the king has talked his people out of going up to, is a day's walk at six o'clock.

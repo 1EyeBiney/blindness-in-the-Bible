@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "ep15/woman_walking_dirt_path_long",
+    "seconds": 22,
+    "variants": 3,
+    "influence": 0.5,
+    "loop": false,
+    "prompt": "Outdoors in ancient hill country, daytime: one woman walking at a steady pace in leather sandals on a dry packed dirt path, soft scuffing footsteps with small gravel and dust, even rhythm, close perspective, no voices, no music, no wind, no modern sounds",
+    "use": "The queen on the road to Shiloh under the Narrator; tile two copies end to end for a longer walk and pan as you like."
+  },
+  {
+    "slug": "ep15/woman_walking_dirt_path_short",
+    "seconds": 10,
+    "variants": 3,
+    "influence": 0.5,
+    "loop": false,
+    "prompt": "One woman walking steadily in leather sandals on a dry dirt path in open country, soft scuffing footsteps with a little gravel, close perspective, no voices, no music, no wind",
+    "use": "A shorter stretch for fills."
+  },
+  {
+    "slug": "ep15/woman_arrives_at_doorway_stops",
+    "seconds": 10,
+    "variants": 3,
+    "influence": 0.55,
+    "loop": false,
+    "prompt": "One woman walking in leather sandals on a dry dirt path, footsteps approaching the listener and slowing, the last two steps land on a flat stone threshold at the door of a small house, then she stops and stands still, a faint settling of cloth, silence after, no voices, no music, no knock",
+    "use": "Her stop at Ahijah's door."
+  }
+]
