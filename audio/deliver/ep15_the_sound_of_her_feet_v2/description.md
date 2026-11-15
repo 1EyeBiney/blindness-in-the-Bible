@@ -1,0 +1,82 @@
+# ep15_the_sound_of_her_feet_v2: shots and credits
+
+Each still, with its written description (for blind viewers and for the record):
+
+- 00:00  The street at Shiloh crying out, from the end of the Eli episode.
+- 00:13  The woman on the road to the hill town, from the end of episode 14.
+- 00:20  A small flat-roofed stone house on the edge of a hill village in the morning, a worn dirt path leading up to its open doorway, the inside dim, nobody in the picture.
+- 00:24  Inside the dim house: a very old man seated on a low bench against the far wall, facing the bright doorway, his face lost in shadow, a lamp unlit beside him.
+- 00:27  A woman in a plain country cloak and head covering seen from behind, standing still on the threshold of the house, a covered basket on her arm, the dim room ahead of her.
+- 00:38  The old man inside, facing the door.
+- 00:43  The woman at the door.
+- 01:01  Brian's picture.
+- 01:08  Brian's picture.
+- 01:18  The old man inside, facing the door.
+- 01:30  The woman at the door.
+- 01:47  Brian's picture.
+- 01:58  Brian's picture.
+- 02:21  An old man seated in a doorway with his face in shadow, the light behind him; the series picture.
+- 03:06  Title card background only: a dirt road coming down out of northern hills toward a small village on a ridge, early morning, the upper half of the sky calm for lettering.
+- 03:15  An open field outside Jerusalem: a prophet in a plain robe seen from behind, tearing a new cloak, pieces on the grass, a younger man in an officer's tunic standing before him, both far enough off that no face shows.
+- 03:43  The scroll.
+- 03:58  The torn cloak in the field.
+- 04:42  The torn cloak in the field.
+- 04:45  A crowd seen from behind walking away down a road from a walled hill city, many backs, dust, one figure on a mule at the front, the city small behind them.
+- 05:27  A shrine on a high place at Bethel: a stone platform with steps, a small golden calf on a pedestal, a few worshippers far off with their backs to us, smoke from an altar.
+- 06:23  The shrine at Bethel.
+- 06:53  A room in the king's house at Tirzah: a child lying in a low bed under a fine cover, a man standing at the foot of it with his back to us, a woman seated beside the bed with her head bowed, lamplight, no faces.
+- 07:27  The episode map: Shiloh in gold, the road up to Tirzah at one o'clock, Bethel and Jerusalem to the south.
+- 08:15  The scroll.
+- 08:19  The sick child's room.
+- 08:47  A long road winding down out of green northern hills, one small cloaked figure walking it alone with a basket, morning.
+- 08:55  The old man inside, facing the door.
+- 09:15  The woman at the door.
+- 09:30  The scroll.
+- 09:47  A village street at Shiloh, a cloaked woman with a basket walking through it seen from behind, villagers at their doors and wells paying her no attention.
+- 10:19  The old man inside, facing the door.
+- 10:47  The road down from Tirzah.
+- 10:59  Close on a covered wicker basket on a woman's arm, the edge of a plain brown cloak, bread and a small clay jar showing under the cloth, the road blurred beyond, no face.
+- 11:22  The woman in the village street.
+- 11:40  The woman at the door.
+- 11:55  The old man inside, facing the door.
+- 12:13  The woman at the door.
+- 12:20  The old man inside, facing the door.
+- 12:38  The scroll.
+- 13:18  The old man inside, facing the door.
+- 13:43  The scroll.
+- 14:10  Tall reeds at the edge of a wide river bending in the wind, grey water, nothing else.
+- 14:29  The road along the Euphrates, from episode 11.
+- 14:54  The woman at the door.
+- 15:16  The sick child's room.
+- 15:46  Brian's picture.
+- 15:49  Brian's picture.
+- 16:15  Eli on his chair by the road, from episode 14.
+- 16:38  Brian's picture.
+- 16:55  The old man inside, facing the door.
+- 17:03  Three small scenes in one picture, as if on an old wall: a bent old man reaching to touch a young man's arm; a tent in the dark with a lamp; a rich man on a dais with brothers bowing before him, all far off, no faces.
+- 17:43  The shrine at Bethel.
+- 17:52  Brian's picture.
+- 18:13  Matthew Henry's study, from episode 7: a desk, candle and open books.
+- 18:22  Matthew Henry's study.
+- 18:41  Matthew Henry's study.
+- 19:20  The old man inside, facing the door.
+- 19:39  Seen from above, a village path busy with people rising and going about their morning, and in the open doorway of one small house an old man seated perfectly still.
+- 20:14  Eli on his chair by the road.
+- 20:42  The village path and the still old man.
+- 21:02  The old man inside, facing the door.
+- 21:36  The scroll.
+- 21:40  The doorway of the king's house at Tirzah: a worn stone threshold, a woman's sandalled feet and the hem of a plain cloak just at its edge, the courtyard behind, nothing else.
+- 22:01  The threshold at Tirzah.
+- 22:33  The small house in Shiloh.
+- 22:39  The torn cloak in the field.
+- 23:06  Brian's picture.
+- 23:08  Brian's picture.
+- 23:21  The woman at the door.
+- 23:29  Brian's picture.
+- 23:41  A great hall full of people, seen from the back, two huge stone pillars in the middle, a small boy leading a tall man by the hand toward them, both seen from behind, torchlight.
+- 24:09  The small house in Shiloh, quiet.
+- 24:33  Closing card background only: the road north from Shiloh toward Tirzah in evening light, hills, a soft sky, the lower half calm for lettering.
+
+Scripture quotations are from the Holy Bible, Berean Standard Bible, BSB, public domain.
+Scenes introduced with the word 'imagine' are our own. Voices generated with ElevenLabs; mix by Brian Clark.
+Original music by Brian Clark, made with Suno. All rights held by the author.
