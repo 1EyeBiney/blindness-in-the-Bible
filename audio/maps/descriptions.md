@@ -34,6 +34,7 @@ Base map. The Great Sea lies to the west. The Jordan runs south from the Sea of 
 - Bethlehem: about 3 hours' walk, at 7 o'clock from Jerusalem. Ephrath, where Rachel died on the road and Jacob buried her; six miles south of Jerusalem.
 - Bethel: about 5 hours' walk, at 12 o'clock from Jerusalem. Luz, where God appeared to Jacob on his way out to Haran, and again on his way home.
 - Aphek: about 1 and a half days' walk, at 11 o'clock from Jerusalem. Where the Philistine army camped before the battle in which the ark was taken; Israel's camp, Ebenezer, was across from it.
+- Ashkelon: about 2 days' walk, at 9 o'clock from Jerusalem. One of the five Philistine cities, up the coast from Gaza; Samson took the clothes of thirty men here.
 - Babylon and Riblah: far to the north-east, beyond the map. Zedekiah was blinded at Riblah in Syria and taken to Babylon; both lie beyond this map.
 - Egypt: far to the south-west, beyond the map. Jacob blessed Joseph's sons in Egypt, beyond this map.
 - Nineveh and Ecbatana: far to the north-east, beyond the map. Tobit's story, if included, lies in Assyria and Media, beyond this map.
@@ -151,3 +152,7 @@ Episode 14, The voice in the night. Shiloh is in gold, in the hill country of Ep
 ## ep15.png
 
 Episode 15, The sound of her feet. Shiloh is in gold again, the same town as the last episode, about a hundred and seventy years on; the house of the LORD is long gone from it and an old blind prophet lives there. Stand at Shiloh and face north; north is twelve o'clock. A line runs from Shiloh up to Tirzah, Jeroboam's city, about a day's walk at one o'clock: that is the road the queen's feet came down, and the road she went back up. Bethel, where one of the golden calves stands, is about half a day behind you at seven o'clock. Jerusalem, with Solomon's Temple in it, the house the king has talked his people out of going up to, is a day's walk at six o'clock.
+
+## ep16.png
+
+Episode 16, Between the pillars. Gaza is in gold, the southernmost of the five Philistine cities, near the sea, where Samson was brought blind, ground grain in the prison, and died with his hands on the pillars. Stand at Gaza and face north; north is twelve o'clock. Ashkelon, another of the five, is half a day up the coast at one o'clock. A line runs inland to Zorah at two o'clock, two days' walk and uphill, the town where Samson was born and the road his brothers carried him home to his father's tomb; the Valley of Sorek, where Delilah lived, lies just below it. Jerusalem is at two o'clock too, past Zorah and farther up, three days from Gaza, a Jebusite town in Samson's day with no temple in it. Hebron is at three o'clock, two or three days east and uphill, the hill he once carried the gate of Gaza toward. The series map ends here, at its south-western corner: from Jerusalem, where it began, the six men's places run to Beersheba, Goshen, Shiloh twice, and now Gaza.

@@ -262,8 +262,10 @@ def test_spectrum_page_quotes_the_dim_eyes_verses(tmp_path):
 def test_dim_eyes_stories_say_how_much_he_could_see(tmp_path):
     import stories as st
     by = {x["slug"]: x for x in st.STORIES}
-    assert all(by[k].get("sight") for k in ("isaac", "jacob", "eli", "ahijah"))
-    assert sum(1 for x in st.STORIES if x.get("sight")) == 4
+    # all six stories of sight lost and not given back say how much he could see (zedekiah and samson added
+    # after the series ended, November 2026)
+    assert all(by[k].get("sight") for k in ("zedekiah", "isaac", "jacob", "eli", "ahijah", "samson"))
+    assert sum(1 for x in st.STORIES if x.get("sight")) == 6
     build_site.render_all(tmp_path)
     h = (tmp_path / "stories" / "jacob.html").read_text(encoding="utf-8")
     assert "How much could he see?" in h and 'href="../what-blind-means.html"' in h

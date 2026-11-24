@@ -80,6 +80,15 @@ EPISODES = [
      "Tirzah, the first time anyone in the Bible says beyond the Euphrates, Matthew Henry on the eyes of the mind "
      "least diverted, the Hebrew word for eyes that stood, and Brian on the one blind man in the series who did not "
      "have to work anything out, because he had been told."),
+    (16, "Between the pillars", "Judges 16", ["samson"],
+     "The last of six on sight lost and not given back. A hall in Gaza on a feast day, and a blind man led in by a "
+     "boy asks to be put where he can feel the pillars. Brian on the most ordinary sentence in the chapter: put my "
+     "hand on it. The whole of Samson's story told fuller than before: the angel at Zorah, the woman at Timnah who was "
+     "pleasing to his eyes, the foxes, the gate, the Valley of Sorek. Judges 16 word for word, an imagined prison and "
+     "the mill, and Brian on the three years he walked his own circle before he knew what he was for. Matthew Henry on "
+     "a man who was blind before his eyes were taken, the quarryman's word naqar, the bronze that ties the first man of "
+     "the series to the last, Hebrews 11, and at the end of the six the first verse this program ever read: not whose "
+     "fault, but whose glory."),
 ]
 
 # The trailer: a short taste of the episodes, on the home page and at the top of the Episodes page.

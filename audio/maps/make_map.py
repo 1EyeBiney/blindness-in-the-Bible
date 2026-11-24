@@ -196,8 +196,8 @@ def dot(draw, p, r, fill, outline=INK, width=4):
 OFFSETS = {"riblah": (34, -10, "lm"), "babylon": (34, 10, "lm"), "goshen": (-30, 0, "rm"),
            "wide_jericho": (14, 44, "lm"), "wide_jerusalem": (-44, 0, "rm"), "wide_riblah": (34, -16, "lm"),
            "wide_babylon": (34, 12, "lm"), "wide_goshen": (-30, 0, "rm"),
-           "zorah": (-34, -6, "rm"), "tirzah": (34, -30, "lm"), "hebron": (34, 10, "lm"), "bethsaida": (30, -34, "lm"), "capernaum": (-34, 18, "rm"), "mountain_decapolis": (30, 26, "lm"),
-           "sea_of_galilee": (0, 0, "mm"), "bethany": (26, 30, "lm"), "jerusalem": (-30, 0, "rm"),
+           "zorah": (-4, -24, "mb"), "tirzah": (34, -30, "lm"), "hebron": (34, 10, "lm"), "bethsaida": (30, -34, "lm"), "capernaum": (-34, 18, "rm"), "mountain_decapolis": (30, 26, "lm"),
+           "sea_of_galilee": (0, 0, "mm"), "bethany": (26, 30, "lm"), "jerusalem": (-30, 0, "rm"), "jerusalem_low": (-26, 30, "rm"),
            "machaerus": (30, 0, "lm"), "dothan": (-28, 0, "rm"), "samaria": (-28, 0, "rm"), "shiloh": (-28, 0, "rm"), "aphek": (-30, -14, "rm")}
 
 
@@ -234,7 +234,8 @@ def render(ep_key: str | None) -> tuple[Path, str]:
             continue
         dot(d, p, 10, (200, 186, 160), outline=FAINT, width=3)
         if k not in ("bethany", "zorah", "tirzah"):   # too close to Jerusalem and the Jordan to label faintly
-            label(d, p, f_xs, FAINT, key=k)
+            # when Zorah is on the map, drop Jerusalem's label below the line so the Zorah dot does not sit on it
+            label(d, p, f_xs, FAINT, key=("jerusalem_low" if k == "jerusalem" and ep and "zorah" in (focus | set(ep.get("route", []))) else k))
     # the journey so far: route through visited places in order, then to the focus
     if ep:
         chain = [places[k] for k in visited] + [places[ep["focus"]]]

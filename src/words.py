@@ -109,7 +109,7 @@ WORDS = {
              "The fetters are named in all three accounts, and the word, in its paired form, means two pieces of "
              "bronze: shackles. There is one other man in the Bible bound in the same word after being blinded, and "
              "he is Samson. The two men the Bible says were blinded by their enemies were both led away in bronze, a "
-             "king and a judge, four hundred years apart."]},
+             "king and a judge, some five hundred years apart."]},
     ],
     "samson": [
         {"number": "H5365", "spelling": "naqar", "say": "nah-KAR",

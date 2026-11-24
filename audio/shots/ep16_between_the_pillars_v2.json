@@ -1,0 +1,697 @@
+{
+ "_comment": "Shot list for episode 16, the last of six on sight lost and not given back. 18 new paintings plus the title and close backgrounds (prompts below, generated in this order in Gemini; Brian downloads them in order into images/ep16_between_the_pillars/). Shared stills: the scroll, Brian's picture, the series picture (site_batch2/15), the hall from the end of episode 15 and Ahijah inside his house (episode 15), the bronze shackles and Jerusalem besieged (episode 11), Isaac in the tent (episode 12), Jacob's crossed hands (episode 13), Henry's study and Josephus in Rome (episode 7), the temple court from episode 1, the episode map (maps/ep16.png). Nobody's face is shown: people are seen from behind, far off, in silhouette, or as shapes against the light. Nothing graphic: the blinding is not pictured, the fall of the hall is not pictured, Delilah's room is a sleeping man and a seated woman from behind. Title and close cards get their lettering from make_cards.py (title_card.jpg, close_card.jpg).",
+ "style": "Painterly oil-sketch look, visible brushwork, warm natural light, the land and buildings of ancient Philistia and the hill country of Israel in the time of the judges unless the prompt says otherwise. No faces shown close up: people are seen from behind or at a distance. No text or lettering anywhere. Calm and solemn, never frightening or graphic. 16:9.",
+ "shots": [
+  {
+   "from": "001",
+   "image": "ep15_the_sound_of_her_feet/15_between_the_pillars.jpg",
+   "card": "Imagine a hall in Gaza, a long time ago, on a feast day",
+   "prompt": "",
+   "description": "The great hall from the end of episode 15: a crowd seen from the back, two huge pillars, a boy leading a tall man by the hand toward them, torchlight."
+  },
+  {
+   "from": "001",
+   "image": "ep16_between_the_pillars/01_the_boy_and_the_man_at_the_pillars.jpg",
+   "card": "The man being led through the noise by a boy cannot see",
+   "at_phrase": "The man being led",
+   "prompt": "Inside a vast ancient stone hall at night lit by torches, seen from behind: a small boy holding the hand of a tall broad-shouldered man with a shaven head in a rough prison tunic, a bronze chain at his ankles, standing between two massive stone pillars that rise to a high roof, a crowd of feasting people blurred in the torchlight beyond, no faces, calm, not frightening.",
+   "description": "Closer in the same hall: a small boy and a tall shaven man in a rough tunic seen from behind, standing between two massive stone pillars, the crowd a blur of torchlight beyond them, a chain at the man's ankles."
+  },
+  {
+   "from": "002",
+   "image": "ep16_between_the_pillars/01_the_boy_and_the_man_at_the_pillars.jpg",
+   "card": "Lead me where I can feel the pillars supporting the temple",
+   "prompt": "",
+   "description": "The boy and the man at the pillars."
+  },
+  {
+   "from": "003",
+   "image": "ep16_between_the_pillars/01_the_boy_and_the_man_at_the_pillars.jpg",
+   "card": "Where I can feel the pillars",
+   "prompt": "",
+   "description": "The boy and the man at the pillars."
+  },
+  {
+   "from": "003",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Here is Brian",
+   "at_phrase": "Here is Brian",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "004",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: put my hand on it",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "004",
+   "image": "ep16_between_the_pillars/02_a_hand_on_a_pillar.jpg",
+   "card": "What his hands were feeling for was the one thing in the building that held the rest of it up",
+   "at_phrase": "What his hands were feeling for",
+   "prompt": "A close painting of one large scarred man's hand laid flat and open against the rough fluted stone of a massive ancient pillar, warm torchlight across the stone, dust in the air, nothing else in the frame, quiet.",
+   "description": "Close on a big scarred hand laid flat against the fluted stone of a pillar, torchlight on the stone, nothing else."
+  },
+  {
+   "from": "004",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "The room was watching him. He was reading it.",
+   "at_phrase": "The room was watching him",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "005",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "This is Not By Sight",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "006",
+   "image": "site_batch2/15_eyes_dim_with_grief.jpg",
+   "card": "Sight lost and not given back",
+   "prompt": "",
+   "description": "An old man seated in a doorway with his face in shadow, the light behind him; the series picture."
+  },
+  {
+   "from": "006",
+   "image": "ep16_between_the_pillars/title_card.jpg",
+   "card": "Not By Sight\nEpisode 16: Between the pillars",
+   "at_phrase": "Everything else is from the text",
+   "prompt": "Title card over the coast of ancient Philistia at morning: pale sand dunes, a walled city with flat roofs on a low rise, a few palms, the sea bright beyond it, soft early light, a wide pale sky, no people, keep the upper half of the picture calm for lettering.",
+   "description": "Title card background only: the coast at Gaza at morning, pale dunes, a walled city on a low rise, the sea beyond, the upper half of the sky calm for lettering."
+  },
+  {
+   "from": "007",
+   "image": "ep11_the_last_thing_he_saw/10_bronze_shackles.jpg",
+   "card": "Where we are: we began with the last king, bound in bronze",
+   "prompt": "",
+   "description": "The bronze shackles from episode 11."
+  },
+  {
+   "from": "007",
+   "image": "ep16_between_the_pillars/03_zorah_in_the_hills.jpg",
+   "card": "The tribe of Dan lived in the low hills above the Philistine plain",
+   "at_phrase": "Five Philistine cities held the coast",
+   "prompt": "A small ancient village of flat-roofed stone houses on a rounded hill in low rolling country, terraced slopes with olive trees and vines, a wide flat plain stretching away below to a thin line of sea at the horizon, morning light, no people, calm.",
+   "description": "A small village on a rounded hill in the low country, terraces and olive trees, the flat plain and the far sea beyond it, morning."
+  },
+  {
+   "from": "007",
+   "image": "ep16_between_the_pillars/04_the_woman_in_the_field.jpg",
+   "card": "The angel of the LORD came to her, not to him",
+   "at_phrase": "In one of those hills, at Zorah",
+   "prompt": "A woman in a plain homespun robe and head covering standing very still alone in a field of harvest stubble outside a small hill village, seen from behind, and far across the field a tall figure made almost entirely of soft bright light, hazy, the hills beyond, no faces, calm and reverent.",
+   "description": "A woman in a plain robe standing alone in a field of stubble near the village, seen from behind, a tall bright figure far off across the field, hazy with light."
+  },
+  {
+   "from": "007",
+   "image": "ep16_between_the_pillars/03_zorah_in_the_hills.jpg",
+   "card": "The next verse he is a grown man walking down to a Philistine town",
+   "at_phrase": "That is the whole of his childhood",
+   "prompt": "",
+   "description": "The village in the hills."
+  },
+  {
+   "from": "008",
+   "image": "ep16_between_the_pillars/05_down_to_timnah.jpg",
+   "card": "He went down to Timnah and saw a Philistine woman",
+   "prompt": "A young strong man with long dark braided hair seen from behind walking down a dirt path through terraced vineyards toward a walled town on the flat plain below, afternoon light, dry hills, no faces, calm.",
+   "description": "A young man with long braided hair seen from behind walking down a path through vineyards toward a Philistine town on the plain, afternoon."
+  },
+  {
+   "from": "008",
+   "image": "ep16_between_the_pillars/06_the_fields_burning.jpg",
+   "card": "Three hundred foxes and torches tied between their tails",
+   "at_phrase": "Samson burned the Philistines' standing grain",
+   "prompt": "A wide painting of ancient wheat fields on a flat plain at dusk with several thin lines of fire running through the standing grain and smoke rising, olive groves and vineyards at the edges, a few tiny figures far off, the sky orange and grey, seen from a distance, not frightening.",
+   "description": "Wide fields of standing grain on the plain at dusk with lines of fire running through them, small figures far off, the sky orange and grey."
+  },
+  {
+   "from": "008",
+   "image": "ep16_between_the_pillars/05_down_to_timnah.jpg",
+   "card": "Then he judged Israel twenty years in the days of the Philistines",
+   "at_phrase": "Then he judged Israel twenty years",
+   "prompt": "",
+   "description": "The young man on the path to Timnah."
+  },
+  {
+   "from": "009",
+   "image": "ep16_between_the_pillars/07_the_gate_carried_uphill.jpg",
+   "card": "He pulled the gate out of the wall and carried it toward Hebron",
+   "prompt": "A moonlit night landscape: a long dirt road climbing a bare hill, and far off on it a single powerful figure seen from behind carrying an enormous wooden city gate with its two posts across his shoulders, the city small and dark on the plain behind, stars, no face, quiet.",
+   "description": "Night: a lone figure seen from far behind carrying a huge city gate, doors and posts, up a long hill road under the moon."
+  },
+  {
+   "from": "009",
+   "image": "ep16_between_the_pillars/08_the_valley_of_sorek.jpg",
+   "card": "Then came Delilah, in the Valley of Sorek",
+   "at_phrase": "Then came Delilah",
+   "prompt": "A green valley running down between low rounded hills toward a distant plain, vineyards and fig trees on its floor, a small stream, one flat-roofed stone house with a walled courtyard and a lamp lit in its doorway among the vines, warm evening light, no people.",
+   "description": "A green valley running down between low hills, vineyards on its floor, a stream, a house with a courtyard among the vines, evening."
+  },
+  {
+   "from": "009",
+   "image": "ep16_between_the_pillars/09_asleep_on_her_knees.jpg",
+   "card": "And he fell asleep on her knees",
+   "at_phrase": "Three times she asked",
+   "prompt": "A dim lamp-lit room in an ancient house, a powerful man with long dark braided hair asleep on a couch with his head resting on the lap of a seated woman in a rich robe, both seen from behind and mostly in shadow, an open doorway beyond with the dark shape of a man waiting just outside, calm and still, no faces.",
+   "description": "A lamp-lit room: a man with long braided hair asleep, his head on the lap of a seated woman, both seen from behind and in shadow, a doorway beyond with a figure waiting in it."
+  },
+  {
+   "from": "009",
+   "image": "maps/ep16.png",
+   "card": "Where this is",
+   "at_phrase": "Where this is.",
+   "prompt": "",
+   "description": "The episode map: Gaza in gold on the coast, the road up to Zorah at two o'clock, Ashkelon, Jerusalem and Hebron."
+  },
+  {
+   "from": "009",
+   "image": "ep16_between_the_pillars/09_asleep_on_her_knees.jpg",
+   "card": "He is back in Gaza now, and he will not leave it alive",
+   "at_phrase": "He is back in Gaza now",
+   "prompt": "",
+   "description": "The room, asleep on her knees."
+  },
+  {
+   "from": "010",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Judges 16:15-22",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "011",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Judges 16:15-22",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "011",
+   "image": "ep16_between_the_pillars/09_asleep_on_her_knees.jpg",
+   "card": "And having lulled him to sleep on her lap",
+   "at_phrase": "And having lulled him to sleep",
+   "prompt": "",
+   "description": "The room, asleep on her knees."
+  },
+  {
+   "from": "011",
+   "image": "ep16_between_the_pillars/10_the_prison_mill.jpg",
+   "card": "He was bound with bronze shackles and forced to grind grain",
+   "at_phrase": "Then the Philistines seized him",
+   "prompt": "The dim inside of an ancient stone prison, a big broad-shouldered man with a shaven head in a rough tunic seen from behind pushing the long wooden beam of a heavy round stone mill in a circle, a bronze chain running from his ankles, grain dust in a single shaft of light from one small high window, no face, calm.",
+   "description": "A dim stone prison room: a big man with a shaven head seen from behind, pushing the beam of a heavy round millstone in a circle, a chain from his ankles, one high small window."
+  },
+  {
+   "from": "012",
+   "image": "ep16_between_the_pillars/09_asleep_on_her_knees.jpg",
+   "card": "He did not know that the LORD had departed from him",
+   "prompt": "",
+   "description": "The room, asleep on her knees."
+  },
+  {
+   "from": "012",
+   "image": "ep11_the_last_thing_he_saw/10_bronze_shackles.jpg",
+   "card": "Bound in bronze, the same word as the king's shackles",
+   "at_phrase": "He was bound in bronze",
+   "prompt": "",
+   "description": "The bronze shackles from episode 11."
+  },
+  {
+   "from": "012",
+   "image": "ep16_between_the_pillars/10_the_prison_mill.jpg",
+   "card": "A mill, which is a blind man walking in a circle",
+   "at_phrase": "And he was put to grinding grain",
+   "prompt": "",
+   "description": "The prison mill."
+  },
+  {
+   "from": "013",
+   "image": "ep16_between_the_pillars/10_the_prison_mill.jpg",
+   "card": "Now imagine the prison",
+   "prompt": "",
+   "description": "The prison mill."
+  },
+  {
+   "from": "014",
+   "image": "ep16_between_the_pillars/11_the_worn_circle.jpg",
+   "card": "So many steps round. The place where the floor dips.",
+   "prompt": "Looking down at the packed dirt floor of an ancient stone prison, a deep circular path worn into it by years of bare feet around the base of a heavy round millstone, a length of bronze chain lying in the groove, scattered grain husks, dim light from above, no people.",
+   "description": "Looking down at the dirt floor of the prison: a circle worn deep by bare feet around the millstone, the chain lying in the groove, grain husks."
+  },
+  {
+   "from": "014",
+   "image": "ep16_between_the_pillars/12_the_window_above_the_mill.jpg",
+   "card": "Above him, through the stone, he can hear Gaza",
+   "at_phrase": "Above him, through the stone",
+   "prompt": "From inside a dark ancient stone prison looking up at one small high window cut through a very thick wall, bright daylight and dust pouring through it, the blurred suggestion of flat rooftops and a pale sky beyond, no people, quiet.",
+   "description": "A small high barred window in a thick stone wall from inside, bright daylight and dust through it, the suggestion of rooftops and sky beyond, nothing else."
+  },
+  {
+   "from": "014",
+   "image": "ep16_between_the_pillars/13_hair_on_his_shoulders.jpg",
+   "card": "His hair was on his shoulders again",
+   "at_phrase": "And somewhere in those days",
+   "prompt": "A close painting from directly behind of a big man's head and shoulders in a dim stone room, his dark hair grown long enough to lie on his broad shoulders over a rough tunic, his hands gripping a worn wooden mill beam ahead of him, soft light from above, no face.",
+   "description": "Close from behind: a big man's head and shoulders in the dim prison, dark hair grown long enough to lie on his shoulders, his hands on the mill beam ahead of him."
+  },
+  {
+   "from": "015",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Judges 16:23-31",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "016",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Judges 16:23-31",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "016",
+   "image": "ep16_between_the_pillars/14_the_crowd_on_the_roof.jpg",
+   "card": "About three thousand men and women were on the roof watching",
+   "at_phrase": "Now the temple was full",
+   "prompt": "The flat roof of a vast ancient temple at night crowded with people in festive robes seen from behind and above, all leaning to look down through a wide opening into the torch-lit hall far below where two great pillars stand, lamps and smoke, no faces, not frightening.",
+   "description": "The great hall from above: a flat roof crowded with people looking down through an opening into the lit hall below, the two pillars visible far down, night."
+  },
+  {
+   "from": "016",
+   "image": "ep16_between_the_pillars/15_hands_on_the_pillars.jpg",
+   "card": "Samson reached out for the two central pillars",
+   "at_phrase": "And Samson reached out",
+   "prompt": "Seen from behind and slightly below, a tall broad-shouldered man with long hair standing between two massive stone pillars in a torch-lit ancient hall, one hand laid flat on each pillar, his head bowed, the crowd a soft blur of light beyond, calm and solemn, no face.",
+   "description": "Seen from behind and below: the man between the two pillars with one hand flat on each, his head bowed, the hall around him."
+  },
+  {
+   "from": "016",
+   "image": "ep16_between_the_pillars/16_carried_home_to_zorah.jpg",
+   "card": "They carried him up and buried him between Zorah and Eshtaol",
+   "at_phrase": "Then Samson’s brothers",
+   "prompt": "A line of men in plain robes seen from far behind carrying a shrouded bier on their shoulders up a long dirt road into rounded hills at evening, a small stone village ahead on the ridge, the wide plain and a thin line of sea behind and below them, long shadows, no faces, quiet and dignified.",
+   "description": "A line of men seen from behind carrying a shrouded bier up a hill road at evening toward a small village, the plain behind them."
+  },
+  {
+   "from": "017",
+   "image": "ep16_between_the_pillars/01_the_boy_and_the_man_at_the_pillars.jpg",
+   "card": "Count what the room saw, and what the blind man did",
+   "prompt": "",
+   "description": "The boy and the man at the pillars."
+  },
+  {
+   "from": "017",
+   "image": "ep16_between_the_pillars/15_hands_on_the_pillars.jpg",
+   "card": "Remember me. Strengthen me. Once more.",
+   "at_phrase": "He put one hand on each pillar",
+   "prompt": "",
+   "description": "Hands on the pillars."
+  },
+  {
+   "from": "017",
+   "image": "ep16_between_the_pillars/16_carried_home_to_zorah.jpg",
+   "card": "His brothers carried him home to his father's tomb",
+   "at_phrase": "And his brothers came down",
+   "prompt": "",
+   "description": "Carried home to Zorah."
+  },
+  {
+   "from": "018",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Brian, what do you hear in this one?",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "019",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: in the prime of his life",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "019",
+   "image": "ep16_between_the_pillars/09_asleep_on_her_knees.jpg",
+   "card": "The last thing he saw was Delilah's room",
+   "at_phrase": "What I think about first is the adjustment",
+   "prompt": "",
+   "description": "The room, asleep on her knees."
+  },
+  {
+   "from": "019",
+   "image": "ep16_between_the_pillars/17_the_quarry.jpg",
+   "card": "The verb is naqar: to bore, to penetrate, to quarry",
+   "at_phrase": "The Hebrew word matters to me",
+   "prompt": "An ancient limestone quarry cut into a pale hillside, square blocks half cut free from the living rock, deep chisel marks and stone chips, a few finished blocks waiting below, hard afternoon light, no people.",
+   "description": "An ancient stone quarry cut into a hillside, square blocks half cut from the rock, chisel marks, no people."
+  },
+  {
+   "from": "019",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "One of my better decisions in life",
+   "at_phrase": "But I want to say plainly",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "019",
+   "image": "ep16_between_the_pillars/11_the_worn_circle.jpg",
+   "card": "I know how long mine was. Three years.",
+   "at_phrase": "Then there is purpose",
+   "prompt": "",
+   "description": "The worn circle on the prison floor."
+  },
+  {
+   "from": "019",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "While I waited I did not sit still",
+   "at_phrase": "While I waited I did not sit still",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "019",
+   "image": "ep16_between_the_pillars/13_hair_on_his_shoulders.jpg",
+   "card": "Something was growing in me in those three years too",
+   "at_phrase": "Samson's hair grew while he walked",
+   "prompt": "",
+   "description": "Hair on his shoulders."
+  },
+  {
+   "from": "020",
+   "image": "ep16_between_the_pillars/15_hands_on_the_pillars.jpg",
+   "card": "And then the hall",
+   "prompt": "",
+   "description": "Hands on the pillars."
+  },
+  {
+   "from": "021",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "Now the old books: Matthew Henry",
+   "prompt": "",
+   "description": "Matthew Henry's study, from episode 7: a desk, candle and open books."
+  },
+  {
+   "from": "021",
+   "image": "ep16_between_the_pillars/09_asleep_on_her_knees.jpg",
+   "card": "If he had not been blind before the Philistines put out his eyes",
+   "at_phrase": "Henry puts it in one sentence",
+   "prompt": "",
+   "description": "The room, asleep on her knees."
+  },
+  {
+   "from": "021",
+   "image": "ep16_between_the_pillars/13_hair_on_his_shoulders.jpg",
+   "card": "The Philistines did not cut it again",
+   "at_phrase": "On the prison, Henry notices the hair",
+   "prompt": "",
+   "description": "Hair on his shoulders."
+  },
+  {
+   "from": "021",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "A mental prayer, not heard of men, yet heard of God",
+   "at_phrase": "On the prayer",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "022",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "Samson prayed for vengeance, Christ for forgiveness",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "023",
+   "image": "ep07_the_stumbling_block/10_henry_study.jpg",
+   "card": "The badge of his consecration",
+   "prompt": "",
+   "description": "Matthew Henry's study."
+  },
+  {
+   "from": "023",
+   "image": "ep07_the_stumbling_block/11_josephus_in_rome.jpg",
+   "card": "Josephus: one of extraordinary virtue",
+   "at_phrase": "Josephus, writing for Romans",
+   "prompt": "",
+   "description": "Josephus writing in Rome, from episode 7."
+  },
+  {
+   "from": "023",
+   "image": "ep16_between_the_pillars/16_carried_home_to_zorah.jpg",
+   "card": "The text calls him neither, and only says that he judged Israel twenty years",
+   "at_phrase": "Both of them are reading the same man",
+   "prompt": "",
+   "description": "Carried home to Zorah."
+  },
+  {
+   "from": "024",
+   "image": "ep16_between_the_pillars/17_the_quarry.jpg",
+   "card": "The word: nah-KAR, to dig out",
+   "prompt": "",
+   "description": "The quarry."
+  },
+  {
+   "from": "024",
+   "image": "ep11_the_last_thing_he_saw/10_bronze_shackles.jpg",
+   "card": "Bronze. Nechosheth. The word that closes the loop.",
+   "at_phrase": "And beside it, in the same verse",
+   "prompt": "",
+   "description": "The bronze shackles from episode 11."
+  },
+  {
+   "from": "024",
+   "image": "ep11_the_last_thing_he_saw/06_jerusalem_besieged_night.jpg",
+   "card": "A king who had everything and would not listen",
+   "at_phrase": "A king who had everything",
+   "prompt": "",
+   "description": "Jerusalem besieged at night, from episode 11."
+  },
+  {
+   "from": "024",
+   "image": "ep16_between_the_pillars/15_hands_on_the_pillars.jpg",
+   "card": "Samson was given his strength once more",
+   "at_phrase": "Samson was given his strength",
+   "prompt": "",
+   "description": "Hands on the pillars."
+  },
+  {
+   "from": "024",
+   "image": "ep16_between_the_pillars/18_six_words.jpg",
+   "card": "Six men, six words, and the chain is complete",
+   "at_phrase": "Six men, six words",
+   "prompt": "A plain ancient stone wall with six small carved niches in a row at eye level, each holding one small unlit clay oil lamp, warm evening light raking across the stone, nothing else, no lettering, quiet.",
+   "description": "A plain stone wall with six small carved niches in a row, each holding one unlit clay lamp, evening light raking across it."
+  },
+  {
+   "from": "025",
+   "image": "ep16_between_the_pillars/16_carried_home_to_zorah.jpg",
+   "card": "What came after",
+   "prompt": "",
+   "description": "Carried home to Zorah."
+  },
+  {
+   "from": "025",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Hebrews 11:32 and 34",
+   "at_phrase": "Hebrews chapter 11",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "026",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "Hebrews 11:32 and 34",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "027",
+   "image": "ep16_between_the_pillars/15_hands_on_the_pillars.jpg",
+   "card": "Who gained strength from weakness",
+   "prompt": "",
+   "description": "Hands on the pillars."
+  },
+  {
+   "from": "027",
+   "image": "ep12_the_voice_and_the_hands/01_inside_the_tent.jpg",
+   "card": "The same chapter that gave Isaac his one verse",
+   "at_phrase": "The same chapter that gave Isaac",
+   "prompt": "",
+   "description": "Isaac in the tent, from episode 12."
+  },
+  {
+   "from": "027",
+   "image": "ep13_i_know_my_son/11_the_crossed_hands.jpg",
+   "card": "And Jacob his",
+   "at_phrase": "gives Samson his name",
+   "prompt": "",
+   "description": "Jacob's crossed hands, from episode 13."
+  },
+  {
+   "from": "027",
+   "image": "ep16_between_the_pillars/18_six_words.jpg",
+   "card": "Three of the six men in this series are in that chapter",
+   "at_phrase": "Three of the six men",
+   "prompt": "",
+   "description": "The six lamps."
+  },
+  {
+   "from": "028",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Brian, with the last word",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "029",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: remember me, strengthen me, just once more",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "030",
+   "image": "ep16_between_the_pillars/18_six_words.jpg",
+   "card": "That is the end of the six",
+   "prompt": "",
+   "description": "The six lamps."
+  },
+  {
+   "from": "030",
+   "image": "maps/ep16.png",
+   "card": "From Jerusalem to Beersheba to Goshen to Shiloh, twice, to Gaza",
+   "at_phrase": "We stood where each of them",
+   "prompt": "",
+   "description": "The episode map."
+  },
+  {
+   "from": "030",
+   "image": "ep16_between_the_pillars/18_six_words.jpg",
+   "card": "For we walk by faith and not by sight",
+   "at_phrase": "Not one of them is described afterward",
+   "prompt": "",
+   "description": "The six lamps."
+  },
+  {
+   "from": "031",
+   "image": "ep01_man_born_blind/03_temple_court.png",
+   "card": "The first verse this program ever read",
+   "prompt": "",
+   "description": "The temple court from episode 1, the man born blind."
+  },
+  {
+   "from": "032",
+   "image": "ep01_man_born_blind/04_scripture.png",
+   "card": "John 9:3",
+   "prompt": "",
+   "description": "The scroll."
+  },
+  {
+   "from": "033",
+   "image": "ep01_man_born_blind/03_temple_court.png",
+   "card": "Not whose fault. Whose glory.",
+   "prompt": "",
+   "description": "The temple court from episode 1."
+  },
+  {
+   "from": "034",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: not whose fault, but what He showed",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "034",
+   "image": "ep12_the_voice_and_the_hands/01_inside_the_tent.jpg",
+   "card": "Isaac took the people in the room and was fooled",
+   "at_phrase": "Isaac took the people in the room",
+   "prompt": "",
+   "description": "Isaac in the tent."
+  },
+  {
+   "from": "034",
+   "image": "ep15_the_sound_of_her_feet/02_the_old_man_inside.jpg",
+   "card": "Ahijah's eyes were beaten by a disguise, and it did not matter",
+   "at_phrase": "Ahijah's eyes were beaten",
+   "prompt": "",
+   "description": "Ahijah inside his house, from episode 15."
+  },
+  {
+   "from": "034",
+   "image": "ep16_between_the_pillars/15_hands_on_the_pillars.jpg",
+   "card": "Samson, blind in a hall full of his enemies, prayed, and was heard",
+   "at_phrase": "Samson, blind in a hall",
+   "prompt": "",
+   "description": "Hands on the pillars."
+  },
+  {
+   "from": "034",
+   "image": "ep11_the_last_thing_he_saw/10_bronze_shackles.jpg",
+   "card": "Zedekiah's blindness was the only way two prophecies could both come true",
+   "at_phrase": "Zedekiah's blindness",
+   "prompt": "",
+   "description": "The bronze shackles."
+  },
+  {
+   "from": "034",
+   "image": "ep01_man_born_blind/03_temple_court.png",
+   "card": "So that the works of God would be displayed in him",
+   "at_phrase": "The thing I keep coming back to",
+   "prompt": "",
+   "description": "The temple court from episode 1."
+  },
+  {
+   "from": "034",
+   "image": "ep16_between_the_pillars/18_six_words.jpg",
+   "card": "He showed something in each of them that sight would have hidden",
+   "at_phrase": "Not that God needed anyone blind",
+   "prompt": "",
+   "description": "The six lamps."
+  },
+  {
+   "from": "034",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "In trust, in reliance, in asking for strength once more",
+   "at_phrase": "I would be lying",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "035",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "Next time",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "036",
+   "image": "ep01_man_born_blind/05_brian.png",
+   "card": "From Brian: God has led us this far",
+   "prompt": "",
+   "description": "Brian's picture."
+  },
+  {
+   "from": "037",
+   "image": "ep16_between_the_pillars/16_carried_home_to_zorah.jpg",
+   "card": "This has been Not By Sight",
+   "prompt": "",
+   "description": "Carried home to Zorah."
+  },
+  {
+   "from": "037",
+   "image": "ep16_between_the_pillars/close_card.jpg",
+   "card": "For we walk by faith, not by sight.\n2 Corinthians 5:7\n\nblindnessinthebible.com",
+   "at_phrase": "For we walk by faith",
+   "prompt": "Closing card over the road from the coastal plain up into rounded hills at evening: a dirt road climbing away from the viewer between dry fields and olive trees toward a soft gold and violet sky, long shadows, no people, keep the lower half of the picture calm for lettering.",
+   "description": "Closing card background only: the road up from the coast into the hills at evening, a soft sky, the lower half calm for lettering."
+  }
+ ]
+}

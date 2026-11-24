@@ -225,6 +225,100 @@ for _slug, _alt, _cap in [
     STORY_PICTURES[_slug].append({"slot": "map", "source": f"maps/{_slug}.png", "name": f"map-{_slug}", "alt": _alt, "caption": _cap})
 
 
+# Pictures from the six episodes of sight lost and not given back, added after the series ended (November 2026):
+# the same four slots as the first seven story pages, placed between the site banner and the map.
+SIGHT_LOST_PICTURES = {
+    "zedekiah": [
+        {"slot": "around", "source": "ep11_the_last_thing_he_saw/06_jerusalem_besieged_night.jpg", "name": "zedekiah-jerusalem-besieged",
+         "alt": "Jerusalem on its hill at night, the walls dark, and the campfires of a besieging army scattered across the slopes below.",
+         "caption": "The siege by night: a year and a half of it, and the people starving." + IMAGINED},
+        {"slot": "happens", "source": "ep11_the_last_thing_he_saw/07_gate_between_walls.jpg", "name": "zedekiah-gate-between-walls",
+         "alt": "A narrow stone gate standing open at night between two high walls, a few steps and an olive tree beside it, nobody there.",
+         "caption": "The gate between the two walls, by the king's garden, the way out of the city at night." + IMAGINED},
+        {"slot": "shoes", "source": "ep11_the_last_thing_he_saw/10_bronze_shackles.jpg", "name": "zedekiah-bronze-shackles",
+         "alt": "A pair of heavy bronze shackles joined by a short chain, lying on a flagstone.",
+         "caption": "Bronze shackles. The word is the same one Judges uses for Samson." + IMAGINED},
+        {"slot": "place", "source": "ep11_the_last_thing_he_saw/09_riblah_courtyard.jpg", "name": "zedekiah-riblah-courtyard",
+         "alt": "An empty sunlit courtyard of mud-brick walls with a canopied seat at the far end, as for a judgement.",
+         "caption": "Riblah, in the land of Hamath, where the king of Babylon passed sentence." + IMAGINED},
+    ],
+    "isaac": [
+        {"slot": "around", "source": "ep12_the_voice_and_the_hands/04_esau_hunting.jpg", "name": "isaac-esau-hunting",
+         "alt": "A hunter with a bow on his back walks away across dry open country toward distant hills, a hare bolting from the grass.",
+         "caption": "Esau sent out to the field for game, and the time that gave." + IMAGINED},
+        {"slot": "happens", "source": "ep12_the_voice_and_the_hands/01_inside_the_tent.jpg", "name": "isaac-inside-the-tent",
+         "alt": "Inside a dim goat-hair tent an old man with a white beard sits propped among cushions beside a small fire, facing the open flap.",
+         "caption": "Isaac in his tent, old, his eyes too dim to see, waiting for the voice at the door." + IMAGINED},
+        {"slot": "shoes", "source": "ep12_the_voice_and_the_hands/11_the_lamp_grows_dim.jpg", "name": "isaac-the-lamp-grows-dim",
+         "alt": "A small clay lamp burning low on a wooden table inside an empty tent, the light outside the flap brighter than the flame.",
+         "caption": "A lamp growing dim: the picture under the Hebrew word for Isaac's eyes." + IMAGINED},
+        {"slot": "place", "source": "ep12_the_voice_and_the_hands/14_the_cave_at_hebron.jpg", "name": "isaac-the-cave-at-hebron",
+         "alt": "Two men in plain robes stand with their backs to us before the low mouth of a cave in a rocky hillside under old trees.",
+         "caption": "The cave at Hebron, where Esau and Jacob together buried their father." + IMAGINED},
+    ],
+    "jacob": [
+        {"slot": "around", "source": "ep13_i_know_my_son/02_wagons_on_the_road.jpg", "name": "jacob-wagons-on-the-road",
+         "alt": "Ox-drawn wagons come down a dusty hill road toward a group of men seen from behind, some with their arms raised.",
+         "caption": "The wagons Joseph sent. When Jacob saw them, his spirit revived." + IMAGINED},
+        {"slot": "happens", "source": "ep13_i_know_my_son/11_the_crossed_hands.jpg", "name": "jacob-the-crossed-hands",
+         "alt": "An old man sitting up in bed with his arms crossed, a hand on the head of each of two young men who kneel with their backs to us.",
+         "caption": "The crossed hands: the right on the younger, the left on the older." + IMAGINED},
+        {"slot": "shoes", "source": "ep13_i_know_my_son/12_the_hand_on_the_wrist.jpg", "name": "jacob-the-hand-on-the-wrist",
+         "alt": "Close on a younger man's hand with a signet ring closing over an old man's wrist as it rests on a dark-haired head.",
+         "caption": "Joseph's hand on his father's wrist, to move it. It did not move." + IMAGINED},
+        {"slot": "place", "source": "ep13_i_know_my_son/03_goshen_at_dusk.jpg", "name": "jacob-goshen-at-dusk",
+         "alt": "A flat-roofed house among palms beside still water at dusk, a lamp lit in its doorway.",
+         "caption": "Goshen, in the east of Egypt, where Jacob lived his last seventeen years." + IMAGINED},
+    ],
+    "eli": [
+        {"slot": "around", "source": "ep14_the_voice_in_the_night/06_the_sons_at_the_altar.jpg", "name": "eli-the-sons-at-the-altar",
+         "alt": "Two priests in white at a smoking altar in a stone courtyard, one with a fork over a pot, worshippers standing by with their backs to us.",
+         "caption": "Eli's sons at the altar, taking the meat before the fat was burned." + IMAGINED},
+        {"slot": "happens", "source": "ep14_the_voice_in_the_night/02_the_boy_runs_to_the_bedside.jpg", "name": "eli-the-boy-runs",
+         "alt": "A barefoot boy in a short tunic runs down a dark stone passage toward a lamp-lit doorway.",
+         "caption": "Here I am, for you called me. Three times in the night." + IMAGINED},
+        {"slot": "shoes", "source": "ep14_the_voice_in_the_night/11_eli_at_the_gate.jpg", "name": "eli-at-the-gate",
+         "alt": "An old man in a pale robe sits on a chair beside a dirt road at the edge of a stone town, facing the way the road comes.",
+         "caption": "Eli on his seat by the road, watching, because his heart trembled for the ark." + IMAGINED},
+        {"slot": "place", "source": "ep14_the_voice_in_the_night/09_the_doors_at_morning.jpg", "name": "eli-the-doors-at-morning",
+         "alt": "A boy pushes open one leaf of a tall wooden door, morning light pouring through onto a stone floor.",
+         "caption": "The doors of the house of the LORD at Shiloh, opened in the morning by the boy." + IMAGINED},
+    ],
+    "ahijah": [
+        {"slot": "around", "source": "ep15_the_sound_of_her_feet/04_the_torn_cloak.jpg", "name": "ahijah-the-torn-cloak",
+         "alt": "In an open field outside a walled hill city a prophet seen from behind tears a bright cloak, pieces on the grass, a younger man facing him.",
+         "caption": "The new cloak torn into twelve pieces on the road out of Jerusalem, years before." + IMAGINED},
+        {"slot": "happens", "source": "ep15_the_sound_of_her_feet/03_the_woman_at_the_door.jpg", "name": "ahijah-the-woman-at-the-door",
+         "alt": "A woman in a plain brown cloak seen from behind, standing still on the stone threshold of a small house, a covered basket on her arm.",
+         "caption": "The queen at the door, in disguise, before she has said a word." + IMAGINED},
+        {"slot": "shoes", "source": "ep15_the_sound_of_her_feet/02_the_old_man_inside.jpg", "name": "ahijah-the-old-man-inside",
+         "alt": "Inside a dim stone house a very old man sits on a bench facing the bright doorway, his face lost in shadow.",
+         "caption": "Ahijah inside, facing the door, told already who was coming." + IMAGINED},
+        {"slot": "place", "source": "ep15_the_sound_of_her_feet/01_the_house_in_shiloh.jpg", "name": "ahijah-the-house-in-shiloh",
+         "alt": "A small flat-roofed stone house at the edge of a hill village in morning light, a worn path leading to its open doorway.",
+         "caption": "A house in Shiloh, long after the ark had left the town." + IMAGINED},
+    ],
+    "samson": [
+        {"slot": "around", "source": "ep16_between_the_pillars/08_the_valley_of_sorek.jpg", "name": "samson-the-valley-of-sorek",
+         "alt": "A green valley between low hills with vineyards on its floor and one stone house with a lamp lit in its doorway, evening.",
+         "caption": "The Valley of Sorek, where Delilah lived, below Samson's own hills." + IMAGINED},
+        {"slot": "happens", "source": "ep16_between_the_pillars/15_hands_on_the_pillars.jpg", "name": "samson-hands-on-the-pillars",
+         "alt": "Seen from behind, a tall long-haired man stands between two massive stone pillars in a torch-lit hall, one hand flat on each, his head bowed.",
+         "caption": "One hand on each pillar, and a prayer nobody in the hall heard." + IMAGINED},
+        {"slot": "shoes", "source": "ep16_between_the_pillars/10_the_prison_mill.jpg", "name": "samson-the-prison-mill",
+         "alt": "In a dim stone prison a big shaven-headed man seen from behind pushes the beam of a round millstone, a chain at his ankles, one shaft of light from a high window.",
+         "caption": "The mill at Gaza: a blind man walking in a circle, for as long as the text does not say." + IMAGINED},
+        {"slot": "place", "source": "ep16_between_the_pillars/title_bg.jpg", "name": "samson-gaza-coast",
+         "alt": "A walled city of flat roofs on a low rise among pale sand dunes, a few palms, the sea bright beyond.",
+         "caption": "Gaza, the southernmost of the five Philistine cities, near the sea." + IMAGINED},
+    ],
+}
+for _slug, _pics in SIGHT_LOST_PICTURES.items():
+    _banner = [p for p in STORY_PICTURES[_slug] if p["slot"] == "banner"]
+    _map = [p for p in STORY_PICTURES[_slug] if p["slot"] == "map"]
+    STORY_PICTURES[_slug] = _banner + _pics + _map
+
+
 # Pictures through the Law pages, from the Law episodes (Brian, 20 October 2026: the same pattern as the story pages).
 # Page name -> pictures after the banner. Slots: around (What leads up to it), says (What it says), word (The word),
 # place (The place and the time), map. The banner itself comes from the site batch.

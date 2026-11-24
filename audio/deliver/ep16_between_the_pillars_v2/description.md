@@ -1,0 +1,99 @@
+# ep16_between_the_pillars_v2: shots and credits
+
+Each still, with its written description (for blind viewers and for the record):
+
+- 00:00  The great hall from the end of episode 15: a crowd seen from the back, two huge pillars, a boy leading a tall man by the hand toward them, torchlight.
+- 00:21  Closer in the same hall: a small boy and a tall shaven man in a rough tunic seen from behind, standing between two massive stone pillars, the crowd a blur of torchlight beyond them, a chain at the man's ankles.
+- 00:32  The boy and the man at the pillars.
+- 00:38  The boy and the man at the pillars.
+- 00:48  Brian's picture.
+- 00:56  Brian's picture.
+- 01:23  Close on a big scarred hand laid flat against the fluted stone of a pillar, torchlight on the stone, nothing else.
+- 01:28  Brian's picture.
+- 01:33  Brian's picture.
+- 01:56  An old man seated in a doorway with his face in shadow, the light behind him; the series picture.
+- 02:41  Title card background only: the coast at Gaza at morning, pale dunes, a walled city on a low rise, the sea beyond, the upper half of the sky calm for lettering.
+- 02:51  The bronze shackles from episode 11.
+- 03:32  A small village on a rounded hill in the low country, terraces and olive trees, the flat plain and the far sea beyond it, morning.
+- 03:44  A woman in a plain robe standing alone in a field of stubble near the village, seen from behind, a tall bright figure far off across the field, hazy with light.
+- 04:29  The village in the hills.
+- 04:37  A young man with long braided hair seen from behind walking down a path through vineyards toward a Philistine town on the plain, afternoon.
+- 05:40  Wide fields of standing grain on the plain at dusk with lines of fire running through them, small figures far off, the sky orange and grey.
+- 06:23  The young man on the path to Timnah.
+- 06:41  Night: a lone figure seen from far behind carrying a huge city gate, doors and posts, up a long hill road under the moon.
+- 07:05  A green valley running down between low hills, vineyards on its floor, a stream, a house with a courtyard among the vines, evening.
+- 07:28  A lamp-lit room: a man with long braided hair asleep, his head on the lap of a seated woman, both seen from behind and in shadow, a doorway beyond with a figure waiting in it.
+- 08:13  The episode map: Gaza in gold on the coast, the road up to Zorah at two o'clock, Ashkelon, Jerusalem and Hebron.
+- 09:19  The room, asleep on her knees.
+- 09:28  The scroll.
+- 09:33  The scroll.
+- 10:26  The room, asleep on her knees.
+- 10:55  A dim stone prison room: a big man with a shaven head seen from behind, pushing the beam of a heavy round millstone in a circle, a chain from his ankles, one high small window.
+- 11:12  The room, asleep on her knees.
+- 11:44  The bronze shackles from episode 11.
+- 11:52  The prison mill.
+- 12:14  The prison mill.
+- 12:26  Looking down at the dirt floor of the prison: a circle worn deep by bare feet around the millstone, the chain lying in the groove, grain husks.
+- 12:43  A small high barred window in a thick stone wall from inside, bright daylight and dust through it, the suggestion of rooftops and sky beyond, nothing else.
+- 13:14  Close from behind: a big man's head and shoulders in the dim prison, dark hair grown long enough to lie on his shoulders, his hands on the mill beam ahead of him.
+- 13:26  The scroll.
+- 13:28  The scroll.
+- 14:18  The great hall from above: a flat roof crowded with people looking down through an opening into the lit hall below, the two pillars visible far down, night.
+- 14:44  Seen from behind and below: the man between the two pillars with one hand flat on each, his head bowed, the hall around him.
+- 15:10  A line of men seen from behind carrying a shrouded bier up a hill road at evening toward a small village, the plain behind them.
+- 15:26  The boy and the man at the pillars.
+- 15:46  Hands on the pillars.
+- 16:30  Carried home to Zorah.
+- 16:38  Brian's picture.
+- 16:40  Brian's picture.
+- 16:58  The room, asleep on her knees.
+- 17:36  An ancient stone quarry cut into a hillside, square blocks half cut from the rock, chisel marks, no people.
+- 18:09  Brian's picture.
+- 18:22  The worn circle on the prison floor.
+- 19:00  Brian's picture.
+- 19:16  Hair on his shoulders.
+- 19:36  Hands on the pillars.
+- 20:06  Matthew Henry's study, from episode 7: a desk, candle and open books.
+- 20:26  The room, asleep on her knees.
+- 20:56  Hair on his shoulders.
+- 21:24  Matthew Henry's study.
+- 21:39  Matthew Henry's study.
+- 21:53  Matthew Henry's study.
+- 22:28  Josephus writing in Rome, from episode 7.
+- 22:55  Carried home to Zorah.
+- 23:04  The quarry.
+- 24:14  The bronze shackles from episode 11.
+- 24:42  Jerusalem besieged at night, from episode 11.
+- 25:03  Hands on the pillars.
+- 25:09  A plain stone wall with six small carved niches in a row, each holding one unlit clay lamp, evening light raking across it.
+- 25:38  Carried home to Zorah.
+- 25:57  The scroll.
+- 26:02  The scroll.
+- 26:27  Hands on the pillars.
+- 26:49  Isaac in the tent, from episode 12.
+- 26:49  Jacob's crossed hands, from episode 13.
+- 27:02  The six lamps.
+- 27:13  Brian's picture.
+- 27:16  Brian's picture.
+- 27:38  The six lamps.
+- 27:48  The episode map.
+- 28:07  The six lamps.
+- 28:23  The temple court from episode 1, the man born blind.
+- 28:45  The scroll.
+- 28:55  The temple court from episode 1.
+- 29:19  Brian's picture.
+- 29:53  Isaac in the tent.
+- 29:59  Ahijah inside his house, from episode 15.
+- 30:05  Hands on the pillars.
+- 30:10  The bronze shackles.
+- 30:21  The temple court from episode 1.
+- 30:33  The six lamps.
+- 30:47  Brian's picture.
+- 31:03  Brian's picture.
+- 31:06  Brian's picture.
+- 31:22  Carried home to Zorah.
+- 31:46  Closing card background only: the road up from the coast into the hills at evening, a soft sky, the lower half calm for lettering.
+
+Scripture quotations are from the Holy Bible, Berean Standard Bible, BSB, public domain.
+Scenes introduced with the word 'imagine' are our own. Voices generated with ElevenLabs; mix by Brian Clark.
+Original music by Brian Clark, made with Suno. All rights held by the author.

@@ -13,6 +13,24 @@ FEED = "feed.xml"
 SITE = "https://blindnessinthebible.com/"
 
 ENTRIES = [
+    ("2026-11-23", "Pictures from the episodes on the six sight-lost pages",
+     "Zedekiah, Isaac, Jacob, Eli, Ahijah and Samson each now carry four paintings from their episode, under what led "
+     "up to it, what happens, in their shoes, and the place and the time, with the map after them. Every picture has "
+     "its words for the screen reader.", "stories/index.html"),
+    ("2026-11-23", "The Zedekiah, Isaac, Jacob and Samson pages, filled out after the series",
+     "The last four of the six to get the fuller treatment the Eli and Ahijah pages already had: how much each man "
+     "could see and the Hebrew word for it, where the day falls in his life, the senses, before and after, what came "
+     "of it, with the old books and the verses the episodes dug out, threads to the other pages and the words page, "
+     "and the rest of Brian's paragraphs from the episodes. Samson has the whole of his story now, from Zorah to the "
+     "pillars, and the figure between Samson and Zedekiah is five hundred years, corrected on the words page too.",
+     "stories/samson.html"),
+    ("2026-11-23", "Episode 16: Between the pillars",
+     "The last episode of the series on sight lost and not given back: Samson, blind in the hall at Gaza, asking the "
+     "boy to put him where he can feel the pillars. The whole of his story told fuller than before, Judges 16 word for "
+     "word, an imagined prison and the mill, Brian on losing his sight in the prime of life and the three years before "
+     "he knew what he was for, Matthew Henry on a man who was blind before his eyes were taken, the quarryman's word "
+     "naqar, and the bronze that ties Samson to Zedekiah. At the end of the six, the first verse this program ever "
+     "read, John 9:3. It plays on the Samson page and on the Episodes page.", "stories/samson.html"),
     ("2026-11-15", "The Ahijah page, filled out after the episode",
      "The order of verses 4, 5 and 6: blindness, the telling, the hearing. I have been sent to you. The chapter built on "
      "her feet, and what such and such means. The promise's second half, the calves, and the king who never sent until "

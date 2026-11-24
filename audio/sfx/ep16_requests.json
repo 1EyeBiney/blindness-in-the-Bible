@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "ep16/great_hall_feast_crowd",
+    "seconds": 22,
+    "variants": 3,
+    "influence": 0.5,
+    "loop": false,
+    "prompt": "Interior of a vast ancient stone hall packed with thousands of people feasting, a dense roar of laughter and shouting men and women, clay cups knocking, a hand drum beating somewhere in the crowd, reverberant stone acoustics, ancient Near East, no modern sounds, no music other than the drum, no clear words",
+    "use": "The opening hall at Gaza, four seconds alone then under the Narrator; again very low under Brian's first line at the end."
+  },
+  {
+    "slug": "ep16/boy_and_chained_man_walk_stone_stop",
+    "seconds": 12,
+    "variants": 3,
+    "influence": 0.55,
+    "loop": false,
+    "prompt": "Two people walking together on a flat stone floor toward the listener: a boy's quick light bare footsteps and a grown man's slow heavy dragging steps with a metal chain scraping and clinking on stone with every step, approaching, slowing, then both stop and the chain settles, silence after, no voices, no music, close perspective",
+    "use": "Samson led in by the boy across the hall, panned under the feast, stopping at the pillars."
+  },
+  {
+    "slug": "ep16/chained_man_walking_stone_steady",
+    "seconds": 22,
+    "variants": 3,
+    "influence": 0.55,
+    "loop": false,
+    "prompt": "One grown man walking slowly and steadily on a flat stone floor, heavy bare footsteps, a metal chain dragging and clinking on stone in rhythm with every step, even pace, no stop, close perspective, no voices, no music, no other people",
+    "use": "A longer steady walk for the pillars; speed up in Reaper for the steps quickening after the prayer."
+  },
+  {
+    "slug": "ep16/millstone_turning_with_chain",
+    "seconds": 22,
+    "variants": 3,
+    "influence": 0.55,
+    "loop": false,
+    "prompt": "A large ancient hand millstone turning slowly and steadily, heavy stone grinding on stone with a low rumble and grain crunching, a man's slow footsteps walking in a circle on a dirt floor with a metal chain dragging in rhythm, inside a stone room, steady and unbroken, no voices, no music",
+    "use": "Under the prison scene; repeat end to end in Reaper for a longer run."
+  },
+  {
+    "slug": "ep16/millstone_slows_and_stops",
+    "seconds": 10,
+    "variants": 3,
+    "influence": 0.55,
+    "loop": false,
+    "prompt": "A large ancient millstone grinding stone on stone, turning slowly, then slowing down over a few seconds and coming to a stop with a final heavy scrape, a chain settling, then silence in a stone room, no voices, no music",
+    "use": "The mill stopping at the end of the prison scene, before the footsteps come down and the door."
+  },
+  {
+    "slug": "ep16/footsteps_down_stone_stairs_door",
+    "seconds": 10,
+    "variants": 3,
+    "influence": 0.5,
+    "loop": false,
+    "prompt": "Two men in sandals walking down a stone staircase in an echoing stone building, steps approaching, then a heavy wooden door with an iron bolt is unbolted and pulled open with a creak, silence after, no voices, no music",
+    "use": "The guards come down for Samson; the door, if you can."
+  }
+]
